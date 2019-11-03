@@ -3,9 +3,30 @@ import os
 import re
 
 
+def funcion_busqueda(mystr,comp_dict):
+	paper=[]
+	string=re.split('\. [A-Z]',mystr)
+	for i in string:
+		sentence=i.split(" ")
+		paper.append(sentence)
 
-#def funcion_busqueda(mystr):
-#	mystr=re.split('\. [A-Z]',mystr)
+	asociaciones=[]
+	for word in comp_dict:
+		for sentence in paper:
+			for token in sentence:
+				if(word==token):
+					if sentence not in asociaciones:
+						asociaciones.append(sentence)
+
+
+	with open(os.path.join(args.outputPath,"Association_"+file), mode="w") as oFile:
+		for oracion in asociaciones:
+			for palabra in oracion:
+				oFile.write("{} ".format(palabra))
+			oFile.write("\n")
+
+
+	
 
 
 
@@ -17,7 +38,12 @@ if __name__ == '__main__':
 	
 	parser.add_argument('--path', dest='myPath', required=True, help='Ingrese la ruta del directorio de entrada.')
 	parser.add_argument('--outputpath', dest='outputPath', required=True,help='Ingrese la ruta del archivo de salida junto con su nombre y extension.')
+	parser.add_argument('--dict',dest='dictionary',required=True,help='Ingrese la ruta del diccionario.')
 	args=parser.parse_args()
+
+	with open(args.dictionary) as Dict:
+		comp_dict=Dict.readlines()
+		comp_dict=[x.replace('\n', '').replace(' ', '') for x in comp_dict]
 
 
 	lista=[]
@@ -27,14 +53,14 @@ if __name__ == '__main__':
 				with open(os.path.join(path,file),mode='r') as iFile:
 					lines=iFile.readlines()
 					mystr=' '.join([line.strip() for line in lines])
-					#lista.append(mystr)
+					funcion_busqueda(mystr,comp_dict)
 
-	#mystr=re.split('\. [A-Z]',mystr)
-	#print(len(mystr))
+
+
+
+
 
 	
-	with open(os.path.join(args.outputPath,"Gelria.txt"), mode="w") as oFile:
-		oFile.write("{}".format(mystr))
 
 
 
