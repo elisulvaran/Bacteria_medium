@@ -1,0 +1,186 @@
+Journal of Biotechnology 210 (2015) 83–84
+
+Contents lists available at ScienceDirect
+
+Journal of Biotechnology
+journal homepage: www.elsevier.com/locate/jbiotec
+
+Genome announcements
+
+Complete genome sequence of the glidobactin producing strain
+[Polyangium] brachysporum DSM 7029
+Biao Tang a,1 , Yucong Yu a,1 , Youming Zhang c,∗ , Guoping Zhao a,b,∗ , Xiaoming Ding a,∗
+a
+Collaborative Innovation Center for Genetics and Development, State Key Laboratory of Genetic Engineering, Department of Microbiology, School of Life
+Sciences, Fudan University, Shanghai, China
+b
+CAS Key Laboratory of Synthetic Biology, Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of
+Sciences, Shanghai, China
+c
+Shandong University-Helmholtz Institute of Biotechnology, State Key Laboratory of Microbial Technology, School of Life Science, Shandong University,
+Zhuzhou Road 168, Qingdao, China
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 19 June 2015
+Accepted 23 June 2015
+Available online 30 June 2015
+Keywords:
+DSM 7029
+Genome sequence
+Glidobactin
+
+a b s t r a c t
+[Polyangium] brachysporum DSM7029 can produce glidobactin, which is a peptide-based proteasome
+inhibitor that shows great potential as an anticancer drug. To better understand the glidobactin biosynthesis mechanism and to aid further studies of this strain, we report the annotated complete genome
+sequence of DSM7029, which is 6,476,147 bp in length.
+© 2015 Published by Elsevier B.V.
+
+[Polyangium] brachysporum DSM 7029 (=K481-B101 = ATCC
+53,080) was ﬁrst isolated from a soil sample in Greece (Oka et al.,
+1988). This taxonomic name was not validly published at the time
+of submission of the corresponding sequence entry or entries. Phylogenetic analysis of the 16S ribosomal rRNA gene of strain DSM
+7029 indicates that “Polyangium brachysporum” was misclassiﬁed
+and should be placed in the Burkholderiales (Schellenberg et al.,
+2007). Strain DSM 7029 can produce a novel type of antifungal and
+antitumor antibiotic complex, consisting of glidobactins A–C (Oka
+et al., 1988), which are hybrid nonribosomal peptide synthetasepolyketide synthase (NRPS-PKS) natural products, as proteasome
+inhibitors (Bian et al., 2014; Imker et al., 2010). Glidobactins
+are acylated tripeptide derivatives that contain a 12-membered
+ring structure consisting of two unique non-proteinogenic amino
+acids, erythro-4-hydroxy-l-lysine and 4(S)-amino-2(E)-pentenoic
+acid (Schellenberg et al., 2007). A structural difference between
+glidobactins A–C was found only in their acyl side chain moiety
+(Numata et al., 1988).
+A total of 256,538 reads were generated using a Roche 454
+GS FLX Titanium system and they were assembled using the
+
+∗ Corresponding authors.
+E-mail addresses: zhangyouming@sdu.edu.cn (Y. Zhang), gpzhao@sibs.ac.cn
+(G. Zhao), xmding74@fudan.edu.cn (X. Ding).
+1
+These authors contributed equally to this study.
+http://dx.doi.org/10.1016/j.jbiotec.2015.06.417
+0168-1656/© 2015 Published by Elsevier B.V.
+
+Newbler Program (version 2.7), which resulted in 71 contigs
+(>500 bp) with an average size of 90,653 bp. The relationship
+among contigs was displayed using ContigScape (Tang et al., 2013)
+and conﬁrmed by PCR. Sanger-based sequencing was employed
+to facilitate gap closing and to amend the low-quality regions
+(scores <25). The ﬁnal sequence assembly was conducted using
+the Phred/Phrap/Consed package. Finally, a consensus circular
+sequence containing 6476,147 bp, with an estimated error rate
+of <0.5 per 100,000 bases and providing 20.2-fold coverage, was
+acquired.
+Open reading frames (ORFs) were predicted by Glimmer 3.02
+and GeneMark. The CDS annotation was based on the BLASTP
+results obtained with the KEGG, NR databases and RAST server
+(Aziz et al., 2008). At last, the annotation was checked by the NCBI
+Prokaryotic Genomes Annotation Pipeline and manual correction
+was also implemented. The average GC content of the chromosome
+is 67.51%. The entire genome contains 5557 coding sequences, with
+an average length of 1018 bp, 66 tRNA genes, and three complete
+rRNA operons. Among the coding sequences (CDSs), biological functions could be deﬁned for 3999 (71.96%) of the predicted proteins,
+while the other 1558 hypothetical proteins (28.04%) are homologous to conserved proteins of unknown function in other organisms
+or have no match to any known proteins in the databases. Altogether, the CDSs and stable RNA genes represent 87.4% and 0.29%
+of the genome, respectively. The genome features of DSM 7029 are
+summarized in Table 1.
+
+84
+
+B. Tang et al. / Journal of Biotechnology 210 (2015) 83–84
+
+Table 1
+Genome features of [Polyangium] brachysporum DSM 7029.
+
+Acknowledgement
+
+Features
+
+Genome
+
+Length (bp)
+G + C content (%)
+CDSs
+Protein coding genes with function prediction
+rRNA operons
+tRNA
+Gene clusters
+
+6,476,147
+67.51
+5557
+3999
+3
+66
+14
+
+Glidobactin biosynthesis in DSM 7029 involves eight genes
+(glbA-glbH). glbF and glbC encode a NRPS and a hybrid NRPS-PKS,
+respectively, and they are required for the biosynthesis of the
+tripeptide portion of glidobactins. We found that the glidobactin
+gene cluster was located in the genome from nucleotides 2696,902
+to 2675,407. The potential of DSM 7029 to produce secondary
+metabolites was analyzed with the secondary metabolites predict
+tool antiSMASH (Blin et al., 2013). There may be 14 putative gene
+clusters involved in the biosynthesis of different natural products
+(Table 1). Among the clusters, three encode NRPSs, two encode
+hybrid NRPS-PKSs, one encodes a type I PKS, one is involved in
+the biosynthesis of terpene, two are involved in the biosynthesis
+of hserlactone, one is involved in lantipeptide production, one is
+involved in ladderane production, one is involved in butyrolactone
+production, one is involved in bacteriocin production, and one is
+involved in the biosynthesis of aryl-polyene. Additionally, several
+proteins have been shown to contribute to resistance against betalactam antibiotics. The genome sequence has a 20.3% DNA–DNA
+hybridization (DDH) (Auch et al., 2010) value and a 75.13% average
+nucleotide identity (ANI) (Richter and Rossello-Mora, 2009) value
+vs. the closest complete genome Methylibium petroleiphilum PM1.
+Nucleotide sequence accession number
+The genome sequence of [Polyangium] brachysporum DSM 7029
+in this project has been deposited in the GenBank/EMBL/DDBJ
+database under accession number CP011371.
+
+This work was supported by grants from the National Basic
+Research Program of China [2012CB721102] and Natural Science
+Foundation for the Youth[31300034].
+References
+Auch, A.F., Klenk, H.P., Goker, M., 2010. Standard operating procedure for
+calculating genome-to-genome distances based on high-scoring segment
+pairs. Stand. Genomic Sci. 2, 142–148.
+Aziz, R.K., Bartels, D., Best, A.A., DeJongh, M., Disz, T., Edwards, R.A., Formsma, K.,
+Gerdes, S., Glass, E.M., Kubal, M., Meyer, F., Olsen, G.J., Olson, R., Osterman, A.L.,
+Overbeek, R.A., McNeil, L.K., Paarmann, D., Paczian, T., Parrello, B., Pusch, G.D.,
+Reich, C., Stevens, R., Vassieva, O., Vonstein, V., Wilke, A., Zagnitko, O., 2008.
+The RAST server: rapid annotations using subsystems technology. BMC
+Genomics 9, 75.
+Bian, X., Huang, F., Wang, H., Kleﬁsch, T., Muller, R., Zhang, Y., 2014. Heterologous
+production of glidobactins/luminmycins in E. coli Nissle containing the
+glidobactin biosynthetic gene cluster from Burkholderia DSM7029.
+Chembiochem 15, 2221–2224.
+Blin, K., Medema, M.H., Kazempour, D., Fischbach, M.A., Breitling, R., Takano, E.,
+Weber, T., 2013. antiSMASH 2.0—a versatile platform for genome mining of
+secondary metabolite producers. Nucleic Acids Res. 41, W204–W212.
+Imker, H.J., Krahn, D., Clerc, J., Kaiser, M., Walsh, C.T., 2010. N-acylation during
+glidobactin biosynthesis by the tridomain nonribosomal peptide synthetase
+module GlbF. Chem. Biol. 17, 1077–1083.
+Numata, K., Murakami, T., Oka, M., Yamamoto, H., Hatori, M., Miyaki, T., Oki, T.,
+Kawaguchi, H., 1988. Enhanced production of the minor components of
+glidobactins in Polyangium brachysporum. J. Antibiot. (Tokyo) 41, 1358–1365.
+Oka, M., Nishiyama, Y., Ohta, S., Kamei, H., Konishi, M., Miyaki, T., Oki, T.,
+Kawaguchi, H., 1988. Glidobactins A–C, new antitumor antibiotics. I.
+Production, isolation, chemical properties and biological activity. J. Antibiot.
+(Tokyo) 41, 1331–1337.
+Richter, M., Rossello-Mora, R., 2009. Shifting the genomic gold standard for the
+prokaryotic species deﬁnition. Proc. Natl. Acad. Sci. U. S. A. 106, 19126–19131.
+Schellenberg, B., Bigler, L., Dudler, R., 2007. Identiﬁcation of genes involved in the
+biosynthesis of the cytotoxic compound glidobactin from a soil bacterium.
+Environ. Microbiol. 9, 1640–1650.
+Tang, B., Wang, Q., Yang, M., Xie, F., Zhu, Y., Zhuo, Y., Wang, S., Gao, H., Ding, X.,
+Zhang, L., Zhao, G., Zheng, H., 2013. ContigScape: a Cytoscape plugin
+facilitating microbial genome gap closing. BMC Genomics 14, 289.
+
+

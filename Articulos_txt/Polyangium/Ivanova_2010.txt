@@ -1,0 +1,1048 @@
+Standards in Genomic Sciences (2010) 2:96-106
+
+DOI:10.4056/sigs.69.1277
+
+Complete genome sequence of Haliangium ochraceum
+type strain (SMP-2T)
+Natalia Ivanova1, Chris Daum1, Elke Lang2, Birte Abt2, Markus Kopitz2, Elizabeth Saunders3,
+Alla Lapidus1, Susan Lucas1, Tijana Glavina Del Rio1, Matt Nolan1, Hope Tice1, Alex
+Copeland1, Jan-Fang Cheng1, Feng Chen1, David Bruce1,3, Lynne Goodwin1,3, Sam Pitluck1,
+Konstantinos Mavromatis1, Amrita Pati1, Natalia Mikhailova1, Amy Chen4, Krishna
+Palaniappan4, Miriam Land1,5, Loren Hauser1,5, Yun-Juan Chang1,5, Cynthia D. Jeffries1,5, John
+C. Detter1,3, Thomas Brettin1,3, Manfred Rohde6, Markus Göker2, Jim Bristow1, Victor
+Markowitz4, Jonathan A. Eisen1,7, Philip Hugenholtz1, Nikos C. Kyrpides1, and Hans-Peter
+Klenk2*
+1
+
+DOE Joint Genome Institute, Walnut Creek, California, USA
+DSMZ – German Collection of Microorganisms and Cell Cultures GmbH, Braunschweig,
+Germany
+3
+Los Alamos National Laboratory, Bioscience Division, Los Alamos, New Mexico, USA
+4
+Biological Data Management and Technology Center, Lawrence Berkeley National
+Laboratory, Berkeley, California, USA
+5
+Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA
+6
+HZI – Helmholtz Centre for Infection Research, Braunschweig, Germany
+7
+University of California Davis Genome Center, Davis, California, USA
+2
+
+*Corresponding author: Hans-Peter Klenk
+Keywords: aerobic, gliding, myxobacteria, fruiting bodies, moderately halophilic, mesophile,
+Gram-negative, decomposition of bacterial and yeast cells, Myxococcales, GEBA.
+Haliangium ochraceum Fudou et al. 2002 is the type species of the genus Haliangium in the
+myxococcal family ‘Haliangiaceae’. Members of the genus Haliangium are the first halophilic
+myxobacterial taxa described. The cells of the species follow a multicellular lifestyle in highly
+organized biofilms, called swarms, they decompose bacterial and yeast cells as most
+myxobacteria do. The fruiting bodies contain particularly small coccoid myxospores. H.
+ochraceum encodes the first actin homologue identified in a bacterial genome. Here we
+describe the features of this organism, together with the complete genome sequence, and annotation. This is the first complete genome sequence of a member of the myxococcal
+suborder Nannocystineae, and the 9,446,314 bp long single replicon genome with its 6,898
+protein-coding and 53 RNA genes is part of the Genomic Encyclopedia of Bacteria and
+Archaea project.
+
+Introduction
+
+Strain SMP-2T (DSM 14365 = CIP 107738 = JCM
+11303) is the type strain of the species Haliangium ochraceum and was first described in 2002
+by Fudou et al. [1]. In 1998 strain SMP-2T was described as swarming myxobacteria-like microorganism isolated from a dry seaweed sample (Laminariales)with optimum growth at NaCl concentrations of 2%. The attempt to isolate halophilic
+myxobacteria was initiated by the detection of
+myxobacterial phylotypes in marine sediments
+[2]. A second species of the genus Haliangium, H.
+
+tepidum, was described along with H. ochraceum
+[1].
+Only two other genera of marine myxobacteria,
+each comprising one species, have been described
+to date: Plesiocystis pacifica and Enhygromyxa salina [3,4]. All marine myxobacteria are phylogenetically grouped within one of the three suborders within the order Myxococcales, the Nannocystineae. INSDC databases indicate (as of December
+2009) that members of Haliangium are very rare
+in the environment, with the most closely related
+The Genomic Standards Consortium
+
+Haliangium ochraceum type strain (SMP-2T)
+
+16S rRNA gene sequences from uncultured bacteria being less than 94% similar to H. ochraceum SMP-2T.
+
+Classification and features
+
+At the time of species description of the two Haliangium species, the most similar 16S rRNA gene
+sequence from cultivated strains originated from
+strain Pl vt1T. This strain was published with the
+name Polyangium vitellinum [5], hence the accession entry of its sequence (AJ233944) was also
+registered with this species name up to November
+2009. However, Reichenbach perceived that these
+organisms meet perfectly Kofler’s description of
+“Polyangium flavum”, but do not conform to the
+description of the genus Polyangium. Thus Reichenbach revived Kofler’s “Polyangium flavum” in
+a new genus, Kofleria, and designated strain Pl
+vt1T the type strain of the species Kofleria flava
+[6]. Subsequently, the species name was changed
+in the Genbank entry for AJ233944. The 16S rRNA
+gene sequences of the two Haliangium species
+were less than 94% similar to this nearest neighbor [1], and thus far no sequences of cultivated or
+uncultivated bacteria with higher similarities to
+SMP-2T were deposited in GenBank.
+In 2005, the family Kofleriaceae was created by
+Reichenbach, containing the single species K. flava
+[6], and the author mentioned in a note added
+during the edition of Bergey’s Manual that he regarded the two Haliangium species as members of
+the family Kofleriaceae. This family name has
+standing in nomenclature [7]. Albeit, Haliangium
+ochraceum is listed in the Taxonomic Outline of
+the Prokaryotes [8] as member of the family “Haliangiaceae”, that has no standing in nomenclature. From a phylogenetic point of view, the genera Kofleria (terrestrial) and Haliangium (marine)
+should be members of a single family.
+Myxobacteria are distinct because of two exceptional features. The first is their high potential to
+produce secondary metabolites, most of them affecting prokaryotic or eukaryotic cells and hence
+awaiting exploitation for pharmaceutical applications or in plant protection. They encode genes for
+key enzymes in the biosynthesis of polyketide and
+peptide metabolites, polyketide synthases and
+nonribosomal peptide synthetases, respectively
+[9]. Their second distinctive characteristic is their
+morphogenesis, i.e. the formation of fruiting bodies and development of myxospores, that is
+based on cell-to-cell signaling among the single
+cells of the population in a swarm. The genetic
+background of the so called ‘social motility’ and
+97
+
+morphogenesis is understood best for Myxococcus
+xanthus [10]. It is no surprise that these phenomena are regulated by sophisticated networks
+including two-component regulatory systems
+[11].
+Figure 1 shows the phylogenetic neighborhood of
+H. ochraceum SMP-2T in a 16S rRNA based tree.
+The sequences of the two 16S rRNA gene copies in
+the genome of do not differ from each other, and
+do not differ from the previously published 16S
+rRNA sequence of DSM 14365 (AB016470).
+Vegetative cells of H. ochraceum stain Gramnegative and form cylindrical rods with blunt ends
+(Table 1). They are embedded in an extracellular
+matrix and measure 0.5-0.6 by 3-8 µm (Figure 2).
+This cell form is characteristic for members of the
+suborder Nannocystineae [6]. The colonies exhibit
+spreading on solid surfaces such as agar as filmlike layers and thus are called ‘swarms’. The extending motion is propelled by gliding. On aging
+culture plates, the cells do no more spread to explore new substrates (so called adventurous or A
+motility) but also gather on specific points of the
+swarms to form fruiting bodies (social or S motility) [10]. The fruiting bodies of strain SMP-2T are
+light yellow to yellowish-brown, irregular, sessile
+knobs with a diameter of 50-200 µm and contain
+one or more oval-shaped sporangioles, each 20-60
+µm in size [1,2]. The spherical to ovoid myxospores within the sporangioles measure 0.5-0.7 µm.
+Thus they resemble the myxospores of Nannocystis species in being very tiny [1]. The myxospores
+tolerate heat treatment at 55-60°C for 5 minutes
+and storage in a desiccated stage for at least 3
+months [23].
+The strain requires NaCl for growth with an optimum concentration of 2% and good growth in the
+range of 0.5-4% NaCl in agar or in liquid medium
+[1,2,23]. Fruiting body formation was observed at
+salt concentrations corresponding to 40-100% sea
+water concentration but not at lower salt concentrations [23]. Media supporting growth are CY
+medium, diluted 1:5, (DSMZ medium 67) or VY/2
+medium (DSMZ medium 9) [26], each supplemented with seawater salts. No growth was obtained in tryptic soy broth with seawater salts [1].
+Corresponding to the multicellular lifestyle, new
+agar or liquid cultures of strain SMP-2T can only
+be successfully started with very high inoccula.
+The minimum cell load on a plate in order to induce a swarm is 105 [23]. The temperature range
+for growth is 20-40°C with an optimum at 30-34°C [1].
+Standards in Genomic Sciences
+
+Ivanova et al.
+
+Figure 1. Phylogenetic tree highlighting the position of H. ochraceum SMP-2T relative to the other type strains within the genus and the type strains of the other genera within the order Myxococcales. The tree was inferred from
+1,463 aligned characters [12,13] of the 16S rRNA gene sequence under the maximum likelihood criterion [14] and
+rooted in accordance with the current taxonomy. The branches are scaled in terms of the expected number of
+substitutions per site. Numbers above branches are support values from 1,000 bootstrap replicates if larger than
+60%. Lineages with type strain genome sequencing projects registered in GOLD [15] are shown in blue, published
+genomes in bold.
+
+Cells of strain SMP-2T are strictly aerobic with
+weak oxidase and catalase reactions. They do not
+grow in mineral media with carbohydrates or organic acids but are specialized decomposers of
+macromolecules such as starch, DNA, casein, chitin
+or gelatin. Cellulose, however is not cleaved. The
+cells are equipped to decompose cells of other
+bacteria or yeasts [1]. Correspondingly, enzymes
+such as lipase (C14), trypsin, chymotrypsin, valine
+or leucine arylamidases are active [1]. Whether or
+not H. ochraceum actively hunt for prey bacteria
+as shown for M. xanthus [27] has not been studied
+yet.
+
+Chemotaxonomy
+
+The fatty acid profile of strain SMP-2T reveals saturated straight chain C16:0 (38.3%) and branched
+chain iso-C16:0 (15.3%) acids as the major fatty acids. No hydroxylated fatty acids were detected, a
+feature shared with members of the genera Nannocystis, Sorangium [1], Plesiocystis [4] and Enhygromyxa [3]. While the two Haliangium species
+http://standardsingenomics.org
+
+also contain anteiso-branched fatty acids as distinctive compounds [1], the specific feature of the
+two other marine genera Plesiocystis and Enhygromyxa is the presence of polyunsaturated C20:4
+acids [3,4]. A novel pathway for the biosynthesis
+of iso-even fatty acids (by α-oxidation of iso-odd
+fatty acids) was detected for the myxobacterium
+Stigmatella aurantiaca [28]. In members of the
+genus Nannocystis and Polyangium, true steroids
+were detected, a very unusual trait among prokaryotes [6,29]. It would be interesting to study
+whether these pathways are also found in H. ochraceum.
+MK-8 is the predominant menaquinone in SMP-2T
+as it is in all terrestrial myxobacterial taxa studied
+[1,29]. It is noteworthy that the members of the
+other marine genera Plesiocystis and Enhygromyxa
+contain MK-8(H2) and MK-7, respectively [3,4].
+The compositions of polyamines and the polar lipids of Haliangium strains have not been
+analyzed.
+98
+
+Haliangium ochraceum type strain (SMP-2T)
+
+Table 1. Classification and general features of H. ochraceum SMP-2T according to the MIGS recommendations [16]
+MIGS ID
+Property
+Term
+Evidence code
+TAS
+[17]
+Domain Bacteria
+TAS [18]
+Phylum Proteobacteria
+TAS [19]
+Class Deltaproteobacteria
+Order Myxococcales
+
+TAS [20,21]
+
+Gram stain
+Cell shape
+Motility
+Sporulation
+Temperature range
+Optimum temperature
+
+Suborder Nannocystineae
+Family ‘Haliangiaceae’/Kofleriaceae
+Genus Haliangium
+Species Haliangium ocharaceum
+Type strain SMP-2
+negative
+rods
+gliding
+myxospores
+mesophile, 20-40°C
+30-34°C
+
+TAS [6,22]
+TAS [6,8]
+TAS [1]
+TAS [1]
+TAS [1]
+TAS [1]
+TAS [1]
+TAS [1]
+TAS [1]
+TAS [1]
+TAS [1]
+
+Salinity
+
+halophile, optimum 2% NaCl
+
+TAS [1]
+
+tolerates up to 6% NaCl
+
+TAS [2,23]
+
+strictly aerobic
+macromolecules such as proteins
+chemoorganotrophic
+marine
+isolated from seaweed
+non pathogenic
+1
+dry sample of seaweed (Laminariales)
+Miura Peninsula, Japan
+1997
+
+TAS [1]
+TAS [1]
+TAS [1]
+TAS [1,23]
+TAS [2]
+NAS
+TAS [24]
+TAS [1]
+TAS [2]
+TAS [2]
+
+35.259, 139.629
+
+NAS
+
+Current classification
+
+MIGS-22
+
+MIGS-6
+MIGS-15
+MIGS-14
+
+MIGS-4
+MIGS-5
+MIGS-4.1
+MIGS-4.2
+MIGS-4.3
+MIGS-4.4
+
+Oxygen requirement
+Carbon source
+Energy source
+Habitat
+Biotic relationship
+Pathogenicity
+Biosafety level
+Isolation
+Geographic location
+Sample collection time
+Latitude,
+Longitude
+Depth
+Altitude
+
+not reported
+sea-level
+
+Evidence codes - IDA: Inferred from Direct Assay (first time in publication); TAS: Traceable Author
+Statement (i.e., a direct report exists in the literature); NAS: Non-traceable Author Statement (i.e., not directly observed for the living, isolated sample, but based on a generally accepted property for the species, or
+anecdotal evidence). These evidence codes are from of the Gene Ontology project [25]. If the evidence
+code is IDA, then the property was directly observed for a live isolate by one of the authors or an expert
+mentioned in the acknowledgements.
+
+Genome sequencing and annotation
+Genome project history
+
+This organism was selected for sequencing on the
+basis of its phylogenetic position, and is part of the
+Genomic Encyclopedia of Bacteria and Archaea
+project [30]. The genome project is deposited in
+99
+
+the Genome OnLine Database [15] and the complete genome sequence is deposited in GenBank.
+Sequencing, finishing and annotation were performed by the DOE Joint Genome Institute (JGI). A
+Standards in Genomic Sciences
+
+Ivanova et al.
+
+summary of the project information is shown in
+Table 2.
+
+Growth conditions and DNA isolation
+
+H. ochraceum SMP-2T, DSM 14365, was grown in
+CY medium with seawater salts (in grams per liter: casitone 3.0, yeast extract 1.0, NaCl 21.1, KCl
+
+0.6, CaCl2 × 2 H2O 1.2, MgCl2 × 6 H2O 3.6, NaHCO3
+0.09, MgSO4 × 7H2O 2.6, agar 15 g) [26] at 28°C.
+DNA was isolated from 0.5-1 g of cell paste using
+Qiagen Genomic 500 DNA Kit (Qiagen, Hilden,
+Germany), with a modified protocol for cell lysis
+(st/LALMP), as described in Wu et al. [30].
+
+Figure 2. Scanning electron micrograph of H. ochraceum SMP-2T
+
+Genome sequencing and assembly
+
+The genome was sequenced using a combination
+of Sanger and 454 sequencing platforms. All general aspects of library construction and sequencing performed at the JGI can be found at the JGI
+website (http://www.jgi.doe.gov/). 454 Pyrosequencing reads were assembled using the Newbler assembler version 1.1.02.15 (Roche). Large
+Newbler contigs were broken into 10,273 overlapping fragments of 1,000 bp and entered into
+the final assembly as pseudo-reads. The sequences
+were assigned quality scores based on Newbler
+consensus q-scores with modifications to account
+for overlap redundancy and to adjust inflated qscores. A hybrid 454/Sanger assembly was made
+using the parallel phrap assembler (High Performance Software, LLC). Possible mis-assemblies
+were corrected with Dupfinisher or transposon
+bombing of bridging clones [31]. Gaps between
+contigs were closed by editing in Consed, custom
+primer walk or PCR amplification. A total of 2,013
+Sanger finishing reads were produced to close
+gaps, to resolve repetitive regions, and to raise the
+quality of the finished sequence. The error rate of
+the completed genome sequence is less than 1 in
+100,000. Together all sequence types provided
+http://standardsingenomics.org
+
+24.3× coverage of the genome. The final assembly
+contains 90,757 Sanger and 689,516 pyrosequencing reads.
+
+Genome annotation
+
+Genes were identified using Prodigal [32] as part
+of the Oak Ridge National Laboratory genome annotation pipeline, followed by a round of manual
+curation using the JGI GenePRIMP pipeline
+(http://geneprimp.jgi-psf.org/) [33]. The predicted CDSs were translated and used to search
+the National Center for Biotechnology Information
+(NCBI) nonredundant database, UniProt, TIGRFam, Pfam, PRIAM, KEGG, COG, and InterPro databases. Additional gene prediction analysis and
+functional annotation was performed within the
+Integrated Microbial Genomes - Expert Review
+(http://img.jgi.doe.gov/er) platform [34].
+
+Genome properties
+
+The genome is 9,446,314 bp long and comprises
+one main circular chromosome with a 69.5% GC
+content (Table 3 and Figure 3). Of the 6,951 genes
+predicted, 6,898 were protein coding genes, and
+53 RNAs. Fifty-three pseudogenes were also identified. The majority of the protein-coding genes
+100
+
+Haliangium ochraceum type strain (SMP-2T)
+
+(62.1%) were assigned with a putative function
+while the remaining ones were annotated as
+hypothetical proteins. The percentage of genes
+which were not assigned to COGs is relatively
+high, 42%, a proportion similar to that in the ge-
+
+Table 2. Genome sequencing project information
+MIGS ID
+Property
+Finishing quality
+MIGS-31
+MIGS-28
+
+Libraries used
+
+MIGS-29
+MIGS31.2
+MIGS-30
+MIGS-32
+
+Sequencing platforms
+
+Term
+Finished
+Two Sanger genomic libraries – 6 kb
+pMCL200 and fosmid pcc1Fos and one
+454 pyrosequencing standard library
+ABI3730, 454 GS FLX
+
+Sequencing coverage
+
+7.8× Sanger; 16.5× pyrosequence
+
+Assemblers
+Gene calling method
+INSDC ID
+Genbank Date of Release
+GOLD ID
+NCBI project ID
+Database: IMG-GEBA
+Source material identifier
+Project relevance
+
+Newbler version 1.1.02.15, phrap
+Prodigal, GenePRIMP
+CP001804
+October 28, 2009
+Gc01135
+41425
+2502082105
+DSM 14365
+Tree of Life, GEBA
+
+MIGS-13
+
+Starting from one of the conspicuous features of
+the myxobacteria, the diversity of secondary metabolism, the number of known genes putatively
+assigned to the COG category “Secondary metabolites biosynthesis, transport and catabolism” is not
+exceptionally high: 174 genes in comparison to,
+for example, 136 genes in Pseudomonas putida F1.
+The number of COG genes involved in “Replication, recombination and repair”, however, are remarkably increased: in H. ochraceum: 439 genes
+were assigned to this category, in S. cellulosum
+there are 541, whereas P. putida only contains 157
+genes assigned to this category.
+
+Insights from genome sequence
+
+The genomes of two other myxobacteria, M. xanthus DK1622 and S. cellulosum strain So ce56,
+were analyzed in depth [11,35-37] and may serve
+as a roadmap to explore the genome of strain
+SMP-2T.
+Sixteen genes of strain SMP-2T were putatively
+assigned to the COG category ‘Cytoskeleton’. Recognizing that almost all other bacteria do not
+101
+
+nome of Sorangium cellulosum So ce56 [11]. This
+fact suggests that the genome harbors many yet
+unknown genes. The distribution of genes into
+COGs functional categories is presented in Table 4.
+
+harbor any genes assigned to this category it is
+worth mentioning that all myxobacterial genomes
+studied so far include several copies in this category. Fifteen of the cytoskeleton genes of SMP-2T
+belong to COG 5184 ’Alpha-tubulin suppressor
+and related RCC1 domain-containing proteins‘.
+Strain SMP-2T and P. pacifica, another rare marine
+myxobacterium, together with Salinispora arenicola are the prokaryotes with the highest degree of
+similarity of these genes, 15, 12, 14 and 15, respectively. Whereas RCC1 was known as a eukaryotic cell cycle regulator, RCC1-like repeats were
+recently also detected in several prokaryotic genomes [38]. Future studies will have to elucidate
+whether the SMP-2T sequences, automatically assigned to a RCC1 domain, are related to these repeats in particular. As the genes most similar to
+the H. ochraceum RCC1-like proteins, as determined by protein BLAST with the NCBI database,
+derive exclusively from other myxobacteria such
+as P. pacifica or Stigmatella aurantiaca, it seems
+plausible that they build a myxobacterial branch
+within the RCC1 superfamily.
+Standards in Genomic Sciences
+
+Ivanova et al.
+Table 3. Genome Statistics
+Attribute
+Genome size (bp)
+DNA coding region (bp)
+DNA G+C content (bp)
+Number of replicons
+Extrachromosomal elements
+Total genes
+RNA genes
+rRNA operons
+Protein-coding genes
+Pseudo genes
+Genes with function prediction
+Genes in paralog clusters
+Genes assigned to COGs
+Genes assigned Pfam domains
+Genes with signal peptides
+Genes with transmembrane helices
+CRISPR repeats
+
+Value
+9,446,314
+8,424,350
+6,563,619
+1
+0
+6,951
+53
+2
+6,898
+53
+4,318
+1,329
+4,036
+4,167
+1,786
+1,371
+3
+
+% of Total
+100.00%
+89.18%
+69.48%
+
+100.00%
+0.76%
+99.24%
+0.76%
+62.12%
+19.12%
+58.06%
+59.95%
+25.69%
+19.72%
+
+Figure 3. Graphical circular map of the genome. From outside to the center: Genes on
+forward strand (color by COG categories), Genes on reverse strand (color by COG categories), RNA genes (tRNAs green, rRNAs red, other RNAs black), GC content, GC skew.
+http://standardsingenomics.org
+
+102
+
+Haliangium ochraceum type strain (SMP-2T)
+Table 4. Number of genes associated with the general COG functional categories
+Code
+
+Value
+
+%age
+
+182
+
+2.6
+
+Translation, ribosomal structure and biogenesis
+
+A
+
+2
+
+0.0
+
+RNA processing and modification
+
+K
+
+488
+
+7.1
+
+Transcription
+
+L
+
+439
+
+6.4
+
+Replication, recombination and repair
+
+B
+
+3
+
+0.0
+
+Chromatin structure and dynamics
+
+D
+
+54
+
+0.8
+
+Cell cycle control, mitosis and meiosis
+
+Y
+
+0
+
+0.0
+
+Nuclear structure
+
+V
+
+83
+
+1.2
+
+Defense mechanisms
+
+T
+
+549
+
+8.0
+
+Signal transduction mechanisms
+
+M
+
+250
+
+3.6
+
+Cell wall/membrane biogenesis
+
+N
+
+55
+
+0.8
+
+Cell motility
+
+Z
+
+16
+
+0.2
+
+Cytoskeleton
+
+W
+
+0
+
+0.0
+
+Extracellular structures
+
+U
+
+89
+
+1.3
+
+Intracellular trafficking and secretion
+
+O
+
+194
+
+2.8
+
+Posttranslational modification, protein turnover, chaperones
+
+C
+
+265
+
+3.8
+
+Energy production and conversion
+
+G
+
+186
+
+2.7
+
+Carbohydrate transport and metabolism
+
+E
+
+308
+
+4.5
+
+Amino acid transport and metabolism
+
+F
+
+78
+
+1.1
+
+Nucleotide transport and metabolism
+
+H
+
+183
+
+2.7
+
+Coenzyme transport and metabolism
+
+I
+
+204
+
+3.0
+
+Lipid transport and metabolism
+
+P
+
+163
+
+2.4
+
+Inorganic ion transport and metabolism
+
+Q
+
+174
+
+2.5
+
+Secondary metabolites biosynthesis, transport and catabolism
+
+R
+
+754
+
+10.9
+
+S
+
+332
+
+4.8
+
+-
+
+2915
+
+42.3
+
+J
+
+Description
+
+General function prediction only
+Function unknown
+Not in COGs
+
+The most striking finding in the H. ochraceum genome was a sequence coding for a protein of the
+actin family (COG 5277) within the Cytoskeleton
+category [30]. Only eight years ago, it became obvious that bacterial cells contain a cytoskeleton at
+least as active as in eukaryotic cells. The bacterial
+functional and structural homologues to the eukaryotic actin compound are the proteins MreB and
+ParM [39]. However, the prokaryotic and eukaryotic genes coding for these proteins, or their amino
+acid sequences, are not related on the sequence
+level. In contrast, the sequence detected in H. ochraceum shows a striking sequence similarity to
+actin and is the very first report of an actin homolog in a bacterial genome. The protein was called
+BARP, bacterial actin-related protein. The genomic
+103
+
+context of barP, its sequence, the putative structure of the protein and evidence that the gene is
+expressed were recently described by Wu et al.
+[30]. Interestingly, several hits for proteins of the
+actin family are given for Archaea by IMG.
+Myxobacteria became known for their potential to
+synthesize a vast array of secondary metabolites.
+Polyketide synthases (PKS) and nonribosomal
+peptide synthetases play the key role in the building pathways [37]. PKS multidomain complexes
+are listed in COG 3221 in the category ‘Secondary
+metabolites’. The sum of automatic assignments to
+this category is not extraordinarily increased for
+H. ochraceum in comparison to other bacteria
+(174 hits as compared to, e.g., 136 in P. putida
+strain F1), and the search for the gene product
+Standards in Genomic Sciences
+
+Ivanova et al.
+
+‘polyketide synthase’ does not find any gene for H.
+ochraceum. However, the genome of H. ochraceum,
+like the other myxobacteria studied, contains a
+high number of stretches assigned to COG 3321.
+The number of hits in COG is less than 10 in bacteria except for the myxobacteria, Burkholderia mallei, B. pseudomallei, Mycobacterium spp. and members of the Streptomyces. The annotations in COG
+3321 for H. ochraceum identify the homologues as
+known domains of PKS (for example acyltransferases or ketoreductases) or of a distinct PKS synthesizing the aglycone precursor of erythromycin
+B. A search for PKS in different myxobacteria using PCR unfortunately did not include H. ochraceum but it included a strain representing the
+second species in the genus, H. tepidum [40]. The
+authors found the highest percentage of yet unde-
+
+scribed PKS sequences (50% of all newly detected
+PKS sequences) in the marine myxobacteria (as
+compared to terrestrial myxobacteria). In H. tepidum, all 10 PKS sequences represented novel PKS
+genes (threshold 70% identity to known sequences). These findings suggest that an in-depth
+search for novel genes coding for isoprenoid metabolites in H. ochraceum has a very good prospect
+of success.
+Other promising fields of gene mining in H. ochraceum, as a representative of the marine myxobacteria, most likely are the genes of energy metabolism and the genes coding for the coordinated
+movement of cells during fruiting body and myxospore formation. This morphogenesis is conducted by cell-to-cell cross-talk, signal transduction and induction of ‘social motility’ [10,41].
+
+We would like to gratefully acknowledge the help of
+Susanne Schneider (DSMZ) for DNA extraction and
+quality analysis. This work was performed under the
+auspices of the US Department of Energy's Office of
+Science, Biological and Environmental Research
+Program, and by the University of California, Lawrence
+
+Berkeley National Laboratory under contract No. DEAC02-05CH11231, Lawrence Livermore National
+Laboratory under Contract No. DE-AC52-07NA27344,
+and Los Alamos National Laboratory under contract
+No. DE-AC02-06NA25396, as well as German Research
+Foundation (DFG) INST 599/1-1.
+
+Acknowledgements
+
+References
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Fudou R, Jojima Y, Iizuka T, Yamanaka S.
+Haliangium ochraceum gen. nov., sp. nov. and
+Haliangium tepidum sp. nov.: novel moderately
+halophilic myxobacteria isolated from coastal saline environments. J Gen Appl Microbiol 2002;
+48:109-116. PubMed doi:10.2323/jgam.48.109
+Iizuka T, Jojima Y, Fudou R, Yamanaka S. Isolation of myxobacteria from the marine environment. FEMS Microbiol Lett 1998; 169:317-322.
+PubMed doi:10.1111/j.15746968.1998.tb13335.x
+Iizuka T, Jojima Y, Fudou R, Tokura M, Hiraishi
+A, Yamanaka S. Enhygromyxa salina gen. nov.,
+sp. nov., a slightly halophilic myxobacterium isolated from the coastal areas of Japan. Syst Appl
+Microbiol 2003; 26:189-196. PubMed
+doi:10.1078/072320203322346038
+Iizuka T, Jojima Y, Fudou R, Tokura M, Hiraishi
+A, Ahn JW, Yamanaka S. Plesiocystis pacifica gen.
+nov., sp. nov., a marine myxobacterium that contains dihydrogenated menaquinone, isolated from
+the Pacific coasts of Japan. Int J Syst Evol Microbiol 2003; 53:189-195. PubMed
+doi:10.1099/ijs.0.02418-0
+Spröer C, Reichenbach H, Stackebrandt E. The
+correlation between morphological and phyloge-
+
+http://standardsingenomics.org
+
+netic classification of myxobacteria. Int J Syst Bacteriol 1999; 49:1255-1262. PubMed
+6.
+
+Reichenbach H, Garrity GM, Brenner DJ, Krieg
+NR, Staley JT. Order VIII. Myxococcales Tchan,
+Pochon and Prévot 1948, 398AL. In: Brenner DJ,
+Krieg NR, Staley JT, Eds. Bergey's Manual of Systematic Bacteriology, 2nd edn., Vol. 2 Part C.
+Springer, New York 2005: 1059-1072.
+
+7.
+
+Euzéby J. Validation List No. 115. List of new
+names and new combinations previously effectively, but not validly published. Int J Syst Evol
+Microbiol 2007; 57:893-897. PubMed
+doi:10.1099/ijs.0.65207-0
+
+8.
+
+Garrity GM, Bell JA, Lilburn TG. Taxonomic outline of the Procaryotes. In: Garrity GM, Boone
+DR, Castenholz RW, Eds. Bergey's Manual of Systematic Bacteriology, 2nd edn. Springer, New
+York 2004: 1-39.
+
+9.
+
+Gerth K, Pradella S, Perlova O, Beyer S, Müller R.
+Myxobacteria: proficient producers of novel natural products with various biological activities –
+past and future biotechnological aspects with the
+focus on the genus Sorangium. J Biotechnol 2003;
+106:233-253. PubMed
+doi:10.1016/j.jbiotec.2003.07.015
+104
+
+Haliangium ochraceum type strain (SMP-2T)
+10. Kaiser D. Myxococcus – from single-cell polarity
+to complex multicellular patterns. Annu Rev Genet 2008; 42:109-130. PubMed
+doi:10.1146/annurev.genet.42.110807.091615
+
+20. Tchan YT, Pochon J, Prévot AR. Etude de
+systématique bactérienne. VIII. Essai de classification des Cytophaga. Ann Inst Pasteur (Paris)
+1948; 74:394-400.
+
+11. Schneiker S, Perlova O, Kaiser O, Gerth K, Alici
+A, Altmeyer MO, Bartels D, Bekel T, Beyer S,
+Bode E, et al. Complete genome sequence of the
+myxobacterium Sorangium cellulosum. Nat Biotechnol 2007; 25:1281-1289. PubMed
+doi:10.1038/nbt1354
+
+21. Skerman VBD, McGowan V, Sneath PHA. Approved Lists of Bacterial Names. Int J Syst Bacteriol 1980; 30:225-420.
+
+12. Lee C, Grasso C, Sharlow MF. Multiple sequence
+alignment using partial order graphs. Bioinformatics 2002; 18:452-464. PubMed
+doi:10.1093/bioinformatics/18.3.452
+13. Castresana J. Selection of conserved blocks from
+multiple alignments for their use in phylogenetic
+analysis. Mol Biol Evol 2000; 17:540-552.
+PubMed
+14. Stamatakis A, Hoover P, Rougemont J. A Rapid
+Bootstrap Algorithm for the RAxML Web Servers.
+Syst Biol 2008; 57:758-771. PubMed
+doi:10.1080/10635150802429642
+15. Liolios K, Chen IM, Mavromatis K, Tavernarakis
+N, Hugenholtz P, Markowitz VM, Kyrpides NC.
+The Genomes On Line Database (GOLD) in
+2009: status of genomic and metagenomic
+projects and their associated metadata. Nucleic
+Acids Res 2010; 38:D346-D354. PubMed
+doi:10.1093/nar/gkp848
+16. Field D, Garrity G, Gray T, Morrison N, Selengut
+J, Sterk P, Tatusova T, Thomson N, Allen MJ, Angiuoli SV, et al. The minimum information about
+a genome sequence (MIGS) specification. Nat
+Biotechnol 2008; 26:541-547. PubMed
+doi:10.1038/nbt1360
+17. Woese CR, Kandler O, Wheelis ML. Towards a
+natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya. Proc Natl
+Acad Sci USA 1990; 87:4576-4579. PubMed
+doi:10.1073/pnas.87.12.4576
+18. Garrity GM, Holt JG. The road map to the manual. In: Garrity GM, Boone DR, Castenholtz RW
+(eds), Bergey’s Manual of Systematic Bacteriology,
+2nd edition, Vol. 1, Springer, NY, 2001, p 119169.
+19. Kuever J, Rainey FA, Widdel F. Class IV. Deltaproteobacteria class nov. In: Garrity GM, Brenner
+DJ, Krieg NR, Staley JT (eds), Bergey’s Manual of
+Systematic Bacteriology, 2nd edition, Vol. 2, Part
+C, Springer, NY, 2005, p 922.
+
+105
+
+22. Euzéby J. Validation List no. 115. List of new
+names and new combinations previously effectively, but not validly, published. Int J Syst Evol
+Microbiol 2007; 57:893-897. PubMed
+doi:10.1099/ijs.0.65207-0
+23. Zhang YQ, Li YZ, Wang B, Wu ZH, Zhang CY,
+Gong X, Qiu ZJ, Zhang Y. Characteristics and living patterns of marine myxobacterial isolates.
+Appl Environ Microbiol 2005; 71:3331-3336.
+PubMed doi:10.1128/AEM.71.6.3331-3336.2005
+24. Agents B. Technical rules for biological agents
+www.baua.de TRBA 466.
+25. Ashburner M, Ball CA, Blake JA, Botstein D, Butler H, Cherry JM, Davis AP, Dolinski K, Dwight
+SS, Eppig JT, et al. Gene ontology: tool for the unification of biology. The Gene Ontology Consortium. Nat Genet 2000; 25:25-29. PubMed
+doi:10.1038/75556
+26. List of growth media used at DSMZ:
+http://www.dsmz.de/microorganisms/media_list.p
+hp
+27. Berleman JE, Kirby JR. Deciphering the hunting
+strategy of a bacterial wolfpack. FEMS Microbiol
+Rev 2009; 33:942-957. PubMed
+doi:10.1111/j.1574-6976.2009.00185.x
+28. Bode HB, Dickschat JS, Kroppenstedt RM, Schulz
+S, Müller R. Biosynthesis of iso-fatty acids in
+myxobacteria: iso-even fatty acids are derived by
+alpha-oxidation from iso-odd fatty acids. J Am
+Chem Soc 2005; 127:532-533. PubMed
+doi:10.1021/ja043570y
+29. Shimkets L, Dworkin M, Reichenbach H. The
+Myxobacteria. In: The Prokaryotes, Volume 7:
+Proteobacteria: Delta and Epsilon Subclasses.
+Deeply Rooting Bacteria (Eds Dworkin M, Falkow
+S, Rosenberg E, Schleifer K-H, Stackebrandt E).
+Springer, New York 2006, 31-117.
+DOI10.1007/0-387-30747-8
+30. Wu D, Hugenholtz P, Mavromatis K, Pukall R,
+Dalin E, Ivanova N, Kunin V, Goodwin L, Wu M,
+Tindall BJ, et al. A phylogeny-driven genomic encyclopedia of Bacteria and Archaea. Nature
+2009; 462:1056-1060. PubMed
+doi:10.1038/nature08656
+Standards in Genomic Sciences
+
+Ivanova et al.
+31. Sims D, Brettin T, Detter JC, Han C, Lapidus A,
+Copeland A, Glavina Del Rio T, Nolan M, Chen
+F, Lucas S, et al. Complete genome of Kytococcus
+sedentarius type strain (541T). Stand Genomic Sci
+2009; 1:12-20. doi:10.4056/sigs.761
+32. Hyatt D, Chen GL, LoCascio PF, Land ML, Larimer FW, Hauser LJ. Prodigal: prokaryotic gene
+recognition and translation initiation site identification. BMC Genomics (In press).
+33. Pati A, Ivanova N, Mikhailova N, Ovchinikova G,
+Hooper SD, Lykidis A, Kyrpides NC. GenePRIMP:
+A Gene Prediction Improvement Pipeline for microbial genomes. Nat Methods (In press).
+34. Markowitz VM, Mavromatis K, Ivanova NN, Chen
+IMA, Chu K, Kyrpides NC. IMG ER: a system for
+microbial genome annotation expert review and
+curation. Bioinformatics 2009; 25:2271-2278.
+PubMed doi:10.1093/bioinformatics/btp393
+35. Bolten CJ, Heinzle E, Müller R, Wittmann C. Investigation of the central carbon metabolism of
+Sorangium cellulosum: metabolic network reconstruction and quantification of pathway fluxes. J
+Microbiol Biotechnol 2009; 19:23-36. PubMed
+36. Goldman B, Bhat S, Shimkets LJ. Genome evolution and the emergence of fruiting body development in Myxococcus xanthus. PLoS ONE 2007;
+
+http://standardsingenomics.org
+
+2:e1329. PubMed
+doi:10.1371/journal.pone.0001329
+37. Wenzel SC, Müller R. The impact of genomics on
+the exploitation of myxobacterial secondary metabolome. Nat Prod Rep 2009; 26:1385-1407.
+PubMed doi:10.1039/b817073h
+38. Stevens TJ, Paoli M. RCC1-like repeat proteins: a
+pangenomic, structurally diverse new superfamily
+of beta-propeller domains. Proteins 2008; 70:378387. PubMed doi:10.1002/prot.21521
+39. Shih YL, Rothfield L. The bacterial cytoskeleton.
+Microbiol Mol Biol Rev 2006; 70:729-754.
+PubMed doi:10.1128/MMBR.00017-06
+40. Komaki H, Fudou R, Iizuka T, Nakajima D, Okazaki K, Shibata D, Ojika M, Harayama S. PCR detection of type I polyketide synthase genes in
+myxobacteria. Appl Environ Microbiol 2008;
+74:5571-5574. PubMed
+doi:10.1128/AEM.00224-08
+41. Thomas SH, Wagner RD, Arakaki AK, Skolnick J,
+Kirby JR, Shimkets LJ, Sanford RA, Löffler FE. The
+mosaic genome of Anaeromyxobacter dehalogenans strain 2CP-C suggests an aerobic common
+ancestor to the delta-proteobacteria. PLoS ONE
+2008; 3:e2103. PubMed
+doi:10.1371/journal.pone.0002103
+
+106
+
+

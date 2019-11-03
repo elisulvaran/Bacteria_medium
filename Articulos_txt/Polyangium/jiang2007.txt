@@ -1,0 +1,1009 @@
+Molecular Phylogenetics and Evolution 44 (2007) 545–552
+www.elsevier.com/locate/ympev
+
+Fruiting and non-fruiting myxobacteria: A phylogenetic perspective
+of cultured and uncultured members of this group
+De-Ming Jiang, Zhi-Hong Wu, Jing-Yi Zhao, Yue-Zhong Li
+
+*
+
+State Key Laboratory of Microbial Technology, College of Life Science, Shandong University, Jinan 250100, PR China
+Received 14 June 2006; revised 18 November 2006; accepted 12 April 2007
+Available online 20 April 2007
+
+Abstract
+The diversity of myxobacteria present in campus garden soil was surveyed by both cultivation-based and cultivation-independent
+methods. Detailed phylogenetic analysis of cultured and uncultured myxobacteria 16S rRNA gene sequences revealed that many undescribed relatives of the myxobacteria exist in nature. Molecular systematic analyses also revealed that myxobacterial genera described to
+date on the basis of the morphology of multi-cellular fruiting bodies were mostly monophyletic. However, these known taxa comprised
+only in a small part of the sequences recovered directly from soil in a cultivation-independent approach, indicating that the group is much
+more diverse than previously thought. We propose that the myxobacteria exist in two forms: the fruiting and the non-fruiting types. Most
+of the uncultured myxobacteria may represent taxa which rarely form fruiting bodies, or may lack some or all of the developmental genes
+needed for fruiting body formation. In order to identify non-fruiting myxobacteria, new morphology-independent cultivation and isolation techniques need to be developed.
+ 2007 Elsevier Inc. All rights reserved.
+Keywords: Fruiting body formation; Myxobacteria; d-Proteobacteria; Cultivation-independent survey; Cultured; Uncultured; Phylogeny
+
+1. Introduction
+Myxobacteria are Gram-negative gliding bacteria
+(McCurdy, 1989) whose cells grow cooperatively on a food
+source, and can then form multi-cellular, myxospore-containing fruiting bodies after exhaustion of the food supply
+(Dworkin, 1996; Shimkets, 1990). As a result of their specialist lifestyle, myxobacteria are able to live in many
+places. They prefer to grow in the soil, the dung of herbivores, in bark and in rotting wood (Dawid, 2000; Reichenbach, 1999). Cultivation strategies for myxobacteria
+usually involve incubation of natural samples on a selective, agar-containing medium, followed by cell swarming
+and fruiting body formation; occasionally, fruiting bodies
+themselves can be collected from nature (Dawid, 2000; Reichenbach and Dworkin, 1992). However, fruiting body formation is but one stage of their life cycle, and these
+*
+
+Corresponding author. Fax: +86 531 8856 4288.
+E-mail address: lilab@sdu.edu.cn (Y.-Z. Li).
+
+1055-7903/$ - see front matter  2007 Elsevier Inc. All rights reserved.
+doi:10.1016/j.ympev.2007.04.004
+
+structures often quickly collapse after their formation (Reichenbach and Dworkin, 1992). As a result, the distribution
+and diversity of myxobacteria in nature is still substantially
+unclear more than a century after they were ﬁrst described
+by Thaxter in 1892.
+The present taxonomy of myxobacteria is based solely
+on cultured, fruiting myxobacteria. After several updates,
+the recognized myxobacteria are now classiﬁed into three
+suborders, six families, 17 genera and approximately 50
+species (Reichenbach, 2004; Shimkets et al., 2005). Compared to previous classiﬁcations (McCurdy, 1989; Reichenbach, 1993), new myxobacterial taxa have recently been
+described either from new isolates, reclassiﬁcation of misplaced taxa after phylogenetic analysis of their 16S rRNA
+gene sequences, or identiﬁcation of novel and distinguishing morphological characteristics. For instance, the present
+suborder Sorangineae contains six genera, Haploangium
+(now identiﬁed as Polyangium by Reichenbach in 2004),
+Chondromyces, Polyangium, Sorangium and two new
+genera Byssophaga (a cellulose-degrading myxobacterium
+
+546
+
+D.-M. Jiang et al. / Molecular Phylogenetics and Evolution 44 (2007) 545–552
+
+initially identiﬁed by Thaxter in 1897 and rediscovered by
+Reichenbach in 2004) and Jahnia (Jahnia thaxteri, previously termed Polyangium thaxteri). The genus Nannocystis,
+which had been placed in the suborder Sorangineae has
+now been elevated to form a new suborder Nannocystineae, together with the halophilic or slightly halophilic
+myxobacterial strains that were recently isolated from Japanese coastal areas (Iizuka et al., 1998, 2003a,b; Fudou
+et al., 2002), as well as a newly renamed species Koﬂeria
+ﬂava (previously Polyangium vitellinum Pl vt1) (Reichenbach, 2004). The more recently described myxobacteria
+usually have special properties reﬂecting unique habitats.
+For instance, Sanford et al. (2002) isolated anaerobic
+myxobacteria strains from soil which were classiﬁed as
+members of the suborder Cystobacterineae, based on their
+ability to grow using acetate as an electron donor and
+2-chlorophenol as an electron acceptor. These and other
+unusual myxobacteria have broadened our understanding
+of the taxonomy of the group, which has yet to be explored
+in detail. For example, even when using conventional
+methods, Watve et al. (1999) found that the number of
+myxobacteria in soil samples from India was probably several-fold higher than the number of samples typically
+recovered elsewhere.
+Interestingly, recently isolated strains do not usually
+have typical myxobacterial morphological characteristics,
+but instead have atypical or inconspicuous fruiting body
+structures. We surmise that there may be many other bacteria within the myxobacterial clade that have yet to be discovered because they form fruiting bodies rarely, or not at
+all. In our previous work, we explored the diversity of the
+myxobacterial suborder, Cystobacterineae in soil by using
+both conventional isolation as well as cultivation-independent, molecular phylogenetic methods (Wu et al., 2005).
+On the one hand, from the soil sample we were able to isolate only ﬁve Cystobacterineae strains (two Myxococcus
+spp., two Corallococcus spp. and a Cystobacter sp.) using
+classical isolation techniques (in addition a Nannocystis
+sp. and a Sorangium sp. of the suborder Sorangineae were
+also identiﬁed). By contrast, cloning and sequencing 16S
+rRNA gene sequences from the same soil sample using
+myxobacteria-speciﬁc primers revealed that far greater
+diversity was present. Fifty-three Cystobacterineae-related
+clones were sequenced and could be divided into at least
+12 subgroups (with 95% or less sequence similarity), of
+which four spanned the diversity of all previously described
+members of this suborder. This result indicated that there
+are many undiscovered, greatly diversiﬁed myxobacteria
+in nature. In the present study, after a further molecular
+survey of the suborder Sorangineae in soil, we carried out
+a detailed phylogenetic analysis of both cultured and
+uncultured myxobacteria. Our data suggest that the myxobacteria exist in nature in two forms: fruiting and nonfruiting types, which probably correspond to cultured
+and uncultured myxobacteria. The phylogenetic diversity,
+molecular taxonomy and classiﬁcation of this interesting
+bacterial group is also discussed.
+
+2. Materials and methods
+2.1. Construction of a Sorangineae-enriched 16S rRNA gene
+library from a soil sample
+The total DNA surveyed for the construction of a
+Sorangineae-enriched 16S rRNA gene library was the same
+as that used in the surveying of uncultured Cystobacterineae sequences reported previously (Wu et al., 2005).
+Brieﬂy, the soil sample was ground with a mortar and pestle under liquid nitrogen. The ground soil was mixed with
+an extraction buﬀer (100 mM Tris–HCl; 100 mM EDTA;
+100 mM sodium phosphate; 1.5 M NaCl; 1% [w/v] CTAB;
+pH 8.0) containing 1 mg/ml protease K, and was then subjected to three freeze-thaw cycles followed by incubation at
+65 C for 2 h. Following extraction with chloroform–isopentanol, total DNA was precipitated with 0.6 vol of cold
+isopentanol, washed with 70% ice-cold ethanol, and puriﬁed on a Sephedex G-200 column.
+We designed speciﬁc primers (Wu et al., 2005) for 16S
+rRNA genes of the suborders Cystobacterineae and
+Sorangineae to determine the diversity of myxobacteria in
+the environment. Identiﬁcation of group-speciﬁc primers
+was possible because cultivated members of these suborders do not display that much sequence divergence in this
+gene (Spröer et al., 1999; Yan et al., 2003). By contrast,
+it was not possible to design a primer set speciﬁc for 16S
+rRNA genes of members of the new suborder Nannocystineae (only 19 entries in GenBank) due to our inability to
+identify conserved sequence that was diagnostic for the
+group. Members of the Nannocystineae are more diverse
+in both 16S rDNA sequence content and fruiting body
+morphology (Reichenbach, 2004). The primer set of
+Sorangineae speciﬁc W4 (GTA AGA CAG AGG GTG
+CAA ACG T; corresponding to positions 492–510 of the
+16S rRNA in Escherichia coli, Brosius et al., 1978) and bacterial universal Pr (GGC TGG ATC ACC TCC TTT CT;
+corresponding to the position of 1524–1541 bp) was evaluated initially by using DNA from pure bacterial cultures as
+references. At an annealing temperature of 69 C, all the
+Sorangineae cultures were ampliﬁed, whereas the Cystobacterineae strains and the negative controls E. coli and
+Methylobacterium sp. 0093-1 were not ampliﬁed. E. coli
+produced positive signals with the primer set at an annealing temperature lower than 64 C, and Methylobacterium
+sp. 0093-1 at a temperature lower than 67 C. Accordingly,
+the primer set W4/Pr was used to amplify Sorangineaeenriched 16S rRNA gene sequences from the soil community DNA using a touchdown PCR protocol (Wu et al.,
+2005) to increase the diversity of Sorangineae products.
+The products were about 1000 bp in length. The ampliﬁed
+products containing 16S rRNA gene sequences were puriﬁed using a QIAquick Gel Extraction Kit (Qiagen, USA)
+and were ligated with pGEM-T easy Vector (Promega,
+USA) following the protocols recommended by the manufacturer. They were electroporated into E. coli JM109 using
+the published procedure (Sambrook and Russell, 2001).
+
+D.-M. Jiang et al. / Molecular Phylogenetics and Evolution 44 (2007) 545–552
+
+About 3000 white transformants were collected and stored
+as a Sorangineae-enriched 16S rRNA gene library.
+2.2. In situ colony hybridization and sequencing
+The oligonucleotide probe W5 (GTA AGA CAG AGG
+GTG CAA ACG T; corresponding to positions 529-550 of
+16S rRNA in E. coli) speciﬁc for the suborder Sorangineae
+was labeled at the 30 -end with ﬂuorescein-dUTP by terminal transferase in accordance with the manufacturer’s
+instructions for the Gene Image 30 -oligolabeling module
+(Amersham Biosciences, USA). To evaluate and optimize
+conditions for in situ colony hybridization, slot blot hybridization was performed with W5. The 16S rRNA gene PCR
+products from pure myxobacteria strains were blotted onto
+a Hybond-N+ membrane (Amersham Biosciences, USA).
+The membrane was soaked in the hybridization buﬀer [5·
+SSC; 0.1% (w/v) SDS; 20-fold dilution of liquid block supplied with the kit and 0.5% (w/v) dextran sulphate (MW
+500,000)] for 1 h at a selected temperature. After the addition of 5 ng/ml of labeled oligonucleotide probe, the
+hybridization process was performed overnight. When the
+hybridization temperature was 61 C, the 16S rRNA gene
+PCR products from Sorangineae strains produced obvious
+hybridization signals, while there were no signals for
+Cystobacterineae strains, E. coli or Methylobacterium sp.
+0093-1. When the hybridization temperature was reduced
+to 58 C, the Cystobacterineae strains produced weak signals, while there were still no signals for E. coli or Methylobacterium sp. 0093-1. To obtain maximum diversity, the
+lower stringency hybridization temperature of 58 C was
+employed. After hybridization, the membrane was washed
+twice in 5· SSC, 0.1% (w/v) SDS at room temperature, for
+5 min each time, and then washed twice in 1· SSC, 0.1%
+(w/v) SDS at 50 C, for 15 min each time. The Gene Image
+CDP-Star detection module (Amersham Biosciences, USA)
+was used to detect the hybridization signal following the
+manufacture’s instruction. KODAK X-OMAT AR
+(XAR5) ﬁlms were exposed to the blots between intensifying screens for 1 h. Eighty-ﬁve positive clones were randomly selected for sequencing, which was carried out in
+the Shanghai Sangon Sequencing Center (Shanghai,
+China). After BLAST analysis against the GenBank database, the sequences that were related to the myxobacteria
+were sequenced from the other direction to obtain the
+sequence of the whole segment. The sequence data have
+been submitted to GenBank with Accession Nos.
+DQ646254 to DQ646330.
+2.3. Phylogenetic analysis
+For phylogenetic analyses, the 16S rRNA gene
+sequences of all myxobacteria available in GenBank were
+extracted. After a complete alignment using clustalX (version 1.83; Thompson et al., 1997), corresponding parts of
+16S rRNA gene sequences from cultured and uncultured
+myxobacteria were used for inferring phylogenetic relation-
+
+547
+
+ships. Phylogenetic trees were inferred using the interior
+branch test of the Neighbor-Joining method in MEGA
+(version 3.1; Kumar et al., 2004). Phylogenetic relationships were also conﬁrmed by the likelihood and parsimony
+programs in the same software package. The bootstrapping
+supports for the trees were calculated from a sample of
+1000 replicates. The 16S rRNA gene sequence of the d-protoebacterium, Desulfovibrio desulfuricans (GenBank Accession No. M34113), was used as an outgroup to root the
+tree.
+3. Results and discussion
+3.1. Phylogenetic diversity of uncultured Sorangineae 16S
+rRNA gene sequences
+In situ colony hybridization was performed on more
+than 1000 clones of the Sorangineae-enriched 16S rRNA
+gene library. Approximately 20% of the samples produced
+a signal, from which 85 clones were randomly chosen for
+sequencing. Among the sequenced clones, six fragments
+had no relationship to myxobacteria and were not studied
+further. The other 79 sequences (all were unique except for
+two, each of which occurred twice) showed 76.4–99.1%
+homology with known cultured myxobacteria. Seventyfour of the 77 unique myxobacteria-related clones belonged
+to the suborder Sorangineae (Fig. 1). The uncultured
+Sorangineae sequences in the campus garden soil exhibited
+a similar diversity to that of the uncultured Cystobacterineae, described previously (Wu et al., 2005). Interestingly,
+and despite some morphological diversity, sequences of
+all cultured Sorangineae were limited to a clade that
+included only 16 of the 74 Sorangineae-related sequences
+from soil. The 58 other soil-derived sequences were noticeably more diverse. Based on the phylogeny of the 74 unique
+Sorangineae sequences, we suggest that this particular soil
+habitat contained at least ﬁve major clades of the suborder
+Sorangineae, having 90% or less sequence similarity with
+one another (i.e., at the depth of separate families). Group
+I contained 33 uncultured sequences (accounting for 44.6%
+of the total 74 sequences) in two diﬀerent branches, one of
+which included all of the reported cultured Sorangineae
+strains, i.e. Chondromyces spp., Polyangium spp., Sorangium spp. and Byssophaga spp. (Fig. 1). Among the 33
+uncultured sequences, ﬁve clones (9-96, 13-17, 14-33, 208, 20-2) shared >96% similarity with the genus Sorangium,
+four clones (9-15, 13-73, 16-60, 21-42) were Polyangiumrelated, seven clones (9-66, 10-37, 13-5, 13-27, 14-7,
+15-11, 21-33) were Byssophage-related, and the others were
+of unknown subgroups. There was no clone that was aﬃliated with the genus Chondromyces, suggesting that members of this genus were probably not present in the
+campus garden soil. This was consistent with the observation that Chondromyces strains are normally found on
+the bark of trees (Reichenbach and Dworkin, 1992; Dawid,
+2000; Li et al., 2000). The other four groups in the suborder
+Sorangineae were comprised exclusively of uncultured
+
+548
+
+D.-M. Jiang et al. / Molecular Phylogenetics and Evolution 44 (2007) 545–552
+10-37|DQ646262
+15-11|DQ646274
+13-27|DQ646268
+
+79
+91
+
+AJ833647|Byssophaga cruenta DSM 14553T
+13-5|DQ646265
+21-33|DQ646319
+9-66|DQ646299
+14-7|DQ646310
+13-73|DQ646308
+
+68
+99
+60
+98
+
+M94280|Polyangium sp.
+16-60|DQ646315
+21-42|DQ646295
+9-15|DQ646297
+
+98 99
+98
+
+AJ316014|Sorangium cellulosum So ce56
+75
+99
+
+79
+
+9-96|DQ646260
+
+AY039304|Sorangium cellulosum 9733-1
+
+13-17|DQ646266
+20-8|DQ646289
+86
+14-33|DQ646270
+60
+20-2|DQ646287
+77
+93
+
+99
+
+Group I
+
+AJ233942|Chondromyces robustus Cm a13
+AJ233943|Jahnia thaxteri Pl t3
+
+13-61|DQ646307
+9-55|DQ646298
+9-57|DQ646259
+98
+21-85|DQ646321
+98
+94
+10-89|DQ646264
+9-33|DQ646257
+99
+15-17|DQ646275
+99
+89
+10-6|DQ646263
+18-63|DQ646283
+97
+99
+18-32|DQ646279
+99
+15-29|DQ646329
+18-39|DQ646280
+90
+21-12|DQ646293
+99
+16-44|DQ646330
+99
+14-55|DQ646327
+14-96|DQ646273
+98
+99
+14-56|DQ646328
+99
+99
+9-40|DQ646258
+98
+13-1|DQ646302
+18-60|DQ646282
+91
+99 10-75|DQ646301
+18-81|DQ646317
+9-5|DQ646296
+63
+15-90|DQ646312
+99
+99
+15-83|DQ646276
+10-7|DQ646300
+14-43|DQ646271
+99
+14-53|DQ646272
+Group II
+10-41|DQ646323
+84
+83
+18-4|DQ646278
+10-56|DQ646326
+73
+18-43|DQ646281
+99
+72
+13-19|DQ646267
+19-13|DQ646285
+10-43|DQ646324
+16-81|DQ646277
+19-55|DQ646286
+60
+64 10-24|DQ646322
+99
+9-2|DQ646254
+94
+9-20|DQ646255
+Group III
+99
+13-86|DQ646309
+20-91|DQ646291
+99
+13-33|DQ646306
+97
+10-45|DQ646325
+90
+10-36|DQ646261
+99
+18-77|DQ646284
+99
+94
+16-95|DQ646316
+13-2|DQ646303
+80
+20-4|DQ646288
+Group IV
+99
+20-95|DQ646292
+98
+9-28|DQ646256
+99
+14-14|DQ646311
+13-82|DQ646269
+89
+20-23|DQ646290
+99
+21-30|DQ646294
+21-83|DQ646320
+16-34|DQ646313
+96
+16-47|DQ646314
+76
+
+AF382400|Anaeromyxob. dehalogenans 2CP-3
+AJ233934|Stigmatella erecta Pd e19
+AJ233907|Melittangium alboraceum Me b7
+99
+AJ233932|Corallococcus exiguus Cc e100
+81
+M34114|Myxococcus xanthus
+AJ233904|Cystobacter minus Cb m6
+AJ233910|Angiococcus
+disciformis An d4
+99
+AJ233913|Archangium gephyra Ar g2
+83
+
+93
+99
+
+Suborder-Sorangineae
+
+Group V
+
+Suborder-Cystobacterineae
+
+19-33|DQ646318
+13-26|DQ646304
+
+87
+99
+99
+
+AJ233944|Kofleria flava Pl vt1
+AB097590|Thaxtera salina SHK-1
+AJ233945|Nannocystis aggregans Na a1
+
+Suborder-Nannocystineae
+
+13-30|DQ646305
+
+M34113|Desulfovibrio desulphuricans
+0.02
+
+Fig. 1. A phylogenetic tree inferred from clones of 16S rRNA gene sequences related to the Sorangineae, and those from cultured myxobacteria (in
+boldface). Representative reference taxa were chosen following the pruning of a much larger tree using all of the cultured Sorangineae sequences available
+in GenBank. The bar is equivalent to two nucleotide changes per 100 bp. The numbers on branch nodes indicate bootstrap support percentages based on
+1000 replicates.
+
+D.-M. Jiang et al. / Molecular Phylogenetics and Evolution 44 (2007) 545–552
+
+sequences. Group II was composed of 21 clones (28.4% of
+the total 74 sequences) with sequence similarity values of 89
+to 98%. This group was more closely related to Group I
+than the other groups. Groups III and IV were composed
+of 4 and 13 clones, respectively (5.4% and 17.6%), and
+the three clones in Group V represented 4.1% of the total
+74 sequences derived from soil. This last group was distantly related (less than 85% sequence similarity) to Group
+I and may represent a newly discovered suborder. The
+number of cloned sequences aﬃliated with each group in
+Groups II–V was inversely proportional to the evolutionary distance between any one of them and Group I, which
+may reﬂect the fact that the Sorangineae speciﬁc primer
+(W4) and probe (W5) were designed from the available
+sequenced data of the cultured Sorangineae strains, which
+were, after all, only present in Group I.
+3.2. Molecular taxonomy of cultured and uncultured
+myxobacteria
+An earlier phylogenetic analysis of 12 representative
+myxobacteria strains revealed three distinct clades: Myxococcus, Chondromyces, and Nannocystis (Shimkets and
+Woese, 1992). A later study using more myxobacterial
+strains also supported this conclusion (Spröer et al.,
+1999). After that time, many myxobacteria strains with halophilic or slightly halophilic (Iizuka et al., 1998, 2003a,b;
+Fudou et al., 2002), halotolerant (Li et al., 2002; Zhang
+et al., 2002a,b), psychrophilic (Dawid, 2000), and anaerobic (Sanford et al., 2002) characteristics have been discovered. Hundreds of 16S rRNA gene sequences of cultured
+myxobacteria are now available in GenBank, which
+enables detailed phylogenetic analyses of the myxobacteria.
+Fig. 2a is a comprehensive phylogenetic tree inferred by
+using all the available cultured and uncultured myxobacteria 16S rRNA gene sequences. Almost all cultured myxobacteria, including the common and more unusual, were
+found to members of one of the three clades, which are
+now known as the three myxobacterial suborders, Cystobacterineae, Sorangineae and Nannocystineae (Reichenbach, 2004). NUST 6 and NU-2, the only two strains not
+included in the three suborders, were described as salt-tolerant myxobacterial isolates, but no further information is
+available (Zhang et al., 2002a,b).
+The most signiﬁcant characteristic of the tree in Fig. 2a
+is that the cultured myxobacteria represent only a small
+portion of the group’s diversity with respect to 16S rRNA
+gene sequences. Despite this diversity, most of the myxobacterial genera, which were originally classiﬁed by their
+fruiting body morphology, constituted monophyletic
+clades in this molecular systematic analysis. Within-genus
+sequence similarity values were generally higher than 98%.
+The expansion of the tree in Fig. 2b illustrates the phylogenetic relationships of members of the genus Myxococcus. The study by Stackebrandt and Päuker (2005) of 33
+strains of Corallococcus coralloides isolated from 14 countries and ﬁve continents supported that the strains with this
+
+549
+
+type of fruiting body structure also had highly similar 16S
+rRNA gene sequences. Thus our study, and that of Stackebrandt and Päuker (2005), suggest that shape and structure
+of the fruiting body is a good taxonomic character,
+although there are some exceptions. For example, the morphologically distinct genus Melittangium appears to be
+polyphyletic in that the 16S rRNA gene sequences of its
+diﬀerent members are 99% or more similar to that of either
+Corallococcus or Cystobacter, each of which is also polyphyletic in Fig. 2. Although the suborder Nannocystineae
+was not explored, a few uncultured Nannocystineae
+sequences discovered during our survey of the diversity of
+Cystobacterineae and Sorangineae were also characterized
+in this study.
+Comparing the phylogenies of the cultured and uncultured myxobacteria, we can see that there are many uncultured myxobacteria in nature, which are often signiﬁcantly
+distinct from the cultured myxobacteria in their 16S rRNA
+gene sequences. Even in the Mx-Fruiting group, the Myxococcus-related sequences derived from soil were not only
+distributed in the cultured Myxococcus branches, but also
+formed separate uncultured branches (Fig. 2b).
+Based on the tree topologies of the cultured and uncultured myxobacteria, we suggest that the sequences recovered directly from soil by using a cultivation-independent
+approach cultured may represent myxobacteria which are
+incapable of forming fruiting bodies. There are several lines
+of evidence which led us to this hypothesis:
+1. Since the ﬁrst report by Thaxter (1892), myxobacteria
+have been isolated from many diﬀerent samples and
+places by many diﬀerent research groups. The isolation
+techniques have been modiﬁed many times, but all
+involved the collection and/or growth promotion of
+fruiting bodies. Most recently obtained new isolates
+have been shown to be members of previously described
+genera, not new and divergent taxa. It is therefore reasonable to suggest that the morphology-based isolation
+techniques have allowed the discovery of most types of
+the fruiting myxobacteria. That is to say the myxobacteria that have been isolated to date represent most of the
+fruiting myxobacteria which exist in nature, and these
+have been used in the construction of the present myxobacterial taxonomy. By carefully comparing the 16S
+rRNA gene sequences of the uncultured and cultured
+myxobacteria, we can see that most of the sequences
+obtained directly from soil were not similar to those
+from cultivated taxa (Fig. 1; Wu et al., 2005). The uncultured myxobacteria may represent groups of myxobacteria that are genetically unable to form fruiting bodies.
+Alternatively, these myxobacteria might have been previously overlooked because their growth requirements
+were not met by the laboratory cultivation methods. In
+fact, we examined the soil sample (about 0.5 g) carefully
+under a dissecting microscope to establish if myxobacterial fruiting bodies existed, but found no visible
+fruiting bodies. However, we found many uncultured
+
+550
+
+61
+
+b
+
+Mx-Fruiting Group (constr. by 43 Mx, 1Cc, 1 An and 12 Uncult Cystob)
+
+99
+93
+
+96
+
+Unkn Cystob-Group (constr. by 7 Unclut Cystob)
+
+79-94|AY803813
+79-38|AY803787
+101-4|AY803838
+98
+86-18|AY803818
+88 AJ233950|Myxococcales isolate NOCB-4
+AJ233949|Myxococcales isolate NOCB-2
+
+Cc-Fruiting Group (constr. by 37 Cc, 2 Mx and 1 Me)
+
+99
+
+79-42|AY803788
+75
+
+89
+74
+
+Cb/Me-Fruiting Group (constr. by 9 Cb and 2 Me)
+Cb-Fruiting Group (constr. by 5 Cb)
+
+80
+98
+
+M94374|Cystobacter disciformis
+79-22|AY803781
+79-96|AY803814
+79-78|AY803806
+
+Suborder-Cystobacterineae
+
+Ar/An-Fruiting Group (constr. by 2 Ar, 2 An and 5 Uncult Cystob)
+Unkn Cystob-Group (constr. by 7 Uncult Cystob)
+
+66
+
+93
+99 79-71|AY803802
+79-79|AY803807
+
+98
+
+Unkn Cystob-Group (constr. by 9 Uncult Cystob)
+79-61|AY803798
+
+Sg-Fruiting Group (constr. by 7 Sg)
+Unkn Cystob-Group (constr. by 3 Uncult Cystob)
+91
+Unkn Cystob-Group (constr. by 2 Uncult Cystob)
+99
+Unkn Cystob-Group (constr. by 2 Uncult Cystob)
+99
+79
+
+96
+
+99
+
+100-22|AY803824
+AF482687|Myxobacterium KC
+
+99
+99
+
+Anaeromyxo Group (constr. by 5 Anaeromyxo)
+
+99
+
+79-81|AY803808
+
+99
+
+Unkn Sora-Group (constr. by 11 Uncult Sora)
+Unkn Sora-Group (constr. by 2 Uncult Sora)
+Unkn Sora-Group (constr. by 4 Uncult Sora)
+
+99
+77
+
+99
+
+94
+
+16-47|DQ646314
+21-83|DQ646320
+16-34|DQ646313
+
+98
+99
+
+Unkn Sora-Group (constr. by 14 Uncult Sora)
+
+95
+
+96
+
+14-55|DQ646327
+99
+
+Unkn Sora-Group (constr. by 2 Uncult Sora)
+Unkn Sora-Group (constr. by 7 Uncult Sora)
+Unkn Sora-Group (constr. by 3 Uncult Sora)
+Unkn Sora-Group (constr. by 7 Uncult Sora)
+Unkn Sora-Group (constr. by 3 Uncult Sora)
+
+99
+
+69 99
+99
+98
+97
+78
+
+71
+
+Suborder-Sorangineae
+
+13-61|DQ646307
+
+98
+
+99
+
+Ch/Ja-fruiting Group (constr. by 7 Ch and 1 Ja)
+10-37|DQ646262
+13-27|DQ646268
+15-11|DQ646274
+AJ833647|Byssophaga cruenta DSM 14553T
+
+65
+82
+
+83
+
+Unkn Sora-Group (constr. by 4 Uncult Sora)
+83
+
+0.01
+
+93
+84
+69
+
+92
+
+AJ233948|Myxococcales isolate NOSO-1
+21-42|DQ646295
+9-15|DQ646297
+16-60|DQ646315
+
+Pl-Fruiting Group (constr. by 1 Pl and 1 Unclut Sora)
+
+91
+99
+
+69
+
+61
+99
+
+93
+74
+99
+99
+
+So-Fruiting Group (constr. by 17 So and 5 Unclut Sora)
+
+19-33|DQ646318
+AB062751|Haliangium tepidum
+99
+AJ233944|Polyangium vitellinum Pl vt1
+AB016470|Myxobacterium SMP-2
+13-26|DQ646304
+97 AB097591|Thaxtera salina SMK-1-3
+99
+AB097590|Thaxtera salina SHK-1
+AB016469|Myxobacterium SHI-1
+79-49|AY803794
+99
+Na-Fruiting group (constr. by
+86
+13-30|DQ646305 99
+77-2|AY803778
+AY038046|Myxobacterium NU-2
+AF421890|Sorangium cellulosum NUST 6
+79-28|AY803783
+79-44|AY803790
+M34113|Desulfovibrio desulphuricans
+
+Suborder-Nannocystineae
+5 Na)
+
+a
+
+0.02
+
+Fig. 2. Phylogeny of cultured and uncultured myxobacteria, inferred from 16S rRNA gene sequences. All of the available cultured myxobacterial 16S rRNA gene sequences were used in this analysis.
+The bar in (a) is equivalent to two, and in (b) to one nucleotide changes per 100 bp. The numbers on branch nodes indicate bootstrap support percentages based on 1000 replicates. The homologous
+sequences are grouped and labeled with the numbers of members included (in bigger letter size). The fruiting myxobacteria groups are in boldface. The detailed construction of the Mx-Fruiting group is
+shown for demonstration. Abbreviations: constr., constructed; unkn, unknown; uncult, uncultured; Cystob, Cystobacterineae; Sora, Sorangineae; Mx, Myxococcus; Cc, Corallococcus; An, Angiococcus;
+Me, Melittangium; Cb, Cystobacter; Ar, Archangium; Sg, Stigmatella; Anaeromyxo, Anaeromyxobacter; Ch, Chondromyces; Ja, Jahnia; Pl, Polyangium; So, Sorangium; Na, Nannocystis.
+
+D.-M. Jiang et al. / Molecular Phylogenetics and Evolution 44 (2007) 545–552
+
+98
+
+AY626899|Myxococcus sp. 91014
+AF506736|Myxococcus xanthus
+70
+AY724797|Myxococcus xanthus UCDaV1
+80 AY996849|Myxococcus sp. 91228
+AJ233916|Myxococcus flavescens Mx fl1
+45
+M34114|Myxococcus xanthus
+AJ233927|Myxococcus virescens Mx v1
+AJ233928|Myxococcus virescens Mx v144
+82
+61
+86-19|AY803819
+AJ233929|Myxococcus xanthus Mx x1
+66
+AJ233930|Myxococcus xanthus Mx x132
+68 AJ233926|Myxococcus virescens Mx v76
+AY626896|Myxococcus sp. 92006
+AJ233925|Myxococcus virescens Mx v2
+39
+AJ233921|Myxococcus macrosporus Cc m8
+AJ233909|Angiococcus disciformis An d1
+AY724799|Myxococcus xanthus UCDaV16
+AY724800|Myxococcus xanthus UCDaV17
+89 AJ811623|Myxococcus macrosporus DSM14697
+AJ811622|Coralloc. coralloides DSM 52498
+86
+AY072740|Myxococcus macrosporus 125-10-1
+82 AY072738|Myxococcus macrosporus 125-10-2
+82
+AY072737|Myxococcus macrosporus 125-10-3
+82
+AY724798|Myxococcus xanthus UCDaV5
+82
+AJ811621|Coralloc. coralloides DSM 52496
+82
+AJ233922|Myxococcus stipitatus Mx s33
+AF506738|Myxococcus stipitatus
+55
+AJ233919|Myxococcus fulvus Mx f428
+79-11|AY803780
+4747
+AJ233917|Myxococcus fulvus Mx f2
+15
+AJ233923|Myxococcus stipitatus Mx s42
+18
+67 AJ233924|Myxococcus stipitatus Mx s52
+AJ233918|Myxococcus fulvus Mx f421
+AY996853|Myxococcus sp. 91227
+AY996782|Myxococcus sp. SDU-1
+AY996852|Myxococcus sp. 91141
+AY996851|Myxococcus sp. 91229
+AY996850|Myxococcus sp. 91072
+57
+AY996848|Myxococcus sp. 91155
+95 AY996847|Myxococcus sp. 91195
+AY626900|Myxococcus sp. 91018
+AY626898|Myxococcus sp. 92022
+AY626897|Myxococcus sp. 92012
+95
+AY626895|Myxococcus sp. 92002
+AF466191|Myxococcus fulvus 125-1
+AY032879|Myxococcus fulvus 128-7
+AY996783|Myxococcus sp. SDU-2
+100-31|AY803827
+101-3|AY803837
+100-5|AY803830
+75
+AJ233920|Myxococcus macrosporus Cc m7
+86-7|AY803820
+70
+100-20|AY803823
+84
+100-27|AY803825
+79-29|AY803784
+67
+79-9|AY803815
+79-72|AY803803
+86-13|AY803817
+
+D.-M. Jiang et al. / Molecular Phylogenetics and Evolution 44 (2007) 545–552
+
+myxobacterial sequences and seven cultured myxobacterial strains in the soil sample. According to Dawid’s
+studies on the isolation of myxobacteria from 1398 soil
+samples from 64 countries or states in all continents,
+one to ten fruiting myxobacterial species can be found
+in a soil sample (Dawid, 2000). Reichenbach’s experiences in the recent decades also indicate that 0.5–1 g of
+the richest myxobacterial biota may yield 5–10 myxobacterial species, deﬁned by their morphological characteristics (Reichenbach, 1993). Taken together with
+results of the current study, it appears that some myxobacteria survive in nature without forming fruiting bodies.
+2. Cultured myxobacteria are able to produce fruiting
+bodies with a variety of morphological features. Phylogenetic analysis of cultured myxobacteria indicates that
+the taxa described in part using fruiting body morphology are mostly monophyletic. Morphogenesis of a fruiting body is a complicated developmental process which
+is genetically regulated and controlled. A small change
+in the morphogenesis-related genes may result in deﬁciencies in fruiting body formation (Guo et al., 1996;
+Lu et al., 2005), which then renders the myxobacteria
+undetectable with classical isolation techniques. They
+may, however, still survive in nature, together with their
+fruiting ancestors, and thus form the basis for our
+sequences of uncultured myxobacteria. The uncultured
+myxobacteria that have high sequence similarity to the
+cultured, fruiting myxobacteria may be those cells that
+are deﬁcient in the formation of fruiting bodies; whereas
+the uncultured myxobacteria that are distinctly diﬀerent
+from the cultured fruiting myxobacteria and located in
+unique phylogenetic linaeges may be those cells that
+are truly the non-fruiting myxobacteria. The uncultured
+myxobacteria may be truly uncultivable, or the optimum
+culture conditions have not yet been established. As for
+the taxonomy of myxobacteria, the isolated fruiting
+myxobacteria represent only a small fraction of the
+diversity of this phylogenetic group. To isolate the
+uncultured but cultivable myxobacteria will require the
+development of new morphogenesis-independent isolation techniques.
+3. Myxobacteria are phylogenetically placed in the d-division of the proteobacteria. Compared with the other
+members of the this division, myxobacteria show complicated social behavior, at least among those species
+that have been isolated and cultured. However, sociality
+is not a consistent characteristic. The sociality of Myxococcus xanthus, and particularly the ability to form fruiting bodies can rapidly degrade under asocial growth
+conditions (Velicer et al., 1998). Velicer et al. (2002) suggested that there is a direct trade-oﬀ between competitive
+ﬁtness in one particular environment and the maintenance of a social trait. The phylogenetic analysis of the
+uncultured soil myxobacteria 16S rRNA gene sequences
+described in this paper not only supports the suggestions
+of Velicer et al. (1998, 2002), but also may indicate that
+the myxobacteria include non-fruiting types.
+
+551
+
+Our studies of uncultured myxobacteria in soil greatly
+expand the phylogenetic breadth of this group. The
+appearance of the fruiting ability in myxobacteria is relatively recently derived trait that is found only in the
+myxobacteria. Whether fruiting body formation is an
+ancestral trait for the group that, along with gliding
+motility, deﬁnes the myxobacteria, or whether it has
+evolved independently in diﬀerent clades is an interesting
+question that the current study has not resolved. The isolation and culture of the non-fruiting types myxobacteria
+would not only oﬀer the opportunity to conﬁrm our
+hypothesis, but it would lead to a better understand of
+myxobacteria and their evolution.
+Acknowledgments
+This work was ﬁnancially supported by Grants
+30270023, 30470001 awarded by the Chinese National Natural Science Foundation and 2002CCCD1800 from the
+pre-973 Programs of China. We thank two anynomous
+reviewers for comments, and Associate Editor Matthew
+Kane for help with translation.
+References
+Brosius, J., Palmer, M.L., Kennedy, P.J., Noller, H.F., 1978. Complete
+nucleotide sequence of a 16S ribosomal RNA gene from Escherichia
+coli. Proc. Natl. Acad. Sci. USA 75, 4801–4805.
+Dawid, W., 2000. Biology and global distribution of myxobacteria in soils.
+FEMS Microbiol. Rev. 24, 403–427.
+Dworkin, M., 1996. Recent advances in the social and developmental
+biology of the myxobacteria. Microbiol. Rev. 60, 70–102.
+Fudou, R., Jojima, Y., Iizuka, T., Yamanaka, S., 2002. Haliangium
+ochraceum gen. nov., sp. nov. and Haliangium tepidum sp. nov.: novel
+moderately halophilic myxobacteria isolated from coastal saline
+environments. J. Gen. Appl. Microbiol. 48, 109–116.
+Guo, D., Bowden, M.G., Pershad, R., Kaplan, H.B., 1996. The Myxococcus xanthus rfbABC operon encodes an ATP-binding cassette
+transporter homolog required for O-antigen biosynthesis and multicellular development. J. Bacteriol. 178, 1631–1639.
+Iizuka, T., Jojima, Y., Fudou, R., Hiraishi, A., Ahn, J.W.,
+Yamanaka, S., 2003a. Plesiocystis paciﬁca gen. nov., sp. nov., a
+marine myxobacterium that contains dihydrogenated menaquinone,
+isolated from the Paciﬁc coasts of Japan. Int. J. Syst. Evol.
+Microbiol. 53, 189–195.
+Iizuka, T., Jojima, Y., Fudou, R., Tokura, M., Hiraishi, A., Yamanaka,
+S., 2003b. Enhygromyxa salina gen. nov., sp. nov., a slightly halophilic
+myxobacterium isolated from the coastal areas of Japan. Syst. Appl.
+Microbiol. 26, 189–196.
+Iizuka, T., Jojima, Y., Fudou, R., Yamanaka, S., 1998. Isolation of
+myxobacteria from the marine environment. FEMS Microbiol. Lett.
+169, 317–322.
+Kumar, S., Tamura, K., Nei, M., 2004. MEGA3: Integrated software for
+molecular evolutionary genetics analysis and sequence alignment.
+Brieﬁngs Bioinformat. 5, 150–163.
+Li, Y.Z., Li, J., Zhou, L., Zhang, Y., Hu, W., Chen, Q., 2000. Isolation
+and identiﬁcation of myxobacterial sources in China. Acta Microbiol.
+Sin. (in Chinese) 40, 652–656.
+Li, Y.Z., Hu, W., Zhang, Y.Q., Qiu, Z., Zhang, Y., Wu, B.H., 2002. A
+simple method to isolate salt-tolerant myxobacteria from marine
+samples. J. Microbiol. Methods 50, 205–209.
+Lu, A., Cho, K., Black, W.P., Duan, X.Y., Lux, R., Yang, Z., Kaplan,
+H.B., Zusman, D.R., Shi, W., 2005. Exopolysaccharide biosynthesis
+
+552
+
+D.-M. Jiang et al. / Molecular Phylogenetics and Evolution 44 (2007) 545–552
+
+genes required for social motility in Myxococcus xanthus. Mol.
+Microbiol. 55, 206–220.
+McCurdy, H.D., 1989. Order Myxococcales. In: Staley, J.T., Bryant,
+M.P., Pfennig, N., Holt, J.G. (Eds.), Bergey’s Manual of Systematic
+Bacteriology. Williams and Wilkins, Baltimore, pp. 2139–2170.
+Reichenbach, H., 1993. Biology of the myxobacteria: ecology and
+taxonomy. In: Dworkin, M., Kaiser, D. (Eds.), Myxobacteria II.
+American Society for Microbiology, Washington, DC, pp. 13–62.
+Reichenbach, H., 1999. The ecology of the myxobacteria. Environ.
+Microbiol. 1, 15–21.
+Reichenbach, H., 2004. The Myxococcales. In: Garrity, G.M. (Ed.),
+Bergey’s Manual of Systematic Bacteriology. Springer-Verlag, New
+York, pp. 1059–1143.
+Reichenbach, H., Dworkin, M., 1992. The myxobacteria. In: Balows, A.,
+Trüper, H.G., Dworkin, M., Harder, W., Schleifer, K.H. (Eds.), The
+Prokaryotes, second ed. Springer-Verlag, New York, pp. 3416–3487.
+Sambrook, J., Russell, D.W., 2001. Molecular Cloning: A Laboratory
+Manual, third ed. Cold Spring Harbor, NY, USA.
+Sanford, R.A., Cole, J.R., Tiedje, J.M., 2002. Characterization and
+description of Anaeromyxobacter dehalogenans gen. nov., sp. nov., an
+aryl-halorespiring facultative anaerobic myxobacterium. Appl. Environ. Microbiol. 68, 893–900.
+Shimkets, L.J., 1990. Social and developmental biology of myxobacteria.
+Microbiol. Rev. 54, 473–501.
+Shimkets, L.J., Dworkin, M., Reichbach, H., 2005. The myxobacteria. In:
+The Prokaryotes, third ed. Springer-Verlag, New York, NY, release
+3.19.
+Shimkets, L., Woese, C.R., 1992. A phylogenetic analysis of the
+myxobacteria: basis for their classiﬁcation. Proc. Natl. Acad. Sci.
+USA 89, 9459–9463.
+Spröer, C., Reichenbach, H., Stackebrandt, E., 1999. The correlation
+between morphogenetic classiﬁcation of myxobacteria. Int. J. Syst.
+Bacteriol. 49, 1255–1262.
+
+Stackebrandt, E., Päuker, O., 2005. Gene sequence heterogeneity of
+Corallococcus coralloides strains isolated from geographically diverse
+locations. Environ. Microbiol. 7, 1017–1023.
+Thaxter, R., 1892. Contributions from the cryptogamic laboratory of
+Harvard University. XVI-II. On the Myxobacteriaceae, a new order of
+Schizomycetes. Bot. Gaz. 14, 389–406.
+Thompson, J.D., Gibson, T.J., Plewniak, F., Jeanmougin, F., Higgins,
+D.G., 1997. The CLUSTAL_X windows interface: ﬂexible strategies
+for multiple sequence alignment aided by quality analysis tools.
+Nucleic Acids Res. 25, 4876–4882.
+Velicer, G.J., Kroos, L., Lenski, R.E., 1998. Loss of social behaviors by
+Myxococcus xanthus during evolution in an unstructured habitat.
+Proc. Natl. Acad. Sci. USA 95, 12376–12380.
+Velicer, G.J., Lenski, R.E., Kroos, L., 2002. Rescue of social motility lost
+during evolution of Myxococcus xanthus in an asocial environment. J.
+Bacteriol. 184, 2719–2727.
+Watve, M.G., Shete, A.M., Jadhave, N., Wagh, S.A., Shelar, S.P.,
+Chakraborti, S.S., Botre, A.P., Kulkarni, A.A., 1999. Myxobacterial
+diversity in Indian soils—how many species do we have? Curr. Sci. 77,
+1089–1095.
+Wu, Z.H., Jiang, D.M., Li, P., Li, Y.Z., 2005. Exploring the diversity of
+myxobacteria in a soil niche by myxobacteria-speciﬁc primers and
+probes. Environ. Microbiol. 7, 1602–1610.
+Yan, Z.C., Wang, B., Li, Y.Z., Gong, X., Zhang, H.Q., Gao, P.J., 2003.
+Morphologies and phylogenetic classiﬁcation of cellulolytic Myxobacteria. Syst. Appl. Microbiol. 26, 104–109.
+Zhang, J., Wang, R., Jiang, P., Liu, Z., 2002a. Production of an
+exopolysaccharide bioﬂocculant by Sorangium cellulosum. Lett. Appl.
+Microbiol. 34, 178–181.
+Zhang, J., Liu, Z., Wang, S., Jiang, P., 2002b. Characterization
+of a bioﬂocculant produced by the marine myxobacterium
+Nannocystis sp. NU-2. Appl. Microbiol. Biotechnol. 59, 517–
+522.
+
+

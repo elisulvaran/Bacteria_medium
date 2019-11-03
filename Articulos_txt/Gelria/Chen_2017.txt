@@ -1,0 +1,933 @@
+Bioresource Technology 245 (2017) 502–510
+
+Contents lists available at ScienceDirect
+
+Bioresource Technology
+journal homepage: www.elsevier.com/locate/biortech
+
+Impact of temperatures on microbial community structures of sewage sludge
+biological hydrolysis
+
+MARK
+
+⁎
+
+Huibin Chen, Sheng Chang
+
+School of Engineering, University of Guelph, Ontario N1G 2W1, Canada
+
+G RA P H I C A L AB S T R A C T
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Biological hydrolysis
+Temperature
+Sewage sludge
+Illumina MiSeq sequencing
+Microorganism community structure
+
+This study investigated the biological hydrolysis performance at 35 °C (BH35), 42 °C (BH42), and 55 °C (BH55)
+and the eﬀect of temperatures on microbial communities of the hydrolyzed sludge. The results showed that the
+suspended solid reduction, volatile fatty acids (VFA) production, and biogas production increased with the BH
+temperatures. VFAs produced in the sludge BH included acetic acid, propionic acid, isobutyric acid, butyric acid,
+and isovaleric acid with the fractions of acetic acid increased with BH temperatures. The Illumina MiSeq sequencing analysis showed that the microbial taxonomic structures of the BH systems varied with BH temperatures. It was found that Acidaminobacter at 35 °C, Proteiniphilum and Lutispor at 42 °C, and Gelria at 55 °C were the
+main protein fermenting bacteria genera, while the carbohydrate fermenting bacteria might belong to the genera
+of Macellibacteroides and Paludibacter at 35 °C, Fronticella at 42 °C, and Tepidimicrobium at 55 °C.
+
+1. Introduction
+Anaerobic digestion (AD) of activated sludge has gained increasing
+interests due to its essential role in reducing carbon footprints of wastewater treatment plants via energy recovery and waste reduction.
+Biological hydrolysis/acidiﬁcation (BH) is a widely used pre-treatment
+process to increase the methanogenic degradation of complex organic
+compounds for methane production (Ding et al., 2017; Gao et al., 2011;
+
+⁎
+
+Corresponding author.
+E-mail address: schang01@uoguelph.ca (S. Chang).
+
+http://dx.doi.org/10.1016/j.biortech.2017.08.143
+Received 8 August 2017; Received in revised form 20 August 2017; Accepted 22 August 2017
+Available online 24 August 2017
+0960-8524/ © 2017 Elsevier Ltd. All rights reserved.
+
+Ucisik and Henze, 2008; Wang et al., 2014; Yang et al., 2015a). Temperature is one of the key BH process parameters that can exert a
+profound impact on the hydrolysis performance (Chu et al., 2008;
+Duarte et al., 2015; Liu et al., 2013). Although the eﬀect of BH conditions on the biomass hydrolysis performance have been assessed by a
+number of studies (Chu et al., 2008; Zhang et al., 2009), knowledge of
+microbial communities structures in sludge BH systems is far from
+adequate for understanding sludge BH mechanisms.
+
+Bioresource Technology 245 (2017) 502–510
+
+H. Chen, S. Chang
+
+was assessed by examining the change in the sludge TSS and VSS
+contents according to the Standard Methods (APHA-AWWA-WEF,
+2005). The VFA compositions were measured using an Agilent 5890 gas
+chromatography (GC) (Agilent Technologies, US) with an Agilent J & W
+GC column (DB-FFAP 30 m × 0.25 mm) and a ﬂame ionization detector (FID). The injector and detector temperatures were 250 °C and
+nitrogen was used as the carrier gas. The oven temperature was increased from 80 °C to 120 °C at a rate of 20 °C/min and held at 120 °C
+for 4 min, and then increased from 120 °C to 220 °C at a rate of 6.1 °C/
+min and held at 220 °C for 5 min. Volatile fatty acid mix standards
+(Sigma-Aldrich, Canada) including acetic, propionic, isobutyric, butyric, isovaleric, valeric, 4-methylvaleric (isocaproic), hexanoic (caproic), and heptanoic acids were used for the peak identiﬁcation and
+standard curve determination.
+
+The anaerobic conversion of organics into methane gas involves the
+hydrolysis, acidogenesis, acetogenesis, and methanogenesis steps (Lee
+et al., 2014). Hydrolysis and acidogenesis bacteria, or the so-called
+primary fermenters, catalyze the extracellular hydrolytic degradation of
+polymers into oligo- or monomers and intracellular conversion of sugars, amino acids, fatty acids and other monomers into fatty acids,
+lactate, alcohols, etc. Acetogenesis bacteria, or the secondary fermenters, degrade products of the primary fermentation into acetate, H2, and
+CO2. The methanogenesis converts acetogenesis products into methane
+gas via two main pathways: acetoclastic and hydrogenotrophic CH4
+production (Da Silva et al., 2015). The complete conversion of complex
+organics to methane relies on syntrophic interactions of primary fermenters, secondary fermenters, and methanogens because mutual metabolic dependencies between diﬀerent groups of anaerobic microorganisms eliminate the accumulation of intermediate hydrolysis
+products, making the conversion of complex organics to methane
+thermodynamically favorable (Schink and Stams, 2013). The syntrophic interactions in the sludge BH systems will depend on the microbial community structures and compositions. Thus, the determination of bacterial and archaeal community structures of BH systems
+would be of great importance for the understanding of microbial syntrophic interactions and process mechanisms of the sludge biological
+hydrolysis.
+Illumina MiSeq Sequencing is an eﬀective method for the characterization of microbial community structures. Compared to the conventional cultivation and biological molecular methods, Illumina MiSeq
+Sequencing can generate an enormous number of sequences, providing
+an excellent platform for the analysis of microorganism communities in
+wastewater treatment systems (Lin et al., 2016; Sheng et al., 2017; Xie
+et al., 2016; Zamanzadeh et al., 2016). With the use of Illumina MiSeq
+sequencing platform, Xie et al. (2016) revealed that the phyla of Bacteroidetes, Proteobacteria, and Firmicutes were dominant in the hydrolysis acidiﬁcation reactors treating dyeing wastewater. Lin et al. (2016),
+who investigated the eﬀect of temperature on microbial communities in
+the anaerobic digestion of organic food waste, revealed that the phyla
+of Firmicutes, Chloroﬂexi, Bacteoridetes, and Actinobacteria were dominant under mesophilic conditions while the phyla of Firmicutes, Thermotogo, Synergistales dominated under thermophilic conditions.
+The objective of this study was to investigate the eﬀect of temperature on microorganism communities in the sludge BH systems.
+Temperature is one of the most critical process parameters for the
+sludge BH treatment. It can exert a critical impact on the types of microorganisms, fermentation pathways, and end-products of sludge BH.
+In this study bench-scale hydrolysis and biochemical methane potential
+(BMP) tests were carried out to assess the performance of sludge BH at
+35 °C, 42 °C, and 55 °C. The high throughput Illumina MiSeq sequencing platform was used to determine the microbial community structures at the BH temperatures tested. Based on the MiSeq sequencing
+results, the characteristics of microbial community structures, syntrophic interactions and main functional fermenting bacteria under
+mesophilic and thermophilic BH conditions were discussed.
+
+2.2. Biochemical methane potential test
+The biogas production from the hydrolyzed sludge was assessed
+using the BMP method. The BMP test procedure followed those of Owen
+et al.(1979) and Angelidaki et al. (2009) with modiﬁcations. Brieﬂy,
+the main steps included (1) ﬁlling 30 mL of the hydrolyzed sludge and
+the equal volume of seed sludge into a 125 mL serum bottles (American
+Scientiﬁc Products, McGraw Park III); (2) ﬂushing the headspace of the
+bottles with N2 for 15 s; and (3) capping the BMP bottles with rubbers
+and aluminum crimp; and (4) placing the sealed BMP bottles upside
+down in a shaking incubator (New Brunswick Scientiﬁc C25) with the
+temperature setting at 35 °C. The BMP tests lasted for 10 days and the
+biogas produced during the BMP test periods was measured using glass
+syringes (Popper and Sons Inc.) ﬁtted with a disposable needle. BMP
+bottles only ﬁlled with AD seed sludge and MilliQ water were used as
+the blanks to estimate the biogas generated from the seed sludge. Triplicated BMP bottles were used for each of the hydrolysis temperature
+conditions and the blanks.
+2.3. DNA extraction
+The PowerSoil DNA Isolation Kit (MOBIO Laboratories, Inc.) was
+used to extract DNA from the raw sludge and hydrolyzed sludge. The
+sludge samples were centrifuged at 10,000g for 10 min and the pellets
+were used for DNA extraction according to the PowerSoil kit manufacture’s protocol. The extracted DNA was eluted using 100 μL sterile
+DNA-Free PCR Grade Water. The extracted DNA was quantiﬁed by
+using the NanoDrop 2000 spectrophotometer (Thermo Scientiﬁc,
+Canada) and stored at −20 °C for further use.
+2.4. 16S rDNA gene ampliﬁcation and Illumina MiSeq sequencing
+The primer pairs of 515F (5′-GTGCCAGCMGCCGCGG-3′) and 926R
+(5′-CCGTCAATTCMTTTGAGTTT-3′) that have been demonstrated to
+have the high coverages of almost all phyla in metagenomic analyses
+(Baker et al., 2003) were used to amplify the V4 and V5 regions of
+bacterial 16S rRNA genes of the extracted DNA. The primer pairs of
+519F (5′-CAGCCGCCGCGGTAA-3′) and 915R (5′-GTGCTCCCCCGCCAATTCCT-3′) were used to amplify the 16S rRNA genes of methanogenic
+archaeal (Wei et al., 2015). The PCR reaction agent consisted of the
+1 μL template, 1 μL of 10 mM dNTPs, 1 μL of 10 μM of primers, 1 U of
+Phusion DNA Polymerase, and 10 μL of 5 × reaction buﬀer (New
+England Biolabs, USA). The bacterial and archaeal PCR conditions were
+programmed as: denaturation at 94 °C for 2 min, followed by 25 cycles
+for bacteria or 30 cycles for archaea at 94 °C for 30 s, 56 °C for 30 s,
+extension at 72 °C for 30 s; with a ﬁnal extension of 72 °C for 5 min.
+The Illumina Nextera XT Index kit (Illumina Inc., San Diego. CA,
+USA) was used to attach 5′ MiSeq adapter and barcode to the amplicons
+for multiplexing following the manufacture’s protocol. The amplicons
+were puriﬁed using the DNA gel extraction kit of AxyPrepDNA (Axygen,
+China) and quantiﬁed by using the FTC-3000TM real-time PCR before
+
+2. Material and methods
+2.1. Sludge source and hydrolysis experiments
+The raw sludge (RS) and seed sludge used in the BMP tests were
+taken, respectively, from the secondary clariﬁer and the anaerobic digester of Guelph Wastewater Treatment Plant, Ontario, Canada, and
+were transported to the laboratory within 2 h.
+For the BH experiments, the RS was ﬁlled into a 1.5 L plastic bottle
+without addition of seed sludge, ﬂushed with N2 for 1 min, and then
+sealed for hydrolysis reactions. The hydrolysis experiments at 35 °C,
+42 °C, and 55 °C were carried out in parallel by placing these sludgeﬁlled plastic bottles into shaking incubators at the desired temperatures
+for six days. The sludge solubilisation caused by the 6-day hydrolysis
+503
+
+Bioresource Technology 245 (2017) 502–510
+
+H. Chen, S. Chang
+
+library pooling. The puriﬁed multiplexed amplicons were sequenced by
+the paired-end sequencing (2 × 300 bp reads) on the MiSeq platform
+using MiSeq Reagent Kit V3 (TinyGene Bio-Tech, Co., Ltd. Shanghai,
+China).
+2.5. Illumina data analysis
+All sequences were read and classiﬁed according to the barcodes
+after sequencing on the MiSeq platform. The raw data were reverted as
+the FASTQ ﬁle of the forward or reverse sequences for each sample. The
+resulting sequences were processed mainly upon software of mothur
+(version 1.35.1) following the pipeline outline of the MiSeq SOP
+(Schloss et al., 2009). The remaining sequences after assembling of
+contigs and ﬁltering of length and ambiguous reads were aligned with
+the version 119 of SILVA databases (Pruesse et al., 2007). All reads of
+the archaeal communities were merged and trimmed as bacteria.
+Shannon index was used for the diversity calculation. The richnesses
+were described based on the abundance-based coverage estimator
+(ACE) and species richness estimators (Chao1). The microbiological
+similarities for the sludge samples obtained under diﬀerent conditions
+were calculated by the OTU overlapping in Venn diagram, and the
+distances of variation of microbiological communities were presented
+by the principal component analysis (PCA).
+3. Results
+3.1. Eﬀect of temperatures on the solid solubilization and biogas production
+Experiments demonstrated that BH could result in a considerable
+suspended solid solubilization and VFA production. Fig. 1a–c show the
+TSS and VSS reductions, VFA concentrations, and VFA fractions at the
+end of 6-day hydrolysis at 35 °C, 42 °C, and 55 °C. The VSS reductions of
+35.4%, 37.3%, and 42.4% and TSS reductions of 28.9%, 31.0%, and
+33.5% were achieved in the 6-day hydrolysis at 35 °C, 42 °C, and 55 °C,
+respectively (Fig. 1a). Accordingly, the VFA concentrations in sludge
+were increased from the initial concentration of 24.5 mg/L to
+666.5 mg/L, 918.4 mg/L, and 1398.5 mg/L in the 6-d hydrolysis at
+35 °C, 42 °C, and 55 °C, respectively. VFAs determined by the GC analysis in the hydrolyzed sludge included acetic acid, propionic acid,
+isobutyric acid, butyric acid, isovaleric acid, valeric acid, 4-methylvaleric acid (isocaproic), hexanoic acid (caproic), and heptanoic acid
+(Fig. 1b). The concentration of acetic acid increased from 210.8 mg/L
+at 35 °C, 356.1 mg/L at 42 °C, to 615.0 mg/L at 55 °C. The sum of the
+concentrations of acetic acid, propionic acid, isobutyric acid, butyric
+acid, isovaleric acid, and valeric acid counted for 81.5%, 88.0%, and
+92.3% of the total detected VFAs at 35 °C, 42 °C, and 55 °C, respectively. The fractions of acetic, isobutyric, and isovalric acid increased
+while those of propionic acid, valeric acid, isocaproic, caproic, and
+heptanoic acid reduced with the increase in the hydrolysis temperature
+(Fig. 1c). These results indicated that BH temperature not only exerted
+a positive eﬀect on the sludge solubilization and VFA productions but
+also aﬀected the compositions of VFAs.
+Sludge treated at diﬀerent BH temperatures was assessed for biogas
+production using the BMP method outlined in Section 2.2. Fig. 2 shows
+that the accumulated biogas produced by sludge hydrolyzed at 35 °C,
+42, oC, and 55 °C. As shown in Fig. 2, sludge treated at 42 °C and 55 °C
+showed a higher biogas production than that treated at 35 °C although
+no signiﬁcant diﬀerence in biogas production from sludge treated at
+diﬀerent temperatures was observed in the ﬁrst 50 h of the BMP tests.
+
+Fig. 1. TSS and VSS reductions (a), VFA concentrations (b), and VFA fractions (c) after 6day hydrolysis at 35 °C, 42 °C, and 55 °C.
+
+All the eﬀective sequencing tags were clustering at a 97% similarity at
+the species level, and more than 500 OTUs were obtained for each of
+the individual samples. The Shannon index of the RS, BH35, BH42, and
+BH55 sludge was 4.6, 4.5, 4.3, and 4.5 respectively, corresponding to
+ACE of 602, 707, 675, and 730, respectively, and Chao1 of 606, 708,
+694, and 740, respectively. The RS and the BH treated samples all
+showed the high indexes, suggesting the high bacterial diversities and
+richness of these sludge samples.
+The Venn diagram reﬂects the similarity of the OTUs of the sludge
+samples (Fig. 3). The samples tested had a total 380 overlapped OTUs
+with 468 OTUs overlapped among the sludge hydrolyzed at 35 °C,
+42 °C, and 55 °C. The overlapped OTUs between the RS and the hydrolyzed sludge were 473, 470, and 501 for the BH35, BH42, and BH55
+sludge, respectively. It is interesting to note that there were more
+overlapped OTUs between the BH55 and RS sludge than between the RS
+and the BH35 or BH42 sludge. Similar to the OTU overlap analysis, the
+Principal Component Analysis (PCA) also indicated that the microbial
+
+3.2. Microbial community diversity of bacteria
+Microbial communities at diﬀerent BH temperatures were characterized using the Illumine MiSeq sequencing platform. The average
+total eﬀective sequencing tags were 62,439 for the RS, and 58,803,
+67,348, and 73,988 for the BH35, BH42, and BH55 sludge, respectively.
+504
+
+Bioresource Technology 245 (2017) 502–510
+
+H. Chen, S. Chang
+
+communities of the sludge treated at 55 °C had a higher similarity to the
+RS than those treated at 35 °C and 42 °C (Fig. 3b).
+3.3. Bacterial community structures
+Fig. 4a shows the microbial abundances at the phylum level in the
+RS and sludge treated at diﬀerent temperatures. For the RS, the
+dominant phyla were Proteobacteria (59.2%) and Bacteroidetes (31.6%).
+The dominant phyla with the BH35 sludge were Bacteroidetes (46.8%),
+Firmicutes (19.8%), Proteobacteria (14.1%), and Spirochaetes (13.3%).
+Similar to the BH35 sludge, the BH42 sludge contained Bacteroidetes
+(37.9%), Firmicutes (30.9%), and Proteobacteria (25.2%). The dominant
+phyla in the BH55 sludge were Proteobacteria (47.6%) and Firmicutes
+(34.0%), plus a signiﬁcant amount of Actinobacteria (5.6%), Tenericutes
+(4.1%), and Bacteroidetes (4.2%). Both the RS and BH55 sludge showed
+a high population of bacteria belonging to Proteobacteria, which may
+explain the high similarity in the 16S rRNA gene sequences between the
+RS and BH55 sludge (Fig. 3b). At the phylum level, Firmicutes and
+Proteobacteria populations increased with the BH temperatures, while
+Bacteroidetes decreased dramatically at 55 °C (Fig. 4a–c).
+At the class level, the top 5 predominant classes in the RS were βproteobacteria, Flavobacteria, Sphingobacteriia, α-proteobacteria, and γproteobacteria, which accounted for 30.8%, 14.9%, 14.7%, 13.3%, and
+11.2% of total detected OTUs, respectively (Fig. 4b). After the RS had
+been hydrolyzed at 35 °C for six days, the dominant classes in the sludge
+changed to Bacteroidia (33.3%), unclassiﬁed (19.0%), Clostridia
+(15.9%), α-proteobacteria (6.3%), and Spirochaetes (4.1%) (Fig. 4b),
+showing that the anaerobic hydrolysis caused a substantial reduction in
+the population of β-proteobacteria, Flavobacteria, and γ-proteobacteria.
+The dominant classes with the BH42 sludge were Clostridia (30.4%),
+Bacteroidia (30.2%), β-proteobacteria (10.7%), α-proteobacteria (6.1%),
+and γ-proteobacteria (6.3%). The BH55 sludge was dominated by the
+class Clostridia (28.1%), β-proteobacteria (23.2%), α-Proteobacteria
+(11.4%), γ-proteobacteria (11.2%), and Negativicutes (5.5%). The bacteria associated with the classes of Clostridia and β-Proteobacteria evidently increased with the increase in temperature. Thus, Clostridia was
+identiﬁed as the dominant class of phylum Firmicutes in the BH35,
+BH42, and BH55 sludge and Bacteroidia as the dominant class of the
+phylum of Bacteroidetes in the BH35 and BH42 sludge.
+Table 1 shows the main families identiﬁed for RS, BH35, BH42, and
+BH55 sludge. Apparently, the family structures of the sludge treated at
+diﬀerent temperatures were considerably diﬀerent. For the BH35 and
+BH42 sludge samples, around 30% of the identiﬁed OTUs belonged to
+Rikenellaceae and Porphyromonadaceae, while the fractions of these two
+families in the BH55 sludge drastically decreased to less than 3%. Also,
+the family Spirochaetaceae that has members to metabolize carbohydrates and amino acids showed a signiﬁcant presence in BH35 sludge
+but much less in the BH42 and BH55 sludge. In addition, the families of
+Comamonadaceae, Ruminococcaceae, and Thermoanaerobacteraceae
+dominated at 55 °C but only existed as minor groups in the BH35 and
+BH42 sludge samples.
+The fractions of OTUs of unclassiﬁed genera were 32.8%, 60.1%,
+51.0%, and 33.4% for the RS, BH35, BH42, and BH55 sludge, respectively. It is interesting to note that the percentages of unclassiﬁed
+genera in the BH sludge decreased signiﬁcantly with the increase in the
+hydrolysis temperature. For the identiﬁed genera, Flavobacterium,
+Zoogloea, Haliscomenobacter, and Novosphingobium counted for 12.2%,
+9.6% 4.2%, and 4.0% of the total OTUs, respectively, in the RS
+(Fig. 4c). The dominant bacterial genera in the sludge switched to
+Macellibacteroides (7.5%) and Acidaminobacter (5.6%) after being hydrolyzed at 35 °C for six days. Lutispora (9.8%), Albidiferax (4.3%), and
+Proteiniphilum (4.5%) were the three predominant genera identiﬁed in
+the BH42 sludge. For the BH55 sludge, the genera of Gelria (7.2%),
+Albidiferax (5.6%), Simplicispira (4.4%), and Hialoplasma (4.0%) were
+identiﬁed as the dominant groups. Overall, the identiﬁed bacteria
+genera structures with the RS, BH35, BH42, and BH55 sludge were very
+
+Fig. 2. Biogas production from sludge hydrolysed at 35 °C, 42 °C, and 55 °C during 10-day
+BMP tests.
+
+Fig. 3. (a) Bacterial Venn diagram at distance 0.03 and (b) the PCA on the basis of 16S
+rRNA gene sequencing. F0_1 and F0_2: RS (duplicates); F1 and F2: BH 35 sludge (duplicates); F3 and F4: BH 42 sludge (duplicates); F5 and F6: BH55 sludge (duplicates).
+
+505
+
+Bioresource Technology 245 (2017) 502–510
+
+H. Chen, S. Chang
+
+Fig. 4. Microbial community structures at the phylum (a), class (b), and genus (c) levels for the initial, BH35, BH42, and BH55 sludge. F0_1 & F0_2: RS (duplicates); F1 & F2: BH35 sludge
+(duplicates); F3 & F4: BH 42 sludge (duplicates); F5 & F6: BH55 sludge (duplicates).
+
+BH42 sludge, and 80% for the BH55 sludge. At the family level, Methanocorpusculaceae, Methanobacteriaceae, and Methanosarcinaceae accounted for 81%, 14.3% and 2.2% of the archaeal OTUs, respectively,
+in the BH35 sludge; and Methanobacteriaceae and Methanosarcinaceae
+accounted for 56.0% and 38.3%, respectively, in the BH42 sludge. As
+the temperature increased from 42 °C to 55 °C, the percentage of Methanobacteriaceae increased to 80%, while Methanocorpusculaceae and
+Methanosarcinaceae were down to 11.6% and 7.0%, respectively.
+At the genus level, the predominant archaea grew at BH35 were
+Methanocorpusculum
+(81.2%),
+Methanobrevibacter
+(7.2%),
+Methanobacterium (6.8%), and Methanosarcina (1.7%). For BH42, the
+genera of Methanobrevibacter, Methanosarcina, and Methanobacterium
+increased to 37.9%, 37.2%, and 18.3%, respectively, while the genus of
+
+diﬀerent, reﬂecting the variance in the functional hydrolysis bacteria
+under diﬀerent hydrolysis temperature conditions.
+3.4. Archaeal diversities and communities
+Fig. 5 shows the fractions of various archaeal classes, families, and
+genera in the BH35, BH42, and BH55 sludge. Methanomicrobia and
+Methanobacteria were identiﬁed to be the dominant classes for all the
+tested sludge but the distributions of these two classes were diﬀerent in
+the sludge treated at diﬀerent temperatures. The class of Methanomicrobia accounted for 84% of the total archaeal OTUs for the BH35
+sludge, 40% for the BH42 sludge, and 19% for the BH55 sludge, while
+Methanobacteria accounted for 14% for the BH35 sludge, 56% for the
+506
+
+Bioresource Technology 245 (2017) 502–510
+
+H. Chen, S. Chang
+
+Methanocorpusculum
+was
+almost
+disappeared.
+For
+BH55,
+Methanothermobacter accounted for 58.0% while the genera of
+Methanocorpusculum
+(11.5%),
+Methanobrevibacter
+(9.9%),
+Methanobacterium (11%), and Methanosarcina (7.0%) were largely
+suppressed. Overall, Methanocorpusculum ﬂourished at 35 °C;
+Methanobrevibacter and Methanosarcina well grew at 42 °C; and
+Methanothermobacter became dominant at 55 °C.
+
+Table 1
+Phylogenetic family structures of the RS, BH35, BH42, and BH55 sludge (OTUs fraction > 1%).
+Family
+
+Relative abundance (%)
+
+Rikenellaceae
+Porphyromonadaceae
+Sphingomonadaceae
+Ruminococcaceae
+Saprospiraceae
+Comamonadaceae
+Flavobacteriaceae
+Xanthomonadaceae
+Rhodobacteraceae
+Rhodocyclaceae
+Haliangiaceae
+Gracilibacteraceae
+Thermotogaceae
+Lachnospiraceae
+Burkholderiaceae
+Thermoanaerobacteraceae
+Intrasporangiaceae
+Spirochaetaceae
+Erysipelotrichaceae
+Cytophagaceae
+Unclassiﬁed
+
+RS
+
+35 °C
+
+42 °C
+
+55 °C
+
+<1
+<1
+6.4
+<1
+9.0
+12.7
+12.3
+9.0
+2.6
+15.7
+1.8
+<1
+<1
+<1
+<1
+<1
+<1
+<1
+<1
+1.2
+14.0
+
+17.2
+13.2
+2.8
+2.7
+2.7
+3.0
+2.7
+2.0
+1.0
+<1
+<1
+<1
+<1
+<1
+<1
+<1
+<1
+13.1
+3.5
+1.0
+26.9
+
+14.2
+15.6
+2.8
+6.3
+2.5
+8.1
+2.6
+5.3
+<1
+<1
+<1
+10.1
+2.4
+3.1
+1.8
+<1
+<1
+<1
+<1
+<1
+16.9
+
+<1
+<1
+3.9
+9.1
+<1
+16.7
+<1
+9.9
+3.4
+2.8
+4.0
+2.1
+1.8
+<1
+2.4
+7.2
+1.8
+1.7
+<1
+<1
+19.6
+
+4. Discussion
+4.1. Impact of biological hydrolysis temperature on microbial structures
+The experimental data obtained in this study showed the impact of
+temperatures on the BH of sewage sludge. The sludge BH at 55 °C enhanced the reduction of suspended solid (TSS and VSS) and production
+of VFA, in agreement with the previous studies reported by Zhang et al.
+(2009), who showed that the VSS reduction by thermophilic fermentation was greater than that by mesophilic fermentation. These notable
+processing changes of hydrolyzed sludge at diﬀerent BH temperatures
+were further linked to the change in the bacterial and archaeal structure
+by Illumina MiSeq sequencing. Taxonomic identiﬁcation showed the
+shifts of microbiological structures with the BH35, BH42, and BH55
+sludge at diﬀerent levels in present work. Most of the microbiology was
+clearly classiﬁed to the family level, which revealed the signiﬁcant
+
+Fig. 5. Archaea compositions at the class (a), family (b), and genus (c) levels in the BH sludge hydrolysed at 35 °C, 42 °C, and 55 °C.
+
+507
+
+Bioresource Technology 245 (2017) 502–510
+
+508
+
+T. xylanilyticum (Niu et al., 2009)
+
+Note: CF: carbohydrate fermenting; PU: Protein user; “X” means that the genus identiﬁed specie has this function.
+
+BH42 (3.2%)
+Firmicutes/Clostridiales/Fonticellla
+
+X
+
+X
+BH55 (3.2%)
+
+X
+
+F. tunisiensi (Fraj et al., 2013)
+
+Thermophilic anaerobic digester treating municipal solid
+waste and sewage
+Water sample of a hot spring
+
+G. glutamica (Plugge et al., 2002)
+
+Propionate, H2, NH4+, CO2 from glutamate and proline;
+acetate, propionate, CO2 and H2 from sugars
+Acetate, ethanol, butyrate, H2 and trace amount of
+propionate
+Formate, acetate, ethanol and CO2
+X
+
+Firmicutes/Thermoanaeroba-cterales/
+Gelria
+Firmicutes/Clostridiales/Tepidimicrobium
+
+X
+
+Anaerobic thermophilic methanogenic bioreactor treating
+artiﬁcial solid wastes
+Propionate–oxidizing methanogenic enrichment culture
+L. thermophile (Shiratori et al., 2008)
+Propionate and isovalerate
+
+BH35 (3.2%)
+BH35 (3.2%)
+BH42 (4.5%)
+
+BH42 (9.8%) BH55
+(2.0%)
+BH55 (7.2%)
+
+X
+X
+
+BH35 (7.5%)
+
+Bacteroidetes/Bacteroidales/
+Macellibacteroides
+Firmicutes/Clostridiales/Fusibacter
+Bacteroidetes/Bacteroidale/Paludibacter
+Bacteroidetes/Bacteroidales/
+Proteiniphilum
+Bacteroidetes/Bacteroidales/Lutispora
+
+X
+X
+
+BH35 (5.6%)
+Firmicutes/Clostridiales/Acidaminobacter
+
+X
+
+Acetate, butyrate, CO2 and H2
+Propionate and acetate
+Acetate and NH3
+
+Water sample from an oil-producing well
+Rice plant residue in anoxic rice-ﬁeld soil
+Brewery wastewater UASB
+F. paucivorans (Ravot et al., 1999)
+P. propionicigenes (Ueki et al., 2006)
+P. acetatigenes (Chen and Dong, 2005)
+
+Lactate, acetate, butyrate and isobutyrate
+
+Upﬂow anaerobic ﬁlter treating abattoir wastewater
+
+A. hydrogenoformans (Stams and
+Hansen, 1984)
+M. fermentans (Jabari et al., 2012)
+Acetate, propionate
+X
+
+Products
+PU
+CF
+
+The complex organics in sludge BH can be degraded by primary and
+secondary fermentative bacteria (Schink and Stams, 2013). This study
+revealed that the hydrolysis temperature could exert signiﬁcant impact
+on the types of fermentative bacteria in the sludge BH systems. Table 2
+summarized the main genera identiﬁed at 35 °C, 42 °C, and 55 °C that
+may contain typical protein and carbohydrate fermenting bacterial
+species, most of which were isolated from wastewater treatment systems. The main protein fermenting bacteria could be associated with
+the genera of Acidaminobacter at 35 °C, Lutispora and Proteiniphilum at
+42 °C, and Gelria, Tepidimicrobium, and Lutispora (2.0%) at 55 °C. All of
+these genera excepting Proteiniphilum belong to the order of clostridials.
+The physiology characteristics of these identiﬁed protein fermenting
+genera were illustrated in Table 2 based on those of the isolated species
+reported previously by other researchers.
+The dominant carbohydrates fermenting bacteria also varied in the
+BH35, BH42, and BH55 sludge (Table 2). The genus Macellibacteroides
+was determined to be the main carbohydrate degrading bacteria in the
+BH35 sludge. The isolated species of Macellibacteroides can utilize a
+broad range of mono- and disaccharides as electron donors with the
+main fermentation products to be lactate, acetate, butyrate and isobutyrate from glucose metabolism (Jabari et al., 2012). Other carbohydrates fermenting bacteria detected in BH35 sludge could be associated with the genera of Paludibacter and Fusibacter (Ueki et al., 2006;
+Ravot et al., 1999). For the sludge hydrolysis at 42 °C, the main
+
+Percentage
+
+4.2. Impact of biological hydrolysis temperature on protein and
+carbohydrate fermenting bacteria
+
+Phylum/order/genus
+
+Table 2
+Summarized main genera in the BH 35, BH42, and BH55 and their previous reported species for proteins or carbohydrate fermenting.
+
+Isolated species
+
+Isolation source
+
+diﬀerence in the microbial communities between the mesophilic
+(BH35 & BH 42) and thermophilic (BH55) hydrolysis systems.
+Firmicutes, Proteobacteria, Bacteroidetes, and Actinobacteria accounted for more than 90% of the total identiﬁed OTUs in the BH35,
+BH42, and BH55 sludge. These phyla were also identiﬁed as the
+dominant bacteria phyla, by other researchers, in the wastewater hydrolysis acidiﬁcation reactors (Xie et al., 2016), the anaerobic sewage
+sludge co-digestion reactors (Yang et al., 2016), and the conventional
+anaerobic digesters (Nelson et al., 2011). Considering the complexity of
+microbiology in wastewater treatment systems, the descriptions of
+bacterial roles at class and family levels were widely accepted. For
+example, the classes of Clostridia and Bacteroidia that were found as
+dominant bacteria in the present study were previously depicted by
+Yang et al. (2015b) as dominant classes in Geobacillus sp. G1 hydrolysis
+of ultrasonic pretreated wasted activated sludge (WAS). Clostridia
+contained many types of fermentative organisms that produce hydrogen
+along with acetate, butyrate, ethanol, etc. (Arreola-Vargas et al., 2013),
+while Bacteroidia were reported playing a vital role in decomposing
+solid wastes and generating organic acids (Wong et al., 2013). In this
+study, the classes of Clostridia and Bacteroidia accounted for total fractions of 49.3% and 60.6% of the identiﬁed OTUs in the BH35 and BH42
+sludge, respectively. It can be speculated that bacteria associated with
+these classes played a major role in the mesophilic sludge solubilization
+and VFA production, while the class of Clostridia that counted for 28.1%
+of total OTUs in the BH55 sludge should play a major role in the sludge
+thermophilic fermentation. At the family level, the family Rikenellaceae
+associated with the order Bacteroidales was identiﬁed as a major bacterial family (17.3%) in BH35. The members of Rikenellaceae are
+anaerobic bacteria that usually use carbohydrates or proteins (Su et al.,
+2013). This study also showed that the family Ruminococcaceae increased sharply with the increase of the BH temperature. It was reported that bacteria associated with the Ruminococcaceae family can
+grow rapidly on cellulose and hemicellulose (Ali Shah et al., 2014). The
+considerably increased Ruminococcaceae population at 55 °C might
+suggest that the degradation of cellulose components of sewage sludge
+can be enhanced by thermophilic BH, which could, to some extent,
+contribute to the increased VSS reduction and VFAs productions at
+55 °C.
+
+Black mud
+
+H. Chen, S. Chang
+
+Bioresource Technology 245 (2017) 502–510
+
+H. Chen, S. Chang
+
+conversion of organic to acetic acid. It is well-known that thermophilic
+conditions favor the growth of hydrogenotrophic methanogens. The
+presence of hydrogenotrophic methanogens could be critical to the effective conversion of complex organics to acetate and other methanogen usable organics although methane production is not a primary
+objective of the BH. Thus, the higher acetate fractions obtained at 55 °C
+could be, to some extent, related to the enhanced syntrophic interactions between diﬀerent groups of organisms.
+
+carbohydrate fermenting bacteria were likely associated with the
+genera of Fronticella (3.2%), Macellibacteroides (3.2%), and Paludibacter
+(2.8%). For BH55, dominant bacteria Gelria and Tepidimicrobium that
+can use both protein and carbohydrate were not found in BH 35 and
+BH42, implying that thermophilic selected bacteria can exert a strong
+function in degradation of complex organics. In addition, some facultative bacteria, Simplicispira, Hydrogenophaga and Thermomonas,
+which can use nitrate as the electron acceptor (Gao et al., 2011;
+Kampfer et al., 2005; Mergaert et al., 2003), were found at a signiﬁcant
+amount in BH55, likely related to the relatively high NO3−-N concentrations (∼30 mg/L) in the secondary sludge used in this study.
+It is worth noting that bacteria associated with the genera of
+Macellibacteroides, Paludibacter, Fonticellla, and Tepidimicrobium were
+reported to be able to utilize sugars from the hydrolysis of cellulose and
+hemicellulose, including xylose, arabinose, cellobiose, and mannose,
+etc. This may imply that these carbohydrates fermenting bacterial could
+play an important role in degrading cellulose and hemicellulose materials to VFAs (Table 2).
+
+5. Conclusions
+The results showed that the volatile suspended solids (VSS) reduction, volatile fatty acids (VFA) production, and biogas production increased with the increase in the BH temperature. The Illumina MiSeq
+sequencing analysis revealed: Bacteroidetes (46.8%), Firmicutes (19.8%),
+Proteobacteria (14.1%), and Spirochaetes (13.3%) dominated in the
+BH35 sludge; Bacteroidetes (37.9%), Firmicutes (30.9%), and
+Proteobacteria (25.2%) dominated in the BH42 sludge, and
+Proteobacteria (47.6%) and Firmicutes (34.0%) dominated in the BH55
+sludge. The microbial structure analysis showed that the dominant
+protein and carbohydrate fermenting bacterial and hydrogen consuming methanogens varied in the sludge hydrolyzed at 35 °C, 42 °C
+and 55 °C.
+
+4.3. Microbial syntrophic interactions
+The protein- and carbohydrate-fermenting bacteria identiﬁed in the
+BH systems could produce a wide range of VFAs from fermentation of
+amino acids and sugars (Table 2). The VFA analysis conﬁrmed that
+acetic acid, propionic acid, isobutyric acid, butyric acid, isovaleric acid,
+valeric acid, 4-methylvaleric acid (isocaproic), hexanoic acid (caproic),
+and heptanoic acid were produced in the BH systems. Methanogens can
+only utilize acetate, H2, CO2, formate, etc. for methane production.
+Some secondary fermentation processes will degrade fatty acids with
+chains longer than 2 carbon atoms, alcohols longer than one carbon
+atoms, and branched-chain VFAs, and aromatic VFAs to acetate for
+methane production (Schink and Stams, 2013). However, most of the
+secondary fermentation processes are only thermodynamically favorable at low H2 partial pressures, e.g. < 10−5 bar. Thus, the presence of
+hydrogen-consuming bacteria could be critical for the secondary fermentation reactions to be carried on in the BH systems. In this study,
+the main hydrogen-consuming bacteria could be hydrogenotrophic
+methanogens, including Methanocorpusculum in the BH35 sludge, Methanobrevibacter and Methanosarcina in the BH42 sludge, and Methanothermobacter in the BH55 sludge. The methanogens associated with
+Methanocorpusculum, Methanobrevibacter and Methanothermobacter were
+all hydrogenotrophic methanogens that produce methane from CO2 and
+H2 (Nakamura et al., 2013; Sun et al., 2015), while members of Methanosarcina can use acetate and reduce CO2 with H2 for methane
+production (Leahy et al., 2017). In addition to hydrogenotrophic methanogens, other H2-utilizing bacteria identiﬁed in the BH systems in
+this study could include Fusibacter (Ravot et al., 1999) with the BH35
+sludge and Tepidimicrobium (Niu et al., 2009) with the BH55 sludge.
+Bacteria associated with these genera could reduce thiosulfate using H2
+as electron donor (Escoﬃer et al., 1998). In the BH42 and BH55 sludge
+around 4.3%–5.6% OTUs were identiﬁed associated with the genus of
+Albidiferax. This genus contains Fe (III) and Mn (IV) reducing bacteria
+that could also be potential H2 consumers.
+Acidaminobacter and Gelria identiﬁed in the BH35 and BH55 sludge
+could be syntrophic partners with hydrogen-consuming bacteria. Stams
+and Hansen (1984) reported that the rate of the conversion of glutamate to acetate by Acidaminobacter hydrogenoformans was greatly enhanced in the mixed cultures with sulfate-reducing bacterium of Desulfobulbus propionicus or H2 utilizing Methanospirillum hungatei. The
+bacteria associated with Gelria was reported to co-operate with the
+hydrogenotrophic Methanobacterium thermautotrophicum to degrade
+glutamate into propionate, H2, NH4, and CO2 and ferment sugars to
+acetate, propionate, CO2, and H2 (Plugge et al., 2002).
+The VFA analysis showed that the total fractions of VFAs longer
+than 2 carbon atoms were 68.7% for BH35, 61.2% for BH42, and 56.0%
+for BH55, showing a positive impact of hydrolysis temperatures on the
+
+Acknowledgements
+The authors wish to thank Ontario Centres of Excellence (OCE), The
+Natural Sciences and Engineering Research Council of Canada (NSERC),
+and GE Water & Process Technologies for support. Special thanks to
+Guelph Wastewater Treatment Plant for providing sludge samples.
+References
+Ali Shah, F., Mahmood, Q., Maroof Shah, M., Pervez, A., Ahmad Asad, S., 2014. Microbial
+ecology of anaerobic digesters: the key players of anaerobiosis. Sci. World J. 2014,
+183752. http://dx.doi.org/10.1155/2014/183752.
+Angelidaki, I., Alves, M., Bolzonella, D., Borzacconi, L., Campos, J.L., Guwy, A.J.,
+Kalyuzhnyi, S., Jenicek, P., Van Lier Abstract, J.B., Van Lier, J.B., 2009. Deﬁning the
+biomethane potential (BMP) of solid organic wastes and energy crops: a proposed
+protocol for batch assays. Water Sci. Technol. 595. http://dx.doi.org/10.2166/wst.
+2009.040.
+APHA-AWWA-WEF, 2005. Standard Methods for the Examination of Water & Wastewater,
+twenty ﬁrst ed. American Public Health Association, Washington, DC.
+Arreola-Vargas, J., Celis, L.B., Buitrón, G., Razo-Flores, E., Alatriste-Mondragón, F., 2013.
+Hydrogen production from acid and enzymatic oat straw hydrolysates in an anaerobic sequencing batch reactor: performance and microbial population analysis. Int.
+J. Hydrogen Energy 38, 13884–13894. http://dx.doi.org/10.1016/j.ijhydene.2013.
+08.065.
+Baker, G.C., Smith, J.J., Cowan, D.A., 2003. Review and re-analysis of domain-speciﬁc
+16S primers. J. Microbiol. Methods 55, 541–555. http://dx.doi.org/10.1016/j.
+mimet.2003.08.009.
+Chen, S., Dong, X., 2005. Proteiniphilum acetatigenes gen. nov., sp. nov., from a UASB
+reactor treating brewery wastewater. Int. J. Syst. Evol. Microbiol. 55, 2257–2261.
+http://dx.doi.org/10.1099/ijs.0.63807-0.
+Chu, C.-F., Li, Y.-Y., Xu, K.-Q., Ebie, Y., Inamori, Y., Kong, H.-N., 2008. A pH- and temperature-phased two-stage process for hydrogen and methane production from food
+waste. Int. J. Hydrogen Energy 33, 4739–4746. http://dx.doi.org/10.1016/j.
+ijhydene.2008.06.060.
+Da Silva, M.L.B., Cantão, M.E., Mezzari, M.P., Ma, J., Nossa, C.W., 2015. Assessment of
+bacterial and archaeal community structure in swine wastewater treatment processes.
+Microb. Ecol. 70, 77–87. http://dx.doi.org/10.1007/s00248-014-0537-8.
+Ding, H.H., Chang, S., Liu, Y., 2017. Biological hydrolysis pretreatment on secondary
+sludge: enhancement of anaerobic digestion and mechanism study. Technol.
+Bioresour. http://dx.doi.org/10.1016/j.biortech.2017.08.064.
+Duarte, J.G., Silva, L.L.S., Freire, D.M.G., Cammarota, M.C., Gutarra, M.L.E., 2015.
+Enzymatic hydrolysis and anaerobic biological treatment of ﬁsh industry eﬄuent:
+evaluation of the mesophilic and thermophilic conditions. Renewable Energy 83,
+455–462. http://dx.doi.org/10.1016/j.renene.2015.04.056.
+Escoﬃer, S., Ollivier, B., Le Mer, J., Garcin, J., Roger, P., 1998. Evidence and quantiﬁcation of thiosulfate reducers unable to reduce sulfate in riceﬁeld soils. Eur. J. Soil
+Biol. 34, 69–74. http://dx.doi.org/10.1016/S1164-5563(99)90003-1.
+Fraj, B., Ben, Hania W., Postec, A., Hamdi, M., Ollivier, B., Fardeau, M.-L., 2013.
+Fonticella tunisiensis gen. nov., sp. nov. isolated from a hot spring. Int. J. Syst. Evol.
+Microbiol. 6, 63. http://dx.doi.org/10.1099/ijs.0.041947-0.
+Gao, Y., Peng, Y., Zhang, J., Wang, S., Guo, J., Ye, L., 2011. Biological sludge reduction
+
+509
+
+Bioresource Technology 245 (2017) 502–510
+
+H. Chen, S. Chang
+
+dx.doi.org/10.1128/AEM.01541-09.
+Sheng, X., Liu, R., Song, X., Chen, L., Tomoki, K., 2017. Comparative study on microbial
+community in intermittently aerated sequencing batch reactors (SBR) and a traditional SBR treating digested piggery wastewater. Front. Environ. Sci. Eng. 11, 8.
+http://dx.doi.org/10.1007/s11783-017-0929-3.
+Shiratori, H., Ohiwa, H., Ikeno, H., Ayame, S., Kataoka, N., Miya, A., Beppu, T., Ueda, K.,
+2008. Lutispora thermophila gen. nov., sp. nov., a thermophilic, spore-forming bacterium isolated from a thermophilic methanogenic bioreactor digesting municipal
+solid wastes. Int. J. Syst. Evol. Microbiol. 58, 964–969. http://dx.doi.org/10.1099/
+ijs.0.65490-0.
+Stams, A.J.M., Hansen, T.A., 1984. Fermentation of glutamate and other compounds by
+Acidaminobacter hydrogenoformans gen. nov. sp. nov., an obligate anaerobe isolated
+from black mud. Studies with pure cultures and mixed cultures with sulfate-reducing
+and methanogenic bacteria. Arch. Microbiol. 137, 329–337. http://dx.doi.org/10.
+1007/BF00410730.
+Su, Y., Li, B., Zhu, W.-Y., 2013. Fecal microbiota of piglets prefer utilizing dl-lactate
+mixture as compared to d-lactate and l-lactate in vitro. Anaerobe 19, 27–33. http://
+dx.doi.org/10.1016/j.anaerobe.2012.11.006.
+Sun, R., Zhou, A., Jia, J., Liang, Q., Liu, Q., Xing, D., Ren, N., 2015. Characterization of
+methane production and microbial community shifts during waste activated sludge
+degradation in microbial electrolysis cells. Bioresour. Technol. 175, 68–74. http://dx.
+doi.org/10.1016/j.biortech.2014.10.052.
+Ucisik, A.S., Henze, M., 2008. Biological hydrolysis and acidiﬁcation of sludge under
+anaerobic conditions: the eﬀect of sludge type and origin on the production and
+composition of volatile fatty acids. Water Res. 42, 3729–3738. http://dx.doi.org/10.
+1016/j.watres.2008.06.010.
+Ueki, A., Akasaka, H., Suzuki, D., Ueki, K., 2006. Paludibacter propionicigenes gen. nov.,
+sp. nov., a novel strictly anaerobic, Gram-negative, propionate-producing bacterium
+isolated from plant residue in irrigated rice-ﬁeld soil in Japan. Int. J. Syst. Evol.
+Microbiol. 56, 39–44. http://dx.doi.org/10.1099/ijs.0.63896-0.
+Wang, K., Li, W., Gong, X., Li, X., Liu, W., He, C., Wang, Z., Minh, Q.N., Chen, C.-L., Wang,
+J.-Y., 2014. Biological pretreatment of tannery wastewater using a full-scale hydrolysis acidiﬁcation system. Int. Biodeterior. Biodegrad. 95, 41–45. http://dx.doi.org/
+10.1016/j.ibiod.2014.05.019.
+Wei, M., Yu, Z., Zhang, H., 2015. Molecular characterization of microbial communities in
+bioaerosols of a coal mine by 454 pyrosequencing and real-time PCR. J. Environ. Sci.
+30, 241–251. http://dx.doi.org/10.1016/j.jes.2014.07.035.
+Wong, M.T., Zhang, D., Li, J., Hui, R.K.H., Tun, H.M., Brar, M.S., Park, T.-J., Chen, Y.,
+Leung, F.C., 2013. Towards a metagenomic understanding on enhanced biomethane
+production from waste activated sludge after pH 10 pretreatment. Biotechnol.
+Biofuels 6, 38. http://dx.doi.org/10.1186/1754-6834-6-38.
+Xie, X., Liu, N., Yang, B., Yu, C., Zhang, Q., Zheng, X., Xu, L., Li, R., Liu, J., 2016.
+Comparison of microbial community in hydrolysis acidiﬁcation reactor depending on
+diﬀerent structure dyes by Illumina MiSeq sequencing. Int. Biodeterior. Biodegrad.
+111, 14–21. http://dx.doi.org/10.1016/j.ibiod.2016.04.004.
+Yang, C., Liu, W., He, Z., Thangavel, S., Wang, L., Zhou, A., Wang, A., 2015a. Freezing/
+thawing pretreatment coupled with biological process of thermophilic Geobacillus sp.
+G1: acceleration on waste activated sludge hydrolysis and acidiﬁcation. Bioresour.
+Technol. 175, 509–516. http://dx.doi.org/10.1016/j.biortech.2014.10.154.
+Yang, C., Zhou, A., He, Z., Jiang, L., Guo, Z., Wang, A., Liu, W., 2015b. Eﬀects of ultrasonic-assisted thermophilic bacteria pretreatment on hydrolysis, acidiﬁcation, and
+microbial communities in waste-activated sludge fermentation process. Environ. Sci.
+Pollut. Res. 22, 9100–9109. http://dx.doi.org/10.1007/s11356-014-3985-2.
+Yang, Z.-H., Xu, R., Zheng, Y., Chen, T., Zhao, L.-J., Li, M., 2016. Characterization of
+extracellular polymeric substances and microbial diversity in anaerobic co-digestion
+reactor treated sewage sludge with fat, oil, grease. Bioresour. Technol. 212, 164–173.
+http://dx.doi.org/10.1016/j.biortech.2016.04.046.
+Zamanzadeh, M., Hagen, L.H., Svensson, K., Linjordet, R., Horn, S.J., 2016. Anaerobic
+digestion of food waste-eﬀect of recirculation and temperature on performance and
+microbiology. Water Res. 96, 246–254. http://dx.doi.org/10.1016/j.watres.2016.03.
+058.
+Zhang, P., Chen, Y., Zhou, Q., 2009. Waste activated sludge hydrolysis and short-chain
+fatty acids accumulation under mesophilic and thermophilic conditions: eﬀect of pH.
+Water Res. 43, 3735–3742. http://dx.doi.org/10.1016/j.watres.2009.05.036.
+
+and enhanced nutrient removal in a pilot-scale system with 2-step sludge alkaline
+fermentation and A2O process. Bioresour. Technol. 102, 4091–4097. http://dx.doi.
+org/10.1016/j.biortech.2010.12.051.
+Jabari, L., Gannoun, H., Cayol, J.-L., Hedi, A., Sakamoto, M., Falsen, E., Ohkuma, M.,
+Hamdi, M., Fauque, G., Ollivier, B., Fardeau, M.-L., 2012. Macellibacteroides fermentans gen. nov., sp. nov., a member of the family Porphyromonadaceae isolated
+from an upﬂow anaerobic ﬁlter treating abattoir wastewaters. Int. J. Syst. Evol.
+Microbiol. 62, 2522–2527. http://dx.doi.org/10.1099/ijs.0.032508-0.
+Kampfer, P., Schulze, R., Jäckel, U., Malik, K.A., Amann, R., Spring, S., 2005.
+Hydrogenophaga deﬂuvii sp. nov. and Hydrogenophaga atypica sp. nov., isolated
+from activated sludge. Int. J. Syst. Evol. Microbiol. 55, 341–344. http://dx.doi.org/
+10.1099/ijs.0.03041-0.
+Leahy, S.C., Kelly, W.J., Ronimus, R.S., Wedlock, N., Altermann, E., Attwood, G.T., 2017.
+Genome sequencing of rumen bacteria and archaea and its application to methane
+mitigation strategies. Animal 7, 235–243. http://dx.doi.org/10.1017/
+S1751731113000700.
+Lee, W.S., Chua, A.S.M., Yeoh, H.K., Ngoh, G.C., 2014. A review of the production and
+applications of waste-derived volatile fatty acids. Chem. Eng. J. 235, 83–99. http://
+dx.doi.org/10.1016/j.cej.2013.09.002.
+Lin, Q., De Vrieze, J., He, G., Li, X., Li, J., 2016. Temperature regulates methane production through the function centralization of microbial community in anaerobic
+digestion. Bioresour. Technol. 216, 150–158. http://dx.doi.org/10.1016/j.biortech.
+2016.05.046.
+Liu, X., Dong, B., Dai, X., 2013. Hydrolysis and acidiﬁcation of dewatered sludge under
+mesophilic, thermophilic and extreme thermophilic conditions: eﬀect of pH.
+Bioresour. Technol. 148, 461–466. http://dx.doi.org/10.1016/j.biortech.2013.08.
+118.
+Mergaert, J., Cnockaert, M.C., Swings, J., 2003. Thermomonas fusca sp. nov. and
+Thermomonas brevis sp. nov., two mesophilic species isolated from a denitriﬁcation
+reactor with poly(-caprolactone) plastic granules as ﬁxed bed, and emended description of the genus Thermomonas. Int. J. Syst. Evol. Microbiol. 53, 1961–1966.
+http://dx.doi.org/10.1099/ijs.0.02684-0.
+Nakamura, K., Takahashi, A., Mori, C., Tamaki, H., Mochimaru, H., Nakamura, K.,
+Takamizawa, K., Kamagata, Y., 2013. Methanothermobacter tenebrarum sp. nov., a
+hydrogenotrophic, thermophilic methanogen isolated from gas-associated formation
+water of a natural gas ﬁeld. Int. J. Syst. Evol. Microbiol. 63, 715–722. http://dx.doi.
+org/10.1099/ijs.0.041681-0.
+Nelson, M.C., Morrison, M., Yu, Z., 2011. A meta-analysis of the microbial diversity observed in anaerobic digesters. Bioresour. Technol. 102, 3730–3739. http://dx.doi.
+org/10.1016/j.biortech.2010.11.119.
+Niu, L., Song, L., Liu, X., Dong, X., 2009. Tepidimicrobium xylanilyticum sp. nov., an
+anaerobic xylanolytic bacterium, and emended description of the genus
+Tepidimicrobium. Int. J. Syst. Evol. Microbiol. 59, 2698–2701. http://dx.doi.org/10.
+1099/ijs.0.005124-0.
+Owen, W.F., Stuckey, D.C., Healy, J.B., Young, L.Y., McCarty, P.L., 1979. Bioassay for
+monitoring biochemical methane potential and anaerobic toxicity. Water Res. 13,
+485–492. http://dx.doi.org/10.1016/0043-1354(79)90043-5.
+Plugge, C.M., Balk, M., Zoetendal, E.G., Stams, A.J.M., 2002. Gelria glutamica gen. nov.,
+sp. nov., a thermophilic, obligately syntrophic, glutamate-degrading anaerobe. Int. J.
+Syst. Evol. Microbiol. 52, 401–407. http://dx.doi.org/10.1099/ijs.0.01949-0.
+Pruesse, E., Quast, C., Knittel, K., Fuchs, B.M., Ludwig, W., Peplies, J., Glöckner, F.O.,
+2007. SILVA: a comprehensive online resource for quality checked and aligned ribosomal RNA sequence data compatible with ARB. Nucleic Acids Res. 35,
+7188–7196. http://dx.doi.org/10.1093/nar/gkm864.
+Ravot, G., Magot, M., Fardeau, M.-L., Patel, B.K.C., Thomas, P., Garcia, J.-L., Ollivier, B.,
+1999. Fusibacter paucivorans gen. nov., sp. nov., an anaerobic, thiosulfate-reducing
+bacterium from an oil-producing well. Int. J. Syst. Bacteriol. 49, 1141–1147.
+Schink, B., Stams, A.J.M., 2013. Syntrophism Among Prokaryotes. In: The Prokaryotes.
+Springer Berlin Heidelberg, Berlin, Heidelberg, pp. 471–493. http://dx.doi.org/10.
+1007/978-3-642-30123-0_59.
+Schloss, P.D., Westcott, S.L., Ryabin, T., Hall, J.R., Hartmann, M., Hollister, E.B.,
+Lesniewski, R.A., Oakley, B.B., Parks, D.H., Robinson, C.J., Sahl, J.W., Stres, B.,
+Thallinger, G.G., Van Horn, D.J., Weber, C.F., 2009. Introducing mothur: opensource, platform-independent, community-supported software for describing and
+comparing microbial communities. Appl. Environ. Microbiol. 75, 7537–7541. http://
+
+510
+
+

@@ -1,0 +1,853 @@
+Chemical Engineering Journal 300 (2016) 291–299
+
+Contents lists available at ScienceDirect
+
+Chemical Engineering Journal
+journal homepage: www.elsevier.com/locate/cej
+
+Seasonal monitoring of bacteria and archaea in a full-scale thermophilic
+anaerobic digester treating food waste-recycling wastewater:
+Correlations between microbial community characteristics and process
+variables
+Joonyeob Lee a,1, Gyuseong Han a,1, Seung Gu Shin a,⇑, Taewoan Koo a, Kyungjin Cho b, Woong Kim c,
+Seokhwan Hwang a,⇑
+a
+
+School of Environmental Science and Engineering, Pohang University of Science and Technology, Pohang, Gyeongbuk 790-784, Republic of Korea
+Center for Water Resource Cycle Research, Korea Institute of Science and Technology, 39-1 Hawolgok-Dong, Seongbuk-Gu, Seoul 136-791, Republic of Korea
+c
+Department of Environmental Engineering, Kyungpook National University, Daegu, Republic of Korea
+b
+
+h i g h l i g h t s
++
+
+ Na and lipid could affect COD removal and bacteria community.
++
+
+ Na and lipid could affect archaeal quantity but not its community structure.
++
+
+ Gelria and Cardiocoprobacter were negatively correlated with Na and lipid.
+ NH3 had no correlation with COD removal or with total microbial populations.
+ Methanoculleus, Methanobacterium, Tepidanaerobacter responded differently to NH3.
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 10 January 2016
+Received in revised form 16 April 2016
+Accepted 18 April 2016
+Available online 21 April 2016
+Keywords:
+Anaerobic digestion
+454 pyrosequencing
+Real-time quantitative polymerase chain
+reaction
+Sodium inhibition
+Syntrophic bacteria
+Hydrogenotrophic methanogens
+
+a b s t r a c t
+Microbial population size, community structure, and diversity, and the correlations of these characteristics with process variables were investigated in samples taken seasonally over two years from a full-scale
+thermophilic anaerobic digester treating food waste-recycling wastewater (FRW). The organic component of the FRW consisted of carbohydrate (35% of volatile solids), protein (34%) and lipid (30%). The
+chemical oxygen demand (COD) removal efficiency of the anaerobic digestion (AD) system negatively
+correlated with Na+ (2.9–7.7 g/L) and lipid (3.3–22.8 g/L) concentrations, which varied significantly over
+the two years. Tepidanaerobacter, Anaerobaculum, Defluviitoga, Keratinibaculum, Gelria, Tepidimicrobium,
+Caldicoprobacter, Bacillus, and Syntrophaceticus were the major bacterial genera, and Methanoculleus
+and Methanobacterium were the major archaeal genera. Concentrations of Na+ and lipid in the digester
+were negatively correlated with total bacterial and archaeal populations determined by real-time
+quantitative PCR. These concentrations could also significantly affect the bacterial community structure
+(e.g., negative correlations with Gelria), but not archaeal community structure. Lipid concentration was
+negatively correlated with bacterial diversity, but was not correlated with archaeal diversity. Ammonia
+concentration in the digester (2.0–4.3 g N/L) had no significant correlation with COD removal or total
+bacterial/archaeal populations, but could significantly affect both bacterial and archaeal community
+structures, including syntrophic acetate-oxidizing bacteria and hydrogenotrophic methanogens. These
+results indicate that Na+, lipid and ammonia are among the key parameters that affect the process
+performance of a thermophilic AD system treating FRW and/or the microbial communities in it.
+Ó 2016 Elsevier B.V. All rights reserved.
+
+⇑ Corresponding authors.
+1
+
+E-mail addresses: candlit@postech.ac.kr (S.G. Shin), shwang@postech.ac.kr (S. Hwang).
+Joonyeob Lee and Gyuseong Han contributed equally to this work.
+
+http://dx.doi.org/10.1016/j.cej.2016.04.097
+1385-8947/Ó 2016 Elsevier B.V. All rights reserved.
+
+292
+
+J. Lee et al. / Chemical Engineering Journal 300 (2016) 291–299
+
+1. Introduction
+Food waste is one of the three largest components by weight
+of the organic waste stream in Korea; 8.4 million tons of food
+waste and wastewater (14.3% of total organic waste generation)
+was generated in 2011 [1]. In Korea, food waste has been selectively collected among household wastes by law since 2003, and
+> 95% is recycled as animal feed or compost. During the recycling
+process, 3.4 million tons of food waste-recycling wastewater
+(FRW, also referred to as food waste leachate or food wastewater)
+have been generated annually, and constituted 41% of the total
+annual food waste and wastewater generation in 2011 [1]. FRW
+is a high-strength organic wastewater, that has 48–200 g chemical oxygen demand (COD)/L [2]. Due to the large quantity and the
+high organic material content, significant environmental effects
+are anticipated if FRW is released into the ecosystem without
+adequate treatment.
+Anaerobic digestion (AD) has been considered as a treatment
+option that can reduce the quantity of organic waste, and simultaneously generate CH4, which can be used as a fuel. The Korean government has invested considerable money to install full-scale
+anaerobic digesters in major cities in Korea to treat food waste
+and/or FRW; at present, twenty full-scale AD plants are being
+operated.
+AD consists of four sequential biochemical processes: hydrolysis, acidogenesis, acetogenesis, and methanogenesis. Process
+imbalance between acidogenesis and methanogenesis may occur
+(i.e., the total concentration of volatile fatty acids (VFAs) [TVFA]
+produced by acidogens exceeds the amount of VFAs consumed
+by methanogens) as a result of hydraulic or organic overloading,
+the presence of compounds that inhibit anaerobes, or changes in
+process conditions and influent substrate [3]. The content of major
+organic components (i.e., carbohydrate, protein, and lipid) would
+also affect the stability and efficiency of AD because they are
+degraded into various metabolites via different biochemical pathways [4]. FRW is reported to contain high contents of lipid
+(30.5 g/L; 37% of volatile solids (VS)), protein (24.6 g/L; 30% of
+VS), and Na+ (2.1 g/L for FRW, 6.9 g/L for food waste), so
+potentially-inhibitory compounds such as long chain fatty acids
+(specified as lipid), ammonia, and Na+ could be primary concerns
+in AD of FRW [2,5,6]. Furthermore, in a full-scale AD system, the
+characteristics of the feedstock can vary unpredictably; such fluctuations may cause imbalance between acidogenesis and
+methanogenesis, and can change the microbial community structure as well as process stability and performance [7,8]. In fact, substrate utilizations and inhibitory effects are correlated with growth
+of specific microorganisms and to specific shifts in the microbial
+communities during variations of process performance, but the
+natures and degrees of these correlations remain unknown. In general, process functionality (and metabolic rate) is higher but microbial diversity is lower in thermophilic AD than in mesophilic AD, so
+stable operation may be difficult to attain in thermophilic AD systems [9,10]. Thus, understanding of correlations within and among
+process variables and microorganisms in a thermophilic AD system
+would provide new insight into the interactions that affect the stability of the process.
+Many studies have used high-throughput sequencing methods
+to quantify microbial community structures in AD systems, but reference data for profiling of anaerobic microbial communities on
+various types of organic waste are limited [11]. Moreover, variations of microbial communities in a full-scale thermophilic AD system treating FRW in the presence of variations in inhibitory effects
+(e.g., by Na+ and lipid) have not been reported to the best of our
+knowledge. Therefore, in this study, two-year variations (covering
+four seasons) of microbial communities of a full-scale thermophilic
+anaerobic digester treating FRW were analyzed using 454 pyrose-
+
+quencing. Non-metric multidimensional scaling was conducted to
+investigate temporal variation in microbial community structure
+over this period. Correlations within and among process variables
+and microbial communities in the AD system were determined
+using correlation tests and visualized using redundancy analysis.
+2. Materials and methods
+2.1. Full-scale anaerobic digester
+A full-scale anaerobic digester (working volume 2200 m3) fed
+with FRW in city of Gwangju, Korea was chosen for investigation
+of microbial community structures. The digester is a thermophilic
+(58.5 °C) continuously-stirred tank reactor (CSTR), and so it is
+abbreviated as TC. Hydraulic retention time of the digester varied
+from 15.5 d to 17.5 d.
+2.2. Sampling and DNA extraction
+The organic and inorganic composition of FRW varies widely
+over seasons [2], so the effects of this variation may affect process
+variables and microbial communities in the thermophilic AD system treating FRW. To consider its temporal variations, eight seasonal samples were collected from October, 2010 to July, 2012.
+The samples were numbered chronologically: TC1 = Oct 2010;
+TC2 = Jan 2011; TC3 = Apr 2011; TC4 = Jul 2011; TC5 = Oct 2011;
+TC6 = Jan 2011; TC7 = Apr 2012; TC8 = Jul 2012). Samples were collected from the influent pipe and directly from the digester, and
+stored in an ice box as soon as possible.
+Total genomic DNA was extracted from the TC samples by using
+an automated nucleic acid extractor (Magtration System 6GC, PSS,
+Chiba, Japan). Before extraction of genomic DNA, 200 ll of sample
+was centrifuged at 16 000 g for 10 min, and 100 ll of the supernatant was decanted. Then the pellet was washed twice in three
+steps: (1) the pellet was added with 100 ll of deionized distilled
+water and resuspended; (2) the suspension was centrifuged; (3)
+100 ll of supernatant was decanted. Finally, the pellet was gently
+suspended and applied to an automated nucleic acid extractor
+(Magtration System 6GC, PSS Co., Japan). The pellets including
+the extracted DNA were eluted with 100 ll of Tris–HCl buffer
+(pH 8.0) and stored at 20 °C until further analyzed.
+2.3. Physicochemical analysis
+A gas chromatograph (6890 Plus, Agilent, Palo Alto, CA) with
+an HP Innowax capillary column and flame ionization detector
+was used to measure VFAs and ethanol. The pH, chemical oxygen demand (COD) and VS concentrations were determined
+according to the procedures in Standard Methods [12]. Carbohydrate concentration was measured using the phenol–sulfuric acid
+method [13]. Protein concentration and total ammonia nitrogen
+[ammonia] were determined using the Kjeldahl method [12].
+Lipid concentrations [lipid] were measured by gravimetric analysis after extraction of lipid using chloroform: methanol (1:2 v/
+v) [14]. Sodium ion concentration [Na+] and chloride ion concentration were measured using ion chromatography (790 Personal
+IC, Metrohm, Switzerland). All analyses were performed in
+duplicate.
+2.3.1. Pyrosequencing analysis
+Several fusion primers were designed under the guidance of
+Macrogen (Seoul, Korea) and synthesized by Bioneer (Daejeon,
+Korea). The fusion primers consisted of adapter A or B and the
+oligonucleotide for amplifying the target sequence. The combined
+primers A-787f (50 -ATTAG ATACC CNGGT AG-30 ) and B-1492r
+
+J. Lee et al. / Chemical Engineering Journal 300 (2016) 291–299
+
+(50 -GNTAC CTTGT TACGA CTT-30 ) were used to amplify the V5–V9
+of 16S rRNA genes of extracted genomic DNA [15]. After an initial
+denaturation at 95 °C for 5 min, 30 cycles of polymerase chain
+reaction (PCR) were performed (denaturation at 95 °C for 30 s,
+annealing at 57 °C for 30 s and extension at 72 °C for 1 min), followed by a final extension step at 72 °C for 7 min. The PCR products were purified on 1% agarose gel by using a genomic DNA
+purification kit (GeneAll Biotechnology, Seoul, Korea). All of the
+454 pyrosequencing analyses were performed at Macrogen
+(Seoul, Korea) following the manufacturer’s protocol (454 Life
+Science, Branford, USA). An ‘‘in-house” program (Macrogen, Seoul,
+Korea) was used to remove the adapter sequences from all amplified reads before further analysis. Reads with low nucleotidequality scores (< 20), short sequences (< 270-bp), and
+potentially-chimeric sequences were discarded and MOTHUR
+with CD-HIT-OTU was used to cluster the remaining sequences
+that had P 97% sequence similarity as operational taxonomic
+units (OTUs). Taxonomic classification of the OTUs was performed using the SILVA database. The nucleotide sequences
+obtained from the 454 pyrosequencing were deposited in NCBI’s
+sequence read archive (PRJNA315957).
+
+2.4. Real-time quantitative polymerase chain reaction analysis
+Real-time quantitative polymerase chain reaction (QPCR)
+(LightCycler 480, Roche) was used to quantify the populations
+(16S rRNA gene copies) of total bacteria and total archaea in the
+digester. TaqMan probe-primer sets were used: for bacteria,
+BAC338F (50 -ACTCC TACGG GAGGC AG-30 ), BAC516F (50 -TGCCA
+GCAGC CGCGG TAATA C-30 ), and BAC805R (50 -GACTA CCAGG
+GTATC TAATC C-30 ); for archaea, ARC787F (50 -ATTAG ATACC CSBGT
+AGTCC-30 ), ARC915F (50 -AGGAA TTGGC GGGGG AGCAC-30 ), and
+ARC1059R (50 -GCCAT GCACC WCCTC T-30 ) [16].
+
+2.5. Statistical analysis
+Non-metric multidimensional scaling (NMS) using Sorensen
+(Bray–Curtis) distance was conducted to visualize how the similarity of microbial community structures in the digester changed
+over time (PC-ORD 5.0, MjM software, OR, USA). Sorensen (Bray–
+Curtis) distance is dominantly used for NMS of ecological community data because it provides better sensitivity in heterogeneous data sets and gives less weight to outliers than does
+Euclidean distance [17]. Relative abundances of bacterial OTUs
+or archaeal OTUs obtained by 454 pyrosequencing analysis were
+used as the data sets. Process variables with p < 0.1 were selected
+and used as the second matrix to construct a Joint NMS ordination plot. Each main matrix was processed for ordination such
+that the stress (< 10) and the instability (< 104) criteria were
+met [17].
+Redundancy analysis (RDA) to visualize the correlations among
+environmental variables and microbial community structures in
+two-dimensional space was performed using CANOCO 4.5 (Plant
+Research International, The Netherlands). In this study, the relative
+abundances of bacterial genera from the 454 pyrosequencing analysis were used as dependent variables, and process variables
+selected by forward selection (e.g., [lipid], [Na+], [TVFA], and [ammonia] in the digester; lipid removal, COD removal) were used as
+independent variables. The statistical significance of the model
+was tested by Monte Carlo permutation against 999 random datasets. Pearson correlation tests were conducted using R software
+packages with optparse and gclus libraries to quantify correlation
+coefficients within and among process variables and microbial
+communities.
+
+293
+
+3. Results and discussion
+3.1. Variations in process performance along with changes in process
+variables in a full-scale thermophilic AD system treating FRW
+Temporal variation and effect of process variables on process
+performance of the full-scale thermophilic AD system fed with
+FRW were investigated using the eight seasonal samples. The
+two-year averages of the FRW feedstock were 161.5 ±
+27.3 g COD/L and 71.4 ± 14.7 g VS/L. Carbohydrate (24.7 ± 14.8 g/
+L; 35% of VS), protein (24.3 ± 9.1 g/L; 34%) and lipid
+(21.3 ± 4.0 g/L; 30%) contributed evenly to the organic contents
+of the FRW (Fig. 1a). These values confirm that the characteristics
+of the FRW used in this study agreed with the year-round observations as previously reported [2]. The coefficient of variation
+(CV) was 60% for carbohydrate, 32% for lipid and 32% for protein.
+These variations were higher than those of VS (21%) and COD
+(17%); i.e., temporal variations in composition exceeded those
+in total organic concentration. The high CV of carbohydrate content resulted mainly from relatively lower values of carbohydrate
+contents in summer samples (17% of VS), TC4 and TC8, compared
+to spring (29%), fall (34%), and winter (54%) samples. [TVFA] was
+higher in the summer (19.0 g/L) than in other seasons (7.7–
+10.9 g/L) (Fig. 1a). One possible explanation for these opposing
+trend is that high temperature during summer may have
+increased microbial acidification of carbohydrate during transport
+and storage processes.
+In this study, COD removal efficiency was considered a key
+parameter in assessment of the process performance of the AD system. COD removal varied from 26% to 80% over time (Fig. 1b). More
+carbohydrate (22.3 ± 15.3 g/L; 90% of influent) was degraded than
+lipid (12.7 ± 5.1 g/L; 60% of influent) or protein (9.4 ± 5.6 g/L; 38%
+of influent) in the system. Poor degradation of protein compared
+to carbohydrate and lipid is often observed in full-scale anaerobic
+digesters fed with FRW [18], and suggests that FRW may contain
+high contents of refractory protein. Lipid removal increased as
+COD removal increased (r = 0.907, p < 0.05), and was more similar
+to the trend in variation with COD than were carbohydrate and
+protein removal (Fig. 1); these results suggest that lipid removal
+could be the main factor that determines COD removal in the TC
+digester.
+[Lipid], [Na+], and [ammonia] in the digester can directly
+influence process performance and microbial communities in
+an AD system [19]. [Lipid] varied more among samples
+(CV = 89%), than did [Na+] (36%), or [ammonia] (23%) (Fig. 1c).
+High [lipid] in the digester can inhibit microorganisms (1) by
+limiting substrate transfer between the cell and the aqueous
+phase, or (2) by disrupting cellular homeostasis [20,21]. Moreover, compared to mesophilic conditions, inhibition of lipids
+(including long chain fatty acids) is more problematic under
+thermophilic conditions due to the presence of higher portion
+of their unionized forms [22]. In this study, [Lipid] in the digester increased as [lipid] in the influent FRW increased (r = 0.789,
+p < 0.05); i.e., high [lipid] in the digester may be closely related
+to high [lipid] in the influent FRW (Fig. 1c). COD removal
+decreased as [lipid] in the digester increased (r = 0.889,
+p < 0.05); this trend suggests that lipids may inhibit digestion
+in the digester. For instance, COD removal remained above the
+average (61%) when [lipid] in the digester was < 5.0 g/L, but
+decreased drastically to 26–44% when it was > 5.0 g/L
+(Fig. 1b and c). This trend is consistent with a previous study
+that reported 5 g lipid/L as an inhibition threshold in AD of
+protein- and lipid-rich organic wastes [23].
+[Na+] can inhibit growth of microorganisms if it is high enough
+to cause dehydration of cells by elevated osmotic pressure
+[19,24,25]. The IC50 of sodium for methanogenic activity, assessed
+
+294
+
+J. Lee et al. / Chemical Engineering Journal 300 (2016) 291–299
+
+Fig. 1. (a) Temporal variations in organic profiles of food waste-recycling wastewater fed to the full-scale thermophilic CSTR digester. (b) Changes in organic removals. (c)
+Changes in concentrations of possible inhibitors in the digester. (d) Changes in concentrations of volatile fatty acids in the digester. Inf. = influent; removal = portion (%) of
+organics removed from the influent. TC1 = Oct, 2010; TC2 = Jan, 2011; TC3 = Apr, 2011; TC4 = Jul, 2011; TC5 = Oct, 2011; TC6 = Jan, 2011; TC7 = Apr, 2012; TC8 = Jul, 2012.
+
+on methanogens alone or together with syntrophic bacteria, varies
+widely from 3 g/L to 16 g/L, mainly due to the differences in the
+degree of acclimation of microbial communities and in the environmental conditions in the AD systems [19,25]. In this study,
+[Na+] in the digester varied from 2.9 g/L to 7.7 g/L; [Na+] in the
+digester was negatively correlated with COD removal (r = 0.908,
+p < 0.05) (Fig. 1c). COD removal decreased significantly when
+[Na+] in the digester reached 7.1–7.7 g/L (e.g., in TC1, TC3, and
+TC4); this response is consistent with a previous report that thermophilic AD was severely inhibited by the presence of 7.8 g Na+/
+L [26].
+High [ammonia] can also inhibit methane production by
+inhibiting methanogens and bacteria; reported IC50 of ammonia
+for methane production is 1.7 6 [ammonia] 6 14 g/L, depending
+on inoculum and the environmental conditions in the AD system
+[19,27]. Neither [ammonia] nor [free ammonia] showed significant
+correlation with any organic removals in this study; i.e., the ranges
+of [ammonia] and [free ammonia] in the digester (2.0–4.3 g N/L
+and 0.1–2.0 g N/L, respectively) might not have significantly
+affected the entire process performance during the two-year operation (Fig. 1c).
+VFAs can accumulate when: (1) the influent loading or characteristics are high or vary widely, so that methanogens cannot
+completely process the VFAs generated by bacteria, (2) compounds (including Na+, lipid, ammonia and increased VFAs
+themselves) that inhibit methanogens occur in the digester
+[3,19]. COD removal decreased as [TVFA] and concentrations of
+acetate and butyrate increased (r = 0.776, 0.690, 0.833,
+respectively, all p < 0.1) (Fig. 1d); these results are consistent
+with previous reports that suggest that the concentrations of
+VFAs in the digester can be used as an indicator of process
+instability [3].
+
+3.2. QPCR analysis of total microbial populations
+To investigate the relationship between variations in microbial
+population and the perturbations in [Na+] and [lipid], total bacterial and archaeal populations of the eight seasonal samples were
+quantified using QPCR. The total population of bacteria was
+1.4  1010 ± 1.5  1010 rRNA gene copies/mL, and the total population of archaea was 9.1  107 ± 1.1  108 16S rRNA gene copies/mL
+(Supplementary Fig. 1), and both were positively correlated with
+variation in COD removal (r = 0.782, p < 0.05 and r = 0.664,
+p < 0.1, respectively) but negatively correlated with [Na+] and
+[lipid] in the digester (Supplementary Fig. 1); the second of these
+results suggests that high [Na+] and [lipid] inhibited the growth
+of both bacteria and archaea, and reduced overall process
+performance.
+3.2.1. Pyrosequencing analysis of microbial population profile in total
+454 pyrosequencing of bacterial 16S rRNA gene amplicons from
+eight samples resulted in 58 342 non-chimeric sequence reads.
+Reads that shared P 97% similarity in sequences were grouped
+as OTUs; after this preprocess, 17 073 reads (2 134 ± 783 reads for
+each sample) remained as rigid reads and were grouped into
+116 OTUs for further analysis. In this study, the ratio R of classified
+reads to total bacterial reads decreased as taxonomic levels of
+methanogens moved from the phylum to the species. R was 1.00
+at the phylum level, 0.83 at the class level, 0.82 at the order level,
+0.80 at the family level, and 0.77 at the genus level, but only 0.20 at
+the species level. Because R decreased significantly between phylum and class, and between genus and species, further analysis
+focused on the phylum and the genus.
+All of the bacterial reads (17 073 reads) were classified into one
+of nine phyla: Firmicutes (66.6 ± 20.1%), Synergistetes
+
+J. Lee et al. / Chemical Engineering Journal 300 (2016) 291–299
+
+(19.1 ± 18.6%),
+Thermotogae
+(10.4 ± 8.9%),
+Bacteroidetes
+(2.2 ± 3.5%), Atribacteria (1.1 ± 2.0%), Proteobacteria (0.4 ± 0.6%),
+Tenericutes (0.2 ± 0.5%), Actinobacteria (0.006 ± 0.018%), Spirochaetes (0.004 ± 0.011%) (Supplementary Fig. 2). The overwhelming dominance of Firmicutes has been commonly reported in labscale [28] and full-scale thermophilic anaerobic digesters [29]. In
+this study, of 116 OTUs (i.e., total number of bacterial OTUs found
+in this study), 90 (78%) were classified into Firmicutes and a large
+portion of unclassified reads at the class level (92%) belonged to
+Firmicutes. This result indicates that Firmicutes was highly diverse
+and contributed significantly to the decrease in R between the phylum and class levels. Phylum Atribacteria (8% of total unclassified
+reads at the class level) has no cultivated representatives, and is
+only found in cultivation-independent genomic analyses such as
+metagenomic analyses [30]. Reconstruction of genomic information of Atribacteria genotypes suggests that these bacteria can ferment carbohydrate and organic acids to ethanol, acetate, and
+hydrogen.
+Results of various previous metagenomic studies of anaerobes
+have suggested correlations between process variables (i.e., environmental variables) or process performance and bacteria at the
+phylum level [8,29,31]. One report demonstrated that the types
+and compositions of substrates fed to the AD systems determined
+the ratio RFB of Firmicutes to Bacteroidetes (e.g., high RFB for easilydegradable substrates, low RFB for fibrous substrate) [31]. In this
+study, RFB showed no such a relationship with composition of the
+substrate fed to the TC digester. In fact, investigation of the correlation between process variables and bacteria communities of AD
+systems may be inadequate if it is based solely on bacterial data
+
+295
+
+at the phylum level. This is because bacteria vary greatly in both
+phenotype and genotype even if they belong to the same phylum;
+thus, these correlations should be conducted at the finest taxonomic level possible (i.e., genus or species).
+At the genus level, 13 218 reads (77.4% of the total bacterial
+reads) were classified into 45 genera. Sixteen bacterial genera that
+showed relative abundance > 0.5% in one of the eight samples were
+considered high-rank groups: Tepidanaerobacter (20.6 ± 15.1%),
+Anaerobaculum (19.1 ± 18.6%), Defluviitoga (10.4 ± 8.9%), Keratinibaculum
+(8.1 ± 8.3%),
+Gelria
+(7.9 ± 8.2%),
+Tepidimicrobium
+(3.4 ± 5.0%), Caldicoprobacter (2.5 ± 1.2%), Bacillus (1.8 ± 4.4%), Syntrophaceticus (1.7 ± 2.8%), Ruminiclostridium (0.6 ± 1.1%), Lactobacillus (0.4 ± 0.6%), Halocella (0.3 ± 0.3%), Proteiniphilum (0.3 ± 0.6%),
+Methyloversatilis (0.2 ± 0.3%), Syntrophomonas (0.2 ± 0.2%), Haloplasma (0.1 ± 0.3%) (Fig 2a). Among these sixteen genera, Tepidanaerobacter, Anaerobaculum, Defluviitoga, Keratinibaculum,
+Gelria, Tepidimicrobium, Caldicoprobacter, Bacillus, and Syntrophaceticus were dominant (96% of the average abundance of
+classified bacterial genera and each contributing P 1.0% on average) (Fig. 2a).
+454 pyrosequencing of the eight samples yielded 8 130 nonchimeric archaeal 16S rRNA gene sequence reads; 3 822
+(478 ± 642 reads per sample) remained as rigid reads and were
+grouped into nine OTUs for further analysis. All (3 822) of the
+archaeal reads were classified into seven methanogen genera:
+Methanoculleus (63.7 ± 44.4%), Methanobacterium (30.7 ± 40.2%),
+Methanolinea (2.2 ± 4.2%), Methanothermobacter (1.6 ± 4.4%),
+Methanospirillum (0.9 ± 2.2%), Methanogenium (0.9 ± 2.2%), and
+Methanosaeta (0.1 ± 0.2%) (Fig. 2b). Hydrogenotrophic methano-
+
+Fig. 2. Temporal variations of genera in (a) bacterial communities, and (b) archaeal communities in the thermophilic CSTR digester fed with food waste-recycling wastewater.
+Bacteria communities with relative abundance < 0.5% categorized as Minor groups.
+
+296
+
+J. Lee et al. / Chemical Engineering Journal 300 (2016) 291–299
+
+gens (HMs) constituted 99.9% of total archaeal reads. The dominance of HMs is generally observed in AD systems that are
+ammonia-stressed (> 3 g N/L) due to presence of selective inhibition on aceticlastic methanogens [27]. High [ammonia] in the TC
+digester (3.3 ± 0.8 g N/L on average) supports this trend. At the
+genus level, taxonomic resolution was much lower for bacteria
+(19.6%) than for archaea (100%); the difference may occur because
+bacteria are more diverse than archaea, so that 16S rRNA based
+analysis of bacteria is likely to be more vulnerable to limitations
+in short-read length of 16S rRNA amplicons in 454 pyrosequencing
+and incomplete 16S rRNA gene databases [32].
+3.3. Variations in microbial community structures
+NMS was conducted to visualize the similarity of microbial
+community structure based on the relative abundances of OTUs
+across the sample set in the full-scale thermophilic AD system
+treating FRW (Fig. 3). The Joint NMS result for bacteria indicated
+that bacterial community structure dynamically shifted over time,
+and that all temporal shifts were in different directions; the lack of
+consistent change suggests that bacterial community structure
+was influenced more by environmental variations in the digester
+than by temporal variations (Fig. 3a). [Lipid], [Na+], [TVFA], and
+[ammonia] in the digester and COD removal had significant effects
+(p < 0.1) on in bacterial community structures among the samples.
+The samples located in the upper half of the NMS (TC1, TC3, TC4)
+had high [lipid], [Na+], and [TVFA] in the digester and low COD
+removals compared to the other samples; this result indicates that
+community structure varied in response to [lipid], [Na+], and
+[TVFA] in the digester and to COD removal. The vector to [ammonia] in the digester was at 90° to the vectors to [lipid] and [Na+] in
+the digester; this means that the effects of [ammonia] are independent of those of [lipid], [Na+]. [TVFA] in the digester showed positive correlation with [lipid] and [Na+], and negative correlation
+with COD removal; this result agrees well with previous study that
+suggested that high VFA concentrations in the digester may indicate process instability and inhibition of the AD system [3].
+In the Joint NMS ordination plot based on archaeal OTUs, significant shifts of methanogen community structure occurred three
+times: TC1 to TC2, TC6 to TC7, and TC7 to TC8 (Fig. 3b). The shifts
+are mainly explained by shifts of dominant methanogen from
+Methanoculleus to Methanobacterium (i.e., a negative correlation
+
+between these most-abundant genera, r = 0.971, p < 0.05)
+(Fig. 2b). [Ammonia] in the digester was a significant process variable (p < 0.1) among process variables to explain variations in
+archaeal community structures among the samples (Fig. 3b). The
+vector to [ammonia] in the digester points up axis 2; this orientation suggests that [ammonia] could have a significant effect on the
+significant shifts of archaeal community structures. The opposite
+correlations of Methanobacterium and Methanoculleus with [ammonia] (r = 0.829, p < 0.05 and r = 0.874, p < 0.05, respectively) supported this hypothesis.
+In this study, [lipid], [Na+], and [TVFA] in the digester (3.3–
+22.8 g lipid/L, 2.9–7.7 g Na+/L, 6.7–44.6 g TVFA/L) were important
+process variables that could affect both total bacterial population
+(i.e., bacterial 16S rRNA gene copies/L) and bacterial community
+structure (i.e., relative compositions of bacteria OTUs). They
+seemed also to influence variations in total archaeal population,
+but not archaeal community structure. In contrast, [ammonia] in
+the digester (2.0–4.3 g N/L; 0.1–2.0 g free ammonia N/L) was the
+only factor that affected the shifts of archaeal community structures, but it had no significant correlation with COD removal and
+total bacterial population.
+These observations suggest that if specific microorganisms are
+suppressed by increasing [ammonia], their functions might be
+replaced by other microorganisms with similar roles without
+major reduction in overall process performance in this thermophilic AD system, at least within the given ranges of [ammonia].
+Furthermore, the fact that [ammonia] had similar effects on bacterial and archaeal community structures implies that perturbing
+[ammonia] could cause critical changes in syntrophic consortia
+(of bacteria and archaea) that perform methanogenesis in the TC
+digester. This speculation is supported by the results that [ammonia] in the digester was positively correlated with relative abundances of Tepidanaerobacter (a genus that includes syntrophic
+acetate-oxidizing bacteria, and that comprised 20.6 ± 15.1% of total
+bacteria; r = 0.657, p < 0.1) and of Methanobacterium (an HM genus
+that comprised 30.7 ± 40.2% of total archaea; r = 0.829, p < 0.05).
+3.4. Variations of dominant microbial genera along with process
+variables
+RDA was performed to visualize the correlations and the trends
+among process variables and microbial communities through eight
+
+Fig. 3. Joint NMS ordination plots for TC samples based on Sorensen (Bray–Curtis) distance with relative abundance of (a) bacterial OTUs, and (b) archaeal OTUs. Grey arrows
+(dotted lines): the community structure shifts over time. Red arrows (solid lines): correlation vectors of the process variables with significant factors p < 0.1. Significance was
+tested by Monte Carlo permutation against 999 random datasets. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version
+of this article.)
+
+J. Lee et al. / Chemical Engineering Journal 300 (2016) 291–299
+
+seasonal variations in the thermophilic AD system (Fig. 4). The correlations were double-checked using Pearson’s correlation coefficient at 90% and 95% confidence intervals (Supplementary
+Table 1). The RDA ordination plot (Fig. 4) had model p < 0.05, which
+means that the model was statistically significant at the 95% confidence interval, and eigenvalue = 0.55, which means that the independent variables explained 55% of the variance in the response
+variables.
+The genera Tepidanaerobacter and Syntrophaceticus include syntrophic acetate-oxidizing bacteria (SAOB) such as Tepidanaerobacter acetatoxydans and Syntrophaceticus schinkii, which establish
+syntrophic relationships with HMs [33,34]. T. acetatoxydans was
+detected in this study; this species can grow in co-culture with
+HMs including Methanoculleus sp. and Methanobacterium sp., which
+were dominant methanogens in the TC digester [33,35]. In this
+study, the facts that (1) HMs constitute 99.9% in total methanogens, (2) Tepidanaerobacter was the most abundant bacteria genus,
+and (3) the average abundance of Tepidanaerobacter was twelve
+times higher than that of Syntrophaceticus, suggest that hydrogenotrophic methanogenesis coupled with T. acetatoxydans could be the
+main metabolic pathway to generate methane by acetate degradation in the TC digester. Furthermore, the relative abundance of Tepidanaerobacter increased as [ammonia] increased (r = 0.657,
+p < 0.1) (Fig. 4; Supplementary Table 1); i.e., Tepidanaerobacter
+was not inhibited by [ammonia] within the range of 2.0–4.3 g N/
+L (0.1–2.0 g free ammonia N/L) in the TC digester. This conclusion
+is consistent with the previous report that T. acetatoxydans could
+grow at 0–7 g N/L; whereas Thermacetogenium phaeum, another
+common thermophilic SAOB, could grow at 0–3 g N/L [35].
+Although the genus Syntrophaceticus can also grow at high [ammonia] = 6.4 g N/L, it grows optimally in mesophilic conditions (25–
+45 °C), so it was uncommon in the TC digester [34]. The relative
+abundance of Tepidanaerobacter was correlated positively with
+the relative abundance of Methanobacterium (r = 0.598) and negatively with the relative abundance of Methanoculleus (r = 0.713,
+p < 0.05); these opposite relationships suggest that Methanobacterium might be a preferred syntrophic partner in methanogenesis
+under the ammonia-stressed condition in the TC digester.
+
+Fig. 4. Redundancy analysis showing correlations between process variables (red
+arrows) and bacteria genera (blue arrows). All process variables applied in this
+analysis were significant (p < 0.1) except ammonia (p < 0.2). Significance was tested
+by Monte Carlo permutation against 999 random datasets. Dominant bacteria
+genera (P 1.0% in relative abundance on average) are expressed in bold and
+underlined. (For interpretation of the references to colour in this figure legend, the
+reader is referred to the web version of this article.)
+
+297
+
+Anaerobaculum (19.1%) was the second most-dominant genus,
+and could significantly contribute to carbohydrate removal
+(r = 0.692, p < 0.1) in the TC digester (Supplementary Table 1). This
+conclusion is consistent with literature reports that Anaerobaculum
+hydrogeniformans ferments mainly sugars to acetate, hydrogen and
+carbon dioxide, possibly in syntrophy with HMs [36]. Anaerobaculum was abnormally dominant at TC4 (60.8%) when NaCl concentration was the highest (10.7 g/L) among the samples (Fig. 2a),
+this response is consistent with the observation that A. hydrogeniformans requires high NaCl concentration (10 g/L) for optimum
+growth.
+Defluviitoga (10.4%) was the third dominant genus. It consists of
+one known species, Defluviitoga tunisiensis, a thermophilic (55 °C as
+the optimum), slightly halophilic (5 g NaCl/L as the optimum)
+sulfur-reducing bacterium isolated from a whey digester [37]. This
+bacterium can degrade a variety of sugars to acetate, H2, and CO2.
+Previous studies reported that the genus Defluviitoga was the most
+dominant bacterium in thermophilic AD systems fed with proteinrich wastes such as stillage [38] or food waste [9], but the exact
+roles of this bacteria in those systems were not determined. Both
+wastes included high protein content, so the positive correlation
+between protein removal and the relative abundance of Defluviitoga (r = 0.685, p < 0.1) in the TC digester (Supplementary Table 1)
+may not be coincidental.
+Keratinibaculum (8.1%) was the fourth dominant genus; it
+includes one known species, Keratinibaculum paraultunense, a thermophilic (55 °C as the optimum), slightly halophilic (2 g NaCl/L as
+the optimum) bacterium that uses keratins and other proteins [39].
+To our knowledge, this is the first detection of Keratinibaculum as a
+dominant bacterium in an AD system; however, the relative abundance of this genus was not significantly correlated with any of the
+process variables considered in this study.
+Gelria (7.9%) was the fifth dominant genus. It includes one
+known species, Gelria glutamica, which was isolated from a
+propionate-oxidizing methanogenic enrichment culture [40]. G.
+glutamica is reported to ferment glutamate in syntrophic relationship with Methanobacterium sp., and can solely oxidize sugars to
+acetate, propionate, H2 and CO2 under thermophilic conditions.
+The relative abundances of Gelria and Syntrophomonas were correlated negatively with [Na+] and [lipid], but positively with COD
+removal and lipid removal (Fig. 4). This suggested that these genera may make critical contribution to lipid or COD removals, but
+are drastically inhibited by the [Na+] and [lipid] ranges in the TC
+digester (Fig. 1). Inhibition of Gelria and Syntrophomonas by [Na+]
+and [lipid] has not been reported previously, so the contributions
+of these genera to COD removal or lipid removal were investigated.
+Gelria could contribute to COD removal by degrading glutamate in
+syntrophic relationship with HMs. Previous research also supports
+the significance contribution of Gelria to production of H2, which
+may then be utilized by HMs, in a thermophilic AD system to
+degrade cellulose and microbial protein [41]. Thus, Gelria sp. may
+be an indicator of process performance in thermophilic AD systems
+that treat food waste or food wastewater. Syntrophomonas consists
+of species known to oxidize long chain fatty acids (i.e., lipid) in syntrophic relationship with methanogens [42]; this relationship is
+consistent with the positive correlation between lipid removal
+and the relative abundance of this genus.
+Caldicoprobacter (2.5%) was the only genus in which the relative
+abundance was positively correlated with [Na+] in the digester
+(r = 0.939, p < 0.05) (Fig. 4; Supplementary Table 1); i.e., Caldicoprobacter may be halophilic or halotolerant at least within the
+ranges of 2.9–7.7 Na+ g/L, and this is consistent with the characteristics of C. faecale (recently reclassified from Acetomicrobium faecale), which is halotolerant (< 50 g NaCl/L) [43]. Moreover, the
+relative abundance of Caldicoprobacter was negatively correlated
+with COD removal (r = 0.918, p < 0.05), so they may indicate abnor-
+
+298
+
+J. Lee et al. / Chemical Engineering Journal 300 (2016) 291–299
+Table 1
+The correlations between three types of diversity (of bacteria and archaea) and process variables in the TC samples. Numbers: Pearson correlation
+coefficients; yellow: p < 0.1; pink: p < 0.05; empty box: p P 0.1.
+
+mality of process performance in thermophilic AD systems treating
+food waste or food wastewater.
+Tepidimicrobium (3.4%) showed the highest positive correlation
+with [TVFA] in the digester (r = 0.901, p < 0.05) (Fig. 4; Supplementary Table 1). This relationship is consistent with reports that all
+species in this genus are acidogens that produce VFAs under thermophilic conditions [44]. A positive correlation of the relative
+abundance of Tepidimicrobium with [TVFA] in the digester has been
+noted previously, and the presence of this genus is considered an
+indicator of process acidification [45].
+Among the dominant genera, Tepidanaerobacter, Anaerobaculum, Defluviitoga, Ketarinibaculum, and Tepidimicrobium had no significant correlation with [Na+] or [lipid] in the digester (Fig. 4;
+Supplementary Table 1); therefore variations of [Na+] or [lipid]
+within the given ranges might do not seem to affect the relative
+abundances of those genera in bacterial community structures in
+the TC digester. However, [ammonia] was a possible factor to
+explain variations in these genera: as [ammonia] increased, relative abundances of Tepidanaerobacter, Tepidimicrobium, and Defluviitoga increased, whereas relative abundances of Anaerobaculum
+and Keratinibaculum decreased (Fig. 4).
+Bacterial and archaeal diversity indices were separately quantified based on rigid OTUs (P 0.5% relative abundance in one of eight
+samples). In an ecosystem, species richness S represents the number of species present; and evenness E represents their relative
+abundances. The Shannon diversity index H, which considers both
+S and E, is generally used to quantify species diversity of various
+ecosystems [9,46,47].
+For bacteria, [lipid] in the digester correlated negatively with S,
+E, and H; i.e., inhibition due to high [lipid] decreased overall bacterial diversity (Table 1). Removals of COD, VS, carbohydrate, and
+lipid positively correlated with H; these trends indicate that
+increasing the diversity of the bacterial community could stabilize
+and increase process performance of the AD system. All of these
+results are consistent with previous studies and the general concept in ecology that a high diversity of microorganisms increases
+the functionality of an ecosystem [9,48].
+For archaea, [TVFA] in the digester was positively correlated
+with H; this relationship indicates that process instability could
+occur as archaeal diversity increased. This conclusion concurs with
+a previous report that methanogen diversity increases in the presence of inhibitory effects [49]. It also indicates that bacteria and
+archaea could have different diversity responses, but not different
+population size responses, to inhibitory effects in AD systems.
+
+variables were elucidated using biomolecular tools (i.e., QPCR
+and 454 pyrosequencing) and statistical computations (i.e., NMS,
+RDA and Pearson correlation test). Eight seasonal observations of
+two-year operation of the digester gave statistically meaningful
+results as follows.
+
+4. Conclusions
+
+Acknowledgement
+
+In this study, microbial communities were investigated in a fullscale thermophilic anaerobic digester treating FRW, a highstrength and complex organic wastewater. Moreover, variations
+in microbial community characteristics (i.e., population size, community structure, diversity) and their correlations with process
+
+This work was financially supported by Korea Ministry of Environment as 「Knowledge-based environmental service (Waste to
+energy recycling) Human resource development Project」
+. This
+work was also supported by ‘‘Human Resources Program in Energy
+Technology” of the Korea Institute of Energy Technology Evalua-
+
+(1) Temporal variation of organic composition in the FRW was
+high; high [lipid] in the digester may result from high [lipid]
+in the influent FRW. [Na+] and [lipid] in the digester was
+negatively correlated with COD removal of the AD system,
+but [ammonia] was not.
+(2) Tepidanaerobacter, Anaerobaculum, and Defluviitoga, Keratinibaculum, Gelria, Tepidimicrobium, Caldicoprobacter, Bacillus,
+and Syntrophaceticus were dominant bacterial genera, and
+Methanoculleus and Methanobacterium were dominant
+archaeal genera.
+(3) Both total bacterial and archaeal populations were positively
+correlated with COD removal but negatively correlated with
+[Na+] and [lipid] in the digester. This result suggests that
+high [Na+] and [lipid] within the ranges might inhibit the
+growth of both bacteria and archaea, and reduce COD
+removal of the AD system.
+(4) The bacterial community structure could be significantly
+affected by [Na+], [lipid] and [ammonia] in the digester. Gelria and Cardiocoprobacter showed opposite responses to
+[Na+] and [lipid] in the digester, and may be microbial indicators of process abnormality in thermophilic CSTR AD systems that treat FRW. [Ammonia] in the digester could solely
+affect both bacterial and archaeal community structures,
+especially in the dominance and the variations in SAOB
+(i.e., Tepidanaerobacter) and HMs (i.e., Methanoculleus,
+Methanobacterium) genera, which were explained by variation in [ammonia].
+(5) Bacterial diversity was negatively correlated with [lipid].
+Archaeal diversity was positively correlated with [TVFA].
+To summarize, high [Na+] > 7 g Na+/L and high [lipid] > 5 g lipid/
+L might result in decrease of overall bacteria and archaeal functionalities in the thermophilic AD system; in turn, this repression
+would reduce COD removal. Moreover, [Na+], [lipid], and [ammonia]
+were among the key parameters that determine process performance and/or the underpinning microbial communities for
+thermophilic AD system treating high-strength and complex
+organic wastewater.
+
+J. Lee et al. / Chemical Engineering Journal 300 (2016) 291–299
+
+tion and Planning (KETEP) Grant, funded by the Ministry of Trade,
+Industry & Energy, Republic of Korea (No. 20144030200460).
+
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.cej.2016.04.097.
+
+References
+[1] MoE, Status of The National Waste Generation and Treatment, 2011 (전국 폐기
+물 발생 및 처리현황 2011년), Ministry of Environment, Korea, 2012.
+[2] S.G. Shin, G. Han, J. Lee, K. Cho, E.J. Jeon, C. Lee, S. Hwang, Characterization of
+food waste-recycling wastewater as biogas feedstock, Bioresour. Technol. 196
+(2015) 200–208.
+[3] B.K. Ahring, M. Sandberg, I. Angelidaki, Volatile fatty acids as indicators of
+process imbalance in anaerobic digestors, Appl. Microbiol. Biotechnol. 43
+(1995) 559–565.
+[4] D.J. Batstone, J. Keller, I. Angelidaki, S.V. Kalyuzhnyi, S.G. Pavlostathis, A. Rozzi,
+W.T. Sanders, H. Siegrist, V.A. Vavilin, The IWA Anaerobic Digestion Model No 1
+ADM1, Water Sci. Technol. 45 (2002) 65–73.
+[5] D.H. Lee, S.K. Behera, J.W. Kim, H.-S. Park, Methane production potential of
+leachate generated from Korean food waste recycling facilities: a lab-scale
+study, Waste Manage. 29 (2009) 876–882.
+[6] G. Oh, L. Zhang, D. Jahng, Osmoprotectants enhance methane production from
+the anaerobic digestion of food wastes containing a high content of salt, J.
+Chem. Technol. Biotechnol. 83 (2008) 1204–1210.
+[7] M. Madsen, J.B. Holm-Nielsen, K.H. Esbensen, Monitoring of anaerobic
+digestion processes: a review perspective, Renewable Sustainable Energy
+Rev. 15 (2011) 3141–3155.
+[8] A.-C. Liu, C.-Y. Chou, L.-L. Chen, C.-H. Kuo, Bacterial community dynamics in a
+swine wastewater anaerobic reactor revealed by 16S rDNA sequence analysis,
+J. Biotechnol. 194 (2015) 124–131.
+[9] X. Guo, C. Wang, F. Sun, W. Zhu, W. Wu, A comparison of microbial
+characteristics between the thermophilic and mesophilic anaerobic digesters
+exposed to elevated food waste loadings, Bioresour. Technol. 152 (2014) 420–
+428.
+[10] Y. Sekiguchi, Y. Kamagata, K. Syutsubo, A. Ohashi, H. Harada, K. Nakamura,
+Phylogenetic diversity of mesophilic and thermophilic granular sludges
+determined by 16S rRNA gene analysis, Microbiology 144 (Pt 9) (1998)
+2655–2665.
+[11] M. Carballa, L. Regueiro, J.M. Lema, Microbial management of anaerobic
+digestion: exploiting the microbiome-functionality nexus, Curr. Opin.
+Biotechnol. 33 (2015) 103–111.
+[12] APHA-AWWA-WEF, Standard Methods for the Examination of Water and
+wastewater, 21st ed., American Public Health Association, Washinton, DC,
+2005.
+[13] M. DuBois, K.A. Gilles, J.K. Hamilton, P.A. Rebers, F. Smith, Colorimetric method
+for determination of sugars and related substances, Anal. Chem. 28 (1956)
+350–356.
+[14] E.G. Bligh, W.J. Dyer, A rapid method of total lipid extraction and purification,
+Can. J. Biochem. Physiol. 37 (1959) 911–917.
+[15] C. Quince, A. Lanzen, T.P. Curtis, R.J. Davenport, N. Hall, I.M. Head, L.F. Read, W.
+T. Sloan, Accurate determination of microbial diversity from 454
+pyrosequencing data, Nat. Methods 6 (2009) 639–641.
+[16] Y. Yu, C. Lee, J. Kim, S. Hwang, Group-specific primer and probe sets to detect
+methanogenic communities using quantitative real-time polymerase chain
+reaction, Biotechnol. Bioeng. 89 (2005) 670–679.
+[17] B. McCune, J.B. Grace, D.L. Urban, Analysis of Ecological Communities, MjM
+software design, Gleneden Beach, Oregon, 2002.
+[18] MoE, Technical Guidelines for Biogas Facilities Treating Food Waste and
+Wastewater (음식물류폐기물 바이오가스화시설 기술지침서), Ministry of
+Environment, Korea, 2015.
+[19] Y. Chen, J.J. Cheng, K.S. Creamer, Inhibition of anaerobic digestion process: a
+review, Bioresour. Technol. 99 (2008) 4044–4064.
+[20] M.C. Cammarota, D.M. Freire, A review on hydrolytic enzymes in the treatment
+of wastewater with high oil and grease content, Bioresour. Technol. 97 (2006)
+2195–2210.
+[21] D.G. Cirne, X. Paloumet, L. Bjornsson, M.M. Alves, B. Mattiasson, Anaerobic
+digestion of lipid-rich waste – effects of lipid concentration, Renewable Energy
+32 (2007) 965–975.
+[22] M.J. Cuetos, X. Gomez, M. Otero, A. Moran, Anaerobic digestion of solid
+slaughterhouse waste (SHW) at laboratory scale: influence of co-digestion
+with the organic fraction of municipal solid waste (OFMSW), Biochem. Eng. J.
+40 (2008) 99–106.
+[23] A. Hejnfelt, I. Angelidaki, Anaerobic digestion of slaughterhouse by-products,
+Biomass Bioenergy 33 (2009) 1046–1054.
+[24] O. Lefebvre, S. Quentin, M. Torrijos, J.J. Godon, J.P. Delgenès, R. Moletta, Impact
+of increasing NaCl concentrations on the performance and community
+composition of two anaerobic reactors, Appl. Microbiol. Biotechnol. 75
+(2007) 61–69.
+
+299
+
+[25] G. Feijoo, M. Soto, R. Méndez, J.M. Lema, Sodium inhibition in the anaerobic
+digestion process: antagonism and adaptation phenomena, Enzyme Microb.
+Technol. 17 (1995) 180–188.
+[26] S. Suwannoppadol, G. Ho, R. Cord-Ruwisch, Overcoming sodium toxicity by
+utilizing grass leaves as co-substrate during the start-up of batch thermophilic
+anaerobic digestion, Bioresour. Technol. 125 (2012) 188–192.
+[27] A. Schnurer, A. Nordberg, Ammonia, a selective agent for methane production
+by syntrophic acetate oxidation at mesophilic temperature, Water Sci.
+Technol. 57 (2008) 735–740.
+[28] Z. Tian, Y. Zhang, Y. Li, Y. Chi, M. Yang, Rapid establishment of thermophilic
+anaerobic microbial community during the one-step startup of thermophilic
+anaerobic digestion from a mesophilic digester, Water Res. 69 (2015) 9–19.
+[29] B. Pap, Á. Györkei, I.Z. Boboescu, I.K. Nagy, T. Bíró, É. Kondorosi, G. Maróti,
+Temperature-dependent transformation of biogas-producing microbial
+communities points to the increased importance of hydrogenotrophic
+methanogenesis under thermophilic operation, Bioresour. Technol. 177
+(2015) 375–380.
+[30] M.K. Nobu, J.A. Dodsworth, S.K. Murugapiran, C. Rinke, E.A. Gies, G. Webster, P.
+Schwientek, P. Kille, R.J. Parkes, H. Sass, B.B. Jorgensen, A.J. Weightman, W.T.
+Liu, S.J. Hallam, G. Tsiamis, T. Woyke, B.P. Hedlund, Phylogeny and physiology
+of candidate phylum ’Atribacteria’ (OP9/JS1) inferred from cultivationindependent genomics, ISME J. (2015).
+[31] A. Briones, E. Coats, C. Brinkman, Should we build ‘‘obese” or ‘‘Lean” anaerobic
+digesters?, PLoS One 9 (2014) e97252
+[32] A. Sundquist, S. Bigdeli, R. Jalili, M. Druzin, S. Waller, K. Pullen, Y. El-Sayed, M.
+M. Taslimi, S. Batzoglou, M. Ronaghi, Bacterial flora-typing with targeted, chipbased pyrosequencing, BMC Microbiol. 7 (2007) 108.
+[33] M. Westerholm, S. Roos, A. Schnurer, Tepidanaerobacter acetatoxydans sp. nov.,
+an anaerobic, syntrophic acetate-oxidizing bacterium isolated from two
+ammonium-enriched mesophilic methanogenic processes, Syst. Appl.
+Microbiol. 34 (2011) 260–266.
+[34] M. Westerholm, S. Roos, A. Schnurer, Syntrophaceticus schinkii gen. nov., sp.
+nov., an anaerobic, syntrophic acetate-oxidizing bacterium isolated from a
+mesophilic anaerobic filter, FEMS Microbiol. Lett. 309 (2010) 100–104.
+[35] H. Wang, I.A. Fotidis, I. Angelidaki, Ammonia effect on hydrogenotrophic
+methanogens and syntrophic acetate-oxidizing bacteria, FEMS Microbiol. Ecol.
+91 (2015).
+[36] M.W. Maune, R.S. Tanner, Description of Anaerobaculum hydrogeniformans sp.
+nov., an anaerobe that produces hydrogen from glucose, and emended
+description of the genus Anaerobaculum, Int. J. Syst. Evol. Microbiol. 62
+(2012) 832–838.
+[37] W. Ben Hania, R. Godbane, A. Postec, M. Hamdi, B. Ollivier, M.-L. Fardeau,
+Defluviitoga tunisiensis gen. nov., sp. nov., a thermophilic bacterium isolated
+from a mesothermic and anaerobic whey digester, Int. J. Syst. Evol. Microbiol.
+62 (2012) 1377–1382.
+[38] I. Röske, W. Sabra, H. Nacke, R. Daniel, A.-P. Zeng, G. Antranikian, K. Sahm,
+Microbial community composition and dynamics in high-temperature biogas
+reactors using industrial bioethanol waste as substrate, Appl. Microbiol.
+Biotechnol. 98 (2014) 9095–9106.
+[39] Y. Huang, Y. Sun, S. Ma, L. Chen, H. Zhang, Y. Deng, Isolation and
+characterization of Keratinibaculum paraultunense gen. nov., sp. nov., a novel
+thermophilic, anaerobic bacterium with keratinolytic activity, FEMS Microbiol.
+Lett. 345 (2013) 56–63.
+[40] C.M. Plugge, M. Balk, E.G. Zoetendal, A.J.M. Stams, Gelria glutamica gen. nov., sp.
+nov., a thermophilic, obligately syntrophic, glutamate-degrading anaerobe, Int.
+J. Syst. Evol. Microbiol. 52 (2002) 401–407.
+[41] F. Lu, A. Bize, A. Guillot, V. Monnet, C. Madigou, O. Chapleur, L. Mazeas, P. He, T.
+Bouchez, Metaproteomics of cellulose methanisation under thermophilic
+conditions reveals a surprisingly high proteolytic activity, ISME J. 8 (2014)
+88–102.
+[42] M. Hatamoto, H. Imachi, S. Fukayo, A. Ohashi, H. Harada, Syntrophomonas
+palmitatica sp. nov., an anaerobic, syntrophic, long-chain fatty-acid-oxidizing
+bacterium isolated from methanogenic sludge, Int. J. Syst. Evol. Microbiol. 57
+(2007) 2137–2142.
+[43] A.
+Bouanane-Darenfed,
+M.-L.
+Fardeau,
+B.
+Ollivier,
+The
+family
+caldicoprobacteraceae, in: E. Rosenberg, E. DeLong, S. Lory, E. Stackebrandt, F.
+Thompson (Eds.), The Prokaryotes, Springer, Berlin Heidelberg, 2014, pp. 13–17.
+[44] L. Niu, L. Song, X. Liu, X. Dong, Tepidimicrobium xylanilyticum sp. nov., an
+anaerobic xylanolytic bacterium, and emended description of the genus
+Tepidimicrobium, Int. J. Syst. Evol. Microbiol. 59 (2009) 2698–2701.
+[45] L. Regueiro, J.M. Lema, M. Carballa, Key microbial communities steering the
+functioning of anaerobic digesters during hydraulic and organic overloading
+shocks, Bioresour. Technol. 197 (2015) 208–216.
+[46] I.F. Spellerberg, P.J. Fedor, A tribute to Claude Shannon (1916–2001) and a plea
+for more rigorous use of species richness, species diversity and the ‘Shannon–
+Wiener’ index, Glob. Ecol. Biogeogr. 12 (2003) 177–179.
+[47] C.E. Shannon, A mathematical theory of communication, Bell Syst. Tech. J. 27
+(1948) 379–423.
+[48] A.S. Engel, M.L. Porter, L.A. Stern, S. Quinlan, P.C. Bennett, Bacterial diversity
+and ecosystem function of filamentous microbial mats from aphotic (cave)
+sulfidic springs dominated by chemolithoautotrophic ‘‘Epsilonproteobacteria”,
+FEMS Microbiol. Ecol. 51 (2004) 31–53.
+[49] S.E. Denman, N.W. Tomkins, C.S. McSweeney, Quantitation and diversity
+analysis of ruminal methanogenic populations in response to the
+antimethanogenic compound bromochloromethane, FEMS Microbiol. Ecol.
+62 (2007) 313–322.
+
+

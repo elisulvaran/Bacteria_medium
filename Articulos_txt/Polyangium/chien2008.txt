@@ -1,0 +1,549 @@
+Journal of Environmental Sciences 20(2008) 359–363
+
+Microbial diversity of soil bacteria in agricultural ﬁeld contaminated with
+heavy metals
+CHIEN Chihching1,∗, KUO Yumei2 , CHEN Changchieh1 , HUNG Chunwei1 ,
+YEH Chihwei1 , YEH Weijen1
+1. Graduate School of Biotechnology and Bioengineering, Yuan Ze University, Chung-Li, Taiwan 320, China. E-mail: ccchien@saturn.yzu.edu.tw
+2. Department of Occupational Safety and Health, Chung Hwa University of Medical Technology, Tainan, Taiwan, China
+Received 7 May 2007; revised 12 July 2007; accepted 30 July 2007
+
+Abstract
+In this study we evaluated the bacterial diversity in a soil sample from a site next to a chemical industrial factory previously
+contaminated with heavy metals. Analysis of 16S rDNA sequences ampliﬁed from DNA directly extracted from the soil revealed
+17 diﬀerent bacterial types (genera and/or species). They included Polyangium spp., Sphingomonas spp., Variovorax spp., Haﬁna spp.,
+Clostridia, Acidobacteria, the enterics and some uncultured strains. Microbes able to tolerate high concentrations of cadmium (500
+µmol/L and above) were also isolated from the soil. These isolates included strains of Acinetobacter (strain CD06), Enterobacter
+sp. (strains CD01, CD03, CD04 and CD08) (similar strains also identiﬁed in culture-independent approach) and a strain of
+Stenotrophomonas sp. The results indicated that the species identiﬁed from direct analysis of 16S rDNA of the soil can be quite
+diﬀerent from those strains obtained from enrichment cultures and the microbial activities for heavy metal resistance might be more
+appropriately addressed by the actual isolates.
+Key words: cadmium; heavy metal; heavy metal resistant; microbial diversity; soil bacteria
+
+Introduction
+Heavy metal contamination is a common environmental
+problem which presents a signiﬁcant health hazard and
+requires expensive cleanup costs. The input of these pollutants into the environment has signiﬁcantly increased
+due to the irresponsible disposal of wastes by various
+industries. Agricultural ﬁelds contaminated with the heavy
+metal cadmium have been a particular concern since it
+results in the contamination of the agricultural products
+such as rice. Additionally, heavy metals can accumulate in
+biological systems and ultimately be introduced into food
+web via diﬀerent mechanisms (Giller et al., 1998). Metals
+are a signiﬁcant toxic factor to biota in the environment in
+their free ionic forms. However, studies on bacterial diversity in heavy metal contaminated sites still demonstrated
+a high diversity of microorganisms (Dean-Ross and Mills,
+1989; Hattori 1992; Gelmi et al., 1994; Roane and Kellogg,
+1996; Filali et al., 2000; Ellis et al., 2003; Konstantinidis
+et al., 2003). They are indigenous organisms that have
+not only adapted to the new environments but have also
+ﬂourished under them (Haq and Shakoori, 2000; Roane
+and Pepper, 2000). Microorganisms possess a variety of
+mechanisms to deal with high concentrations of heavy
+metals and often are speciﬁc to one or a few metals
+* Corresponding author. E-mail: ccchien@saturn.yzu.edu.tw.
+
+(Silver and Mistra, 1988; Silver and Phung, 1996; Mejare
+and Bulow, 2001; Nies, 2003; Piddock, 2006). Therefore,
+speciﬁc heavy metal resistant determinants can be used as
+parameters for environmental forensic as biosensors (Haq
+and Shakoori, 2000; Zhou, 2003; Verma and Singh, 2005).
+The required methods to most reliably determine the
+bacterial diversity of an environment is often hotly debated. It is widely accepted that the enrichment culture
+approach only identiﬁes a small proportion of microorganisms in any given sample. And these are usually the
+organisms that grow best under the enrichment conditions
+provided. On the other hand, the use of nucleic acidbased methods including biochips is believed to be more
+appropriate for the assessment of microbial community
+than those based on culturing techniques (Ovreas and
+Torsvik, 1998). Unfortunately, there are drawbacks of
+these culture-independent approaches such as the relevance of the microbial activities to the metal pollutants
+can not be totally elucidated. Study on the relationship
+between the diversity of the culturable portion of the
+microbial community and the microbial diversity obtained
+by direct ampliﬁcation of 16S rDNA genes from soil
+have been discussed (Ellis et al., 2003). Also from the
+application of bioremediation point of view, the isolation
+of the microorganisms and the bacterial eﬀects in the
+removal of heavy metals is essential.
+In this study, we studied the bacterial diversity of a soil
+
+360
+
+CHIEN Chihching et al.
+
+sample from an agricultural ﬁeld previously contaminated
+with heavy metals. Examination of the microbiota was
+carried out both by direct ampliﬁcation of 16S rDNA genes
+from the sample as well as cultivation of the microorganisms. As expected, our result indicated that the species
+identiﬁed from direct analysis of 16S rDNA genes of the
+soil was quite diﬀerent from those strains obtained from
+enrichment cultures. All the isolates showed robust-growth
+in the medium containing relative high concentration of
+heavy metals. This suggests that from the application point
+of view, only the “actual” isolation of microorganisms may
+provide the ability to study the relationship between in situ
+microbial activities and those isolates able to be used for
+bioremediation applications.
+
+1 Materials and methods
+1.1 Experimental soil
+The experiment was conducted with soil from an agricultural ﬁeld contaminated with heavy metals in Lu-Chu,
+Taoyuan, Taiwan, due to the wastewater discharged to irrigation channel from a chemical industrial factory nearby in
+1980s. Although the ﬁeld was under remediation process in
+late 1990s, the farmland is still not available for agriculture
+until recently. The sample was collected from the top 5–
+20 cm layer of the ﬁeld. The pH of the collected sample
+was 4.6 and the organic carbon content was 3.7%. The
+composition of the sample was 28% sand, 42% silt and
+30% clay. The concentration of heavy metals was 3 mg/kg
+for cadmium and 115 mg/kg for chromium. The analysis
+of the soil was conducted by soil survey and testing center,
+“National” Chung-Hsing University, Taichung, Taiwan,
+China.
+1.2 Isolation of cadmium resistant bacteria
+Bacteria were isolated from soil described above using
+Luria Bertani (LB) broth medium supplemented with 500
+µmol/L CdCl2 (Lennox, 1955). Soil (0.5 g) was inoculated
+into 250-ml Erlenmeyer ﬂask containing 50 ml medium
+and incubated at 30°C with shaking (150 r/min) to maintain
+aerobic conditions. Pure cultures were obtained on the
+same medium solidiﬁed by addition of Bacto agar (BD
+Diagnostics, Sparks, MD, USA).
+
+Vol. 20
+
+universal primers F24 (Forward AGTTTGATYMTGGCTCAG) and F25 (Reverse, AAGGAGGTGWTCCARCC) as described (Dewhirst et al., 1999). The PCR (20
+µl) contained 1 µl of the DNA preparation, 1X Taq polymerase buﬀer (provided by the manufacturer), 1 mmol/L
+of each forward and reverse primer, 200 mmol/L of each
+deoxynucleotide (ddATP, ddGTP, ddCTP and ddTTP) and
+Taq polymerase (Yeastern Biotech Co., Ltd., Taipei, Taiwan) 2.5 U. PCR conditions were as follows: 95°C for
+5 min followed by ampliﬁcation in which the following
+conditions were used: denaturation at 95°C for 45 s,
+annealing at 55°C for 60 s and elongation for 90 s at
+72°C with an additional 10 min at 72°C for each cycle
+for the 30 cycles. The PCR products obtained from DNA
+extracted from soil were ﬁrst analyzed by electrophoresis
+in 1% agarose gel and was stained with ethidium bromide
+and visualized under short-wavelength UV light. Puriﬁed
+PCR products (about 1.5 kb) were then inserted into a
+commercial plasmid vector yT&A (Yeastern Biotech.
+Co., Ltd., Taiwan) and then transformed into competent
+Escherichia coli DH5α. Random selected clones were
+sequenced using a LICOR IR2 4200 DNA sequencer (LICOR, Lincoln, NE, USA) according to manufacturer’s
+instructions. Puriﬁed PCR products obtained from pure
+cultures of the isolates were also subjected for sequencing
+as described. Sequences obtained were compared to the
+non-redundant nucleotide database at the National Center
+for Biotechnology Information by using their World Wide
+Website, and the BLAST (Basic Local Alignment Search
+Tool) algorithm.
+1.5 Heavy metal tolerance of isolated strains
+To examine the ability of the isolate strains to resist
+heavy metals, cells of strains CD01, CD06 and CD08
+were grown in 250-ml Erlenmeyer ﬂasks containing 50 ml
+of LB medium supplemented with 500 mol/L of heavy
+metals (Cd in CdCl2 , Cr in K2 Cr2 O7 , Ni in NiSO4 , Zn
+in ZnSO4 , Pb in Pb(NO3 )2 , and Cu in CuSO4 ). Cultures
+were incubated at 30°C with shaking to maintain aerobic
+conditions. Cell growth was determined as measurements
+of optical density at 600 nm (OD600 nm ). Another isolate
+(a strain of Stenotrophomonas) possess a peculiar ability
+for heavy metal resistance and was published elsewhere
+(Chien et al., 2007).
+
+1.3 DNA extraction from the soil and bacterial isolates
+Bacterial DNA was extracted directly from soil using the SoilMaster™ DNA extraction kit (Epicentre
+Biotechnologies, Madison, WI, USA) according to the
+manufacturer’s instructions. DNA was also extracted directly from soil using bead beater and hot detergent
+treatment (Kuske et al., 1998). For pure cultures, cells
+were harvested and washed twice with 1 ml of sterile
+phosphate-buﬀered saline and the DNA was extracted from
+cell pellets by Triton-Prep method.
+1.4 Ampliﬁcation of 16S rDNA genes by polymerase
+chain reaction (PCR) and analysis of the PCR
+products
+The 16S rDNA genes were ampliﬁed with bacterial
+
+2 Results and discussion
+2.1 Bacterial diversity determined by culture-independent 16S rDNA analysis
+From the selected clones with insertion of direct ampliﬁcation of 16S rDNA from soil, seventeen diﬀerent
+microbial types (genera and/or species) were identiﬁed
+from 40 random selected clones. They include bacteria
+belong to genera Polyangium, Sphingomonas, Variovorax,
+Haﬁna, Clostridia, Acidobacteria, bacteria belonging to
+the members of Enteribacteriaceae and some uncultured
+strains. The identities were determined by partial 16S
+rDNA sequence analysis of these representative clones and
+sequence accession numbers are shown in Table 1. The
+
+No. 3
+
+Microbial diversity of soil bacteria in agricultural ﬁeld contaminated with heavy metals
+
+genera that are closely related to the clones as determined
+by the similarity the alignments of partial 16S rDNA
+sequences in this study are also shown in Table 1.
+2.2 Identiﬁcation of cultured cadmium resistant microorganisms
+Six strains of bacteria able to grow in the presence of
+cadmium (at least 500 µmol/L) were isolated from the
+soil sample. The partial 16S rDNA sequences of these
+bacteria were compared with the 16S rDNA sequences
+available in the NCBI (National Center for Biotechnology
+Information, Bethesda, MD, USA) public database. The
+results showed that the six isolates belonged to three different groups of bacteria. One of the isolates was identiﬁed
+as a Stenotrophomonas sp. and was published elsewhere
+since it has peculiar characteristics for cadmium resistance
+and antibiotic resistance (Chien et al., 2007). The other
+strains were identiﬁed as Enterobacter sp. (designed as
+strain CD01, CD03, CD04 and CD08) and Acinetobacter
+sp. (designed as strain CD06), respectively. The nucleotide
+sequence of partial 16S rDNA of strains CD06 and CD08
+have been deposited in the GenBank database under accession numbers EF198175 and EF198176, respectively.
+2.3 Heavy metal resistance levels of strains CD01, CD06
+and CD08
+Strains CD01, CD06 and CD08 were able to resist to a
+variety of heavy metals. Strains CD01 and CD08 showed
+
+361
+
+the same pattern of heavy metal resistance, which also
+indicated these isolates maybe the same strains (Enterobacter sp.). Table 2 shows the ability of strain CD08
+grown in medium containing diﬀerent heavy metals. Strain
+CD06 was identiﬁed as an Acinetobacter sp., and is most
+closely related to Acinetobacter radioresistens by 16S
+rDNA sequence alignment. A. radioresistens capable of
+degrading aromatic compounds has been reported to be
+sensitive to heavy metals regardless the bacterium possessed abundant plasmids (Pessione and Giunta, 1997). In
+contrast, strain CD06 is able to resist to a variety of heavy
+metals to rather high concentrations (Table 2). We also
+examined A. radioresistence ATCC15425 for its ability
+to resist cadmium and a much lower minimum inhibitory
+concentration was observed (500 µmol/L) compared to that
+of strain CD06 (1500 µmol/L). This has been also noticed
+in Stenotrophomonas sp. in which the strain isolated from
+heavy metal contaminated soil demonstrated much higher
+tolerance to heavy metals than those obtained from culture
+collection (Chien et al., 2007). The growth curves of strain
+CD06, CD08 and an E. coli in the medium without addition
+of heavy metals in comparison to the growth curve in
+the medium supplemented with selected concentrations
+of diﬀerent heavy metals are shown in Fig.1. The results
+showed that compared to the heavy metal resistant strains,
+E. coli did not grow in the medium containing Cd and Cr,
+and also had remarkably reduced growth in the medium
+
+Table 1 List of the selected clones and their closest genera identiﬁed by 16S rDNA sequences
+Clone
+
+Most closely related strain by 16S rDNAa
+
+GenBank accession number
+
+MB-01 (1)b
+MB-02 (2)
+MB-03 (4)
+MB-04 (1)
+MB-06 (1)
+MB 5-02 (1)
+A-04 (1)
+A-05 (2)
+A-07 (2)
+B-15 (3)
+MB 36 (3)
+MB 43 (1)
+MB 49 (12)
+MB 52 (1)
+MB 56 (2)
+MB 57 (1)
+MB 67 (2)
+
+α-Proteobacterium (AB121772)c (96%)
+Hafnia alvei (Z83203) (98%)
+Uncultured bacterium CCM6b (AY221067) (97%)
+Variovorax paradoxus (DQ256487) (98%)
+Uncultured bacterium clone (DQ537533) (95%)
+Uncultured bacterium clone (AF507681) (92%)
+Polyangium cellulosum (AF467674) (96%)
+Uncultured Enterobacteriaceae (AY635972) (98%)
+Sphingomonas sp. (AF324199) (99%)
+Uncultured Acidobacteria bacterium (DQ829252) (97%)
+Enterobacter sp. (AB114268) (98%)
+α-Proteobacterium (AB245349) (99%)
+Uncultured Clostridiales (DQ069224) (97%)
+Uncultured Planctomyces sp. (DQ084252) (92%)
+Uncultured bacterium (AY457688) (98%)
+Uncultured bacterium (AY921936) (94%)
+Uncultured Rhodospirillales bacterium (AY755403) (98%)
+
+EF133672
+EF133673
+EF133674
+EF133675
+EF133676
+EF133677
+EF133678
+EF133679
+EF133680
+EF133681
+EF133682
+EF133683
+EF133684
+EF133685
+EF133686
+EF133687
+EF133688
+
+a
+
+Determined by the similarity of 16S rDNA sequence (Similarity value from 92% to 99% as shown in square brackets); b the number of clones obtained
+from the examined clones; c GenBank accession number of reference strains.
+Table 2
+
+Growth of Enterobacter sp. CD08 and Acinetobacter sp. CD06 on Luria Bertani supplemented with diﬀerent heavy metals
+
+Heavy metal
+concentration (µmol/L)
+
+500
+
+OD600 nm for Enterobacter sp. CD08
+1000
+2000
+3000
+4000
+
+5000
+
+500
+
+OD600 nm for Acinetobacter sp. CD06
+1000
+2000
+3000
+4000
+
+5000
+
+Cd
+Cr
+Pb
+Cu
+Ni
+Zn
+
+2.4
+3.8
+4.9
+6.0
+4.9
+5.0
+
+1.6
+–
+4.9
+5.6
+5.3
+4.9
+
+–
+–
+3.8
+4.2
+–
+0.4
+
+4.7
+3.5
+7.8
+9.0
+6.9
+5.7
+
+2.4
+1.7
+7.7
+8.4
+6.6
+6.9
+
+–
+–
+4.7
+5.8
+–
+0.6
+
+0.3
+–
+4.3
+5.5
+4.4
+3.2
+
+–
+–
+4.1
+4.0
+3.5
+1.7
+
+–
+–
+3.9
+4.4
+0.3
+0.4
+
+–
+–
+7.6
+9.0
+5.6
+2.6
+
+–
+–
+6.3
+6.4
+3.7
+2.1
+
+–
+–
+5.1
+6.1
+3.5
+2.4
+
+Numerals indicate the growth as measured by OD600 nm (measurement of optical density at 600 nm) within a growth period of 5 d (the highest growth
+measurement is listed). (–) indicates a measured value less than 0.1 after 5-d incubation. Growth after 24 h in the medium without heavy metal was 5.7
+as measured by OD600 nm .
+
+362
+
+CHIEN Chihching et al.
+
+Vol. 20
+
+Fig. 1 Growth curves of strain CD06, CD08 and an Escherichia coli in the medium with and without the addition of heavy metals. The media were
+supplemented with heavy metals where applicable: (a) 500 µmol/L Cr; (b) 1000 µmol/L Cd; (c) 1000 µmol/L Zn; (d) 1000 µmol/L Ni; (e) 5000 µmol/L
+Cu; (f) 5000 µmol/L Pb.
+
+containing other heavy metals examined.
+From the enrichment culture, four out of six isolates
+were identiﬁed as Enterobacter sp. according to the 16S
+rDNA sequence similarity. Bacteria belong to Enterobacteriaceae were also identiﬁed in the culture-independent
+approach in higher proportion compared to many other
+type of microorganisms. The other microorganism that
+was identiﬁed from culture-independent approach with the
+highest proportion was bacteria belong to Clostridiales.
+We did not employ anaerobic culturing techniques for our
+enrichment culture isolation, therefore, no Clostridium and
+related microorganisms were isolated in this study. However, anaerobic microorganisms unquestionably are one of
+the most signiﬁcant communities in such environment, and
+may also valuable for further bioremediation applications.
+Heavy metals resistant traits are often carried by plasmids. Enterobacter cloacae and Klebsiella sp. isolated
+from industrial eﬄuents capable to resist to heavy metals
+were demonstrated to harbor related plasmids (Haq et al.,
+1999). An attempt to isolate plasmids was unsuccessful.
+Further investigation is required for the conﬁrmation of
+the presence of the plasmids as well as the mechanisms
+of heavy metals resistance of these isolates.
+
+3 Conclusions
+The microbial diversity in a soil sample from a site
+next to a chemical industrial factory previously heavily contaminated with cadmium was examined by both
+culture-independent and culture-dependent approaches.
+Three diﬀerent types of microorganisms that resist to
+high level of heavy metals were isolated in pure cultures.
+However, seventeen types of microbes were identiﬁed by
+culture-independent method. The diﬀerent results between
+
+culture-independent and culture-dependent approaches
+were due to both enrichment culture techniques bias and
+the relevance of the microbial resistant to the metal pollutants may not be totally relevant in culture-independent
+results. However, from the application of bioremediation
+point of view, the isolation of the microorganisms and
+the bacterial eﬀects on the removal of heavy metals are
+essential.
+Acknowledgements
+This work was supported by the “National” Science
+Council, Taiwan, China (No. NSC95-2221-E-155-021).
+We are also grateful to Dr. Thomas J Lie, University of
+Washington, Seattle, USA for the editing assistance.
+
+References
+Chien C C, Hung C W, Han C T, 2007. Removal of cadmium ions
+during stationary growth phase by an extremely cadmiumresistant strain of Stenotrophomonas sp. Environl Toxicol
+Chem, 26: 664–668.
+Dean-Ross D, Mills A L, 1989. Bacterial community structure
+and function along a heavy metal gradient. Appl Environ
+Microbiol, 55: 2002–2009.
+Dewhirst F E, Chien C C, Paster B J, Ericson R L, Orcutt R
+P, Schauer D B, Fox J G, 1999. Phylogeny of the deﬁned
+murine microbiota: altered Schaedler ﬂora. Appl Environ
+Microbiol, 65: 3287–3292.
+Ellis R J, Morgan P, Weightman A J, Fry J C, 2003. Cultivationdependent and -independent approaches for determining
+bacterial diversity in heavy-metal-contaminated soil. Appl
+Environ Microbiol, 69: 3223–3230.
+Filali B K, Taouﬁk J, Zeroual Y, Dzairi F Z, Talbi M, Blaghen
+M, 2000. Waste water bacterial isolates resistant to heavy
+metals and antibiotics. Curr Microbiol, 41: 151–156.
+Gelmi M, Apostoli P, Cabibbo E, Porru S, Alessio L, Turano A,
+
+No. 3
+
+Microbial diversity of soil bacteria in agricultural ﬁeld contaminated with heavy metals
+
+1994. Resistance to cadmium salts and metal absorption by
+diﬀerent microbial species. Curr Microbiol, 29: 335–341.
+Giller K E, Witter E, McGrath S P, 1998. Toxicity of heavy metals
+to microorganisms and microbial processes in agricultural
+soils: A review. Soil Biol Biochem, 30: 1389–1414.
+Haq R, Shakoori A R, 2000. Microorganisms resistant to heavy
+metals and toxic chemicals as indicators of environmental pollution and their use in bioremediation. Folia Biol
+(Krakow), 48: 143–147.
+Haq R, Zaidi S K, Shakoori A R, 1999. Cadmium resistant Enterobacter cloacae and Klebsiella sp. isolated from industrial
+eﬄuents and their possible role in cadmium detoxiﬁcation.
+World J Microbiol Biotechnol, 15: 283–290.
+Hattori H, 1992. Inﬂuence of heavy metals on soil microbial
+activities. Soil Sci Plant Nutr, 38: 93–100.
+Konstantinidis K T, Isaacs N, Fett J, Simpson S, Long D T, Marsh
+T L, 2003. Microbial diversity and resistance to copper in
+metal-contaminated lake sediment. Microb Ecol, 45: 191–
+202.
+Kuske C R, Banton K L, Adorada D L, Stark P C, Hill K K,
+Jackson P J, 1998. Small-scale DNA sample preparation
+method for ﬁeld PCR detection of microbial cells and
+spores in soil. Appl Environ Microbiol, 64: 2463–2472.
+Lennox E S, 1955. Transduction of linked geneticcharacters of
+the host by bacteriophage P1. Virol, 1: 190.
+Mejare M, Bulow L, 2001. Metal-binding proteins and peptides
+
+363
+
+in bioremediation and phytoremediation of heavy metals.
+Trends Biotechnol, 19: 67–73.
+Nies D H, 2003. Eﬄux-mediated heavy metal resistance in
+prokaryotes. FEMS Microbiol Rev, 27: 313–339.
+Ovreas L, Torsvik V, 1998. Microbial diversity and community
+structure in two diﬀerent agricultural soil communities.
+Microb Ecol, 36: 303–315.
+Pessione E, Giunta C, 1997. Acinetobacter radioresistens metabolizing aromatic compounds. 2 Biochemical and microbiological characterization of the strain. Microbios, 89:
+105–117.
+Piddock L J, 2006. Multidrug-resistance eﬄux pumps–not just
+for resistance. Nat Rev Microbiol, 4: 629–636.
+Roane T M, Kellogg S T, 1996. Characterization of bacterial
+communities in heavy metal contaminated soils. Can J
+Microbiol, 42: 593–603.
+Roane T M, Pepper I L, 2000. Microbial responses to environmentally toxic cadmium. Microb Ecol, 38: 358–364.
+Silver S, Mistra T K, 1988. Plasmid mediated metals resistance.
+Annu Rev Microbiol, 42: 717–743.
+Silver S, Phung L T, 1996. Bacterial heavy metal resistance: New
+surprises. Annu Rev Microbiol, 50: 753–789.
+Verma N, Singh M, 2005. Biosensors for heavy metals. Biometals, 18: 121–129.
+Zhou J, 2003. Microarrays for bacterial detection and microbial
+community analysis. Curr Opin Microbiol, 6: 288–294.
+
+

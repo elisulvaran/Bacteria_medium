@@ -1,0 +1,1798 @@
+Microb Ecol (2010) 60:394–405
+DOI 10.1007/s00248-010-9721-7
+
+ENVIRONMENTAL MICROBIOLOGY
+
+How a Bacterial Community Originating
+from a Contaminated Coastal Sediment Responds to an Oil
+Input
+Sandrine Païssé & Marisol Goñi-Urriza &
+Frédéric Coulon & Robert Duran
+
+Received: 16 May 2010 / Accepted: 29 June 2010 / Published online: 22 July 2010
+# Springer Science+Business Media, LLC 2010
+
+Abstract Bacterial communities inhabiting coastal sediments are subjected to oil spills. In order to examine the
+early structural response of a complex bacterial community
+to oil pollution, a kinetic study of the crude oil impact on
+bacterial communities inhabiting sediments from the contaminated Etang-de-Berre lagoon was performed. The
+sediments were maintained in slurries in presence or
+absence of crude oil and the kinetic study was carried out
+14 days. During this period, 54% of crude oil was
+biodegraded showing the importance of the early degradation step. The metabolically active community (16S rRNA
+transcript analysis) was immediately impacted by the oil
+input, observed as an apparent decrease of species richness
+in the first hour of incubation. Nevertheless, this shift was
+quickly reversed, highlighting a fast, adaptative and
+efficient response of the metabolically active bacterial
+population. The high proportion of sequences related to
+hydrocarbonoclastic strains or petroleum-associated clones
+in active oiled community was consistent with significant
+increasing numbers of cultivable hydrocarbonoclastic bacteria at the end of the experiment. We concluded that
+Electronic supplementary material The online version of this article
+(doi:10.1007/s00248-010-9721-7) contains supplementary material,
+which is available to authorized users.
+S. Païssé : M. Goñi-Urriza : R. Duran (*)
+Equipe Environnement et Microbiologie-UMR CNRS IPREM
+5254, Université de Pau,
+BP1155, 64013 Pau Cedex, France
+e-mail: robert.duran@univ-pau.fr
+F. Coulon
+Centre for Resource Management and Efficiency,
+School of Applied Sciences, Department of Sustainable Systems,
+Cranfield University,
+Cranfield,
+Bedfordshire MK43 0AL, UK
+
+“Etang-de-Berre” bacterial communities inhabiting oiled
+sediments for decades adopted a specific structure depending on oil presence and were able to face hydrocarbon
+contamination quickly and efficiently.
+
+Introduction
+Oil pollutes by entering ecosystems naturally by seepage
+from reservoirs and through anthropogenic activities including the extraction of oil from reservoirs, transportation,
+processing in refineries and handling and disposal by end
+users. Oil pollution of the sea and coastlines is difficult to
+contain and causes significant ecological perturbations
+leading to negative impacts on local fishing, aquaculture,
+and tourist industries [10]. Some oil components accumulate and biomagnify through the food chain, and those that
+are mutagenic or carcinogenic are prejudicial to the long
+term health of marine organisms and their predators,
+including humans [15]. Fortunately, a substantial proportion
+of the oil entering marine habitats is degraded by
+indigenous microorganisms and their use in bioremediation
+processes has proven to be an effective method for cleaning
+up residual oil in a variety of coastal environments [5, 13,
+27].
+A great deal of research on the diversity and the
+metabolic activities of complex microbial communities
+able to cope with oil compounds in environment has
+been carried out, but many unknowns persist and more
+work is needed to elucidate and understand their
+complexity. The impact of oil on complex bacterial
+community structures and the bacterial capacity to
+degrade hydrocarbons has been mainly examined under
+mineral nutrient and/or bioremediation agent treatments.
+Although some studies showed that these treatments
+
+Coastal bacterial Community Dynamic to Oil Response
+
+improved significantly the oil biodegradation [7, 27],
+other studies demonstrated either no effect of nutrient
+addition [20] or that the nutrients have a greater impact on
+the bacterial community than the oil alone [8]. Moreover,
+the bioremediation agents produce residues that showed a
+relatively high toxicity [7]. In addition, oil impact on the
+bacterial community depends on the history of the site
+pollution. Most of the pristine communities exposed to
+petroleum contamination presented a decrease in diversity
+associated with the selection of tolerant populations and
+then a resilience phenomenon [2, 8, 27]. In contrast, the
+response of indigenous communities previously exposed
+to petroleum compounds, dominated by organisms able to
+utilise and/or survive to toxic hydrocarbons, is expected to
+occur faster and more specifically [4, 14]. The bacterial
+community diversity may also be influenced by the
+complexity of chemical mixtures present and the length
+of the exposure time. Recent works showed that the study
+of the metabolically active populations provides new
+insights for the characterization of the bacterial community response to oil contamination [2, 21]. However,
+information on the early response (within the first hours
+and days) of a complex bacterial community to oil
+exposure is still scarce. Gaining insights into the bacterial
+abundance, phylogenetic structure changes and degradation activity occurring in the first stage of oil contamination would be of great interest since it is hypothesised that
+the hydrocarbonoclastic populations are established within
+2 weeks in the community related to fast biodegradation
+events [14].
+The aim of the present study was to determine the
+short- and mid-term modifications occurring on the preestablished bacterial communities from coastal sediment
+in response to a simulated oil spill. The Etang-de-Berre,
+a brackish lagoon bordering the Mediterranean Sea in
+the South of France, is characterised by important
+industrial activities and receives important amounts of
+hydrocarbons from refineries, petrochemical plants and
+transportation systems in addition to biogenic inputs
+[16]. The bacterial communities inhabiting these sediments being well-adapted to the oil presence seemed to
+carry all the metabolic machinery for coping with
+hydrocarbon exposure. Thus these bacterial communities
+constitute an interesting environmental model to gain a
+better understanding of the effectiveness of biodegradation in contaminated coastal environments. Thus, combining gas chromatography-mass spectrometry (GC-MS)
+analysis, culture-dependant and molecular approaches
+(terminal-restriction fragment length polymorphism (TRFLP), 16S rRNA gene and transcript libraries), the
+response of whole microbial community and its active
+members was screened throughout a slurry experiment
+during the first hours and days after crude oil input.
+
+395
+
+Materials and Methods
+Sediment Sampling
+The subsurface sediments (0–2 cm) were collected from the
+station EDB1 (43°29′05″N; 5°11′17″E) of the Berre
+brackish lagoon bordering the Mediterranean Sea on
+October 2005 [24]. These shallow sediments (water column
+height around 30 cm) have been chronically subjected to
+hydrocarbon contamination for several decades, leading to
+hydrocarbon concentration of around 100 μg/g dry sediment. In order to assess the impact of the experimental
+design on the original bacterial community structure, a subsample (0.5 g) of homogenised sediments was immediately
+frozen in liquid nitrogen and stored at −80°C until the
+analysis of in situ DNA bacterial community structure (IS).
+The remaining sediments were maintained at room temperature during the transport and the slurry experiment.
+Slurry Set-up
+The sediment samples were homogenised through a 3 mm
+sieve and maintained for 4 weeks under daylight condition
+and at room temperature in order to remove low-molecular
+weight hydrocarbons (boiling point c.a. 50 and <200°C). A
+sediment slurry was then prepared with 40% of wet
+sediment and 60% of sterile synthetic water (SSW) at a
+salinity of 20 PSU (KCl 0.428 g/l; CaCl2.2H2O 0.84 g/l;
+NH4Cl 1.514 mg/l; MgSO4.7H2O 3.794 g/l; MgCl2.6H2O
+3.017 g/l; NaCl 15.14 g/l; Na2CO3 0.15 g/l; trace element
+solution SL12 [23] without EDTA; potassium phosphate
+buffer 10−5 M at pH 7), and stabilised at 150 rpm agitation
+for 1 week. Triplicate microcosms were then set up in
+100 ml sterile vial bottles containing 16 ml of the stabilised
+slurry and incubated for 2 days at room temperature in
+daylight prior oil addition. Half of the slurry bottles were
+amended with 274±28 mg Vic Bilh oil (Vic Bilh field in
+South East of France) and which represented the bioticspilled oil condition (B+OIL). This level of contamination
+was chosen to simulate an oil spill that is likely to induce a
+perturbation in the bacterial communities. The main
+characteristics of Vic Bihl oil are as follows: density
+926.71 kg/l at 15°C, viscosity 30 Cst at 50°C, API: 21.
+The remaining slurries were defined as the bioticunamended condition (B − OIL). Abiotic spilled oil
+condition (AB+OIL) were set up using SSW, sterile
+Fontainebleau sand and Vic Bilh oil (Fig. 1). Before
+autoclaving, ultrasonic treatment in dichloromethane
+(DCM) (3×15′) was applied to the Fontainebleau sand
+and the DCM was evaporated during 24 h under airflow.
+Slurry microcosms were incubated under aerobic conditions
+at room temperature in daylight and with continuous
+agitation on an orbital shaker (150 rpm). Triplicate micro-
+
+396
+7d
+14d
+Initial concentration
+
+80
+
+a
+
+•
+
+210
+
+206
++/-23
+
+70
+
+25
+
+20
+
+60
+50
+
+15
+
+40
+10
+
+30
+20
+
+5
+
+10
+0
+
+-1
+
+90
+
+Initial concentrations (mg.Kg )
+
+100
+
+Biodegradation (%)
+
+0
+C10 C11 C12 C13 C14 C15 C16 C17 Pris C18 Phy C19 C20 C21 C22 C23 C24 C25 C26 C27 C28 Total
+aliphatics
+
+Aliphatic compounds
+
+b
+
+100
+90
+
+7d
+14d
+
+80
+
+Initial concentration
+
+•
+
+65
+15
+
+64
+13
+-1
+
++/-6.7
+
+11
+
+Biodegradation (%)
+
+Initial concentration (mg.Kg )
+
+Figure 1 Concentration of the
+aliphatic (from C10 to C28) (a)
+and aromatic (b) fractions in the
+oiled slurry at t0 and % of
+biodegradation at t7 and t14
+days. C29 to C39 aliphatic compounds were also found representing around 1% of the total
+aliphatics (Table S1, Electronic
+supplementary material). N
+naphthalene, F fluorene, D
+dibenzothiophene, P phenanthrene, FL fluoranthene, PY
+pyrene, C chrysene (C1 to C3
+represent carbon number of alkyl groups in alkylated PAH
+homologues). Each percentage
+represents the mean of hydrocarbon fractions from replicate
+samples
+
+S. Païssé et al.
+
+70
+9
+
+60
+50
+
+7
+
+40
+
+5
+
+30
+3
+20
+1
+
+10
+0
+
+-1
+N
+
+N1
+
+N2
+
+N3
+
+F
+
+F1
+
+F2
+
+D
+
+D1
+
+D2
+
+P
+
+P1
+
+P2
+
+P3
+
+FL
+
+PY
+
+PY1 PY2
+
+C
+
+C1
+
+C2 Total
+PAH
+
+Aromatic compounds
+
+cosms were then used for analysis after 0, 1, 2, 3, 6, 12 h
+and 1, 2, 3, 4, 5, 7, 9, 12 and 14 days of incubation. For
+chemical analysis, microcosms were immediately frozen
+and stored at −80°C. For molecular analysis, the slurry
+samples were centrifuged at 8,000×g for 5 min at 4°C. The
+pellets were immediately frozen in liquid nitrogen and
+conserved at −80°C until DNA and RNA extraction. Only
+RNase-free certified plastic wares were used. All molecular
+analyses except libraries were carried out in triplicates.
+Chemical Analysis
+Total petroleum hydrocarbon (TPH) extraction from chemically dried sediment samples (5±0.05 g) was performed using
+a sequential ultrasonic solvent extraction as described by
+Risdon et al. [26]. Deuterated alkanes and polycyclic
+aromatic hydrocarbons (PAHs) including dodecane-d22,
+nonadecane-d 4 0 , triacontane-d 6 2 , naphthalene d 8 ,
+phenanthracene-d10, chrysene-d12 and perylene-d12 (purchased from Sigma Aldrich, Dorset, UK) were added to
+the extracts at 0.5 and 0.4 gml−1. TPH, aliphatic and
+
+aromatic fractions were identified and quantified by gas
+chromatography-mass spectrometry using a Perkin Elmer
+AutoSystem XL gas chromatograph coupled to a Turbomass
+Gold mass spectrometer operated at 70 eV in positive ion
+mode. The column used was a Restek fused silica capillary
+column (30×0.25 mm internal diameter) coated with RTX®5MS (0.25 μm film thickness). Splitless injection with a
+sample volume of 1 μl was applied. The oven temperature
+was increased from 60°C to 220°C at 20°C/min−1 then to
+310°C at 6°C/min and held at this temperature for 15 min.
+The mass spectrometer was operated using the full scan
+mode (range m/z 50–500) for quantitative analysis of target
+alkanes and PAHs. For each compound, quantification was
+performed by integrating the peak at specific m/z. External
+multilevel calibrations were carried out for both aliphatic and
+aromatic fractions, ranging from 0.5 to 2500 μgml−1 and
+from 1 to 5 μgml−1, respectively. For quality control, a
+500 μgml−1 diesel standard and mineral oil were checked
+every ten samples. The percent depletion of all hydrocarbons
+were normalised to chrysene that is considered as one of the
+more persistent PAHs and calculated using the equation:
+
+Coastal bacterial Community Dynamic to Oil Response
+
+%loss ¼ ½ððA0 =H0 Þ  ðAs =Hs ÞÞ=ðA0 =H0 Þ  100 as previously described by Prince et al. [25]. As and Hs are the
+concentrations of the target compound and chrysene in the
+oil sample, respectively, and A0 and H0 are the initial
+concentrations in the crude oil.
+The significance of hydrocarbon degradation relative to
+controls was determined by repeated measures of analysis
+of variance followed by the post-hoc Tukey's multiple
+comparison test when P<0.05. All tests were performed
+using GraphPad InStat version 3.0a (GraphPadSoftware,
+San Diego California USA, www.graphpad.com).
+Hydrocarbon-growing Bacteria Enumeration
+Hydrocarbon-growing bacteria enumeration of the B−OIL
+and B+OIL microcosms was performed by the plate-count
+method in triplicates after 0, 7 and 14 days. Plates were
+prepared with washed agar (20%) and sterile synthetic
+seawater, supplemented or not with hexadecane or naphthalene as sole carbon source. Hexadecane (750 μl) was
+distributed on a sterilised filter paper placed in the Petri
+dish lid and in contact with agar surface to allow agar
+covering by capillarity. One hundred microlitres of a
+solution of naphthalene (31.25 mg/ml) was directly spread
+on agar plates. Naphthalene was dissolved in diethyl ether
+for easy distribution of the substrate and quick evaporation
+of the solvent. One hundred microlitres of appropriate
+dilutions of slurry in sterile synthetic seawater were surface
+spread onto plates. Plates were incubated for 47 days at
+room temperature. The non-parametric U test of Mann and
+Whitney was applied to CFU counts in order to determine
+whether the differences between the different incubation
+time and slurry conditions were significant.
+Thirty colonies from 0, 7 and 14 days enumeration plates
+were selected for their different morphology and isolated.
+Their capacity to grow on hexadecane or naphthalene was
+checked by successive subcultures in liquid or solid
+medium containing hexadecane or naphthalene as sole
+carbon source. Identification of hydrocarbonoclastic bacteria was carried out by 16S rRNA gene sequencing as
+described below.
+Molecular Analysis
+DNA and RNA Extraction
+Total genomic DNA extractions from the IS and the slurry
+microcosms were performed in triplicates at day 0, 7 and 14
+using the alternative lysis method of the UltraClean™ Soil
+DNA isolation kit (MOBIO Laboratories Inc., USA). The
+manufacturer instructions were followed except for the
+initial step of lysis in which each sediment sample were
+vortexed horizontally during 20 min. Purified DNA was
+
+397
+
+suspended in 50 μl of sterile water and examined by
+agarose gel electrophoresis. All extracted genomic DNA
+samples were stored at −20°C until further processing.
+Total RNA extraction of the slurry microcosms were
+performed in triplicates using the FastRNA Pro Soil-Direct
+kit (Q-Biogen) following manufacturer’s instructions after a
+first step of lysis (three times for 1 min at 30 Hz) in a bead
+beater (TissueLyser, Qiagen) and without a matrix purification step. RNA pellets were suspended in 100 μl sterile
+water and controlled on 1.2% formaldehyde agarose gel. To
+remove any genomic DNA contamination, the samples
+were treated with Turbo DNase (Ambion). The quality of
+RNA extract was checked using a RNA 6000 Nano Chip
+kit and Agilent 2100 Bioanalyser. All RNA extracts were
+stored at −80°C until further processing.
+Reverse Transcription
+DNase-treated RNA were reverse transcribed with Moloney
+murine leukaemia virus reverse transcriptase (M-MLV RT,
+USB Corporation) as follows: the random hexamers (5 μl at
+0.1 U A260, Roche), the RNase OUT (40 U) and the RNA
+extract (2 μl) were denatured 5 min at 65°C and chilled
+5 min at 4°C. The 5× reaction buffer, dNTP mix (0.5 μmol)
+and M-MLV RT (240 U) were then added to a final volume
+of 50 μl. The reaction was incubated 2 h at 42°C. RT
+products were used immediately for polymerase chain
+reaction (PCR) amplification and the remaining products
+were stored at −20°C. Possible DNA contamination of
+RNA templates was checked by PCR amplification of
+aliquots of RNA without reverse transcription step. No
+DNA was detected in these reactions.
+PCR Amplification and T-RFLP Analysis
+The bacterial 16S rRNA gene was amplified by PCR using the
+primers (Escherichia coli numbering) 8F-TET (5′-tetrachlorofluorescein phosphoramidite-5′ AGAGTTTGATCCTGG
+CTCAG-3′; [19]) and unlabelled 1489R (5′-TACCTTGTTACGACTTCA-3′; [30]), giving a product of approximately
+1,480 bp. The PCR and T-RFLP analysis were carried out as
+described by Bordenave et al. [2] using Eurobio Taq
+polymerase. The fluorescent PCR products were cleaned
+with GFX DNA and Gel Band Purification kit (GE Healthcare) and 100 ng of purified product digested separately with
+3 U of enzyme HaeIII and HinfI in a final volume of 10 μl
+for 3 h at 37°C (New England Biolabs). A 1 μl of restriction
+digests were then mixed with 20 μl of deionized formamide
+and 0.5 μl of a TAMRA labelled Genescan 500 bp internal
+size standard (Applied Biosystems), denatured for 5 min at
+95°C, and immediately transferred to ice. Samples were
+loaded onto an ABI PRISM 310 automated genetic analyser
+(Applied Biosystems). T-RFLP profiles were aligned by
+
+398
+
+identifying and grouping homologous fragments, and normalised by calculating relative abundances of each terminal
+restriction fragments (T-RFs) using height fluorescence
+intensity. Combined data from each restriction enzyme,
+normalised T-RFLP profiles were compared. For statistical
+analysis, the averages of the T-RFs heights detected in
+triplicates with each endonuclease (HaeIII and HinfI) were
+used. In order to identify the impact of oil on the bacterial
+community structure at DNA and RNA levels, clustering
+analysis coupled to two-dimensional non-metric multidimensional scaling ordination (2D-nMDS) based on Bray Curtis
+similarity taking into account the average of T-RF relative
+abundances was carried out with Primer6 (Plymouth
+Routines In Multivariate Ecological Research, version 6.1.6).
+
+S. Païssé et al.
+
+order to determine the significance of differences between
+the clone libraries, the LIBSHUFF method was applied
+[28].
+
+Nucleotide Sequence Accession Numbers
+The sequences determined in this study have been
+submitted to the EMBL database and assigned Accession
+Nos. FM242199 to FM242479.
+
+Results
+Hydrocarbon Analysis
+
+DNA and RNA Clone Library Analyses
+One DNA (0h B-OIL DNA) and five cDNA libraries (0h
+B−OIL cDNA, 9d B−OIL cDNA, 12d B−OIL cDNA, 9d
+B+OIL cDNA, and 12d B+OIL cDNA) were constructed
+and analysed. Purified PCR or RT-PCR products amplified
+with the 8F and 1489R unlabelled primers were cloned into
+E. coli TOP10F’ using the pCR2.1 Topo TA cloning kit
+(Invitrogen, Inc). Clones were selected randomly. Inserts
+were amplified using M13 primers (Eurogentec) surrounding the cloning site and analysed by RFLP (Restriction
+Fragment Length Polymorphism) with the same endonucleases used for T-RFLP analysis using the same conditions. Identical clones on the basis of their RFLP profiles
+were clustered and one representative clone of each cluster
+was sequenced, except for 0h B−OIL DNA library where
+singletons were not sequenced. Sequences were analysed as
+previously described by Païssé et al. [24].
+Selected inserts were sequenced using M13 primers
+(Eurogentec) and the Big Dye® Terminator v3.1 cycle
+sequencing kit (Applied Biosystems). Sequences were first
+analysed using the CHECK CHIMERA programme on the
+RDP Database Project website (http://rdp8.cme.msu.edu/
+html/) [6]. Then sequences were compared with the
+GenBank nucleotide database library by BLAST on-line
+searches [1]. Multiple sequence alignment of clones was
+performed by using CLUSTALX v1.83 [29] and PROcessor of SEQuences v2.91 [9]. Phylogenies were constructed
+with the Molecular Evolutionary Genetics Analysis v3.0
+programme [18] using Kimura two parameters model and
+Neighbour-joining algorithm. The significance of the
+branching order was determined by bootstrap analysis with
+1000 resampled data sets. Sequences with similarity over
+97% were considered to represent one phylotype and were
+grouped for statistical analysis. PAST (PAleontological
+Statistics v1.60) software from http://folk.uio.no/ohammer/
+past/ website was used to perform rarefaction analysis and
+calculate diversity indices for each clone library [11]. In
+
+The total hydrocarbon concentration of the sediment
+slurries before Vic Bilh oil addition was 5 mg/kg of dried
+weight sediment. The oil fingerprint analysis showed a
+clear dominance of polycyclic aromatic hydrocarbons
+(97%) over aliphatic hydrocarbons (3%) (Table S1, supplementary data). Once Vic Bilh crude oil was added to the
+slurries, as expected the oil fraction mass balance was
+reverted to a dominance of aliphatic hydrocarbons (76%)
+over aromatics (24%) (Fig.1). The most dominant hydrocarbon compounds were n-alkanes ranging from C10 to C20
+constituting 90% of the aliphatics and the 2- and 3-ring
+PAHs including naphthalene, dibenzothiophene, phenanthrene and their alkylated forms as well as fluorene and
+fluoranthene (88 % of PAHs) for the aromatics.
+Oil emulsification was observed in all biotic-oil
+amended slurries (B+OIL) after 2 days of experiment,
+suggesting biological degradation of crude oil [22]. GC-MS
+analysis of the B + OIL slurries revealed significant
+degradation of aliphatic (F=7.548, p<0.001) and aromatic
+(F=57.488, p<0.001) hydrocarbons after 14 days (Fig. 1).
+The total extractable hydrocarbons were reduced to 69%
+and 46% of their initial amount after 7 and 14 days,
+respectively. Tukey's multiple comparisons test showed that
+biodegradation of the aliphatics was, however, not significant between 7 and 14 days (q=2.472, p>0.05). It further
+showed that biodegradation of the aromatic hydrocarbons
+was significant between T0 and 14 days (q=0.3683, p<
+0.05). More than 60% of the most toxic PAH compounds,
+including naphthalene, fluorene, fluoranthene and pyrene
+were degraded in 14 days (Fig. 1).
+Hydrocarbon-degrading Bacteria Count
+Hydrocarbon-degrading bacteria in the microcosms were
+estimated to be 1.8×107 CFU.ml−1 prior to oil addition and
+remained stable all through the experiment for the unoiled
+slurries (p>0.05). For the oiled slurry, the same trend was
+
+Coastal bacterial Community Dynamic to Oil Response
+
+399
+
+observed for the beginning of the experiment, but the
+number of oil-degraders increased significantly (1×108 to
+1.67×108 CFU/ml) after 14 days of incubation. At the end
+of the experience, significant differences between the
+cultivable bacteria of B+OIL (1×108 to 1.67×108 CFU/
+ml) and B−OIL slurries (1×107 to 3.3×107 CFU/ml) were
+observed (Mann–Whitney T=2.5, n1 =n2 =9, p<0.001)
+(Fig. 2).
+After successive cultures of the 30 strains isolated from
+agar plate to liquid medium, two were able to grow quickly
+on hexadecane as sole carbon source. Analysis of the 16 S
+rRNA gene sequence (~1100 pb) of the two strains showed
+99% identity with the 16S rRNA gene sequence of
+Alcanivorax borkumensis SK2.
+
+IS
+0h-B+oil
+
+7d-B+oil
+
+7d-B-oil
+
+0h-B-oil
+
+14d-B+oil
+
+14d-B-oil
+
+Total and Active Bacterial Community Dynamics
+
+100
+
+80
+
+60
+
+40
+
+20
+
+Similarity
+
+The experiment set-up has been developed to explore the
+response of the metabolically active bacterial populations
+from homogenous and stable DNA community. Since
+experimental settings could induce changes in the bacterial
+community structure, the influence of sediment manipulation has been assessed by comparing the T-RFLP profiles
+obtained from 16S rRNA gene analysis of the Etang-deBerre sediments (IS) and 0h B−OIL samples (Fig. 3). The
+low similarity (37%) between these two community profiles
+based on the relative abundance of terminal-restriction
+fragments (T-RFs) confirmed the structure modifications
+induced by the experimental procedures. However, the
+difference observed in the bacterial community structure of
+IS and 0h B−OIL samples was not the consequence of a
+diversity decrease since the OTUs specific richness were
+nearly identical (data not shown). Qualitative changes
+(population shift) occurred in the disturbed and weathered
+sediment. The similarities (Bray-Curtis index) between
+8,5
+
+***
+
+8,3
+Log (CFU.ml-1)
+
+8,1
+7,9
+7,7
+7,5
+7,3
+7,1
+6,9
+6,7
+6,5
+0
+
+5
+
+10
+
+15
+
+Incubation time (day)
+B-oil
+
+B-oil Hex
+
+B-oil Nap
+
+B+oil
+
+B+oil Hex
+
+B+oil Nap
+
+Figure 2 Distribution of hydrocarbonoclastic cultivable bacteria
+grown on minimum agar plates supplemented or not with hydrocarbon. CFU.ml−1 Colony forming units, Hex hexadecane, Nap naphthalene. Asterisks high significant difference between sample
+
+Figure 3 Similarity analysis of the DNA bacterial community
+structures based on T-RFLP of 16S rRNA gene from in situ (IS) and
+slurry experimental samples. The UPGMA cluster analysis was
+performed using square root transformation of T-RFLP data and the
+Bray Curtis similarity index. Dashed line represents 67% of similarity
+index. Microcosm triplicate averages were used for the cluster analysis
+
+microcosm communities were higher than 67% which were
+similar to those obtained between replicates (up to 70%).
+Therefore, the DNA based analysis did not show clear
+modifications in the total bacterial communities structure
+related to the incubation conditions (B+OIL and B−OIL)
+over the time (days 0, 7 and 14) (Fig. 3).
+The changes in metabolically active bacterial community
+structure in oil amended and unamended microcosms were
+examined by T-RFLP analysis followed by cluster analyses and
+a two-dimensional non-metric multidimensional scaling ordination (Fig. 4). The similarity between microcosm triplicates
+was always higher than 65% and reached up to 80%. A
+temporal modification is observed in both microcosms that
+were related to the well known bottle effect. Oil addition
+induced an immediate shift (within 1 h) in the metabolically
+active bacterial community structure (Fig. 4a). This difference
+is characterised by an important decrease in the OTUs specific
+richness (R) in the B+OIL slurry (8 and 12 T-RFs in B+OIL
+slurry vs. 23 and 18 in B−OIL slurry with HaeIII and Hinf1
+profiles, respectively) (Fig. 5). However, the metabolically
+active community was restored 1 h later. Following this first
+step of adaptation, the communities were stable during 3 days.
+Two bacterial community structures showing differences
+between the contaminated and uncontaminated slurries were
+observed after 3 days of incubation (Fig. 4b). These structures
+were maintained until the ninth day (clusters B and C). After
+12 days of incubation the differences between the communities increased (clusters D and E) (Fig. 4b). Thus the T-RFLP
+analysis showed five main clusters, the first cluster A
+
+400
+
+S. Païssé et al.
+
+a
+2D Stress: 0,15
+
+0h+oil
+
+1h+oil
+
+0h-oil
+1h-oil
+3h+oil
+2d+oil
+24h+oil
+6h+oil
+
+3h-oil
+
+6h-oil
+
+12h+oil
+
+2h+oil
+2h-oil
+
+2d-oil
+
+24h-oil
+12h-oil
+
+b
+12h +oil
+7d+oil
+
+24h-oil
+2d-oil 1h-oil
+
+0h +oil
+2d+oil
+24h+oil
+6h+oil
+3h+oil
+
+B
+
+3d+oil
+9d+oil
+
+2D Stress: 0,16
+
+12h-oil 1h +oil
+
+6h-oil 0h-oil
+2h-oil
+3h-oil
+
+A
+
+2h +oil
+
+5d+oil
+
+14d-oil
+
+3d-oil
+5d-oil
+
+4d+oil
+
+12d-oil
+9d-oil
+
+4d-oil
+
+C
+
+E
+
+12d+oil
+14d+oil
+
+7d-oil
+
+D
+
+Figure 4 Changes in metabolically active bacterial community
+structures based on T-RFLP analysis of 16S rRNA transcripts. The
+2D-MDS plot analyses were performed using square-root transformation of T-RFLP data and the Bray Curtis similarity index. Circles and
+squares represent average of microcosm triplicates (a MDS-plot
+analysis of 0 h to 2 days samples; black lines, dashed bold line and
+dashed thin line represent, respectively, similarity index 70, 65 and 59.
+b MDS-plot analysis of 0 h to 14 days samples of oiled and unoiled
+conditions. Five main clusters are mentioned (A, B, C, D and E)
+representing the specific bacterial community structure patterns.
+Dashed bold line and dashed thin line represent, respectively,
+similarity index of 53 and 45 for the MDS-plot analysis)
+
+including the communities from day 0 to 2 days, clusters B
+and C corresponding to communities from 3 to 9 days, of
+oiled and unoiled, respectively. The two last clusters included
+the communities from day 12 to 14, cluster D was formed by
+communities from oiled microcosms while the cluster E
+contained the communities from unoiled microcosms.
+Bacterial Community Composition and Dynamics
+In order to further characterise the metabolically active
+communities, 16S rRNA transcript libraries were constructed for a representative sample of each cluster
+
+identified by T-RFLP. The analysis of the five libraries,
+0h B−OIL (cluster A), 9d B+OIL (cluster B), 9d B−OIL
+(cluster C), 12d B+OIL (cluster D) and 12d B−OIL (cluster
+E), allowed the identification of the dominant metabolically
+active populations associated to the presence of crude oil.
+As expected, the Shannon diversity indices indicated a
+higher diversity at DNA level than RNA (Table 1).
+The RFLP analysis of the initial DNA community
+library revealed that 84% of the clones analysed were
+singletons. Sequences from patterns with more than one
+clone were mainly related to Gamma- (49%) and Deltaproteobacteria (35%), followed by Diatom chloroplast
+(11%), Alpha- (2%), Epsilonproteobacteria (2%) and Acidobacteria (2%) sequences. The Gammaproteobacteria
+group was also dominant in all the RNA libraries
+throughout the experiment. The comparison of the cDNA
+clone libraries with the LIBSHUFF method revealed that
+12d B−OIL and 12d B+OIL libraries were composed of
+significantly different phylotypes (XY p value=0.004; YX
+p value=0.021) while no difference could be observed
+between the 9d B−OIL and 9d B+OIL cDNA clone
+libraries (XY p value=0.034; YX p value=0.174), confirming the T-RFLP results (Fig. 5). Changes in the relative
+abundance of the main groups composing the metabolically
+active communities were observed. The Deltaproteobacteria
+subclass maintained the same relative abundance from 0 h to
+12 days in the B-OIL condition (around 20%) whilst its
+abundance decreased until 11% and 14% at respectively 9
+and 12 days of incubation in the B+OIL slurry (Table 2). In
+contrast, the Gammaproteobacteria group reached 58% of
+the active members of the oiled slurry at the end of the
+experiment while its abundance decreased significantly in
+the unoiled slurry (Table 3). The relative abundance of
+Alphaproteobacteria sequence increased during the experiment period from 4% at 0 h to respectively 14% and to 23%
+in oiled and unoiled conditions at 12 days (Table 2).
+Around 50% of total sequences detected in the DNA
+library (Tables 2 and 3) have highest Blastn hits with
+sequences originated from hydrocarbon-degrading or
+hydrocarbon-associated strains belonging to Gamma- and
+Deltaproteobacteria. This important proportion of sequences related to highly specialised bacteria in the community
+studied was also observed in the metabolically active
+bacterial community. Indeed, the hydrocarbon-degrading
+associated sequences in 0h B−OIL, 9d B−OIL, 12d B−OIL,
+9d B+OIL and 12d B+OIL cDNA libraries represent
+respectively 27%, 25%, 40%, 37% and 39% of total
+sequences (Tables 2 and 3). The proportion of
+hydrocarbon-degrading bacteria sequences was relatively
+similar between the B − OIL and B + OIL conditions.
+However Gammaproteobacteria sequences belonging to
+Alcanivorax and Cycloclasticus genera or hydrocarbonassociated clones were dominant in the oiled slurries, while
+
+Coastal bacterial Community Dynamic to Oil Response
+
+B- OIL
+
+B+ OI L
+
+35
+
+Number of T-RFs
+
+Figure 5 Number of OTUs in
+metabolically active bacterial
+communities during the incubation period monitored by TRFLP analysis. The profiles
+obtained using HaeIII are presented here. Triangles and
+squares represent the microcosm
+triplicate average
+
+401
+
+30
+25
+20
+15
+10
+5
+0
+0
+
+1
+
+2
+
+3
+
+12 1
+
+6
+
+Incubation time (hour)
+
+sequences related to Deltaproteobacteria belonging to
+benzene mineralizing consortium remained dominant in
+the unoiled microcosms, reflecting the 0 h DNA library
+sequences proportion.
+
+Discussion
+Heavily petroleum-contaminated sediment was chosen for
+this study since the community inhabiting these sediments
+is adapted to the presence of oil [24] and consequently its
+bacterial community presents more potential abilities than
+those from pristine environments to cope with oil hydrocarbons. These abilities include not only biodegradation
+capacities [3], but also a higher resistance potential to the
+toxic effect of the pollutant. In order to reduce the low
+molecular-weight hydrocarbon content of sediment and to
+adapt the bacterial communities to laboratory conditions,
+the collected sediments were weathered. Thus, after this
+treatment the observed bacterial community response
+would be specifically linked with the crude oil addition.
+The slurry setting also promotes aerobic metabolisms that
+are well-known to be more efficient in hydrocarbon
+biodegradation process, nevertheless because the oxygenation was exclusively performed by air diffusion we assume
+that anoxic niches cannot be excluded. During the slurry
+experiment, no significant change in the total bacterial
+community structure was observed in response to oil input
+despite the fact that an important part of the hydrocarbon
+compounds was biodegraded in 7 days. Thus the short
+
+2
+
+3
+
+4
+
+5
+
+7
+
+9
+
+12
+
+14
+
+Incubation time (day)
+
+incubation period performed in this study allowed to
+describe the fast response of the community present in the
+slurry by analysing the active community (rRNA transcripts
+analysis). Indeed, the metabolically active bacterial communities changed quickly and differentially depending on
+the incubation conditions. For instance, the unoiled community was rapidly modified during the experiment
+probably due to the depletion of hydrocarbon compounds,
+mainly alkanes and low molecular weight PAHs, and the
+ageing conditions of the microcosms whereas the B+OIL
+community structure was maintained closer to the original
+community due to the oil addition. Previous studies
+performed at DNA level on pristine or low contaminated
+communities indicated that after an important lag period [2,
+12] oil contamination induced drastic changes in the
+bacterial community structure associated with a decrease
+of diversity [27, 31]. These modifications were either
+attributed to a strong selection for petroleum-degrading
+bacteria [13, 17, 31], or to toxic effect of oil on the growth
+of certain microorganisms [12]. In our case (i.e. a bacterial
+community inhabiting heavily contaminated sediments with
+a long history of contamination), oil appeared necessary for
+maintaining the metabolically active populations. Oil
+addition induced a qualitative shift (specific richness
+decrease) in the metabolically active community after 1 h.
+Nevertheless, this shift was reversed after 1 h, highlighting
+a fast, adaptative and efficient response of the metabolically
+active bacterial population. Thus this study reinforces the
+concept that important processes in response to oil
+contamination occur within few hours following an oil
+
+Table 1 Characteristics of the 0h B−OIL DNA and 0h B−OIL, 9d B−OIL, 9d B+OIL, 12d B−OIL, 12d B+OIL cDNA clone libraries
+Sample
+0h B−OIL DNA
+0h B−OIL cDNA
+9d B−OIL cDNA
+12d B−OIL cDNA
+9d B+OIL cDNA
+12d B+OIL cDNA
+a
+
+Singletons not sequenced
+
+Total no. of clones
+
+No. of taxa
+
+No. of singletons
+
+Coverage
+
+Shannon index
+
+364
+86
+79
+54
+60
+57
+
+285
+61
+57
+47
+44
+46
+
+240a
+46
+46
+41
+36
+37
+
+0.34
+0.45
+0.42
+0.24
+0.36
+0.35
+
+5.511
+3.946
+3.838
+3.800
+3.625
+3.757
+
+402
+
+S. Païssé et al.
+
+Table 2 Identification of phylogenetic groups from DNA (0h B−OIL) and cDNA clone sequences (0h B−OIL, 9d B−OIL, 9d B+OIL, 12d
+B−OIL and 12d B+OIL) and their relative abundance
+Phylogenetic groups
+
+Main closest sequence (EMBL accession
+no., % of identity with the closest clonea
+
+No. and % of clones in each bacterial division
+DNAa
+
+cDNA
+
+0h
+B−OIL
+
+0h
+B−OIL
+
+9d
+B−OIL
+
+12d
+B−OIL
+
+9d
+B+OIL
+
+12d
+B+OIL
+
+10 (11.4)
+
+11 (14.1)
+
+2 ( 2.5)
+
+1 (1.8)
+
+11 (20)
+
+3 (5.3)
+
+–
+
+2 (2.6)
+
+2 (2.5)
+
+3 (5.5)
+
+2 (3.6)
+
+–
+
+Eukaryotic plastids
+Bacillariophyta
+
+Melosira varians p107 (AJ536464), 98.7
+Phaeodactylum tricornutum (EF067920), 97.9
+Bacillaria paxillifer p73 (AJ536452), 97.8
+
+Cyanobacteria
+Oscillatoriales
+
+Planktotricoides raciborskii NSLA3 (AB045962), 99.3
+Arthrospira platensis Sp-10 (DQ279767), 95.8
+Uncultured cyanobacterium (DQ446127), 94.9
+
+Chloroflexi
+
+Dehalococcoides sp. BHI80-15 (AJ431246), 87.8
+Uncultured bacterium clone (DQ154828), 96.2
+
+–
+
+1 (1.3)
+
+1 (1.3)
+
+3 (5.5)
+
+1 (1.8)
+
+1 (1.8)
+
+Verrucomicrobium
+group
+
+Opitutus sp. SA-9 (AY695840), 91.3
+Uncultured Verrucomicrobia Artic95D-9 (AY028220), 95.8
+
+–
+
+1 (1.3)
+
+3 (3.8)
+
+2 (3.6)
+
+1 (1.8)
+
+1 (1.8)
+
+Spirochaetes
+
+Uncultured spirochete (AY605171), 97.7
+Spirochaeta bajacaliforniensis DSM16054T (AJ698859), 90
+
+–
+
+2 (2.6)
+
+–
+
+–
+
+2 (3.6)
+
+–
+
+Fusobacteria
+
+Leptotrichia sp. Oral clone EI022 (AF385572), 87.4
+
+–
+
+1 (1.3)
+
+–
+
+–
+
+–
+
+–
+
+Acidobacteria group
+
+Uncultured Acidobacteriaceae (DQ394979), 97.9
+
+2 (2.3)
+
+–
+
+–
+
+–
+
+–
+
+2 (3.5)
+
+Actinobacteria
+
+Solirubrobacter sp. (AB245336), 90.8
+Candidatus Microthrix parvicella (DDQ147287), 91.7
+
+–
+
+1 (1.3)
+
+–
+
+1 (1.8)
+
+–
+
+–
+
+Nitrospirae
+
+Nitrospira marina (X82559), 99.7
+
+–
+
+–
+
+1 (1.3)
+
+–
+
+–
+
+–
+
+Unknown sequence
+
+4 (5.1)
+
+1 (1.8)
+
+Epsilonproteobacteria
+
+Sulfurimonas paralvinellae (AB252048), 92.7
+
+2 (2.3)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+Betaproteobacteria
+
+Ralstonia detusculanense (AF280433), 99
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1 (1.8)
+
+Polyangium thaxteri Pl t3 (AJ233943), 92.5
+Nannocystis exedens Na e571 (AJ233947), 94.5
+
+–
+
+3 (3.8)
+
+6 (7.6)
+
+–
+
+2 (3.6)
+
+1 (1.8)
+
+Deltaproteobacteria
+Myxococcales
+
+Enhygromixa salina SMK-1-3 (AB097591), 97.9
+Bdellovibrionales
+
+Bacteriovorax sp. (EF092444), 98.3
+Bdellovibrio sp. (AF084855), 89
+
+–
+
+5 (6.4)
+
+1 (1.3)
+
+–
+
+1 (1.8)
+
+1 (1.8)
+
+Desufobacterales
+
+Benzene mineralizing consortium (AF029047), 99.3
+Olavius algarvensis endosymbiont (AF328857), 98.5
+
+31 (35.2)
+
+4 (5.1)
+
+9 (11.4)
+
+10 (18.2)
+
+3 (5.5)
+
+6 (10.5)
+
+2 (2.3)
+
+1 (1.3)
+
+1 (1.3)
+
+3 (5.5)
+
+2 (3.6)
+
+1 (1.8)
+
+–
+
+Desulfobacterium cetonicum DSM 7267 (AJ237603, 99.3
+Alphaproteobacteria
+Rhodobacterales
+
+Thalassobius mediterraneus CECT 5383 (AJ878874), 96.2
+Caulobacter halobacteroïdes (AB008849), 97
+Pedomicrobium manganicum (X97691), 94.1
+Roseobacter sp. B11 (DQ659411), 99.7
+
+Parvularculales
+
+Uncultured sludge bacterium H9 (AF234706), 94
+
+–
+
+–
+
+1 (1.3)
+
+–
+
+–
+
+Rhizobiales
+
+Parvibaculum lavamentivorans DS-1 (AY387398), 98.3
+
+–
+
+–
+
+–
+
+5 (9)
+
+–
+
+4 (7)
+
+Kopriimonodales
+
+Koprimonas byunsanensis KOPRI 13522 (DQ167245), 88
+
+–
+
+–
+
+1 (1.3)
+
+1 (1.8)
+
+–
+
+–
+
+Rhodospirillales
+
+Uncultured bacterium clone (EF208679), 98.7
+Rhodovibrio sp. 2MB1 (AY987846), 90.2
+
+–
+
+2 (2.6)
+
+2 (2.5)
+
+4 (7.3)
+
+4 (7.3)
+
+2 (3.5)
+
+–
+
+–
+
+2 (2.5)
+
+–
+
+–
+
+1 (1.8)
+
+Defluvicoccus Ben114 (AF179678), 92.7
+Uncultured
+
+Olavius loisae endosymbiont (AF104473), 93.9
+
+This table summarises all phylogenetic groups examined except Gammaproteobacteria division (see Table 3)
+a
+
+An 84% of singletons of the library have been not sequenced and not considered here. The percentage includes only the patterns with more than one clone
+
+Coastal bacterial Community Dynamic to Oil Response
+
+403
+
+Table 3 Identification of Gammaproteobacteria sequences from phylogenetic analysis of DNA (0h B−OIL) and cDNA clone sequences
+(0h B−OIL, 9d B−OIL, 9d B+OIL, 12d B−OIL, and 12d B+OIL) and their relative abundance
+Phylogenetic groups
+
+Main closest sequence (EMBL accession no.),
+% of identity with the closest clonea
+
+No. and % of clones in each bacterial division
+DNAa
+
+cDNA
+
+0h
+B−OIL
+
+0h
+B−OIL
+
+9d
+B−OIL
+
+12d
+B−OIL
+
+9d
+B+OIL
+
+12d
+B+OIL
+
+2 (2.3)
+
+2 (2.6)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1 (1.8)
+
+1 (1.8)
+
+Chromatiales
+Ectothiorhodospiraceae
+Chromatiaceae
+
+Thioalkalivibrio thiocyanodenitrificans ARhD
+(AY360060), 93.7
+Chromatium sp. EP 2204 (Y12299), 97.5
+
+12 (13.6) 8 (10.3) 3 (3.8)
+
+Allochromatium palmeri
+BH-24 (AJ871279), 99.5
+Marichromatium indicum JA100 (AJ543328), 96.4
+Thiotrichales
+6 (6.8)
+
+6 (7.7)
+
+–
+
+–
+
+1 (1.8)
+
+–
+
+Francissella philominagia 1951 (DQ813266), 98.7
+
+2 (2.3)
+
+1 (1.3)
+
+–
+
+–
+
+–
+
+–
+
+Oceanospirillaceae
+
+Uncultured gamma bacteria (AY622252), 95.9
+Oceanobacter sp. RED65 (AY136131), 90.4
+
+2 (2.3)
+
+5 (6.4)
+
+12 (15.2) 4 (7.3)
+
+3 (5.5)
+
+10 (17.5)
+
+Alcanivoraceae
+
+Alcanivorax diesolei NO1A (AY683531), 95
+Alcanivorax borkumensis (Y12579), 100
+
+2 (2.3)
+
+4 (5.1)
+
+2 (2.5)
+
+4 (7.3)
+
+7 (12.7) 6 (10.5)
+
+Oleiphilaceae
+
+Oleiphilus messinensis ME102 (AJ295154), 94.7
+
+–
+
+1 (1.3)
+
+–
+
+1 (1.8)
+
+–
+
+Hydrocarbon associated
+
+Uncultured soil bacterium clone M54-Pitesti
+(DQ378269), 100
+Uncultured soil bacterium clone PYR10d3
+(DQ123668), 99.2
+
+5 (5.7)
+
+6 (7.7)
+
+9 (11.4)
+
+7 (12.7) 9 (16.4) 10 (17.5)
+
+Unaffiliated
+Gammaproteobacteria
+
+Unknown marine gammaproteobacteria NO5
+(AY007676), 99.7
+Gammaproteobacterium (AY386332), 97.1
+
+10 (11.4) 7 (9)
+
+15 (19)
+
+3 (5.5)
+
+5 (9.1)
+
+5 (8.8)
+
+–
+
+6 (7.6)
+
+2 (3.6)
+
+–
+
+1 (1.8)
+
+Piscirichettsiaceae
+
+Cycloclasticus sp. (AF093004), 100
+Thiovibrio halophilus HL5 (DQ390450), 96.6
+Dibenzofuran-degrading bacteria DBF-MAK
+(AB086228), 100
+
+Francissella
+Oceanospirillales
+
+–
+
+Uncultured clone
+
+Gammaproteobacterium (AB212803), 93.6
+Uncultured bacterium clone HB2-32-21
+(DQ334627), 99.7
+Sulfur-oxidising symbiont
+
+a
+
+Vestimentiferan endosymbiont (AF165907), 94.5
+Lucina nassula gill symbiont (X95229), 94.7
+
+–
+
+An 84% of singletons of the library have been not sequenced and not considered here. The percentage includes only the patterns with more than one clone
+
+spill event. These processes lead to an efficient biodegradation which probably include many other biological
+processes, such as remarkable bacterial resilience to toxicity
+and physico-chemical modifications of the oil degrading
+matrix.
+The significant increase in numbers of hydrocarbondegrading bacteria, the high proportion of sequences affiliated
+to hydrocarbon-degrading strains in the initial community and
+the high abundance of highly specialised metabolically active
+oil-degrading populations confirmed the adaptation of this
+community to the oil presence. Although increases of the
+proportion of hydrocarbon–degraders in response to hydro-
+
+carbon contamination have been previously observed [4],
+such a high proportion of hydrocarbon-degrading organisms
+detected within sediment bacterial community have not
+previously been described. The sediments of the retention
+basin of the Berre lagoon represent an exceptional environment associated to crude oil pollution. Both oil amended and
+unamended microcosms showed a high proportion of active
+bacteria related to hydrocarbon degraders, as expected since
+these specialised bacteria were found dominant in the
+community present in the slurry. Nevertheless, it is important
+to note that both communities are significantly different
+since, the gammaproteobacteria responded faster to the
+
+404
+
+hydrocarbon input suggesting that they have probably an
+important role in hydrocarbon depletion.
+Interestingly, the relative abundance of Alphaproteobacteria increased during the course of the experiment,
+irrespective of the slurry condition. This finding is in
+agreement with other studies that suggest that these
+bacterial groups succeed to Gammaproteobacteria in the
+process of bioremediation [2, 27]. This is further supported
+by the higher relative abundance of Alphaproteobacteria
+observed in the unoiled slurry compared with the oiled
+slurry, since the bioremediation process in the unoiled
+slurry was ahead compared to the oiled slurry.
+To the best of our knowledge, the present work is the
+first study reporting the succession of metabolically active
+bacterial populations occurring during the early stage of the
+response to oil contamination. The T-RFLP fingerprints
+revealed an important modification of the metabolically
+active bacterial community structure within the first hours
+following oil addition. This observation suggests that
+essential mechanisms take place during the early period,
+however further investigations are requested to understand
+and characterise them. The bacterial communities from the
+sediment of the Etang de Berre ecosystem exhibited several
+properties that are suitable for studying the early response
+at the functional level to fully understand the metabolic
+strategy developed by the whole community to face crude
+oil contamination.
+Acknowledgments This work was funded by the European Community Project FACEiT [STREP- grant N° 018391 (GOCE)]. We
+would like to thank all partners of the FACEiT project for their useful
+discussions. We acknowledge the financial support by the Aquitaine
+Regional Government Council (France), the Ministère de l’Ecologie et
+du Développement Durable (MEDD - PNETOX project N°
+CV04000147) and the ANR (DHYVA project, No. 06SEST09). The
+authors are especially indebted to Dr Anne Fahy for valuable
+comments on the manuscript and careful reading of the English.
+
+References
+1. Altschul SF, Madden TL, Schäffer AA, Zhang J, Zhang Z, Miller
+W, Lipman DJ (1997) Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs. Nucleic Acids
+Res 25:3389–3402
+2. Bordenave S, Goñi-Urriza MS, Caumette P, Duran R (2007)
+Effects of heavy fuel oil on the bacterial community structure of a
+pristine microbial mat. Appl Environ Microbiol 73:6089–6097
+3. Bordenave S, Goñi-Urriza M, Vilette C, Blanchard S, Caumette P,
+Duran R (2008) Diversity of ring-hydroxylating dioxygenases in
+pristine and oil contaminated microbial mats at genomic and
+transcriptomic levels. Environ Microbiol 10:3201–3211
+4. Cappello S, Caruso G, Zampino D, Monticelli LS, Maimone G,
+Denaro R, Tripodo B, Troussellier M, Yakimov M, Giuliano L
+(2007) Microbial community dynamics during assays of harbour
+oil spill bioremediation: a microscale simulation study. J Appl
+Microbiol 102:184–194
+
+S. Païssé et al.
+5. Chauhan A, Fazlurrahman OJG, Jain RK (2008) Bacterial
+metabolism of polycyclic aromatic hydrocarbons: strategies for
+bioremediation. Indian Journal of Microbiology 48:95–113
+6. Cole JR, Chai B, Marsh TL, Farris RJ, Wang Q, Kulam SA,
+Chandra S, McGarrell DM, Schmidt TM, Garrity GM, Tiedje JM
+(2003) The Ribosomal Database Project (RDP-II): previewing a
+new autoaligner that allows regular updates and the new
+prokaryotic taxonomy. Nucleic Acids Res 31:442–443
+7. Delille D, Delille B, Pelletier E (2002) Effectiveness of bioremediation of crude oil contaminated subantartic intertidal sediment:
+the microbial response. Microb Ecol 44:118–126
+8. Evans FF, Rosado AS, Sebastian GV, Casella R, Machado PLOA,
+Holmström C, Kjelleberg S, Van Elsas JD, Seldin L (2004) Impact
+of oil contamination and biostimulation on the diversity of
+indigenous bacterial communities in soil microcosms. FEMS
+Microbiol Ecol 49:295–305
+9. Filatov DA (2002) PROSEQ: a software for preparation and
+evolutionary analysis of DNA sequence data sets. Mol Ecol Notes
+2:621–624
+10. Floodgate GD (1972) Biodegradation of hydrocarbons in the sea.
+In: Mitchell R (ed) Water Pollution Microbiology. WileyInterscience, New York, pp 153–171
+11. Good IJ (1953) The population frequencies of species and the
+estimation of the population parameters. Biometrika 40:237–264
+12. Grötzschel S, Köster J, Abed RMM, De Beer D (2002)
+Degradation of petroleum model compounds immobilized on clay
+by a hypersaline microbial mat. Biodegradation 13:273–283
+13. Harayama S, Kishira H, Kasai Y, Shutsubo K (1999) Petroleum
+biodegradation in marine environments. J Mol Microbiol Biotechnol 1:63–70
+14. Head IM, Jones DM, Röling WF (2006) Marine microorganisms
+make a meal of oil. Nat Rev Microbiol 4:173–182
+15. Howard PH, Boethling RS, Jarvis WF, Meylan WN, Michalenko
+EM (1991) In: Printup HT (ed) Handbook of Environmental
+Degradation Rates. Lewis Publishers, Chelsea, MI
+16. Jacquot F, Le Dréau Y, Doumenq P, Munoz D, Guiliano M, Imbert
+G, Mille G (1999) The origins of hydrocarbons trapped in the
+Lake of Berre sediments. Chemosphere 39:1407–1419
+17. Kasai Y, Kishira H, Syutsubo K, Harayama S (2001) Molecular
+detection of marine bacterial populations on beaches contaminated
+by the Nakhodka tanker oil-spill accident. Environ Microbiol
+3:246–255
+18. Kumar S, Tamura K, Nei M (2004) MEGA3: integrated software
+for Molecular Evolutionary Genetics Analysis and sequence
+alignment. Brief Bioinform 5:150–163
+19. Lane DJ (1991) rRNA sequencing. In: Stachenbradt GME (ed)
+Nucleic acid techniques in bacterial systematic. Wiley, Chichester,
+pp 115–175
+20. Macnaughton SJ, Stephen JR, Venosa AD, Davis GA, Chang YJ,
+White DC (1999) Microbial population changes during bioremediation of an experimental oil spill. Appl Environ Microbiol
+65:3566–3574
+21. McKew BA, Coulon F, Osborn AM, Timmis KN, McGenity TJ
+(2007) Determining the identity and roles of oil-metabolizing marine
+bacteria from the Thames estuary, UK. Environ Microbiol 9:165–176
+22. Nerurkar AS, Hingurao KS, Suthar HG (2009) Bioemulsifiers
+from marine microorganisms. J Sci Ind Res 68:273–277
+23. Overmann J, Fischer U, Pfennig N (1992) A new purple sulfur
+bacterium from saline littoral sediments, Thiorhodovibrio winogradskyi gen. nov. and sp. nov. Arch Microbiol 157:329–335
+24. Paissé S, Coulon F, Goñi-Urriza M, Peperzak L, McGenity TJ,
+Duran R (2008) Structure of bacterial communities along a
+hydrocarbon contamination gradient in a coastal sediment. FEMS
+Microbiol Ecol 66:295–305
+25. Prince RC, Elmendorf DL, Lute JR, Hsu CS, Haith CE, Senius
+JD, Dechert GJ, Douglas GS, Butler EL (1994) 17a(H), 21b(H)-
+
+Coastal bacterial Community Dynamic to Oil Response
+hopane as a conserved internal maker for estimating the
+biodegradation of crude oil. Environ Sci Technol 28:142–145
+26. Risdon GC, Pollard SJT, Brassington KJ, McEwan JN, Paton GI,
+Semple KT, Coulon F (2008) Development of an analytical
+procedure for weathered hydrocarbon contaminated soils within a
+UK risk-based framework. Anal Chem 80:7090–7096
+27. Röling WFM, Milner MG, Jones DM, Lee K, Daniel F, Swannell
+RJP, Head IM (2002) Robust hydrocarbon degradation and
+dynamics of bacterial communities during nutrient-enhanced oil
+spill bioremediation. Appl Environ Microbiol 68:5537–5548
+28. Singleton DR, Furlong MA, Rathbun SL, Whitman WB (2001)
+Quantitative comparisons of 16S rRNA gene sequence libraries from
+environmental samples. Appl Environ Microbiol 67:4374–4376
+
+405
+29. Thompson JD, Gibson TJ, Plewniak F, Jeanmougin F, Higgins
+DG (1997) The CLUSTAL X windows interface: flexible
+strategies for multiple sequence alignment aided by quality
+analysis tools. Nucleic Acids Res 25:4876–4882
+30. Weisburg WG, Barns SM, Pelletier DA, Lane DJ (1991) 16S
+ribosomal DNA amplification for phylogenetic study. J Bacteriol
+173:697–703
+31. Yakimov MM, Denaro R, Genovese M, Cappello S, D'Auria G,
+Chernikova TN, Timmis KN, Golyshin PN, Giluliano L (2005)
+Natural microbial diversity in superficial sediments of Milazzo
+Harbor (Sicily) and community successions during microcosm
+enrichment with various hydrocarbons. Environ Microbiol
+7:1426–1441
+
+
