@@ -1,0 +1,1108 @@
+Bioresource Technology 192 (2015) 37–45
+
+Contents lists available at ScienceDirect
+
+Bioresource Technology
+journal homepage: www.elsevier.com/locate/biortech
+
+Microbial diversity and the implications of sulﬁde levels in an anaerobic
+reactor used to remove an anionic surfactant from laundry wastewater
+T.P. Delforno a,⇑, A.G.L. Moura b, D.Y. Okada b, I.K. Sakamoto b, M.B.A. Varesche b
+a
+
+Microbial Resources Division, Research Center for Chemistry, Biology and Agriculture (CPQBA), Campinas University – UNICAMP, CP 6171, Campinas, SP CEP 13081-970, Brazil
+Laboratory of Biological Processes, Department of Hydraulics and Sanitation, Engineering School of São Carlos – University of São Paulo (EESC – USP) Campus II, São Carlos, SP
+CEP 13563-120, Brazil
+b
+
+h i g h l i g h t s
+1 1
+d ) were evaluated.
+greater than 20 mg S L1 can inhibit microbiota involved with LAS removal.
+ Microbial stratiﬁcation and high diversity was observed in the reactor.
+ By means Ion Torrent sequencing was observed an LAS-removing microbial core.
+
+ Two speciﬁc LAS loading rates (1.0 and 2.7 mg LAS gVS
+2
+
+S
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 30 March 2015
+Received in revised form 11 May 2015
+Accepted 14 May 2015
+Available online 20 May 2015
+Keywords:
+Linear alkylbenzene sulfonate (LAS)
+Expanded granular sludge bed (EGSB)
+Microbial core
+Microbial stratiﬁcation
+Ion Tag sequencing
+
+a b s t r a c t
+The objective of this study was to evaluate the removal of linear alkylbenzene sulfonate (LAS) from commercial laundry wastewater using an expanded granular sludge bed (EGSB) reactor with two speciﬁc LAS
+loading rates (SLLRs), 1.0 and 2.7 mg LAS gVS1 d1. The biomass was characterized using denaturing gradient gel electrophoresis (DGGE) and 16S Ion Tag sequencing. Higher LAS removal (92.9%) was observed
+in association with an SLLR of 1.0 mg LAS gVS1 d1 than with an SLLR of 2.7 mg LAS gVS1 d1 (58.6%). A
+relationship between the S2 concentration in the efﬂuent and the surfactant removal efﬁciency was
+observed. This result is indicative of the inhibition of LAS-removing microbiota at S2 concentrations
+greater than 20 mg S L1. By using DGGE, microbial stratiﬁcation was observed in the reactor in association with granule size, even though the reactor is considered to be a completely mixed regime. The
+RDP-classiﬁer identiﬁed 175 genera, 33 of which were related to LAS degradation.
+Ó 2015 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+Surfactants are one of the most versatile products. Their importance can be seen by the values in the global market (US$ 26.8 billion) and annual production (14,630 thousand tons) in 2012. The
+Brazilian market in 2012 reached US$ 1.5 billion with annual production of 522 thousand tons. Among all surfactants, the anionic
+surfactants receive special attention due to the high global (2942
+thousand tons) and Brazilian (293 thousand tons) production, representing annual prices of US$ 7.5 billion and US$ 0.75 billion,
+respectively (Frost and Sullivan, 2013 apud Bain & Company and
+GasEnergy, 2014).
+
+⇑ Corresponding author. Tel.: +55 16 33738356.
+E-mail addresses: tiago.palladino@gmail.com (T.P. Delforno), alanamou@
+hotmail.com (A.G.L. Moura), dagokada@gmail.com (D.Y. Okada), isabel.sakamoto@
+gmail.com (I.K. Sakamoto), varesche@sc.usp.br (M.B.A. Varesche).
+http://dx.doi.org/10.1016/j.biortech.2015.05.050
+0960-8524/Ó 2015 Elsevier Ltd. All rights reserved.
+
+Linear alkylbenzene sulfonate is the most important anionic
+surfactant, with large worldwide production due to low-cost production and excellent properties. Because of its intense use, LAS
+can be found in domestic sewage (1–18 mg L1) and laundry
+wastewater (17–1024 mg L1; Braga and Varesche, 2014;
+Delforno et al., 2014). Therefore, previous studies have reported
+several problems associated with inappropriate disposal of
+wastewater contaminated with LAS, including dispersing pollution,
+foaming in rivers, oxygen diffusion problems, inhibition of
+microorganisms with regard to natural depuration and others
+(Garcia et al., 2005). To minimize these problems, certain studies
+have focused on LAS removal using physical–chemical treatment
+(Ge et al., 2004; Sostar-Turk et al., 2005) and anaerobic reactors
+(Braga and Varesche, 2014; de Oliveira et al., 2010; Delforno
+et al., 2014; Okada et al., 2014).
+Accordingly, previous studies evaluated the LAS removal in
+laundry wastewater using ﬂuidized bed reactors (FBR) (Braga and
+Varesche, 2011), expanded granular sludge bed reactors (EGSB)
+
+38
+
+T.P. Delforno et al. / Bioresource Technology 192 (2015) 37–45
+
+(Delforno et al., 2014) and up-ﬂow anaerobic sludge blanket reactors (UASB) (Okada et al., 2014).
+In the FBR and EGSB reactors, the authors used inﬂuent supplementation (e.g., vitamins, co-substrates, or solutions of macro and
+micronutrients), whereas, in the UASB reactor, the authors operated without supplementation. In UASB reactor, Okada et al.
+(2014), noted that it is feasible the LAS removal in commercial
+laundry wastewater without supplementary feeding, only supplementation with buffering agent (sodium bicarbonate). The authors
+aforementioned observed that the concentration of volatile fatty
+acids and others compounds present in the laundry wastewater
+can support the microbial activity.
+In addition, studies have been applied LAS inﬂuent concentration range from 9.5 ± 3.0 to 23.9 ± 5.0 mg L1 in FBR (Braga and
+Varesche, 2011) and around 10.0 mg L1 in EGSB and UASB reactor
+(Delforno et al., 2014; Okada et al., 2014). The higher removal rate
+was 82% and the lower was 68% for UASB and FBR, respectively.
+Therefore, this study investigated the removal of LAS in commercial laundry wastewater with two speciﬁc LAS loading rates
+(SLLRs), 1.0 and 2.7 mg LAS gVS1 d1, in an EGSB reactor (12.0
+and 29 mg LAS L1 in the inﬂuent, respectively) without supplementary feeding. The increase of SLLR was to evaluate the changes
+in microbial community under higher LAS concentration associate
+with laundry wastewater without supplementary feeding.
+The biomass was characterized using two techniques: PCR–
+DGGE (polymerase chain reaction–denaturing gradient gel electrophoresis) and high-throughput sequencing. The objective for
+DGGE was to determine whether a possible microbial stratiﬁcation
+along the reactor was present, and the goal of the high-throughput
+sequencing (Ion Torrent Platform) was to identify the microorganisms involved probably in LAS degradation.
+2. Methods
+2.1. EGSB – expanded granular sludge bed reactor
+The reactor consisted of an acrylic apparatus with a volume of
+1.40 L, a height of 1.0 m and a diameter of 0.04 m. At the upper
+end, there was a device to separate the solid, liquid and gas phases,
+and at the base, there was a distributor of ﬂow. The up-ﬂow velocity was constant (4 m h1) to generate efﬂuent recirculation. Six
+sampling points were installed along the bed of the reactor, and
+one was installed on the phase separator. During the operation,
+the reactor was maintained at a mesophilic condition of 30 °C in
+a climatic chamber and with a hydraulic retention time (HRT) of
+38 h. With the purpose of ensuring anaerobic systems, two procedures were adopted: the use of a water seal and the use of a siphon
+at the outlet of the system, which prevented the entry of oxygen
+via hose efﬂuent. The reactor was inoculated with a granular
+sludge (7.0 gTVS L1) obtained from a full-scale UASB plant treating efﬂuent from a poultry slaughterhouse.
+2.2. Experimental setup
+The EGSB reactor was operated in three stages. Stage I consisted
+of the reactivation of microorganisms because the granular sludge
+was kept under refrigeration (4 °C). Thus, in this stage, the reactor
+was fed with a synthetic medium (Touzel and Albagnac, 1983;
+Angelidaki et al., 1990). In Stages II and III, the synthetic medium
+was replaced with diluted laundry wastewater (only the sodium
+bicarbonate was kept to maintain a neutral pH) at two speciﬁc
+LAS loading rates (SLLRs): 1.0 ± 0.3 mg LAS gTVS1 d1 (Stage II –
+12.0 ± 3.0 mg LAS L1 inﬂuent) and 2.7 ± 0.7 mg LAS gTVS1 d1
+(Stage III – 28.8 ± 6.4 mg LAS L1 inﬂuent). Several studies have
+been evaluated anaerobic reactor with inﬂuent LAS concentration
+
+range from 10 to 15 mg L1 (de Oliveira et al., 2010; Delforno
+et al., 2012, 2014; Okada et al., 2014). In most cases, when the
+inﬂuent concentration exceeds these concentrations the reactor
+becomes unstable. However, due to the satisfactory results
+obtained in Stage II, the concentration of LAS inﬂuent was doubled
+to evaluate the microbial response under higher LAS concentration.
+It is noteworthy that the LAS concentration in the Stage III is below
+of inhibition concentration (50–100 mg LAS L1) as determined by
+Angelidaki et al. (2004), Garcia et al. (2005).
+2.3. Synthetic medium
+The reactor was fed with a modiﬁed mineral medium (an
+adjusted MgCl2 concentration of 25 mg L1; Angelidaki et al.,
+1990), vitamins (Touzel and Albagnac, 1983), sodium bicarbonate
+(400 mg L1) and a mixture of co-substrates, which consisted of
+ethanol (250 mg COD L1), methanol (250 mg COD L1) and yeast
+extract (250 mg COD L1).
+2.4. Laundry wastewater
+The wastewater was collected from a commercial laundry
+located in São Carlos, SP, Brazil. During the washing process two
+compounds were added, (i) detergents and (ii) neutralizeracidulant. The detergent composition consisted of LAS, nonionic
+surfactants, builders, bleaching agents, enzymes, fragrance,
+neutralizers and alkalizing agents (sodium hydroxide). The
+neutralizer-acidulant consisted of sodium sulfate, sodium
+metabisulﬁte and an alkaline vehicle. Thus, the source of LAS was
+one compound and the source of sulfate was another compound.
+It is noteworthy that all compounds were added manually by
+laundry employees, with low precision. The wastewater was
+collected after the ﬁrst rinse in 10 or 20 L high-density polyurethane bottles, and the bottles were stored at a temperature of
+4 °C. After each collection, the commercial laundry wastewater
+was characterized. In addition, due to the high concentration of
+LAS in the wastewater and the inhibitory concentration for
+methanogenic process, the laundry wastewater was diluted in
+public water supply as a function of LAS concentration determined
+in each stage. Thus, the dilution during the Stage II was around 1:9
+(laundry wastewater: public water supply) while at Stage III was
+around 1:5 (laundry wastewater: public water supply).
+2.5. Physical chemical analysis
+Analyses of pH (4500), total solids (2540D), total dissolved
+sulﬁde (4500-S2-.D) and chemical oxygen demand (COD; 5220D)
+were determined according to the Standard Methods for
+Examination of Water and Wastewater (APHA-AWWA-WPCF,
+2005).
+Nitrate and sulfate were quantiﬁed by ion chromatography
+using a Dionex ICS-5000 with IonPAC AS23 (4 mm) and an eluent
+of Na2CO3/NaHCO3 (1 mL min1). The samples were previously
+puriﬁed in a C-18 column (ChromabondÒ C18ec) to remove
+surfactants.
+Volatile fatty acids (VFAs), including caproic, valeric, isovaleric,
+butyric, isobutyric, propionic, acetic, formic, lactic, succinic, malic
+and citric acids, were quantiﬁed by HPLC using a Shimadzu system
+(Controller SCL10AVP, Pump LC-10ADVP, Oven CTO-20A and UV
+detector SCL10AVP) with an Aminex HPX-87H column (Bio-Rad;
+Penteado et al., 2013).
+LAS was quantiﬁed by HPLC using a Shimadzu system
+(SCL10AVP, LC-10ADVP, CTO-10A and RF-10AXL) with a
+reversed-phase C8 column (Supelco) and ﬂuorescence detector
+(Duarte et al., 2006) .
+
+39
+
+T.P. Delforno et al. / Bioresource Technology 192 (2015) 37–45
+
+2.6. Biological analysis
+
+3. Results and discussion
+
+The analysis of the microbial community was performed by
+PCR–DGGE (domain Bacteria) and sequencing of the 16S rRNA
+gene. The analysis by PCR–DGGE was performed in two ways:
+(i) the ﬁrst aimed to compare the microbial community of the
+inoculum and the end of Stages II and III in the reactor. For this
+purpose, homogeneous samples of the sludge blanket (SB)
+(Stages II and III) and the phase separator (PS) (Stages II and III)
+were sampled. (ii) The second method aimed to evaluate the
+community at different sampling points in the sludge blanket
+and the phase separator, thus verifying the existence of a possible
+microbial stratiﬁcation along the reactor (only Stage III). For this
+purpose, samples were taken from the ﬂow distributor (P1), three
+sludge blanket sites (P2, P3, and P4) and the phase separator (P5).
+For the phylogenetic characterization of the Bacteria domain,
+homogeneous samples were taken from the phase separator and
+the sludge blanket at the end of Stages II and III. Thus, four samples
+were sequenced using an Ion 318™ Chip Kit v2 400 bp.
+
+3.1. Reactor performance
+
+2.6.1. DNA extraction
+Total DNA extraction for PCR–DGGE and 16S rRNA sequencing
+was performed using a modiﬁed phenol–chloroform protocol
+described by Grifﬁths et al. (2000). The DNA quality was assessed
+by a standard of 260/280 nm > 1.8, as measured by an ND-2000
+spectrophotometer (Nanodrop Inc., Wilmington, DE) and agarose
+gel electrophoresis.
+
+2.6.2. PCR–DGGE
+PCR–DGGE was performed as described in Duarte et al. (2010).
+For the Bacteria domain, primers 968F (with a clamp GC) and
+1392R (Nübel et al., 1996) were used. DGGE banding patterns were
+analyzed using BioNumerics V.2.5. The similarity coefﬁcients were
+determined according to the Jaccard coefﬁcient, and the dendrogram was determined by an unweighted pair group method with
+an arithmetic average (UPGMA) algorithm.
+
+2.6.3. 16S rRNA Ion Tag sequencing
+The sequencing was performed at the GenOne Biotechnologies
+enterprise (Rio de Janeiro, Brazil) using 400-base chemistry and
+the Ion Torrent PGM technology (Life Technologies), speciﬁcally
+the 318 Chip. The rRNA genes were ampliﬁed using a primer set
+that ﬂanked the V4 hypervariable region: primers 577F (50 -AYTG
+GGYDTAAAGNG-30 ) and 924R (50 -CCGTCAATTCMTTTRAGT-30 ),
+generating an ampliﬁed fragment with an average length of
+347 bp. According to Neefs et al. (1990), the 16S rDNA gene is
+divided into nine variable regions (V1–V9), the V2, V4 and V6
+regions are the most used to phylogenetic afﬁliation. In addition,
+Liu et al. (2007) observed low error rate for V2 and V4 region.
+Using the Ribosomal Database Project (RDP) RDP’s Pipeline
+(http://pyro.cme.msu.edu/index.jsp; Cole et al., 2009), the
+sequences were processed as described in Delforno et al. (2014).
+The RDP-Classiﬁer was used for the taxonomic classiﬁcation of
+sequences representative of each OTU. The conﬁdence threshold
+adopted was 80% for genus and 50% for other taxonomic levels
+(phylum-family). Alfa (Chao1, Shannon, Simpson and Dominance)
+diversity was quantiﬁed using Past software. The sequences were
+submitted to the European Nucleotide Archive (http://www.ebi.
+ac.uk) under the accession numbers ERS629278 (Stage II – PS),
+ERS629279 (Stage II – SB), ERS629280 (Stage III – SB) and
+ERS629281 (Stage III – PS). The project accession number is
+PRJEB8003.
+
+In the total, ﬁve samples were taken to analyze the
+composition of the laundry wastewater (two samples during the
+Stage II and three samples during the Stage III), the average values
+found were 119 ± 53 mg LAS L1, 1582 ± 455 mg COD L1 and
+205 ± 104 mg S L1 (sulfate). The pH ranged from 9.6 to 10.7, and
+the VFA average was 442 ± 556 mg COD L1. The primary acids
+detected were lactic acid (168.6 ± 174.8 mg L1) and malic acid
+(153.6 ± 326.7 mg L1). The laundry wastewater analyzed by
+Braga and Varesche (2014) possessed similar levels of LAS
+(162 ± 244 mg LAS L1) and COD (1710 ± 968 mg COD L1) but a
+lower sulfate concentration (7.0 ± 6.4 mg S L1) and a lower pH
+(5.6 ± 0.9). Interestingly, Braga and Varesche (2014) obtained a
+peak LAS concentration of 1024 mg L1, whereas the present
+results only reached 202 mg LAS L1. Delforno et al., 2014,
+who analyzed seven samples of laundry wastewater from a
+commercial laundry located in São Carlos, SP, Brazil, obtained
+similar values of 181 ± 82 mg LAS L1, 1603 ± 692 mg COD L1
+and 124 ± 74 mg S L1 of sulfate. Moreover, the pH was basic and
+ranged from 9.0 to 10.0. Because of the high concentration of
+LAS, the laundry wastewater was diluted with a public water
+supply to obtain an inﬂuent LAS concentration range of 12.0–
+28.8 mg L1 (as a function of each stage), which is below the inhibitory level for anaerobic processes (50 mg LAS L1; Angelidaki
+et al., 2004).
+Stage I (26 days) was characterized by microbial reactivation
+because the granular sludge was refrigerated. The speciﬁc organic
+loading rate (SOLR) was 69 ± 9 mg COD gVS1 d1 (inﬂuent COD
+concentration of 755 ± 277 mg L1), and the removal efﬁciency
+was 89 ± 19% (Table 1).
+In Stage II (only laundry wastewater by 65 days), the SOLR
+decreased to 21 ± 9 mg COD gVS1 d1. The inﬂuent COD was
+
+Table 1
+Means and standard deviations of parameters analyzed in EGSB reactor.
+Parameters
+
+Stage I
+
+Stage II
+
+Stage III
+
+COD
+Inﬂuent (mg L1)
+Efﬂuent (mg L1)
+Removal (%)
+Speciﬁc organic load
+(mg COD gVS1 d1)
+
+755 ± 277
+90 ± 40
+89 ± 19
+69 ± 9
+
+221 ± 81
+81 ± 30
+61 ± 15
+21 ± 9
+
+237 ± 114
+123 ± 76
+48 ± 19
+21 ± 11
+
+LAS
+Inﬂuent (mg L1)
+Efﬂuent (mg L1)
+Removal (%)
+Speciﬁc load (mg gVS1 d1)
+Speciﬁc removal (mg gVS1 d1)
+
+–
+–
+–
+–
+–
+
+12.0 ± 3.2
+0.9 ± 1.2
+92.9 ± 10.3
+1.0 ± 0.3
+0.9 ± 0.3
+
+28.8 ± 6.4
+12.2 ± 7.7
+58.6 ± 25.8
+2.7 ± 0.7
+1.6 ± 0.8
+
+Sulfate
+Inﬂuent (mgS L1)
+Efﬂuent (mgS L1)
+Removal (%)
+Sulﬁde efﬂuent (mgS L1)
+
+–
+–
+–
+–
+
+29.2 ± 10.1
+12.5 ± 10.4
+59.6 ± 29.1
+1.8 ± 2.3
+
+53.8 ± 17.2
+19.5 ± 14.4
+62.6 ± 26.6
+20.2 ± 25.1
+
+Volatile fatty acids – VFAs
+Inﬂuent (mg Hac L1)
+Efﬂuent (mg Hac L1)
+
+–
+–
+
+42 ± 31
+10 ± 10
+
+65 ± 36
+25 ± 27
+
+Final biomass (sludge blanket)
+Total solids (TS) g L1
+Total volatile solids (TVS) g L1
+
+6.2
+2.0
+
+Final biomass (phase separator)
+Total solids (TS) g L1
+Total volatile solids (TVS) g L1
+
+1.22
+0.56
+
+Duration (days)
+HRT (hours)
+
+26
+39 ± 5
+
+65
+39 ± 4
+
+114
+39 ± 5
+
+T.P. Delforno et al. / Bioresource Technology 192 (2015) 37–45
+
+-1
+-1
+-2
+
+50
+
+Stage III
+
+Stage II
+
+40
+30
+20
+10
+
+0
+120
+90
+
+60
+20
+10
+0
+120
+90
+60
+30
+0
+
+0
+
+40
+
+80
+
+120 160 200 240
+
+time (days)
+Fig. 1. Temporal variation in LAS removal (N), sulﬁde concentration (h) and
+inﬂuent LAS concentration (d).
+
+120
+
+(A)
+
+(B)
+
+100
+
+40
+30
+20
+10
+
+80
+60
+40
+20
+0
+
+Stage II Stage III
+Stage III
+Stage III
+st
+th
+(1 - 90 ) (91st - 150th ) (151st - 185th) (186th - 217th)
+time (days)
+
+-1
+
+0
+
+However, with the beginning of Stage III (the 91st day of operation), an increase in sulﬁde concentrations in the efﬂuent was
+observed (<20 mg S L1), and the LAS removal efﬁciency dropped
+below 40% (Fig. 1). The increase in sulﬁde concentrations was
+due to the increase in laundry wastewater input into the reactor.
+Accordingly, the sulfate concentration increased (Table 1), resulting in a higher concentration of sulﬁde generated by the sulfate
+reduction.
+Although increasing concentrations of LAS can be connected to
+the reduction removal efﬁciency (Delforno et al., 2012), a high
+removal of LAS was observed during a period of Stage III (days
+151–185) in which the sulﬁde levels were lower. During days
+151–185, the LAS removal was 85% in association with a sulﬁde
+concentration of 1 ± 2 mg S L1. During days 91–150 and 186–217,
+
+LAS Removal (%)
+
+50
+
+Sulfide Effluent (mgS L )
+
+-1
+
+LAS Influent (mg L )
+
+221 ± 81 mg L1 with a removal efﬁciency of 61 ± 15%. The COD
+was related to volatile organic acids, surfactants, ﬁbrous material
+and recalcitrant compounds present in the wastewater; thus, the
+lower COD removal was due to a portion of the material that
+was not readily degradable.
+The speciﬁc LAS loading rate (SLLR) in Stage II was
+1.0 ± 0.3 mg LAS gVS1 d1 (12.3 ± 3.2 mg LAS L1 inﬂuent), and
+the average removal was 92.9 ± 10.3%. It is noteworthy that the
+feeding of EGSB reactor without synthetic medium (only laundry
+wastewater) did not result in system instability.
+Delforno et al. (2014), operating an EGSB reactor with a similar
+SLLR (1.0 ± 0.7 mg LAS gVS1 d1) of laundry wastewater and SOLR
+(71 ± 13 mg COD gVS1 d1) of synthetic medium, obtained an
+average of 76.4 ± 18.1%. Thus, the absence of inﬂuent supplementation (present study) showed an increase around 15% comparing to
+Delforno et al. (2014) which supplemented with synthetic
+medium.
+Probably, the SOLR was the key parameter for obtaining high
+surfactant removal rates with values of 21 ± 11 and 71 ± 13 mg
+COD gVS1 d1 for the present study (Stage II) and Delforno et al.
+(2012), respectively.
+In UASB reactor Okada et al. (2013) for an SOLR of
+30 ± 1 mg COD gVS1 d1, the LAS removal efﬁciency was 76%,
+whereas for 70–180 mg COD gVS1 d1, the removal values ranged
+from 37% to 53%. The organic components that comprised the SOLR
+were methanol, ethanol and yeast extract in the synthetic medium.
+Thus, Okada et al. (2013) veriﬁed that decreasing SOLR increased
+LAS removal.
+At Stage III, the SOLR was similar to Stage II (21 ± 11 mg
+COD gVS1 d1) but the COD removal was 48 ± 19%. The difference
+between Stage II and Stage III was due to the COD related to sulﬁde
+(Stage II: 1.76 ± 2.33 mg S L1; Stage III: 20.2 ± 25.1 mg S L1). The
+SLLR was 2.7 ± 0.7 mg LAS gSTV1 d1 (LAS inﬂuent: 28.8 ± 6.4
+mg L1), and the LAS removal rate decreased to 58.6 ± 25.8%. A
+possible relationship was observed between increases in the
+concentration of S2 in the efﬂuent (due to sulfate in the laundry
+wastewater) and decreases in surfactant removal. During Stage II,
+the sulﬁde efﬂuent concentration was not higher than
+10 mg S L1, and the LAS removal was greater than 70%.
+
+LAS Removal (%) S Effluent (mgS L ) LAS Influent (mg L )
+
+40
+
+120
+100
+80
+60
+40
+15
+10
+5
+0
+-5
+
+Stage II Stage III
+Stage III
+Stage III
+st
+th
+(1 - 90 ) (91st - 150th ) (151st - 185th) (186th - 217th)
+time (days)
+
+(C)
+
+Stage II Stage III
+Stage III
+Stage III
+st
+th
+(1 - 90 ) (91st - 150th ) (151st - 185th) (186th - 217th)
+time (days)
+
+Fig. 2. Box plot of LAS inﬂuent (A), LAS removal (B) and sulﬁde efﬂuent (C).
+
+T.P. Delforno et al. / Bioresource Technology 192 (2015) 37–45
+
+the sulﬁde concentrations were 9 ± 6 and 62 ± 25 mg S L1, and the
+LAS removal rates were 50% and 30%, respectively (for LAS inﬂuent
+concentrations of 32 ± 7 and 30 ± 2 mg LAS L1, respectively).
+Therefore, the sulﬁde levels in the reactor were related to the LAS
+removal rate (Fig. 2).
+Although the anaerobic microbiota can support high S2 concentrations (100–150 mg L1, at a pH of 6.8; Speece, 1983), the
+results demonstrate that the microbiota involved with LAS removal
+do not thrive in concentrations greater than 20 mg L1. In other
+words, these LAS-removing microbiota exhibit a low tolerance to
+S2. In actuality, this susceptibility could be the result of many factors, such as competition for the same substrates between
+sulfate-reducing bacteria (SRB) and the LAS-removing microbiota,
+non-competitive inhibition caused by SRB-generated sulﬁde
+and/or toxicity of S2. These results represent a new challenge in
+the application of anaerobic reactors for the removal of LAS present
+in laundry wastewater with high sulfate concentrations.
+According to the mass balance of the total amount of LAS added
+to the reactor (4460 mg LAS), 7% and 2% were adsorbed to the biomass in the sludge blanket and phase separator, respectively.
+Biological degradation accounted for 52%, whereas adsorption
+and biological removal removed 61%. The mass balance was realized at the end of the reactor operation (Stage II and Stage III),
+and Stage III showed low LAS removal rates, resulting in a decrease
+in the percentages of the mass balance.
+3.2. PCR/DGGE analyses
+Based on the biomass DGGE proﬁle taken along the reactor
+(Fig. 3C and D), the bacterial populations differed as a function of
+the sampling site. Because the reactor is considered completely
+mixed (i.e., a high ratio of recirculation ﬂow to feed ﬂow), the
+nutrient distribution does not differ along the reactor (Seghezzo
+et al., 1998). However, stratiﬁcation was observed in relation to
+
+41
+
+the size of the granules. Larger and denser granules were observed
+at the base of the reactor, and lower density granules were
+observed in the upper region of the sludge blanket. In the phase
+separator (P5), no granules were found, only ﬂocculent biomass
+attached to the acrylic. The P4 biomass was 78% similar to the
+phase separator sample (P5), both of which lack granular structure.
+A 73% similarity existed between the populations of P2 and P3,
+both of which contained well-deﬁned granules. However, a similarity coefﬁcient of only 30% existed between these two groups
+(i.e., biomass structure in the form of granules (P2 and P3) and ﬂocculent material (P5 and P4).
+The biomass of the phase separator region P5 and P4 exhibited
+lower similarity coefﬁcients (<34%) when compared to the biomass
+from the inoculum. These regions likely experienced the largest
+changes to the original biomass. According McHugh et al. (2003),
+two of the main advantages of the microbial granule arrangement
+are the collective defense with regard to toxic compounds and
+optimization of the survival of microbial populations. For this reason, the absence of the granular structures results in greater susceptibility of the microbiota to environmental changes. In the
+biomass DGGE proﬁles taken at the end of Stages II, III and the
+inoculum, large-amplitude variations in similarity values and clustering with the operation stages were observed. The highest similarity coefﬁcient (60%) was between the inoculum and Stage II
+biomass sludge blanket.
+The biomass of the ﬂow distribution (P1) was 52% similar to the
+points P2 and P3 (granular biomass) and <40% similar to the points
+P4 and P5 (ﬂocculent biomass). This pattern was likely due to the
+presence of a dead zone with fragmented granules.
+3.3. Microbial composition
+Using the Ion Torrent PGM technology for massive sequencing,
+it was obtained 396,818 sequences of 16S rRNA genes (4 samples;
+
+Fig. 3. Cluster analysis based on the DGGE proﬁles for the domain Bacteria. SB represents the sludge blanket and PS the phase separator. (A) Photo of DGGE with all samples.
+(B) Homogeneous samples collected at the end of Stage II (12 mg LAS L1) and Stage III (29 mg LAS L1). (C) Samples were taken from different areas of the reactor in Stage III.
+(D) Sampling sites along the reactor in Stage III: ﬂow distributor (P1), three sludge blanket sites (P2, P3 and P4) and the phase separator (P5).
+
+42
+
+T.P. Delforno et al. / Bioresource Technology 192 (2015) 37–45
+
+Table 2
+Results of 16S rRNA Ion Tag sequencing.
+Stage II – SB
+
+Stage II – PS
+
+Stage III – SB
+
+Stage III – PS
+
+Result analysis
+Good’s estimated coverage (%)
+Total sequences (raw data)
+Total sequences (trimmed data)
+Sequence length (bp)
+Total OTUs
+Singletons
+Total OTUs (taxonomical classiﬁcation)
+
+95
+140,686
+63,957
+329 ± 44
+7277
+3320
+3957
+
+96
+96,442
+44,330
+313 ± 47
+4955
+1798
+3157
+
+96
+81,282
+40,273
+327 ± 45
+4254
+1571
+2683
+
+96
+78,408
+31,260
+316 ± 42
+3489
+1384
+2105
+
+Richness estimation
+Chao1
+Rarefaction
+
+6214 ± 523
+4623 ± 602
+
+4732 ± 1125
+3613 ± 832
+
+4256 ± 1331
+3164 ± 998
+
+3072 ± 1833
+2268 ± 1269
+
+Diversity index
+Shannon (H)
+
+6.24 ± 0.56
+
+6.90 ± 0.16
+
+6.45 ± 0.42
+
+6.10 ± 0.61
+
+Table 2). During the processing of sequences, 216,998 sequences
+were removed due to the low quality of the bases (Phred > 20),
+lengths less than 200 bp, chimeras or ambiguous bases. Thus,
+56.6% of the total sequences were discarded. Many of the
+sequences were removed due to formation of a dimer between
+the forward and reverse primers, resulting in a fragment of approximately 35 bp (data not shown). After processing, the average size
+of the sequenced fragments was 313–329 bp.
+By analyzing of coverage (using the Good formula), it was determined that 95–96% of all the microbial communities were
+accessed. Furthermore, the analyses of the rarefaction curves were
+used to infer that the phylum taxonomic level (80% similarity) and
+the number of sequences obtained were sufﬁcient to represent all
+the diversity in the biomass (Supplementary Fig. 1). Stabilization
+occurred after 10,000 sequences. However, the rarefaction curves
+demonstrated that even with a large number of sequences, it was
+not possible to access the entire diversity at the genus (95%) and
+species (97%) level. Stabilization of the rarefaction curves did not
+occur at the genus and species levels.
+The values of richness estimators (Chao1) and rarefaction ranged
+from 3072 to 6214 and 2268–4623, respectively. The highest values
+of Chao1 and rarefaction were obtained in Stage II with an SLLR of
+1.0 ± 0.3 mg LAS gSTV1 d1, whereas the lowest values were
+obtained in Stage III with an SLLR of 2.7 ± 0.7 mg LAS gSTV1 d1.
+The inhibition of microbiota likely occurred due to the SLLR.
+Similar results were obtained in the DGGE analysis, which showed
+large changes in the populations in the biomass of Stage III.
+The Shannon diversity index yielded values greater than 6.0 for
+all samples, which indicate high diversity. Furthermore, the
+observed Simpson values (1-D) near 1 indicate high diversity and
+equitable distribution.
+For the comparison of the four samples, the Bray–Curtis index
+was used (Fig. 4A). The biomass grouped according to the operation stages of the reactor. This pattern was observed for the biomass in Stage II (PS, SB) and Stage III (PS, SB), which exhibited
+similarity values of 25% and 45%, respectively. With increased
+operation time in the reactors, the similarity between the biomass
+of different regions increased. Furthermore, a similarity value of
+only 10% was observed between the biomass of Stage II and
+Stage III, a result of the increased concentration of LAS and reactor
+operation time. By means of the presence/absence of genera in the
+Venn diagram, it was determined that 22% of the identiﬁed genera
+were present in all four samples. In contrast, 5–11% of the genera
+were unique to each sample (Fig. 4B).
+By using the RDP-Classiﬁer, over 95% of the sequences were
+classiﬁed at the phylum level. At the genera level, the percentage
+ranged from 16% to 75% of the classiﬁed sequences. Among the
+major phyla, the Proteobacteria phylum represented greater than
+
+20% (relative abundance) of the samples from Stage III and 65–
+70% of the sludge blanket and phase separator samples. Except
+for the sample from Stage II SB, in which the phylum
+Bacteroidetes was higher, the phylum Proteobacteria was the most
+abundant (Fig. 5A).
+The 20 most abundant genera, excluding unclassiﬁed ones, represented 99% (Stage II – SB), 84% (Stage II – PS), 93% (Stage III – SB)
+and 95% (Stage III – PS) of the relative abundances (date not
+shown). Including the unclassiﬁed sequences, the values were
+15% (Stage II – SB), 24% (Stage II – PS), 50% (Stage III – SB) and
+71% (Stage III – PS). Genera such as Geobacter, Syntrophobacter,
+Smithella, Phenylobacterium and Legionella were found in four samples (Fig. 5B). From these ﬁve genera, only Geobacter was directly
+related to the degradation of LAS and/or its intermediaries because
+this type of Bacteria uses aromatic compounds, such as benzene
+and toluene, as a carbon source. Geobacter genus is a strict anaerobe and has the metabolic capacity to perform b-oxidation, a step
+in the LAS degradation (Brenner et al., 2005).
+3.3.1. Microbial composition regarding to LAS degradation
+In the total, 175 genera were obtained. Of these, 33 genera, representing 2.0–19.6% of the total sequences obtained from the samples, were related to the degradation of LAS and/or aromatic
+compounds. Higher percentages were obtained in Stage III (15.9–
+19.6% for 2.7 ± 0.7 mg LAS gVS1 d1), which the SLLR was higher
+than in Stage II (2.0–6.1% for 1.0 ± 0.3 mg LAS gVS1 d1).
+However, during the stage III the ﬂuctuations of sulﬁde levels
+resulted in a decrease of LAS removal. But, the speciﬁc LAS removal
+rate (SLRR) increased from 0.9 ± 0.3 mg gVS1 d1 (Stage II) to
+1.6 ± 0.8 mg gVS1 d1 (Stage III) supporting the higher percentage
+of microorganism related to the degradation of LAS and/or aromatic compounds. It is noteworthy that the SLRR between Stage
+II and Stage III showed statistical difference (ANOVA and the post
+hoc Tukey, p < 0.05).
+Among the analyzed sequences, 0.16–10.79% of the sequences
+were related to the following genera that perform desulfonation
+reactions: Acinetobacter, Aeromonas, Comamonas, Desulfovibrio,
+Hydrogenophaga and Pseudomonas. Of the obtained sequences,
+0.36–12.30% were related to the following genera with the metabolic capacity to perform b-oxidation: Azoarcus, Geobacter,
+Parvibaculum, Pseudomonas, Rhodopseudomonas, Synergistes and
+Syntrophomonas. Of the obtained sequences, 0.01–9.80% were
+related to two genera (Pseudomonas and Parvibaculum) with the
+metabolic capacity to perform x-oxidation reactions. Only
+Pseudomonas has the ability to perform both b- and x-oxidation,
+in addition to desulfonation. Thus, Pseudomonas plays a necessary
+role in the microbial consortium that mineralizes LAS (Brenner
+et al., 2005).
+
+T.P. Delforno et al. / Bioresource Technology 192 (2015) 37–45
+
+43
+
+Fig. 4. Bray–Curtis index (A). Venn diagram of the presence and absence of genera (B).
+
+In the four samples, 14 identiﬁed genera were related to anaerobic degradation of aromatic compounds: Acinetobacter,
+Comamonas, Desulfobulbus, Desulfomonile, Geobacter, Geothrix,
+Holophaga, Mycobacterium, Pseudomonas, Rhodopseudomonas,
+Sporomusa, Stenotrophomonas, Sulfuritalea and Syntrophorhabdus.
+With the exception of Sulfuritalea, the other genera have been
+identiﬁed in another studies related to LAS degradation (de
+Oliveira et al., 2009; Duarte et al., 2010; Delforno et al., 2012;
+Duarte et al., 2010). This result shows the existence of a microbiological core in common among the four samples and, consequently,
+the role of these microorganisms in LAS degradation. Probably, the
+presence of Sulfuritalea genus was favored to sulfur and aromatic
+compounds. This genus grows chemolithoautotrophically under
+anoxic conditions by the oxidation of reduced sulfur compounds
+and hydrogen. Moreover, this genus cans growth in heterotrophic
+conditions using organic acids and aromatic compounds such as
+benzoate (Kojima and Fukui, 2011).
+The microbial community inside the reactor can be affected due
+to several reasons. Some of these reasons are the composition of
+the support material, for example in FBR (de Oliveira et al.,
+2009), presence of toxic compounds (sulfophenyl carboxylic acids
+– SPC) during the process of LAS biodegradation (Lara-Martin
+et al., 2010) and presence of toxic compounds in the laundry
+wastewater (Braga and Varesche, 2014). In addition, metabolized
+byproducts from compounds present in the laundry wastewater
+can represent one more factor toxic to microbial community. For
+example, sulﬁde generated from laundry wastewater rich in sulfate
+as previously discussed (Section 3.1 – reactor performance).
+On the other hand, there are compounds in laundry wastewater
+which favor the degradation of the LAS such as sequestrants (e.g.,
+EDTA) due to decrease the amount of LAS adsorbed in the biomass
+(Delforno et al., 2014; Okada et al., 2014).
+
+Additionally, the reactor was subjected to high inﬂuent sulfate concentrations (30–54 mg S L1). Therefore, although there
+is evidence in the literature that the microbial community may
+have been affected by the presence of toxic compounds during
+the LAS biodegradation or toxic compounds present in the laundry wastewater, probably, the main modiﬁer of LAS biodegradation and microbial community were metabolized byproducts
+from sulfate (eg., sulﬁde). This conclusion is supported by physical–chemical results (Table 1 and Figs. 1 and 2) and the several
+sulfur cycle genera found which will be discussed below.
+3.3.2. Microbial composition regarding to sulfur cycle
+Due to the high concentration of sulfate in the wastewater
+(205 ± 104 mg S L1), genera associated with the sulfur cycle were
+highly abundant (4.8%–55.3%; Supplementary Fig. 2). The relative
+abundance of these genera increased between Stage II (SB-4.8%
+and PS-6.2%) and Stage III (SB-20.3 and PS-55.3%).
+The genera related to sulfate reduction include Desulfatirhabdium,
+Desulfocapsa, Desulfomicrobium, Desulfomonile, Desulforhabdus,
+Desulfovibrio and Syntrophobacter. Of these, certain genera
+(Desulfatirhabdium, Desulfomicrobium, Desulfomonile and Desulfovibrio)
+are related to aromatic compound degradation and have already
+been identiﬁed in previous studies (Cook et al., 1998; Brenner
+et al., 2005; Duarte et al., 2010; Delforno et al., 2014). The relative
+abundance in Stage II ranged from 0.01% to 0.30% in association
+with an inﬂuent sulfate concentration of 29.2 ± 10.1 mg S L1;
+whereas the relative abundance in the Stage III ranged from
+3.54% to 4.75% in association with an inﬂuent sulfate concentration
+of 53.8 ± 17.2 mg S L1.
+In addition, it was observed speciﬁc microbiota related to
+sulﬁde and elementary sulfur (Brenner et al., 2005). These genera
+include Bosea; Desulfuromonas; Petrimonas and Sulfurovum. None
+
+44
+
+T.P. Delforno et al. / Bioresource Technology 192 (2015) 37–45
+Stage III PS
+Stage III SB
+Stage II PS
+StageII SB
+
+Planctomycetes
+Verrucomicrobia
+Euryarchaeota
+
+molecular tools showed that microbial stratiﬁcation in the reactor
+due to the granule size and a microbial core related to LAS removal.
+Acknowledgement
+
+Actinobacteria
+Chloroflexi
+
+The present study was funded by the Fundação de Amparo a
+Pesquisa do Estado de São Paulo (FAPESP), Process No.
+2011/06783-1.
+
+Firmicutes
+Bacteroidetes
+Synergistetes
+Acidobacteria
+
+Appendix A. Supplementary data
+
+Proteobacteria
+0
+
+2
+
+4
+
+6
+
+20 30 40 50 60 70 80 90 100
+Relative abundance (%)
+
+(A)
+Total
+Zoogloea
+Syntrophorhabdus
+Syntrophomonas
+Synergistes
+Sulfuritalea
+Stenotrophomonas
+Sporomusa
+Sphingosinicella
+Shewanella
+Rhodopseudomonas
+Pseudomonas
+Parvibaculum
+Mycobacterium
+Hydrogenophaga
+Holophaga
+Geothrix
+Georgfuchsia
+Geobacter
+Gemmatimonas
+Desulfovibrio
+Desulfomonile
+Desulfobulbus
+Desulfatirhabdium
+Dechloromonas
+Comamonas
+Chelatococcus
+Aeromonas
+Acinetobacter
+
+0,0
+
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.biortech.2015.05.
+050.
+References
+
+Stage III PS
+Stage III SB
+Stage II PS
+Stage II SB
+0,2
+
+0,4
+
+2 4 6 8 10 12 14 16 18 20
+Relative abundance (%)
+
+(B)
+Fig. 5. Taxonomic afﬁliation and relative abundance of phyla (A). Taxonomic
+afﬁliation and relative abundance of genera with regard to aromatic compound
+degradation/LAS degradation (B). The conﬁdence threshold adopted in the RDP
+Classiﬁer was 50% for phylum/family and 80% for genus.
+
+of these genera are related to the LAS degradation and/or its
+intermediaries; however, they do perform important functions
+associated with reactor stability.
+The highest relative abundances are associated with higher sulﬁde concentrations (Stage II: 1.8 ± 2.3 mg S L1, 0.05%; Stage III:
+20.2 ± 25.1 mg S L1, 46.8%). Moreover, the Sulfurovum genus is a
+chemolithoautotroph that uses elemental sulfur or thiosulfate as
+an electron donor and oxygen and nitrate as electron acceptors,
+with CO2 as the carbon source (Kleinsteuber et al., 2008). A high
+relative abundance of this genus was observed in the region of
+the phase separator in Stage III (40.3%). This region is favorable
+due to its greater susceptibility to the presence of oxygen, availability of CO2 and elemental sulfur.
+4. Conclusions
+The highest LAS removal was observed for an SLLR of
+1.0 mg LAS gVS1 d1
+(92.9 ± 10.3%).
+The
+higher
+SLLR,
+2.7 mg LAS gVS1 d1, resulted in a lower LAS removal efﬁciency
+(58.6 ± 25.8%). Based on the observations, the primary factor
+responsible for this lower removal efﬁciency was the increased sulﬁde levels in the reactor due to higher sulfate reduction activity.
+S2 concentrations less than 20 mg S L1 were associated with high
+LAS removal rates, even for an SLLR of 2.7 mg LAS gVS1 d1. The
+
+Angelidaki, I., Petersen, S.P., Ahring, B.K., 1990. Effects of lipids on thermophilic
+anaerobic digestion and reduction of lipid inhibition upon addition of bentonite.
+Appl. Microbiol. Biotechnol. 33 (4), 469–472.
+Angelidaki, I., Torang, L., Waul, C.M., Schmidt, J.E., 2004. Anaerobic bioprocessing of
+sewage sludge, focusing on degradation of linear alkylbenzene sulfonates (LAS).
+Water Sci. Technol. 49 (10), 115–122.
+APHA, Awwa, WPCF, 2005. Standard Methods for the Examination of Water and
+Wastewater, 21st ed. American Public Health Association, Washington, DC.
+Braga, J.K., Varesche, M.B.A., 2011. Commercial laundry water characterization for
+anaerobic treatment in ﬂuidized bed reactor. X Oﬁcina e Seminário Latino
+Americano de Digestão Anaeróbia (DAAL), Ouro Preto, MG.
+Braga, J.K., Varesche, M.B.A., 2014. Commercial laundry water characterisation. Am.
+J. Anal. Chem. 5, 8–16.
+Bain & Company and GasEnergy, 2014. Potencial de diversiﬁcação da indústria
+química, Tensoativos.
+Brenner, D.J., Krieg, N.R., Staley, J.T., 2005. Bergey’s Manual of Systematic
+Bacteriology, 2nd ed. Springer, New York.
+Cole, J.R., Wang, Q., Cardenas, E., Fish, J., Chai, B., Farris, R.J., Kulam-Syed-Mohideen,
+A.S., McGarrell, D.M., Marsh, T., Garrity, G.M., Tiedje, J.M., 2009. The ribosomal
+database project: improved alignments and new tools for rRNA analysis.
+Nucleic Acids Res. 37, D141–D145.
+Cook, A.M., Laue, H., Junker, F., 1998. Microbial desulfonation. FEMS Microbiol. Rev.
+22 (5), 399–419.
+de Oliveira, L.L., Duarte, I.C.S., Sakamoto, I.K., Varesche, M.B.A., 2009. Inﬂuence of
+support material on the immobilization of biomass for the degradation of linear
+alkylbenzene sulfonate in anaerobic reactors. J. Environ. Manage. 90, 1261–
+1268.
+de Oliveira, L.L., Costa, R.B., Okada, D.Y., Vich, D.V., Duarte, I.C.S., Silva, E.L., Varesche,
+M.B.A., 2010. Anaerobic degradation of linear alkylbenzene sulfonate (LAS) in
+ﬂuidized bed reactor by microbial consortia in different support materials.
+Bioresour. Technol. 101 (14), 5112–5122.
+Delforno, T.P., Moura, A.G.L., Okada, D.Y., Varesche, M.B.A., 2014. Effect of biomass
+adaptation to the degradation of anionic surfactants in laundry wastewater
+using EGSB reactors. Bioresour. Technol. 154, 114–121.
+Duarte, I.C.S., Oliveira, L.L., Buzzini, A.P., Adorno, M.A.T., Varesche, M.B.A., 2006.
+Development of a method by HPLC to determine LAS and its application in
+anaerobic reactors. J. Braz. Chem. Soc. 17 (7), 1360–1367.
+Duarte, I.C.S., Oliveira, L.L., Saavedra, N.K., Fantinatti-Garboggini, F., Menezes, C.B.A.,
+Oliveira, V.M., Varesche, M.B.A., 2010. Treatment of linear alkylbenzene
+sulfonate in a horizontal anaerobic immobilized biomass reactor. Bioresour.
+Technol. 101 (2), 606–612.
+Frost, Sullivan, 2013. Analysis of the Brazilian and Argentinian surfactants market:
+strategic opportunities for a fast pace growing market, Mountain View. 145.
+Garcia, M.T., Campos, E., Ribosa, I., Latorre, A., Sanchez-Leal, J., 2005. Anaerobic
+digestion of linear alkyl benzene sulfonates: biodegradation kinetics and
+metabolite analysis. Chemosphere 60 (11), 1636–1643.
+Ge, J., Qu, J., Lei, P., Liu, H., 2004. New bipolar electrocoagulation–electroﬂotation
+process for the treatment of laundry wastewater. Sep. Purif. Technol. 36 (1), 33–
+39.
+Grifﬁths, R.I., Whiteley, A.S., O’Donnell, A.G., Bailey, M.J., 2000. Rapid method for
+coextraction of DNA and RNA from natural environments for analysis of
+ribosomal DNA- and rRNA-based microbial community composition. Appl.
+Environ. Microbiol. 66 (12), 5488–5491.
+Kleinsteuber, S., Schleinitz, K.M., Breitfeld, J., Harms, H., Richnow, H.H., Vogt, C.,
+2008. Molecular characterization of bacterial communities mineralizing
+benzene under sulfate-reducing conditions. FEMS Microbiol. Ecol. 66 (1),
+143–157.
+Kojima, H., Fukui, M., 2011. Sulfuritalea hydrogenivorans gen. nov., sp. nov., a
+facultative autotroph isolated from a freshwater lake. Int. J. Syst. Evol.
+Microbiol. 61, 1651–1655.
+Lara-Martin, P.A., Gomez-Parra, A., Sanz, J.L., Gonzalez-Mazo, E., 2010. Anaerobic
+degradation pathway of linear alkylbenzene sulfonates (LAS) in sulfate reducing
+marine sediments. Environ. Sci. Technol. 44, 1670–1676.
+
+T.P. Delforno et al. / Bioresource Technology 192 (2015) 37–45
+Liu, Z., Lozupone, C., Hamady, M., Bushman, F.D., Knight, R., 2007. Short
+pyrosequencing reads sufﬁce for accurate microbial community analysis.
+Nucleic Acids Res. 35, e120.
+McHugh, S., Carton, M., Mahony, T., O’Flaherty, V., 2003. Methanogenic population
+structure in a variety of anaerobic bioreactors. FEMS Microbiol. Lett. 219 (2),
+297–304.
+Neefs, J.-M., van de Peer, Y., Hendriks, L., de Wachter, R., 1990. Compilation of small
+ribosomal subunit RNA sequences. Nucleic Acids Res. 18, 2237–2317.
+Nübel, U., Engelen, B., Felske, A., Snaidr, J., Wieshuber, A., Amann, R.I., Ludwig, W.,
+Backhaus, H., 1996. Sequence heterogeneities of genes encoding 16S rRNAs in
+Paenibacillus polymyxa detected by temperature gradient gel electrophoresis. J.
+Bacteriol. 178 (19), 5636–5643.
+Okada, D.Y., Delforno, T.P., Esteves, A.S., Sakamoto, I.K., Duarte, I.C.S., Varesche,
+M.B.A., 2013. Optimization of linear alkylbenzene sulfonate (LAS) degradation
+in UASB reactors by varying bioavailability of LAS, hydraulic retention time and
+speciﬁc organic load rate. Bioresour. Technol. 128, 125–133.
+
+45
+
+Okada, D.Y., Delforno, T.P., Etchebehere, C., Varesche, M.B.A., 2014. Evaluation of the
+microbial community of upﬂow anaerobic sludge blanket reactors used for the
+removal and degradation of linear alkylbenzene sulfonate by pyrosequencing.
+Int. Biodeterior. Biodegrad. 96, 63–70.
+Penteado, E.D., Lazaro, C.Z., Sakamoto, I.K., Zaiat, M., 2013. Inﬂuence of seed sludge
+and pretreatment method on hydrogen production in packed-bed anaerobic
+reactors. Int. J. Hydrogen Energy 38 (14), 6137–6145.
+Seghezzo, L., Zeeman, G., van Lier, J.B., Hamelers, H.V.M., Lettinga, G., 1998. A
+review: the anaerobic treatment of sewage in UASB and EGSB reactors.
+Bioresour. Technol. 65 (3), 175–190.
+Sostar-Turk, S., Petrinic, I., Simonic, M., 2005. Laundry wastewater treatment using
+coagulation and membrane ﬁltration. Resour. Conserv. Recycl. 44 (2), 185–196.
+Speece, R.E., 1983. Anaerobic biotechnology for industrial wastewater treatment.
+Environ. Sci. Technol. 17 (9), 416A–427A.
+Touzel, J.P., Albagnac, G., 1983. Isolation and characterization of Methanococcus
+mazei strain MC3. FEMS Microbiol. Lett. 16 (2–3), 241–245.
+
+

@@ -1,0 +1,521 @@
+www.nature.com/scientificreports
+
+OPEN
+
+received: 19 June 2015
+accepted: 24 August 2015
+Published: 24 September 2015
+
+Methanogenic degradation of
+lignin-derived monoaromatic
+compounds by microbial
+enrichments from rice paddy field
+soil
+Souichiro Kato1,2,3, Kanako Chino4, Naofumi Kamimura4, Eiji Masai4, Isao Yumoto1 &
+Yoichi Kamagata1,2
+Anaerobic degradation of lignin-derived aromatics is an important metabolism for carbon and
+nutrient cycles in soil environments. Although there are some studies on degradation of ligninderived aromatics by nitrate- and sulfate-reducing bacteria, knowledge on their degradation under
+methanogenic conditions are quite limited. In this study, methanogenic microbial communities
+were enriched from rice paddy field soil with lignin-derived methoxylated monoaromatics (vanillate
+and syringate) and their degradation intermediates (protocatechuate, catechol, and gallate) as
+the sole carbon and energy sources. Archaeal community analysis disclosed that both aceticlastic
+(Methanosarcina sp.) and hydrogenotrophic (Methanoculleus sp. and Methanocella sp.) methanogens
+dominated in all of the enrichments. Bacterial community analysis revealed the dominance of
+acetogenic bacteria (Sporomusa spp.) only in the enrichments on the methoxylated aromatics,
+suggesting that Sporomusa spp. initially convert vanillate and syringate into protocatechuate and
+gallate, respectively, with acetogenesis via O-demethylation. As the putative ring-cleavage microbes,
+bacteria within the phylum Firmicutes were dominantly detected from all of the enrichments, while
+the dominant phylotypes were not identical between enrichments on vanillate/protocatechuate/
+catechol (family Peptococcaceae bacteria) and on syringate/gallate (family Ruminococcaceae bacteria).
+This study demonstrates the importance of cooperation among acetogens, ring-cleaving fermenters/
+syntrophs and aceticlastic/hydrogenotrophic methanogens for degradation of lignin-derived
+aromatics under methanogenic conditions.
+
+Lignin is a major component of terrestrial plants and is a highly complex heteropolymer consisting of
+hydoxylated and methoxylated phenylpropanid units linked by various types of C–C and C–O-C bonds.
+As lignin represents a significant part of input of organic compounds, its degradation is integral for
+carbon and energy cycles in soil environments. Lignin is aerobically depolymerized by lignolytic fungi
+and some bacterial strains, followed by mineralization of the resulting low-molecular-weight products
+1
+
+Bioproduction Research Institute, National Institute of Advanced Industrial Science and Technology (AIST),
+2-17-2-1 Tsukisamu-Higashi, Toyohira-ku, Sapporo, Hokkaido 062-8517, Japan. 2Division of Applied Bioscience,
+Graduate School of Agriculture, Hokkaido University, Kita-9 Nishi-9, Kita-ku, Sapporo, Hokkaido 060-8589, Japan.
+3
+Research Center for Advanced Science and Technology, The University of Tokyo, 4-6-1 Komaba, Meguro-ku,
+Tokyo 153-8904, Japan. 4Department of Bioengineering, Nagaoka University of Technology, 1603-1 Kamitomioka,
+Nagaoka, Niigata 940-2188, Japan. Correspondence and requests for materials should be addressed to S.K. (email
+s.katou@aist.go.jp)
+Scientific Reports | 5:14295 | DOI: 10.1038/srep14295
+
+1
+
+www.nature.com/scientificreports/
+by soil bacteria1–3. Aerobic degradation of lignin-derived methoxylated monoaromatics, including vanillate (4-hydroxy-3-methoxybenzoate) and syringate (3,5-dimethoxy-4-hydroxybenzoate), has been thoroughly studied4. For example, an aerobic vanillate- and syringate-degrading bacterium Sphingobium sp.
+SYK-6 firstly convert vanillate and syringate into protocatechuate (PCA, 3,4-dihydroxybenzoate) and
+3-O-methylgallate (3-MGA), respectively, by O-demethylation reactions5. PCA is oxidatively decomposed
+to pyruvate and oxaloacetate via the PCA 4,5-cleavage pathway6. 3-MGA is degraded through multiple
+ring cleavage pathways and the resultant metabolites are further degraded via the PCA 4,5-cleavage
+pathway7.
+On the contrary, studies on anaerobic degradation of lignin and lignin-derived aromatics have been
+limited, despite some studies suggesting that their anaerobic biodegradation was evident in various natural environments8–13. Acetogenic bacteria are the first anaerobes described to utilize methoxylated aromatics as the sole carbon and energy sources14,15. Acetogenic bacteria utilize the O-methyl group as the
+carbon and energy sources, while they do not have the ability to degrade the aromatic ring structure.
+Similarly, some sulfate-reducing bacteria and fermentative bacteria utilize the O-methyl group as carbon
+and energy sources, and a part of them also have ability to decompose the aromatic rings16–19. Anaerobic
+degradation of the O-demethylated derivatives of vanillate and syringate, namely PCA and gallate
+(3,4,5-trihydroxybenzoate), respectively, has been documented with nitrate-reducing, sulfate-reducing,
+and fermentative bacteria. A nitrate-reducer Thauera aromatica and a sulfate-reducer Desulfobacterium
+sp. were reported to anaerobically degrade PCA via the benzoyl-CoA pathway20,21. Fermentative bacteria,
+such as Eubacterium oxidoreducens and Pelobacter acidigallici, were reported to anaerobically degrade
+gallate via the phloroglucinol pathway22,23.
+While methanogenesis is one of the most important microbial metabolisms in diverse anaerobic environments, including soil and freshwater/marine sediments, knowledge on methanogenic degradation
+of lignin-derived aromatics, especially on microorganisms responsible for the decomposition, has been
+quite limited. Kaiser and Hanselmann reported that microbial communities enriched from anaerobic
+sediments completely degraded lignin-derived aromatics, including vanillate and syringate, with concomitant generation of CH4 (ref. 24). They demonstrated that the first step for methanogenic degradation
+is acetate production with O-demethylation of the methoxy-group. However, microorganisms participating in the O-demethylation and following ring-cleavage reactions under methanogenic environments
+were not identified.
+In the present study, we enriched methanogenic microbial communities from rice paddy field soil
+with either lignin-derived aromatics (vanillate and syringate) or a model aromatic compound (benzoate) as the sole carbon and energy sources. The microbial communities were further enriched on the
+degradation intermediate compounds, namely PCA, catechol, and gallate. Microorganisms involved in
+methanogenic degradation of the lignin-derived aromatics were then identified with microbial community analysis based on their 16S rRNA gene sequences.
+
+Results and Discussion
+
+Enrichment of methanogenic microbial communities on lignin-derived aromatics. Metha
+
+nogenic microbial communities were enriched from rice paddy field soil using a freshwater basal medium
+supplemented with different aromatic compounds. Either lignin-derived methoxylated aromatics (5 mM
+of vanillate or syringate) or a control aromatic compound (5 mM of benzoate) were supplemented as
+the substrates. After several weeks of cultivation, CH4 was produced in all of the cultures supplemented
+with aromatics (Fig. S1). The amount of CH4 produced reached to 7 to 20 mmol l−1 within 2 month
+cultivation. On the contrary, only trace amount of CH4 (less than 0.1 mmol l−1) was produced in the
+cultures without supplementation of the aromatics (Fig. S1), indicating that most of CH4 produced in
+the enrichment cultures was derived from degradation of aromatic compounds. Production of CH4
+from the aromatic compounds by respective enrichments (after five successive subcultures) are shown
+in Fig. 1A–C. It took more than one month to produce stoichiometrically expected CH4 in all cultures
+tested. The amounts of CH4 produced from 5 mM of benzoate, vanillate, and syringate were 17.1 ±  0.5,
+18.4 ±  0.3, and 20.1 ±  0.3 mmol l−1, respectively, and were approximate to the theoretical values (18.75,
+20, and 22.5 mmol l−1, respectively) calculated from the following equations:
+
+C 7H5O 2−(benzoate) + 7.75H 2O → 3.75CH 4 + 3.25HCO3− + 2.25H +,
+C 8H7O 4−(vanillate) + 8H 2O → 4CH 4 + 4HCO3− + 3H +,
+C 9H9O5−(syringate) + 8.5H 2O → 4.5CH 4 + 4.5HCO3− + 3.5H +.
+These results suggest that the each enrichment culture completely degraded the aromatic compounds
+into CH4 and CO2.
+
+Detection of degradation intermediates from the enrichment cultures. Among short chain
+alcohols and organic acids, only acetate was detected from the enrichment cultures throughout this
+Scientific Reports | 5:14295 | DOI: 10.1038/srep14295
+
+2
+
+www.nature.com/scientificreports/
+
+Figure 1. Methanogenesis from benzoate, vanillate, and syringate by enrichment cultures. Production
+of CH4 (filled circles) and acetate (open squares) were monitored during the incubation of respective
+enrichment cultures supplemented with 5 mM of benzoate (A), vanillate (B), or syringate (C). Data are
+presented as the means of three independent cultures, and error bars represent standard deviations.
+
+Figure 2. Degradation of vanillate and syringate by enrichment cultures. The cultures were incubated
+with 5 mM of vanillate (A) or syringate (B), and portions of the enrichments were corrected at the start, day
+10, and day 24 or at the start, day 3, and day 10, respectively. The supernatant of enrichment of vanillate and
+syringate were analyzed by HPLC with detection at 220 nm and 270 nm, respectively. The retention times
+of compound I, II, III, IV, and V were 1.43, 2.40, 3.34, 1.53, and 0.98 min, respectively. UV/VIS and mass
+spectra of compound I to V are shown in Figs S2 and S3.
+
+study by the high performance liquid chromatography (HPLC) analysis. Acetate accumulated in the
+enrichment cultures to 8 to 12 mM during methanogenesis, followed by the complete consumption of
+the accumulated acetate (Fig. 1A–C), indicating that acetate is one of the important intermediates of
+methanogenic degradation of the aromatic compounds.
+In order to determine the degradation pathway of vanillate and syringate in the enrichment cultures,
+intermediate metabolites produced during cultivation were analyzed by HPLC coupled with an electrospray ionization-mass spectrometry (ESI-MS). It should be noted that CoA-derivatives of aromatic
+compounds could not be detected by our analytical protocol. In the vanillate enrichment cultures, two
+peaks (compound I, II) appeared at day 10, followed by an appearance of another peak (compound III)
+at day 24 (Fig. 2A). Based on the comparison of retention time, UV/VIS spectrum, and negative ESI-MS
+spectrum with authentic compounds, compound I, II, and III were identified as PCA, catechol, and
+Scientific Reports | 5:14295 | DOI: 10.1038/srep14295
+
+3
+
+www.nature.com/scientificreports/
+
+Figure 3. Methanogenesis from PCA, gallate, and catechol by respective enrichment cultures. PCA
+(open squares, (A)) and gallate (filled circles, (A)) were supplemented with 5 mM at day 0. Catechol (filled
+triangles, (B)) was supplemented with 1 M at the time points represented by arrows. Data are presented as
+the means of three independent cultures, and error bars represent standard deviations.
+
+3-hydroxybenzoate (3-HB), respectively (Figs S2 and S3). Generation of PCA at day 10 suggests that
+O-demethylation of vanillate is the first step of vanillate degradation. Catechol and 3-HB were appeared
+to be produced by the decaroboxylation and dehydroxylation of PCA, respectively, probably as intermediates of methanogenic degradation pathway of PCA (discussed below). In the degradation of syringate,
+two metabolites, compound IV and V, were found and identified as 3-MGA and gallate, respectively
+(Fig. 2B, S2, and S3). These observations indicate that syringate is first converted to gallate with successive O-demethylation reactions via 3-MGA. In the benzoate enrichment cultures, no aromatic compound
+other than benzoate were detected (data not shown), suggesting that benzoate is firstly converted to
+benzoyl-CoA and then the ring structure is reductively cleaved via benzoyl-CoA pathway as reported25,26.
+
+Enrichment cultures on the degradation intermediates. In order to further elucidate the mechanisms for degradation of the lignin-derived aromatics, the enrichment cultures on vanillate and syringate
+were subjected to further enrichments with respective degradation intermediates. Enrichment cultures
+on PCA and gallate were constructed with vanillate- and syringate-enrichments as the inoculum, respectively, and generated considerable amounts of CH4 within 40 days (Fig. 3A). Although enrichment cultures on catechol was also constructed using the vanillate-enrichments as the inoculum, the cultures
+supplemented with 5 mM catechol produced only little amounts of CH4 with a long lag time (> 50
+days, data not shown). Since cytotoxicity of relatively high concentration of catechol was considered as
+the reason for the low methanogenic activity, another set of enrichment cultures was constructed with
+Scientific Reports | 5:14295 | DOI: 10.1038/srep14295
+
+4
+
+www.nature.com/scientificreports/
+
+Figure 4. Phylogenetic distribution of archaeal (A) and bacterial (B) 16S rRNA gene clones in the
+aromatics-degrading methanogenic enrichment cultures. The dominant phylotypes (>10% in at least one
+enrichment) and their closest relatives (sequence identity, %) are shown in the legends.
+
+supplementation of 1 mM catechol. In this case, methanogenesis started with approximately a 20-day
+lag phase and plateaued at around 40 days of cultivation (Fig. 3B). After saturation of methanogenesis,
+another 1 mM of catechol was added to the culture, which resulted in resumption of methanogenesis
+with almost no lag time.
+The amount of CH4 produced from PCA (5 mM), gallate (5 mM), and catechol (1 mM) were 15.5 ±  0.5,
+14.4 ±  0.5, and 2.8 ±  0.3 mmol l−1, respectively, and were approximate to the theoretical values (16.25, 15,
+and 3.25 mmol l−1, respectively) calculated from the following equations:
+
+C 7H5O 4−(PCA) + 7.25H 2O → 3.25CH 4 + 3.75HCO3− + 2.75H +,
+C 7H5O5−(gallate)+ 7H 2O → 3CH 4 + 4HCO3− + 3H +,
+C 6H6O 2 (catechol) + 6.25H 2O → 3.25CH 4 + 2.75HCO3− + 2.75H +.
+These results suggest that methanogenic microbial communities that completely degrade the respective intermediates of vanillate and syringate were successfully enriched.
+
+Dominant microorganisms in the enrichment cultures. Microbial community structures of the
+enrichments were assessed based on 16S rRNA gene clone library analysis to elucidate the microorganisms participating in methanogenic degradation of the lignin-derived aromatics. The summarized features of the bacterial and archaeal community analyses are presented in Fig. 4. All phylotypes detected
+from each enrichment culture are listed in Tables S1 and S2.
+Only 4 archaeal phylotypes were recovered from the enrichment cultures (Fig. 4A and Table S1). The
+phylotype ArA-01 (98.9% identity to Methanosarcina vacuolata), which dominated in all enrichment
+cultures, was the only phylotype classified as an aceticlastic methanogen. The phylotypes classified as
+hydrogenotrophic methanogens, namely the phylotype ArA-02 (97.9% identity to Methanoculleus palmolei) and ArA-03 (97.5% identity to Methanocella arvoryzae), were also detected from all enrichment
+cultures. These results suggest that both aceticlastic and hydrogenotrophic methanogenesis contribute to
+methanogenic degradation of the lignin-derived aromatics.
+The predominant bacterial phylotype in the benzoate-enrichments was the phylotype ArB-25 (Fig. 4B
+and Table S2), which is classified into the class Deltaproteobacteria and has 99.0% identity to Syntrophus
+aciditrophicus. S. aciditrophicus has ability to degrade benzoate via benzoyl-CoA pathway in syntrophic
+association with methanogens27,28. In the benzoate-enrichment cultures, Syntrophus sp. appears to
+Scientific Reports | 5:14295 | DOI: 10.1038/srep14295
+
+5
+
+www.nature.com/scientificreports/
+
+Figure 5. A phylogenetic tree based on partial 16S rRNA gene sequences of the phylotypes retrieved
+in this study and representative isolates in family Peptococcaceae (A) and Ruminococcaceae (B). The
+phylotypes dominantly detected from the enrichment cultures are indicated by bold letters. Ruminococcus
+albus (A) and Clostridium acetobutylicum (B) were used as the outgroup sequences. Accession numbers
+are shown in parentheses. Bootstrap values (1000 trials, only >  50% are shown) are indicated at branching
+points. The bar indicates 2% sequence divergence.
+
+decompose benzoate into acetate and H2/CO2, which is further converted into CH4 by aceticlastic and
+hydrogenotrophic methanogens.
+By contrast, almost no Deltaproteobacteria were recovered from the enrichment cultures with other
+aromatic compounds. Instead, the phylotypes classified into phylum Firmicutes dominated in the enrichments supplemented with the lignin-derived aromatics and their degradation intermediates (Fig. 4B).
+Among the Firmicutes phylotypes, the phylotype ArB-01 (99.6% identity to Sporomusa sphaeroides)
+and ArB-02 (89.8% identity to Sporomusa paucivorans) were abundantly detected from vanillate- and
+syringate-enrichments, but not from enrichments with their degradation intermediates. Sporomusa spp.
+were reported to have the ability to acetogenetically grow on diverse array of methoxylated aromatic
+compounds, such as vanillate, ferulate, and 3,4-dimethoxybenzoate, via respective O-demethylation
+reactions29,30. These findings suggested that Sporomusa spp. contribute to the initial step of anaerobic
+degradation of the lignin-derived aromatics in the enrichments, namely the conversion of vanillate and
+syringate into PCA and gallate, respectively.
+In the enrichments on vanillate and its degradation intermediates (PCA and catechol), the phylotypes
+classified into family Peptococcaceae were dominant, while the dominant phylotypes varied among the
+supplemented aromatic compounds (Fig. 4B and Table S2). The phylogenetic tree based on 16S rRNA
+gene sequences of representative Peptococcaceae isolates and the Peptococcaceae phylotypes detected in this
+study is shown in Fig. 5A. The dominant phylotypes ArB-04 (96.8% identity to Pelotomaculum schinkii)
+and ArB-06 (98.4% identity to Cryptanaerobacter phenolicus) were clustered into the Desulfotomaculum
+subcluster Ih31. Microorganisms in the Desulfotomaculum subcluster Ih were characterized by their
+ability to anaerobically metabolize various organic substrates in syntrophic association with hydrogenotrophic methanogens32. Furthermore, Desulfotomaculum subcluster Ih includes some strains that syntrophically degrade a range of aromatic compounds33,34 and was frequently detected as the dominant
+Scientific Reports | 5:14295 | DOI: 10.1038/srep14295
+
+6
+
+www.nature.com/scientificreports/
+
+Figure 6. The proposed models for methanogenic degradation of vanillate (A) and syringate (B) in the
+enrichment cultures. Microorganisms expected to catalyze each reaction are presented in bold letters. Gray
+arrows represent reactions with unidentified pathway(s).
+
+bacteria in microbial communities that anaerobically degrade diverse aromatic compounds35–38. The
+other dominant phylotype ArB-05 (97.9% identity to Desulfosporosinus auripigmenti) was separately
+clustered from ArB-04 and -06 and affiliated with genus Desulfosporosinus (Fig. 5A). Desulfosporosinus
+spp. were generally characterized as sulfate-reducing bacteria and its syntrophic metabolism with methanogens has not been tested39. However, all crucial domains for syntrophic metabolisms were found in
+the genome of Desulfosporosinus meridiei, suggesting their possible ability to grow in syntrophic association with methanogens40. While there have been no reports on degradation of aromatic compounds
+by Desulfosporosinus spp., sequences related to Desulfosporosinus were frequently recovered from various
+aromatics-degrading microbial communities41–43. Taken together, it is very likely that the Peptococcaceae
+phylotypes mainly contributed to the ring-cleavage of the vanillate and/or its degradation intermediates
+via syntrophic interaction with hydrogenotrophic methanogens.
+The phylotypes classified into family Ruminococcaceae were dominant in the enrichments with syringate and gallate (Fig. 4B and Table S2). The phylogenetic tree for family Ruminococcaceae is shown in
+Fig. 5B. One of the phylotypes, ArB-08, was not clustered with known Ruminococcaceae isolates and
+has only quite low 16S rRNA gene sequence identity to isolated microorganisms (92.0% identity to
+Acetivibrio sp. 6–13). The other dominant phylotype ArB-09 (97.1% identity to Intestinimonas butyriciproducens) was placed within the “Clostridium cluster IV44,45”. Although the closest relative of ArB09 (I. butyriciproducens) has not been reported to degrade aromatic compounds46, some strains in the
+Clostridium cluster IV were reported to fermentatively decompose diverse aromatic compounds. For
+example, Flavonifractor plautii (formerly Clostridium orbiscindens) has the ability to degrade flavonoids
+via phloroglucinol (1,3,5-trihydroxybenzene) as the intermediate47. Most notably, Sporobacter termitidis
+grows exclusively on a limited range of methoxylated aromatic compounds, including syringate and
+vanillate, through their O-demethylation and ring cleavage17. These reports support the assumption that
+the Ruminococcaceae phylotypes dominant in the syringate- and gallate-enrichments mainly contributed
+to their ring cleavage.
+
+Proposed model for methanogenic degradation of vanillate and syringate. The proposed
+
+models for methanogenic degradation of the lignin-derived aromatics are shown in Fig. 6. Analysis on
+degradation intermediates and microbial communities in the enrichments suggested that vanillate is firstly
+converted into PCA by Sporomusa spp. with acetate generation via O-demethylation reactions (Fig. 6A).
+Peptococcaceae bacteria (Desulfotomaculum subcluster Ih and/or Desulfosporosinus spp.) are the plausible
+candidates for decomposing PCA into acetate and H2/CO2, which are the substrates for methanogenesis
+by aceticlastic methanogens (Methanosarcina spp.) and hydrogenotrophic methanogens (Methanoculleus
+and Methanocella spp.), respectively. Anaerobic degradation of PCA has been investigated for some
+Scientific Reports | 5:14295 | DOI: 10.1038/srep14295
+
+7
+
+www.nature.com/scientificreports/
+nitrate- and sulfate-reducing bacteria20,21, by which PCA is firstly activated to protocatechuyl-CoA and
+reductively dehydroxylated to 3-HB-CoA, followed by ring cleavage via the (3-hydroxy)benzoyl-CoA
+pathway. However, we could not confirm the existence of this degradation pathway in the enrichment
+cultures, because CoA-derivatives of aromatic compounds could not be detected by our analytical protocol. Instead, catechol and 3-HB were detected as the possible intermediate compounds through degradation of PCA (Fig. 2A). Although there have been no reports on microbial enzymes that dehydroxylate
+PCA into 3-HB under anoxic conditions, it might be possible that certain bacteria utilize such reaction
+followed by CoA activation and ring cleavage via (3-hydroxy)benzoyl-CoA pathway. While enzymatic
+activities to generate catechol by decarboxylation of PCA were reported for some anaerobic microorganisms48,49, further catechol degradation routes have not been identified. Some nitrate- and sulfate-reducing
+bacteria were reported to decompose catechol20,50. These bacteria initially convert catechol into PCA by
+carboxylation, followed by activation with CoA-ligation, dehydroxylation and reductive ring cleavage
+via the (3-hydroxy)benzoyl-CoA pathway. Although there are some reports on anaerobic degradation
+of catechol under methanogenic conditions51–53, the responsible microorganisms and the degradation
+pathway were not identified.
+As in the case of vanillate, the first step of syringate degradation appears to be acetogenic
+O-demethylation catalyzed by Sporomusa spp. (Fig. 6B). The demethoxylated product, gallate, seems to
+be further decomposed into acetate and H2/CO2 mainly by Ruminococcaceae bacteria. Anaerobic degradation of gallate were reported for some fermenting bacteria, including E. oxidoreducens, which is classified into Firmicutes and distantly related to the Ruminococcaceae phylotypes detected in this study22,23.
+E. oxidoreducens initially converts gallate into trihydroxybenzene by decarboxylation reaction, followed
+by ring cleavage via the phloroglucinol pathway22. Although the decarboxylated products of gallate were
+not detected in this study, it is highly possible that the trihydroxybenzene degradation is much faster
+than its generation.
+
+Concluding remarks. In this study, we successfully enriched methanogenic microbial communities
+that decompose the lignin-derived monoaromatics, namely syringate and vanillate. This study is the first
+to demonstrate that cooperation of microorganisms with a diverse range of trophic groups are required
+for methanogenic degradation of the lignin-derived aromatics. The initial step appears to be catalyzed
+by Sporomusa spp. that generate acetate via O-demethylation of the methoxylated aromatics. The resultant demethoxylated aromatics were decomposed into acetate and H2/CO2 by Firmicutes bacteria, while
+the bacterial groups responsible for PCA (family Peptococcaceae) and gallate (family Ruminococcaceae)
+were not identical. Finally, both aceticlastic and hydrogenotrophic methanogens generate methane from
+acetate and H2/CO2, respectively. Although the details in the pathway of aromatic ring cleavage have
+not been characterized, isolation of aromatics-degrading Peptococcaceae and Ruminococcaceae strains
+identified in this study followed by genomic and enzymatic studies will shed light on novel aspects of
+methanogenic degradation of lignin-derived aromatics in anaerobic environments.
+
+Methods
+
+Enrichment cultures of methanogenic microbial communities. Methanogenic microbial com-
+
+munities were enriched in serum bottles (68 ml in capacity) filled with 20 ml of a bicarbonate- and
+HEPES-buffered freshwater basal medium (pH 7.0)54 supplemented with aromatic compounds (benzoate, vanillate, or syringate) as a substrate. The cultures without supplementation of organic substrates
+were also prepared as a no-amendment control. Approximately 50 mg (wet weight) of rice paddy field soil
+was inoculated as a microbial source. The cultures were incubated at 30 °C under an atmosphere of N2/
+CO2 [80:20 (v/v)] without shaking. When methanogenesis reached a plateau, 0.5 ml of culture solution
+was transferred to the fresh media. Enrichment cultures on PCA/catechol and gallate were constructed
+in the same medium with the vanillate- and syringate-enrichments as the inoculum, respectively. After
+more than three passages, the enrichment cultures were subjected to chemical and phylogenetic analyses.
+All culture experiments were conducted in triplicate.
+
+Chemical analyses. The partial pressure of CH4 was determined using a gas chromatograph (GC-
+
+2014, Shimadzu) as described previously55. The concentrations of organic acids were determined using
+a HPLC (D-2000 LaChrom Elite HPLC system, HITACHI) as described previously56. To identify metabolic intermediates, the authentic compounds and supernatant of enrichment cultures were analyzed by
+HPLC (ACQUITY UPLC system, Waters) coupled with ESI-MS (ACQUITY TQ detector, Waters) using
+a TSKgel ODS-140HTP column (2.1 by 100 mm, Tosoh) as described previously57. In the HPLC analysis,
+the mobile phase was a 90:10 (v/v) water:acetonitrile at a flow rate of 0.3 ml/min. Formic acid (0.1%) was
+added to the mobile phase solvent as a means of increasing ionization efficiency for ESI-MS. Degradation
+products of vanillate and syringate were detected at the wavelength of 220 nm and 270 nm, respectively. Wavelength for the detection and the retention times of authentic compounds were described in
+Figs S2 and S3. In the ESI-MS analysis, mass spectra were obtained by negative and positive modes with
+the following settings: capillary voltage, 3.0 kv; cone voltage, 10 to 40 V; source temperature, 120 °C; desolvation temperature, 350 °C; desolvation gas flow rate, 650 liter h−1; and cone gas flow rate, 50 liter h−1.
+Scientific Reports | 5:14295 | DOI: 10.1038/srep14295
+
+8
+
+www.nature.com/scientificreports/
+Phylogenetic analyses. Microbial DNA was extracted with the FAST DNA Spin Kit for soil (MP
+Biomedicals) according to the manufacturer’s instructions. PCR amplification of 16S rRNA gene fragments for clone library analyses was conducted as described previously58, with primer sets of U515f and
+U1492r for bacteria and A25f and A958r for archaea59. The sequences obtained were assigned to each
+phylotype using BLASTClust program60 with a cut-off value of 97% sequence identity. Classification of
+phylotypes was performed using the Classifier program in the Ribosomal Database Project database61.
+The sequence of each phylotype was compared to those stored in the GenBank nucleotide sequence
+database using the BLAST program60 to infer the closest relatives. Phylogenetic trees were constructed
+by the neighbor-joining method62 using program MEGA63. The bootstrap resampling method64 was used
+with 1000 replicates to evaluate the robustness of the phylogenetic trees.
+Nucleotide sequence accession numbers. The nucleotide sequence data reported here have been
+submitted to GenBank under Accession No. LC036665–LC036702.
+
+References
+
+1. Zimmermann, W. Degradation of lignin by bacteria. J. Bacteriol. 13, 119–130 (1990).
+2. Martínez, A. T. et al. Biodegradation of lignocellulosics: microbial, chemical, and enzymatic aspects of the fungal attack of lignin.
+Int. Microbiol. 8, 195–204 (2005).
+3. Bugg, T. D., Ahmad, M., Hardiman, E. M. & Rahmanpour, R. Pathways for degradation of lignin in bacteria and fungi. Nat. Prod.
+Rep. 28, 1883–1896 (2011).
+4. Masai, E., Katayama, Y. & Fukuda, M. Genetic and biochemical investigations on bacterial catabolic pathways for lignin-derived
+aromatic compounds. Biosci. Biotechnol. Biochem. 71, 1–15 (2007).
+5. Abe, T., Masai, E., Miyauchi, K., Katayama, Y. & Fukuda, M. A tetrahydrofolate-dependent O-demethylase, LigM, is crucial for
+catabolism of vanillate and syringate in Sphingomonas paucimobilis SYK-6. J. Bacteriol. 187, 2030–2037 (2005).
+6. Kasai, D., Masai, E., Katayama, Y. & Fukuda, M. Degradation of 3-O-methylgallate in Sphingomonas paucimobilis SYK-6 by
+pathways involving protocatechuate 4,5-dioxygenase. FEMS Microbiol. Lett. 274, 323–328 (2007).
+7. Kamimura, N. & Masai, E. The protocatechuate 4,5-cleavage pathway: Overview and new findings. In Biodegradative Bacteria.
+Nojiri, H., Tsuda, M., Fukuda, M. & Kamagata, Y. (eds). Springer Japan, pp. 207–226 (2014).
+8. Hackett, W. F., Connors, W. J., Kirk, T. K. & Zeikus, J. G. Microbial decomposition of synthetic 14C-labeled lignins in nature:
+lignin biodegradation in a variety of natural materials. Appl. Environ. Microbiol. 33, 43–51 (1977).
+9. Benner, R., Maccubbin, A. E. & Hodson, R. E. Anaerobic biodegradation of the lignin and polysaccharide components of
+lignocellulose and synthetic lignin by sediment microflora. Appl. Environ. Microbiol. 47, 998–1004 (1984).
+10. Young, L. Y. & Frazer, A. C. The fate of lignin and lignin-derived compounds in anaerobic environments. Geomicrobiol. J. 5,
+261–293 (1987).
+11. Cookson, L. J. The site and mechanism of 14C-lignin degradation by Nasutitermes exitiosus. J. Insect. Physiol. 34, 409–414 (1988).
+12. Dittmar, T. & Lara, R. Molecular evidence for lignin degradation in sulfate-reducing mangrove sediments (Amazonia, Brazil).
+Geochim. Cosmochim. Acta 65, 1417–1428 (2001).
+13. Ko, J. J. et al. Biodegradation of high molecular weight lignin under sulfate reducing conditions: lignin degradability and
+degradation by-products. Bioresource Technol. 100, 1622–1627 (2009).
+14. Bache, R. & Pfennig, N. Selective isolation of Acetobacterium woodii on methoxylated aromatic acids and determination of
+growth yields. Arch. Microbiol. 130, 255–261 (1981).
+15. Daniel, S. L., Keith, E. S., Yang, H., Lin, Y. S. & Drake, H. L. Utilization of methoxylated aromatic compounds by the acetogen
+Clostridium thermoaceticum: expression and specificity of the co-dependent O-demethylating activity. Biochem. Biophys. Res.
+Commun. 180, 416–422 (1991).
+16. Tasaki, M., Kamagata, Y., Nakamura, K. & Mikami, E. Utilization of methoxylated benzoates and formation of intermediates by
+Desulfotomaculum thermobenzoicum in the presence or absence of sulfate. Arch. Microbiol. 157, 209–212 (1992).
+17. Grech-Mora, I. et al. Isolation and characterization of Sporobacter termitidis gen. nov., sp. nov., from the digestive tract of the
+wood-feeding termite Nasutitermes lujae. Int. J. Syst. Bacteriol. 46, 512–518 (1996).
+18. Mechichi, T., Labat, M., Garcia, J., Thomas, P. & Pate, B. K. C. Sporobacterium olearium gen. nov., a new methanethiol-producing
+bacterium that degrades aromatic compounds, isolated from an olive mill wastewater treatment digester. Int. J. Syst. Bacteriol.
+49, 1741–1748 (1999).
+19. Neumann, A. et al. Phenyl methyl ethers: novel electron donors for respiratory growth of Desulfitobacterium hafniense and
+Desulfitobacterium sp. strain PCE-S. Arch. Microbiol. 181, 245–249 (2004).
+20. Gorny, N. & Schink, B. Anaerobic degradation of catechol by Desulfobacterium sp. strain Cat2 proceeds via carboxylation to
+protocatechuate. Appl. Environ. Microbiol. 60, 3396–3400 (1994).
+21. Philipp, B. et al. Anaerobic degradation of protocatechuate (3,4-dihydroxybenzoate) by Thauera aromatica strain AR-1. FEMS
+Microbiol. Lett. 212, 139–143 (2002).
+22. Krumholz, L. R. & Bryant, M. P. Characterization of the pyrogallol-phloroglucinol isomerase of Eubacterium oxidoreducens. J.
+Bacteriol. 170, 2472–2479 (1988).
+23. Brune, A. & Schink, B. Phloroglucinol pathway in the strictly anaerobic Pelobacter acidigallici: fermentation of trihydroxybenzenes
+to acetate via triacetic acid. Arch. Microbiol. 157, 417–424 (1992).
+24. Kaiser, J. & Hanselmann, K. Fermentative metabolism of substituted monoaromatic compounds by a bacterial community from
+anaerobic sediments. Arch. Microbiol. 133, 185–194 (1982).
+25. Peters, F., Shinoda, Y., McInerney, M. J. & Boll, M. Cyclohexa-1,5-diene-1-carbonyl-coenzyme A (CoA) hydratases of Geobacter
+metallireducens and Syntrophus aciditrophicus: Evidence for a common benzoyl-CoA degradation pathway in facultative and
+strict anaerobes. J. Bacteriol. 189, 1055–1060 (2007).
+26. Fuchs, G., Boll, M. & Heider, J. Microbial degradation of aromatic compounds - from one strategy to four. Nat. Rev. Microbiol.
+9, 803–816 (2011).
+27. Jackson, B. & Bhupathiraju, V. Syntrophus aciditrophicus sp. nov., a new anaerobic bacterium that degrades fatty acids and
+benzoate in syntrophic association with hydrogen-using microorganisms. Arch. Microbiol. 171, 107–114 (1999).
+28. McInerney, M. J. et al. The genome of Syntrophus aciditrophicus: life at the thermodynamic limit of microbial growth. Proc. Natl.
+Acad. Sci. USA 104, 7600–7605 (2007).
+29. Stupperich, E. & Konle, R. Corrinoid-dependent methyl transfer reactions are involved in methanol and 3,4-dimethoxybenzoate
+metabolism by Sporomusa ovata. Appl. Environ. Microbiol. 59, 3110–3116 (1993).
+30. Kuhner, C. H. et al. Sporomusa silvacetica sp, nov., an acetogenic bacterium isolated from aggregated forest soil. Int. J. Syst.
+Bacteriol. 47, 352–358 (1997).
+
+Scientific Reports | 5:14295 | DOI: 10.1038/srep14295
+
+9
+
+www.nature.com/scientificreports/
+31. Stackebrandt, E. et al. Phylogenetic analysis of the genus Desulfotomaculum: evidence for the misclassification of Desulfotomaculum
+guttoideum and description of Desulfotomaculum orientis as Desulfosporosinus orientis gen. nov., comb. nov. Int. J. Syst. Bacteriol.
+47, 1134–1139 (1997).
+32. Imachi, H., Sekiguchi, Y. & Kamagata, Y. Non-sulfate-reducing, syntrophic bacteria affiliated with Desulfotomaculum cluster I are
+widely distributed in methanogenic environments. Appl. Environ. Microbiol. 72, 2080–2091 (2006).
+33. Juteau, P. et al. Cryptanaerobacter phenolicus gen. nov., sp. nov., an anaerobe that transforms phenol into benzoate via
+4-hydroxybenzoate. Int. J. Syst. Evol. Microbiol. 55, 245–250 (2005).
+34. Qiu, Y.L. et al. Pelotomaculum terephthalicum sp. nov. and Pelotomaculum isophthalicum sp. nov.: two anaerobic bacteria that
+degrade phthalate isomers in syntrophic association with hydrogenotrophic methanogens. Arch. Microbiol. 185, 172–182 (2006).
+35. Chen, C. L., Wu, J. H. & Liu, W. T. Identification of important microbial populations in the mesophilic and thermophilic phenoldegrading methanogenic consortia. Water Res. 42, 1963–1976 (2008).
+36. Kleinsteuber, S. et al. Molecular characterization of bacterial communities mineralizing benzene under sulfate-reducing
+conditions. FEMS Microbiol. Ecol. 66, 143–157 (2008).
+37. Winderl, C., Penning, H., Netzer, F., Meckenstock, R. U. & Lueders, T. DNA-SIP identifies sulfate-reducing Clostridia as important
+toluene degraders in tar-oil-contaminated aquifer sediment. ISME J. 4, 1314–1325 (2010).
+38. Perkins, S. D., Scalfone, N. B. & Angenent, L. T. Comparative 16S rRNA gene surveys of granular sludge from three upflow
+anaerobic bioreactors treating purified terephthalic acid (PTA) wastewater. Water Sci. Technol. 64, 1406–1412 (2011).
+39. Robertson, W. J., Bowman, J. P., Franzmann, P. D. & Mee, B. J. Desulfosporosinus meridiei sp. nov., a spore-forming sulfatereducing bacterium isolated from gasolene-contaminated groundwater. Int. J. Syst. Evol. Microbiol. 51, 133–140 (2001).
+40. Worm, P. et al. A genomic view on syntrophic versus non-syntrophic lifestyle in anaerobic fatty acid degrading communities.
+Biochim. Biophys. Acta 1837, 2004–2016 (2014).
+41. Sun, W. & Cupples, A. M. Diversity of five anaerobic toluene-degrading microbial communities investigated using stable isotope
+probing. Appl. Environ. Microbiol. 78, 972–980 (2012).
+42. Kuppardt, A. et al. Phylogenetic and functional diversity within toluene-degrading, sulphate-reducing consortia enriched from
+a contaminated aquifer. Microb. Ecol. 68, 222–234 (2014).
+43. Fowler, S. J., Gutierrez-Zamora, M. L., Manefield, M. & Gieg, L. M. Identification of toluene degraders in a methanogenic
+enrichment culture. FEMS Microbiol. Ecol. 89, 625–636 (2014).
+44. Collins, M. D. et al. The phylogeny of the genus Clostridium: proposal of five new genera and eleven new species combinations.
+Int. J. Syst. Bacteriol. 44, 812–826 (1994).
+45. Carlier, J. P., Bedora-Faure, M., K’ouas, G., Alauzet, C. & Mory, F. Proposal to unify Clostridium orbiscindens Winter et al. 1991
+and Eubacterium plautii (Séguin 1928) Hofstad and Aasjord 1982, with description of Flavonifractor plautii gen. nov., comb. nov.,
+and reassignment of Bacteroides capillosus to Pseudoflavonifractor capillosus gen. nov., comb. nov. Int. J. Syst. Evol. Microbiol. 60,
+585–590 (2010).
+46. Kläring, K. et al. Intestinimonas butyriciproducens gen. nov., sp. nov., a butyrate-producing bacterium from the mouse intestine.
+Int. J. Syst. Evol. Microbiol. 63, 4606–4612 (2013).
+47. Schoefer, L., Mohan, R., Schwiertz, A., Braune, A. & Blaut, M. Anaerobic degradation of flavonoids by Clostridium orbiscindens.
+Appl. Environ. Microbiol. 69, 5849–5854 (2003).
+48. He, Z. & Wiegel, J. Purification and characterization of an oxygen-sensitive, reversible 3,4-dihydroxybenzoate decarboxylase from
+Clostridium hydroxybenzoicum. J. Bacteriol. 178, 3539–3543 (1996).
+49. Ostermann, A., Gallus, C. & Schink, B. Decarboxylation of 2,3-dihydroxybenzoate to catechol supports growth of fermenting
+bacteria. Curr. Microbiol. 35, 270–273 (1997).
+50. Ding, B., Schmeling, S. & Fuchs, G. Anaerobic metabolism of catechol by the denitrifying bacterium Thauera aromatica - a result
+of promiscuous enzymes and regulators? J. Bacteriol. 190, 1620–1630 (2008).
+51. Szewzyk, U., Szewzyk, R. & Schink, B. Methanogenic degradation of hydroquinone and catechol via reductive dehydroxylation
+to phenol. FEMS Microbiol. Ecol. 31, 79–87 (1985).
+52. Subramanyam, R. & Mishra, I. M. Biodegradation of catechol (2-hydroxy phenol) bearing wastewater in an UASB reactor.
+Chemosphere 69, 816–824 (2007).
+53. Kuschk, P. et al. Batch methanogenic fermentation experiments of wastewater from a brown coal low-temperature coke plant.
+J. Environ. Sci. 22, 192–197 (2010).
+54. Kato, S., Yumoto, I. & Kamagata, Y. Isolation of acetogenic bacteria that induce biocorrosion by utilizing metallic iron as the sole
+electron donor. Appl. Environ. Microbiol. 81, 67–73 (2015).
+55. Kato, S., Sasaki, K., Watanabe, K., Yumoto, I. & Kamagata, Y. Physiological and transcriptomic analyses of a thermophilic,
+aceticlastic methanogen Methanosaeta thermophila responding to ammonia stress. Microbes Environ. 29, 162–167 (2014).
+56. Kato, S. et al. The effects of elevated CO2 concentration on competitive interaction between aceticlastic and syntrophic
+methanogenesis in a model microbial consortium. Front. Microbiol. 5, 575 (2014).
+57. Kamimura, N. et al. Characterization of the protocatechuate 4,5-cleavage pathway operon in Comamonas sp. strain E6 and
+discovery of a novel pathway gene. Appl. Environ. Microbiol. 76, 8093–8101 (2010).
+58. Kato, S., Kai, F., Nakamura, R., Watanabe, K. & Hashimoto, K. Respiratory interactions of soil bacteria with (semi)conductive
+iron-oxide minerals. Environ. Microbiol. 12: 3114–3123 (2010).
+59. Dojka, M. A., Hugenholtz, P., Haack, S. K. & Pace, N. R. Microbial diversity in a hydrocarbon- and chlorinated-solventcontaminated aquifer undergoing intrinsic bioremediation. Appl. Environ. Microbiol. 64, 3869–3877 (1998).
+60. Altschul, S. F. et al. Gapped BLAST and PSI-BLAST: a new generation of protein database search programs. Nucleic Acids Res.
+25, 3389–3402 (1997).
+61. Wang, Q., Garrity, G. M., Tiedje, J. M. & Cole, J. R. Naive Bayesian classifier for rapid assignment of rRNA sequences into the
+new bacterial taxonomy. Appl. Environ. Microbiol. 73, 5261–5267 (2007).
+62. Saitou, N. & Nei, M. The neighbor-joining method: a new method for reconstructing phylogenetic trees. Mol. Biol. Evol. 4,
+406–425 (1987).
+63. Tamura, K., Dudley, J., Nei, M. & Kumar, S. MEGA4: Molecular Evolutionary Genetics Analysis (MEGA) software version 4.0.
+Mol. Biol. Evol. 24, 1596–1599 (2007).
+64. Felsenstein, J. Confidence limits on phylogenies: an approach using the bootstrap. Evolution 39, 783–791 (1985).
+
+Acknowledgements
+
+We thank Dr. Mia Terashima for critical reading of the manuscript and Hiromi Ikebuchi for technical
+assistance. This work was supported by grants from the Japan Society for the Promotion of Science
+(JSPS).
+
+Scientific Reports | 5:14295 | DOI: 10.1038/srep14295
+
+10
+
+www.nature.com/scientificreports/
+
+Author Contributions
+
+S.K. designed the experiments, carried out the culture experiments and microbial community analysis,
+analyzed the data, and wrote the paper. K.C. carried out the culture experiments and microbial community
+analysis. N.K. and E.M. carried out the ESI-MS experiments and analyzed the data. I.Y. and Y.K. were
+involved in the design of the experiments and helped interpret the data. All authors reviewed the paper.
+
+Additional Information
+
+Supplementary information accompanies this paper at http://www.nature.com/srep
+Competing financial interests: The authors declare no competing financial interests.
+How to cite this article: Kato, S. et al. Methanogenic degradation of lignin-derived monoaromatic
+compounds by microbial enrichments from rice paddy field soil. Sci. Rep. 5, 14295; doi: 10.1038/
+srep14295 (2015).
+This work is licensed under a Creative Commons Attribution 4.0 International License. The
+images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the
+Creative Commons license, users will need to obtain permission from the license holder to reproduce
+the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+
+Scientific Reports | 5:14295 | DOI: 10.1038/srep14295
+
+11
+
+

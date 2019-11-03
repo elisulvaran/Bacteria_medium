@@ -1,0 +1,1153 @@
+Appl Microbiol Biotechnol (2010) 88:595–603
+DOI 10.1007/s00253-010-2788-8
+
+ENVIRONMENTAL BIOTECHNOLOGY
+
+(Per)chlorate reduction by an acetogenic bacterium,
+Sporomusa sp., isolated from an underground gas storage
+Melike Balk & Farrakh Mehboob &
+Antonie H. van Gelder & W. Irene C. Rijpstra &
+Jaap S. Sinninghe Damsté & Alfons J. M. Stams
+
+Received: 12 March 2010 / Revised: 16 July 2010 / Accepted: 16 July 2010 / Published online: 3 August 2010
+# The Author(s) 2010. This article is published with open access at Springerlink.com
+
+Abstract A mesophilic bacterium, strain An4, was isolated
+from an underground gas storage reservoir with methanol
+as substrate and perchlorate as electron acceptor. Cells were
+Gram-negative, spore-forming, straight to curved rods, 0.5–
+0.8 μm in diameter, and 2–8 μm in length, growing as
+single cells or in pairs. The cells grew optimally at 37°C,
+and the pH optimum was around 7. Strain An4 converted
+various alcohols, organic acids, fructose, acetoin, and
+H2/CO2 to acetate, usually as the only product. Succinate
+was decarboxylated to propionate. The isolate was able to
+respire with (per)chlorate, nitrate, and CO2. The G+C
+content of the DNA was 42.6 mol%. Based on the 16S
+rRNA gene sequence analysis, strain An4 was most closely
+related to Sporomusa ovata (98% similarity). The bacterium
+reduced perchlorate and chlorate completely to chloride.
+Key enzymes, perchlorate reductase and chlorite dismutase,
+were detected in cell-free extracts.
+
+The GenBank accession number for the 16S rRNA sequence of
+Sporomusa sp. is EF060193
+M. Balk : F. Mehboob : A. H. van Gelder : A. J. M. Stams
+Laboratory of Microbiology, Wageningen University,
+Dreijenplein 10,
+6703 HB Wageningen, The Netherlands
+W. I. C. Rijpstra : J. S. S. Damsté
+Department of Marine Organic Biogeochemistry,
+NIOZ Royal Netherlands Institute, Sea Research,
+P.O. Box 59, 1790 AB Den Burg, Texel, The Netherlands
+Present Address:
+M. Balk (*)
+Department of Microbial Ecology,
+Netherlands Institute of Ecology (NIOO-KNAW),
+Rijksstraatweg 6,
+3631 AC Nieuwersluis, The Netherlands
+e-mail: M.Balk@nioo.knaw.nl
+
+Keywords Sporomusa sp. . Perchlorate .
+Underground gas storage
+
+Introduction
+Perchlorate and chlorate are used in a wide range of
+applications. Chlorate is used as an herbicide or defoliant.
+Perchlorate salts have been manufactured in large quantities
+and used as ingredients in solid rocket fuels, highway safety
+flares, air bag inflators, fireworks, and matches (Renner
+1998; Logan 2001; Motzer 2001). Perchlorate is chemically
+very stable and has low reactivity even in highly reducing
+environments (Logan 1998). Inorganic perchlorate salts are
+generally soluble. Mishandling of these compounds has led
+to harmful concentrations in soil, groundwater, and drinking
+water supplies (Renner 1998; Urbansky and Schock 1999;
+Hogue 2003).
+Perchlorate is reported to interrupt human thyroid
+hormone production (Urbansky 1998). Therefore, its
+occurrence in dairy and breast milk are of major concern
+(Kirk et al. 2005; Dyke et al. 2007; Dasgupta et al. 2008).
+Although perchlorate is chemically stable, many studies
+have proven that microorganisms can convert perchlorate to
+chloride under anaerobic conditions (i.e., Attaway and
+Smith 1993; Rikken et al. 1996; Bruce et al. 1999; Coates
+et al. 1999; Herman and Frankenberger 1999; Giblin et al.
+2000; Logan et al. 2001).
+Many mesophilic perchlorate-reducing mixed and pure
+cultures have been described, and so far, all of the isolates
+obtained are members of the Proteobacteria, with the
+majority of the isolates belonging to the Betaproteobacteria
+subclass (Wallace et al. 1996; Bruce et al. 1999; Herman
+and Frankenberger 1999; Logan 2001; Wu et al. 2001;
+Wolterink et al. 2002; 2005; Weelink et al. 2008; Thrash et
+
+596
+
+Appl Microbiol Biotechnol (2010) 88:595–603
+
+Materials and methods
+
+37°C. The culture was repeatedly transferred to fresh
+medium when methanol and perchlorate were consumed.
+Serial dilutions of the sample from the underground gas
+storage were prepared in liquid media containing 20 mM of
+methanol and 10 mM of perchlorate. The highest dilution
+showing growth at 37°C was used for further study. The
+culture was diluted in agar media (1.8%, w/v, Agar Noble)
+in the serum vials. Colonies from the highest dilution were
+picked, and serial agar and liquid dilutions were repeated
+until a pure culture was obtained. The pure culture was
+designated strain An4.
+Cell morphology and purity were examined with a
+phase-contrast microscope. Gram-staining was carried out
+according to the standard procedure (Doetsch 1981).
+
+Source of inoculum
+
+Substrate utilization tests
+
+The sample was obtained from the liquid phase of
+underground gas storage reservoir in the period of gas
+extraction as described by Ivanova et al. (2007). The dry
+weight of the sample was about 700 mgl−1. It contained the
+following minerals; Fe(II) (140 mgl−1), NH4+ (2.8 mgl−1),
+K+ (2.6 mgl−1), Na+ (18 mgl−1), Mg2+ (4.4 mgl−1), Ca2+
+(27 mgl−1), NO3− (<1 mgl−1), SO42− (3.6 mgl−1), and
+Cl− (57 mgl−1). The pH of the sample was 6.8. Although
+the initial temperature in the sampling place was around
+60–65°C, after the injection of the cold gas (20–23°C), the
+temperature became around 37°C (personal communication,
+Dr. Anna Ivanova).
+
+The ability of strain An4 to metabolize substrates was tested
+in the bicarbonate-buffered medium. Substrates were added
+from sterile anoxic concentrated stock solutions. To test
+he use of potential electron acceptors on methanol, lactate,
+and fructose, sodium perchlorate (10 mM), sodium chlorate
+(10 mM), sodium sulfate (20 mM), sodium thiosulfate
+(20 mM), sodium sulfite (5 mM), FeCl3 (10 mM), Fe(III)NTA (10 mM), Fe(III)-citrate (10 mM), anthraquinone-2,
+6-disulfonate (AQDS) (20 mM), and sodium nitrate
+(10 mM) were added to the medium. Fe(III)-NTA was
+prepared as described by Caldwell et al. (1999).
+
+al. 2010). Only recently, a (per)chlorate-reducing member,
+Moorella perchloratireducens, belonging to the Firmicutes,
+was isolated (Balk et al. 2008). This isolate is an
+acetogenic, thermophilic, and Gram-positive species.
+However, so far, perchlorate utilization has not been
+reported for acetogenic bacteria in this phylum that grow
+under mesophilic conditions. This report represents the
+description of a mesophilic acetogenic (per)chloraterespiring bacterium. The isolation and characterization
+of strain An4 from underground gas storage in Russia
+are described.
+
+16S RNA sequence analysis and G+C content of DNA
+Culture medium
+The culture medium for enrichment, isolation, and maintenance of strain An4 was prepared as described by Stams et al.
+(1993), except that (per)chlorate was tested without the
+addition of sulfide. Unless stated otherwise, all cultivations
+were carried out at 37°C. The cultures were routinely grown
+in 117-ml serum vials with butyl rubber stoppers and
+aluminum crimp seals. The vials contained 50-ml basal
+medium and a gas phase of 1.7-bar N2/CO2 (80/20%, v/v).
+Concentrated stock solutions of substrates were prepared
+anoxically, sterilized by filtration and added to the medium
+to final concentrations of 5–20 mM. The pH of the medium
+was 7. By varying the CO2 concentration in the headspace
+and adding a few drops of 0.1 N HCl or NaOH per vial, the
+pH of the medium could be adjusted within the range of
+5.5–8.5. In all growth experiments in liquid medium, the
+inoculum size was 1% (v/v).
+Enrichment and isolation of strain An4
+The enrichment culture was cultivated in a bicarbonatebuffered medium containing methanol and perchlorate at
+
+For the phylogenetic characterization of strain An4, DNA
+was extracted and purified using the UltraClean Soil DNA
+kit (MoBio) according to the manufacturer’s instructions.
+PCR was performed with the bacterial primers 7f and 1510r
+(Lane 1991) by using the Taq DNA polymerase kit (Life
+Technologies) to amplify the bacterial 16S rRNA gene. The
+PCR products were purified with the Qiaquick PCR
+purification kit (Qiagen, Hilden, Germany) according to
+the manufacturer’s instructions. Sequencing of the complete
+16S rRNA gene was performed at Westburg Genomics
+(http://genomics.westburg.nl). A total of 1,386 nucleotides
+of the 16S rRNA gene were sequenced. The sequences
+were checked with the alignment programs of the ARB
+package (Ludwig et al. 2004), and a rooted neighborjoining tree (Escherichia coli 8, D83536 positions 38–
+1427) was constructed using Dechloromonas hortensis
+(DSM 15637) as an outgroup. On-line similarity analysis
+of the 16S rRNA gene sequences was performed with the
+BLAST program at NCBI and EMBL databases.
+The G+C content of the DNA was determined by using
+HPLC method described by Mesbah et al. (1989) at the
+Deutsche Sammlung von Mikroorganismen und Zellkulturen
+
+Appl Microbiol Biotechnol (2010) 88:595–603
+
+597
+
+30 and 37°C as it was described by Kengen et al. (1999).
+The assay mixture (1 ml) consisted of 50 mM Tris buffer
+(pH 7.5), 0.5 mM MV, and an appropriate amount of
+enzyme. The assay mixture was prereduced by a small
+amount of a dithionite solution (0.2 M) until an absorbance
+of 1.5 was reached, and then the reaction was started by the
+addition of 10 μl of chlorate (0.4 M) or perchlorate (0.4 M).
+Specific activities were calculated from the linear decrease
+in absorbance, with an extinction coefficient of 9.7 mM−1
+for MV. Chlorite dismutase activity was determined by
+measuring the production of oxygen with a Clark-type
+oxygen electrode (van Ginkel et al. 1996).
+Lipid analysis
+Fig. 1 Phase-contrast micrograph of strain An4. Bar 2.5 μm
+
+GmbH (Braunschweig, Germany). Genomic DNA was
+isolated according to the procedure that was described
+previously (Cashion et al. 1977).
+Analytical methods
+Most substrates were measured by HPLC as previously
+described (Stams et al. 1993). Gasses and alcohols were
+measured by gas chromatography (Balk et al. 2003;
+Henstra and Stams 2004). Perchlorate, chlorate, chloride,
+thiosulfate, nitrate, and sulfate were analyzed by a HPLC
+system equipped with an Ionpac AS9-SC column and an
+ED 40 electrochemical detector (Dionex, Sunnyvale, CA)
+(Scholten and Stams 1995). Perchlorate showed a very
+broad peak in the chromatogram. Therefore, the assessment
+of perchlorate concentration was semi-quantitative. Perchlorate consumption was quantified based on the increase
+in chloride formation. Chloride and chlorate measurements
+by HPLC were very accurate. Sulfide was analyzed by
+the method of Trüper and Schlegel (1964). The protein
+content of the cell extracts was determined according to
+the method of Bradford (1976) with bovine serum albumin
+as a standard.
+Growth was measured as the optical density at 600 nm
+(OD600). Uninoculated medium served as a reference. The
+results are representative of replicate experiments.
+
+Bacterial cultures of strain An4, Sporomusa ovata, and
+Sporomusa aerivorans grown on methanol in the
+bicarbonate-buffered medium were harvested by centrifugation (14,500×g, 20 min, 4°C), and pellets were washed
+with distilled water. Lipids from lyophilized cells were
+extracted ultrasonically using a mixture of dichloromethane
+(DCM):methanol of 2:1 (v/v), and this procedure was
+repeated four times. The residue was saponified with 1 N
+KOH in 96% of methanol by refluxing for 1 h and
+subsequently neutralized and extracted with DCM. After
+addition of internal standards, the “free” and “bound” lipid
+extracts were methylated and silylated and subsequently
+analyzed by GC and GC-mass spectrometry (GC-MS).
+Accession numbers
+The 16S rRNA gene sequence of strain An4 has been
+deposited in the GenBank database under the accession
+number EF060193. The EMBL database accession numbers
+of the strain most closely related to strain An4 is S. ovata
+(DSM 2662) (98% sequence similarity).
+
+Enzyme assays
+Cell extracts used for enzyme assays were obtained from
+cells grown in the medium supplemented with 20 mM of
+methanol and 10 mM of perchlorate. Chlorate, perchlorate,
+and nitrate reductase levels were measured with anoxic
+techniques in stoppered quartz cuvettes, by monitoring the
+oxidation of reduced methyl viologen (MV) at 578 nm and
+
+Fig. 2 Dendrogram showing the position of strain An4 among the
+members of the genus Sporomusa. Phylogenetic analysis based on
+16S rRNA gene sequences available from GenBank data bases. Bar
+evolutionary distance of 0.10
+
+598
+
+Appl Microbiol Biotechnol (2010) 88:595–603
+
+Table 1 Characteristics of strain An4 and related representatives of the genus Sporomusa
+An 4
+
+S. ovataa
+
+S. aerivoransb
+
+S. silvaceticac
+
+Opt. temp(°C)
+Temp. range
+Cell size (μm)
+G+C content (mol%)
+pH range
+Habitat
+H2/SO42−
+H2/CO2
+
+37
+20–40
+0.5–1.3×0.8–3
+42.6
+5.5–8.0
+Underground gas storage
+−
++
+
+34–39
+15–45
+0.7–1.0×1–5
+41.3–42.2
+5.0–8.1
+Silage
+−
++
+
+30
+19–35
+1.3–7.0×0.6–0.7
+ND
+6.2–8.2
+Termite gut
+−
++
+
+25–30
+ND
+3.5×0.7
+43
+6.8
+Forest soil
+−
++
+
+Formate
+CO
+Methanol
+Ethanol
+n-Propanol
+n-Butanol
+1,2-propanediol
+Glycerol
+1,2-Butanediol
+2,3-Butanediol
+Pyruvate
+DL-Lactate
+Fumarate
+Succinate
+Malate
+Glutamate
+Citrate
+Oxaloacetate
+Fructose
+
++
++
++
++
++
++
+−
+−
+−
+−
++
++
+±
++
+±
++
+−
+−
++
+
++
++
++
++
++
++
+±
+−
+ND
+ND
++
++
+−
+−
+ND
+ND
+−
+ND
++
+
++
+ND
++
++
+ND
+ND
+ND
+ND
+ND
+ND
++
++
++
++
++
+−
++
++
+−
+
++
+−
++
++
+ND
+ND
+ND
++
+ND
++
++
++
++
+−
+ND
+ND
+−
+−
++
+
+Glucose
+Mannitol
+Cellobiose
+Alanine
+Betaine
+Sarcosine
+3,4,5-Trimethoxy benzoate
+PCE with methanol
+Nitrate reduction
+(Per)chlorate reduction
+Sulfate reduction
+Thiosulfate reduction
+Sulfite reduction
+Fe-NTA
+
+−
+−
+−
++
++
++
++
++
++
++
+−
+−
+−
+−
+
+−
+−
+ND
+−
++
++
+−
++
++
+−
+−
+−
+−
+ND
+
+−
++
+ND
++
+ND
+ND
++
+ND
+−
+−
+−
+−
+−
+ND
+
+−
+−
+ND
+ND
++
+ND
+
++, −, or ± indicates that growth is positive, negative or no growth observed, or weak or less reproducible growth, respectively
+ND not detected, Fe-NTA iron nitrilotriacetate
+a
+
+Möller et al. (1984)
+
+b
+
+Boga et al. (2003)
+
+c
+
+Kuhner et al. (1997)
+
+ND
+−
+ND
+−
+−
+−
+ND
+
+Appl Microbiol Biotechnol (2010) 88:595–603
+
+599
+
+Results
+Isolation and morphological characterization
+An enrichment culture that grew at 37°C in a perchloratecontaining bicarbonate-buffered medium with methanol as
+the growth substrate was obtained from an underground gas
+storage in Russia. The culture formed mainly acetate and
+chloride as products, but no methane was formed. A pure
+culture of perchlorate-reducing bacteria was obtained by
+using the agar and liquid dilution methods. The pure culture
+was designated strain An4 (=DSM 21435, =JCM 15643).
+Strain An4 is a spore-forming bacterium, and the cells
+are straight to curved rods (Fig. 1). In the stationary
+growth-phase, they formed terminal endospores in clubshaped sporangia. When grown on methanol or fructose,
+the cells were 0.4–0.6 μm in diameter and 2–8 μm in
+length, and on H2/CO2, the cells were 0.4–0.6 μm in
+diameter and 6–8 μm in length. Spores located terminally,
+and cells stained Gram-negative.
+16S rRNA analysis and G+C content
+A phylogenetic analysis of the almost full-length 16S rRNA
+sequence (1,386 bases) revealed that strain An4 is a
+member of the genus Sporomusa within the family
+Acidaminococcaceae of the order Clostridiales of class
+“Clostridia” of the phylum Firmicutes of the domain
+Bacteria (Garrity and Holt 2000) (Fig. 2).
+The closest relative of strain An4 is Sporomusa strain
+DR5 and S. ovata based on 16S rRNA sequence analysis
+(99% and 98% sequence similarity, respectively). Because
+Table 2 Stoichiometry and
+fermentation products of strain
+An4 grown on selected
+substrates
+
+strain DR5 was not deposited in a culture collection
+(personal communication, Dr. Peter H. Janssen), we could
+not study this strain for its physiology. Nevertheless, we
+were able to compare strain An4 with S. ovata (=DSM
+2662) and S. aerivorans (=DSM 13326) in several
+physiological aspects (Table 1).
+The DNA base composition (G+C) of strain An4 was
+42.6 mol%.
+Growth and substrate utilization
+Strain An4 grew between 20°C and 40°C; optimum growth
+occurred at 37°C. It grew optimally at pH 7. Strain An4
+was able to grow on H2/CO2, CO, methanol, ethanol,
+glycerol, n-propanol, n-butanol, glycine, alanine, sarcosine,
+betaine, acetoin, choline, methyl amines, pyruvate, lactate,
+fructose, succinate, and glutamate (Table 1). Table 2 shows
+the stoichiometry and fermentation products of strain An4
+grown on selected compounds. Strain An4 did not grow
+well on formate, but in the presence of (per)chlorate or
+nitrate, formate supported good growth. The following
+substrates were tested, but not utilized for growth in the
+absence or presence of perchlorate: glucose, cellobiose,
+ribose, oxaloacetate, butyrate, glycolate, glycerol, and
+citrate. When the isolate was grown with (per)chlorate,
+the organic substrates were mainly converted to CO2, while
+only small amounts of acetate were formed (Table 2). In the
+absence of (per)chlorate, the product was mainly acetate.
+The bacterium reduced perchlorate to chloride. The isolate
+was not able to respire with sulfate, thiosulfate, FeCl3, Fe
+(III)-NTA, Fe(III)-citrate, and AQDS. Strain An4 was also
+able to cometabolically dechlorinate tetrachloroethylene
+
+Product formed (mM)
+Substrate
+
+(mM)
+
+OD600
+
+Acetate
+
+H2/CO2
+Formate
+
+23.5
+19.7
+
+0.38
+0.14
+
+7.1
+5.2
+
+CO
+Methanol (+CO2)
+Ethanol
+n-Propanol
+n-Butanol
+Pyruvate
+Succinate
+Glutamate
+Fructose
+Alanine
+Lactate
+Lactate + perchlorate
+Lactate + chlorate
+
+22.1
+19.6
+10.3
+18.9
+21.3
+19.8
+20.8
+19.9
+21.3
+10.4
+21.2
+9.2
+9.1
+
+0.22
+0.18
+0.15
+0.19
+0.18
+0.18
+0.27
+0.23
+0.33
+0.21
+0.17
+0.46
+0.34
+
+5.5
+15.7
+14.2
+11.1
+11.7
+21.7
+0.8
+20.3
+44
+18.4
+41.3
+4.5
+
+Propionate
+
+Butyrate
+
+17.8
+18.8
+18.8
+
+0.3
+0.2
+
+600
+
+Appl Microbiol Biotechnol (2010) 88:595–603
+
+(PCE) to trichloroethylene during growth on methanol +
+CO2 in a similar way as it was previously described for
+S. ovata (Terzenbach and Blaut 1994).
+During growth with perchlorate, the medium became
+pink due to the presence of resorufin formed from resazurin
+upon deoxygenation and when all the (per)chlorate was
+consumed, the pink color disappeared again.
+Testing (per)chlorate reduction by other members
+of the genus Sporomusa
+The ability of Sporomusa species, S. ovata (=DSM 2662)
+and S. aerivorans (=DSM 13326) to reduce perchlorate was
+tested either with lactate or with methanol. Both substrates
+
+Table 4 Fatty acid composition of strain An4 in comparison to
+related species
+
+Fig. 3 Growth and lactate utilization by strain An4 in the absence of
+(per)chlorate (a) and in the presence of perchlorate (b) and chlorate
+(c). Bacterial growth was determined by measuring turbidity (OD600).
+Curves are labeled as follows: black square lactate, white circle
+perchlorate, white diamond chlorate; white triangle chloride, black
+triangle acetate, black circle OD,
+
+Table 3 The enzyme activities in cell extracts of strain An4 grown on
+methanol and perchlorate at two different temperatures
+
+Perchlorate reductase
+Chlorate reductase
+Nitrate reductase
+Chlorite dismutase
+
+30°C
+
+37°C
+
+0.45±0.01
+1.59±0.04
+0.74±0.01
+15.16±0.75
+
+0.74±0.00
+2.19±0.10
+1.10±0.01
+15.51±2.90
+
+Values are reported as 1 μmol of sodium perchlorate, sodium chlorate,
+or sodium nitrate reduced, and sodium chlorite dismutated per minute
+per milligram of cell protein
+
+Fatty acids
+
+An4
+
+S. ovata
+
+S. aerivorans
+
+Iso-C11:0
+βOH-C11
+C14:0
+βOH-C12
+Iso-C15:1 Δ7+9
+Iso-C15:0
+C15:1 Δ7
+Iso-βOH-C13:0
+βOH-C13:1
+C15:0
+Iso-C16:1 Δ7
+Iso-C16:0
+βOH-C13:0
+C16:1 Δ7
+
+2.3
+–
+0.5
+1.5
+0.9
+4.3
+1.3
+26.5
+–
+0.9
+1.4
+0.7
+–
+7.0
+
+1.2
+1.3
+1.2
+7.3
+–
+0.7
+11.6
+8.0
+1.1
+3.8
+0.4
+–
+4.1
+20.6
+
+1.1
+0.9
+1.1
+10.5
+–
+0.8
+7.3
+8.6
+0.8
+1.5
+–
+–
+2.0
+27.5
+
+C16:1 Δ9
+C16:1 Δ11
+C16:0
+Iso-C17:1 Δ7
+Iso-C17:1 Δ9
+Anteiso-C17:1 Δ7
+Iso-C17:0
+Anteiso-C17:0
+C17:1 Δ7
+C17:1 Δ9
+C17:1 Δ11
+C17:0
+C18:1 Δ9
+C18:1 Δ11
+C18:0
+Iso-C19:1 Δ9
+
+1.9
+0.6
+4.0
+22.3
+5.6
+3.1
+6.3
+1.4
+2.0
+1.4
+–
+0.5
+2.1
+0.5
+1.2
+0.7
+
+2.2
+0.6
+7.2
+1.7
+0.6
+–
+–
+–
+6.1
+12.6
+1.5
+1.7
+3.4
+1.0
+0.6
+–
+
+4.0
+0.5
+7.1
+2.0
+1.0
+–
+–
+–
+2.7
+10.2
+1.1
+0.7
+5.5
+2.5
+0.7
+–
+
+Values are percentages of total quantified fatty acids
+– Not detected
+
+Appl Microbiol Biotechnol (2010) 88:595–603
+
+are utilized by the two strains of the genus Sporomusa
+(Möller et al. 1984; Boga et al. 2003). However, S. ovata
+and S. aerivorans were not able to reduce perchlorate or
+chlorate to chloride.
+Growth of these two strains in the medium with (per)
+chlorate did not result in a change of product formation
+with lactate as a substrate, which was the case for strain
+An4 (Fig. 3, Table 2). Transferring and adapting the strains
+several times to the medium containing perchlorate and
+lactate or methanol did not result in a substantial reduction
+of perchlorate to chloride. Although perchlorate and
+chlorate were reduced by the strain An4, lactate was not
+consumed completely. Probably, (per)chlorate utilization
+inhibited further fermentative growth with the remaining
+lactate.
+Enzyme measurements
+(Per)chlorate reductase activity could be demonstrated by
+using reduced MV as the artificial electron donor. The
+activity towards chlorate was approximately threefold
+higher than the activity towards perchlorate (Table 3). The
+pathway also appeared to involve the dismutation of
+chlorite yielding chloride and molecular oxygen.
+Lipids analysis
+The fatty acid profile of strain An4 was not similar to S.
+ovata and S. aerivorans while grown on methanol (Table 4).
+Although the major fatty acids, iso-βOH-C13:0 and C16:1
+Δ7, were present in all the strains, the composition of the
+remaining fatty acids was quite different.
+
+Discussion
+A Sporomusa strain An4 that is capable of reducing (per)
+chlorate to chloride was obtained from an underground
+gas storage in Russia. The genus Sporomusa was created
+in 1984 (Möller et al. 1984) to accommodate a number of
+strains of anaerobic acetogenic bacteria distinguished by
+having a Gram-negative cell wall and an ability to form
+endospores, two properties whose coincidence is uncommon in Microbiology. In general, the members of the
+genus Sporomusa can utilize a wide variety of electron
+donors. Sporomusa has been isolated from a large variety
+of habitats including anoxic sediments of freshwater
+rivers, lakes, creeks, and ditches (Möller et al. 1984;
+Hermann et al. 1987; Dehning et al. 1989; Sass et al.
+1998), and anoxic soil from rice paddy microcosms
+(Rosencrantz et al. 1999), from soils and silage (Möller
+et al. 1984; Kuhner et al. 1997), from sugar beet factory
+and distillery wastewater (Möller et al. 1984; Ollivier et al.
+
+601
+
+1985), from horse and cattle dung (Möller et al. 1984),
+from the guts of wood-feeding termites (Breznak and
+Switzer 1986; Breznak et al. 1988), and soil-feeding
+termites (Boga et al. 2003). All Sporomusa species have
+been described to gain energy for growth by the reduction
+of carbon dioxide to acetate. The reduction of CO2 to
+acetate occurs via acetogenesis, and acetogens utilize the
+acetyl-CoA pathway as a terminal electron-accepting
+energy-conserving CO 2-fixing process (Drake et al.
+2006; Drake 2009).
+Perchlorate and chlorate reductase activities of strain
+An4 were active at 30 to 37°C. Strain An4 was also
+able to reduce nitrate, and nitrate reductase activity
+was detected (Table 3). Currently, we do not know the
+genes encoding (per)chlorate reduction and chlorite
+dismutation. Although microbial nitrate reductases have
+activity with chlorate, it is not known whether perchlorate is a substrate as well (Shanmugam et al. 1992;
+Bender et al. 2005). We tested and found that S. ovata
+was also able to reduce nitrate, but it did not reduce
+perchlorate.
+More than 50 dissimilatory (per)chlorate-reducing
+bacteria are now in pure culture, and this number
+continues to increase (i.e., Bruce et al. 1999; Coates et
+al. 1999; Wolterink et al. 2002; Weelink et al. 2008). (Per)
+chlorate-reducing bacteria have been isolated from a
+broad variety of environments, including contaminated
+soils and sediments (Rikken et al. 1996; Wallace et al.
+1996; Bruce et al. 1999; Michaelidou et al. 2000; Coates
+and Achenbach 2004; Weelink et al. 2008). The bacteria
+described to date belonged mostly to the Alphaproteobacteria, Betaproteobacteria, Gammaproteobacteria, and
+Epsilonproteobacteria subclasses of the Proteobacteria,
+but the majority are in the Betaproteobacteria subclass
+and are members of the genus Dechloromonas or
+Azospira (formerly Dechlorosoma) (Coates et al. 1999;
+Achenbach et al. 2001). The isolation of strain An4
+suggests that many other bacteria might be capable of
+(per)chlorate reduction than have been considered up to
+now.
+Acknowledgments We thank Anna Ivanova (Institute of Microbiology of the Russian Academy of Sciences in Moscow) for kindly
+providing the sample that was used in this study.
+This work was supported by the Darwin Center for Biogeology
+of The Netherlands Organization for Scientific Research (NWO)
+and also partly supported by Award No KUK-C1-017-12, made by
+King Abdullah University of Science and Technology (KAUST).
+This is publication no. 4770 of the Netherlands Institute of Ecology
+(NIOO-KNAW).
+Open Access This article is distributed under the terms of the
+Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any
+medium, provided the original author(s) and source are credited.
+
+602
+
+References
+Achenbach LA, Michaelidou U, Bruce RA, Fryman J, Coates JD
+(2001) Dechloromonas agitata gen. nov., sp. nov. and Dechlorosoma suillum gen. nov., sp. nov., two novel environmentally
+dominant (per)chlorate-reducing bacteria and their phylogenetic
+position. Int J Syst Evol Microbiol 51:527–533
+Attaway H, Smith M (1993) Reduction of perchlorate by an anaerobic
+enrichment culture. J Ind Microbiol 12:408–412
+Balk M, Weijma J, Friedrich MW, Stams AJM (2003) Methanol
+utilization by a novel thermophilic homoacetogenic bacterium,
+Moorella mulderi sp. nov., isolated from a bioreactor. Arch
+Microbiol 179:315–320
+Balk M, van Gelder T, Weelink SA, Stams AJM (2008) (Per)chlorate
+reduction by the thermophilic bacterium Moorella perchloratireducens sp. nov., isolated from underground gas storage. Appl
+Environ Microbiol 74:403–409
+Bender KS, Shang C, Chakraborty R, Belchik SM, Coates JD,
+Achenbach LA (2005) Identification, characterization, and
+classification of genes encoding perchlorate reductase. J Bacteriol
+187:5090–5096
+Boga HI, Ludwig W, Brune A (2003) Sporomusa aerivorans sp. nov.,
+and oxygen-reducing homoacetogenic bacterium from the gut of
+a soil-feeding termite. Int J Syst Evol Microbiol 53:1397–1404
+Bradford MM (1976) A rapid and sensitive method for the
+quantitation of microgram quantities of protein utilizing the
+principle of protein-dye binding. Anal Biochem 72:248–254
+Breznak JA, Switzer JM (1986) Acetate synthesis from H2 plus CO2
+by termite gut microbes. Appl Environ Microbiol 52:623–630
+Breznak JA, Switzer JM, Seitz H-J (1988) Sporomusa termitida sp.
+nov., an H2/CO2-utilizing acetogen isolated from termites. Arch
+Microbiol 150:282–288
+Bruce RA, Achenbach LA, Coates JD (1999) Reduction of (per)
+chlorate by a novel organism isolated from paper mill waste.
+Environ Microbiol 1:319–329
+Caldwell ME, Tanner RS, Suflita JM (1999) Microbial metabolism of
+benzene and the oxidation of ferrous iron under anaerobic
+conditions: implications for bioremediation. Anaerobe 5:595–603
+Cashion P, Holder-Franklin MA, McCully J, Franklin M (1977) A
+rapid method for the base ratio determination of bacterial DNA.
+Anal Biochem 81:461–466
+Coates JD, Achenbach LA (2004) Microbial perchlorate reduction:
+rocket-fueled metabolism. Nat Rev Microbiol 2:569–580
+Coates JD, Michaelidou U, Bruce RA, O’Connor SM, Crespi JN,
+Achenbach LA (1999) Ubiquity and diversity of dissimilatory
+(per)chlorate-reducing bacteria. Appl Environ Microbiol
+65:5234–5241
+Dasgupta PK, Kirk AB, Dyke JV, Ohira S (2008) Intake of iodine and
+perchlorate and excretion in human milk. Environ Sci Technol 42
+(21):8115–8121
+Dehning I, Stieb M, Schink B (1989) Sporomusa malonica sp. nov., a
+homoacetogenic bacterium growing by decarboxylation of
+malonate or succinate. Arch Microbiol 151:421–426
+Doetsch RN (1981) Determinative methods of light microscopy. In:
+Gerhardt P, Murray RGE, Costilow RN, Nester EW, Wood WA,
+Krieg NR, Phillips GB (eds) Manual of methods for general
+bacteriology. American Society for Microbiology, Washington,
+DC, pp 21–33
+Drake HL (2009) Sporomusa. In: De Vos P, Garrity GM, Jones D,
+Frieg NR, Ludwig W, Rainey FA, Schleifer K-H, Whitman WB
+(eds) Bergey’s manual of systematic bacteriology, Vol. 3, 2nd
+edn. Springer-Verlag, New York, pp 1112–1116
+Drake HL, Küsel K, Matthies C (2006) Acetogenic prokaryotes. In:
+Dworkin M, Falkow S, Rosenberg E, Schleifer K-H, Stackebrandt
+
+Appl Microbiol Biotechnol (2010) 88:595–603
+E (eds) The prokaryotes, Volume 2, 3rd edn. Springer-Verlag, New
+York, pp 354–420
+Dyke JV, Ito K, Obitsu T, Hisamatsu Y, Dasgupta PK, Blount BC
+(2007) Perchlorate in dairy milk. Comparison of Japan versus the
+United States. Environ Sci Technol 41(1):88–92
+Garrity GM, Holt JG (2000) An overview of the road map to the
+manual. In: Garrity GM, Holt JG (eds) Bergey’s manual of
+systematic bacteriology, 2nd edn. Springer Verlag, New York, pp
+1–19
+Giblin TL, Herman DC, Frankenberger WT (2000) Removal of
+perchlorate from ground water by hydrogen-utilizing bacteria. J
+Environ Qual 29:1057–1062
+Henstra AM, Stams AJM (2004) Novel physiological features of
+Carboxydothermus hydrogenoformans and Thermoterrabacterium ferrireducens. Appl Environ Microbiol 70:7236–7240
+Herman DC, Frankenberger WT (1999) Bacterial reduction of
+perchlorate and nitrate in water. J Environ Qual 28:1018–1024
+Hermann M, Popoff MR, Sebald M (1987) Sporomusa paucivorans
+sp. nov., a methylotrophic bacterium that forms acetic acid from
+hydrogen and carbon dioxide. Int J Syst Bacteriol 37:93–101
+Hogue C (2003) Rocket-fueled river. Chem Eng News 81:37–46
+Ivanova AE, Borzenkov IA, Tarasov AL, Milekhina EI, Belyaev SS
+(2007) A microbiological study of An Underground gas storage
+in the process of gas extraction. Microbiology 76:461–468
+Kengen SWM, Rikken GB, Hagen WR, van Ginkel CG, Stams AJM
+(1999) Purification and characterization of (per)chlorate reductase from the chlorate-respiring strain GR-1. J Bacteriol
+181:6706–6711
+Kirk AB, Martinelango PK, Tian K, Dutta A, Smith EE, Dasgupta PK
+(2005) Perchlorate and iodide in dairy and milk. Environ Sci
+Technol 39:2011–2017
+Kuhner CH, Frank C, Griesshammer A, Schmittroth M, Acker G,
+Gossner A, Drake HL (1997) Sporomusa silvacetica sp. nov., an
+acetogenic bacterium isolated from aggregated forest soil. Int J
+Syst Bacteriol 47:352–358
+Lane DJ (1991) 16S/23S rRNA sequencing. In: Stackebrandt E,
+Goodfellow M (eds) Nucleic acid techniques in bacterial
+systematics. Wiley, Chichester, pp 115–175
+Logan BE (1998) A review of chlorate- and perchlorate-respiring
+microorganisms. Bioremediat J 2:69–79
+Logan BE (2001) Assessing the outlook for perchlorate remediation.
+Environ Sci Technol 35:482A–487A
+Logan BE, Zhang HS, Mulvaney P, Milner MG, Head IM, Unz RF
+(2001) Kinetics of perchlorate- and chlorate-respiring bacteria.
+Appl Environ Microbiol 67:2499–2506
+Ludwig W, Strunk O, Westram R, Richter L, Meier H, Yadhukumar
+Buchner A, Lai T, Steppi S, Jobb G, Forster W, Brettske I,
+Gerber S, Ginhart AW, Gross O, Grumann S, Hermann S, Jost R,
+Konig A, Liss T, Lussmann R, May M, Nonhoff B, Reichel B,
+Strehlow R, Stamatakis A, Stuckmann N, Vilbig A, Lenke M,
+Ludwig T, Bode A, Schleifer KH (2004) ARB: a software
+environment for sequence data. Nucleic Acids Res 32:1363–
+1371
+Mesbah M, Premachandran U, Whitman W (1989) Precise measurement of the G+C content of deoxyribonucleic acid by high
+performans liquid chromatography. Int J Syst Bact 39:159–167
+Michaelidou U, Achenbach LA, Coates JD (2000) Isolation and
+characterization of two novel (per)chlorate-reducing bacteria
+from swine waste lagoons. In: Urbansky ET (ed) Perchlorate in
+the environment. Kluwer/Plenum Publishers, New York, pp 271–
+283
+Möller B, Ossmer R, Howard BH, Gottschalk G, Hippe H (1984)
+Sporomusa, a new genus of Gram-negative anaerobic-bacteria
+including Sporomusa sphaeroides spec. nov. and Sporomusa
+ovata spec. nov. Arch Microbiol 139:388–396
+
+Appl Microbiol Biotechnol (2010) 88:595–603
+Motzer WE (2001) Perchlorate: problems, detection, and solutions.
+Environ Forensics 2:301–311
+Ollivier B, Cordruwisch R, Lombardo A, Garcia JL (1985) Isolation
+and characterization of Sporomusa acidovorans sp. nov., a
+methylotrophic homoacetogenic bacterium. Arch Microbiol
+142:307–310
+Renner R (1998) Perchlorate-tainted wells spur government action.
+Environ Sci Technol 9:210A
+Rikken GB, Kroon AGM, van Ginkel CG (1996) Transformation of
+(per)chlorate into chloride by a newly isolated bacterium:
+reduction and dismutation. Appl Microbiol Biotechnol 45:420–
+426
+Rosencrantz D, Rainey FA, Janssen PH (1999) Culturable populations
+of Sporomusa spp. and Desulfovibrio spp. in the anoxic bulk soil
+of flooded rice microcosms. Appl Environ Microbiol 65:3526–
+3533
+Sass H, Wieringa E, Cypionka H, Babenzien HD, Overmann J (1998)
+High genetic and physiological diversity of sulfate-reducing
+bacteria isolated from an oligotrophic lake sediment. Arch
+Microbiol 170:243–251
+Scholten JC, Stams AJM (1995) The effect of sulphate and nitrate on
+methane formation in a freshwater sediment. Antonie Leeuwenhoek
+68:309–315
+Shanmugam KT, Stewart V, Gunsalus RP, Boxer DH, Cole JA,
+Chippaux M, DeMoss JA, Giordano G, Lin ECC, Rajagopalan
+KV (1992) Proposed nomenclature for the genes involved in
+molybdenum metabolism in Escherichia coli and Salmonella
+typhimurium. Mol Microbiol 6:3452–3454
+Stams AJM, van Dijk JB, Dijkema C, Plugge CM (1993) Growth of
+syntrophic propionate-oxidizing bacteria with fumarate in the
+absence of methanogenic bacteria. Appl Environ Microbiol
+59:1114–1119
+Terzenbach DP, Blaut M (1994) Transformation of tetrachloroethylene
+to trichloroethylene by homoacetogenic bacteria. FEMS Microbiol
+Lett 123:213–218
+
+603
+Thrash JC, Pollock J, Torok T, Coates JD (2010) Description of the
+novel perchlorate-reducing bacteria Dechlorobacter hydrogenophilus
+gen. nov., sp. nov. and Propionivibrio militaris, sp. nov. Appl
+Microbiol Biotechnol 86:335–343
+Trüper HG, Schlegel HG (1964) Sulphur metabolism in Thiorhodaceae.
+I. Quantitative measurements on growing cells of Chromatium
+okenii. Antonie Leeuwenhoek 30:225–238
+Urbansky ET (1998) Perchlorate chemistry: implications for analysis
+and remediation. Bioremediat J 2:81–95
+Urbansky ET, Schock MR (1999) Issues in managing the risks
+associated with perchlorate in drinking water. J Environ Manag
+56:79–95
+van Ginkel CG, Rikken GB, Kroon AGM, Kengen SWM (1996)
+Purification and characterization of a chlorite dismutase: a novel
+oxygen generating enzyme. Arch Microbiol 166:321–326
+Wallace W, Ward T, Breen A, Attaway H (1996) Identification of an
+anaerobic bacterium which reduces perchlorate and chlorate as
+Wolinella succinogenes. J Ind Microbiol 16:68–72
+Weelink SAB, Tan NCG, ten Broeke H, van den Kieboom C, van
+Doesburg W, Langenhoff AAM, Gerritse J, Junca H, Stams AJM
+(2008) Isolation and characterization of Alicycliphilus denitrificans strain BC that grows on benzene with chlorate as electron
+acceptor. Appl Environ Microbiol 74:6672–6681
+Wolterink AFWM, Jonker AB, Kengen SW, Stams AJ (2002) Pseudomonas chloritidismutans sp. nov., a non-denitrifying, chloratereducing bacterium. Int J Syst Evol Microbiol 52:2183–2190
+Wolterink AWFM, Kim S, Muusse M, Kim IS, Roholl PJ, van Ginkel
+CG, Stams AJM, Kengen SW (2005) Dechloromonas hortensis
+sp. nov. and strain ASK-1, two novel(per)chlorate-reducing
+bacteria, and taxonomic description of strain GR-1. Int J Syst
+Evol Microbiol 55:2063–2068
+Wu J, Unz RF, Zhang H, Logan BE (2001) Persistence of perchlorate
+and the relative numbers of perchlorate- and chlorate-respiring
+microorganisms in natural waters, soils, and wastewater. Bioremediat J 5:119–130
+
+
