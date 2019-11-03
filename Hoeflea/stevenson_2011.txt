@@ -1,0 +1,848 @@
+International Journal of Systematic and Evolutionary Microbiology (2011), 61, 2439–2444
+
+DOI 10.1099/ijs.0.025353-0
+
+Hoeflea anabaenae sp. nov., an epiphytic symbiont
+that attaches to the heterocysts of a strain of
+Anabaena
+Bradley S. Stevenson,1,2 Michael T. Suflita,13 Blake W. Stamps,1
+Edward R. B. Moore,3 Crystal N. Johnson1 and Paul A. Lawson1
+1
+
+Correspondence
+
+Department of Botany and Microbiology, University of Oklahoma, 770 Van Vleet Oval, Norman,
+OK 73019, USA
+
+Bradley S. Stevenson
+bradley.stevenson@ou.edu
+
+2
+
+Ecology and Evolutionary Biology Program, University of Oklahoma, Norman, OK 73019, USA
+
+3
+
+Culture Collection University of Gothenburg (CCUG), Sahlgrenska Academy of the University of
+Gothenburg, PO Box 7193, SE-40234 Göteborg, Sweden
+
+The heterotrophic, epiphytic, symbiotic bacterial strain WH2KT was previously isolated from a
+two-member culture in which it was attached to the heterocysts of a strain of Anabaena
+(SSM-00). Analysis of its 16S rRNA gene sequence demonstrated that the symbiont was most
+closely related to the type strain of Hoeflea marina (96.9 % similarity), which belongs to the family
+Phyllobacteriaceae within the order Rhizobiales of the class Alphaproteobacteria. A polyphasic
+taxonomic study was performed on strain WH2KT, which consisted of irregular rods (2–5 mm
+long, 0.2 mm wide) that appeared to be narrower at one pole. Optimal growth was obtained in
+complex media with 15 g sea salts l”1, at 18–34 6C (30 6C optimum) and at pH 6.0–8.0
+(optimum pH 6.5). Unknown growth requirements were provided by small amounts of yeast
+extract but not by standard vitamin and trace metal solutions. Of the substrates tested, WH2KT
+was able to utilize only acetate, pyruvate, malate and fumarate. Growth was observed only under
+aerobic and microaerobic conditions, and nitrate was not reduced. No photosynthetic pigments
+were detected under any of the growth conditions tested. The predominant fatty acids were a
+summed feature that comprises C18 : 1v7c, C18 : 1v9t, C18 : 1v12t or any combination of these
+(64.0 %) and an unidentified fatty acid of equivalent chain length 17.603 (13.5 %). The polar lipid
+profile consisted of diphosphatidylglycerol, phosphatidylglycerol, phosphatidylethanolamine,
+phosphatidylmonomethylethanolamine, phosphatidylcholine, phosphoglycolipid, unknown lipids
+and an unidentified aminolipid. The only respiratory ubiquinone detected was Q-10. The DNA
+G+C content of the strain was 58.1 mol%. The organism can form a site-specific attached
+symbiotic relationship with a species of Anabaena. Based on phylogenetic and phenotypic
+evidence, it is proposed that strain WH2KT be classified within a novel species of the genus
+Hoeflea, for which the name Hoeflea anabaenae sp. nov. is proposed. The type strain is WH2KT
+(5CCUG 56626T 5NRRL B-59520T).
+
+In aquatic environments, synergistic interactions between
+heterotrophic bacteria and photosynthetic phytoplankton
+or cyanobacteria are commonplace and are important in
+global primary production and nutrient cycling (Ashen &
+Goff, 1998, 2000; Ferrier et al., 2002; Grossart et al., 2006;
+Paerl & Pinckney, 1996). Some of these associations are
+3Present address: Vanderbilt University, School of Medicine, 215 Light
+Hall, Nashville, TN 37232, USA.
+The GenBank/EMBL/DDBJ accession number for the 16S rRNA gene
+sequence of strain WH2KT is DQ364238.
+Two supplementary figures and two supplementary tables are available
+with the online version of this paper.
+
+025353 G 2011 IUMS
+
+believed to be symbiotic and highly specific (Caldwell &
+Caldwell, 1978a, b; Ferrier et al., 2002; Jasti et al., 2005;
+Lupton & Marshall, 1981; Paerl, 1978; Paerl & Kellar,
+1978). One of the more interesting symbioses occurs
+between heterotrophic bacteria and filamentous, heterocystous cyanobacteria such as Anabaena, Aphanizomenon
+and Nostoc, in which the heterotrophic bacteria are
+attached specifically to the heterocystous cells (Fig. 1a)
+(Lupton & Marshall, 1981; Paerl, 1977; Paerl & Gallucci,
+1985; Stevenson & Waterbury, 2006). In these symbioses,
+the cyanobacterium provides a ready source of fixed
+carbon and nitrogen (Behrens et al., 2008; Paerl, 1984), a
+surface for attachment and a vehicle for spatial localization
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Thu, 15 Feb 2018 22:33:36
+
+Printed in Great Britain
+
+2439
+
+B. S. Stevenson and others
+
+characterize the physiology and phylogeny of this strain
+and compare it with its close relatives. Based on this
+polyphasic study, incorporating phylogenetic, chemotaxonomic and phenotypic methods, it is proposed that strain
+WH2KT represents a novel species of Hoeflea.
+Strain WH2KT was isolated under heterotrophic conditions in marine purity (MP) liquid medium from a culture
+in which it was attached almost exclusively to Anabaena
+heterocysts (Stevenson & Waterbury, 2006). Cells of isolate
+WH2KT were irregular, club-shaped rods, 2–5 mm long and
+0.2 mm wide (Fig. 1b), and able to form star-shaped
+aggregates (Fig. 1c) like those of the marine Agrobacterium
+species later reclassified as Hoeflea marina (Ahrens, 1968;
+Peix et al., 2005; Rüger & Höfle, 1992). No obvious
+motility was observed for WH2KT, which is in contrast to
+the rapid motility observed directly for Hoeflea species
+reported previously (Biebl et al., 2006; Palacios et al., 2006;
+Peix et al., 2005). Transmission electron micrographs of
+negatively stained cells of strain WH2KT revealed no visible
+flagella (Fig. 1b, c). The bacterium was capable of growth in
+liquid or on solid (15 g agar l21) MP medium (Rippka
+et al., 1979), full- and half-strength marine broth (Difco)
+and marine agar (7.5 g agar l21 added) and liquid or solid PY
+medium (20 g sea salts, 3 g peptone and 0.5 g yeast extract
+l21; Biebl et al., 2005) under aerobic conditions at 30 uC.
+WH2KT formed colonies that were small (1–2 mm), nonpigmented and opaque after 7–10 days on all agar media.
+
+Fig. 1. Scanning and transmission electron micrographs showing
+the cell morphology of Hoeflea anabaenae sp. nov. WH2KT attached
+to a heterocystous cell of Anabaena sp. SSM-00 (a), as a single cell
+(b) and as a multicellular rosette in PY medium (c). Bars, 1 mm.
+
+in the environment (Jones & Cannon, 1986). The benefit of
+this symbiotic relationship, with regard to the Anabaena
+strain, is realized by increased rates of growth and nitrogen
+fixation in the presence of attached heterotrophic bacteria
+(Lupton & Marshall, 1981; Paerl, 1977; Schiefer & Caldwell,
+1982).
+This study describes a novel isolate, strain WH2KT, that
+was recovered as the only heterotroph in a two-membered
+culture, where it was attached to the heterocystous cells of a
+strain of the filamentous cyanobacterium Anabaena (SSM00) (Stevenson & Waterbury, 2006). In this paper, we
+2440
+
+PY medium was chosen for most of the comparative
+studies between WH2KT and other Hoeflea species, as it
+supported the best growth of all organisms. The permissible (18–34 uC) and optimal (30 uC) growth temperatures
+were determined sequentially in an incubator, with shaking
+at 225 r.p.m. with periodic measurement of optical density
+at 600 nm (OD600). WH2KT was able to grow at pH 6.0–
+8.0; maximal OD600 was achieved in PY medium at pH 6.5.
+Sea salts were required at a concentration of at least 5 g l21,
+but WH2KT grew optimally at concentrations between 12.5
+and 17.5 g l21 and tolerated only up to 25 g sea salts l21.
+No growth was observed when NaCl was substituted for sea
+salts.
+Utilization of carbon sources was determined in experiments modelled after those used for the characterization of
+Hoeflea phototrophica, using a minimal seawater medium
+containing 20 g sea salts l21 and 0.1 g yeast extract l21 for
+required growth factors (Biebl et al., 2006). The following
+carbon sources were tested at 1 g l21 (acids as sodium
+salts): acetate, pyruvate, fumarate, malate, lactate, glutamate, butyrate, glucose, fructose, sucrose, ethanol, methanol,
+glycerol and L-arabinose. An organism was considered able
+to utilize a substrate if it resulted in a significant increase in
+maximum OD600 compared with controls that contained
+only yeast extract (mean value, n54; Student’s t-test,
+P,0.05). Substrate utilization profiles were also determined in this manner for H. phototrophica DSM 17068T,
+Hoeflea alexandrii DSM 16655T and H. marina DSM
+16791T to allow direct comparison (Table 1). WH2KT was
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 61
+IP: 189.155.188.202
+On: Thu, 15 Feb 2018 22:33:36
+
+Hoeflea anabaenae sp. nov.
+
+Table 1. Substrate utilization patterns for strain WH2KT and
+type strains of the genus Hoeflea
+
+Table 2. Cellular fatty acid profiles of strain WH2KT and type
+strains of the genus Hoeflea
+
+Strains: 1, WH2KT; 2, H. phototrophica DSM 17068T; 3, H. alexandrii
+DSM 16655T; 4, H. marina DSM 16791T. Data were obtained in this
+study. All strains grew on acetate, pyruvate, malate and fumarate.
+
+Strains: 1, WH2KT; 2, H. phototrophica DSM 17068T; 3, H. alexandrii
+DSM 16655T; 4, H. marina DSM 16791T. Data are percentages of total
+fatty acids and were obtained in this study. Fatty acids that occurred
+at less than 1.0 % in all four strains are not shown; 2, ,1.0 %. ECL,
+Equivalent chain length.
+
+Growth substrate
+
+1
+
+2
+
+3
+
+4
+
+Glucose
+Fructose
+Glycerol
+Butyrate
+Lactate
+L-Arabinose
+Glutamate
+
+2
+2
+2
+2
+2
+2
+2
+
++
++
+2
++
++
++
++
+
++
++
+2
+2
++
++
++
+
++
++
++
+2
++
++
++
+
+able to utilize acetate, pyruvate, malate and fumarate. The
+other Hoeflea type strains were also able to utilize glucose,
+fructose, sucrose, glutamate and L-arabinose. In addition,
+H. phototrophica DSM 17068T could use butyrate and H.
+marina DSM 16791T could use glycerol.
+Extracellular enzyme activities were characterized using
+the API ZYM kit for strain WH2KT and the other Hoeflea
+type strains, which were sampled from cultures in midexponential phase (OD600 0.4–0.5) in 16 PY medium.
+Strips were incubated at 30 uC for 24 h prior to reading
+the results, which are compared among all strains in
+Supplementary Table S1, available in IJSEM Online.
+Among the Hoeflea strains, strain WH2KT was unique in
+that it possessed trypsin but lacked esterase lipase.
+The production of bacteriochlorophyll a and other
+photopigments by strain WH2KT was investigated as
+described by Biebl et al. (2006). The absorption spectrum
+lacked the peaks of bacteriochlorophyll a and a carotenoid
+that are found in H. phototrophica. In this regard, strain
+WH2KT is like H. alexandrii and H. marina in that it does
+not produce photopigments (Palacios et al., 2006).
+Long-chain cellular fatty acids, respiratory lipoquinones
+and polar lipids were extracted from cell biomass of strain
+WH2KT, H. phototrophica DSM 17068T, H. alexandrii
+DSM 16655T and H. marina DSM 16791T harvested from
+cultures during mid-exponential phase (OD600 0.4–0.5) in
+PY broth at 30 uC. Long-chain cellular fatty acids were
+analysed by GC (MIDI Sherlock) at the CCUG as described
+previously (Kämpfer & Kroppenstedt, 1996). Overall,
+strain WH2KT had a fatty acid profile that was similar to
+those of the other Hoeflea type strains, but differences were
+observed in the presence/absence of several components
+(Table 2). Fatty acids detected in strain WH2KT included
+C18 : 1v7c/v9t/v12t or any combination of these (64.0 %),
+ECL 17.603 (13.5 %), ECL 18.846/C19 : 1v6c (7.5 %),
+C18 : 1v9c (6.6 %), C18 : 0 (4.0 %), 11-methyl C18 : 1v7c
+(2.6 %) and C16 : 0 (1.8 %). Strain WH2KT was unique
+among the Hoeflea strains in that it contained the saturated
+fatty acid C18 : 0 and the unsaturated fatty acid C18 : 1v9c,
+but lacked C16 : 1v9c. Polar lipid and respiratory quinone
+http://ijs.sgmjournals.org
+
+Fatty acid
+Saturated
+C16 : 0
+C18 : 0
+Unsaturated
+C16 : 1v11c
+C16 : 1v7c
+C18 : 1v9c
+11-Methyl C18 : 1v7c
+Cyclopropane acids
+C19 : 0 cyclo v8c
+Summed features
+C14 : 0 3-OH/iso-C16 : 1 I
+C18 : 1v7c/v9t/v12t
+ECL 18.846/C19 : 1v6c
+Unidentified
+ECL 17.603
+
+1
+
+2
+
+3
+
+4
+
+1.8
+4.0
+
+9.8
+2
+
+7.0
+2
+
+8.3
+2
+
+2
+2
+6.6
+2.6
+
+1.5
+4.7
+2
+3.8
+
+2
+1.9
+2
+4.1
+
+2
+2.2
+2
+4.0
+
+2
+
+2.0
+
+2
+
+2
+
+2
+64.0
+7.5
+
+2
+69.4
+2.4
+
+2
+73.9
+6.1
+
+1.6
+72.9
+5.7
+
+13.5
+
+6.4
+
+7.1
+
+5.4
+
+analyses were carried out by the Identification Service of
+the DSMZ, Braunschweig, Germany, and Dr B. J. Tindall
+(DSMZ). Images of TLC polar lipid profiles are shown in
+Supplementary Fig. S1 and a comparison of profiles is
+given in Supplementary Table S2. Strain WH2KT was
+unique among the Hoeflea strains in that it possessed two
+unidentified phospholipids and did not contain sulfoquinovosyl diacylglycerol. All strains produced ubiquinone 10
+(Q-10) as their single respiratory lipoquinone, a feature of
+the majority of alphaproteobacteria.
+The novel isolate WH2KT forms a unique attached
+symbiotic relationship with a species of Anabaena (Fig.
+1a; Stevenson & Waterbury, 2006). The ability to attach to
+the filamentous heterocystous cyanobacterium Anabaena
+sp. SSM-00 was compared between WH2KT and the
+Hoeflea type strains in a series of attachment experiments.
+Cells from WH2KT and each Hoeflea type strain were
+harvested from mid-exponential phase cultures growing in
+PY medium. Optical densities of culture aliquots were
+normalized by dilution with fresh PY medium and cells
+were harvested by centrifugation. Cells were resuspended
+in the nitrogen-free, autotrophic seawater medium KSO
+(Stevenson & Waterbury, 2006; Waterbury et al., 1986) and
+added to cultures of Anabaena with shaking at 125 r.p.m.
+under fluorescent light at 25 uC. Attachment was monitored microscopically on days 3, 7, 14, 30 and 49. The level
+of attachment (if observed) was recorded as the number of
+attachments per 106 Anabaena filaments (mean two
+heterocysts per filament) and the number of cells attached
+to each heterocyst. No attachment was observed for
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Thu, 15 Feb 2018 22:33:36
+
+2441
+
+B. S. Stevenson and others
+
+H. marina DSM 16791T or H. alexandrii DSM 16655T. H.
+phototrophica DSM 17068T exhibited only rare attachment;
+six of 106 (5.7 %) filaments were observed to contain
+attachment of cells of H. phototrophica DSM 17068T at
+day 49, with only one cell in each case. In contrast, cells
+of WH2KT were found attached to 28 % of observed
+heterocysts at day 7 and 55 % at day 49, with a mean of
+four cells per heterocyst.
+The phylogenetic relationship between WH2KT and the
+closest related organisms with validly published names
+was determined by comparing nearly full-length 16S
+rRNA gene sequences from prokMSA of the GreenGenes
+database (DeSantis et al., 2006a, b). Using the phylogenetic software package ARB (Ludwig et al., 2004), sequence
+alignments were optimized manually based on 16S rRNA
+secondary structure and filtered to include only homologous nucleotides for analysis. These optimally aligned
+sequences were used in PAUP* 4b to determine phylogenetic relationships based on neighbour-joining, maximumparsimony and maximum-likelihood methods (Fig. 2;
+Swofford, 2003). Bootstrap analyses using distance and
+maximum-parsimony were based on 1000 resamplings.
+Nucleotide pairwise sequence similarity of the 16S rRNA
+gene over 1429 homologous nucleotides was calculated in
+ARB and using the web-based tool EzTaxon (Chun et al.,
+2007).
+Strain WH2KT belongs to a cluster of named organisms
+that includes H. marina LMG 128T (96.9 % similarity), H.
+phototrophica DFL-43T (96.7 % similarity) and H. alexandrii AM1V30T (96.6 % similarity). However, this cluster
+also contains many strains isolated from a number of
+environmental sources that have yet to be described.
+
+When these sequences are included in phylogenetic
+analyses, WH2KT appears to be more closely related to
+alphaproteobacteria that have been recovered from
+marine tunicates (Biebl et al., 2005; Martı́nez-Garcı́a
+et al., 2007), sponges (Sipkema et al., 2009) and coral
+(Sekar et al., 2008). A phylogenetic tree containing these
+additional sequences is available as Supplementary
+Fig. S2. Two of the three described species of the genus
+Hoeflea, H. phototrophica and H. alexandrii, have been
+isolated from cultures of the marine dinoflagellates
+Alexandrium lusitanicum, Prorocentrum lima and Alexandrium minutum (Biebl et al., 2006; Palacios et al., 2006;
+Peix et al., 2005). Symbiotic relationships may indeed be a
+life history trait shared between WH2KT and its close
+relatives.
+Characterization of WH2KT and comparisons between this
+novel strain and the type strains of the closest named
+species, i.e. H. marina, H. phototrophica and H. alexandrii,
+are detailed in Table 3. Strain WH2KT has a more limited
+repertoire of utilizable carbon substrates than the other
+Hoeflea type strains, apparently being able to use only
+acetate, pyruvate and intermediates of the tricarboxylic
+acid cycle. This trait may be related to the limited diversity
+of carbon substrates obtained from its Anabaena host
+during attached symbiosis. The attachment of WH2KT cells
+to Anabaena sp. SSM-00 is also a distinguishing characteristic. Only H. phototrophica DSM 17068T was observed to
+attach to the Anabaena heterocysts, but at a much lower
+frequency. Among Hoeflea species, only H. phototrophica
+possesses bacteriochlorophyll a and carotenoids, which is
+explained by evidence that this trait was obtained by
+horizontal gene transfer (Klassen, 2009). The production of
+photopigments would therefore not be a trait that defines
+the genus Hoeflea.
+Description of Hoeflea anabaenae sp. nov.
+Hoeflea anabaenae (a.na.bae9nae. N.L. fem. gen. n.
+anabaenae of Anabaena, a cyanobacterium, from which
+the type strain was isolated).
+
+Fig. 2. Phylogenetic tree showing the relationship of H. anabaenae
+sp. nov. WK2KT to members of related genera in the a-2 subgroup
+of the Proteobacteria, based on 16S rRNA gene sequences using
+maximum-likelihood analysis. Bootstrap values greater than 50 %
+(1000 resamplings) for nodes conserved among distance/
+maximum-parsimony analyses are shown (*, ,50 %). Bar, 1 substitution per 100 nucleotide positions.
+2442
+
+Cells are small, irregular club-shaped rods, 0.262.0–5.0 mm.
+Colonies grown on PY medium are small (1–2 mm
+diameter), smooth, flat and opaque with no pigmentation.
+Cultures require aerobic growth conditions and concentrations of sea salts above 5 g l21 but below 25 g l21 (optimum
+15 g l21), temperatures of 18–34 uC (optimum 30 uC) and
+pH 6.0–8.0 (optimum pH 6.5). Acetate, pyruvate, fumarate
+and malate are utilized, but glucose, fructose, sucrose,
+lactate, glutamate, L-arabinose, butyrate and glycerol are
+not. Yeast extract is required for growth. Positive for the
+following enzyme activities (API ZYM): alkaline phosphatase, esterase, leucine aminopeptidase, trypsin, b-galactosidase and b-glucosidase. Negative for the following enzyme
+activities (API ZYM): esterase lipase, lipase, valine aminopeptidase, cystine aminopeptidase, chymotrypsin, acid phosphatase, phosphohydrolase, a-glucosidase, b-glucuronidase,
+N-acetyl-b-glucosaminidase, a-mannosidase and a-fucosidase.
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 61
+IP: 189.155.188.202
+On: Thu, 15 Feb 2018 22:33:36
+
+Hoeflea anabaenae sp. nov.
+
+Table 3. Characteristics of strain WH2KT that differentiate it from its closest phylogenetic neighbours
+Strains: 1, WH2KT; 2, H. phototrophica DSM 17068T; 3, H. alexandrii DSM 16655T; 4, H. marina DSM 16791T. Data were obtained in this study
+unless indicated.
+Characteristic
+Source
+Heterocyst attachment
+Salts required for growth
+Bacteriochlorophyll a
+Substrate utilization
+Glucose
+Fructose
+Glycerol
+Butyrate
+Lactate
+L-Arabinose
+Extracellular enzyme activity
+Esterase lipase (C8)
+Trypsin
+Fatty acids (%)D
+C18 : 0
+C16 : 1v7c
+C18 : 1v9c
+Polar lipidsd
+PL1
+PL2
+SQDG
+DNA G+C content (mol%)
+16S rRNA gene sequence similarity
+to strain WH2KT
+
+1
+
+2
+
+3
+
+4
+
+Attached symbiont of
+Anabaena sp.
+High
++
+2
+
+Culture of Prorocentrum
+limaa*
+Very low
++
++a
+
+Culture of Alexandrium
+minutumb
+None
+2
+2b
+
+Bulk seawatera
+
+2
+2
+2
+2
+2
+2
+
++
++
+2
++
++
++
+
++
++
+2
+2
++
++
+
++
++
++
+2
++
++
+
+2
++
+
++
+2
+
++
+2
+
++
+2
+
+4.0
+2
+6.6
+
+2
+4.7
+2
+
+2
+1.9
+2
+
+2
+2.2
+2
+
++
++
+2
+58.1
+(100)
+
+2
+2
++
+59.3a
+96.7
+
+2
+2
++
+59.7b
+96.6
+
+2
+2
++
+53.1a
+96.9
+
+None
+2
+2a
+
+*Data taken from: a, Biebl et al. (2006); b, Palacios et al. (2006).
+DValues are percentages of total cellular fatty acids.
+dPL1 and PL2, Unknown polar lipids; SQDG, sulfoquinovosyl diacylglycerol.
+
+Does not produce bacteriochlorophyll a or photopigments.
+Fatty acids detected in the type strain include (in decreasing
+order of abundance) C18 : 1v7c/v9t/v12t or any combination of these, ECL 17.603, ECL 18.846/C19 : 1v6c,
+C18 : 1v9c, C18 : 0, 11-methyl C18 : 1v7c and C16 : 0. Polar
+lipids include diphosphatidylglycerol, phosphatidylglycerol, phosphatidylethanolamine, phosphatidylmonomethylethanolamine, phosphatidylcholine, an unidentified
+phosphoglycolipid, two different unidentified phospholipids and an unidentified aminolipid. The only respiratory
+ubiquinone detected is Q-10. The DNA G+C content of
+the type strain is 58.1 mol%. Cells are capable of a specific
+attached symbiotic relationship, only with Anabaena
+sp. SSM-00 and only attached to the surface of its
+heterocystous cells.
+The type strain, WH2KT (5CCUG 56626T 5NRRL
+B-59520T), was isolated from a two-membered culture
+containing WH2KT and Anabaena sp. SSM-00, which itself
+was isolated from a brackish marsh in Woods Hole, MA,
+USA.
+http://ijs.sgmjournals.org
+
+Acknowledgements
+We thank Melissa Bebak, Cherilyn Ewert and Paul Smith for
+conducting various aspects of this work as graduate and undergraduate research assistants in the lab of B. S. S. We thank Dr Toby D. Allen
+for his assistance with determining DNA G+C content. We thank Dr
+Scott Russell and Greg Strout for their assistance in producing
+electron micrographic images at the Samuel Nobel Microscopy
+Laboratory at OU. This work was funded by startup funds and a
+faculty enrichment grant awarded to B. S. S. at OU.
+
+References
+Ahrens, R. (1968). Taxonomische Untersuchungen an sternbildenden
+
+Agrobacterium-Arten aus der westlichen Ostsee. Kieler Forsch 24,
+147–173 (in German).
+Ashen, J. B. & Goff, L. J. (1998). Galls on the marine red alga Prionitis
+lanceolata (Halymeniaceae): specific induction and subsequent
+development of an algal–bacterial symbiosis. Am J Bot 85, 1710–1721.
+Ashen, J. B. & Goff, L. J. (2000). Molecular and ecological evidence for
+
+species specificity and coevolution in a group of marine algal-bacterial
+symbioses. Appl Environ Microbiol 66, 3024–3030.
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Thu, 15 Feb 2018 22:33:36
+
+2443
+
+B. S. Stevenson and others
+
+Behrens, S., Lösekann, T., Pett-Ridge, J., Weber, P. K., Ng, W. O.,
+Stevenson, B. S., Hutcheon, I. D., Relman, D. A. & Spormann, A. M.
+(2008). Linking microbial phylogeny to metabolic activity at the
+
+single-cell level by using enhanced element labeling-catalyzed reporter
+deposition fluorescence in situ hybridization (EL-FISH) and
+NanoSIMS. Appl Environ Microbiol 74, 3143–3150.
+
+Martı́nez-Garcı́a, M., Diaz-Valdés, M., Ramos-Esplá, A., Salvador, N.,
+Lopez, P., Larriba, E. & Antón, J. (2007). Cytotoxicity of the ascidian
+
+Cystodytes dellechiajei against tumor cells and study of the
+involvement of associated microbiota in the production of cytotoxic
+compounds. Mar Drugs 5, 52–70.
+Paerl, H. W. (1977). Specific associations of bluegreen algae Anabaena
+
+Biebl, H., Allgaier, M., Tindall, B. J., Koblizek, M., Lünsdorf, H., Pukall, R.
+& Wagner-Döbler, I. (2005). Dinoroseobacter shibae gen. nov., sp. nov., a
+
+and Aphanizomenon with bacteria in freshwater blooms. J Phycol 12,
+431–435.
+
+new aerobic phototrophic bacterium isolated from dinoflagellates. Int J
+Syst Evol Microbiol 55, 1089–1096.
+
+Paerl, H. W. (1978). Role of heterotrophic bacteria in promoting N2-
+
+Biebl, H., Tindall, B. J., Pukall, R., Lünsdorf, H., Allgaier, M. &
+Wagner-Döbler, I. (2006). Hoeflea phototrophica sp. nov., a novel
+
+Paerl, H. W. (1984). Transfer of N2 and CO2 fixation products from
+
+marine aerobic alphaproteobacterium that forms bacteriochlorophyll
+a. Int J Syst Evol Microbiol 56, 821–826.
+Caldwell, D. E. & Caldwell, S. J. (1978a). A Zoogloea sp. in obligate
+
+association with blooms of Anabaena flos-aquae. J Phycol 14, 32.
+Caldwell, D. E. & Caldwell, S. J. (1978b). A Zoogloea sp. associated
+
+with blooms of Anabaena flos-aquae. Can J Microbiol 24, 922–931.
+Chun, J., Lee, J.-H., Jung, Y., Kim, M., Kim, S., Kim, B. K. & Lim, Y.-W.
+(2007). EzTaxon: a web-based tool for the identification of
+
+prokaryotes based on 16S ribosomal RNA gene sequences. Int J Syst
+Evol Microbiol 57, 2259–2261.
+DeSantis, T. Z., Jr, Hugenholtz, P., Keller, K., Brodie, E. L., Larsen, N.,
+Piceno, Y. M., Phan, R. & Andersen, G. L. (2006a). NAST: a multiple
+
+fixation by Anabaena in aquatic habitats. Microb Ecol 4, 215–231.
+Anabaena oscillarioides to associated bacteria during inorganic carbon
+sufficiency and deficiency. J Phycol 20, 600–608.
+Paerl, H. W. & Gallucci, K. K. (1985). Role of chemotaxis in
+
+establishing a specific nitrogen-fixing cyanobacterial-bacterial association. Science 227, 647–649.
+Paerl, H. W. & Kellar, P. E. (1978). Significance of bacterial Anabaena
+
+(Cyanophyceae) associations with respect to N2 fixation in freshwater.
+J Phycol 14, 254–260.
+Paerl, H. W. & Pinckney, J. L. (1996). A mini-review of microbial
+
+consortia: their roles in aquatic production and biogeochemical
+cycling. Microb Ecol 31, 225–247.
+Palacios, L., Arahal, D. R., Reguera, B. & Marı́n, I. (2006). Hoeflea
+
+sequence alignment server for comparative analysis of 16S rRNA
+genes. Nucleic Acids Res 34, W394–W399.
+
+alexandrii sp. nov., isolated from the toxic dinoflagellate Alexandrium
+minutum AL1V. Int J Syst Evol Microbiol 56, 1991–1995.
+
+DeSantis, T. Z., Hugenholtz, P., Larsen, N., Rojas, M., Brodie, E. L.,
+Keller, K., Huber, T., Dalevi, D., Hu, P. & Andersen, G. L. (2006b).
+
+Peix, A., Rivas, R., Trujillo, M. E., Vancanneyt, M., Velázquez, E. &
+Willems, A. (2005). Reclassification of Agrobacterium ferrugineum
+
+Greengenes, a chimera-checked 16S rRNA gene database and workbench compatible with ARB. Appl Environ Microbiol 72, 5069–5072.
+
+LMG 128 as Hoeflea marina gen. nov., sp. nov. Int J Syst Evol
+Microbiol 55, 1163–1166.
+
+Ferrier, M., Martin, J. L. & Rooney-Varga, J. N. (2002). Stimulation of
+
+Rippka, R., Deruelles, J., Waterbury, J. B., Herdman, M. & Stanier,
+R. Y. (1979). Generic assignments, strain histories and properties of
+
+Alexandrium fundyense growth by bacterial assemblages from the Bay
+of Fundy. J Appl Microbiol 92, 706–716.
+Grossart, H. P., Czub, G. & Simon, M. (2006). Algae-bacteria
+
+interactions and their effects on aggregation and organic matter flux
+in the sea. Environ Microbiol 8, 1074–1084.
+Jasti, S., Sieracki, M. E., Poulton, N. J., Giewat, M. W. & RooneyVarga, J. N. (2005). Phylogenetic diversity and specificity of bacteria
+
+closely associated with Alexandrium spp. and other phytoplankton.
+Appl Environ Microbiol 71, 3483–3494.
+Jones, A. K. & Cannon, R. C. (1986). The release of microalgal
+
+photosynthate and associated bacterial uptake and heterotrophic
+growth. Br Phycol J 21, 341–358.
+Kämpfer, P. & Kroppenstedt, R. M. (1996). Numerical analysis of
+
+pure cultures of cyanobacteria. J Gen Microbiol 111, 1–61.
+Rüger, H. J. & Höfle, M. G. (1992). Marine star-shaped-aggregateforming bacteria: Agrobacterium atlanticum sp. nov.; Agrobacterium
+meteori sp. nov.; Agrobacterium ferrugineum sp. nov., nom. rev.;
+Agrobacterium gelatinovorum sp. nov., nom. rev.; and Agrobacterium
+stellulatum sp. nov., nom. rev. Int J Syst Bacteriol 42, 133–143.
+Schiefer, G. E. & Caldwell, D. E. (1982). Synergistic interaction
+
+between Anabaena and Zoogloea spp. in carbon dioxide-limited
+continuous cultures. Appl Environ Microbiol 44, 84–87.
+Sekar, R., Kaczmarsky, L. T. & Richardson, L. L. (2008). Microbial
+
+community composition of black band disease on the coral host
+Siderastrea siderea from three regions of the wider Caribbean. Mar
+Ecol Prog Ser 362, 85–98.
+
+fatty acid patterns of coryneform bacteria and related taxa. Can J
+Microbiol 42, 989–1005.
+
+Sipkema, D., Holmes, B., Nichols, S. A. & Blanch, H. W. (2009).
+
+Klassen, J. L. (2009). Pathway evolution by horizontal transfer and
+
+Biological characterisation of Haliclona (?gellius) sp.: sponge and
+associated microorganisms. Microb Ecol 58, 903–920.
+
+positive selection is accommodated by relaxed negative selection upon
+upstream pathway genes in purple bacterial carotenoid biosynthesis.
+J Bacteriol 191, 7500–7508.
+Ludwig, W., Strunk, O., Westram, R., Richter, L., Meier, H.,
+Yadhukumar, Buchner, A., Lai, T., Steppi, S. & other authors
+(2004). ARB: a software environment for sequence data. Nucleic Acids
+
+Res 32, 1363–1371.
+Lupton, F. S. & Marshall, K. C. (1981). Specific adhesion of bacteria to
+heterocysts of Anabaena spp. and its ecological significance. Appl
+Environ Microbiol 42, 1085–1092.
+
+2444
+
+Stevenson, B. S. & Waterbury, J. B. (2006). Isolation and
+
+identification of an epibiotic bacterium associated with heterocystous
+Anabaena cells. Biol Bull 210, 73–77.
+PAUP*: phylogenetic analysis using parsimony
+(and other methods), version 4, Beta 10 edn. Sunderland, MA:
+Sinauer Associates.
+
+Swofford, D. L. (2003).
+
+Waterbury, W. B., Watson, S. W., Valois, F. W. & Franks, D. G. (1986).
+
+Biological and ecological characterization of the marine unicellular
+cyanobacterium Synechococcus. Can Bull Fish Aquat Sci 214, 71–120.
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 61
+IP: 189.155.188.202
+On: Thu, 15 Feb 2018 22:33:36
+
+
