@@ -1,0 +1,1484 @@
+Environmental Microbiology (2009) 11(8), 1983–1997
+
+doi:10.1111/j.1462-2920.2009.01921.x
+
+Isolation and physiological characterization of two
+novel, piezophilic, thermophilic chemolithoautotrophs
+from a deep-sea hydrothermal vent chimney
+Ken Takai,1* Masayuki Miyazaki,1 Hisako Hirayama,1
+Satoshi Nakagawa,1 Joël Querellou2 and
+Anne Godfroy2
+1
+Sunground Animalcule Retrieval (SUGAR) Program,
+Japan Agency for Marine-Earth Science & Technology,
+2-15 Natsushima-cho, Yokosuka 237-0061, Japan.
+2
+Ifremer, Ctr Brest, Laboratoire de Microbiologie des
+Environnements Extrêmes, UMR 6197, F-29280
+Plouzané, France.
+Summary
+
+emi_1921
+
+1983..1997
+
+Two novel, thermophilic piezophiles, capable of
+chemolithoautotrophic growth, are successfully cultivated and isolated from a black smoker chimney at
+the TAG field (Mid Atlantic Ridge: MAR) by using
+a piezophilic cultivation technique. Both strains
+(strains 106 and 108) represent dominant cultivated
+populations of the microbial communities in the
+chimney surface habitat. Strain 106 represents typically thin, long spiral cells under the piezophilic
+growth condition but short bent cells under the
+non-piezophilic condition. It is a strictly chemolithoautotrophic gammaproteobacterium using reduced
+sulfur compounds as the electron donors, and nitrate
+and O2 as the electron acceptors. Based on the 16S
+rRNA gene sequence, strain 106 would represent a
+novel genus of the previously uncultivated group
+(Symbiont Group I; a potentially novel family) within
+the Gammaproteobacteria, and ‘Thioprofundum
+lithotrophica’ gen. nov., sp. nov. is proposed. Strain
+108 is a short, oval rod at any of the growth pressures.
+It is a facultative chemoautotroph, capable of both
+chemolithoautotrophic growth with H2 and S oxidations and organotrophic growth with complex
+organics or organic acids using nitrate and O2 as
+the electron acceptors. The chemolithoautotrophic
+growth is strictly piezophilic and under the organotrophic growth condition, it grows at conventional
+pressures (0.1 MPa). Strain 108 is phylogenetically
+
+Received 5 December, 2008; accepted 1 March, 2009. *For correspondence. E-mail kent@jamstec.go.jp; Tel. (+81) 468 67 9677;
+Fax (+81) 468 67 9715.
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd
+
+distinctive from any of the previously described
+genera of the family Rhodobacteraceae within the
+Alphaproteobacteria, and ‘Piezobacter thermophilus’
+gen. nov., sp. nov. is proposed. The piezophilic cultivation technique can be a powerful tool to isolate and
+characterize the previously uncultivated phylotypes
+in the deep-sea hydrothermal vent environments.
+Introduction
+Research on deep-sea piezophiles has half century of
+history since the pioneering work by Zobell and Morita
+(1957). For 50 years, most of the targeted microorganisms have been heterotrophs, while very few piezophilic
+chemolithoautotrophs were described (Bernhardt et al.,
+1988; Miller et al., 1988; Kato, 2006; Park et al., 2006).
+Thermophilic hydrogenotrophic methanogens Methanocaldococcus jannaschii and Methanothermococcus thermolithotrophicus were isolated from deep-sea and deep
+subsurface environments originally by conventional, nonpiezophilic cultivation techniques but were later found to
+be facultative piezophilic based on the hyperbaric pressure cultivation experiments (Bernhardt et al., 1988; Miller
+et al., 1988). Recently, a new hydrostatic pressure cultivation technique has been developed, which has enabled
+cultivation of various types of deep-sea chemolithoautotrophs such as hydrogenotrophic methanogen, sulfate
+reducer and H2- and S-oxidizing nitrate and O2 reducers
+previously isolated by non-piezophilic techniques (Takai
+et al., 2008a). This technique was successfully applicable
+even for the most hyperthermophilic microorganism,
+Methanopyrus kandleri, which had been also known to be
+quite hard to cultivate (Takai et al., 2008a). Nevertheless,
+all the deep-sea piezophilic chemolithoautotrophs studied
+so far were initially isolated by the cultures under the
+conventional gas pressures (up to 0.4 MPa), and none of
+the chemolithoautotrophs is obtained by a high-pressure
+culture directly from a deep-sea habitat.
+Direct piezophilic enrichment from deep-sea and deep
+subsurface microbial communities would be advantageous to obtain the numerically predominant or the functionally significant microbial populations in the in situ
+habitats. This is not only because the in situ hydrostatic
+pressure is a potential key physical parameter directly
+
+1984 K. Takai et al.
+affecting their growth (Abe et al., 1999; Kato, 2006) but
+also because the pressure and temperature serve as the
+primary physicochemical factors preparing the thermodynamic states of energy and carbon metabolisms for their
+growth. That is to say, using conventional gas pressures
+of media, available gaseous substrates dissolved in the
+liquid phase of microbial medium often become much less
+abundant as compared with the concentrations in the in
+situ environments. For instances, the highest dissolved
+concentrations of H2, N2, CH4 and CO2 in the deep-sea
+hydrothermal fluids are recorded to be up to 16, 36, 54
+and 2700 mM respectively (Charlou et al., 2002; Person
+et al., 2005; Lupton et al., 2008) but in the test tubes or
+bottles at 60°C under a 0.2 MPa of gas pressure, theoretically the soluble concentrations are less than 1.6, 1.2,
+2.0 and 23.5 mM respectively. The different abundance of
+the gaseous energy and carbon sources may be a great
+metabolic bias for enrichment of certain populations that
+are less predominant in the in situ habitats but are energetically favourable in laboratory experiments. In contrast,
+if the piezophilic cultivation provides quite dissimilar thermodynamic states compared with those of the in situ
+habitats, it may lead to enrichment of previously uncultivated and unidentified microbial components of the
+similar environments.
+In this study, we tried to cultivate H2- and/or sulfuroxidizing chemolithoautotrophs using the piezophilic cultivation technique from a black smoker chimney obtained
+from the TAG field in the Mid Atlantic Ridge (MAR). The
+TAG field is located at water depth of between 3620 and
+3660 m and is among the world deepest hot hydrothermal
+systems. The H2- and/or sulfur-oxidizing chemolithoautotrophs are one of the most predominant microbial populations in the global deep-sea hydrothermal environments
+and a diversity of Aquificae and Epsilonproteobacteria
+members have been isolated as the primary components
+(Nakagawa and Takai, 2006; 2008; Takai et al., 2006a).
+Although only one pressure–temperature (PT) condition
+of 50°C and 36 MPa and only one medium were used in
+this study, two novel chemolithoautotrophic bacteria were
+enriched and isolated by purification under different pressure conditions. These piezophilic chemolithoautotrophs
+represented the previously uncultivated phylotypes of
+Proteobacteria. The physiological properties of the new
+deep-sea piezophiles were characterized under the
+piezophilic cultivation condition.
+
+Results and discussion
+Chimney habitats and total, viable and fluorescence
+in situ hybridization (FISH) cell counts
+At the present, it is still very difficult to determine directly
+the physical and chemical conditions of the microbial
+
+habitats in the chimney structure by using some of the in
+situ hardware such as temperature, pH and other chemical sensors at the deep seafloor. Thus, the potential
+chemical conditions for a given temperature range of
+chimney habitat have been often extrapolated by the
+mixing between the hot end-member hydrothermal fluid
+and the cold ambient seawater (McCollom and Shock,
+1997; Shock and Holland, 2004; Tivey, 2004).
+According to the chemical composition of the endmember hydrothermal fluid in ‘the black smoker complex
+(BSC)’ of the TAG field already reported (Campbell et al.,
+1988; Charlou et al., 1996; Chiba et al., 2001), the potential concentration ranges of gaseous energy and carbon
+substrates in the chimney habitats were estimated. If the
+microbially habitable temperature range was assumed to
+be up to ~130°C that could be brought by a simple mixing
+of approximately 1:2 ratio between the hydrothermal fluid
+and the seawater in the case of the TAG field, the available concentrations of dissolved H2, N2, CO2, CH4 and
+H2S are estimated to be up to 0.12, 0.3, 3.4, 0.05 and
+2.3 mM, respectively, based on the highest values
+reported by Campbell and colleagues (1988) and Charlou
+and colleagues (1996). The total dissolved concentrations
+of H2, SCO2 and reduced sulfur compounds were about
+10, 30 and 10 mM in Piezo-MMJHS medium and < 1.3, 30
+and 10 mM in non-piezophilic MMJHS medium at 50°C
+respectively. Thus, the enrichment by using PiezoMMJHS medium might provide a larger chemical dissimilarity than that under the non-piezophilic condition,
+particularly in dissolved H2 concentration, between the
+in situ habitats and the laboratory experiments. The
+dissolved H2 concentration and hydrostatic pressure
+could be significantly different under piezophilic and
+non-piezophilic enrichment culture conditions.
+The total cell counts in the chimney inside and surface
+habitats were 3.2 ¥ 105 ⫾ 7.2 ¥ 104 and 9.6 ¥ 106 ⫾
+4.0 ¥ 105 cells g-1 (wet weight) respectively. These total
+cell counts were very comparable to those in other black
+smoker chimneys studied so far in different deep-sea
+hydrothermal systems (e.g. Takai et al., 2008b). In addition to the total cell counts in the chimney habitats, the
+viable counts of the representative cultivated populations
+in the habitats were also determined under the conventional cultivation conditions. From the chimney surface
+habitat, members of the genera Thermococcus, Deferribacter, Persephonella and Sulfurimonas were cultivated as
+the predominant populations. The viable cell counts of
+these members were 106-107 cells g-1 for Thermococcus,
+103-104 cells g-1 for Deferribacter, 105-106 cells g-1 for
+Persephonella and 105-106 cells g-1 for Sulfurimonas
+respectively. Based on these viable cell counts by the
+serial dilution cultivation experiments under the nonpiezophilic condition, the predominant H2- and/or
+S-oxidizing chemolithoautotrophic members in the TAG
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+Isolation of novel piezophilic chemoautotrophs 1985
+black smoker chimney surface were represented by Persephonella spp. within the Aquificae and Sulfurimonas
+spp. within the Epsilonproteobacteria, which has
+been commonly observed in other chimney habitats of
+the different hydrothermal systems (e.g. Takai et al.,
+2008b).
+On the other hand, based on the estimation of the viable
+cell counts under the piezophilic cultivation condition,
+strains 106 and 108 represented 0.6–3.0 ¥ 103 cells g-1
+and 1.5–7.5 ¥ 104 cells g-1 respectively. These population
+sizes were lower than that of the Persephonella
+members growing at the same temperature under the
+non-piezophilic cultivation condition, but represented
+0.01–0.3% (for strain 106) and 0.2–7.5% (for strain 108)
+of the sum of viable cell counts in the chimney surface
+habitat. In the highest dilution culture of a serial dilution
+experiment using the non-piezophilic MMJHS medium at
+50°C, a minor but certain proportion of thin, long spiral
+cells were observed together with abundant, short rod
+cells of the Persephonella members. This morphotype of
+microorganism was successfully cultivated and isolated
+from the highest dilution of culture using Piezo-MMJHS
+medium. The partial 16S rRNA gene sequence of the
+isolate was 99.8% identical to that of strain 106. Thus, the
+viable cell count of strain 106 under the non-piezophilic
+cultivation condition was considered to be 105-106
+cells g-1, which was equivalent to that of the Persephonella members and 1–50% of the sum of viable cell
+counts. These results suggested that both strains 106 and
+108 were novel microbial components previously uncultivated from other deep-sea hydrothermal systems but
+potentially represented the functionally significant H2and/or S-oxidizing chemolithoautotrophic components in
+the chimney structure of the TAG field.
+The estimation of the cellular abundance of strains 106
+and 108 by the fluorescence in situ hybridization (FISH)
+analysis indicated that both strains can be not only the
+functionally and metabolically significant members in the
+viable microbial populations but also the numerically considerable components in the total cell count of the microbial community. The proportion of strains 106 and 108
+cells in the total cell counts determined by the 4′,6diamidino-2-phenylindole (DAPI) staining and the hybridization with either the bacterial or the archaeal probe
+(EUB338 or ARC915) was 3.4% and 3.6% for strain 106
+and 1.1% and 1.2% for strain 108 respectively. These
+results were not so inconsistent with the proportion of
+viable populations of strains 106 and 108 in the sum of
+viable cell counts determined by the cultivation experiments. It seems likely therefore that the piezophilic cultivation technique is a powerful experimental scheme to
+explore the previously uncultivated but ecophysiologically
+significant chemolithoautotrophs in the deep-sea hydrothermal environments.
+
+Morphological, physiological and metabolic
+properties of strain 106
+Cells of strain 106 were motile (not all the cells but some),
+long, thin spiral and approximately 6–20 mm long and
+0.4–0.6 mm wide, with a polar flagellum under the
+piezophilic cultivation condition (Fig. 1A). Under the
+conventional gas pressure condition (0.2 MPa), however,
+most of the cells became shorter (up to 4 mm long) with
+motility (Fig. 1B). As compared with other deep-sea
+chemolithoautotrophs having similar growth temperature
+ranges with the Aquificae and Epsilonproteobacteria,
+strain 106 was morphologically novel.
+Strain 106 autotrophically grew at a temperature range
+between 30°C and 55°C (optimally 50°C) (Fig. 2A), at a
+pH range between 5.8 and 7.6 (optimally pH 7.0) (Fig. 2B)
+and at a NaCl range from 1.2 to 4.2 (%; w/v) (optimally
+3%) (Fig. 2C) under the piezophilic cultivation condition.
+In addition, the growth of strain 106 was observed at a
+hydrostatic pressure range between 0.2 and 36 MPa, and
+the highest growth rate was identified at 16 MPa (Fig. 3).
+Thus, strain 106 was piezophilic but not a strict piezophile.
+The ability of strain 106 to utilize various electron
+donors, electron acceptors and carbon sources was
+investigated using a range of substrates under the piezophilic and non-piezophilic conditions (Table 1). Strain 106
+grew chemolithoautotrophically with elemental sulfur, thiosulfate, tetrathionate or sulfite as a sole electron donor
+and with nitrate or O2 as a sole electron donor (Table 1).
+Organic compounds served as neither energy nor carbon
+sources. Strain 106 was found to be a strict chemolithoautotroph. In addition, strain 106 was able to utilize O2 as the
+electron acceptor but its O2 utilization represented the
+microaerophilic mode (up to 0.4 mM of dissolved O2 concentration or 5% of O2 partial pressure) (Table 1). Strain
+106 utilized nitrate, ammonium and yeast extract as a
+nitrogen source. Molecular nitrogen (N2) could also
+support the growth as a sole nitrogen source, suggesting
+the possible N2 fixation, although the existence of genetic
+components of N2 fixation enzymes (nif genes) and the
+15
+N2 incorporation into the cellular nitrogens were not
+experimentally examined. Selenium, tungsten and vitamins were not required for the growth.
+A time-course of oxidation of thiosulfate by nitrate
+reduction and concomitant growth under the piezophilic
+condition were characterized (Fig. 4A). During the growth,
+thiosulfate and nitrate were consumed, and sulfate, N2
+and N2O were accumulated (Fig. 4A). None of the other
+potentially intermediate products such as sulfite and nitrite
+from the thiosulfate oxidation and the nitrate reduction
+was detected (Fig. 4A). The consumption of thiosulfate
+and nitrate was stoichiometrically equivalent to the accumulation of sulfate and gaseous nitrogen compounds
+(Fig. 4A). These results clearly demonstrated that strain
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+1986 K. Takai et al.
+
+Fig. 1. Electron micrographs of negatively stained cell of strain 106
+grown under the piezophilic cultivation condition at 50°C and
+16 MPa (A) and under the non-piezophilic cultivation condition at
+50°C and 0.2 MPa of gas pressure (80% H2 + 20% CO2) (B), and of
+strain 108 grown under the piezophilic cultivation condition at 50°C
+and 16 MPa (C). Bar indicates 2.0 mm (A) and 1.0 mm (B and C)
+respectively.
+
+Fig. 2. Effects of temperature (A), pH (B) and NaCl concentration
+(C) on growth of strain 106 (䊉) or strain 108 (䊐).
+A. Growth curves at different temperatures were determined in
+Piezo-MMJHS medium at pH 6.5 at the optimal pressures.
+B. Effect of pH on growth was determined in Piezo-MMJHS
+medium having varying pH at 50°C and the optimal pressures. The
+pH value was monitored before (䊉 and 䊐) and after (䊊 and 䊏) the
+growth.
+C. Effect of NaCl concentration on growth was determined in
+Piezo-MMJHS medium containing a varying concentration of NaCl
+at 50°C and pH 6.0 under the piezophilic condition.
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+Isolation of novel piezophilic chemoautotrophs 1987
+
+Fig. 3. Effect of hydrostatic pressure on growth of strains 106 (䊉)
+or 108 (䊐). Growth curves were determined at 50°C and pH 6.5
+under the autotrophic growth condition.
+
+106 was a strictly chemolithoautotrophic, facultatively
+anaerobic piezophile oxidizing the reduced sulfur compounds to sulfate by O2 or nitrate reduction.
+Strain 106 was found to be sensitive to a variety of
+antibiotics, including chloramphenicol (50 mg ml-1), streptomycin (50 mg ml-1), kanamycin (50 mg ml-1), ampicillin
+(50 mg ml-1) and vancomycin (50 mg ml-1).
+
+Morphological, physiological and metabolic
+properties of strain 108
+Cells of strain 108 were non-motile, short, oval and
+approximately 1–1.5 mm long and 0.6–0.7 mm wide under
+
+any of the cultivation conditions (Fig. 1C). No flagellum
+was observed (Fig. 1C).
+Strain 108 autotrophically grew at a temperature range
+between 30°C and 55°C (optimally 50°C) (Fig. 2A), at a
+pH range between 5.5 and 7.5 (optimally pH 6.5–7.0)
+(Fig. 2B) and at a NaCl range from 1.2 to 5.4 (%; w/v)
+(optimally 2%) (Fig. 2C) under the piezophilic cultivation
+condition. The autotrophic growth of strain 108 was strictly
+piezophilic and was observed at a hydrostatic pressure
+range between 16 and 65 MPa, and the highest growth
+rate was obtained at 36 MPa (Fig. 3). Although the piezophilic response in the organotrophic growth of strain 108
+was not fully determined, strain 108 was able to grow with
+the organic substrates under the conventional nonpiezophilic condition (0.1 MPa of air). The optimal hydrostatic pressure for the autotrophic growth was equivalent
+to the in situ pressure of the seafloor at which the TAG
+hydrothermal field is located. It has been reported that
+many deep-sea hydrothermal vent hyperthermophilic heterotrophs demonstrate the greater hydrostatic pressure
+optima for growth than the pressure corresponding to their
+seafloor habitats (Deming and Baross, 1993). The difference in hydrostatic pressure at which the hyperthermophiles grow favourably in the laboratory experiments and
+naturally in the in situ seafloor may point to the possible
+existence of deep, hot subseafloor biosphere beneath the
+hydrothermal active seafloor (Deming and Baross, 1993).
+Unlike many hyperthermophilic heterotrophs such as
+Thermococales members, the growth pressure optima of
+strains 106 and 108 matched the water depth range of
+many seafloor hydrothermal systems in the present Earth
+(> 1000–< 4000 m). Thus, these strains may represent
+
+Fig. 4. Time-course of oxidation of electron donor, reduction of electron acceptor and concomitant growth of strain 106 grown with thiosulfate
+and nitrate (A), strain 108 grown with H2 and nitrate (B) or strain 108 grown with thiosulfate and nitrate (C).
+A. Consumption of thiosulfate and nitrate, production of sulfate and nitrogenous gases and cellular proliferation of strain 106 were determined
+at 50°C, pH 6.5 and 16 MPa.
+B. Consumption of H2 and nitrate, production of nitrogenous gases and cellular proliferation of strain 108 were determined at 50°C, pH 6.5 and
+36 MPa. The concentration N2O is indicated as five times higher value for easy perception.
+C. Consumption of thiosulfate and nitrate, production of nitrogenous gases and cellular proliferation of strain 108 were determined at 50°C,
+pH 6.5 and 36 MPa.
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+1988 K. Takai et al.
+Table 1. Utilization of electron donor/acceptor of strains 106 and 108 under piezophilic and non-piezophilic cultivation conditions.
+
+Electron donor/acceptor
+
+Strain 106
+Piezophilic
+condition at
+16 MPa
+
+Strain 106
+Non-piezophilic
+condition at 0.2 MPa
+gas pressure
+
+Strain 108
+Piezophilic
+condition at
+36 MPa
+
+Strain 108
+Non-piezophilic
+condition at 0.2 MPa
+gas pressure
+
+H2 (10 mM)/NO3 (20 mM)
+H2 (80%; v/v)/NO3 (20 mM)
+H2 (80%; v/v)/O2 (1%; v/v)
+H2 (10 mM)/S0 (3%; w/v)
+H2 (10 mM)/S2O3 (10 mM)
+S0 (3%; w/v)/NO3 (20 mM)
+S2O3 (10 mM)/NO3 (20 mM)
+S2O3 (10 mM)/NO2 (2.5 mM)
+S2O3 (10 mM)/O2 (0.04 mM)
+S2O3 (10 mM)/O2 (0.12 mM)
+S2O3 (10 mM)/O2 (0.4 mM)
+S2O3 (10 mM)/O2 (1.2 mM)
+S2O3 (10 mM)/O2 (2 mM)
+S2O3 (10 mM)/O2 (4 mM)
+S2O3 (10 mM)/O2 (0.1%; v/v)
+S2O3 (10 mM)/O2 (0.3%; v/v)
+S2O3 (10 mM)/O2 (1%; v/v)
+S2O3 (10 mM)/O2 (3%; v/v)
+S2O3 (10 mM)/O2 (5%; v/v)
+S2O3 (10 mM)/O2 (10%; v/v)
+H2S+HS (1.25 mM)/NO3 (20 mM)
+Cys-HCl (2.5 mM)/NO3 (20 mM)
+S4O6 (5 mM)/NO3 (20 mM)
+SO3 (2.5 mM)/NO3 (20 mM)
+Yeast extract (0.1%; w/v)/NO3 (20 mM)
+Tryptone (0.1%, w/v)/NO3 (20 mM)
+Casamino acid (0.1%, w/v)/NO3 (20 mM)
+Formate (5 mM)/NO3 (20 mM)
+Acetate (5 mM)/NO3 (20 mM)
+Pyruvate (5 mM)/NO3 (20 mM)
+Yeast extract (0.1%; w/v)/O2 (0.3%; v/v)
+Yeast extract (0.1%; w/v)/O2 (1%; v/v)
+Yeast extract (0.1%; w/v)/O2 (3%; v/v)
+Yeast extract (0.1%; w/v)/O2 (5%; v/v)
+Yeast extract (0.1%; w/v)/O2 (10%; v/v)
+Yeast extract (0.1%; w/v)/O2 (20%; v/v)
+
+N.G.
+N.A.
+N.A.
+N.G.
+N.G.
+++
+++
+N.G.
+++
++
++
+N.G.
+N.G.
+N.G.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+++
+N.G.
++
++
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+
+N.A.
+N.G.
+N.G.
+N.A.
+N.A.
+++
+++
+N.G.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+++
+++
++++
++++
++++
+N.G.
+++
+N.G.
++
++
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+
++
+N.A.
+N.A.
+N.G.
+N.G.
+++
+++
+N.G.
+++
+++
+++
+++
+++
+++
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+++
+++
+++
+++
++++
++++
+N.G.
+N.G.
++++
++++
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+
+N.A.
+N.G.
+N.G.
+N.A.
+N.A.
+N.G.
+N.G.
+N.G.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+N.G.
+++
+++
+N.G.
+N.G.
+++
+++
+++
++++
++++
++++
++++
++++
+
+N.G., not grown; N.A., not attempted; +, final cell yield is < 1.0 ¥ 108 cells ml-1; ++, between 1.0 ¥ 108 and 5.0 ¥ 108; +++, > 1.0 ¥ 109.
+
+the indigenous, functionally active microbial components
+thriving at the hydrothermally associated habitats at
+around the seafloor.
+The energy and carbon metabolisms of strain 108 were
+quite different from those of strain 106 (Table 1). It was
+capable of both chemolithoautotrophic and organotrophic
+growth (Table 1). The possible inorganic electron donor to
+support the growth was H2, elemental sulfur, thiosulfate,
+cystein-HCl, tetrathionate or sulfite, and various organic
+compounds such as yeast extract, tryptone, acetate and
+pyruvate also served as the energy sources (Table 1). All
+these organic compounds and Casamino acid were utilized as the carbon source instead of the inorganic
+carbons. Both the chemolithoautotrophic and organotrophic growth were based on the electron acceptors of
+nitrate and O2 (Table 1), and the O2-dependent growth
+was fully aerobic (Table 1). These results demonstrate
+that strain 108 is a piezophilic, facultatively anaerobic and
+
+chemolithoautotrophic, thermophile. Strain 108 utilized
+nitrate and ammonium as a nitrogen source. Similarly as
+strain 106, molecular nitrogen (N2) could be utilized as a
+sole nitrogen source although the existence of genetic
+components of N2 fixation enzymes (nif genes) and the
+15
+N2 incorporation into the cellular nitrogens were not
+experimentally checked. Selenium, tungsten and vitamins
+were not required for the growth.
+A time-course of oxidation of either H2 or thiosulfate by
+nitrate reduction and concomitant growth under the piezophilic condition were characterized (Fig. 4B and C).
+During the growth, either H2 or thiosulfate and nitrate were
+consumed, and either H2O (not identified) or sulfate and
+N2O were accumulated (Fig. 4B and C). The consumptions of thiosulfate and nitrate were stoichiometrically
+equivalent to the accumulation of sulfate and N2O during
+the thiosulfate-dependent growth (Fig. 4C), while H2 consumption was too much as expected by the extent of
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+Isolation of novel piezophilic chemoautotrophs 1989
+Table 2. Cellular fatty acid compositions of strains 106 and 108 under the piezophilic and non-piezophilic cultivation conditions.
+
+Fatty acids
+
+Strain 106
+Autotrophically
+grown at 16 MPa
+
+Strain 106
+Autotrophically
+grown at 0.2 MPa
+(gas pressure)
+
+Strain 108
+Autotrophically
+grown at 36 MPa
+
+Strain 108
+Organotrophically
+grown at 0.1 MPa (air)
+
+C12
+C14
+C15
+C16
+C16:1 w7
+Anteiso-C17
+C17
+C18
+C18:1 w2
+C18:1 w7
+Total
+UF/SF
+Caverage
+
+1.2%
+7.2%
+2.1%
+41.3%
+14.3%
+14.3%
+1.2%
+4.2%
+n.d.
+14.1%
+99.9%
+0.397
+16.29
+
+1.8%
+4.7%
+1.9%
+41.3%
+5.3%
+17.1%
+1.1
+10.9%
+n.d.
+15.9%
+100%
+0.269
+16.52
+
+n.d.
+3.4%
+n.d.
+21.4%
+n.d.
+n.d.
+n.d.
+37.5%
+16.5%
+21.2%
+100%
+0.605
+17.44
+
+n.d.
+3.2%
+n.d.
+26.8%
+n.d.
+n.d.
+n.d.
+42.0%
+12.2%
+15.8%
+100%
+0.389
+17.34
+
+n.d., not detected; UF/SF, unsaturated fatty acids/saturated fatty acids; Caverage, an average carbon chain number of fatty acids.
+
+nitrate reduction (Fig. 4B). As mentioned in the previous
+study for development of this piezophilic cultivation technique (Takai et al., 2008a), it is inevitable that a certain
+proportion of H2 gas leaks from the piezophilic cultivation
+syringe during the experiment. Probably, the excess
+amount of H2 consumption observed was due to the
+excess amount of H2 leak as compared with the control
+experiment without the microbial inoculum. These results
+demonstrated that strain 108 was a piezophilic, N2Oproducing H2 and S oxidizer under the chemolithoautotrophic growth condition.
+Strain 108 was also sensitive to a variety of antibiotics, including chloramphenicol (50 mg ml-1), streptomycin (50 mg ml-1), kanamycin (50 mg ml-1), ampicillin
+(50 mg ml-1) and vancomycin (50 mg ml-1).
+Cellular fatty acid composition
+Cellular fatty acid compositions of strains 106 and 108
+grown at the optimal pressures and at the conventional
+pressures are shown in Table 2. Each of the fatty acid
+components was typical as the components observed in
+the Proteobacteria except for small amounts of odds
+number of carbon chains (C15 and C17) found in strain 106
+(Table 2). The different patterns in the compositions of
+both strains were notable between the cells grown under
+the piezophilic and non-piezophilic conditions (Table 2).
+Since the first discovery (DeLong and Yayanos, 1985;
+1986), it has been well known that the fatty acid compositions of many deep-sea piezophilic bacteria vary as a
+function of pressure. At the present, it has become evident
+that the pressure-controlled variability in the fatty acid
+compositions of the deep-sea piezophilic bacteria is not
+simply generalized (e.g. Mangelsdorf et al., 2005).
+Nevertheless, an increasing ratio of total unsaturated
+
+fatty acids to saturated fatty acids with an increasing
+hydrostatic pressure initially suggested by DeLong and
+Yayanos (1985; 1986) still works as a very practical principle in most cases. Indeed, the pressure-induced enrichment of the unsaturated fatty acids was identified in our
+new piezophilic, chemolithoautotrophic bacteria (Table 2).
+This is the first evidence showing that the pressureinduced enrichment of the cellular unsaturated fatty acids
+was applicable not only to the deep-sea heterotrophic
+bacteria but also to the deep-sea piezophilic, chemolithoautotrophic bacteria.
+Genetic characteristics
+The G+C contents of the genomic DNA were found to be
+65.7 mol% for strain 106 and 66.2 mol% for strain 108
+respectively.
+The nearly complete 16S rRNA gene sequences of both
+strains (1487 bp for strain 106 and 1302 bp for strain 108)
+were determined and applied to the sequence similarity
+analysis. The 16S rRNA gene sequence of strain 106 was
+the most closely related to the sequences of a deep-sea
+hydrothermal vent gastropod Alviniconcha hessleri gill
+endosymbiont (94.0%) obtained from the Mariana Trough
+deep-sea hydrothermal system (Suzuki et al., 2005),
+while it was distantly related with any of the previously
+described gammaproteobacterial species of which the
+most similar sequence was that of Sulfurivirga caldicuralii
+(90.5%) (Takai et al., 2006b). The 16S rRNA gene
+sequence of strain 108 was distantly related to any of the
+sequences phylogenetically affiliated with the family
+Rhodobacteraceae within the Alphaproteobacteria. The
+most similar sequence of the previously described
+species was that of Paracoccus koreensis (93.9%) (La
+et al., 2005). These results strongly suggested that the
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+1990 K. Takai et al.
+
+Fig. 5. Phylogenetic tree of representative species and endosymbionts within the Alphaproteobacteria and Gammaproteobacteria including
+strain 106 and 108. The tree was inferred from 16S rRNA gene sequences using the neighbour-joining method on the 1022 homologous
+sequence positions for each sequence. The number at each node represents the bootstrap value (in per cent) determined by 1000 replicates.
+The scale bar indicates 5 substitutions per 100 nucleotides.
+
+new thermophilic piezophiles were previously uncultivated phylotypes within the Proteobacteria.
+To characterize the phylogenetic relationship between
+the new isolates and the previously described species
+within the Alphaproteobacteria and Gammaproteobacteria, the phylogenetic tree was reconstructed together with
+the representative environmental clones and species
+reported so far (Fig. 5). The tree indicated that strain 106
+was phylogenetically associated with many of the thioautotrophic gammaproteobacterial endosymbionts in the
+deep-sea chemosynthetic animals, which are tentatively
+classified into the Symbiont Group I including the endosymbionts in tubeworms and snails and the Symbiont
+Group II consisting of the thioautotrophic endosymbionts
+of mussels and clams (Fig. 5). On the other hand, strain
+108 was firmly affiliated within the family Rhodobacteraceae of the Alphaproteobacteria (Fig. 5). However, strain
+108 was phylogenetically distinctive from any of the previously described genera of the family (Fig. 5). Strain 108
+was the first member of the Rhodobacteraceae and the
+first thermophilic and chemolithoautotrophic alphaproteobacterium isolated from the deep-sea hydrothermal vent
+environments (e.g. Nakagawa and Takai, 2006; 2008),
+and even represented a novel alphaproteobacterial phylotype identified in the global deep-sea hydrothermal vent
+environments (Takai et al., 2006a).
+
+Taxonomic and ecological implications
+The exploration of thermophilic H2- and/or S-oxidizing
+chemolithoautotrophs under the piezophilic condition corresponding to an in situ hydrostatic pressure of the TAG
+hydrothermal field has led to the successful isolation of
+previously uncultured, two novel, piezophilic, chemolithoautotrophic Proteobacteria. These new piezophilic
+chemolithoautotrophs represented the functionally and
+metabolically significant members in the viable microbial
+populations and even the numerically considerable components in the microbial community of the black smoker
+chimney habitat.
+In this study, the piezophilic cultivation condition was
+designed to reproduce the in situ hydrostatic pressure but
+not to reproduce the chemical condition, particularly dissolved concentrations of gaseous energy and carbon
+sources, of the in situ habitats. The dissimilarity in the
+chemical conditions may result in the successful enrichment and isolation of novel piezophilic chemolithoautotrophs in this study. This is one aspect of application of the
+piezophilic cultivation technique to the microbial exploration in the deep-sea and deep subsurface. In contrast,
+using our piezophilic cultivation technique or similar techniques, the nearly complete reproduction of physical
+and chemical conditions of the in situ habitats in the
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+Isolation of novel piezophilic chemoautotrophs 1991
+laboratory could promote to excavate the numerically
+and functionally dominating but previously uncultivated
+microorganisms.
+The isolation of two novel chemolithoautotrophic Proteobacteria from the TAG hydrothermal field is also of
+great interest from the aspect of systematic and evolutionary bacteriology. Based on the phylogenetic characterization, both strains might represent novel genera of the
+Proteobacteria. Strain 106 is the first fully characterized
+S-oxidizing chemolithoautotroph of the phylogenetic
+group within the Gammaproteobacteria consisting only of
+the thioautotrophic endosymbionts of the deep-sea
+animals (Fig. 5). It is a free-living relative evolutionarily
+related with the endosymbionts although the growth temperature range is a little different between them. Thus,
+strain 106 will be an excellent comparative research
+target for elucidating the evolutionary transition between
+the free-living and symbiotic life forms among the related
+deep-sea Gammaproteobacteria. Strain 108 is also the
+first member of the family Rhodobacteraceae, which
+consists of many chemolithotrophic and phototrophic
+members (Garrity et al., 2005), from the deep-sea hydrothermal vent environments. Thus, the further investigation
+of strain 108 may provide an important insight into the
+metabolic and habitational interaction and evolution
+associated with interrelationship between the chemolithotrophy, phototrophy and piezophily. Finally, based on
+physiological and molecular properties of both strains, we
+propose here new species of new genera named ‘Thioprofundum lithotrophica’ and ‘Piezobacter thermophilus’
+for strains 106 and 108 respectively.
+Description of Thioprofundum gen. nov.
+Thioprofundum (Thi.o.pro’fu.n.dum. Gr. n. thios sulfur;
+L. n. profundus deep; N.L. neut. n. Thioprofundum sulfur
+oxidizer from deep sea). Bent to spiral rod. Facultatively
+anaerobic and piezophilic. Thermophilic and neutrophilic.
+Chemolithoautotrophic. Able to utilize reduced sulfur compounds as electron donors and nitrate and molecular
+oxygen as electron acceptors. NaCl absolutely required
+for growth. G+C content of genomic DNA is about 66%.
+Major cellular fatty acids are C16, anteiso-C17, C18 and
+C18:1. Based on 16S rRNA gene analysis, the genus
+Thioprofundum is related to the endosymbionts of the
+deep-sea animals within the Gammaproteobacteria. The
+type species is T. lithotrophica.
+Description of T. lithotrophica sp. nov.
+Thioprofundum lithotrophica (li.tho.tro’phi.ca. Gr. n.
+lithos stone; Gr. adj. trophikos feeding; N.L. neut. adj.
+lithotrophica referring to its lithotrophic metabolism).
+Motile, short bent to long spiral rods with a polar flagellum,
+
+with a mean length of 1–20 mm and a mean width of
+0.4–0.6 mm. Anaerobic to microaerobic. The temperature
+range for growth is 30–55°C (optimum 50°C). The pH
+range for growth is 5.8–7.6 (optimum growth at pH 7.0).
+NaCl in the concentration range of 1.2–4.2% is an absolute growth requirement; optimum growth occurs at
+3%. Strictly chemolithoautotrophic with the reduced
+sulfur compounds such as elemental sulfur, thiosulfate,
+tetrathionate or sulfite as an electron donor, and nitrate or
+molecular oxygen as an electron acceptor. Thiosulfate is
+oxidized to sulfate and nitrate is reduced to N2 and N2O
+during growth. Nitrate, ammonium, molecular nitrogen or
+yeast extract are utilized as a sole nitrogen source. The
+major cellular fatty acids under the conventional pressure
+condition are C12 (1.2%), C14 (7.2%), C15 (2.1%), C16
+(41.3%), C16:1 (14.3%), anteiso-C17 (14.3%), C17 (1.2%),
+C18 (4.2%) and C18:1 (14.1%). The G+C content of DNA is
+about 66 mol% (by HPLC). The organism was isolated
+from a black smoker chimney of the TAG field in the MAR.
+The type strain is T. lithotrophica strain 106, JCM
+14596, Japan Collection of Microorganisms, Institute of
+Physical and Chemical Research (RIKEN), Japan, and
+DSM 19353, Deutsche Sammlung von Mikroorganismen
+und Zellkulturen GmbH, Braunschweig, Germany.
+Description of Piezobacter gen. nov.
+Piezobacter (Pie.zo.bac.ter. Gr. v. piezo to press; N.L.
+masc. n. bacter rod; N.L. masc. n. Piezobacter piezophilic
+rod). Oval rod. Facultatively anaerobic. Piezophilic. Thermophilic and neutrophilic. Facultatively chemolithoautotrophic. Able to utilize H2 or reduced sulfur compounds
+as an electron donor and nitrate or molecular oxygen as
+an electron acceptor. NaCl absolutely required for growth.
+G+C content of genomic DNA is about 66%. Major cellular
+fatty acids are C16, C18 and C18:1. Based on 16S rRNA
+gene analysis, the genus Piezobacter is related to
+members of the family Rhodobacteraceae within the
+Alphaproteobacteria. The type species is P. thermophilus.
+Description of P. thermophilus sp. nov.
+Piezobacter thermophilus (ther.mo.phi’lus. Gr. adj.
+thermus hot; Gr. adj. philos loving; N.L. masc. adj.
+thermophilus heat-loving). Non-motile, short oval rod,
+with a mean length of 1–1.5 mm and a mean width of
+0.6–0.7 mm. Anaerobic to fully aerobic. The temperature
+range for growth is 30–55°C (optimum 50°C). The pH
+range for growth is 5.5–7.5 (optimum growth at
+pH 6.5–7.0). NaCl in the concentration range of 1.2–5.4%
+is an absolute growth requirement; optimum growth
+occurs at 2%. Facultatively chemolithoautotrophic with
+molecular hydrogen and reduced sulfur compounds such
+as elemental sulfur, thiosulfate, cystein-HCl, tetrathionate
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+1992 K. Takai et al.
+and sulfite as electron donors, and nitrate and molecular
+oxygen as electron acceptors. Able to grow organotrophically with yeast extract, tryptone, acetate and pyruvate.
+Chemolithoautotrophic growth is strictly piezophilic. Thiosulfate is oxidized to sulfate and nitrate is reduced to N2O
+during growth. Nitrate, ammonium or molecular nitrogen
+are utilized as a sole nitrogen source. The major cellular
+fatty acids under the conventional pressure condition are
+C14 (3.4%), C16 (21.4%), C18 (37.5%) and C18:1 (37.7%).
+The G+C content of DNA is about 66 mol% (by HPLC).
+The organism was isolated from a black smoker chimney
+of the TAG field in the MAR.
+The type strain is P. thermophilus strain 108, JCM
+14636, Japan Collection of Microorganisms, Institute of
+Physical and Chemical Research (RIKEN), Japan.
+
+Experimental procedures
+Sample collection and fluid chemistry
+A sample from a black smoker chimney was obtained from
+the TAG hydrothermal field (26°08.23′N, 44°49.57′W) in the
+MAR at a depth of 3626 m by means of the remotely operative vehicle VICTOR6000 (Ifremer) in Dive#263 during the
+EXOMAR cruise performed in August 2005. This chimney
+was one of the numerous chimneys comprising so-called ‘the
+black smoker complex’ in the TAG field (e.g. Charlou et al.,
+1996). The temperature of the black smoker fluid hosted by
+this chimney (named as Matomo chimney) was measured to
+be maximally 345°C. The chimney portions were broken by a
+manipulator of the VICTOR6000 and directly dropped into a
+sample box that had been in advance decontaminated and
+filled with the sterilized distilled water (Postec et al., 2005).
+The lid of the sample box was closed immediately after the
+sampling at the seafloor although the box did not preserve
+the hydrostatic pressure. However, due to the tightly sealed
+lid, no additional seawater mixing was expected during
+returning to sea surface.
+Immediately after the recovery of the chimney sample
+onboard, a relatively large piece of structure, which
+preserved the intact structure as much as possible, was
+subsampled into the representative microbial habitats as
+previously described (Takai et al., 2001; 2008b). The chimney
+outer surface (thickness 1–2 mm) and chimney inside part
+(thickness 1–2 cm) were collected for the nucleic acid extraction, the microscopic observation and the cultivation. For the
+subsamples of the cultivation, each of the outer surface (2 g
+wet weight) and the inside part (40 g wet weight) was suspended in 20 ml of seawater filtered with a 0.22 mm pore size
+filter in the presence and absence of 0.05% (w/v) neutralized
+sodium sulfide in a 100 ml glass bottle (Schott Glaswerke,
+Mainz, Germany), and then tightly sealed with a butyl rubber
+cap under a gas phase of 100% N2 (0.2 MPa). For the subsamples of the microscopic observation, approximately 1 g
+(wet weight) of the subsample was fixed with 3 ml of filtersterilized seawater containing 3.7% (v/v) formalin for 24 h
+and then stored at -80°C. All the samples for cultivation were
+transferred to our laboratory under refrigeration and were
+preserved at 4°C prior to experiments.
+
+The hydrothermal fluid chemistry in the TAG field is already
+characterized in detail (Campbell et al., 1988; Charlou et al.,
+1996; Chiba et al., 2001). It is known that the hydrothermal
+fluids emitting from the BSC of the TAG field have one endmember fluid source (Chiba et al., 2001). The chemical composition of the end-member fluid is determined and is found
+to be temporally stable (Campbell et al., 1988; Charlou et al.,
+1996; Chiba et al., 2001).
+
+Total direct cell counts
+Microbial community densities in the chimney subsamples
+were determined by DAPI staining direct count. The frozen
+formalin-fixed chimney subsample was thawed, and then vigorously suspended with a vortex mixer. After 5 min of static
+state, 0.5 ml of formalin-fixed supernatant was added to
+0.5 ml of filter-sterilized phosphate-buffered saline (PBS,
+pH 7.2) containing DAPI (10 mg ml-1), and incubated at room
+temperature for 30 min. After the mixture was filtered, each
+filter was rinsed twice with 2 ml of filter-sterilized PBS. The
+filters were examined under epifluorescence using a phasecontrast Olympus BX51 microscope with the Olympus DP71
+digital camera system. An average total cell count was
+obtained from more than 100 microscopic fields from three
+separate filters.
+
+Liquid serial dilution cultures
+To estimate the abundance of culturable microorganisms
+(viable counts) represented by a variety of physiological and
+metabolic characteristics, a series of serial dilution cultures
+were performed from the chimney subsamples under the
+various cultivation conditions, which were in a same manner
+as previously described (e.g. Takai et al., 2008b). Since the
+detail methods and results will be described elsewhere, only
+the media and culture conditions that gave positive cultivation results were described (Table 3). For anaerobic, heterotrophic sulfur-reducing thermophiles such as members
+of Thermococcales and Thermotogales, MJYPS medium
+(Takai et al., 2000) was used (Table 3). For hydrogenand/or sulfur-oxidizing chemolithoautotrophs, such as
+members of Aquificales, Gammaproteobacteria and Epsilonproteobacteria, MMJHS medium (Takai et al., 2003) was
+used (Table 3). For anaerobic dissimilatory Fe(III) and/or
+sulfate reducers, such as members of Archaeoglobales,
+Deferribacteres, Thermodesulfobacteria and Deltaproteobacteria, a MMJHFe medium (Takai et al., 2008b) was used
+(Table 3).
+A serial dilution culture using a piezophilic cultivation technique (Takai et al., 2008a) was also performed with the
+chimney surface sample at 50°C and at 36 MPa (Table 3).
+The detail procedure is described below.
+The microbial growth was identified by turbidity and/or
+microscopic observation for maximally 2 months. The microorganism present in the most diluted series of the medium at
+each temperature was isolated by the subsequent extinction–
+dilution method (Takai and Horikoshi, 2000). The partial
+sequences of the 16S rRNA genes (approximately 700–
+1000 bp) of the isolates were determined as described elsewhere (Takai et al., 2004).
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+Takai et al. (2008b)
+
+The chimney surface slurry preserved in the absence of
+sodium sulfide was inoculated into the test tubes containing
+MMJHS medium (Takai et al., 2003) under a gas phase of
+80% H2 + 20% CO2 (0.2 MPa) with every 1/5 dilution. A 1 ml
+portion of the inoculated culture was taken from each of
+the serial dilution of test tubes into a piezophilic cultivation syringe and then, a 250 ml of 100% H2 was added
+to the syringe (corresponding to approximately 10 mM
+soluble H2 and 30 mM SCO2 under the piezophilic condition)
+(Takai et al., 2008a). The syringe was sealed by a needle
+sticking into a butyl rubber stopper (Takai et al., 2008a).
+Finally, the pressure vessels containing the cultivation
+syringes were compressed by a hydraulic pomp at 36 MPa
+and incubated at 50°C for 2 weeks. The serial dilution
+culture under the piezophilic condition was conducted
+twice.
+After 2 weeks of incubation, the possible enrichment was
+examined by a microscopic observation. Up to a certain
+dilution of culture, two morphotypes of microorganisms were
+identified; one was a motile, thin, long spiral cell and the
+other was a non-motile, short, oval rod. The short, oval rods
+were also observed in two more dilution steps of culture
+than the one containing two morphotypes. Thus, the highest
+dilution of culture of oval rods was further conducted to
+the extinction–dilution culture for the purification under the
+same condition. For the purification of long spiral cells, the
+highest dilution of culture including the long spiral and short
+oval cells were inoculated into a serial dilution of MMJHS
+medium under a gas phase of 80% H2 + 20% CO2
+(0.2 MPa) and incubated under the non-piezophilic condition at 50°C. Under the non-piezophilic culture condition,
+only the long spiral cells were grown. The highest dilution
+obtained from the non-piezophilic cultivation was again
+applied to the serial dilution cultivation under the piezophilic
+cultivation condition (36 MPa). This procedure provided only
+the growth of long spiral cells under the high pressure.
+Thus, the extinction–dilution purification of this morphotype
+was conducted by the repeated cultivation under every
+piezophilic and non-piezophilic condition.
+Finally, two morphotypes were isolated and were designated as strain 106 (long spiral cell) and strain 108
+(short oval rod) respectively. The purity was confirmed routinely by microscopic examination and by repeated partial
+sequencing of the 16S rRNA gene using several PCR
+primers.
+
+6.5
+30, 55, 70, 85, 95
+MMJHFe
+
+Morphology
+YE, yeast extract; TT, tryptone.
+
+6.5
+50
+Piezo-MMJHS
+
+Enrichment and purification with piezophilic
+cultivation techniques
+
+With sodium sulfide
+Soluble and insoluble Fe(III),
+SO4, CO2, fermentation
+H2, YE, formate, acetate,
+pyruvate, lactate, citrate
+
+In this study
+
+6.5
+30, 50, 55, 70, 85, 95
+
+Without sodium sulfide
+S0, S2O3, NO3, CO2
+H2, S0, S2O3
+
+Takai et al. (2003)
+O2, S0, S2O3, NO3, CO2
+H2, S0, S2O3
+
+7
+6.5
+55, 70, 85, 95
+30, 50, 55, 70, 85, 95
+
+100% N2 (0.2 MPa)
+80% H2 + 20% CO2
+(0.2 MPa)
+80% H2 + 19% CO2 + 1% O2
+(0.2 MPa)
+10 mM H2, 30 mM SCO2
+(36 MPa)
+80% H2 + 20% CO2
+(0.2 MPa)
+MJYPS
+MMJHS
+
+Medium
+
+Without sodium sulfide
+
+With sodium sulfide
+Without sodium sulfide
+NO3, SO4, S0, fermentation
+S0, S2O3, NO3, CO2
+YE, TT
+H2, S0, S2O3
+
+Takai et al. (2000)
+Takai et al. (2003)
+
+Subsamples
+inoculated
+Cultivation
+temperature (°C)
+Gas phase
+(gas pressure or
+hydrostatic pressure)
+
+Table 3. Medium and condition of liquid serial dilution cultures.
+
+pH
+of
+medium
+
+Possible
+electron
+donor
+
+Possible
+electron
+acceptor
+
+Reference
+
+Isolation of novel piezophilic chemoautotrophs 1993
+
+Cells were routinely observed under a phase-contrast
+Olympus BX51 microscope with the Olympus DP71 digital
+camera system. Transmission electron microscopy of negatively stained cells was carried out as described by Zillig and
+colleagues (1990). Cells grown in MMJHS medium under the
+optimal hydrostatic pressures (strains 106 and 108) or the
+conventional gas pressure (0.2 MPa) (strain 106) were negatively stained with 2% (w/v) uranyl acetate and observed
+under a JEOL JEM-1210 electron microscope at an accelerating voltage of 80 kV.
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+1994 K. Takai et al.
+Growth characteristics
+Both strains were routinely cultivated at 16 MPa (for strain
+106) or 36 MPa (for strain 108) in Piezo-MMJHS medium,
+which containing 10 mM dissolved H2 and 30 mM SCO2 in
+1 ml of modified MMJHS medium (Takai et al., 2003) in a 5 ml
+of piezophilic cultivation syringe. The original MMJHS
+medium contained 10 mM sodium nitrate but the modified
+MMJHS medium including 20 mM sodium nitrate was used
+for the subsequent experiments. The pH of the medium was
+routinely checked before, during and after the growth at a
+room temperature. The initial pH of Piezo-MMJHS medium
+was adjusted to 6.5.
+Growth was measured by direct cell counting after staining with DAPI using a phase-contrast Olympus BX51 microscope. All experiments described below were conducted
+in duplicate. To test the effects of hydrostatic pressure
+and temperature on growth, cultures with Piezo-MMJHS
+medium were incubated at a varying hydrostatic pressure of
+0.2 (non-piezophilic condition), 5, 16, 36, 50 or 65 MPa at
+50°C and at every 5°C between 25°C and 60°C at the
+optimal pressures. For testing the effect of pH on growth,
+the pH of Piezo-MMJHS medium was adjusted to lower pH
+than pH 6.5 with decreasing concentration of sodium bicarbonate and by adding HCl in MMJHS medium, while was
+adjusted to higher pH than 6.5 with increasing concentration
+of sodium bicarbonate and by adding NaOH in MMJHS
+medium. The growth was conducted at 50°C and the
+optimal pressures. The effect of NaCl on growth was test in
+Piezo-MMJHS medium by varying a NaCl concentration in
+MMJHS medium.
+The potential nutrients required for growth such as selenite, tungstate and vitamins were examined with PiezoMMJHS medium under an optimal pressure with and without
+the specified nutrients. The nitrogen source (NH4Cl, NaNO2,
+N2, NaNO3 and yeast extract) for growth was also examined
+with Piezo-MMJHS medium including none of the nitrogen
+sources under an optimum pressure. Antibiotics susceptibility
+was tested with Piezo-MMJHS medium at an optimal pressure by using 50 mg ml-1 ampicilin, kanamycin, chloramphenicol, streptomycin or vancomycin.
+
+Heterotrophic growth was tested for both strains using
+Piezo-MMJHS medium including yeast extract (0.1%, w/v),
+tryptone (0.1%, w/v), Casamino acid (0.1%, w/v), formate
+(5 mM), acetate (5 mM) or pyruvate (5 mM) instead of 30 mM
+SCO2 at 50°C and under an optimum pressure. The pH of the
+media was adjusted at 6.5 in advance. In addition, organotrophic growth was tested using Piezo-MMJHS medium
+including yeast extract (0.1%, w/v), tryptone (0.1%, w/v),
+Casamino acid (0.1%, w/v), formate (5 mM), acetate (5 mM)
+or pyruvate (5 mM) at pH 6.5 instead of H2, thiosulfate,
+elemental sulfur and 30 mM SCO2 at 50°C and under an
+optimal pressure.
+Time-course of oxidations of H2 (strain 108) and thiosulfate
+(strains 106 and 108) by nitrate reduction and concomitant
+growth of both strains were examined with Piezo-MMJHS
+medium as H2 or thiosulfate as a sole electron donor, of which
+all the sulfate salts were replaced by the chloride salts, at
+50°C and under an optimal pressure. The concentrations of
+nitrate, thiosulfate and sulfate were analysed by ion chromatography using a Shim-pack IC column (Shimadzu, Kyoto,
+Japan) and the concentration of H2, N2O and N2 was measured by a gas chromatography Micro GC CP2002 (GL Sciences, Tokyo, Japan) with a thermal conductivity detector.
+Nessler’s reagent was employed to monitor the production of
+ammonium ion.
+
+Cellular fatty acid composition
+Cellular fatty acid composition was analysed using cells
+autotrophically grown at 50°C under the optimal pressure and
+the non-piezophilic condition for strain 106, and using cells
+harvested from the piezophilic autotrophic condition (at 50°C
+and 36 MPa) and the non-piezophilic organotrophic condition
+(at 50°C and 0.1 MPa) for strain 108. Lyophilized cells
+(30 mg) were placed in a Teflon-lined, screw-capped tube
+containing 1 ml of anhydrous methanolic HCl and heated at
+100°C for 3 h. The resulting fatty acid methyl esters (FAMEs)
+were extracted twice with n-hexane and concentrated under
+a stream of nitrogen gas. The FAMEs were analysed using a
+gas chromatography-mass spectrometer (Xcalibur for Trace
+DSQ, Thermoelectron).
+
+Energy and carbon sources
+In an attempt to determine potential electron donors for
+autotrophic growth of both strains, each of the H2 (10 mM),
+elemental sulfur (3%, w/v), thiosulfate (10 mM), sulfide
+(1.25 mM), cystein-HCl (2.5 mM), tetrathionate (5 mM) and
+sulfite (2.5 mM) was tested instead of a combination of H2,
+elemental sulfur and thiosulfate as a sole electron donor in
+Piezo-MMJHS medium (nitrate as a sole electron acceptor)
+at 50°C and an optimal pressure. In contrast, to examine
+potential electron acceptors for autotrophic growth of both
+strains, each of nitrate (20 mM) and O2 (0.04, 0.12, 0.4, 1.2,
+2 or 4 mM) was tested instead of a combination of nitrate,
+elemental sulfur and thiosulfate as a sole electron acceptor in
+MMJHS medium (thiosulfate as a sole electron donor) at
+50°C and an optimal pressure. If H2 (10 mM) was used as a
+sole electron donor, each of elemental sulfur (3% w/v), thiosulfate (10 mM), sulfite (2.5 mM) and ferrihydrite (5 mM) was
+also tested.
+
+Nucleic acid analyses
+DNA was prepared as described by Marmur and Doty (1962).
+The G+C content of DNA was determined by direct analysis
+of deoxyribonucleotides on HPLC (Tamaoka and Komagata,
+1984). The 16S rRNA gene was amplified by PCR using Bac
+27F and 1492R primers (DeLong, 1992; Lane, 1985). The
+nearly complete sequences of the 16S rRNA genes from both
+strains were directly sequenced by both strands using the
+dideoxynucleotide chain termination method with a DNA
+sequencer Model 3100 (Perkin Elmer/Applied Biosystems,
+Foster City, CA, USA). The nearly complete sequences were
+manually aligned to the representative sequences according
+to the secondary structures using ARB (Ludwig et al., 2004).
+Phylogenetic analyses were restricted to unambiguously
+aligned nucleotide positions. Evolutionary distance matrix
+analysis (using the Jukes and Cantor correlation method) and
+neighbour-joining analysis were performed using PHYLIP
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+Isolation of novel piezophilic chemoautotrophs 1995
+package
+(http://evolution.genetics.washington.edu/phylip.
+html). Bootstrap analysis was performed to provide confidence estimates for phylogenetic tree topologies.
+The 16S rRNA gene sequences of strains 106 and 108
+were deposited in the DDBJ/EMBL/GenBank nucleotide
+sequence databases with the Accession No. AB468957 and
+AB468958 respectively.
+
+Acknowledgements
+First of all, we would like to thank Mr Katsuyuki Uematsu for
+assistance in preparing electron micrographs. We are grateful to the captain and crew of the R/V L’Atalante and the
+operation team of the ROV VICTOR6000 for their technical
+expertise. We wish to thank onboard scientists of the
+EXOMAR 2005 cruise for their support onboard.
+
+Whole-cell FISH analysis
+The whole-cell FISH analysis was conducted to estimate the
+cellular abundance of strains 106 and 108 and their relatives
+in the in situ chimney habitat by using the 16S rRNA gene
+sequences. The targeted microbial populations were the
+whole microbial cells (DAPI-stained cell fraction and both
+bacterial- and archaeal-probes-binding cell fraction), the
+strain 106 cells (a specific probe-binding cell fraction) and the
+strain 108 cells (a specific probe-binding fraction) respectively. The EUB338 (Stahl and Amann, 1991) and the
+ARC915 (Amann et al., 1990) probes were used for the
+detection of both bacterial and archaeal populations. The
+ribosomal RNA-targeted oligonucleotide probes specifically
+binding to the 16S rRNAs of strains 106 and 108, respectively, were designed using ARB (Ludwig et al., 2004) based
+on the multiply aligned sequences including those of strains
+106 and 108. Among several potential sites for the probes,
+the probes designated as TF1110 (5′-CTCCATCTCTGG
+AGCCTTCC-3′) and PB1001 (5′-TGGTAACTGAGGGCG
+TGGGT-3′) were finally chosen through the sequence specificity analysis using the BLAST program to all the nucleic
+acid sequences in the DDBJ/EMBL/GenBank nucleotide
+sequence databases. In the in silico analysis, the TF1110
+probe was found to have at least three bases of mismatch
+with any other 16S rRNA sequences and the PB1001 probe
+also had more than three bases of mismatch with any other
+16S rRNA sequences except for the 16S rRNAs of Methanobrevibacter spp. (one mismatch).
+The whole-cell FISH experiments were performed as
+previously described (Sekiguchi et al., 1999). The frozen
+formalin-fixed chimney subsample was thawed, and then
+vigorously suspended with a vortex mixer. After 5 min of
+static state, 0.5 ml of formalin-fixed supernatant was centrifuged at 15 000 r.p.m. at 4°C for 30 min. After washing with
+a 0.5 ml of PBS (pH 7.2) twice, the microbial cells were
+immobilized on a positive charged glass slide. Hybridization
+was performed with both the Alexa488-labelled EUB338
+and the ARC915 probes and with each of the Cy3-labelled
+specific probes TF1110 and PB1001 at 46°C for 3 h. The
+hybridization stringency was adjusted with varying concentrations of formamide in the hybridization buffer (30% for
+the ARC915, TF1110 and PB1001 probes, and 10% for the
+EUB338 probe). After the hybridization and the washing, the
+cells were stained with PBS (pH 7.2) containing DAPI
+(10 mg ml-1) for 30 min. The slide was examined under
+an Olympus BX51 epifluorescence microscopy with the
+Olympus DP71 digital camera system. The cells of Escherichia coli strain K12 and the other strain cells of strains 106
+and 108 were used as the negative controls. An average of
+the ratio of probe-hybridized cells to the DAPI-stained
+cells was determined from more than 100 microscopic
+fields.
+
+References
+Abe, F., Kato, C., and Horikoshi, K. (1999) Pressureregulated metabolism in microorganisms. Trends Microbiol
+7: 447–453.
+Amann, R., Binder, B.J., Olson, R.J., Chisholm, S.W.,
+Devereux, R., and Stahl, D.A. (1990) Combination of 16S
+rRNA-targeted oligonucleotide probes with flow cytometry
+for analyzing mixed microbial populations. Appl Environ
+Microbiol 56: 1919–1925.
+Bernhardt, G., Disteche, A., Jaenicke, R., Koch, B., Lüdemann, H.-D., and Stetter, K.O. (1988) Effect of carbon
+dioxide and hydrostatic pressure on the pH of culture
+media and the growth of methanogens at elevated temperature. Appl Microbiol Biotechnol 28: 176–181.
+Campbell, A.C., Palmer, M.R., Klinkhammer, G.P., Bowers,
+T.S., Edmond, J.M., Lawrence, J.L., et al. (1988) Chemistry of hot springs on the Mid-Atlantic Ridge. Nature 335:
+514–519.
+Charlou, J.L., Donval, J.P., JeanBaptiste, P., Dapoigny, A.,
+and Rona, P.A. (1996) Gases and helium isotopes in high
+temperature solutions sampled before and after ODP Leg
+158 drilling at TAG hydrothermal field (26°N, MAR).
+Geophys Res Lett 23: 3491–3494.
+Charlou, J.L., Donval, J.P., Fouquet, Y., Jean-Baptiste, P.,
+and Holm, N. (2002) Geochemistry of high H2 and CH4 vent
+fluids issuing from ultramafic rocks at the Rainbow hydrothermal field (36°14′N, MAR). Chem Geol 191: 345–359.
+Chiba, H., Masuda, H., Lee, S.-Y., and Fujioka, K. (2001)
+Chemistry of hydrothermal fluids at the TAG active mound,
+MAR 26°N, in 1998. Geophys Res Lett 28: 1919–1922.
+DeLong, E.F. (1992) Archaea in coastal marine environments. Proc Natl Acad Sci USA 89: 5685–5689.
+DeLong, E.F., and Yayanos, A.A. (1985) Adaptation of the
+membrane lipids of a deep-sea bacterium to changes in
+hydrostatic pressure. Science 228: 1101–1103.
+DeLong, E.F., and Yayanos, A.A. (1986) Biochemical function and ecological significance of novel bacterial lipids in
+deep-sea prokaryotes. Appl Environ Microbiol 51: 730–
+737.
+Deming, J.D., and Baross, J.A. (1993) Deep-sea smokers:
+windows to a subsurface biosphere? Geochim Cosmochim
+Acta 57: 3219–3230.
+Garrity, G.M., Bell, J.A., and Lilburn, T. (2005) Family I.
+Rhodobacteraceae fam. nov. In Bergey’s Manual of Systematic Bacteriology, 2nd edn, Vol. 2, Part C. Brenner,
+D.J., Krieg, N.R., and Staley, J.T. (eds). New York, USA:
+Springer, p. 161.
+Kato, C. (2006) Handling of piezophilic microorganisms. In
+Extremophiles. Methods in Microbiology, Vol. 35. Rainey,
+F.A., and Oren, A. (eds). London, UK: Elsevier, pp. 733–
+741.
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+1996 K. Takai et al.
+La, H.J., Im, W.T., Ten, L.N., Kang, M.S., Shin, D.Y., and Lee,
+S.T. (2005) Paracoccus koreensis sp. nov., isolated from
+anaerobic granules in an upflow anaerobic sludge blanket
+(UASB) reactor. Int J Syst Evol Microbiol 55: 1657–1660.
+Lane, D.J. (1985) 16S/23S sequencing. In Nucleic Acid
+Techniques in Bacterial Systematics. Stackbrandt, E., and
+Goodfellow, M. (eds). New York, USA: John Wiley and
+Sons, pp. 115–176.
+Ludwig, W., Strunk, O., Westram, R., Richter, L., Yadhukumar, H.M., Buchner, A., et al. (2004) ARB: a software
+environment for sequence data. Nucleic Acids Res 32:
+1363–1371.
+Lupton, J., Lilley, M., Butterfield, D., Evans, L., Embley, R.,
+Massoth, G., et al. (2008) Venting of a separate CO2-rich
+gas phase from submarine arc volcanoes: examples from
+the Mariana and Tonga-Kermadec arcs. J Geophys Res
+113: B08S12. doi:10.1029/2007JB005467.
+McCollom, T.M., and Shock, E.L. (1997) Geochemical constraints on chemolithoautotrophic metabolism by microorganisms in seafloor hydrothermal systems. Geochim
+Cosmochim Acta 61: 4375–4391.
+Mangelsdorf, K., Zink, K.-G., Birrien, J.-L., and Toffin, L.
+(2005) A quantitative assessment of pressure dependent
+adaptive changes in the membrane lipids of a piezosensitive deep sub-seafloor bacterium. Org Geochem 36: 1459–
+1479.
+Marmur, J., and Doty, P. (1962) Determination of the base
+composition of deoxyribonucleic acid from its thermal
+denaturation temperature. J Mol Biol 5: 109–118.
+Miller, J.F., Shah, N.N., Nelson, C.M., Ludlow, J.M., and
+Clark, D.S. (1988) Pressure and temperature effects on
+growth and methane production of the extreme thermophile Methanococcus jannaschii. Appl Environ Microbiol
+54: 3039–3042.
+Nakagawa, S., and Takai, K. (2006) The isolation of thermophiles from deep-sea hydrothermal environments. In Extremophiles. Methods in Microbiology, Vol. 35. Rainey, F.A.,
+and Oren, A. (eds). London, UK: Elsevier, pp. 57–91.
+Nakagawa, S., and Takai, K. (2008) Deep-sea vent chemolithoautotrophs: diversity, biochemistry and ecological significance. FEMS Microbiol Ecol 65: 1–14.
+Park, C.B., Boonyaratanakornkit, B.B., and Clark, D.S.
+(2006) Toward the large scale cultivation of hyperthermophiles at high-temperature and high-pressure. In Extremophiles. Methods in Microbiology, Vol. 35. Rainey, F.A., and
+Oren, A. (eds). London, UK: Elsevier, pp. 109–126.
+Person, A., Seewald, J.S., and Eglinton, T.I. (2005) Bacterial
+incorporation of relict carbon in the hydrothermal environment of Guaymas Basin. Geochim Cosmochim Acta 69:
+5477–5486.
+Postec, A., Urios, L., Lesongeur, F., Ollivier, B., Quérellou, J.,
+and Godfroy, A. (2005) Continuous enrichment culture and
+molecular monitoring to investigate the microbial diversity
+of thermophiles inhabiting the deep-sea hydrothermal ecosystems. Curr Microbiol 50: 138–144.
+Sekiguchi, Y., Kamagata, Y., Nakamura, K., Ohashi, A., and
+Harada, H. (1999) Fluorescence in situ hybridization using
+16S rRNA-targeted oligonucleotides reveals localization of
+methanogens and selected uncultured bacteria in mesophilic and thermophilic sludge granules. Appl Environ
+Microbiol 65: 1280–1288.
+
+Shock, E.L., and Holland, M.E. (2004) Geochemical energy
+sources that support the subsurface biosphere. In The
+Subseafloor Biosphere at Mid-Ocean Ridges, Geophys
+Monogr Ser Vol. 144. Wilcock, W.S.D., DeLong, E.F.,
+Kelly, D.S., Baross, J.A., and Cary, S.C. (eds). Washington, DC, USA: AGU, pp. 153–165.
+Stahl, D.A., and Amann, R. (1991) Development and application of nucleic acid probes. In Nucleic Acid Techniques in
+Bacterial Systematics. Stackebrandt, E., and Goodfellow,
+M. (eds). New York, NY, USA: John Wiley & Sons, pp.
+205–248.
+Suzuki, Y., Sasaki, T., Suzuki, M., Tsuchida, S., Nealson,
+K.H., and Horikoshi, K. (2005) Molecular phylogenetic and
+isotopic evidence of two lineages of chemoautotrophic
+endosymbionts distinct at the subdivision level harbored
+in one host-animal type: the genus Alviniconcha (Gastropoda: Provannidae). FEMS Microbiol Lett 249: 105–112.
+Takai, K., and Horikoshi, K. (2000) Thermosipho japonicus
+sp. nov., an extremely thermophilic bacterium isolated from
+a deep-sea hydrothermal vent in Japan. Extremophiles 4:
+9–17.
+Takai, K., Sugai, A., Itoh, Y., and Horikoshi, K. (2000) Palaeococcus ferrophilus gen. nov., sp. nov., a barophilic, hyperthermophilic archaeon from a deep-sea hydrothermal vent
+chimney. Int J Syst Evol Microbiol 50: 489–500.
+Takai, K., Komatsu, T., Inagaki, F., and Horikoshi, K. (2001)
+Distribution of Archaea in a black smoker chimney structure. Appl Environ Microbiol 67: 3618–3629.
+Takai, K., Inagaki, F., Nakagawa, S., Hirayama, H., Nunoura,
+T., Sako, Y., et al. (2003) Isolation and phylogenetic
+diversity of members of previously uncultivated epsilonProteobacteria in deep-sea hydrothermal fields. FEMS
+Microbiol Lett 218: 167–174.
+Takai, K., Gamo, T., Tsunogai, U., Nakayama, N., Hirayama,
+H., Nealson, K.H., and Horikoshi, K. (2004) Geochemical
+and microbiological evidence for a hydrogen-based,
+hyperthermophilic subsurface lithoautotrophic microbial
+ecosystem (HyperSLiME) beneath an active deep-sea
+hydrothermal field. Extremophiles 8: 269–282.
+Takai, K., Nakagawa, S., Reysenbach, A.L., and Hoek, J.
+(2006a) Microbial ecology of Mid-Ocean Ridges and BackArc Basins. In Back-Arc Spreading Systems: Geological,
+Biological, Chemical and Physical Interactions, Geophys
+Monogr Ser Vol. 166. Christie, D.M., Fisher, C.R., Lee,
+S.M., and Givens, S. (eds). Washington, DC, USA: AGU,
+pp. 185–213.
+Takai, K., Miyazaki, M., Nunoura, T., Hirayama, H., Oida, H.,
+Furushima, Y., et al. (2006b) Sulfurivirga caldicuralii
+gen. nov., sp. nov., a novel microaerobic, thermophilic,
+thiosulfate-oxidizing chemolithoautotroph, isolated from a
+shallow marine hydrothermal system occurring in a coral
+reef, Japan. Int J Syst Evol Microbiol 56: 1921–1929.
+Takai, K., Nakamura, K., Toki, T., Tsunogai, T., Miyazaki, M.,
+Miyazaki, J., et al. (2008a) Cell proliferation at 122°C and
+isotopically heavy CH4 production by a hyperthermophilic
+methanogen under high pressures cultivation. Proc Natl
+Acad Sci USA 105: 10949–10954.
+Takai, K., Nunoura, T., Ishibashi, J., Lupton, J., Suzuki, R.,
+Hamasaki, H., et al. (2008b) Variability in the microbial
+communities and hydrothermal fluid chemistry at the
+newly-discovered Mariner hydrothermal field, southern Lau
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+Isolation of novel piezophilic chemoautotrophs 1997
+Basin. J Geophys Res 113: G02031. doi:10.1029/
+2007JG000636.
+Tamaoka, J., and Komagata, K. (1984) Determination of DNA
+base composition by reversed-phase high-performance
+liquid chromatography. FEMS Microbiol Lett 25: 125–128.
+Tivey, M.K. (2004) Environmental conditions within active
+seafloor vent structures: sensitivity to vent fluid composition and fluid flow. In The Subseafloor Biosphere at
+Mid-Ocean Ridges, Geophys Monogr Ser Vol. 144.
+
+Wilcock, W.S.D., DeLong, E.F., Kelly, D.S., Baross, J.A.,
+and Cary, S.C. (eds). Washington, DC, USA: AGU, pp.
+137–152.
+Zillig, W., Holz, I., Janekovic, D., Klenk, H.-P., Imsel, E.,
+Trent, J., et al. (1990) Hyperthermus butylicus, a hyperthermophilic sulfur-reducing archaebacterium that ferments
+peptides. J Bacteriol 172: 3959–3965.
+Zobell, C.E., and Morita, R.Y. (1957) Barophilic bacteria in
+some deep sea sediments. J Bacteriol 73: 563–568.
+
+© 2009 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1983–1997
+
+
