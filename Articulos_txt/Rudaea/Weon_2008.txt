@@ -1,0 +1,705 @@
+International Journal of Systematic and Evolutionary Microbiology (2009), 59, 2308–2312
+
+DOI 10.1099/ijs.0.005165-0
+
+Rudaea cellulosilytica gen. nov., sp. nov., isolated
+from soil
+Hang-Yeon Weon,1 Seung-Hee Yoo,2 Yoo-Jeong Kim,2 Chang-Muk Lee,2
+Byung-Yong Kim,2 Young-Ah Jeon,2 Seung-Beom Hong,2
+Rangasamy Anandham3 and Soon-Wo Kwon2
+Correspondence
+Soon-Wo Kwon
+swkwon@rda.go.kr
+
+1
+
+Mushroom Research Division, National Institute of Horticultural and Medicinal Crop, Rural
+Development Administration (RDA), Suwon 441-707, Republic of Korea
+
+2
+
+Korean Agricultural Culture Collection (KACC), National Agrobiodiversity Center, RDA, Suwon
+441-707, Republic of Korea
+
+3
+
+Organic Agriculture Division, National Academy of Agricultural Science, RDA, Suwon 441-707,
+Republic of Korea
+
+A yellow-pigmented, Gram-negative, aerobic, rod-shaped bacterium, strain KIS3-4T, was isolated
+from soil collected on Daechung Island in the West Sea of Korea. Phylogenetic analysis based on
+the 16S rRNA gene sequence placed strain KIS3-4T in a distinct lineage in the family
+Xanthomonadaceae. Strain KIS3-4T shared 87.3–93.7 % sequence similarity with members of
+the family Xanthomonadaceae, and was related most closely to the genera Dyella and
+Dokdonella. In its biochemical characteristics, strain KIS3-4T was clearly separable from other
+genera within the family Xanthomonadaceae on the basis of the hydrolysis of cellulose and urea,
+high G+C content (64 mol%) and fatty acid profile. Major fatty acids (.10 % of the total fatty
+acids) were iso-C17 : 1v9c (32.8 %), iso-C17 : 0 (18.0 %) and iso-C16 : 0 (12.7 %). Q-8 was the
+predominant respiratory quinone. Phosphatidylethanolamine and several unidentified
+aminophospholipids and phospholipids were present. Based on its unique phenotypic, genotypic
+and phylogenetic features, strain KIS3-4T represents a novel genus and species, for which the
+name Rudaea cellulosilytica gen. nov., sp. nov. is proposed. The type strain of Rudaea
+cellulosilytica is KIS3-4T (5KACC 12734T 5JCM 15422T).
+
+The family Xanthomonadaceae consists of Gram-negative,
+rod-shaped bacteria. Its members are characterized by
+positive catalase activity, negative nitrate reduction (with
+the exception of Stenotrophomonas) and variable oxidase
+activity. Chemotaxonomically, they have complex fatty
+acid profiles that include branched-chain and/or hydroxyl
+fatty acids, and contain ubiquinone Q-8 as the predominant isoprenoid quinone. According to Saddler &
+Bradbury (2005), the members of the family Xanthomonadaceae were Xanthomonas, Frateuria, Fulvimonas, Luteimonas, Lysobacter, Nevskia, Pseudoxanthomonas, Rhodanobacter, Schineria, Stenotrophomonas, Thermomonas and
+Xylella. Since then, the genera Aquimonas (Saha et al.,
+2005), Aspromonas (Jin et al., 2007), Dokdonella (Yoon
+et al., 2006), Dyella (Xie & Yokota, 2005), Luteibacter
+
+The GenBank/EMBL/DDBJ accession number for the 16S rRNA gene
+sequence of strain KIS3-4T is EU741687.
+Images of cells of strain KIS3-4T and fatty acid composition by 2-D TLC
+and a table of fatty acid comparisons are available as supplementary
+material with the online version of this paper.
+
+2308
+
+(Johansen et al., 2005) and Silanimonas (Lee et al., 2005)
+have been added to the family.
+A soil sample was collected from Daechung Island in the
+West Sea, Republic of Korea. Soil (1 g) was suspended in
+9 ml of 0.85 % NaCl (w/v) and serially diluted solutions
+were plated on R2A agar (Reasoner & Geldreich, 1985). A
+strain, designated KIS3-4T, was isolated after incubation at
+30 uC for 4 days.
+Phenotypic characteristics, including Gram-staining, catalase and oxidase activity and hydrolysis of CM-cellulose,
+casein, chitin, DNA, hypoxanthine, tyrosine, Tween 80,
+starch and xanthine, were determined using the methods of
+Smibert & Krieg (1994). The pH range (pH 4–10 at
+intervals of 1 pH unit) for growth was determined on R2A
+agar that was buffered with citrate/phosphate buffer or
+Tris/HCl (Breznak & Costilow, 1994). Growth with 1, 2, 3
+and 5 % NaCl (w/v), and at various temperatures (5–50 uC
+at intervals of 5 uC) was investigated in R2A broth. Tests
+with the API 20NE, API 20E, API ID 32GN and API ZYM
+systems (bioMérieux) were generally performed according
+to the manufacturer’s instructions. The API ZYM test strip
+
+Downloaded from www.microbiologyresearch.org by
+005165 G 2009 IUMS
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 05:30:33
+
+Printed in Great Britain
+
+Rudaea cellulosilytica gen. nov., sp. nov.
+
+was read after 4 h incubation at 30 uC, whilst the other API
+strips were examined after 7 days at 30 uC. Cell morphology was observed by transmission electron microscopy
+(912AB; LEO) and phase-contrast microscopy (Axio
+Imager.A1; Zeiss) by using cells grown on R2A agar.
+Polar lipids were analysed according to Minnikin et al.
+(1984). Fatty acid methyl esters were extracted and
+prepared by using the standard protocol of the Microbial
+Identification System (MIDI) after cells were grown on
+R2A agar for 2 days at 30 uC. Isoprenoid quinones were
+analysed by HPLC as described by Groth et al. (1996). The
+DNA G+C content was determined by HPLC analysis of
+deoxyribonucleosides as described by Mesbah et al. (1989)
+using a reversed-phase column (Supelcosil LC-18-S;
+Supelco).
+The 16S rRNA gene sequence was determined by PCR
+amplification (Kwon et al., 2003) and direct sequencing
+(Hiraishi, 1992). A partial 16S rRNA gene sequence (1384
+
+nt) was determined for strain KIS3-4T. CLUSTAL W version
+1.8 (Thompson et al., 1994) was used to align the sequence
+of strain KIS3-4T with corresponding sequences from
+related taxa retrieved from public databases. Phylogenetic
+analysis was performed using MEGA version 3.1 (Kumar
+et al., 2004) with the neighbour-joining and maximumparsimony methods. Bootstrap values were calculated from
+1000 replications.
+Strain KIS3-4T grew on R2A agar but not on nutrient agar,
+trypticase soy agar or MacConkey agar (all from Difco).
+Cells of strain KIS3-4T were aerobic, Gram-negative, motile
+with peritrichous flagella, rod-shaped (0.5 mm wide and
+1.0–3.0 mm long) (see Supplementary Fig. S1, available in
+IJSEM Online). The phenotypic characteristics that differentiate strain KIS3-4T from related genera are listed in
+Table 1.
+Polar lipids of strain KIS3-4T included phosphatidylethanolamine and several unidentified aminophospholipids
+
+Table 1. Characteristics of strain KIS3-4T and related members of the family Xanthomonadaceae
+Taxa: 1, Rudaea cellulosilytica gen. nov., sp. nov. KIS3-4T; 2, Aquimonas (data from Saha et al., 2005); 3, Dokdonella (Cunha et al., 2006; Yoon et al.,
+2006); 4, Dyella (An et al., 2005; Kim et al., 2006; Xie & Yokota, 2005); 5, Frateuria (An et al., 2005; Kim et al., 2006; Saddler & Bradbury, 2005;
+Yoon et al., 2006); 6, Fulvimonas (Mergaert et al., 2002; Yoon et al., 2006); 7, Luteibacter (Johansen et al., 2005); 8, Rhodanobacter (De Clercq et al.,
+2006; Im et al., 2004; Lee et al., 2007; Nalin et al., 1999; Weon et al., 2007). +, Positive; W, weak; V, variable among species or strains; 2, negative;
+ND, no data available; i-, iso-branched. Data in parentheses are for the type strain of the type species.
+Characteristic
+
+1
+
+2
+
+3
+
+4
+
+Colony colour
+
+Yellow
+
+Yellow or
+greenish yellow
+
+Yellow
+
+Motility
+
++
+
+Yellowish
+brown
++
+
+Catalase
+Oxidase
+Acid production from
+glucose
+Nitrate reduction
+H2S production
+Growth at pH 4.5
+Growth at 4 % NaCl
+Arginine dihydrolase
+Hydrolysis of:
+Aesculin
+Casein
+Cellulose
+Gelatin
+Starch
+Tween 80
+Urea
+Major fatty acids
+(.10 % of total)
+
++
++
+2
+
++
++
+2
+
+2
+2
+2
+2
++
+
+2
+2
+2
+2
+
+DNA G+C content
+(mol%)
+
+V
+
+V
+
++ or
+
+V
+
++ or
+2
+
+5
+
+W
+
+Gold–yellow Deep yellow
+V
+
+W
+
+V
+
++
+
+V
+
++
++
+2
+
+2
+
+2*
+
+2
+
+2
+2
+2
+2
+2
+
+(2)
+(2)
+2
+2
+(2)
+
++
+(+)
+
++
++
+
+ND
+
+ND
+
+2
++
+
++
++
+
+ND
+
+ND
+
+ND
+
+2
++
++
+(2)
+2
+
+ND
+
+2
++
+
+2
++
+
+V
+
+ND
+
+ND
+
+V
+
++
+2
++
+2
+
+i-C17 : 1v9c,
+i-C17 : 0,
+i-C16 : 0
+
++
++
++
+2
+i-C15 : 0,
+i-C17 : 1v9c,
+i-C16 : 0
+
+i-C17 : 1v9c,
+i-C17 : 0,
+i-C15 : 0
+
+i-C17 : 1v9c,
+i-C16 : 0,
+i-C15 : 0
+
+(2)
+i-C15 : 0,
+summed
+feature 3
+
+64
+
+75
+
+68.3–71
+
+63–64
+
+62–64
+
+V
+
+2
+ND
+
+2
+
+Yellow
+
++
++
+2
+
+V
+
+V
+
+Yellow
++
+
+2
+2
+
++
+2
++
++
+2
++
++
+
+8
+
++
++
+2
+
+V
+
+2
+
+7
+
++
+
+(+)
++
+2
++
+
+2
+2
+2
+2
+
+V
+
+6
+
+ND
+
+(+)
+ND
+
+2
+ND
+i-C17 : 1v9c,
+i-C15 : 0,
+i-C17 : 0,
+i-C15 : 0,
+i-C16 : 0,
+i-C17 : 0
+i-C17 : 1v9c
+71.5–71.9
+64.3
+
+ND
+V
+
+2
+2
+V
+V
+
+2
+V
+
+2
++
+2
+i-C16 : 0,
+i-C17 : 1v9c
+
+61.0–67.6
+
+*Positive for Rhodanobacter thiooxydans (Lee et al., 2007).
+http://ijs.sgmjournals.org
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 05:30:33
+
+2309
+
+H.-Y. Weon and others
+
+(APLs) and phospholipids (PLs) (Supplementary Fig. S2a).
+Despite the similarities of the major components, strain
+KIS3-4T could be distinguished from Dokdonella koreensis
+DSM 17203T (Supplementary Fig. S2b) by the presence of
+APL1, PL1 and PL2, and the absence of APL2, PL4 and an
+unidentified polar lipid. The predominant fatty acids
+(.10 % of total fatty acids) of strain KIS3-4T were isoC17 : 1v9c (32.8 %), iso-C17 : 0 (18.0 %) and iso-C16 : 0
+(12.7 %) (Supplementary Table S1). The major quinone
+in strain KIS3-4T was ubiquinone 8 (Q-8), which is also
+found in all the members of the family Xanthomonadaceae.
+The G+C content of the DNA was 64 mol%.
+It is evident from the phylogenetic tree (Fig. 1) that strain
+KIS3-4T belongs to a distinct lineage in the family
+Xanthomonadaceae. The strain formed a monophyletic
+clade with the genera Aquimonas, Dokdonella, Dyella,
+Frateuria, Fulvimonas, Luteibacter and Rhodanobacter with
+95 % bootstrap support, which was confirmed by the
+maximum-parsimony tree. Strain KIS3-4T revealed highest
+sequence similarities, with the exception of uncultured
+environmental clones (Costello & Schmidt, 2006; Lozada
+et al., 2006), with Dyella species (93.1–93.7 %).
+Strain KIS3-4T can be differentiated from closely related
+genera by the presence of arginine dihydrolase, the
+hydrolysis of cellulose and urea, the polar lipid pattern
+and the major fatty acid composition (Table 1,
+Supplementary Table S1 and Supplementary Fig. S2).
+Moreover, the similarity level (,94 %) of the 16S rRNA
+
+gene sequence of strain KIS3-4T with closely related genera
+within the family Xanthomonadaceae is much lower than
+95 %, a value that has been proposed as a ‘practicable
+border zone for genus definition’ (Ludwig et al., 1998).
+On the basis of these results, it is proposed that strain
+KIS3-4T represents a novel species in a new genus, Rudaea
+cellulosilytica gen. nov., sp. nov.
+Description of Rudaea gen. nov.
+Rudaea (Ru.da.e9a. N.L. fem. n. Rudaea an arbitrary name
+after RDA, Rural Development Administration, where
+taxonomic studies of this taxon were conducted).
+Cells are Gram-negative, strictly aerobic, motile rods.
+Catalase- and oxidase-positive. Nitrate is not reduced.
+Glucose is not fermented. H2S is not produced. Arginine
+dihydrolase is produced. The major isoprenoid quinone is
+ubiquinone-8. The major fatty acids (.10 %) are isoC17 : 1v9c, iso-C17 : 0 and iso-C16 : 0. The DNA G+C content
+of the type strain of the type species is 64 mol% (HPLC).
+Phylogenetically, the genus belongs to the family
+Xanthomonadaceae. The type species is Rudaea cellulosilytica.
+Description of Rudaea cellulosilytica sp. nov.
+Rudaea cellulosilytica (cel.lu.lo.si.ly9ti.ca. N.L. n. cellulosum
+cellulose; N.L. adj. lyticus dissolving; N.L. fem. adj.
+cellulosilytica cellulose-dissolving).
+
+Fig. 1. Neighbour-joining tree based on partial 16S rRNA gene sequences showing the
+phylogenetic position of strain KIS3-4T.
+Bootstrap values (.50 %) based on 1000
+resamplings are shown at branch nodes. Solid
+circles indicate that the corresponding
+branches were also recovered in the maximum-parsimony tree. The sequence of
+Pseudomonas aeruginosa LMG 1242T was
+used as the outgroup. Bar, 0.02 substitutions
+per nucleotide position.
+2310
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 59
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 05:30:33
+
+Rudaea cellulosilytica gen. nov., sp. nov.
+
+Displays the following properties in addition to those given
+in the genus description. Cells are 0.5 mm wide and 1.0–
+3.0 mm long. Colonies are yellow, round or irregular on
+R2A medium. Growth occurs at 5–35 uC (optimum 28–
+30 uC), at pH 5–8 (optimum pH 6–7) and at 0–1 % NaCl,
+but not at 2 % NaCl. Hydrolyses CM-cellulose, Tween 80
+and tyrosine, but not casein, chitin, DNA, hypoxanthine,
+starch or xanthine. Positive for urease, aesculin hydrolysis,
+gelatin hydrolysis and b-galactosidase, but negative for
+indole production and glucose fermentation (API 20NE).
+Assimilates D-glucose, D-mannose, N-acetylglucosamine,
+maltose, inositol, sucrose, sodium acetate, lactic acid,
+salicin, melibiose, L-fucose, 3-hydroxybutyric acid and Lproline, but not L-arabinose, D-mannitol, potassium
+gluconate, capric acid, adipic acid, malic acid, trisodium
+citrate, phenylacetic acid, L-rhamnose, D-ribose, itaconic
+acid, suberic acid, sodium malonate, L-alanine, potassium
+5-ketogluconate, glycogen, 3-hydroxybenzoic acid, L-serine, D-sorbitol, propionic acid, valeric acid, L-histidine,
+potassium 2-ketogluconate or 4-hydroxybenzoic acid (API
+20NE and API ID 32GN strips). Acid is not produced from
+any substrates in the API 20E system. Produces alkaline
+phosphatase, esterase lipase (C8), leucine arylamidase,
+valine arylamidase, acid phosphatase, naphthol-AS-BIphosphohydrolase, a-galactosidase, a- and b-glucosidase,
+N-acetyl-b-glucosaminidase and a-mannosidase; weakly
+produces esterase (C4), cystine arylamidase, trypsin and
+a-fucosidase; does not produce lipase (C14), a-chymotrypsin or b-glucuronidase.
+The type strain is KIS3-4T (5KACC 12734T 5JCM
+15422T), isolated from soil from Daechung Island of the
+West Sea of Korea.
+
+roots of Spathiphyllum plants grown in a compost-amended potting
+mix. Int J Syst Evol Microbiol 56, 1755–1759.
+Groth, I., Schumann, P., Weiss, N., Martin, K. & Rainey, F. A. (1996).
+
+Agrococcus jenensis gen. nov., sp. nov., a new genus of actinomycetes
+with diaminobutyric acid in the cell wall. Int J Syst Bacteriol 46, 234–
+239.
+Hiraishi, A. (1992). Direct automated sequencing of 16S rDNA
+
+amplified by polymerase chain reaction from bacterial cultures
+without DNA purification. Lett Appl Microbiol 15, 210–213.
+Im, W. T., Lee, S. T. & Yokota, A. (2004). Rhodanobacter fulvus sp.
+nov., a b-galactosidase-producing gammaproteobacterium. J Gen
+
+Appl Microbiol 50, 143–147.
+Jin, L., Kim, K. K., Im, W. T., Yang, H. C. & Lee, S. T. (2007).
+
+Aspromonas composti gen. nov., sp. nov., a novel member of the
+family Xanthomonadaceae. Int J Syst Evol Microbiol 57, 1876–1880.
+Johansen, J. E., Binnerup, S. J., Kroer, N. & Mølbak, L. (2005).
+
+Luteibacter rhizovicinus gen. nov., sp. nov., a yellow-pigmented
+gammaproteobacterium isolated from the rhizosphere of barley
+(Hordeum vulgare L.). Int J Syst Evol Microbiol 55, 2285–2291.
+Kim, B. Y., Weon, H. Y., Lee, K. H., Seok, S. J., Kwon, S. W., Go, S. J. &
+Stackebrandt, E. (2006). Dyella yeojuensis sp. nov., isolated from
+
+greenhouse soil in Korea. Int J Syst Evol Microbiol 56, 2079–2082.
+MEGA3: integrated software
+for molecular evolutionary genetics analysis and sequence alignment.
+Brief Bioinform 5, 150–163.
+
+Kumar, S., Tamura, K. & Nei, M. (2004).
+
+Kwon, S. W., Kim, J. S., Park, I. C., Yoon, S. H., Park, D. H., Lim, C. K. &
+Go, S. J. (2003). Pseudomonas koreensis sp. nov., Pseudomonas
+
+umsongensis sp. nov. and Pseudomonas jinjuensis sp. nov., novel
+species from farm soils in Korea. Int J Syst Evol Microbiol 53, 21–27.
+Lee, E. M., Jeon, C. O., Choi, I., Chang, K. S. & Kim, C. J. (2005).
+
+Silanimonas lenta gen. nov., sp. nov., a slightly thermophilic and
+alkaliphilic gammaproteobacterium isolated from a hot spring. Int J
+Syst Evol Microbiol 55, 385–389.
+Lee, C. S., Kim, K. K., Aslam, Z. & Lee, S. T. (2007). Rhodanobacter
+
+thiooxydans sp. nov., isolated from a biofilm on sulfur particles used
+in an autotrophic denitrification process. Int J Syst Evol Microbiol 57,
+1775–1779.
+
+Acknowledgements
+This work was supported by a grant (no. 20080401034028) from the
+BioGreen 21 Program, Rural Development Administration, Republic
+of Korea.
+
+Lozada, M., Figuerola, E. L. M., Itria, R. F. & Erijman, L. (2006).
+
+Replicability of dominant bacterial populations after long-term
+surfactant-enrichment in lab-scale activated sludge. Environ
+Microbiol 8, 625–638.
+Ludwig, W., Strunk, O., Klugbauer, S., Klugbauer, N., Weizenegger, M.,
+Neumaier, J., Bachleitner, M. & Schleifer, K. H. (1998). Bacterial
+
+References
+An, D.-S., Im, W.-T., Yang, H.-C., Yang, D.-C. & Lee, S.-T. (2005).
+Dyella koreensis sp. nov., a b-glucosidase-producing bacterium. Int J
+
+Syst Evol Microbiol 55, 1625–1628.
+Breznak, J. A. & Costilow, R. N. (1994). Physicochemical factors
+
+in growth. In Methods for General and Molecular Bacteriology,
+pp. 137–154. Edited by P. Gerhardt, R. G. E. Murray, W. A.
+Wood & N. R. Krieg. Washington, DC: American Society for
+Microbiology.
+
+phylogeny based on comparative sequence analysis. Electrophoresis 19,
+554–568.
+Mergaert, J., Cnockaert, M. C. & Swings, J. (2002). Fulvimonas soli gen.
+nov., sp. nov., a c-proteobacterium isolated from soil after enrichment
+on acetylated starch plastic. Int J Syst Evol Microbiol 52, 1285–1289.
+Mesbah, M., Premachandran, U. & Whitman, W. B. (1989). Precise
+
+measurement of the G+C content of deoxyribonucleic acid by highperformance liquid chromatography. Int J Syst Bacteriol 39, 159–167.
+
+Costello, E. K. & Schmidt, S. K. (2006). Microbial diversity in alpine
+
+Minnikin, D. E., O’Donnell, A. G., Goodfellow, M., Alderson, G.,
+Athalye, M., Schaal, A. & Parlett, J. H. (1984). An integrated
+
+tundra wet meadow soil: novel Chloroflexi from a cold, watersaturated environment. Environ Microbiol 8, 1471–1486.
+
+procedure for the extraction of bacterial isoprenoid quinones and
+polar lipids. J Microbiol Methods 2, 233–241.
+
+Cunha, S., Tiago, I., Pires, A. L., da Costa, M. S. & Verı́ssimo, A.
+(2006). Dokdonella fugitiva sp. nov., a Gammaproteobacterium
+
+Nalin, R., Simonet, P., Vogel, T. M. & Normand, P. (1999).
+
+isolated from potting soil. Syst Appl Microbiol 29, 191–196.
+De Clercq, D., Van Trappen, S., Cleenwerck, I., Ceustermans, A.,
+Swings, J., Coosemans, J. & Ryckeboer, J. (2006). Rhodanobacter
+
+spathiphylli sp. nov., a gammaproteobacterium isolated from the
+http://ijs.sgmjournals.org
+
+Rhodanobacter lindaniclasticus gen. nov., sp. nov., a lindane-degrading
+bacterium. Int J Syst Bacteriol 49, 19–23.
+Reasoner, D. J. & Geldreich, E. E. (1985). A new medium for the
+
+enumeration and subculture of bacteria from potable water. Appl
+Environ Microbiol 49, 1–7.
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 05:30:33
+
+2311
+
+H.-Y. Weon and others
+Saddler, G. S. & Bradbury, J. F. (2005). Order III. Xanthomonadales.
+
+In Bergey’s Manual of Systematic Bacteriology, 2nd edn, vol. 2, part B,
+pp. 63–122. Edited by D. J. Brenner, N. R. Krieg, J. T. Staley & G. M.
+Garrity. New York: Springer.
+
+CLUSTAL W:
+improving the sensitivity of progressive multiple sequence alignment
+through sequence weighting, position-specific gap penalties and
+weight matrix choice. Nucleic Acids Res 22, 4673–4680.
+
+Saha, P., Krishnamurthi, S., Mayilraj, S., Prasad, G. S., Bora, T. C. &
+Chakrabarti, T. (2005). Aquimonas voraii gen. nov., sp. nov., a novel
+
+Weon, H. Y., Kim, B. Y., Hong, S. B., Jeon, Y. A., Kwon, S. W., Go, S. J.
+& Koo, B. S. (2007). Rhodanobacter ginsengisoli sp. nov. and
+
+gammaproteobacterium isolated from a warm spring of Assam, India.
+Int J Syst Evol Microbiol 55, 1491–1495.
+
+Rhodanobacter terrae sp. nov., isolated from soil cultivated with
+Korean ginseng. Int J Syst Evol Microbiol 57, 2810–2813.
+
+Smibert, R. M. & Krieg, N. R. (1994). Phenotypic characterization. In
+
+Xie, C.-H. & Yokota, A. (2005). Dyella japonica gen. nov., sp. nov., a c-
+
+Methods for General and Molecular Bacteriology, pp. 607–654. Edited
+by P. Gerhardt, R. G. E. Murray, W. A. Wood & N. R. Krieg.
+Washington, DC: American Society for Microbiology.
+
+Yoon, J. H., Kang, S. J. & Oh, T. K. (2006). Dokdonella koreensis gen.
+
+2312
+
+Thompson, J. D., Higgins, D. G. & Gibson, T. J. (1994).
+
+proteobacterium isolated from soil. Int J Syst Evol Microbiol 55, 753–756.
+nov., sp. nov., isolated from soil. Int J Syst Evol Microbiol 56, 145–150.
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 59
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 05:30:33
+
+
