@@ -1,0 +1,13 @@
+#===Annotation
+#Attribution setting:
+#open: True
+#close: False
+
+[PreProcessing]
+	Sentence_Insertion = True
+[SR]
+	species_name_extraction = True
+[GNR]
+	Tagged_by_AIIA = False
+[SA]
+	Species_Assignment = False
