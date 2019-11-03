@@ -1,0 +1,207 @@
+PROKARYOTES
+
+crossm
+Genome Sequence of the
+Dichloromethane-Degrading Bacterium
+Hyphomicrobium sp. Strain GJ21
+
+Université de Strasbourg, CNRS, GMGM UMR 7156, Department of Microbiology, Genomics and the
+Environment, Strasbourg, Francea; Biochemical Laboratory, Groningen Biomolecular Sciences and
+Biotechnology Institute, University of Groningen, Groningen, The Netherlandsb; Commissariat à l’Énergie
+Atomique et aux Énergies Alternatives, Institut de Biologie François-Jacob, Laboratoire de Biologie Moléculaire
+pour l’Etude des Génomes, Évry, Francec; Commissariat à l’Énergie Atomique et aux Énergies Alternatives,
+Institut de Biologie François-Jacob, Laboratoire d’Analyse Bioinformatique en Génomique et Métabolisme,
+Évry, Franced; Centre National de la Recherche Scientiﬁque, UMR 8030, Évry, Francee; UEVE, Université d'Évry,
+Évry, Francef
+
+ABSTRACT The genome sequence of Hyphomicrobium sp. strain GJ21, isolated in
+the Netherlands from samples of environments contaminated with halogenated pollutants and capable of using dichloromethane as its sole carbon and energy source,
+was determined.
+
+D
+
+ichloromethane (DCM) is one of the most used industrial halogenated solvents
+worldwide, and its toxicity and substantial release into the environment are of
+serious concern (1, 2). Various methylotrophic bacterial strains capable of growing
+with DCM as the sole source of carbon and energy have been isolated over the
+years (3). All such strains for which the dehalogenase has been characterized,
+including strain GJ21 (4), contain the dcmA gene for DCM dehalogenase, an enzyme
+of the glutathione S-transferase family (5, 6). Other DCM-degrading systems, particularly from anaerobic environments, are currently being investigated in detail
+(7–10), including at the genome level. Whereas natural sources of DCM exist, such
+as production by microalgae (11), most DCM in the environment is of industrial
+origin, raising questions about the origin, evolution, and distribution of DCM
+dehalogenase genes in microorganisms.
+Hyphomicrobium sp. strain GJ21, isolated after prolonged adaptation from a mixture
+of activated sludge from a wastewater treatment plant and soil samples from polluted
+sites (12), has been extensively used as a model for bioremediation of DCM in
+bioreactor studies (e.g., see reference 13 and references therein). The genome of
+Hyphomicrobium sp. strain GJ21 was sequenced using Illumina technology. A matepaired library (7-kb insert size) and a paired-end library (340-bp insert size) were
+produced and sequenced using HiSeq2000 (2 ⫻ 100 nucleotides), yielding ~4 Gb and
+~1.85 Gb of useful reads after selection and trimming, respectively. Sequence data were
+assembled with the Velvet assembler (https://www.ebi.ac.uk/~zerbino/velvet). Gap
+ﬁlling was performed using GapCloser (http://soap.genomics.org.cn/soapdenovo.html)
+on scaffolds larger than 2 kb. The ﬁnal assembly resulted in 1 circular scaffold comprising 4 contigs with a cumulative size of 3.84 Mb and a G⫹C content of 60.8%.
+Automatic and manual gene annotations were performed using the MicroScope platform (14). The genome contains a single rRNA operon and encodes 47 tRNAs for all
+Volume 5 Issue 30 e00622-17
+
+Received 15 May 2017 Accepted 30 May
+2017 Published 27 July 2017
+Citation Bringel F, Postema CP, Mangenot S,
+Bibi-Triki S, Chaignaud P, Farhan Ul Haque M,
+Gruffaz C, Hermon L, Louhichi Y, Maucourt B,
+Muller EEL, Nadalig T, Lajus A, Rouy Z, Médigue
+C, Barbe V, Janssen DB, Vuilleumier S. 2017.
+Genome sequence of the dichloromethanedegrading bacterium Hyphomicrobium sp.
+strain GJ21. Genome Announc 5:e00622-17.
+https://doi.org/10.1128/genomeA.00622-17.
+Copyright © 2017 Bringel et al. This is an
+open-access article distributed under the terms
+of the Creative Commons Attribution 4.0
+International license.
+Address correspondence to Stéphane
+Vuilleumier, vuilleumier@unistra.fr.
+
+genomea.asm.org 1
+
+Downloaded from http://genomea.asm.org/ on February 15, 2018 by guest
+
+Françoise Bringel,a Christiaan P. Postema,b Sophie Mangenot,c Sabrina Bibi-Triki,a
+Pauline Chaignaud,a Muhammad Farhan Ul Haque,a Christelle Gruffaz,a
+Louis Hermon,a Yousra Louhichi,a Bruno Maucourt,a Emilie E. L. Muller,a
+Thierry Nadalig,a Aurélie Lajus,d,e,f Zoé Rouy,d,e,f Claudine Médigue,d,e,f
+Valérie Barbe,c Dick B. Janssen,b Stéphane Vuilleumiera
+
+Bringel et al.
+
+ACKNOWLEDGMENTS
+This work was supported by a GIS IBiSA grant-in-kind to S.V. The LABGeM (CEA/IG/
+Genoscope and CNRS UMR 8030) and the France Génomique national infrastructure
+(funded as part of the Investissements d’avenir program managed by the Agence
+Nationale pour la Recherche, contract ANR-10-INBS-09) are acknowledged for support
+within the MicroScope annotation platform.
+
+REFERENCES
+1. Shestakova M, Sillanpää M. 2013. Removal of dichloromethane from
+ground and wastewater: a review. Chemosphere 93:1258 –1267. https://
+doi.org/10.1016/j.chemosphere.2013.07.022.
+2. Schlosser PM, Bale AS, Gibbons CF, Wilkins A, Cooper GS. 2015. Human
+health effects of dichloromethane: key ﬁndings and scientiﬁc issues. Environ
+Health Perspect 123:114 –119. https://doi.org/10.1289/ehp.1308030.
+3. Muller EEL, Bringel F, Vuilleumier S. 2011. Dichloromethane-degrading
+bacteria in the genomic age. Res Microbiol 162:869 – 876. https://doi
+.org/10.1016/j.resmic.2011.01.008.
+4. Vuilleumier S, Ivoš N, Dean M, Leisinger T. 2001. Sequence variation in
+dichloromethane dehalogenases/glutathione S-transferases. Microbiology 147:611– 619. https://doi.org/10.1099/00221287-147-3-611.
+5. Vuilleumier S, Pagni M. 2002. The elusive roles of bacterial glutathione
+S-transferases: new lessons from genomes. Appl Microbiol Biotechnol
+58:138 –146. https://doi.org/10.1007/s00253-001-0836-0.
+6. Allocati N, Federici L, Masulli M, Di Ilio C. 2009. Glutathione transferases
+in bacteria. FEBS J 276:58 –75. https://doi.org/10.1111/j.1742-4658.2008
+.06743.x.
+7. Lee M, Wells E, Wong YK, Koenig J, Adrian L, Richnow HH, Maneﬁeld M.
+2015. Relative contributions of Dehalobacter and zerovalent iron in the
+degradation of chlorinated methanes. Environ Sci Technol 49:
+4481– 4489. https://doi.org/10.1021/es5052364.
+8. Kleindienst S, Higgins SA, Tsementzi D, Konstantinidis KT, Mack EE,
+Löfﬂer FE. 2016. Draft genome sequence of a strictly anaerobic
+dichloromethane-degrading bacterium. Genome Announc 4(2):e00037
+-16. https://doi.org/10.1128/genomeA.00037-16.
+9. Kleindienst S, Higgins SA, Tsementzi D, Chen G, Konstantinidis KT, Mack
+EE, Löfﬂer FE. 2017. “Candidatus Dichloromethanomonas elyunquensis”
+gen. nov., sp. nov., a dichloromethane-degrading anaerobe of the Peptococcaceae family. Syst Appl Microbiol 40:150 –159. https://doi.org/10
+.1016/j.syapm.2016.12.001.
+10. Trueba-Santiso A, Parladé E, Rosell M, Lliros M, Mortan SH, MartínezAlonso M, Gaju N, Martín-González L, Vicent T, Marco-Urrea E. 2017.
+Molecular and carbon isotopic characterization of an anaerobic stable
+Volume 5 Issue 30 e00622-17
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+enrichment culture containing Dehalobacterium sp. during dichloromethane fermentation. Sci Total Environ 581:640 – 648. https://doi.org/
+10.1016/j.scitotenv.2016.12.174.
+Paul C, Pohnert G. 2011. Production and role of volatile halogenated
+compounds from marine algae. Nat Prod Rep 28:186 –195. https://doi
+.org/10.1039/c0np00043d.
+Ottengraf SPP, Meesters JJP, Vandenoever AHC, Rozema HR. 1986. Biological elimination of volatile xenobiotic compounds in bioﬁlters. Bioproc Eng 1:61– 69. https://doi.org/10.1007/bf00387497.
+Diks RMM, Ottengraf SPP, Vrijlnad S. 1994. The existence of a biological
+equilibrium in a trickling ﬁlter for waste-gas puriﬁcation. Biotechnol
+Bioeng 44:1279 –1287. https://doi.org/10.1002/bit.260441103.
+Vallenet D, Calteau A, Cruveiller S, Gachet M, Lajus A, Josso A, Mercier J,
+Renaux A, Rollin J, Rouy Z, Roche D, Scarpelli C, Médigue C. 2017.
+MicroScope in 2017: an expanding and evolving integrated resource for
+community expertise of microbial genomes. Nucleic Acids Res 45:
+D517–D528. https://doi.org/10.1093/nar/gkw1101.
+Ochsner AM, Sonntag F, Buchhaupt M, Schrader J, Vorholt JA. 2015.
+Methylobacterium extorquens: methylotrophy and biotechnological applications. Appl Microbiol Biotechnol 99:517–534. https://doi.org/10
+.1007/s00253-014-6240-3.
+Brown PJB, Kysela DT, Buechlein A, Hemmerich C, Brun YV. 2011. Genome sequences of eight morphologically diverse alphaproteobacteria.
+J Bacteriol 193:4567– 4568. https://doi.org/10.1128/JB.05453-11.
+Kohler-Staub D, Frank S, Leisinger T. 1995. Dichloromethane as the sole
+carbon source for Hyphomicrobium sp. strain DM2 under denitriﬁcation
+conditions. Biodegradation 6:229 –235. https://doi.org/10.1007/
+BF00700462.
+Vuilleumier S, Nadalig T, Ul Haque MF, Magdelenat G, Lajus A, Roselli S,
+Muller EEL, Gruffaz C, Barbe V, Médigue C, Bringel F. 2011. Complete
+genome sequence of the chloromethane-degrading Hyphomicrobium sp.
+strain MC1. J Bacteriol 193:5035–5036. https://doi.org/10.1128/JB.05627-11.
+Venkatramanan R, Prakash O, Woyke T, Chain P, Goodwin LA, Watson D,
+Brooks S, Kostka JE, Green SJ. 2013. Genome sequences for three denitrigenomea.asm.org 2
+
+Downloaded from http://genomea.asm.org/ on February 15, 2018 by guest
+
+amino acids. It features genes for enzymes participating in methanol, methylamine,
+dimethylamine, and trimethylamine oxidation and associated accessory genes; for
+enzymes involved in formaldehyde oxidation by the tetrahydromethanopterin pathway, enzymes of the tetrahydrofolate-dependent C1 pathway, and corresponding
+cofactor biosynthesis genes; and for enzymes involved in formate oxidation, as well as
+genes of the serine and ethylmalonyl-CoA cycles for carbon assimilation (15). The
+genome also possesses the strongly conserved dcm islet of dcmRABC genes found in all
+bacteria with dcmA-encoded DCM dehalogenase (3), including Hyphomicrobium denitriﬁcans ATCC 51888 of known genome sequence (16). Genes associated with dissimilatory nitrate reduction and complete denitriﬁcation to N2 were also identiﬁed, as
+expected from the known ability of Hyphomicrobium strains to grow with DCM with
+nitrate as the terminal electron acceptor in the absence of oxygen (17).
+Several other Hyphomicrobium genome sequences of isolated strains (16, 18–21)
+(http://www.genoscope.cns.fr/agc/microscope) or reconstructed from metagenomes
+(22) are now publicly available. Comparative genomics of the Hyphomicrobium genus
+will support ongoing experimental studies on bacterial adaptation to growth with
+halogenated methanes for bioremediation applications.
+Accession number(s). The Hyphomicrobium sp. strain GJ21 genome sequence was
+deposited in GenBank under the accession number CDHO00000000. The version described here is the ﬁrst version, CDHO01000000.
+
+Genome Announcement
+
+fying bacterial strains isolated from a uranium- and nitrate-contaminated
+subsurface environment. Genome Announc 1(4):e00449-13. https://doi.org/
+10.1128/genomeA.00449-13.
+20. Martineau C, Villeneuve C, Mauffrey F, Villemur R. 2014. Complete genome
+sequence of Hyphomicrobium nitrativorans strain NL23, a denitrifying bacterium isolated from bioﬁlm of a methanol-fed denitriﬁcation system treating seawater at the Montreal Biodome. Genome Announc 2(1):e01165-13.
+https://doi.org/10.1128/genomeA.01165-13.
+
+21. Martineau C, Mauffrey F, Villemur R. 2015. Comparative analysis of
+denitrifying activities of Hyphomicrobium nitrativorans, Hyphomicrobium
+denitriﬁcans, and Hyphomicrobium zavarzinii. Appl Environ Microbiol
+81:5003–5014. https://doi.org/10.1128/AEM.00848-15.
+22. Fujinawa K, Asai Y, Miyahara M, Kouzuma A, Abe T, Watanabe K. 2016.
+Genomic features of uncultured methylotrophs in activated-sludge microbiomes grown under different enrichment procedures. Sci Rep
+6:26650. https://doi.org/10.1038/srep26650.
+
+Downloaded from http://genomea.asm.org/ on February 15, 2018 by guest
+
+Volume 5 Issue 30 e00622-17
+
+genomea.asm.org 3
+
+

@@ -1,0 +1,142 @@
+JOURNAL OF BACTERIOLOGY, Sept. 2011, p. 5035–5036
+0021-9193/11/$12.00 doi:10.1128/JB.05627-11
+Copyright © 2011, American Society for Microbiology. All Rights Reserved.
+
+Vol. 193, No. 18
+
+Complete Genome Sequence of the Chloromethane-Degrading
+Hyphomicrobium sp. Strain MC1
+Stéphane Vuilleumier,1 Thierry Nadalig,1 Muhammad Farhan Ul Haque,1 Ghislaine Magdelenat,2
+Aurélie Lajus,3 Sandro Roselli,1 Emilie E. L. Muller,1 Christelle Gruffaz,1 Valérie Barbe,2
+Claudine Médigue,3 and Françoise Bringel1*
+Equipe Adaptations et interactions microbiennes dans l’environnement, UMR 7156 CNRS, Université de Strasbourg,
+67083 Strasbourg Cedex, France1; CEA, DSV, IG, Genoscope, Laboratoire de finition (LF), 91057 Evry, France2; and
+CEA, DSV, IG, Genoscope & UMR 8030 CNRS, Laboratoire d’Analyses Bioinformatiques pour la
+Génomique et le Métabolisme (LABGeM), 91057 Evry, France3
+
+Hyphomicrobium sp. strain MC1 is an aerobic methylotroph originally isolated from industrial sewage. This
+prosthecate bacterium was the first strain reported to grow with chloromethane as the sole carbon and energy
+source. Its genome, consisting of a single 4.76-Mb chromosome, is the first for a chloromethane-degrading
+bacterium to be formally reported.
+predicted open reading frames (ORFs), 947 (20%) have close
+homologs (⬎80% amino acid identity over ⬎80% of protein
+length, almost all of them in synteny) in Hyphomicrobium denitrificans ATCC 51888, whose genome sequence has been determined (NC_014313) (4).
+Genes encoding enzymes and proteins for oxidation of
+methanol (mxa) and methylamine (mgs and mgd [5, 7] but not
+mau genes) were identified, together with proteins and enzymes involved in pyrroloquinoline quinone synthesis and tetrahydrofolate- and tetrahydromethanopterin-linked pathways.
+Genes for complete serine and ethylmalonyl coenzyme A pathways (1) for carbon assimilation were identified. The genome
+of strain MC1 also encodes a complete glycolysis pathway and
+a closed tricarboxylic acid cycle, but no genes for the glyoxylate
+shunt (isocitrate lyase and malate synthase) were detected. Six
+terminal oxidases of different types were identified. Unlike in
+H. denitrificans ATCC 51888, genes for N2 fixation, a complete
+uptake hydrogenase gene cluster, and gene systems for both
+assimilative (nas) and dissimilative (nar) reduction of nitrate,
+ammonia and nitrate/nitrite transport, a putative nitrate-inducible formate dehydrogenase, an alkane sulfonate oxidation and
+transport system, and an acetone carboxylase (acxRABC) cluster (12) were detected. In contrast, the dichloromethane dehalogenation genes (dcmRABC) (10) allowing H. denitrificans
+ATCC 51888 to grow on DCM were not found in strain MC1.
+Hyphomicrobium sp. strain MC1 thus emerges as a promising model for investigating the degradation of halogenated
+pollutants in the context of methylotrophic metabolism using
+genomic information (16) and for studies of morphological and
+metabolic features supporting bacterial growth under nutrientscarce conditions.
+Nucleic acid sequence accession number. The Hyphomicrobium sp. strain MC1 genome sequence was deposited in
+GenBank/EMBL under accession number FQ859181.
+
+Strains of the genus Hyphomicrobium originally attracted
+interest for their distinctive prosthecae and atypical complex
+growth cycle (9). Strains of this genus are ubiquitous but were
+detected in wastewater treatment plants in particular, and often under denitrifying conditions (3, 8). Following the description of strain MC1 (6), several chloromethane-degrading Hyphomicrobium strains were isolated from various aquatic and
+soil environments, and most recently also from the surfaces
+of plant leaves (11). Strain MC1 features the consecutive
+cmuBCA gene arrangement; these genes encode chloromethane dehalogenase, which has been found in all aerobic chloromethane-degrading bacteria characterized so far with the exception of Methylobacterium extorquens CM4, from which
+chloromethane dehalogenase was purified (13) and in which
+regulation of chloromethane dehalogenase expression was investigated (14).
+The assembled genome sequence of Hyphomicrobium sp.
+strain MC1 was obtained using a mix of sequencing technologies. A mate-paired 454 library with an 8-kb insert size
+was constructed (version Titanium), and 559,691 reads
+(173,407,941 bp; approximately 36⫻ coverage) were assembled
+using Newbler (version 2.3, release 091027_1459). Assembly
+validation was made via Consed (www.phrap.org), and 129
+PCRs between contigs were performed and sequenced for gap
+closure. For quality assessment, a total of 25,299,825 Illumina
+36-bp reads were mapped onto the whole genome sequence
+using SOAP (http://soap.genomics.org.cn) (2), allowing us to
+correct potential base errors and confirming the final closed
+circular 4,757,528-bp assembly. Sequence annotation and comparative genome analysis are under way using the MicroScope
+platform at Genoscope (15).
+Based on the 16S rRNA sequence of its single rRNA
+operon, strain MC1 appears to be most closely related to
+Hyphomicrobium facile subspecies type strains. Of its 4,679
+
+* Corresponding author. Mailing address: UMR 7156 CNRS, Université de Strasbourg, 67083 Strasbourg Cedex. Phone: 33-3-68-85-1815. Fax: 33-3-68-85-20-28. E-mail: francoise.bringel@unistra.fr.
+
+This work was supported by a GIS IbiSA grant to S.V. (2009 campaign).
+5035
+
+Downloaded from http://jb.asm.org/ on February 15, 2018 by guest
+
+Received 21 June 2011/Accepted 29 June 2011
+
+5036
+
+GENOME ANNOUNCEMENTS
+
+J. BACTERIOL.
+
+REFERENCES
+9.
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+16.
+
+activated sludge from an industrial wastewater treatment system as determined by 16S rRNA analysis. Appl. Environ. Microbiol. 66:1167–1174.
+Moore, R. L. 1981. The Biology of Hyphomicrobium and other prosthecate,
+budding bacteria. Annu. Rev. Microbiol. 35:567–594.
+Muller, E. E. L., F. Bringel, and S. Vuilleumier. 2011. Dichloromethanedegrading bacteria in the genomic age. Res. Microbiol.:doi:10.1016/j.resmic.
+2011.1001.1008, in press.
+Nadalig, T., et al. 2011. Detection and isolation of chloromethane-degrading
+bacteria from the Arabidopsis thaliana phyllosphere, and characterization of
+chloromethane utilization genes. FEMS Microbiol. Ecol. 77:438–448.
+Sluis, M. K., et al. 2002. Biochemical, molecular, and genetic analyses of the
+acetone carboxylases from Xanthobacter autotrophicus strain Py2 and Rhodobacter capsulatus strain B10. J. Bacteriol. 184:2969–2977.
+Studer, A., E. Stupperich, S. Vuilleumier, and T. Leisinger. 2001. Chloromethane: tetrahydrofolate methyl transfer by two proteins from Methylobacterium chloromethanicum strain CM4. Eur. J. Biochem. 268:2931–2938.
+Studer, A., C. McAnulla, R. Büchele, T. Leisinger, and S. Vuilleumier. 2002.
+Chloromethane induced genes define a third C1 utilization pathway in
+Methylobacterium chloromethanicum CM4. J. Bacteriol. 184:3476–3484.
+Vallenet, D., et al. 2009. MicroScope: a platform for microbial genome
+annotation and comparative genomics. Database (Oxford) 2009:bap021.
+Vuilleumier, S., et al. 2009. Methylobacterium genome sequences: a reference
+blueprint to investigate microbial metabolism of C1 compounds from natural
+and industrial sources. PLoS One 4:e5584.
+
+Downloaded from http://jb.asm.org/ on February 15, 2018 by guest
+
+1. Anthony, C. 2011. How half a century of research was required to understand
+bacterial growth on C1 and C2 compounds; the story of the serine cycle and
+the ethylmalonyl-CoA pathway. Science Progress. 94:109–137.
+2. Aury, J. M., et al. 2008. High quality draft sequences for prokaryotic genomes using a mix of new sequencing technologies. BMC Genomics 9:603.
+3. Baytshtok, V., S. Kim, R. Yu, H. Park, and K. Chandran. 2008. Molecular
+and biokinetic characterization of methylotrophic denitrification using nitrate and nitrite as terminal electron acceptors. Water Sci. Technol. 58:359–
+365.
+4. Brown, P. J., D. T. Kysela, A. Buechlein, C. Hemmerich, and Y. V. Brun.
+2011. Genome sequences of eight morphologically diverse alphaproteobacteria. J. Bacteriol. 193:4567–4568.
+5. Chen, Y., et al. 2010. Gamma-glutamylmethylamide is an essential intermediate in the metabolism of methylamine by Methylocella silvestris. Appl.
+Environ. Microbiol. 76:4530–4537.
+6. Hartmans, S., A. Schmuckle, A. M. Cook, and T. Leisinger. 1986. Methyl
+chloride: naturally occurring toxicant and C-1 growth substrate. J. Gen.
+Microbiol. 132:1139–1142.
+7. Latypova, E., et al. 2010. Genetics of the glutamate-mediated methylamine
+utilization pathway in the facultative methylotrophic beta-proteobacterium
+Methyloversatilis universalis FAM5. Mol. Microbiol. 75:426–439.
+8. Layton, A. C., et al. 2000. Quantification of Hyphomicrobium populations in
+
+
