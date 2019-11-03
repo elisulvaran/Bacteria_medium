@@ -1,0 +1,563 @@
+International Journal of Systematic and Evolutionary Microbiology (2012), 62, 295–298
+
+DOI 10.1099/ijs.0.029181-0
+
+Actinoallomurus radicium sp. nov., isolated from
+the roots of two plant species
+Atsuko Matsumoto, Asami Fukuda, Yuki Inahashi, Satoshi Ōmura
+and YŌko Takahashi
+Correspondence
+
+Kitasato Institute for Life Sciences, Kitasato University, 5-9-1 Shirokane, Minato-ku,
+Tokyo 108-8641, Japan
+
+Atsuko Matsumoto
+amatsu@lisci.kitasato-u.ac.jp
+
+Three strains, K08-0182T, K08-0178 and K08-0195 were isolated from the paste of ground plant
+roots collected in Kanagawa Prefecture, Japan. These strains contained meso-diaminopimelic
+acid and lysine as the diamino acids in cell-wall peptidoglycan, and MK-9(H6) and MK-9(H8) as
+the predominant menaquinones. The G+C contents of the DNA were 72–73 mol%. Taken
+together, these characteristics combined with 16S rRNA gene sequence analyses revealed that
+the isolated strains belong to the genus Actinoallomurus. DNA–DNA hybridization values showed
+that the three strains belonged to a novel species of the genus Actinoallomurus. Therefore strains
+K08-0182T, K08-0178 and K08-0195 are proposed as representatives of a novel species,
+Actinoallomurus radicium sp. nov. The type strain is K08-0182T (5DSM 45523T 5NBRC
+107678T 5JCM 17294T).
+
+Numerous attempts have been made to isolate many
+actinomycete strains from various samples for the purpose
+of finding new microbial resources in screening for novel
+natural products. In many trials we have used plant roots
+to isolate rare or novel actinomycete strains, and we reported
+the novel genus and species Phytohabitans suffuscus, which
+was isolated from an orchid variety (Inahashi et al., 2010),
+and Actinoallomurus acaciae (Thamchaipenet et al., 2010)
+and Actinoallomurus oryzae (Indananda et al., 2011) that
+were isolated from separate plants in Thailand. The genus
+Actinoallomurus, the type species of which is Actinoallomurus
+spadix, was transferred from the genus Actinomadura based
+on a proposal by Tamura et al. (2009). Here we report the
+taxonomic characteristics of another novel species in the
+genus Actinoallomurus.
+Strains K08-0182T and K08-0178, and strain K08-0195 were
+isolated from the roots of a Mondo grass and a Chusan Palm
+collected in Kanagawa Prefecture in March 2008, respectively. The roots were washed with sterilized water and dried
+in a chamber with silica gel for several days. After soaking
+the roots in 70 % ethanol for 30 s and then in 1 % sodium
+hypochlorite for 30 s, the samples were rinsed in sterilized
+water before being ground in extraction solution (0.38 %
+K2HPO4, 0.12 % KH2PO4, 0.51 % MgSO4 . H2O, 0.25 %
+NaCl, 0.005 % Fe2(SO4)3 . nH2O, 0.005 % MnSO4 . 5H2O)
+and plated on cellobiose-asparagine agar (1.0 % cellobiose,
+The GenBank/EMBL/DDBJ accession numbers for the 16S rRNA
+gene sequences of strains K08-0182T, K08-0178 and K08-0195 are
+AB578855, AB578856 and AB578857, respectively.
+Two supplementary tables and a supplementary figure are available with
+the online version of this paper.
+
+029181 G 2012 IUMS
+
+0.1 % L-asparagine, 0.1 % K2HPO4, 0.0001 % FeSO4 . 7H2O,
+0.0001 % MnCl2 . 4H2O, 0.0001 % ZnSO4 . 7H2O, 1.5 % agar,
+pH 7.0). Colonies were picked up after incubation for
+6 weeks at 27 uC.
+Morphological characteristics of the aerial mycelium were
+observed by scanning electron microscopy (JSM-5600,
+JEOL) after incubation on ISP medium 4 (Difco) for 1
+month at 27 uC and fixation with 4 % osmium tetroxide
+vapour. Cultural and physiological characteristics were
+observed after incubation for 3 weeks at 27 uC. Cultural
+characteristics were examined on ISP medium 2 (Difco),
+ISP medium 3 (DAIGO, Nihon Pharmaceutical), ISP
+medium 4 and ISP medium 7 (DAIGO). ISP medium 4
+was used to examine starch hydrolysis, ISP medium 8 (0.5 %
+peptone, 0.3 % beef extract, 0.5 % KNO3, pH 7.0) for nitrate
+reduction, gelatin medium (2.0 % glucose, 0.5 % peptone,
+20 % gelatin, pH 7.0) for gelatin liquefaction, 10 % skim milk
+(Difco) for coagulation and peptonization of milk, ISP
+medium 6 (DAIGO) for H2S production, and skim milk agar
+(Gordon et al., 1974) for casein hydrolysis. NaCl tolerance,
+and pH and temperature ranges for growth were determined
+on ISP medium 2. Utilization of sole carbon sources at 1 %
+(w/v) was tested using ISP medium 9 (DAIGO) as basal
+medium according to the method of Pridham & Gottlieb
+(1948). The API ZYM system (bioMérieux) was used to
+examine biochemical characteristics of the strains according
+to the manufacturer’s instructions for 24 h at 37 uC.
+Biomass for chemotaxonomy was prepared by cultivation
+in YD (1 % yeast extract, 1 % glucose, pH 7.0) at 27 uC. NAcyl types of muramic acid were determined by the
+method of Uchida & Aida (1977). Purified cell wall was
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 07:27:12
+
+Printed in Great Britain
+
+295
+
+A. Matsumoto and others
+
+obtained by using the method of Kawamoto et al. (1981),
+and the amino acid composition of hydrolysed cell walls was
+determined by TLC. Whole-cell sugars were analysed after
+Becker et al. (1965) and the presence of mycolic acids was
+examined by TLC following Tomiyasu (1982). Phospholipids
+were extracted and identified following the method of
+Minnikin et al. (1977). Menaquinones, which were extracted
+and purified by the method of Collins et al. (1977), were
+subsequently analysed by LC/MS (JMS-T100LP, JEOL) with
+a PEGASIL ODS column (20650 mm) using methanol/2propanol (7 : 3). After methyl esters of cellular fatty acids
+were prepared by direct transmethylation with methanolic
+hydrochloride, fatty acid analysis was performed according
+to the procedures for the Sherlock Microbial Identification
+System (Microbial ID).
+Chromosomal DNA was isolated using a slight modification of the method described by Saito & Miura (1963). DNA
+base composition was estimated by the HPLC method of
+Tamaoka & Komagata (1984) and DNA–DNA hybridization
+experiments were performed as described by Ezaki et al.
+(1989). PCR amplification and sequencing of the 16S rRNA
+genes were performed using previously described methods
+(Matsumoto et al., 2008). CLUSTAL X version 1.83 (Thompson
+et al., 1994) was used for multiple alignments with selected
+sequences for calculating evolutionary distances (Kimura,
+1980). A phylogenetic tree was reconstructed based on the
+neighbour-joining method (Saitou & Nei, 1987). Data were
+resampled with 1000 bootstrap replications (Felsenstein,
+1985). PHYLIP version 3.67 was used for generating a
+phylogenetic tree by the maximum-likelihood method
+(Felsenstein, 1981). Sequence similarity values were determined by visual comparison and manual calculation.
+Cell-wall peptidoglycans of strains K08-0182T, K08-0178
+and K08-0195 contained meso-diaminopimelic acid and
+lysine as diamino acids, as well as alanine and glutamic
+acid. Madurose and galactose were detected from wholecell hydrolysates, and the acyl type of the peptidoglycan
+was acetyl. Phosphatidylglycerol and diphosphatidylglycerol
+
+were detected but phosphatidylethanolamine and phosphatidylcholine were not detected. The major menaquinones
+were MK-9(H6) and MK-9(H8) and the predominant fatty
+acids were iso-C16 : 0 and 10-methyl C17 : 0 (Supplementary
+Table S1, available in IJSEM Online). Mycolic acids were not
+detected. The G+C contents of genomic DNA ranged from
+72 to 73 mol%.
+Almost complete 16S rRNA gene sequences (1487 bp) were
+determined for strains K08-0182T, K08-0178 and K080195. The sequence similarity among the three strains was
+100 %. Phylogenetic analysis using the neighbour-joining
+and maximum-likelihood methods showed that these strains
+are closely related to the genus Actinoallomurus (Fig. 1). It is
+clear that the strains belong to the genus Actinoallomurus
+based on the phylogenetic analyses and chemotaxonomic
+data. The highest similarity value between the 16S rRNA
+gene sequences of the isolates and species of the genus
+Actinoallomurus was 99.0 % (Actinoallomurus iriomotensis
+TT02-47T), which was shown as the nearest species in the
+phylogenetic tree (Fig. 1). Similarity values between the
+three strains and other species were below 98.8 %.
+Strains K08-0182T, K08-0178 and K08-0195 grew on ISP
+media 2, 3, 4 and 7, but aerial mycelium was produced
+slightly only on ISP medium 4 (Table 1). No soluble
+pigment was produced. Spores produced on the tips of
+aerial mycelium were oval (0.761.0 mm, approximately)
+with smooth surfaces (Supplementary Fig. S1).
+All isolated strains exhibited similar phenotypic characteristics. The isolates grew at temperatures ranging from 12
+to 36 uC and at pH 5–7, but not on 2 % NaCl medium.
+Liquefaction of gelatin was positive but hydrolysis of
+starch, urea and casein were negative. The physiological
+characteristics of the three strains are listed in the species
+description below, and the physiological differences among
+strains K08-0182T, K08-0178, K08-0195 and A. iriomotensis
+NBRC 103685T are shown in Table 2. All three isolated
+strains differed from A. iriomotensis NBRC 103685T in
+some characteristics; utilization of myo-inositol, maltose
+
+Fig. 1. Phylogenetic tree, derived from 16S rRNA gene sequences, recreated using the neighbour-joining method. Only
+bootstrap values above 40 % (from 1000 replications) are indicated. Solid circles indicate that the corresponding nodes were
+also recovered in the maximum-likelihood tree. Bar, 0.005 substitutions per nucleotide position.
+296
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 62
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 07:27:12
+
+Actinoallomurus radicium sp. nov.
+
+Table 1. Cultural characteristics of strains K08-0182T, K08-0178, K08-0195 and Actinoallomurus iriomotensis NBRC 103685T
+All strains showed good growth, pale yellow colonies and no aerial mycelium on ISP 2 medium.
+K08-0182T
+
+K08-0178
+
+K08-0195
+
+A. iriomotensis
+NBRC 103685T
+
+Good
+Brownish white
+None
+
+Good
+Pale yellow
+None
+
+Moderate
+Brownish white
+None
+
+Good
+Brownish white
+None
+
+Good
+Brownish white
+Poor/White
+
+Good
+Brownish grey
+Poor/White
+
+Good
+Brownish white
+None
+
+Good
+Brownish white
+None
+
+Good
+Dark brown
+None
+
+Moderate
+Brownish grey
+None
+
+Good
+Dark brown
+None
+
+Moderate
+Brownish white
+None
+
+Characteristic
+Growth on ISP 3
+Growth
+Colony colour
+Aerial mycelium
+Growth on ISP 4
+Growth
+Colony colour
+Aerial mycelium/colour
+Growth on ISP 7
+Growth
+Colony colour
+Aerial mycelium
+
+and sucrose, enzyme activities of lipase (C4), trypsin,
+chymotrypsin, a-galactosidase and b-galactosidase, hydrolysis of starch and casein, and growth with sodium chloride
+
+greater than 1 % were negative, but hydrolysis of gelatin
+was positive. Though the dominant cellular fatty acid of
+the three strains was i-C16 : 0 like A. iriomotensis NBRC
+103685T, 10-methyl C17 : 0 was detected in greater proportion (Supplementary Table S1).
+
+Table 2. Differential physiological characteristics of strains
+K08-0182T, K08-0178, K08-0195 and A. iriomotensis NBRC
+103685T
+
+DNA–DNA hybridization values were 77–100 % among
+the three isolates and 3–12 % between the isolates and
+A. iriomotensis TT02-47T (Supplementary Table S2). The
+latter values are considered to be sufficiently below the
+70 % threshold required for assigning strains to the same
+species (Wayne et al., 1987). Therefore, we propose to
+assign strains K08-0182T, K08-0178 and K08-0195 to a
+novel species of genus Actinoallomurus, Actinoallomurus
+radicium sp. nov.
+
+Strains: 1, K08-0182T; 2, K08-0178; 3, K08-0195; 4, A. iriomotensis
+NBRC 103685T. +, Positive; 2, negative; +w, doubtful positive.
+Characteristic
+Utilization of:
+D-Fructose
+D-Galactose
+myo-Inositol
+D-Mannitol
+Maltose
+D-Rhamnose
+Sucrose
+API ZYM test
+Lipase (C4)
+Trypsin
+Chymotrypsin
+a-Galactosidase
+b-Galactosidase
+a-Glucosidase
+N-Acetyl-bglucosaminidase
+Hydrolysis of:
+Starch
+Casein
+Gelatin
+Temperature range (uC) for
+growth
+Tolerance of NaCl (%)
+pH range for growth
+
+1
+
+2
+
+3
+
+4
+
++
++
+2
++
+2
++
+2
+
++
++
+2
++
+2
++
+2
+
+2
+2
+2
+2
+2
+2
+2
+
+2
+2
++
+2
++
+2
++
+
+2
+2
+2
+2
+2
++w
++w
+
+2
+2
+2
+2
+2
++w
++w
+
+2
+2
+2
+2
+2
++
++w
+
++w
++w
++
++w
++w
++
++
+
+2
+2
++
+16–34
+
+2
+2
++
+12–36
+
+2
+2
++
+12–34
+
++
++
+2
+20–37*
+
+1
+5–7
+
+,1
+5–7
+
+,1
+5–7
+
+5
+5–8
+
+*Data taken from Tamura et al. (2009).
+http://ijs.sgmjournals.org
+
+Description of Actinoallomurus radicium sp. nov.
+Actinoallomurus radicium (ra.di9ci.um. L. gen. pl. n. radicium
+of roots, isolated from a plant root).
+Colonies are yellow to brown. Aerial mycelium is white.
+The tips of the aerial mycelium divide into oval to rodshaped spores at maturity. Spore surface is smooth. Spore
+chains form spirals. Aerobic. Temperature range for
+growth is 12–36 uC. Growth occurs at pH 5–7 and not
+with 2 % NaCl. Hydrolysis of gelatin is positive, but starch,
+urea and casein hydrolysis is negative. Coagulation and
+peptonization of milk and nitrate reduction are negative.
+D-Glucose and D-xylose are utilized, D-arabinose, dulcitol,
+myo-inositol, maltose, D-sorbitol and sucrose are not
+utilized as sole carbon source, and D-fructose, D-galactose,
+D-mannitol, raffinose and D-rhamnose utilization is
+variable. Acid phosphatase, alkaline phosphatase, leucine
+arylamidase and naphthol-AS-BI-phosphohydrolase are
+present, but chymotrypsin, a- and b-galactosidase, bglucosidase, lipase (C4), a-fucosidase, a-mannosidase and
+trypsin are absent by API ZYM. The predominant cellular
+fatty acids are i-C16 : 0, 10-methyl C17 : 0 and ai-C17 : 0. The
+G+C content of DNA is 72–73 mol%.
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 07:27:12
+
+297
+
+A. Matsumoto and others
+
+The type strain is K08-0182T (5DSM 45523T 5NBRC
+107678T 5JCM 17294T), isolated from plant roots collected
+in Kanagawa Prefecture, Japan.
+
+Matsumoto, A., Yamada, M., Ōmura, S. & Takahashi, Y. (2008).
+
+Microterricola viridarii gen. nov., sp. nov., a new member of the family
+Microbacteriaceae. Int J Syst Evol Microbiol 58, 1019–1023.
+Minnikin, D. E., Patel, P. V., Alshamaony, L. & Goodfellow, M. (1977).
+
+Polar lipid composition in the classification of Nocardia and related
+bacteria. Int J Syst Bacteriol 27, 104–117.
+
+Acknowledgements
+This work was financially supported by the Institute for Fermentation, Osaka (IFO), Japan.
+
+Pridham, T. G. & Gottlieb, D. (1948). The utilization of carbon
+
+compounds by some Actinomycetales as an aid for species determination. J Bacteriol 56, 107–114.
+Saito, H. & Miura, K. I. (1963). Preparation of transforming
+
+References
+
+deoxyribonucleic acid by phenol treatment. Biochim Biophys Acta
+72, 619–629.
+
+Becker, B., Lechevalier, M. P. & Lechevalier, H. A. (1965). Chemical
+
+Saitou, N. & Nei, M. (1987). The neighbor-joining method: a new
+
+position of cell-wall preparations from strains of various form-genera
+of aerobic actinomycetes. Appl Microbiol 13, 236–243.
+
+method for reconstructing phylogenetic trees. Mol Biol Evol 4, 406–
+425.
+
+Collins, M. D., Pirouz, T., Goodfellow, M. & Minnikin, D. E. (1977).
+
+Tamaoka, J. & Komagata, K. (1984). Determination of DNA base
+
+Distribution of menaquinones in actinomycetes and corynebacteria.
+J Gen Microbiol 100, 221–230.
+Ezaki, T., Hashimoto, Y. & Yabuuchi, E. (1989). Fluorometric
+
+deoxyribonucleic acid-deoxyribonucleic acid hybridization in microdilution wells as an alternative to membrane filter hybridization in
+which radioisotopes are used to determine genetic relatedness among
+bacterial strains. Int J Syst Bacteriol 39, 224–229.
+Felsenstein, J. (1981). Evolutionary trees from DNA sequences: a
+maximum likelihood approach. J Mol Evol 17, 368–376.
+Felsenstein, J. (1985). Confidence limits on phylogenies: an approach
+
+using the bootstrap. Evolution 39, 783–791.
+Gordon, R. E., Barnett, D. A., Handerhan, J. E. & Pang, C. H.-N.
+(1974). Nocardia coeliaca, Nocardia autotrophica, and the Nocardin
+
+Strain. Int J Syst Bacteriol 24, 54–63.
+Inahashi, Y., Matsumoto, A., Danbara, H., Ōmura, S. & Takahashi, Y.
+(2010). Phytohabitans suffuscus gen. nov., sp. nov., an actinomycete of
+
+the family Micromonosporaceae isolated from plant roots. Int J Syst
+Evol Microbiol 60, 2652–2658.
+
+composition by reversed-phase high-performance liquid chromatography. FEMS Microbiol Lett 25, 125–128.
+Tamura, T., Ishida, Y., Nozawa, Y., Otoguro, M. & Suzuki, K. (2009).
+
+Transfer of Actinomadura spadix Nonomura and Ohara 1971 to
+Actinoallomurus spadix gen. nov., comb. nov., and description of
+Actinoallomurus amamiensis sp. nov., Actinoallomurus caesius sp. nov.,
+Actinoallomurus coprocola sp. nov., Actinoallomurus fulvus sp. nov.,
+Actinoallomurus iriomotensis sp. nov., Actinoallomurus luridus sp.
+nov., Actinoallomurus purpureus sp. nov. and Actinoallomurus
+yoronensis sp. nov. Int J Syst Evol Microbiol 59, 1867–1874.
+Thamchaipenet, A., Indananda, C., Bunyoo, C., Duangmal, K.,
+Matsumoto, A. & Takahashi, Y. (2010). Actinoallomurus acaciae sp.
+
+nov., an endophytic actinomycete isolated from Acacia auriculiformis
+A. Cunn. ex Benth. Int J Syst Evol Microbiol 60, 554–559.
+CLUSTAL W:
+improving the sensitivity of progressive multiple sequence alignment
+through sequence weighting, position-specific gap penalties and
+weight matrix choice. Nucleic Acids Res 22, 4673–4680.
+
+Thompson, J. D., Higgins, D. G. & Gibson, T. J. (1994).
+
+Indananda, C., Thamchaipenet, A., Matsumoto, A., Inahashi, Y.,
+Duangmal, K. & Takahashi, Y. (2011). Actinoallomurus oryzae sp.
+
+Tomiyasu, I. (1982). Mycolic acid composition and thermally
+
+nov., an endophytic actinomycete isolated from roots of a Thai
+jasmine rice plant. Int J Syst Evol Microbiol 61, 737–741.
+
+Uchida, K. & Aida, K. (1977). Acyl type of bacterial cell wall: its simple
+
+Kawamoto, I., Oka, T. & Nara, T. (1981). Cell wall composition of
+
+Micromonospora olivoasterospora, Micromonospora sagamiensis, and
+related organisms. J Bacteriol 146, 527–534.
+Kimura, M. (1980). A simple method for estimating evolutionary
+rates of base substitutions through comparative studies of nucleotide
+sequences. J Mol Evol 16, 111–120.
+
+298
+
+adaptative changes in Nocardia asteroides. J Bacteriol 151, 828–837.
+identification by colorimetric method. J Gen Appl Microbiol 23, 249–
+260.
+Wayne, L. G., Brenner, D. J., Colwell, R. R., Grimont, P. A. D., Kandler, O.,
+Krichevsky, M. I., Moore, L. H., Moore, W. E. C., Murray, R. G. E. & other
+authors (1987). Report of the ad hoc committee on reconciliation
+
+of approaches to bacterial systematics. Int J Syst Bacteriol 37, 463–
+464.
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 62
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 07:27:12
+
+

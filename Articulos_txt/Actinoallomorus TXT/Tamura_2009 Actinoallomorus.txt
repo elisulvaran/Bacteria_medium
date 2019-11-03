@@ -1,0 +1,1267 @@
+International Journal of Systematic and Evolutionary Microbiology (2009), 59, 1867–1874
+
+DOI 10.1099/ijs.0.006858-0
+
+Transfer of Actinomadura spadix Nonomura and
+Ohara 1971 to Actinoallomurus spadix gen. nov.,
+comb. nov., and description of Actinoallomurus
+amamiensis sp. nov., Actinoallomurus caesius
+sp. nov., Actinoallomurus coprocola sp. nov.,
+Actinoallomurus fulvus sp. nov., Actinoallomurus
+iriomotensis sp. nov., Actinoallomurus luridus
+sp. nov., Actinoallomurus purpureus sp. nov. and
+Actinoallomurus yoronensis sp. nov.
+Tomohiko Tamura,1 Yuumi Ishida,1 Yuriko Nozawa,2 Misa Otoguro1
+and Ken-ichiro Suzuki1
+Correspondence
+Tomohiko Tamura
+
+1
+
+tamura-tomohiko@nite.go.jp
+
+2
+
+NITE Biological Resource Center (NBRC), National Institute of Technology and Evaluation, 2-5-8
+Kazusakamatari, Kisarazu, Chiba 292-0818, Japan
+Medicinal Chemistry Laboratory, Taisho Pharmaceutical Co. Ltd, 1-403 Yoshino-cho, Kita-ku,
+Saitama-shi, Saitama 331-9530, Japan
+
+Ten actinomycete strains that form chains of spiral or looped spores were isolated from soil and
+dung samples in Japan. They contained D- and L-lysine, meso-diaminopimelic acid (A2pm), Dglutamic acid and D- and L-alanine in the cell-wall peptidoglycan, madurose as a characteristic
+whole-cell sugar, MK-9(H6) and MK-9(H8) as the major isoprenoid quinones and iso-C16 : 0 as the
+major cellular fatty acid and showed genomic DNA G+C contents of 69–74 mol%. Phylogenetic
+analyses based on 16S rRNA gene sequences showed that the isolated actinomycete strains
+consistently formed a monophyletic cluster with Actinomadura spadix NBRC 14099T and a
+separate line of descent in the phylogenetic cluster of the family Thermomonosporaceae.
+Actinomadura spadix NBRC 14099T also contained D- and L-lysine in addition to meso-A2pm. This
+genetic and phenotypic evidence revealed that the actinomycete strains could be clearly
+differentiated from the other members of the family Thermomonosporaceae and that they warranted
+separate genus status. We conclude that Actinomadura spadix should be assigned the status of the
+type species of a new genus as Actinoallomurus spadix gen. nov., comb. nov. (type strain NBRC
+14099T 5ATCC 27298T 5BCRC 13386T 5CBS 261.72T 5CIP 105479T 5DSM 43459T 5JCM
+3146T 5KCTC 9252T 5NCIMB 11118T 5NRRL B-16128T). Further, we conclude that the ten
+new isolates should be assigned to the novel species Actinoallomurus amamiensis sp. nov. (type
+strain TT00-28T 5NBRC 103682T 5KCTC 19537T), Actinoallomurus caesius sp. nov. (type strain
+A3015T 5NBRC 103678T 5KCTC 19535T), Actinoallomurus coprocola sp. nov. (type strain
+TT04-09T 5NBRC 103688T 5KCTC 19542T), Actinoallomurus fulvus sp. nov. (type strain TT9966T 5NBRC 103680T 5KCTC 19536T), Actinoallomurus iriomotensis sp. nov. (type strain
+TT02-47T 5NBRC 103685T 5KCTC 19539T), Actinoallomurus luridus sp. nov. (type strain TT0215T 5NBRC 103683T 5KCTC 19538T), Actinoallomurus purpureus sp. nov. (type strain TTN0230T 5NBRC 103687T 5KCTC 19541T) and Actinoallomurus yoronensis sp. nov. (type strain
+TTN02-22T 5NBRC 103686T 5KCTC 19540T).
+Abbreviation: A2pm, diaminopimelic acid.
+The GenBank/EMBL/DDBJ accession numbers for the 16S rRNA gene sequences of the strains used are AB364579–AB364589, as detailed in Table 1.
+A 16S rRNA gene sequence-based maximum-likelihood tree, 2D TLC of the polar lipids and SEMs of growth of strain NBRC 14099T, fatty acid profiles of
+Actinoallomurus strains and details of growth of Actinoallomurus strains on various media are available as supplementary material with the online version of this paper.
+
+006858 G 2009 IUMS
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Tue, 20 Feb 2018 08:08:15
+
+Printed in Great Britain
+
+1867
+
+T. Tamura and others
+
+The members of the genus Actinomadura are described as
+actinomycetes that form non-fragmenting, extensively
+branched substrate mycelium and aerial hyphae with
+arthrospores which may be straight, hooked (in the form
+of open loops) or irregular spirals (one to four turns)
+(Lechevalier & Lechevalier, 1970). The spore surfaces are
+either folded, irregular, smooth, spiny or warty. The cellwall peptidoglycan contains meso-diaminopimelic acid
+(A2pm), type A1c (Schleifer & Kandler, 1972), and
+whole-cell hydrolysates contain madurose. At the time of
+writing, the genus Actinomadura included about 65 species
+with validly published names, although about 24 of
+these have been reclassified. They are included within
+the evolutionary radiation occupied by the family
+Thermomonosporaceae. Actinomadura spadix Nonomura
+and Ohara 1971 is known as a distinct species having low
+16S rRNA gene similarity with the other species of the
+genus; the highest 16S rRNA gene sequence similarity of
+the type strain, 95.9 %, is shown by the type strain of
+Actinomadura alba (Wang et al., 2007). In the present
+study, soil isolates that were phylogenetically related
+to Actinomadura spadix were subjected to a polyphasic
+investigation in order to establish their taxonomic
+positions.
+During the course of an ecological study of actinomycetes
+conducted in Japan, ten actinomycete strains were isolated
+from soil and dung samples collected from various places
+(Table 1). All the strains except TT04-09T were isolated by
+the yeast extract-SDS method (Hayakawa & Nonomura,
+1989) using humic acid-vitamin (HV) agar medium
+(Hayakawa & Nonomura, 1987). Strain TT04-09T was
+obtained from cow dung by incubation on water agar
+containing 50 mg cycloheximide l21 for 1 month at room
+
+temperature. PCR amplification, sequencing of 16S rRNA
+genes and phylogenetic analyses were performed as
+described previously (Tamura & Hatano, 2001).
+Sequences were aligned using CLUSTAL_X version 1.83
+(Thompson et al., 1997) and the alignment was corrected
+manually. Alignment gaps and ambiguous bases were
+removed prior to the phylogenetic analyses by using
+BioEdit version 7.0.5.3 (Hall, 1999). Neighbour-joining
+(Saitou & Nei, 1987) phylogenetic trees were constructed
+using CLUSTAL_X according to Kimura’s two-parameter
+model (Kimura, 1980). Maximum-parsimony (Kluge &
+Farris, 1969) and maximum-likelihood (Felsenstein, 1981)
+analyses were performed using the PAUP software version
+4.0b10 (Swofford, 2002). Bootstrap values (Felsenstein,
+1985) based on 1000 replications were used to evaluate the
+confidence limits on phylogenies. The 16S rRNA gene
+sequence analysis revealed that the isolated strains formed a
+monophyletic cluster with Actinomadura spadix NBRC
+14099T in which the branch was supported by a bootstrap
+value of 100 % (Fig. 1 and Supplementary Fig. S1, available
+in IJSEM Online). Binary 16S rRNA gene sequence
+similarities among the isolates and Actinomadura spadix
+NBRC 14099T were not less than 96.7 %. Strains TT02-47T,
+TT02-22, and TT99-68 shared high 16S rRNA gene
+sequence similarities, ranging from 99.8 to 100 %. All of
+the isolates and Actinomadura spadix NBRC 14099T
+showed similarity of 96.2 % or less with other
+Actinomadura strains, such as the type strains of
+Actinomadura nitritigenes (96.2 %), Actinomadura echinospora (96.0 %), Actinomadura alba (95.9 %) and
+Actinomadura fulvescens (95.8 %).
+For chemotaxonomic analyses, freeze-dried cells were
+obtained from cultures grown in yeast extract-glucose
+
+Table 1. Actinomycete strains used in this study
+All isolation locations are in Japan.
+Strain
+Actinoallomurus (Actinomadura) spadix comb. nov. NBRC 14099T
+Actinoallomurus amamiensis sp. nov. TT00-28T
+Actinoallomurus caesius sp. nov. A3015T
+Actinoallomurus coprocola sp. nov. TT04-09T
+Actinoallomurus fulvus sp. nov. TT99-66T
+Actinoallomurus iriomotensis sp. nov.
+TT02-47T
+TT02-22
+TT99-68
+Actinoallomurus luridus sp. nov. TT02-15T
+Actinoallomurus purpureus sp. nov. TTN02-30T
+Actinoallomurus yoronensis sp. nov. TTN02-22T
+
+1868
+
+Source, locality and year of isolation
+
+16S rRNA gene sequence
+accession number
+
+Soil, Yamanashi (Nonomura & Ohara, 1971)
+Grove soil, Citrus tankan, Amami Island,
+Kagoshima, 2000
+Mangrove forest soil, Iriomote Island,
+Okinawa, 1998
+Cow dung, Futtsu, Chiba, 2003
+Sugar-cane field soil, Iriomote Island,
+Okinawa, 1999
+
+AB364581
+AB364583
+
+Meadow soil, Iriomote Island, Okinawa, 2001
+As above
+Pineapple field soil, Iriomote Island,
+Okinawa, 1999
+Meadow soil, Iriomote Island, Okinawa, 2001
+Forest soil, Yoro valley, Chiba, 2002
+Forest soil, Yoro valley, Chiba, 2002
+
+AB364586
+AB364587
+AB364580
+
+AB364589
+AB364579
+AB364582
+
+AB364585
+AB364588
+AB364584
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 59
+IP: 189.155.188.202
+On: Tue, 20 Feb 2018 08:08:15
+
+Actinoallomurus gen. nov., with nine species
+
+Fig. 1. Phylogenetic tree derived from the 16S rRNA gene sequences of Actinoallomurus species and related actinomycetes
+belonging to the family Thermomonosporaceae. The tree was constructed by using the neighbour-joining method (Saitou & Nei,
+1987). The sequence of Streptosporangium roseum DSM 43021T was used as the outgroup. Bar, 0.005 Knuc in nucleotide
+sequences. Numbers on branches indicate confidence limits that were estimated by bootstrap analysis with 1000 replicates;
+only values .50 % are provided. A maximum-likelihood tree is available as Supplementary Fig. S1.
+
+broth on a rotary shaker at 28 uC for 5 days. Analyses of
+whole-cell sugar patterns, cell-wall amino acids, menaquinones, the acyl type of the peptidoglycan, mycolic acids
+and DNA base composition were performed as described
+previously (Tamura et al., 1994). Amino acid isomers of
+the cell-wall peptidoglycan and their composition were
+http://ijs.sgmjournals.org
+
+determined and analysed by liquid chromatography/mass
+spectrometry according to the method described by
+Nozawa et al. (2007). Cellular fatty acid methyl esters were
+prepared and analysed according to the protocol of the
+MIDI Sherlock Microbial Identification System (Sasser,
+1990; MIDI, 2002). MK-9(H6) (17–73 %) and MK-9(H8)
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Tue, 20 Feb 2018 08:08:15
+
+1869
+
+T. Tamura and others
+
+(18–83 %) were the predominant menaquinones present in
+these strains. In addition, MK-9(H4) and MK-9(H2) (19 and
+16 %, respectively) were present in strain A3015T and MK9(H4) was present in strains TT02-15T and TT04-09T (12
+and 13 %, respectively). Madurose, galactose and glucose
+were present as whole-cell sugars. The cell-wall peptidoglycan of Actinomadura spadix NBRC 14099T and the ten
+isolates contained meso-A2pm, D- and L-lysine, D- and Lalanine and D-glutamic acid. Neither D- nor L-lysine could
+be detected in the cell-wall peptidoglycan of Actinomadura
+madurae NBRC 14623T or Actinomadura viridis NBRC
+15238T under the same conditions. The major fatty acids
+present in these strains were iso-C16 : 0 and anteiso-C17 : 0.
+Strain A3015T contained less anteiso-C17 : 0 than 10-methyl
+C17 : 0, which was present in a large amount. The cellular fatty
+acid compositions of Actinomadura spadix NBRC 14099T
+and the new isolates are shown in Supplementary Table S1.
+With regard to phospholipids, phosphatidylglycerol was
+detected; however, phosphatidylethanolamine, phosphatidylcholine and ninhydrin-positive unidentified phospholipids were not detected (phospholipid type PI sensu
+Lechevalier et al. 1977) (Supplementary Fig. S2). The DNA
+G+C contents of Actinomadura spadix NBRC 14099T and
+the new isolates ranged from 69.0 to 74.2 mol%.
+Morphological characteristics were observed by scanning
+electron microscopy as described previously (Tamura et al.,
+1994). Actinomadura spadix NBRC 14099T and the isolates
+formed spore chains of up to 15 spores, which were hooked
+(in the form of open loops), looped or spiral on the tips of
+the branched aerial mycelium (Supplementary Fig. S3).
+The spiral spore chain occasionally resembled a sporangium (pseudosporangium). The spores were spherical,
+oval and/or rod-shaped with a smooth surface, 0.5–
+1.260.5–2.0 mm. Motile cells were not observed.
+Cultural and physiological characteristics were examined as
+described previously (Gordon et al., 1974; Seino et al.,
+1985) as well as by using API kits (bioMérieux). Detailed
+results of these analyses are provided in Supplementary
+Table S2 and Table 2 and in the descriptions of the species.
+Strain TTN02-30T formed purple colonies on ISP-4, ISP-7
+and yeast extract-starch agar. The mass colour of the other
+strains ranged from yellow to reddish brown. Growth and
+physiological characteristics differed among all the strains
+except TT02-47T, TT02-22 and TT99-68, which showed
+similar characteristics. The isolates and Actinomadura
+spadix NBRC 14099T grew optimally at pH 5.5–6.0.
+The microplate hybridization method developed by Ezaki
+et al. (1988, 1989) was applied to determine DNA–DNA
+relatedness. The DNA–DNA relatedness among strains
+TT02-47T, TT02-22 and TT99-68 ranged from 61 to 90 %.
+In contrast, the relatedness among Actinomadura spadix
+NBRC 14099T and strains TTN02-30T, TT02-15T, TT0247T, TT04-09T, TTN02-22T, A3015T, TT00-28T and TT9966T ranged from 6 to 55 %.
+The phylogenetic data and chemotaxonomic characteristics, especially the presence of D- and L-lysine and meso1870
+
+A2pm in the cell-wall peptidoglycan, clearly distinguished
+Actinomadura spadix NBRC 14099T and the isolates at the
+genus level from other previously known Actinomadura
+species and members of Thermomonosporaceae. Therefore,
+a new genus, Actinoallomurus gen. nov., is proposed for
+Actinomadura spadix and the new isolates.
+Based on DNA–DNA relatedness and certain phenotypic
+properties, nine species of the genus Actinoallomurus are
+described; discriminatory properties of these species are
+listed in Supplementary Table S2 and Table 2. The type
+species of the genus is Actinoallomurus spadix gen. nov.,
+comb. nov. Strains TT02-47T, TT02-22 and TT99-68 were
+identified as members of a single species, Actinoallomurus
+iriomotensis sp. nov. The other species of the genus
+Actinoallomurus are Actinoallomurus amamiensis sp. nov.,
+Actinoallomurus caesius sp. nov., Actinoallomurus coprocola
+sp. nov., Actinoallomurus fulvus sp. nov., Actinoallomurus
+luridus sp. nov., Actinoallomurus purpureus sp. nov. and
+Actinoallomurus yoronensis sp. nov.
+Although the presence of lysine in the cell-wall peptidoglycan is characteristic of the new genus, the structure of
+the peptidoglycan, including the position of lysine, has not
+been determined. In phylogenetic trees constructed on the
+basis of both the neighbour-joining and maximumlikelihood methods, Actinomadura alba was placed phylogenetically outside the cluster composed of the genera
+Actinomadura and Actinocorallia. Therefore, further taxonomic study is required in order to clarify the taxonomy of
+the genus Actinomadura.
+Description of Actinoallomurus gen. nov.
+Actinoallomurus (Ac.ti.no.al.lo.mu9rus. Gr. n. actis, actinos
+ray, used to refer to actinomycetes; Gr. adj. allos different;
+L. masc. n. murus wall; N.L. masc. n. Actinoallomurus
+actinomycetes with a different wall).
+Non-acid-fast and strictly aerobic actinomycetes that show
+extensive branching and non-fragmenting substrate
+hyphae. Spore chains develop on the tips of the aerial
+mycelium. Spores form oval to short rods (0.5–1.2 mm
+wide and 0.7–2.0 mm long). Spores are non-motile. The
+surface of colonies is powdery. Strains show good growth
+on most test media; however, they show extremely poor
+sporulation on these media. The optimum temperature for
+growth is generally 25–30 uC. The cell wall contains Dglutamic acid, D- and L-alanine, D- and L-lysine and mesoA2pm. Whole-cell hydrolysates contain madurose and
+galactose. Cellular fatty acids comprise iso-branched,
+anteiso-branched, 10-methylated branched saturated and
+unsaturated fatty acids; iso-C16 : 0 is the major component.
+MK-9(H6) and MK-9(H8) are the predominant menaquinones. Phosphatidylglycerol and diphosphatidylglycerol
+are detected; phosphatidylethanolamine, phosphatidylcholine and ninhydrin-positive unidentified phospholipids are
+not detected (phospholipid pattern type PI). Mycolic acids
+are not detected. The acyl type of the muramic acid is Nacetyl. The G+C content of DNA is 69–74 mol%. Unique
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 59
+IP: 189.155.188.202
+On: Tue, 20 Feb 2018 08:08:15
+
+Actinoallomurus gen. nov., with nine species
+
+Table 2. Differential characteristics of type strains of the genus Actinoallomurus gen. nov.
+Strains: 1, Actinoallomurus spadix NBRC 14099T; 2, Actinoallomurus amamiensis TT00-28T; 3, Actinoallomurus caesius A3015T; 4, Actinoallomurus
+coprocola TT04-09T; 5, Actinoallomurus fulvus TT99-66T; 6, Actinoallomurus iriomotensis TT02-47T; 7, Actinoallomurus luridus TT02-15T; 8,
+Actinoallomurus purpureus TTN02-30T; 9, Actinoallomurus yoronensis TTN02-22T. +, Positive; 2, negative; V, variable; W, weakly positive.
+Characteristic
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Nitrate reduction
+Pyrazinamidase
+Pyrrolidonyl arylamidase
+Urea hydrolysis
+Catalase
+Alkaline phosphatase
+Valine arylamidase
+Acid phosphatase
+Phosphohydrolase
+b-Galactosidase
+b-Glucuronidase
+a-Glucosidase
+b-Glucosidase
+N-Acetyl-b-glucosaminidase
+Utilization of:
+Glycerol
+Erythritol
+D-Arabinose
+L-Arabinose
+L-Xylose
+Methyl b-D-xylopyranoside
+L-Sorbose
+L-Rhamnose
+Dulcitol
+Inositol
+D-Sorbitol
+Methyl a-D-mannopyranoside
+Methyl a-D-glucopyranoside
+Amygdalin
+Arbutin
+Salicin
+Cellobiose
+Maltose
+Lactose
+Melibiose
+Sucrose
+Inulin
+Melezitose
+Starch
+Glycogen
+Xylitol
+Turanose
+D-Lyxose
+D-Tagatose
+D-Fucose
+L-Fucose
+D-Arabitol
+L-Arabitol
+2-Ketogluconate
+5-Ketogluconate
+
++
++
+2
+2
++
++
++
++
++
+
+2
+2
+2
+2
++
++
+2
++
++
+2
+
+2
++
+2
++
++
+
+V
+
++
+2
+2
++
++
+2
++
++
+2
+
+2
++
++
+2
+2
+
+2
++
+2
+2
++
+2
+2
+2
+
+2
++
+2
++
++
+
+V
+
+2
++
++
+2
++
++
+2
++
++
+2
+
+2
++
++
+
+2
++
+2
+2
++
+2
+2
++
++
+2
+2
+2
+2
+
+V
+
+V
+
+V
+
+V
+
+2
+2
+
+V
+
+V
+
+V
+
+V
+
+V
+
+V
+
+2
+
+V
+
+V
+
+V
+
+2
++
+
+2
++
+
+2
+
+V
+
+2
++
+
+V
+
+2
++
+
++
++
++
++
++
++
+2
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
++
+2
++
++
++
++
+2
++
++
++
++
++
+2
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+2
++
++
++
++
++
+
++
+2
+2
+2
+2
+2
+2
++
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+2
+2
++
+2
++
++
+2
++
++
++
++
++
+2
++
++
++
++
++
++
++
++
++
+2
++
++
+2
++
+2
+2
+2
+2
++
+2
++
+2
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
++
++
++
++
++
+
++
+2
+2
++
+2
++
+2
++
+2
+2
+2
++
+2
++
++
++
++
++
++
++
++
+2
++
++
++
+2
++
++
++
+2
++
+2
+2
++
++
+
++
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
++
++
++
++
++
++
++
++
+2
++
+2
++
++
++
+2
++
+2
+2
+2
++
+2
+2
+2
+2
+
++
++
++
++
++
+2
++
++
++
++
++
++
+2
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+http://ijs.sgmjournals.org
+
+V
+
+W
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
++
+2
+
+V
+
+2
++
+2
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Tue, 20 Feb 2018 08:08:15
+
+V
+V
+
++
++
++
+V
+
++
++
++
+V
+V
+
++
++
++
++
++
+V
+V
+
++
++
+V
+
++
++
++
+V
+
++
+V
+V
+
++
+V
+
+V
+
+2
++
++
+2
++
+
+W
+
+V
+
+2
+2
++
+
+V
+
+V
+
+2
+
++
+
+1871
+
+T. Tamura and others
+
+nucleotide signatures are present at the following positions
+of the 16S rRNA gene (corresponding to the numbering of
+the Escherichia coli 16S rRNA gene; Brosius et al., 1978):
+128 (T), 141 : 222 (G–C), 415 (A), 442 : 492 (C–G),
+445 : 488 (C–G), 446 : 489 (C–G), 493 (G), 602 : 636 (C–
+G), 610 (A), 614 : 626 (G–C), 615 : 625 (A–T), 630 (C),
+657 : 749 (G–C), 658 : 748 (T–A), 659 : 747 (A–T), 854 (T),
+990(T), 1159 (T) and 1262 (A). The genus belongs to the
+family Thermomonosporaceae. The type species is
+Actinoallomurus spadix.
+In addition to those given in the genus description, the
+morphological, chemotaxonomic and general characteristics of each species are as follows.
+Description of Actinoallomurus spadix
+(Nonomura and Ohara 1971) comb. nov.
+Actinoallomurus spadix (spa9dix. L. masc. adj. spadix
+chestnut-brown).
+Basonym: Actinomadura spadix Nonomura and Ohara
+1971.
+The description is based on data provided by Nonomura &
+Ohara (1971). The colour of the aerial mycelium is white.
+The tips of the aerial mycelium divide into oval to rodshaped, irregular-sized spores (0.5–1.060.7–1.5 mm) at
+maturity. The mass colour of the substrate mycelium is
+yellowish brown to purplish red. Spore chains form spirals or
+loops. Spores are smooth. The substrate mycelium is long,
+well-developed and branched. Grows at 20–45 uC, at
+pH 5.0–7.0 and at up to 2 % NaCl. Glycerol, L-arabinose,
+D-ribose, D-xylose, D-adonitol, methyl b-D-xylopyranoside,
+D-galactose, D-glucose, D-fructose, D-mannose, L-rhamnose,
+D-mannitol, methyl a-D-mannopyranoside, methyl a-Dglucopyranoside, N-acetylglucosamine, amygdalin, cellobiose, maltose, lactose, melibiose, sucrose, trehalose, melezitose, raffinose, glycogen, xylitol, turanose, D-lyxose, Lfucose and gluconate are utilized as sole carbon sources. Tests
+for nitrate reduction, aesculin hydrolysis, gelatin hydrolysis
+and catalase, pyrazinamidase, alkaline phosphatase, bgalactosidase, a-glucosidase, leucine arylamidase, valine
+arylamidase, acid phosphatase, phosphohydrolase, b-glucosidase and b-mannosidase activities are positive. Major
+cellular fatty acids are iso-C16 : 0, anteiso-C17 : 0 and iso-C18 : 0.
+The G+C content of the DNA of the type strain is 74 mol%.
+The type strain is NBRC 14099T (5ATCC 27298T 5BCRC
+13386T 5CBS 261.72T 5CIP 105479T 5DSM 43459T 5JCM
+3146T 5KCTC 9252T 5NCIMB 11118T 5NRRL B-16128T).
+Description of Actinoallomurus amamiensis sp. nov.
+Actinoallomurus amamiensis (a.ma9mi.en9sis. N.L. masc.
+adj. amamiensis pertaining to Amami Island, Japan, where
+the organism was originally isolated).
+The colour of the aerial mycelium is white. The tips of the
+aerial mycelium divide into oval to rod-shaped, irregular1872
+
+sized spores (0.5–1.060.7–1.5 mm) at maturity. The mass
+colour of the substrate mycelium is pale yellow to reddish
+brown. Spore chains form loops or spirals. Spores are
+smooth. The substrate mycelium is long, well-developed
+and branched. Grows at 20–37 uC, at pH 5.0–6.0 and at up
+to 2 % NaCl. Glycerol, D- and L-arabinose, D-ribose, Dxylose, D-adonitol, D-galactose, D-glucose, D-fructose, Dmannose, L-rhamnose, D-mannitol, methyl a-D-mannopyranoside, N-acetylglucosamine, salicin, cellobiose, maltose,
+lactose, melibiose, sucrose, trehalose, raffinose, starch,
+glycogen, gentiobiose, turanose, L-fucose and gluconate
+are utilized as sole carbon sources. Tests for aesculin
+hydrolysis, gelatin hydrolysis and catalase, pyrazinamidase,
+leucine arylamidase, acid phosphatase and phosphohydrolase activities are positive. Major cellular fatty acids are isoC16 : 0 and anteiso-C17 : 0. The G+C content of the DNA of
+the type strain is 72 mol%.
+The type strain is TT00-28T (5NBRC 103682T 5KCTC
+19537T), which was isolated from soil of a citrus grove on
+Amami Island, Kagoshima, Japan.
+Description of Actinoallomurus caesius sp. nov.
+Actinoallomurus caesius (cae9si.us. L. masc. adj. caesius
+grey–blue).
+The colour of the aerial mycelium is white. The tips of the
+aerial mycelium divide into oval to rod-shaped, irregularsized spores (0.8–1.060.8–1.5 mm) at maturity. The mass
+colour of the substrate mycelium is pale yellow to brown or
+yellowish pink. Spore chains form loops or spirals. Spores
+are smooth. The substrate mycelium is long, welldeveloped and branched. Grows at 20–37 uC, at pH 5.0–
+7.0 and at up to 2 % NaCl. Glycerol, D-ribose, D-adonitol,
+D-galactose, D-glucose, D-fructose, D-mannose, L-rhamnose, D-mannitol, N-acetyl-glucosamine, aesculin ferric
+citrate, trehalose, raffinose, gentiobiose, gluconate and 2ketogluconate are utilized as sole carbon sources. Tests for
+aesculin hydrolysis, gelatin hydrolysis and catalase, alkaline
+phosphatase, leucine arylamidase, acid phosphatase and
+phosphohydrolase activities are positive. Major cellular
+fatty acids are iso-C16 : 0 and 10-methyl C17 : 0. The G+C
+content of the DNA of the type strain is 71 mol%.
+The type strain is A3015T (5NBRC 103678T 5KCTC
+19535T), which was isolated from mangrove forest soil on
+Iriomote Island, Okinawa, Japan.
+Description of Actinoallomurus coprocola sp. nov.
+Actinoallomurus coprocola (cop.ro9co.la. Gr. n. kopros
+faeces; L. suffix -cola inhabitant of; N.L. masc. n. coprocola
+inhabitant of faeces).
+The colour of the aerial mycelium is white. The tips of the
+aerial mycelium divide into oval to rod-shaped, irregularsized spores (0.5–1.060.7–1.5 mm) at maturity. The mass
+colour of the substrate mycelium is pale yellow to purplish
+red. Spore chains form compact loops or spirals. Spores are
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 59
+IP: 189.155.188.202
+On: Tue, 20 Feb 2018 08:08:15
+
+Actinoallomurus gen. nov., with nine species
+
+wrinkled to smooth. The substrate mycelium is long, welldeveloped and branched. Grows at 20–37 uC, at pH 5.0–7.0
+and at up to 3 % NaCl. D-Arabinose, D-ribose, D-galactose,
+D-glucose, D-fructose, D-mannitol, methyl a-D-mannopyranoside, N-acetylglucosamine, cellobiose, maltose, lactose,
+melibiose, sucrose, trehalose, inulin, raffinose, starch,
+glycogen, gentiobiose, turanose and D-arabitol are utilized
+as sole carbon sources. Tests for aesculin hydrolysis, urea
+hydrolysis, gelatin hydrolysis and catalase, pyrazinamidase,
+leucine arylamidase and acid phosphatase activities are
+positive. Major cellular fatty acids are iso-C16 : 0 and
+anteiso-C17 : 0. The G+C content of the DNA of the type
+strain is 74 mol%.
+T
+
+T
+
+The type strain is TT04-09 (5NBRC 103688 5KCTC
+19542T), which was isolated from cow dung at Futtsu,
+Chiba, Japan.
+
+and branched. Grows at 20–37 uC, at pH 5.0–6.0 and at up
+to 2 % NaCl. Glycerol, D- and L-arabinose, D-ribose, Dxylose, D-adonitol, D-galactose, D-glucose, D-fructose, Dmannose, D-mannitol, N-acetylglucosamine, cellobiose,
+lactose, melibiose, raffinose, starch, glycogen, gentiobiose
+and L-fucose are utilized as sole carbon sources. Tests for
+aesculin hydrolysis, gelatin hydrolysis and catalase, pyrazinamidase, alkaline phosphatase, leucine arylamidase,
+acid phosphatase, phosphohydrolase and N-acetyl-b-glucosaminidase activities are positive. Major cellular fatty
+acids are iso-C16 : 0 and anteiso-C17 : 0. The G+C content of
+the DNA of the three known strains is 71–73 mol%.
+The type strain is TT02-47T (5NBRC 103685T 5KCTC
+19539T), which was isolated from meadow soil on Iriomote
+Island, Okinawa, Japan. Strains TT99-68 (5NBRC 103681)
+and TT02-22 (5NBRC 103684), isolated from soil on the
+same island, are also strains of this species.
+
+Description of Actinoallomurus fulvus sp. nov.
+Actinoallomurus fulvus (ful9vus. L. masc. adj. fulvus
+yellowish brown).
+The colour of the aerial mycelium is white. The tips of the
+aerial mycelium divide into oval to rod-shaped, irregularsized spores (0.7–1.260.8–1.5 mm) at maturity. The mass
+colour of the substrate mycelium is pale yellow to reddish
+brown. Spore chains form loops or spirals. Spores are
+smooth. The substrate mycelium is long, well-developed and
+branched. Grows at 20–37 uC, at pH 5.0–7.0 and at up to
+2 % NaCl. Glycerol, D- and L-arabinose, D-ribose, D-xylose,
+D-adonitol, D-galactose, D-glucose, D-fructose, D-mannose,
+L-rhamnose, inositol, methyl a-D-mannopyranoside, Nacetylglucosamine, amygdalin, salicin, cellobiose, maltose,
+lactose, melibiose, sucrose, trehalose, inulin, raffinose,
+starch, glycogen, turanose, D-lyxose, L-fucose and gluconate
+are utilized as sole carbon sources. Tests for aesculin
+hydrolysis, gelatin hydrolysis and catalase, pyrazinamidase,
+pyrrolidonyl arylamidase, alkaline phosphatase, leucine
+arylamidase, acid phosphatase, phosphohydrolase and Nacetyl-b-glucosaminidase activities are positive. Major
+cellular fatty acids are iso-C16 : 0 and anteiso-C17 : 0. The
+G+C content of the DNA of the type strain is 72 mol%.
+The type strain is TT99-66T (5NBRC 103680T 5KCTC
+19536T), which was isolated from soil of a sugar-cane field
+on Iriomote Island, Okinawa, Japan.
+Description of Actinoallomurus iriomotensis sp. nov.
+Actinoallomurus iriomotensis (i9ri.o.mo.ten9sis. N.L. masc.
+adj. iriomotensis pertaining to Iriomote Island, Japan,
+where the organism was originally isolated).
+The colour of the aerial mycelium is white. The tips of the
+aerial mycelium divide into oval to rod-shaped, irregularsized spores (0.5–0.760.6–1.2 mm) at maturity. The mass
+colour of the substrate mycelium is yellow to orange. Spore
+chains form compact hooks or spirals. Spores are wrinkled
+to smooth. The substrate mycelium is long, well-developed
+http://ijs.sgmjournals.org
+
+Description of Actinoallomurus luridus sp. nov.
+Actinoallomurus luridus (lu9ri.dus. L. masc. adj. luridus pale
+yellow).
+The colour of the aerial mycelium is white. The tips of the
+aerial mycelium divide into oval to rod-shaped, irregular-sized
+spores (0.5–1.060.7–1.5 mm) at maturity. The mass colour of
+the substrate mycelium is pale yellow to yellowish brown.
+Spore chains form loops or spirals. Spores are wrinkled to
+smooth. The substrate mycelium is long, well-developed and
+branched. Grows at 20–45 uC, at pH 5.0–7.0 and at up to 2 %
+NaCl. D-Ribose and D-xylose are utilized as sole carbon
+sources. Tests for aesculin hydrolysis, gelatin hydrolysis and
+pyrazinamidase, pyrrolidonyl arylamidase, leucine arylamidase, acid phosphatase, phosphohydrolase, b-glucuronidase
+and N-acetyl-b-glucosaminidase activities are positive. Major
+cellular fatty acids are iso-C16 : 0 and anteiso-C17 : 0. The G+C
+content of the DNA of the type strain is 72 mol%.
+The type strain is TT02-15T (5NBRC 103683T 5KCTC
+19538T), which was isolated from meadow soil on Iriomote
+Island, Okinawa, Japan.
+Description of Actinoallomurus purpureus sp. nov.
+Actinoallomurus purpureus (pur.pu9re.us. L. masc. adj.
+purpureus purple coloured).
+The colour of the aerial mycelium is white. The tips of the
+aerial mycelium divide into oval to rod-shaped, irregularsized spores (0.5–1.060.7–1.5 mm) at maturity. The mass
+colour of the substrate mycelium is pale yellow to reddish
+purple. Spore chains form loops or spirals. Spores are
+smooth. The substrate mycelium is long, well-developed
+and branched. Grows at 15–30 uC, at pH 5.0–7.0 and at up
+to 5 % NaCl. D-Galactose, D-glucose, D-fructose, Dmannose, N-acetylglucosamine, cellobiose, maltose, sucrose, trehalose, starch, glycogen, gentiobiose, turanose, Lfucose and gluconate are utilized as sole carbon sources.
+Tests for aesculin hydrolysis, gelatin hydrolysis and
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Tue, 20 Feb 2018 08:08:15
+
+1873
+
+T. Tamura and others
+
+catalase, pyrazinamidase, b-galactosidase, a-glucosidase
+and N-acetylglucosaminidase activities are positive. Major
+cellular fatty acids are iso-C16 : 0 and anteiso-C17 : 0. The
+G+C content of the DNA of the type strain is 70 mol%.
+The type strain is TTN02-30T (5NBRC 103687T 5KCTC
+19541T), which was isolated from forest soil in the Yoro
+valley, Chiba, Japan.
+
+Felsenstein, J. (1985). Confidence limits on phylogenies: an approach
+
+using the bootstrap. Evolution 39, 783–791.
+Gordon, R. E., Barnett, D. A., Handerhan, J. E. & Pang, C. H.-N.
+(1974). Nocardia coeliaca, Nocardia autotrophica, and the nocardin
+
+strain. Int J Syst Bacteriol 24, 54–63.
+Hall, T. A. (1999). BioEdit: a user-friendly biological sequence
+
+alignment editor and analysis program for Windows 95/98/NT.
+Nucleic Acids Symp Ser 41, 95–98.
+Hayakawa, M. & Nonomura, H. (1987). Humic acid-vitamin agar, a
+
+Description of Actinoallomurus yoronensis sp. nov.
+Actinoallomurus yoronensis (yo.ro.nen9sis. N.L. masc. adj.
+yoronensis pertaining to the Yoro valley, Japan, where the
+organism was originally isolated).
+The colour of the aerial mycelium is white. The tips of the
+aerial mycelium divide into oval to rod-shaped, irregularsized spores (0.5–0.860.7–1.5 mm) at maturity. The mass
+colour of the substrate mycelium is yellow to reddish
+brown. Spore chains form loops or spirals. Spores are
+smooth. The substrate mycelium is long, well-developed
+and branched. Grows at 15–37 uC, at pH 5.0–6.0 and at up
+to 1 % NaCl. Glycerol, D-glucose, D-ribose, D-xylose, Dmannitol, maltose and sucrose are utilized as sole carbon
+sources. Tests for aesculin hydrolysis, urea hydrolysis,
+gelatin hydrolysis and catalase, pyrazinamidase, leucine
+arylamidase, phosphohydrolase, b-glucuronidase and Nacetyl-b-glucosaminidase activities are positive. Major
+cellular fatty acids are iso-C16 : 0 and anteiso-C17 : 0. The
+G+C content of the DNA of the type strain is 69 mol%.
+The type strain is TTN02-22T (5NBRC 103686T 5KCTC
+19540T), which was isolated from forest soil in the Yoro
+valley, Chiba, Japan.
+
+new medium for selective isolation of soil actinomycetes. J Ferment
+Technol 65, 501–509.
+Hayakawa, M. & Nonomura, H. (1989). A new method for the intensive
+
+isolation of actinomycetes from soil. Actinomycetologica 3, 95–104.
+Kimura, M. (1980). A simple method for estimating evolutionary rates
+
+of base substitutions through comparative studies of nucleotide
+sequences. J Mol Evol 16, 111–120.
+Kluge, A. G. & Farris, F. S. (1969). Quantitative phyletics and the
+
+evolution of anurans. Syst Zool 18, 1–32.
+Lechevalier, H. A. & Lechevalier, M. P. (1970). A critical evaluation of
+
+the genera of aerobic actinomycetes. In The Actinomycetales, pp. 393–
+405. Edited by H. Prauser. Jena: VEB Gustav Fischer.
+Lechevalier, M. P., De Bièvre, C. & Lechevalier, H. A. (1977).
+
+Chemotaxonomy of aerobic actinomycetes: phospholipid composition. Biochem Syst Ecol 5, 249–260.
+MIDI (2002). MIS Operating Manual, version 4.5. Newark, DE: MIDI, Inc.
+Nonomura, H. & Ohara, Y. (1971). Distribution of actinomycetes in
+
+soil. XI. Some new species of the genus Actinomadura Lechevalier et al.
+J Ferment Technol 49, 904–912.
+Nozawa, Y., Sakai, N., Arai, K., Kawasaki, Y. & Harada, K. (2007).
+
+Reliable and sensitive analysis of amino acids in the peptidoglycan of
+actinomycetes using the advanced Marfey’s method. J Microbiol
+Methods 70, 306–311.
+Saitou, N. & Nei, M. (1987). The neighbor-joining method: a new
+
+method for reconstructing phylogenetic trees. Mol Biol Evol 4, 406–425.
+Sasser, M. (1990). Identification of bacteria by gas chromatography of
+
+cellular fatty acids, MIDI Technical Note 101. Newark, DE: MIDI Inc.
+
+Acknowledgements
+
+Schleifer, K. H. & Kandler, O. (1972). Peptidoglycan types of bacterial
+
+This study was supported in part by Grant-in-Aid for Scientific
+Research (C) (2) no. 11660326 from the Japan Society for the
+Promotion of Science. The authors are grateful to Dr Akira Nakagiri
+for his kind support.
+
+cell walls and their taxonomic implications. Bacteriol Rev 36, 407–477.
+Seino, A., Arai, M., Enokita, R., Okazaki, T. & Furuichi, A. (1985).
+
+Identification Manual of Actinomycetes. Tokyo: The Society for
+Actinomycetes Japan (in Japanese).
+PAUP*: phylogenetic analysis using parsimony
+(*and other methods), version 4.0b10. Sunderland, MA: Sinauer.
+
+Swofford, D. L. (2002).
+
+References
+
+Tamura, T. & Hatano, K. (2001). Phylogenetic analysis of the genus
+
+Complete nucleotide sequence of a 16S ribosomal RNA gene from
+Escherichia coli. Proc Natl Acad Sci U S A 75, 4801–4805.
+
+Actinoplanes and transfer of Actinoplanes minutisporangius Ruan et al.
+1986 and ‘Actinoplanes aurantiacus’ to Cryptosporangium minutisporangium comb. nov. and Cryptosporangium aurantiacum sp. nov. Int J
+Syst Evol Microbiol 51, 2119–2125.
+
+Ezaki, T., Hashimoto, Y., Takeuchi, N., Yamamoto, H., Liu, S.-L.,
+Miura, H., Matsui, K. & Yabuuchi, E. (1988). Simple genetic
+
+Tamura, T., Nakagaito, Y., Nishii, T., Hasegawa, T., Stackebrandt, E.
+& Yokota, A. (1994). A new genus of the order Actinomycetales,
+
+Brosius, J., Palmer, M. L., Kennedy, P. J. & Noller, H. F. (1978).
+
+identification method of viridans group streptococci by colorimetric
+dot hybridization and quantitative fluorometric hybridization in
+microdilution wells. J Clin Microbiol 26, 1708–1713.
+
+Couchioplanes gen. nov., with descriptions of Couchioplanes caeruleus
+(Horan and Brodsky 1986) comb. nov. and Couchioplanes caeruleus
+subsp. azureus subsp. nov. Int J Syst Bacteriol 44, 193–203.
+
+Ezaki, T., Hashimoto, Y. & Yabuuchi, E. (1989). Fluorometric
+
+Thompson, J. D., Gibson, T. J., Plewniak, F., Jeanmougin, F. &
+Higgins, D. G. (1997). The CLUSTAL_X windows interface: flexible
+
+deoxyribonucleic acid-deoxyribonucleic acid hybridization in microdilution wells as an alternative to membrane filter hybridization in
+which radioisotopes are used to determine genetic relatedness among
+bacterial strains. Int J Syst Bacteriol 39, 224–229.
+
+strategies for multiple sequence alignment aided by quality analysis
+tools. Nucleic Acids Res 25, 4876–4882.
+
+Felsenstein, J. (1981). Evolutionary trees from DNA sequences: a
+
+Wang, Y. X., Zhi, X. Y., Chen, H. H., Zhang, Y. Q., Tang, S. K., Jiang,
+C. L., Xu, L. H. & Li, W. J. (2007). Actinomadura alba sp. nov., isolated
+
+maximum likelihood approach. J Mol Evol 17, 368–376.
+
+from soil in Yunnan, China. Int J Syst Evol Microbiol 57, 1735–1739.
+
+1874
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 59
+IP: 189.155.188.202
+On: Tue, 20 Feb 2018 08:08:15
+
+

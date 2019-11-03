@@ -1,0 +1,790 @@
+International Journal of Systematic and Evolutionary Microbiology (2013), 63, 1874–1879
+
+DOI 10.1099/ijs.0.043380-0
+
+Actinoallomurus acanthiterrae sp. nov., an
+actinomycete isolated from rhizosphere soil of the
+mangrove plant Acanthus ilicifolius
+Yi-Li Tang,1,2 Hai-Peng Lin,3 Qing-Yi Xie,3 Lei Li,1,2 Fang Peng,4
+Zixin Deng1 and Kui Hong1,2,3
+Correspondence
+Kui Hong
+kuihong31@whu.edu.cn
+
+1
+
+Key Laboratory of Combinatorial Biosynthesis and Drug Discovery (Wuhan University), Ministry of
+Education, and Wuhan University School of Pharmaceutical Sciences, Wuhan 430072, PR China
+
+2
+
+College of Agronomy, Hainan University, Haikou 570228, PR China
+
+3
+
+Institute of Tropical Bioscience and Biotechnology, Chinese Academy of Tropical Agriculture
+Sciences, Haikou 571101, PR China
+
+4
+
+College of Life Sciences, Wuhan University, Wuhan 430072, PR China
+
+A novel actinobacterium strain, 2614A723T, was isolated from rhizosphere soil of mangrove plant
+Acanthus ilicifolius collected at Touyuan, Wenchang, Hainan province, China. A phylogenetic
+analysis based on 16S rRNA gene sequences indicated that strain 2614A723T formed a distinct
+phyletic line in the genus Actinoallomurus, the 16S rRNA gene tree sharing similarities of
+98.35 %, 98.07 % and 97.86 % with Actinoallomurus spadix NBRC 14099T, Actinoallomurus
+purpureus TTN02-30T and Actinoallomurus luridus TT02-15T, respectively. Strain 2614A723T
+contained lysine and meso-diaminopimelic acid in the cell wall peptidoglycan and madurose,
+galactose and xylose in the whole-cell sugars. The predominant menaquinones were MK-9(H4)
+and MK-9(H6). The major polar phospholipids were phosphatidylglycerol and diphosphatidylglycerol. The predominant fatty acids were iso-C16 : 0 and anteiso-C17 : 0. These chemotaxonomic
+data confirmed the affiliation of strain 2614A723T to the genus Actinoallomurus. It is apparent
+from the combined phenotypic data, biochemical tests and DNA–DNA hybridization values that
+strain 2614A723T should be classified in the genus Actinoallomurus as a representative of a
+novel species. The name Actinoallomurus acanthiterrae sp. nov. is proposed with strain
+2614A723T (5CCTCC AA 2012001T5DSM 45727T) as the type strain.
+
+The genus Actinoallomurus was first established by Tamura
+et al.(2009) as a member of the family Thermomonosporaceae. Members of this genus have been found in
+different environments, including soils, plants and dung
+(Pozzi et al., 2011; Tamura et al., 2009; Indananda et al.,
+2011) and have the potential to produce metabolites arising
+from different biosynthetic pathways (Pozzi et al., 2011). In
+the course of studying actinomycetes from Acanthus ilicifolius rhizosphere soil in different mangroves of China,
+strain 2614A723T were isolated on oatmeal agar (Shirling &
+Gottlieb, 1966) supplemented with novobiocin (25 mg
+ml21), nystatin (30 mg ml21), nalidixic acid (10 mg ml21)
+and K2Cr2O7 (20 mg ml21) and incubated at 28 uC for
+30 days. The isolate was purified and maintained on
+glucose–yeast extract–malt agar medium (ISP medium 2;
+The GenBank/EMBL/DDBJ accession number for the 16S rRNA gene
+sequence of 2614A723T is JQ085862.
+A supplementary figure and two supplementary tables are available with
+the online version of this paper.
+
+1874
+
+Shirling & Gottlieb, 1966) and preserved as a suspension
+of mycelia fragments in glycerol (20 % v/v) at 220 uC
+for study and at 280 uC for long-term preservation. Its
+taxonomic position was investigated using a polyphasic
+approach.
+The morphological and physiological characteristics of
+strain 2614A723T, Actinoallomurus spadix NBRC 14099T,
+Actinoallomurus luridus TT02-15T and Actinoallomurus
+purpureus TTN02-30T were tested simultaneously. Growth
+and cultural characteristics were examined by using various
+agar media (ISP 2–7) (Shirling & Gottlieb, 1966) and yeast
+extract–starch agar medium [YS: yeast extract 2 g l21, starch
+10 g l21 and agar15 g l21, NITE Biological Resource Center
+(NBRC) medium No.1053 ] used for Actinoallomurus
+purpureus TTN02-30T. All the test media had a final pH of
+5.8–6.0. Cultures were incubated at 28 uC and observations
+were recorded after 7, 14, 21 and 28 days. Cell morphology
+was observed by scanning electron microscopy (TM3000,
+Hitachi) after incubation on ISP medium 3 for 30 days at
+
+Downloaded from www.microbiologyresearch.org by
+043380 G 2013 IUMS
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 07:03:15
+
+Printed in Great Britain
+
+Actinoallomurus acanthiterrae sp. nov.
+
+28 uC. Specimens for electron microscopy were fixed in
+2.5 % glutaraldehyde, dehydrated, critical-point dried and
+coated with gold as described by Lee & Jeong (2006), before
+observation. Strain 2614A723T grew well on ISP 2, ISP 3, ISP
+6, ISP 7 and YS medium. Moderate growth was observed on
+ISP 4 and ISP 5. Poor aerial mycelium was present on ISP
+medium 2 and YS medium, good aerial mycelium was only
+present on ISP medium 3. Soluble pigment was produced on
+ISP 7 agar (Table S1 available in IJSEM online). Strain
+2614A723T formed short spiral chains of oval and smoothsurfaced spores (Fig. 1), similar to other species of this genus
+that form oval to rod-shaped and irregular-sized spores at
+maturity.
+The ability of the strain to grow at a range of temperatures
+(4, 18, 28, 34, 37, 42 and 50 uC) was tested on modified
+Bennett’s agar (Jones, 1949). pH range (pH 4.0–9.0 at intervals of half a pH unit) were determined by using doubleconcentration YS liquid medium supplemented with an
+equal pH and amount of phosphate buffer solution.
+Tolerance of NaCl [0–6 %(w/v), at intervals of 0.5 %] for
+growth were estimated by using YS liquid medium shaken at
+200 r.p.m., 28 uC for 7–14 days. Utilization of sole carbon
+and nitrogen sources was examined on ISP medium 9
+(Shirling & Gottlieb, 1966) including each ether-sterilized
+compound at a final concentration of 1 % (w/v) for sugars
+or 0.5 % (w/v) for amino acids. Gelatin liquefaction, starch
+hydrolysis and reaction on milk were tested as described
+by Gordon et al. (1974) and Goodfellow (1971). Catalase
+activity was detected by the production of bubbles after the
+addition of a drop of 3 % (v/v) H2O2. Oxidase activity was
+determined by the oxidation of tetramethyl-p-phenylenediamine. Nitrate reductase and hydrolysis of aesculin were
+examined as described by MacFaddin (1980). Hydrolysis of
+carboxymethyl-cellulose was examined on modified Bennett’s
+agar (Jones, 1949) as described by Teather & Wood (1982):
+after an appropriate incubation period (one or two weeks) at
+28 uC, the Bennett’s agar medium was flooded with an
+
+aqueous solution of Congo red (1 mg ml21 for media
+containing carboxymethyl cellulose or carboxymethyl pachyman; 0.2 mg ml21 for media containing oat b-D-glucan)
+for 15 min. The Congo red solution was then poured off,
+and plates were further treated by flooding with 1 M NaCl
+for 15 min. The visualized zones of hydrolysis could be
+stabilized for at least 2 weeks by flooding the agar with 1 M
+HCl, which changes the dye colour to blue and inhibits
+further enzyme activity. Other physiological and biochemical tests were performed according to the established
+methods of Williams et al. (1983) and Kämpfer et al. (1991).
+The physiological properties of the novel strain are summarized and compared with those of related species of the
+genus Actinoallomurus in detail in Table 1.
+Biomass for chemical and molecular systematic studies was
+obtained from culture in liquid YS medium on a rotary
+shaker at 220 r.p.m., 34 uC for 5–7 days at exponential growth
+phase. Amino acids and sugars in whole-cell hydrolysates
+were analysed according to the procedure of Lechevalier &
+Lechevalier (1980) by TLC. The acyl type of the cell wall was
+analysed according to the method of Uchida & Aida (1984).
+Phospholipids were extracted, examined by two-dimensional
+TLC and identified using previously described procedures
+(Minnikin et al., 1984; Collins & Jones, 1980). Menaquinones were extracted according to the protocol of Collins
+et al. (1977) and determined by HPLC (Tamaoka et al.,
+1983). Fatty acids were extracted by the method of Sasser
+(1990) and the composition was determined by GC–MS
+performed on a GC instrument (7890A; Agilent) coupled
+with a mass selective detector (MS-5975C; Agilent) and an
+autosampler injector (7693-A; Agilent). A capillary column
+HP-5MS (5 % phenylmethylsiloxane) with dimensions of
+30 m6250 mm60.25 mm film thickness (Agilent 19091N133) was used for the separation of fatty acid methyl esters.
+The initial temperature of 100 uC was maintained for 5 min,
+raised to 240 uC at the rate of 10 uC min21. Injected volume
+of sample was 1 ml and helium was used as a carrier gas at a
+flow rate of 0.8 ml min without split. The injector and
+detector temperatures were 230 uC and 250 uC, respectively.
+The MS was operated in the electron multiplier voltage
+(EMV) mode at 988 V in the scan range of 50–400 m/z.
+The whole-cell hydrolysates of strain 2614A723T contained
+meso-diaminopimelic acid, alanine, lysine, glycine and glutamic acid. Madurose, xylose and galactose were detected as
+the whole-cell sugars. The phospholipids comprised phosphatidylglycerol, diphosphatidylglycerol and phosphatidylinositol (Fig. S1.). The acyl type of the muramic acid is
+N-acetyl. Strain 2614A723T contained menaquinones MK-9
+(H4) (67.41 %), MK-9 (H6) (27.66 %) as major menaquinones and a small amount of MK-9 (H2) (4.91 %) (Table 1).
+The major fatty acids present in strain 2614A723T were isoC16 : 0 and anteiso-C17 : 0 (Table S2).
+
+Fig. 1. Scanning electron micrograph of cells of strain 2614A723T
+grown on oatmeal agar (ISP 3) medium for 3 weeks at 28 6C. Bar,
+5 mm.
+http://ijs.sgmjournals.org
+
+Preparation of genomic DNA and PCR amplification of the
+16S rRNA gene were carried out following the procedure of
+Goodfellow et al. (2007). The resultant nearly complete
+16S rRNA gene sequence (1483 nt) was compared with
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 07:03:15
+
+1875
+
+Y.-L. Tang and others
+
+Table 1. Differential properties of strain 2614A723T and members of the most closely related species of the genus Actinoallomurus
+Strains: 1, strain 2614A723T; 2, A. spadix NBRC 14099T; 3, A. luridus NBRC 103683T; 4, A. purpureus NBRC 103687T. meso-DAP, mesoDiaminopimelic acid; Gal, galactose; Mad, madurose; Xyl, xylose; PG, phosphatidylglycerol; DPG, diphosphatidylglycerol; PL, unknown
+phospholipid. +, Positive; W, weakly positive; 2, negative.
+Characteristic
+Growth at/in:
+Temperature (uC)
+NaCl (%, w/v)
+pH
+Nitrogen utilization
+L-Asparagine
+L-Glutamic acid
+L-Glycine
+L-Methionine
+L-Ornithine
+L-Proline
+L-Phenylalanine
+L-Tryptophan
+L-Valine
+Carbon utilization
+(+)-D-cellobiose
+Dextrin
+(+)-D-Galactose
+Glycerol
+Inositol
+Lactose
+Mannitol
+D-Mannose
+(+)-D-Melezitose hydrate
+(+)-D-Melibiose
+D-Sorbitol
+L-Sorbose
+Starch (soluble)
+Sucrose
+(+)-D-Trehalose
+(+)-D-Xylose
+Degradation tests
+Tween 80
+Gelatin liquefaction
+Nitrate reductase
+Amino acid*
+Sugar*
+DNA G+C content (mol%)*
+Menaquinones*
+Phospholipids*
+
+1
+
+2
+
+3
+
+4
+
+18–37
+0–3.5
+5.5–7.0
+
+18–42
+0–2.5
+6–6.5
+
+18–42
+0–2.5
+5.5–6.5
+
+18–34
+0–4.5
+5.5–6.5
+
++
++
+
+2
+
++
++
++
++
++
++
++
++
++
+
+W
+
++
++
+
++
++
++
++
++
++
++
++
++
++
++
+
+W
+
++
++
++
+
+W
+
+W
+
+W
+
++
+
++
+
+W
+
+W
+
+2
++
+2
+
+W
+
++
++
++
++
++
++
+2
+
+W
+
+W
+
++
++
++
+
+W
+
+2
+Ala, Glu, Gly, Lys,
+meso-DAP
+Gal, Mad, Xyl
+71.3
+MK-9(H4), MK-9(H6),
+MK-9(H2)
+PG, DPG, PI
+
+W
+
+W
+
++
++
++
+W
+
++
+
++
++
++
+
++
++
++
+
+W
+
+W
+
+W
+
++
++
++
+Ala, Glu, Lys,
+meso-DAP
+Mad, Gal
+74
+MK-9(H6), MK-9(H8)
+PG, DPG
+
+W
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+W
+
+2
++
++
+2
+Ala, Glu, Lys, meso-DAP
+Mad, Gal
+72
+MK-9(H6), MK-9(H8),
+MK-9(H4)
+PG, DPG
+
+W
+W
+W
+
+2
++
+W
+
++
+2
++
+2
+2
+2
+2
+2
+2
+2
+2
++
+2
++
+2
+2
+Ala, Glu, Lys,
+meso-DAP
+Mad, Gal
+70
+MK-9(H6), MK-9(H8)
+PG, DPG
+
+*Data for reference strains A. spadix NBRC 14099T, A. luridus NBRC 103683T and A. purpureus NBRC 103687T from Tamura et al. (2009).
+
+available 16S rRNA gene sequences of type strains of
+species of the genus Actinoallomurus from GenBank using
+the BLAST program and the EzTaxon server (http://www.
+eztaxon.org, Chun et al., 2007) to determine an approximate phylogenetic affiliation. The gene sequences were
+aligned with CLUSTAL W Multiple alignment (Thompson,
+J.D. et al., 1994), which is an accessory application of BioEdit
+1876
+
+software. The two end gap positions were cut manually with
+corresponding sequences of the related type species.
+Phylogenetic trees were inferred using the neighbour-joining
+(Saitou & Nei, 1987) and maximum-parsimony (Fitch,
+1971) tree-making algorithms in MEGA version 4.0 (Tamura
+et al., 2007). Evolutionary distance matrices were generated
+via the neighbour-joining methods, as described by Jukes
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 63
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 07:03:15
+
+Actinoallomurus acanthiterrae sp. nov.
+
+and Cantor (1969). The resultant unrooted tree topologies
+were evaluated by bootstrap analyses (Felsenstein 1985)
+based on 1000 resamplings of the neighbour-joining dataset.
+All positions containing gaps and missing data were
+eliminated from the dataset (complete deletion option).
+Strain 2614A723T shared its highest 16S rRNA gene
+sequence similarity with the type strain of A. spadix NBRC
+14099T, 98.35 %, a value which corresponded to 21 nucleotide differences and three nucleotide gaps out of 1451
+locations. The corresponding 16S rRNA similarities with the
+type strains of A. purpureus TTN02-30T and A. luridus
+TT02-15T were 98.07 % and 97.86 %, respectively, values
+equivalent to 27 nucleotide differences and one nucleotide
+gap and 29 nucleotide differences and two nucleotide gaps,
+respectively. It was evident from the dendrogram shown in
+Fig. 2 that the new isolate formed a distinct branch with
+A. spadix NBRC 14099T, A. purpureus TTN02-30T and A.
+luridus TT02-15T. This was also supported in the maximumparsimony tree.
+Chromosomal DNA was extracted as described by
+Pospiech & Neumann (1995). The G+C content of the
+genomic DNA was determined by using the HPLC method
+(Mesbah et al., 1989). DNA–DNA hybridizations between
+strain 2614A723T and A. spadix NBRC 14099T, A. purpureus
+TTN02-30T and A. luridus TT02-15T were performed to
+determine whether the isolate represented a novel species.
+DNA–DNA relatedness values were determined using a
+modified nylon membrane hybridization method described
+previously by Sui et al. (2011).
+The DNA–DNA relatedness values between strain 2614A723T
+and the type strains of A. spadix NBRC 14099T, A. purpureus
+TTN02-30T and A. luridus TT02-15T averaged out at
+17.15±0.36 %, 12.75±0.71 % and 42.92±0.28 %, respectively, values well below the 70 % cut-off point recommended by Wayne et al. (1987) for the delineation of genomic
+species. In addition, the DNA G+C content of strain
+2614A723T was 71.3 mol%. This value is within the range
+for the genus Actinoallomurus (Tamura et al., 2009).
+
+*
+
+*
+
+*
+
+64
+
+*
+
+61
+
+Description of Actinoallomurus acanthiterrae
+sp. nov.
+Actinoallomurus acanthiterrae [a.can.thi.ter9ra.e. L. n.
+acanthus name of a plant and also a botanical generic
+name (Acanthus); L. n. terra soil; N.L. gen. n. acanthiterrae
+of soil of holly-leaved acanthus, denoting the source of the
+type strain].
+Cells are aerobic and Gram-positive. Good growth occurs
+on ISP 2, ISP 3, ISP 6, ISP 7 and yeast extract-starch
+medium, moderate on ISP 4 and ISP 5. Poor white aerial
+mycelium was present on ISP medium 2 and YS medium,
+well-developed white aerial mycelium was present on ISP
+medium 3 and differentiated to short spiral chains of oval
+to smooth-surfaced spores. Substrate mycelium is welldeveloped and light yellowish to dark brown. Pink, soluble
+pigment was formed on ISP 7 agar. Growth occurs at 18–
+37 uC (optimum, 28–37 uC), pH 5.5–7 (optimum, pH 6–7)
+and in the presence of up to 3.5 % (w/v) NaCl (optimum,
+0 % NaCl). Positive in tests for catalase production, starch
+hydrolysis, aesculin degradation and degradation of Tween
+20 and 40; weakly positive for Tween 80 degradation, milk
+coagulation, gelatin liquefaction and peptonization, negative
+for carboxymethylcellulose degradation, urease production
+and nitrate reduction. L-alanine, L-asparagine, L-glutamic
+
+Actinoallomurus fulvus TT99-66T (AB364582)
+Actinoallomurus amamiensis TT00-28T (AB364583)
+47
+Actinoallomurus caesius A3015T (AB364589)
+55
+Actinoallomurus acaciae GMKU 931T (EU429322)
+100
+Actinoallomurus yoronensis TTN02-22T (AB364584)
+51
+Actinoallomurus oryzae GMKU 370T (EU420071)
+Actinoallomurus coprocola TT04-09T (AB364579)
+Actinoallomurus iriomotensis TT02-47T (AB364586)
+Actinoallomurus radicium K08-0182 T (AB578855)
+Actinoallomurus vinaceus K10-0528 T (AB668307)
+Actinoallomurus spadix NBRC 14099T (AB364581)
+Actinoallomurus purpureus TTN02-30T (AB364588)
+Actinoallomurus luridus TT02-15T (AB364585)
+99
+Actinoallomurus liliacearum K10-0485 T (AB668306˅
+Actinoallomurus acanthiterrae 2614A723T (JQ085862)
+Actinomadura madurae DSM 43067T (X97889)
+76
+
+0.005
+
+*
+
+The isolate could be distinguished from other species of the
+genus Actinoallomurus with validly published names using
+a combination of phenotypic properties. Physiological and
+chemotaxonomic analyses indicated that strain 2614A723T
+belonged to the genus Actinoallomurus. The differential
+properties of strain 2614A723T from the most closely related
+species of the genus Actinoallomurus (Table 1), 16S rRNA
+gene sequence and DNA–DNA hybridization analyses
+indicated that it represented a novel species. It is evident
+from the genotypic and phenotypic data that strain 2614A723T
+can be distinguished from other known species of the genus
+Actinoallomurus. It is therefore proposed that the strain be
+classified in the genus Actinoallomurus as Actinoallomurus
+acanthiterrae sp. nov.
+
+http://ijs.sgmjournals.org
+
+98
+
+Fig. 2. Neighbour-joining phylogenetic tree,
+based on nearly complete 16S rRNA gene
+sequences (1451 nt), showing the relationships between strain 2614A723T and related
+representative species of the genus
+Actinoallomurus. Numbers at branching points
+indicate bootstrap percentages (based on
+1000 replications). Only bootstrap values of
+more than 40 % are shown. Asterisks indicate
+phyletic lines that were recovered using
+maximum-parsimony and neighbour-joining
+tree-making algorithms. The sequence of
+Actinomadura madurae DSM 43067T was
+used as an outgroup. Bar, 0.005 substitutions
+per nucleotide position.
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 07:03:15
+
+1877
+
+Y.-L. Tang and others
+
+acid, L-glycine, L-hydroxyproline, L-methionine, L-ornithine,
+L-phenylalanine, L-proline, L-serine, L-tryptophan and Lvaline were degraded as sole nitrogen source; L-arginine,
+L-cysteine, L-histidine and L-lysine cannot be used; (+)-Dcellobiose, dextrin, (+)-D-galactose, glycerol, inositol,
+lactose, mannitol, D-mannose, (+)-D-melezitose hydrate,
+(+)-D-melibiose, D-raffinose pentahydrate, D-sorbitol, Lsorbose (weakly), soluble starch (weakly), sucrose, (+)-Dtrehalose, trisodium citrate and (+)-D-xylose were utilized
+as sole carbon and energy sources, but not (2)-D-arabinose,
+D-fucose, D-glucose, inulin, maltose, D-ribose, L-(+)rhamnose, D-salicin, sodium acetate and succinic acid
+(Table 1). The peptidoglycan is rich in meso-diaminopimelic
+acid and contains N-acetyl muramic acid. Madurose, xylose
+and galactose are the major sugars in whole-organism
+hydrolysates. Tetrahydrogenated menaquinones with nine
+isoprene units are the predominant isoprenologue. The
+phospholipids are phosphatidylglycerol, diphosphatidylglycerol and phosphatidylinositol. The fatty acids profile
+obtained from yeast extract–starch medium culture contains: iso-C14 : 0, iso-C15 : 0, anteiso-C15 : 0, C15 : 0, iso-C16 : 0,
+C16 : 1v9c, C16 : 1v11c, C16 : 0, 10-methyl-C16 : 0, iso-C17 : 0,
+anteiso-C17 : 0, C17 : 1v9c, C17 : 0, C17 : 1v11c, iso-C18 : 0, anteiso-C18 : 0; C18 : 1v9c,and C18 : 0, 10-methyl-C18 : 0.
+The type strain, 2614A723T (5CCTCC AA 2012001T5DSM
+45727T), was isolated from rhizosphere soil of mangrove
+plant Acanthus ilicifolius collected at Touyuan, Wenchang,
+Hainan province, China. The G+C content of the genomic
+DNA of the type strain is 71.3 mol%
+
+Gordon, R. E., Barnett, D. A., Handerhan, J. E. & Pang, C. H.-N.
+(1974). Nocardia coeliaca, Nocardia autotrophica, and the nocardin
+
+strain. Int J Syst Bacteriol 24, 54–63.
+Indananda, C., Thamchaipenet, A., Matsumoto, A., Inahashi, Y.,
+Duangmal, K. & Takahashi, Y. (2011). Actinoallomurus oryzae sp.
+
+nov., an endophytic actinomycete isolated from roots of a Thai
+jasmine rice plant. Int J Syst Evol Microbiol 61, 737–741.
+Jones, K. L. (1949). Fresh isolates of actinomycetes in which the
+
+presence of sporogenous aerial mycelia is a fluctuating characteristic.
+J Bacteriol 57, 141–145.
+Jukes, T. H. & Cantor, C. R. (1969). Evolution of protein molecules.
+
+In Mammalian Protein Metabolism, vol. 3, pp. 21–132. Edited by
+H. N. Munro. New York: Academic Press.
+Kämpfer, P., Kroppenstedt, R. M. & Dott, W. (1991). A numerical
+
+classification of the genera Streptomyces and Streptoverticillium using
+miniaturized physiological tests. J Gen Microbiol 137, 1831–1891.
+Lechevalier, M. P. & Lechevalier, H. A. (1980). The chemotaxonomy
+
+of actinomycetes. In Actinomycetes Taxonomy, pp. 277–284. Edited by
+A. Dietz & D. W. Thayer. Arlington, VA: Society for Industrial
+Microbiology.
+Lee, S. D. & Jeong, H. S. (2006). Actinomadura hallensis sp. nov., a
+
+novel actinomycete isolated from Mt. Halla in Korea. Int J Syst Evol
+Microbiol 56, 259–264.
+MacFaddin, J. F. (1980). Biochemical Tests for Identification of Medical
+
+Bacteria, 2nd edn. Baltimore: Williams & Wilkins.
+Mesbah, M., Premachandran, U. & Whitman, W. B. (1989). Precise
+
+measurement of the G + C content of deoxyribonucleic acid by highperformance liquid chromatography. Int J Syst Bacteriol 39, 159–167.
+Minnikin, D. E., O’Donnell, A. G., Goodfellow, M., Alderson, G.,
+Athalye, M., Schaal, A. & Parlett, J. H. (1984). An integrated
+
+procedure for the extraction of bacterial isoprenoid quinones and
+polar lipids. J Microbiol Methods 2, 233–241.
+Pospiech, A. & Neumann, B. (1995). A versatile quick-prep of geno-
+
+Acknowledgements
+
+mic DNA from Gram-positive bacteria. Trends Genet 11, 217–218.
+
+This research was supported by the National Natural Science
+Foundation of China (grant number 31170467).
+
+Pozzi, R., Simone, M., Mazzetti, C., Maffioli, S., Monciardini, P.,
+Cavaletti, L., Bamonte, R., Sosio, M. & Donadio, S. (2011). The genus
+
+Actinoallomurus and some of its metabolites. J Antibiot (Tokyo) 64,
+133–139.
+
+References
+
+Saitou, N. & Nei, M. (1987). The neighbor-joining method: a new
+
+Chun, J., Lee, J.-H., Jung, Y., Kim, M., Kim, S., Kim, B. K. & Lim, Y. W.
+(2007). EzTaxon: a web-based tool for the identification of
+
+Sasser, M. (1990). Identification of bacteria by gas chromatography of
+
+prokaryotes based on 16S ribosomal RNA gene sequences. Int J Syst
+Evol Microbiol 57, 2259–2261.
+
+Shirling, E. B. & Gottlieb, D. (1966). Methods for characterization of
+
+method for reconstructing phylogenetic trees. Mol Biol Evol 4, 406–425.
+
+Collins, M. D. & Jones, D. (1980). Lipids in the classification
+
+cellular fatty acids, MIDI Technical Note 101. Newark, DE: MIDI Inc.
+Streptomyces species. Int J Syst Bacteriol 16, 313–340.
+Sui, J. L., Xu, X. X., Qu, Z., Wang, H. L., Lin, H. P., Xie, Q. Y., Ruan, J. S.
+& Hong, K. (2011). Streptomyces sanyensis sp. nov., isolated from
+
+and identification of coryneform bacteria containing peptidoglycans based on 2,4-diaminobutyric acid. J Appl Bacteriol 48, 459–
+470.
+
+mangrove sediment. Int J Syst Evol Microbiol 61, 1632–1637.
+
+Collins, M. D., Pirouz, T., Goodfellow, M. & Minnikin, D. E. (1977).
+
+Tamaoka, J., Katayama-Fujimura, Y. & Kuraishi, H. (1983). Analysis
+
+Distribution of menaquinones in actinomycetes and corynebacteria.
+J Gen Microbiol 100, 221–230.
+
+of bacterial menaquinone mixtures by high performance liquid
+chromatography. J Appl Bacteriol 54, 31–36.
+
+Felsenstein, J. (1985). Confidence limits on phylogenies: an approach
+
+Tamura, K., Dudley, J., Nei, M. & Kumar, S. (2007). MEGA4: molecular
+
+using the bootstrap. Evolution 39, 783–791.
+Fitch, W. M. (1971). Toward defining the course of evolution:
+minimum change for a specific tree topology. Syst Zool 20, 406–416.
+Goodfellow, M. (1971). Numerical taxonomy of some nocardioform
+
+bacteria. J Gen Microbiol 69, 33–80.
+Goodfellow, M., Kumar, Y., Labeda, D. P. & Sembiring, L. (2007).
+
+The Streptomyces violaceusniger clade: a home for Streptomycetes
+with rugose ornamented spores. Antonie van Leeuwenhoek 92, 173–
+199.
+1878
+
+evolutionary genetics analysis (MEGA) software version 4.0. Mol Biol
+Evol 24, 1596–1599.
+Tamura, T., Ishida, Y., Nozawa, Y., Otoguro, M. & Suzuki, K. (2009).
+
+Transfer of Actinomadura spadix Nonomura and Ohara 1971 to
+Actinoallomurus spadix gen. nov., comb. nov., and description of
+Actinoallomurus amamiensis sp. nov., Actinoallomurus caesius sp. nov.,
+Actinoallomurus coprocola sp. nov., Actinoallomurus fulvus sp. nov.,
+Actinoallomurus iriomotensis sp. nov., Actinoallomurus luridus
+sp. nov., Actinoallomurus purpureus sp. nov. and Actinoallomurus
+yoronensis sp. nov. Int J Syst Evol Microbiol 59, 1867–1874.
+
+Downloaded from www.microbiologyresearch.org by
+International Journal of Systematic and Evolutionary Microbiology 63
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 07:03:15
+
+Actinoallomurus acanthiterrae sp. nov.
+Teather, R. M. & Wood, P. J. (1982). Use of Congo red-polysaccharide
+
+interactions in enumeration and characterization of cellulolytic
+bacteria from the bovine rumen. Appl Environ Microbiol 43, 777–780.
+CLUSTAL W:
+improving the sensitivity of progressive multiple sequence alignment
+through sequence weighting, position-specific gap penalties and
+weight matrix choice. Nucleic Acids Res 22, 4673–4680.
+
+Thompson, J. D., Higgins, D. G. & Gibson, T. J. (1994).
+
+Wayne, L. G., Brenner, D. J., Colwell, R. R., Grimont, P. A. D., Kandler,
+O., Krichevsky, M. I., Moore, L. H., Moore, W. E. C., Murray, R. G. E. &
+other authors (1987). International Committee on Systematic
+
+Bacteriology. Report of the ad hoc committee on reconciliation of
+approaches to bacterial systematics. Int J Syst Bacteriol 37, 463–
+464.
+
+Uchida, K. & Aida, K. (1984). An improved method for the glycolate
+
+Williams, S. T., Goodfellow, M., Alderson, G., Wellington, E. M. H.,
+Sneath, P. H. A. & Sackin, M. J. (1983). Numerical classification
+
+test for simple identification of acyl type of bacterial cell walls. J Gen
+Appl Microbiol 30, 131–134.
+
+of Streptomyces and related genera. J Gen Microbiol 129, 1743–
+1813.
+
+http://ijs.sgmjournals.org
+
+Downloaded from www.microbiologyresearch.org by
+IP: 189.155.188.202
+On: Sun, 18 Feb 2018 07:03:15
+
+1879
+
+
