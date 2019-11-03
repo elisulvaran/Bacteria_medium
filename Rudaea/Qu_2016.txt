@@ -1,0 +1,670 @@
+Bioresource Technology 211 (2016) 209–215
+
+Contents lists available at ScienceDirect
+
+Bioresource Technology
+journal homepage: www.elsevier.com/locate/biortech
+
+Illumina MiSeq sequencing reveals long-term impacts of single-walled
+carbon nanotubes on microbial communities of wastewater treatment
+systems
+Yuanyuan Qu a, Xuwang Zhang a, Wenli Shen a, Qiao Ma a, Shengnan You a, Xiaofang Pei a, Shuzhen Li a,
+Fang Ma b,⇑, Jiti Zhou a
+a
+State Key Laboratory of Fine Chemicals, Key Laboratory of Industrial Ecology and Environmental Engineering (Ministry of Education), School of Environmental Science
+and Technology, Dalian University of Technology, Dalian 116024, China
+b
+State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin 150090, China
+
+h i g h l i g h t s
+ Long-term impacts of carbon nanotubes on microbial communities were investigated.
+ Single-walled carbon nanotubes could have positive effects on removal of phenol.
+ Microbial communities significantly shifted under phenol shock loading.
+ Indigenous bacterial communities were responsible for phenol removal.
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 31 December 2015
+Received in revised form 4 March 2016
+Accepted 8 March 2016
+Available online 11 March 2016
+Keywords:
+Single-walled carbon nanotubes
+Phenol
+Microbial community
+Illumina MiSeq sequencing
+
+a b s t r a c t
+In this study, phenol wastewater treatment systems treated with different concentrations of singlewalled carbon nanotubes (SWCNTs) (0–3.5 g/L) were exposed to phenol and carbon nanotubes (CNTs)
+shock loadings to investigate the long-term impacts of SWCNTs on microbial communities. Phenol
+removal remained high efficiency (>98%) in SWCNTs-treated groups but decreased in non-treated group
+(85.1 ± 1.9%) when exposed to high concentration of phenol (500 mg/L). However, secondary dosing of
+SWCNTs in SWCNTs-treated groups would decrease the phenol removal efficiency. Illumina MiSeq
+sequencing revealed that the diversity, richness and structure of microbial communities were shifted
+under phenol shock loading, especially under high phenol concentration, but not under CNTs shock loading. In response to phenol and CNTs shock loadings, Rudaea, Burkholderia, Sphingomonas, Acinetobacter,
+Methylocystis and Thauera became dominant genera, which should be involved in phenol removal.
+These results suggested that a proper amount of SWCNTs might have positive effects on phenol wastewater treatment systems.
+Ó 2016 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+Carbon nanotubes (CNTs), e.g. single-walled carbon nanotubes
+(SWCNTs) and multi-walled carbon nanotubes (MWCNTs), have
+been incorporated into diverse commercial products due to their
+unique chemical, physical and electrical properties (De Volder
+et al., 2013). The extensive manufacture and utilization of CNTs
+may lead to their release and accumulation in environment (soil,
+water, air and sediment), which raises a serious concern about
+their potential impacts on environmental and human health
+⇑ Corresponding author.
+E-mail address: hit_dlut@163.com (F. Ma).
+http://dx.doi.org/10.1016/j.biortech.2016.03.043
+0960-8524/Ó 2016 Elsevier Ltd. All rights reserved.
+
+(Köhler et al., 2008; Petersen et al., 2011). Wastewater treatment
+plants are generally used to clean the sewage from home and businesses before safely released into environment, and the microbial
+communities of activated sludge from the biological process play
+a critical role in the removal of organic and inorganic pollutants
+(Hu et al., 2012; Ma et al., 2015a; Shu et al., 2015). Once the
+CNTs-containing sewage enters into wastewater treatment plants,
+which is almost inevitable, whether the CNTs would affect the
+microbial communities responsible for pollutants removal is
+worthy of attention (Petersen et al., 2011).
+The impacts of CNTs on microbial communities of activated
+sludge are gradually being studied in recent years, but the roles
+of CNTs are still controversial. Hai et al. (2014) found that MWCNTs
+
+210
+
+Y. Qu et al. / Bioresource Technology 211 (2016) 209–215
+
+had adverse effects on wastewater nutrient removal, and they
+would also inhibited the activities of key enzymes, such as ammonia monooxygenase, nitrite oxidoreductase, exopolyphosphatase
+and polyphosphate kinase. On the contrary, Zheng et al. (2014)
+found that neither the removal of nitrogen and phosphorus nor
+the activities of key enzymes were significantly affected by CNTs
+(including SWCNTs and MWCNTs). Furthermore, the toxicity of
+CNTs on microbial communities is suggested to be related with
+the concentration, physical properties (length and diameter) and
+types of functionalization (carboxylic and hydroxylic) (Goyal
+et al., 2010; Luongo and Zhang, 2010; Oleszczuk et al., 2011;
+Parise et al., 2014; Kerfahi et al., 2015). The floc architecture and
+original microbial community structure of activated sludge also
+have a profoundly influence on the behaviors and effects of CNTs
+(Petersen et al., 2011; Ma et al., 2015b). Thus, it is necessary to
+investigate the impacts of CNTs on activated sludge of wastewater
+treatment systems from different perspectives, which may provide
+a helpful guide for the safe use and disposal of nanomaterials.
+Recently, with the development of high throughput metagenomic
+technologies, it enables us to analyze the microbial community
+in a more comprehensive and informative way (Roh et al., 2010;
+Zhou et al., 2015), which can contribute to the research on ecological effects of CNTs.
+In previous study, five groups of sequencing batch reactors
+(SBRs) dosing with 0, 0.5, 1.5, 2.5 and 3.5 g/L SWCNTs, respectively,
+were constructed for the treatment of phenol wastewater
+(Qu et al., 2015). The results showed that SWCNTs exerted protective effects on sludge microbes, but they would also alter the structure and diversity of microbial community. Herein, the SBRs
+continued to run under phenol and CNTs shock loading conditions,
+and the long-term impacts of SWCNTs on the microbial communities of phenol wastewater treatment systems were assessed with
+the aid of Illumina MiSeq sequencing technology. The present
+study should provide insights into the understanding of SWCNTs
+nanotechnology.
+2. Methods
+2.1. Chemicals and activated sludge
+SWCNTs (>95%) were purchased from Shenzhen Nanotech Port
+Co., Ltd. (Shenzhen, China), and the characteristics of the SWCNTs
+have been described previously (Shen et al., 2013; Qu et al., 2015).
+All other chemicals were of analytical grade. Activated sludge was
+collected from Chunliu River Wastewater Treatment Plant (Dalian,
+China).
+
+added into G4 to investigate the effects of CNTs shock loading on
+the performances of wastewater treatment systems and microbial
+communities. The SBRs were operated with the synthetic wastewater containing 500 mg/L phenol for another 20 days, and samples
+were taken at Day 0, 1 and 20 (designated as Day C0, C1 and C20)
+for sequencing analysis. During the operation process, the concentrations of phenol in influent and effluent were monitored daily,
+and the concentrations of mixed liquor suspended solid (MLSS),
+the sludge volume after 0.5 h of settling (SV30) and the pH of effluent were measured at certain days.
+2.3. Analytical methods
+To determine the concentrations of phenol, the effluent samples
+were centrifuged at 10,000g for 10 min to remove suspended
+sludge, and the supernatants were analyze using a JASCO V-560
+UV–vis spectrophotometer (Japan). MLSS and SV30 were measured
+using the standard methods, and the pH of effluents was determined by a Mettler-Toledo S30 pH meter (Switzerland).
+2.4. DNA extraction, PCR and Illumina MiSeq sequencing
+The genomic DNA was extracted from the activated sludge samples using the protocol reported by Purkhold et al. (2000), and the
+V4 region of 16S rRNA gene was amplified using the primer set
+515F (50 -GTG CCA GCM GCC GCG GTA A-30 ) and 806R (50 -GGA
+CTA CHV GGG TWT CTA AT-30 ). PCR amplification was carried
+out based on the methods described previously (Qu et al., 2015;
+Shi et al., 2015; Zhang et al., 2015), and the resulting PCR amplicons were used for sequencing on Illumina MiSeq platform at the
+Institute for Environmental Genomics, University of Oklahoma.
+2.5. Data analysis
+After sequencing, the data processing was conducted as
+described previously (Ma et al., 2015a; Qu et al., 2015; Zhang
+et al., 2015). Operational taxonomic units (OTUs) were generated
+using CD-HIT method, and the taxonomic assignment of OTUs
+were performed by RDP classifier. The Shannon diversity index
+(H), Pielou’s evenness index (J), species richness estimator of Chao1
+
+2.2. Experimental setup
+Five groups of SBRs were constructed previously (Qu et al.,
+2015), and each group was performed in triplicate under identical
+conditions (Fig. S1). The synthetic wastewater consisted of 20 mg/L
+KH2PO4, 90 mg/L NH4Cl, 10 mg/L NaCl, 12.5 mg/L MgSO47H2O,
+12 mg/L CaCl2, 10 mg/L FeSO47H2O, 785 mg/L glucose and
+200–500 mg/L phenol. SWCNTs were added directly to each SBR
+at the beginning of operation with different concentrations (g/L):
+0 (G1), 0.5 (G2), 1.5 (G3), 2.5 (G4) and 3.5 (G5). No additional
+SWCNTs were supplemented during the operation unless otherwise indicated. Each cycle of SBR was operated for 24 h, including
+2 h filling, 18 h reacting, 2 h settling, and 2 h decanting. To simulate phenol shock loading, the SBRs were operated for 40 days with
+the concentrations of phenol in influent increasing from 200 mg/L
+(0–20 days) to 500 mg/L (20–40 days). Samples were collected at
+Day 0, 20 and 40 for Illumina MiSeq sequencing analysis. Afterwards (41st day after phenol shock), extra SWCNTs (2.5 g/L) was
+
+Fig. 1. Phenol removal performances of the SBRs under phenol and CNTs shock
+loading conditions. SBRs were treated with different concentrations of SWCNTs
+(g/L): 0 (G1), 0.5 (G2), 1.5 (G3), 2.5 (G4) and 3.5 (G5). Each group was performed in
+triplicate. For phenol shock loading, the concentrations of phenol in influent was
+increased from 200 mg/L (0–20 days) to 500 mg/L (20–40 days). For CNTs shock
+loading, 2.5 g/L SWCNTs was additionally added into G4 and the concentrations of
+phenol in influent were maintained at 500 mg/L. C0, C1 and C20 represent the
+sampling time of Day 0, Day 1 and Day 20, respectively, under CNTs shock loading
+conditions.
+
+211
+
+Y. Qu et al. / Bioresource Technology 211 (2016) 209–215
+Table 1
+Alpha diversity of activated sludge samples at each sampling time.
+Index
+
+Shannon
+Evenness
+Chao1
+OTU
+Index
+
+Shannon
+Evenness
+Chao1
+OTU
+
+Phenol shock loading: Day 0
+
+Phenol shock loading: Day 20
+
+G1
+
+G2
+
+G3
+
+G4
+
+G5
+
+G1
+
+G2
+
+G3
+
+G4
+
+G5
+
+4.692
+0.648
+2080
+1467
+
+4.122
+0.595
+2010
+1027
+
+4.167
+0.590
+2027
+1166
+
+4.417
+0.630
+2151
+1113
+
+4.380
+0.623
+2119
+1131
+
+3.948
+0.564
+1937
+1099
+
+4.517
+0.637
+2412
+1208
+
+4.594
+0.651
+2154
+1164
+
+4.308
+0.612
+2204
+1143
+
+4.688
+0.660
+2231
+1216
+
+Phenol shock loading: Day 40
+
+CNTs shock loading
+
+G1
+
+G2
+
+G3
+
+G4
+
+G5
+
+Day C0
+
+Day C1
+
+Day C20
+
+3.947
+0.569
+1874
+1042
+
+4.184
+0.602
+1878
+1048
+
+4.131
+0.589
+2035
+1106
+
+4.092
+0.592
+1889
+1006
+
+4.366
+0.618
+2173
+1175
+
+3.991
+0.571
+2182
+1083
+
+4.166
+0.592
+2192
+1132
+
+4.066
+0.579
+1924
+1115
+
+and rarefaction curves were generated using Mothur program. The
+statistics analyses, including detrended correspondence analysis
+(DCA), multiple-response permutation procedure (MRPP), permutational multivariate analysis of variance (Adonis), analysis of similarity (ANOSIM) and Pearson correlation test, were performed
+using R environment (version 3.2.1; http://www.r-project.org/).
+Heat map was generated using HemI (Heatmap Illustrator, version
+1.0) (Deng et al., 2014).
+3. Results and discussion
+3.1. Phenol removal performance of SBRs systems
+The 15 SBRs were operated for more than two months, and the
+MLSS, SV30 and effluent pH had no significant changes (Fig. S2),
+indicating the systems were stable during the operation. Fig. 1
+depicts the long-term phenol removal performances of the SBRs.
+When phenol concentration was around 200 mg/L, each of the
+SBRs exhibited excellent phenol removal efficiencies (>98%), which
+was in accordance with the previous study (Qu et al., 2015). When
+phenol concentration increased to 500 mg/L, the SBRs treated with
+different concentrations of SWCNTs maintained high efficiencies of
+phenol removal (>98%), while the phenol removal efficiency of G1
+declined from 98.8% to 84.0% over the long-term operation. These
+results suggested the positive influences of SWCNTs on phenol
+wastewater treatment systems under phenol shock loading conditions over the long-term operation.
+To further investigate the effects of CNTs shock loading on
+wastewater treatment efficiency of SBRs, G4 was chosen and inoculated with an additional dose of 2.5 g/L SWCNTs. During the first
+10 days of operation, the phenol removal efficiencies had no significant changes and remained around 99%. However, after 20 days of
+exposure, the phenol removal efficiencies significantly decreased
+(<85%). The results indicated that secondary high dosing of CNTs
+would negatively affect reactor performance.
+Although SWCNTs could be used as the efficient absorbents for
+the removal of aromatics, SWCNTs could not improve the absorption of phenol when added into the activated sludge since there
+were no differences among the autoclaved sludge systems with
+or without SWCNTs (Qu et al., 2015). Thus, the indigenous bacteria
+should play the most significant roles in the removal of phenol.
+
+estimator was calculated using Mothur program. It was found that
+the microbial richness (OTUs and Chao1) slightly increased from
+Day 0 to Day 20, except G1, but then significantly decreased at
+Day 40 (ANOVA, P < 0.05) (Table 1). Likewise, both Shannon (H)
+and evenness (J) indices showed the similar variation as the richness indices (Table 1). These results indicated that high concentrations of phenol would reduce the a-diversity of microbial
+community due to the toxicity effects of phenol on microorganism.
+When facing CNTs shock loading, the microbial richness and diversity had no significant changes upon either short-term (1 day) or
+long-term (20 days) exposure (P > 0.10) (Table 1).
+To assess the overall variation of microbial communities in
+response to phenol and CNTs shock loading, DCA analysis was
+performed. As shown in Fig. 2, the communities underwent a clear
+
+3.2. Shifts in microbial communities of SBRs
+To investigate the microbial community shifts in response to
+phenol and CNTs shock loading, Illumina MiSeq sequencing
+analysis was performed. After removing low-quality reads, at least
+35,700 effective sequences were obtained and normalized for each
+sample. The sequences were then grouped into OTUs at a
+clustering threshold of 0.97 using CD-HIT method, and the Chao1
+
+Fig. 2. DCA analysis of microbial communities under phenol (a) and CNTs (b) shock
+loading conditions. The samples in circle represent the microbial communities of
+G1 at different sampling time. C0, C1 and C20 represent the sampling time of Day 0,
+Day 1 and Day 20, respectively, under CNTs shock loading conditions.
+
+212
+
+Y. Qu et al. / Bioresource Technology 211 (2016) 209–215
+
+shift from Day 0 to Day 40 with the concentrations of phenol in
+influent increasing from 200 to 500 mg/L. The results of three
+dissimilarity tests, i.e. Adonis, ANOSIM and MRPP, showed that
+the community structures at Day 0, 20 and 40 were significantly
+different from each other (P < 0.05) (Table S1). However, the CNTs
+shock loading had no significant effects on microbial communities
+as observed from DCA plots and dissimilarity tests (P > 0.10) (Fig. 2
+and Table S1).
+3.3. Microbial community structure analysis
+To identify taxonomic diversity of microbial communities from
+these 15 SBRs, RDP identifier was employed to assign the sequence
+tags to different taxonomic levels (from phylum to genus) at 50%
+threshold. At the phylum level, a total of 30 phyla were detected
+and the majority belonged to 10 phyla, which covered over 97%
+of the effective sequence tags. Proteobacteria was the most abundant phylum in all samples, accounting for 58.1–81.4% of total
+sequences (Fig. 3a). Other dominant phyla included Bacteroidetes
+(5.3–15.7%),
+Acidobacteria
+(3.1–9.7%)
+and
+Planctomycetes
+(1.9–6.7%). Notably, the abundances of Proteobacteria in G1 were
+significantly higher (P < 0.05) than those in other four groups
+
+under phenol shock loading conditions (at Day 20 and Day 40).
+While under CNTs shock loading conditions, the abundances of
+Proteobacteria had almost no changes after 1 day of operation
+(P > 0.10) but significantly decreased after 20 days (P < 0.05)
+(Fig. 3a). Besides, the abundances of Acidobacteria and Planctomycetes in G1 were seemed to be lower than those in SWCNTstreated groups.
+Within Proteobacteria, Gammaproteobacteria (11.0–36.8%),
+Alphaproteobacteria
+(13.2–36.1%)
+and
+Bataproteobacteria
+(9.8–27.7%) were more abundant in all samples (Fig. 3b). The abundances of Gammaproteobacteria showed similar patterns as
+Proteobacteria under phenol and CNTs shock loading conditions,
+which decreased after long-term exposure to SWCNTs (Fig. 3b).
+These results indicated that SWCNTs might have adverse effects
+on Proteobacteria under long-term exposure, especially for
+Gammaproteobacteria. On the contrary, previous study by Hai
+et al. (2014) indicated that MWCNTs would increase the abundances of Proteobacteria in activated sludge, especially for
+Alphaproteobacteria and Gammaproteobacteria.
+Among the 527 assigned genera, the 10 most abundant genera in
+each treatment at different sampling time were used for heat map
+analysis, and a total of 17 genera were selected for comparison
+
+Fig. 3. Relative abundance of phyla (a) and Proteobacterial class (b) in the SBRs. The relative abundance was displayed in terms of percentage in total effective sequences in
+each sample from the triplicated systems. C0, C1 and C20 represent the sampling time of Day 0, Day 1 and Day 20, respectively, under CNTs shock loading conditions.
+
+Y. Qu et al. / Bioresource Technology 211 (2016) 209–215
+
+213
+
+Fig. 4. Relative abundance of the dominant genera in the SBRs. The relative abundance was displayed in terms of percentage in total effective sequences in each sample from
+the triplicated systems. C0, C1 and C20 represent the sampling time of Day 0, Day 1 and Day 20, respectively, under CNTs shock loading conditions.
+
+214
+
+Y. Qu et al. / Bioresource Technology 211 (2016) 209–215
+
+(Fig. S3). Among the dominant genera, Zoogloea and Haliscomenobacter could be related to sludge settling properties, while
+Rudaea, Burkholderia, Acinetobacter, Methylocystis, Thauera and
+Sphingomonas could play important roles in phenol degradation.
+Zoogloea and Haliscomenobacter were widely spread in activated
+sludge, which have been regarded as floc-forming and filamentous
+bacteria, respectively (Guo and Zhang, 2012; Zhao et al., 2013).
+Zoogloea played a key role in the flocculation of activated sludge,
+while Haliscomenobacter could be related to sludge bulking and
+foaming. On Day 0, the relative abundances of Zoogloea in G2-G4
+were higher than that in G1 (Fig. 4), suggesting that SWCNTs might
+have a positive effect on sludge settling ability, which was in accordance with the results of SV30 measurement (Fig. S2). Under phenol shock loading conditions, the abundances of Zoogloea in
+SWCNTs-treated groups decreased firstly and then increased when
+phenol concentration was raised, while the abundances of Haliscomenobacter increased in each treatment. Under CNTs shock loading conditions, the long-term exposure would significantly
+decrease the abundance of Haliscomenobacter. The results indicated
+that SWCNTs might significantly affect the settling ability of activated sludge (Yin et al., 2009; Hai et al., 2014; Qu et al., 2015).
+Rudaea was detected in all treatments with considerably high
+abundance (5.6–22.0%) (Fig. 4). The abundance of Rudaea
+decreased when the concentration of phenol was 500 mg/L, but it
+would be improved after the long-term operation under CNTs
+shock loading conditions. Previous studies have indicated that
+genus Rudaea was detected in soil and activated sludge contaminated with aromatic compounds, such as biphenyl, naphthalene
+and phenol (Uhlik et al., 2012; Qu et al., 2015). Thus, Rudaea could
+have a considerable potential in bioremediation of aromatic pollutants (such as phenol).
+Burkholderia and Acinetobacter showed high versatility in
+genetic diversity and metabolic capacity, which enabled them to
+degrade various natural and xenobiotic pollutants, such as toluene,
+phenols and polychlorobiphenyls (Mahenthiralingam et al., 2005;
+Al-Khalid and El-Naas, 2012). The relative abundance of Burkholderia decreased during the long-term operation, while the relative
+abundance of Acinetobacter had a slight increase under low concentration of phenol (200 mg/L), but then decreased after long-term
+exposure to either high phenol concentration or CNTs shock loading (Fig. 4).
+Methylocystis, Thauera and Sphingomonas all increased in relative abundances as the phenol concentration increased, especially
+in SWCNTs-treated groups when phenol concentration was raised
+to 500 mg/L (Fig. 4). However, the CNTs shock loading would also
+decrease the abundances of Thauera and Sphingomonas. Previous
+studies have shown that Methylocystis could be used for the degradation of chlorinated aromatic compounds (e.g. chlorobenzene)
+and trichloroethylene (McDonald et al., 1997; Jechorek et al.,
+2003), while Thauera was an important population in wastewater
+treatment plants (Liu et al., 2006; Ma et al., 2015a), which had a
+versatile capacity to degrade a wide spectrum of aromatic compounds, such as phenol, indole and toluene (Shinoda et al., 2004;
+Mao et al., 2010). Sphingomonas possessed extraordinary metabolic
+versatility, which could be used to degrade a wide range of recalcitrant natural and anthropogenic compounds, such as biphenyl(s),
+naphthalene(s), phenols and pesticides (Stolz, 2009). Therefore,
+Methylocystis, Thauera and Sphingomonas could be more responsible for the efficient removal of phenol during the operation.
+
+phenol wastewater treatment systems. The effects of SWCNTs on
+microbial community could be observed in three aspects. Firstly,
+SWCNTs could change the richness and diversity of microbial community. It was noticed that the microbial richness (OTU and Chao1)
+and diversity (Shannon and evenness) of SWCNTs-treated groups
+(G2-G5) were a little higher than those of non-treated group (G1)
+at Day 20 and Day 40 (Table 1), suggesting that SWCNTs might
+have protective effects against phenol. Previous studies indicated
+that SWCNTs could induce the microbial community to produce
+more extracellular polymeric substance, which might protect the
+microbes from the toxicity of phenol (Yin et al., 2009; Qu et al.,
+2015), thus leading to the high level of richness and diversity in
+SWCNTs-treated groups.
+Secondly, SWCNTs could alter the composition and structure of
+microbial community. DCA plots showed that the communities of
+G1 clustered separately from other groups treated with different
+concentrations of SWCNTs (Fig. 2), which was further confirmed
+by dissimilarity tests (Table S1), suggesting the addition of
+SWCNTs would affect the assembly of microbial communities. In
+previous studies, although CNTs (SWNCTs and MWCNTs) might
+have positive or adverse effects on wastewater treatment efficiency, they could alter the diversity and structure of microbial
+communities in activated sludge (Goyal et al., 2010; Hai et al.,
+2014; Ma et al., 2015b; Qu et al., 2015).
+Thirdly, SWCNTs could affect the taxa and function of microbial
+community. To discern the impact of SWCNTs on microbial community composition, Pearson correlation between the abundance
+of different taxa and the concentration of SWCNTs was examined.
+The results indicated that more taxa at the class, family and genus
+level showed positive relationships rather than negative, especially
+after the long-term exposure to SWCNTs (Table S2). Among the
+dominant genera, Acinetobacter, Methylocystis, Thauera and Sphingomonas were reported to be capable of degrading various xenobiotic pollutants (Al-Khalid and El-Naas, 2012; Jechorek et al., 2003;
+Mao et al., 2010; Stolz, 2009). Thus, the higher abundances of these
+genera in SWCNTs-treated groups than the non-treated group
+might contribute to the better efficiency of phenol removal.
+Although the diversity and structure of microbial community had
+no significant changes under CNTs shock loading condition, the
+dominant genera Acinetobacter, Thauera and Sphingomonas
+decreased notably after the long-term exposure, which might
+cause the fluctuations in phenol removal.
+
+3.4. Effects of SWCNTs on microbial community
+
+This work was supported by National Natural Science Foundation of China (No. 21176040 and 51508068), the Program for
+New Century Excellent Talents in University (No. NCET-13-0077),
+the Fundamental Research Funds for the Central Universities (No.
+DUT14YQ107), and the Open Project of State Key Laboratory of
+Urban Water Resource and Environment, Harbin Institute of
+
+In previous studies, CNTs, in most cases, exhibited adverse or no
+significant effects on microbial communities (Hai et al., 2014;
+Zheng et al., 2014; Kerfahi et al., 2015). In contrast, the present
+study suggested that SWCNTs could have positive influences on
+
+4. Conclusions
+The long-term impacts of SWCNTs on microbial communities of
+wastewater treatment systems were determined. SWCNTs might
+have positive effects on phenol removal, but secondary high dosing
+of SWCNTs would also have adverse effects on systems in longterm operation. Phenol shock loading, rather than CNTs shock
+loading, would significantly affect the diversity, richness and structure of microbial communities. The dominant genera Rudaea,
+Burkholderia, Acinetobacter, Methylocystis, Thauera and Sphingomonas should be more responsible for the high efficiency of phenol removal. This study should provide important information for
+comprehensive analysis of the environmental effects of CNTs.
+Acknowledgements
+
+Y. Qu et al. / Bioresource Technology 211 (2016) 209–215
+
+Technology (No. ESK201529). The authors would like to thank
+Jizhong Zhou and Yujia Qin at the Institute for Environmental
+Genomics, University of Oklahoma for Illumina MiSeq sequencing
+technical help.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.biortech.2016.03.
+043.
+References
+Al-Khalid, T., El-Naas, M.H., 2012. Aerobic biodegradation of phenols: a
+comprehensive review. Crit. Rev. Environ. Sci. Technol. 42, 1631–1690.
+De Volder, M.F.L., Tawfick, S.H., Baughman, R.H., Hart, A.J., 2013. Carbon nanotubes:
+present and future commercial applications. Science 339, 535–539.
+Deng, W., Wang, Y., Liu, Z., Cheng, H., Xue, Y., 2014. HemI: a toolkit for illustrating
+Heatmaps. PLoS One 9, e111988.
+Goyal, D., Zhang, X.J., Rooney-Varga, J.N., 2010. Impacts of single-walled carbon
+nanotubes on microbial community structure in activated sludge. Lett. Appl.
+Microbiol. 51, 428–435.
+Guo, F., Zhang, T., 2012. Profiling bulking and foaming bacteria in activated sludge
+by high throughput sequencing. Water Res. 46, 2772–2782.
+Hai, R., Wang, Y., Wang, X., Du, Z., Li, Y., 2014. Impacts of multiwalled carbon
+nanotubes on nutrient removal from wastewater and bacterial community
+structure in activated sludge. PLoS One 9, e107345.
+Hu, M., Wang, X., Wen, X., Xia, Y., 2012. Microbial community structures in different
+wastewater treatment plants as revealed by 454-pyrosequencing analysis.
+Bioresour. Technol. 117, 72–79.
+Jechorek, M., Wendlandt, K.D., Beck, M., 2003. Cometabolic degradation of
+chlorinated aromatic compounds. J. Biotechnol. 102, 93–98.
+Kerfahi, D., Tripathi, B.M., Singh, D., Kim, H., Lee, S., Lee, J., Adams, J.M., 2015. Effects
+of functionalized and raw multi-walled carbon nanotubes on soil bacterial
+community composition. PLoS One 10, e0123042.
+Köhler, A.R., Som, C., Helland, A., Gottschalk, F., 2008. Studying the potential release
+of carbon nanotubes throughout the application life cycle. J. Clean Prod. 16,
+927–937.
+Liu, B., Zhang, F., Feng, X., Liu, Y., Yan, X., Zhang, X., Wang, L., Zhao, L., 2006. Thauera
+and Azoarcus as functionally important genera in a denitrifying quinolineremoval bioreactor as revealed by microbial community structure comparison.
+FEMS Microbiol. Ecol. 55, 274–286.
+Luongo, L.A., Zhang, X., 2010. Toxicity of carbon nanotubes to the activated sludge
+process. J. Hazard. Mater. 178, 356–362.
+Ma, Q., Qu, Y.Y., Shen, W.L., Zhang, Z.J., Wang, J.W., Liu, Z.Y., Li, D.X., Li, H.J., Zhou, J.T.,
+2015a. Bacterial community compositions of coking wastewater treatment
+plants in steel industry revealed by Illumina high-throughput sequencing.
+Bioresour. Technol. 179, 436–443.
+Ma, Q., Qu, Y.Y., Shen, W.L., Wang, J.W., Zhang, Z.J., Zhang, X.W., Zhou, H., Zhou, J.T.,
+2015b. Activated sludge microbial community responses to single-walled
+carbon nanotubes: community structure does matter! Water Sci. Technol. 71,
+1235–1240.
+Mahenthiralingam, E., Urban, T.A., Goldberg, J.B., 2005. The multifarious,
+multireplicon Burkholderia cepacia complex. Nat. Rev. Microbiol. 3, 144–156.
+Mao, Y., Zhang, X., Xia, X., Zhong, H., Zhao, L., 2010. Versatile aromatic compounddegrading capacity and microdiversity of Thauera strains isolated from a
+
+215
+
+coking wastewater treatment bioreactor. J. Ind. Microbiol. Biotechnol. 37, 927–
+934.
+McDonald, I.R., Uchiyama, H., Kambe, S., Yagi, O., Murrell, J.C., 1997. The soluble
+methane monooxygenase gene cluster of the trichloroethylene-degrading
+methanotroph Methylocystis sp. strain M. Appl. Environ. Microbiol. 63, 1898–
+1904.
+Oleszczuk, P., Jośko, I., Xing, B., 2011. The toxicity to plants of the sewage sludges
+containing multiwalled carbon nanotubes. J. Hazard. Mater. 186, 436–442.
+Parise, A., Thakor, H., Zhang, X., 2014. Activity inhibition on municipal activated
+sludge by single-walled carbon nanotubes. J. Nanopart. Res. 16, 2159.
+Petersen, E.J., Zhang, L., Mattison, N.T., O’Carroll, D.M., Whelton, A.J., Uddin, N.,
+Nguyen, T., Huang, Q., Henry, T.B., Holbrook, R.D., Chen, K.L., 2011. Potential
+release pathways, environmental fate, and ecological risks of carbon nanotubes.
+Environ. Sci. Technol. 45, 9837–9856.
+Purkhold, U., Pommerening-Röser, A., Juretschko, S., Schmid, M.C., Koops, H.P.,
+Wagner, M., 2000. Phylogeny of all recognized species of ammonia oxidizers
+based on comparative 16S rRNA and amoA sequence analysis: implications for
+molecular diversity surveys. Appl. Environ. Microbiol. 66, 5368–5382.
+Qu, Y.Y., Ma, Q., Deng, J., Shen, W.L., Zhang, X.W., He, Z.L., Van Nostrand, J.D., Zhou, J.
+T., Zhou, J.Z., 2015. Responses of microbial communities to single-walled carbon
+nanotubes in phenol wastewater treatment systems. Environ. Sci. Technol. 49,
+4627–4635.
+Roh, S.W., Abell, G.C.J., Kim, K.H., Nam, Y.D., Bae, J.W., 2010. Comparing microarrays
+and next-generation sequencing technologies for microbial ecology research.
+Trends Biotechnol. 28, 291–299.
+Shen, E., Qu, Y.Y., Zhou, H., Kong, C.L., Ma, Q., Zhang, X.W., Zhou, J.T., 2013. Catalytic
+performance and stability of CAC bond hydrolase BphD immobilized onto
+single-wall carbon nanotubes. Chinese J. Catal. 34, 723–733.
+Shi, S.N., Qu, Y.Y., Ma, Q., Zhang, X.W., Zhou, J.T., Ma, F., 2015. Performance and
+microbial community dynamics in bioaugmented aerated filter reactor treating
+with coking wastewater. Bioresour. Technol. 190, 159–166.
+Shinoda, Y., Sakai, Y., Uenishi, H., Uchihashi, Y., Hiraishi, A., Yukawa, H., Yurimoto,
+H., Kato, N., 2004. Aerobic and anaerobic toluene degradation by a newly
+isolated denitrifying bacterium, Thauera sp. strain DNT-1. Appl. Environ.
+Microbiol. 70, 1385–1392.
+Shu, D., He, Y., Yue, H., Wang, Q., 2015. Microbial structures and community
+functions of anaerobic sludge in six full-scale wastewater treatment plants as
+revealed by 454 high-throughput pyrosequencing. Bioresour. Technol. 186,
+163–172.
+Stolz, A., 2009. Molecular characteristics of xenobiotic-degrading sphingomonads.
+Appl. Microbiol. Biotechnol. 81, 793–811.
+Uhlik, O., Wald, J., Strejcek, M., Musilova, L., Ridl, J., Hroudova, M., Vlcek, C.,
+Cardenas, E., Mackova, M., Macek, T., 2012. Identification of bacteria utilizing
+biphenyl, benzoate, and naphthalene in long-term contaminated soil. PLoS One
+7, e40653.
+Yin, Y., Zhang, X.J., Graham, J., Luongo, L., 2009. Examination of purified singlewalled carbon nanotubes on activated sludge process using batch reactors. J.
+Environ. Sci. Health A 44, 661–665.
+Zhang, X.W., Qu, Y.Y., Ma, Q., Zhang, Z.J., Li, D.X., Wang, J.W., Shen, W.L., Shen, E.,
+Zhou, J.T., 2015. Illumina MiSeq sequencing reveals diverse microbial
+communities of activated sludge systems stimulated by different aromatics
+for indigo biosynthesis from indole. PLoS One 10, e0125732.
+Zhao, Y., Huang, J., Zhao, H., Yang, H., 2013. Microbial community and N removal of
+aerobic granular sludge at high COD and N loading rates. Bioresour. Technol.
+143, 439–446.
+Zheng, X., Su, Y., Chen, Y., Wei, Y., Li, M., Huang, H., 2014. The effects of carbon
+nanotubes on nitrogen and phosphorus removal from real wastewater in the
+activated sludge system. RSC Adv. 4, 45953–45959.
+Zhou, J., He, Z., Yang, Y., Deng, Y., Tringe, S.G., Alvarez-Cohen, L., 2015. Highthroughput metagenomic technologies for complex microbial community
+analysis: open and closed formats. mBio 6, e02288-14.
+
+
