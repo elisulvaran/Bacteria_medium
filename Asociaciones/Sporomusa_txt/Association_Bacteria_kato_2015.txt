@@ -1,0 +1,42 @@
+elective isolation of Acetobacterium woodii on methoxylated aromatic acids and determination of growth yields 
+roposal to unify Clostridium orbiscindens Winter et al. 1991 and Eubacterium plautii (Séguin 1928) Hofstad and Aasjord 1982, with description of Flavonifractor plautii gen. nov., comb. nov., and reassignment of Bacteroides capillosus to Pseudoflavonifractor capillosus gen. nov., comb. nov 
+uminococcus albus (A) and Clostridium acetobutylicum (B) were used as the outgroup sequences 
+lthough the closest relative of ArB09 (I. butyriciproducens) has not been reported to degrade aromatic compounds46, some strains in the Clostridium cluster IV were reported to fermentatively decompose diverse aromatic compounds 
+or example, Flavonifractor plautii (formerly Clostridium orbiscindens) has the ability to degrade flavonoids via phloroglucinol (1,3,5-trihydroxybenzene) as the intermediate47 
+tilization of methoxylated aromatic compounds by the acetogen Clostridium thermoaceticum: expression and specificity of the co-dependent O-demethylating activity 
+naerobic degradation of flavonoids by Clostridium orbiscindens 
+urification and characterization of an oxygen-sensitive, reversible 3,4-dihydroxybenzoate decarboxylase from Clostridium hydroxybenzoicum 
+he dominant phylotypes ArB-04 (96.8% identity to Pelotomaculum schinkii) and ArB-06 (98.4% identity to Cryptanaerobacter phenolicus) were clustered into the Desulfotomaculum subcluster Ih31 
+icroorganisms in the Desulfotomaculum subcluster Ih were characterized by their ability to anaerobically metabolize various organic substrates in syntrophic association with hydrogenotrophic methanogens32 
+urthermore, Desulfotomaculum subcluster Ih includes some strains that syntrophically degrade a range of aromatic compounds33,34 and was frequently detected as the dominant Scientific Reports | 5:14295 | DOI: 10.1038/srep14295  6  www.nature.com/scientificreports/  Figure 6 
+tilization of methoxylated benzoates and formation of intermediates by Desulfotomaculum thermobenzoicum in the presence or absence of sulfate 
+hylogenetic analysis of the genus Desulfotomaculum: evidence for the misclassification of Desulfotomaculum guttoideum and description of Desulfotomaculum orientis as Desulfosporosinus orientis gen. nov., comb. nov 
+on-sulfate-reducing, syntrophic bacteria affiliated with Desulfotomaculum cluster I are widely distributed in methanogenic environments 
+ermentative bacteria, such as Eubacterium oxidoreducens and Pelobacter acidigallici, were reported to anaerobically degrade gallate via the phloroglucinol pathway22,23 
+haracterization of the pyrogallol-phloroglucinol isomerase of Eubacterium oxidoreducens 
+s the putative ring-cleavage microbes, bacteria within the phylum Firmicutes were dominantly detected from all of the enrichments, while the dominant phylotypes were not identical between enrichments on vanillate/protocatechuate/ catechol (family Peptococcaceae bacteria) and on syringate/gallate (family Ruminococcaceae bacteria) 
+nstead, the phylotypes classified into phylum Firmicutes dominated in the enrichments supplemented with the lignin-derived aromatics and their degradation intermediates (Fig. 4B) 
+mong the Firmicutes phylotypes, the phylotype ArB-01 (99.6% identity to Sporomusa sphaeroides) and ArB-02 (89.8% identity to Sporomusa paucivorans) were abundantly detected from vanillate- and syringate-enrichments, but not from enrichments with their degradation intermediates 
+naerobic degradation of gallate were reported for some fermenting bacteria, including E. oxidoreducens, which is classified into Firmicutes and distantly related to the Ruminococcaceae phylotypes detected in this study22,23 
+he resultant demethoxylated aromatics were decomposed into acetate and H2/CO2 by Firmicutes bacteria, while the bacterial groups responsible for PCA (family Peptococcaceae) and gallate (family Ruminococcaceae) were not identical 
+he phylotype ArA-01 (98.9% identity to Methanosarcina vacuolata), which dominated in all enrichment cultures, was the only phylotype classified as an aceticlastic methanogen 
+ phylogenetic tree based on partial 16S rRNA gene sequences of the phylotypes retrieved in this study and representative isolates in family Peptococcaceae (A) and Ruminococcaceae (B) 
+n the enrichments on vanillate and its degradation intermediates (PCA and catechol), the phylotypes classified into family Peptococcaceae were dominant, while the dominant phylotypes varied among the supplemented aromatic compounds (Fig. 4B and Table S2) 
+he phylogenetic tree based on 16S rRNA gene sequences of representative Peptococcaceae isolates and the Peptococcaceae phylotypes detected in this study is shown in Fig. 5A 
+aken together, it is very likely that the Peptococcaceae phylotypes mainly contributed to the ring-cleavage of the vanillate and/or its degradation intermediates via syntrophic interaction with hydrogenotrophic methanogens 
+lthough the details in the pathway of aromatic ring cleavage have not been characterized, isolation of aromatics-degrading Peptococcaceae and Ruminococcaceae strains identified in this study followed by genomic and enzymatic studies will shed light on novel aspects of methanogenic degradation of lignin-derived aromatics in anaerobic environments.  Methods  Enrichment cultures of methanogenic microbial communities 
+ntestinimonas butyriciproducens gen. nov., sp. nov., a butyrate-producing bacterium from the mouse intestine 
+www.nature.com/scientificreports  OPEN  received: 19 June 2015 accepted: 24 August 2015 Published: 24 September 2015  Methanogenic degradation of lignin-derived monoaromatic compounds by microbial enrichments from rice paddy field soil Souichiro Kato1,2,3, Kanako Chino4, Naofumi Kamimura4, Eiji Masai4, Isao Yumoto1 & Yoichi Kamagata1,2 Anaerobic degradation of lignin-derived aromatics is an important metabolism for carbon and nutrient cycles in soil environments 
+n this study, methanogenic microbial communities were enriched from rice paddy field soil with lignin-derived methoxylated monoaromatics (vanillate and syringate) and their degradation intermediates (protocatechuate, catechol, and gallate) as the sole carbon and energy sources 
+n the present study, we enriched methanogenic microbial communities from rice paddy field soil with either lignin-derived aromatics (vanillate and syringate) or a model aromatic compound (benzoate) as the sole carbon and energy sources 
+etha  nogenic microbial communities were enriched from rice paddy field soil using a freshwater basal medium supplemented with different aromatic compounds 
+pproximately 50 mg (wet weight) of rice paddy field soil was inoculated as a microbial source 
+ethanogenic degradation of lignin-derived monoaromatic compounds by microbial enrichments from rice paddy field soil 
+he phylogenetic tree for family Ruminococcaceae is shown in Fig. 5B 
+n the contrary, studies on anaerobic degradation of lignin and lignin-derived aromatics have been limited, despite some studies suggesting that their anaerobic biodegradation was evident in various natural environments8–13 
+icrobial decomposition of synthetic 14C-labeled lignins in nature: lignin biodegradation in a variety of natural materials 
+hylogenetic distribution of archaeal (A) and bacterial (B) 16S rRNA gene clones in the aromatics-degrading methanogenic enrichment cultures 
+he summarized features of the bacterial and archaeal community analyses are presented in Fig. 4 
+nly 4 archaeal phylotypes were recovered from the enrichment cultures (Fig. 4A and Table S1) 
+henyl methyl ethers: novel electron donors for respiratory growth of Desulfitobacterium hafniense and Desulfitobacterium sp. strain PCE-S 
+porobacterium olearium gen. nov., a new methanethiol-producing bacterium that degrades aromatic compounds, isolated from an olive mill wastewater treatment digester 

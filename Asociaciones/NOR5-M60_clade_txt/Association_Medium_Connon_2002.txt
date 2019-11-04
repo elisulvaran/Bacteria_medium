@@ -1,0 +1,264 @@
+n order to restore the bicarbonate buffer lost during autoclaving, the seawater was sparged with sterile CO2 for at least 6 h, followed by sterile air for at least 12 h 
+oodfellow (ed.), Nucleic acid techniques in bacterial systematics 
+wo to three negative controls (the same procedure with no added culture) were run with each set of concentrated samples. 16S rRNA genes were amplified by nested PCR 
+onnon and Stephen J 
+iovannoni* Department of Microbiology, Oregon State University, Corvallis, Oregon 97331 Received 4 March 2002/Accepted 16 May 2002  Microbial diversity studies based on the cloning and sequencing of DNA from nature support the conclusion that only a fraction of the microbial diversity is currently represented in culture collections 
+n these experiments, marine bacteria were isolated and cultivated at in situ substrate concentrations—typically 3 orders of magnitude less than common laboratory media 
+icrotiter plates and a newly developed procedure for making cell arrays were employed to raise the throughput rate and lower detection sensitivity, permitting cell enumeration from 200-␮l aliquots of cultures with densities as low as 103 cells/ml 
+hese cultures are related to the clades SAR11 (␣ subclass), OM43 (␤ subclass), SAR92 (␥ subclass), and OM60/OM241 (␥ subclass) 
+he term “the great plate count anomaly” was coined by Staley and Konopka in 1985 (31) to describe the difference in orders of magnitude between the numbers of cells from natural environments that form colonies on agar media and the numbers countable by microscopic examination (18) 
+his hypothesis does not explain the substantial discrepancy between 16S rRNA genes recovered from seawater directly by cloning and those of the readily cultured marine taxa (22, 34) 
+utton and colleagues pioneered an approach that has been successful in isolating novel oligotrophic, heterotrophic cells from marine ecosystems (10) 
+his method uses unamended  environmental water as the medium and is often referred to as “extinction culturing” to distinguish it from dilution culturing, which also uses natural water, but involves complex microbial communities (1, 11, 23) 
+heir approach was to dilute natural communities of microorganisms to a known number, ranging from 1 to 10 cells per tube, and then examine these potential cultures for microbial growth by flow cytometry, which is effective for counting very dilute populations of cells 
+y this method, bacterioplankton culturability from 2 to 60% was reported for marine waters around Alaska and The Netherlands (10) 
+his work resulted in the description of two new oligotrophic bacterioplankton, Sphingomonas alaskensis and “Cycloclasticus oligotrophus” (9, 29, 37, 39) 
+ver the course of 3 years and 11 separate samplings of marine bacterioplankton, 2,484 extinction wells were examined for growth 
+ series of protocols and techniques were developed to allow the efficient screening of a large number of extinction culture attempts for growth  MATERIALS AND METHODS  3878  VOL. 68, 2002  FIG. 1 
+MSO, dimethyl sulfoxide.  and subsequent identification (Fig. 1) 
+icrotiter plates were used to culture cells, and cell arrays were made to allow efficient screening of the plates for growth 
+n the day water was collected, it was filtered through a 0.2-␮m-pore-diameter Supor membrane and immediately autoclaved 
+cid-washed polycarbonate containers were used for media and live samples whenever possible 
+issolved organic carbon concentrations of the seawater media were 107.1 ␮M (standard deviation [SD], 1.1) for the 19 March 1998 collection, determined with a Shimadzu TOC-500, and 91.6 ␮M (SD, 1.6) for the 7 June 2000 collection, determined with a Shimadzu TOC-5000A (Shimadzu Co., Kyoto, Japan) 
+noculum collection, dilution, and incubation 
+ater samples for inocula were collected on the south side of the southern jetty in Newport, Oreg., at high tide with a bucket and at 8 km (44°39.1N, 124°10.6W) and 25 km (44°39.1N, 124°24.7W) offshore from the mouth of Yaquina Bay, Oreg., with a Niskin bottle deployed at 5 m 
+he water was held in darkness at ambient sea surface temperatures until the processing of samples began, within 1 to 4 h after collection from the jetty and within 9 h after collection off the boat to avoid bottle effects (14) 
+o determine viable cell counts (i.e., culturability) by traditional methods, inocula of 50 or 100 ␮l of seawater were applied to spread plates of MA2216 (Difco Laboratories, Detroit, Mich.), Marine R2A (R2A) (34), and a 1/10 dilution of Marine R2A (1/10R2A) 
+noculum samples were diluted into the prepared seawater medium and distributed as 1-ml aliquots into 48-well non-tissue-culture treated Polystyrene plates (Becton Dickinson, Franklin Lakes, N.J.) to a final average inoculum ranging from 1.1 to 5.0 cells per well 
+he 48-well plates and agar plates were incubated in the dark at 16°C 
+he extinction cultures were incubated for 3 weeks, and the agar cultures were incubated until colonies were large enough to count, about 1 week for MA2216 and up to 8 weeks for 1/10R2A 
+ells were then DAPI stained and vacuum filtered onto a 48-by-60-mm 0.2-␮mpore-diameter white polycarbonate membrane (cut from 8-by-10-in. sheets; Whatman Nuclepore, Newton, Mass.) 
+he membrane was laid on an oiled 75-by-50-mm slide (Corning Glass Works, Corning, N.Y.) and covered with a 48-by-60-mm coverglass (Erie Scientific, Portsmouth, N.H.) 
+ercent culturability was determined by the equation for estimation of culturability, V ⫽ ⫺ln(1 ⫺ p)/X, and the theoretical number of pure cultures was estimated by the equation u ⫽ ⫺n(1 ⫺ p) ln(1 ⫺ p) described by Button and colleagues (10), where u is an estimation of the expected number of pure cultures, n is the number of inoculated wells, V is estimated culturability, p is the proportion of wells positive for growth (wells positive for growth/total inoculated wells), and X is the initial inoculum of cells added per well 
+o calculate the error, first, the exact lower and upper 95% confidence limits for the binomial proportion (p) were determined by using the SAS package version 6.12 (SAS Institute Inc.) 
+ext, these exact limits were put into the culturability equation and pure culture equation in place of the term p to give the exact lower and upper 95% confidence limits for percent culturability and the theoretical number of pure cultures 
+FLP analysis and sequencing of HTCC isolates 
+ subset of 56 HTCC isolates were identified by restriction fragment length polymorphism (RFLP) and rRNA gene sequencing methods 
+ne hundred or 200 ␮l of culture was put through two cycles of freezing and thawing to promote cell lysis and concentrated in a 10,000-molecular-weight Vivaspin concentrator (Vivascience, Stonehouse, United Kingdom) 
+he lysates were then rinsed three times with 200 ␮l of Ultrapure water (Specialty Media, Phillipsburg, N.J.) to remove medium salts and lysis buffer 
+wo to 5 ␮l of each concentrated sample was added to the first PCR, which had a 20-␮l reaction volume, and 2 to 5 ␮l of the first PCR was added to the second PCR, which had a 60- to 100-␮l reaction volume 
+he PCR cocktail for both reactions contained 0.025 U of Taq per ␮l (Promega, Madison, Wis., or MBI Fermentas, Hanover, Md.), 5% acetamide, 1.5 mM Mg2⫹, 200 nM each primer, 220 ␮M deoxynucleoside triphosphates (dNTP), and 1⫻ PCR buffer (Promega or MBI Fermentas) 
+he length of UV treatment needed was empirically determined by amplifying a set of negative and positive controls 
+he amplification conditions for both PCRs were 94°C denaturation for 30 s, 50 to 55°C (depending on primers used) annealing for 1 min, and 72°C extension for 2 min 
+he primers used were 8F (5⬘-AGR GTT TGA TCM TGG CTC AG-3⬘), 519F (5⬘-CAG CMG CCG CGG TAA TWC-3⬘), 1395R (5⬘-ACG GGC GGT GTG TRC-3⬘), 1492R (5⬘-GGT TAC CTT GTT ACG ACT T-3⬘), and 1522R (5⬘AAG GAG GTG ATC CAN CCR CA-3⬘), which are variations of commonly used primers that target bacteria or prokaryotes (21) 
+he nested set of primers most frequently used was made up of 519F/1492R and 519F/1395R, but other variations of the listed primers were also used 
+hree negative controls and  3880  CONNON AND GIOVANNONI  APPL 
+xtinction culturability statistics compared to traditional culturability counts Date (mo-day-yr) and location of inoculation samplea  Inoculum sample (cells/ml)  Avg no. of cells/well  Total no. of wells inoculated  No. of positive wellsb  Culture designations  5-21-98, J 6-5-98, J 7-6-98, 8 km 7-6-98, 25 km 6-17-99, J 10-29-99, J 12-21-99, J 1-26-00, J  6  1.1 ⫻ 10 1.5 ⫻ 106 3.7 ⫻ 106 1.5 ⫻ 106 5.6 ⫻ 106 1.9 ⫻ 106 8.1 ⫻ 105 1.1 ⫻ 106  1.1 1.5 3.7 1.5 3.0 3.0 5.0 5.0  144 192 192 192 192 192 384 192  7 37 62 37 21 10 10 11  4-5-00, J 7-12-00, J  9.0 ⫻ 105 1.9 ⫻ 106  5.0 3.0  192 228  20 33  10-9-00, 8 km  1.3 ⫻ 106  3.0  384  5  HTCC1–7 HTCC8–44 HTCC45–106 HTCC107–143 HTCC144–164 HTCC165–174 HTCC175–184 HTCC185–191, 193–196 HTCC197–216 HTCC217–233, 236–251 HTCC252–256  % Culturabilityc  % Culturability on nutrient-rich agard 1/10R2A  R2A  MA2216  4.5 (1.8, 9.3) 14.3 (10.0, 19.7) 10.5 (8.0, 13.5) 14.3 (10.0, 19.7) 3.9 (2.4, 5.9) 1.8 (0.9, 3.3) 0.5 (0.3, 1.0) 1.2 (0.6, 2.1)  — — — — — — — 0.01  — — — — — — — 0.01  — — — — — — — 0.02  2.2 (1.3, 3.4) 5.2 (3.6, 7.3)  — 0.98  0.15 0.15  0.12 0.12  0.4 (0.1, 1.0)  0.29  0.09  0.02  a  Samples were collected on the date indicated from the jetty (J) or 8 or 25 km out from the mouth of Yaquina Bay, Oreg 
+inety-five percent confidence intervals are shown in parentheses. d Inoculum was the same as that used for the microtiter plates. —, not determined. b c  positive controls with 108, 2,000, 200, and 20 copies of the 16S rRNA gene from the clone SAR242 were run in each PCR set 
+ll primers used have no mismatches to the SAR242 sequence, except for 1492R, which does not match the first and third bases on the 5⬘ end (nonpriming end) 
+FLP of the PCR product was done with the restriction enzymes MboI and HaeIII (MBI Fermentas) (38) 
+he cultures with fragments that added up to the expected PCR product length were grouped based on matching RFLP patterns, and at least one culture from each RFLP group was sequenced and phylogenetically analyzed 
+TCC sequences were aligned and masked in ARB (32) 
+hylogenetic analyses were performed with ARB and PAUPⴱ (35) 
+hylogenetic trees were inferred by neighbor joining with the Jukes and Cantor model to estimate evolutionary distances 
+he probability of recovering HTCC isolates from frozen storage has not been systematically investigated, and not all cultures were saved for further study 
+ell densities and inferred doublings attained after 3 weeks of incubation Final no. of cells/ml  No. of culturesa  No. of inferred doublingsb  1.0 ⫻ 103–9.9 ⫻ 103 1.0 ⫻ 104–9.9 ⫻ 104 1.0 ⫻ 105–9.9 ⫻ 105 1.0 ⫻ 106–9.9 ⫻ 106  66 120 62 5  10.0–13.3 13.3–16.6 16.6–19.9 19.9–23.3  a  Out of 253 cultures 
+his inference is based on the assumption that only one inoculated cell in each well grew. b  HTCC230 and HTCC234 (SAR92 clade), and HTCC223 and HTC227 (OM60/ OM241 clade), have been successfully transferred from the initial well, propagated, and stored 
+his method, which allows a large number of culture attempts to be efficiently screened for growth and identified, was successful in bringing four major uncultured or undescribed groups of bacterioplankton into culture 
+hese four groups include SAR11 (␣ subclass) (16), OM43 (␤ subclass) (27), SAR92 (␥ subclass) (8), and OM60/OM241 (␥ subclass) (27) 
+wo hundred fifty-three extinction culture wells were scored positive for growth out of 2,484 wells screened for 3 years and 11 sample collections 
+he average culturability for the six samples collected between late May and mid-July was 8.8%, and the average culturability for the five samples collected between early October and early April was 1.2% 
+omparisons of culturability were made between the HTC method and traditional plating on nutrient-rich agar media; the culturability ranged from 1.4 to 120 times higher by HTC methods (Table 1) 
+n addition, MA2216 and R2A agar plates were spotted with the first 143 cultures grown from water collected during the summer of 1998 to determine if they had the ability to grow on these media 
+nly three grew on MA2216, and a fourth grew on R2A; none of these four cultures grew on both agar media (data not shown) 
+etection of growth and cell densities 
+he SAR92 clade isolates HTCC148, HTCC151, and HTCC154 were short rods (ca. 1 to 0.7 ␮m by 0.7 to 0.5 ␮m) 
+M60/ OM241 clade isolate HTCC160 was an irregularly shaped coccus that occasionally formed doublets and more rarely chains of three (ca. 0.7 by 0.7 ␮m) 
+he cells have been stained with a DNA staining dye and have been fixed with formaldehyde 
+he images shown are from the original extinction dilutions that yielded the four previously uncultured and undescribed groups (Fig. 2) 
+hylogenetic analysis and culture identification 
+ncultured or undescribed groups SAR11, OM43, SAR92, and OM60/ OM241 accounted for the majority of cultures that were identified out of a subset of 56 cultures (Table 3) 
+orty-seven of the 56 cultures were identified; of the 9 cultures that were not identified, 7 were found to be unknown mixtures of several cell types based on RFLP analysis, and 2 did not amplify under the conditions used 
+here were a total of eight mixed cultures; HTCC149 was found to be a mix of cells from the SAR11 clade and unknown cells 
+wo belonged to the SAR11 clade, and one each was from the genus Maricaulis and the Roseobacter clade 
+hese included members of two clades, 16 isolates from the OM43 clade, and two related to the genus Variovorax 
+hese included three subgroups: the SAR92 clade (15 isolates), the OM60/OM241 clade (3 isolates), and one group from the genus Pseudomonas 
+ize bars, 1 ␮m.  ml, with a mean of 1.1 ⫻ 105 cells per ml and a median of 3.0 ⫻ 104 cells per ml 
+he OM43 clade isolates HTCC163 and  TABLE 3 
+hylogenetic identification and pure culture statistics for 56 cultures Inoculation date (mo-day-yr)  No. of wells screened  No. of cultures detected  Theoretical no. of pure culturesa  5-21-98 6-17-98 10-29-99 1-26-00 7-12-00  96 96 96 192 144  7 11 10 11 17  6.7 (2.8, 12.8) 10.3 (5.5, 16.8) 9.5 (4.8, 15.9) 10.7 (5.5, 18.2) 16.0 (9.8, 23.7)  Total  624  56  53.4 (41.2, 67.4)  a  No. with culture identification SAR11  OM43  2  1 8 7  2  16  Not identified  OM60/OM241  Otherc  Mixed culture  2 3  3  2 1 1 8  2 3b 1 1 1  2  15  3  11  8  2  SAR92  5 4  Statistical estimation of the theoretical number of pure cultures acquired with 95% confidence interval 
+he total 53.4 was determined independently with 624 wells and 56 cultures in the pure culture equation. b One SAR11 culture was mixed with an unknown cell type (RFLP analysis) and is also included under the heading “Mixed culture.” c “Other” indicates cultures that fall into previously cultured groups.  3882  CONNON AND GIOVANNONI  APPL 
+equences of oligotrophic isolates from the OM43 and OM60/ OM241 clades were recently deposited into GenBank as strain POCPN-5 (AB022337) and KI89C (AB022713), respectively, by N 
+atanozaka and I 
+TCC isolates from the four distinct phylogenetic clades SAR11, OM43, SAR92, and OM60/OM241 are more similar to cloned sequences from these clades than to those from previously cultured species, with the exception of HTCC168, which is 99.8% similar to the isolate POCPN-5 
+ISCUSSION Culturability statistics and detection of growth 
+he use of microtiter dishes and a novel technique for making cell arrays enabled us to achieve a higher throughput rate, shorten incubation times, and raise sensitivity for the detection of cells with low growth rates relative to those in previous studies that employed the concept of extinction culturing in natural media 
+erguson and colleagues found that the percentage of microbial cells in seawater that could be cultured on a rich nutrient agar medium (MA2216) increased from ⬍0.1% to 13% after 16 h and to 41% after 32 h of confinement in a 4-liter bottle at ambient sample collection temperature (14) 
+ur results cannot easily be explained by this “bottle effect,” because (i) the cells were diluted into the 48-well plates between 1 and 4 h after collection from the jetty and within 9 h after collection from the boat; (ii) readily culturable genera, such as Pseudomonas and Vibrio, were rarely detected in our cultures; and (iii) four previously undescribed lineages were grown by our culture method 
+irst, bac-  3883  terioplankton cells may be in a dormant state during the winter and either fail to grow or need longer incubation times for growth to be detected 
+he seawater medium used for these experiments was collected during the spring and summer months, and our incubation temperature of 16°C is closer to the summer temperature range of 10.0 to 14.7°C versus the winter range of 9.5 to 10.7°C for the 11 samples collected 
+uring the winter, the water off the coast is diluted by the Columbia River water plume, mixed by frequent storm events, and not subject to algal blooms 
+he bacterioplankton that predominate during the summer may be better adapted to the higher nutrient levels and/or nutrient types provided and therefore more amenable to cultivation by the methods we used 
+heoretical estimates of the number of pure cultures expected were consistent with the number and proportion of pure cultures observed by RFLP analysis; 8 of 54 cultures studied in this manner were mixed cultures 
+n addition, a dominant cell type may preferentially amplify and thus appears as a pure culture in an RFLP analysis 
+hylogenetic identification of the isolates provided striking evidence that extinction culturing in microtiter dishes, with natural seawater and low thresholds of detection, results in the cultivation of microbial groups that appear in environmental clone libraries, but have not been previously detected in culture 
+he SAR11 and SAR92 clades, which were isolated in this study (transiently, in the case of SAR11) have previously been detected only by environmental rRNA gene cloning. rRNA gene sequences from isolates of other previously uncultivated clades, OM43 and OM60/OM241 (strains POCPN-5 and KI89C, respectively), were recently deposited in GenBank by other investigators 
+eighbor-joining trees showing phylogenetic relationships among the 16S rRNA genes of HTCC isolates compared to those of representative species and environmental clones 
+TCC230 and HTCC234 are close to full length and were put in the original tree 
+owever, not all of the HTCC sequences used in the tree are part of the subset of 47 identified cultures. (A) ␣-Proteobacteria phylogenetic tree. ␤- and ␥-Proteobacteria were used to root the tree; 1,051 characters were used to infer the tree. (B) ␤-Proteobacteria phylogenetic tree. ␥-Proteobacteria isolates were used to root the tree; 789 characters were used to infer the tree. (C) ␥-Proteobacteria phylogenetic tree. ␤-Proteobacteria isolates were used to root the tree; 1,042 characters were used to infer the tree.  3884  CONNON AND GIOVANNONI  APPL 
+OCPN-5 is a cultured strain, not a clone.  OM43 clade is a sister clade to a group of marine methylotrophs that includes Methylophilus and Methylobacillus and is commonly found in clone libraries from coastal sites, but not the open ocean (28) 
+ethylophilus and Methylobacillus are classified as type I methylotrophs, which use the ribulose monophosphate (RuMP) pathway for carbon assimilation 
+he OM60/OM241 clades are frequently found in coastal marine clone libraries, and the SAR92 clade is found in open ocean as well as coastal clone libraries 
+everal other major uncultured groups that are thought to be abundant in surface seawater, such as the SAR86 and SAR116 clusters, did not appear among the HTCC isolates 
+urther innovations in the HTC approach will be needed to close the gap between culture collections and the microbial species dominating marine bacterioplankton communities 
+ncubation of extinction cultures under various conditions, including different sources of carbon, light, and other matrices of variables, may lead to the culturing of microorganisms that have specialized growth requirements 
+ork in progress has partially achieved these goals through the application of automation tools, such as robotic liquid handling and the automated scanning of cell arrays (J.-C 
+appé, and S 
+iovannoni, unpublished results).  Culturing organisms remains an important step in the process of understanding the biology and ecology of microbial species 
+ultures can be used to obtain complete genome sequences and to identify properties of organisms that could not be identified by genome sequence alone 
+or example, cultures of key heterotrophic bacterioplankton may enable oceanographers to study how nutrient limitation and other oceanographically relevant variables affect the growth of individual species and thereby help identify the role dominant species play in geochemical cycles 
+CKNOWLEDGMENTS We are indebted to Don Button and Ikuo Yoshinaga, both of whom provided advice and inspiration for this work 
+e want to thank Jessina McGregor for technical assistance and Bryan Wright for statistical recommendations 
+e also thank Carol Dimeo, Mike Rappé, Kevin Vergin, Markus Moeseneder, Jang-Cheon Cho, Kate Field, and Kathleen Page for critical review 
+his work was supported by National Science Foundation grants OIA-9977469 and MCB-9977930 and a grant from the Murdock Charitable Trust 
+n addition, Tartar research fellowships and general grants and funds were provided by Oregon State University 
+agström, and F 
+rowth kinetics and cellular characteristics in seawater cultures 
+ano, N., and J 
+axter, M., and J 
+etabolic and ultrastructural response to glucose of two eurytrophic bacteria isolated from seawater at different enriching concentrations 
+pudich, and E 
+eldman, and E 
+onstruction and analysis of bacterial artificial chromosome libraries from a marine microbial assemblage 
+ee, and K 
+os, and J 
+he role of growth and maintenance in the oxidation of pyrite in batch culture by a moderately thermophilic, facultative chemolithoautotroph, p. 735–751 
+anada Centre for Mineral and Energy Technology, Ontario, Canada. 8 
+., and S 
+hylogenetic analysis of a natural marine bacterioplankton population by rRNA gene cloning and sequencing 
+epp, and T 
+ small, dilute-cytoplasm, high-affinity, novel bacterium isolated by extinction culture and having kinetic constants compatible with growth at ambient concentrations of dissolved nutrients in seawater 
+artin, and B 
+iability and isolation of marine bacteria by dilution culture: theory, procedures, and initial results 
+., and H 
+rowth of bacterioplankton and consumption of dissolved organic carbon in the Sargasso Sea 
+loating filters, a novel technique for isolation and enumeration of fastidious, acidophilic, iron-oxidizing, autotrophic bacteria 
+., and J 
+urvival, dormancy, and nonculturable cells in extreme deep-sea environments, p. 147–197 
+olwell and D 
+uckley, and A 
+esponse of marine bacterioplankton to differential filtration and confinement 
+ateson, and D 
+nrichment culture and microscopy conceal diverse thermophilic Synechococcus populations in a single hot spring microbial mat habitat 
+oyer, and K 
+., and M 
+volution, diversity, and molecular ecology of marine prokaryotes, p. 47–84 
+., and G 
+imidu, and N 
+oops, H.-P., and U 
+arder, and K.-H 
+tackebrandt and M 
+arlson, and S 
+., and P 
+u, and G 
+opczynski, and D 
+ultivation of aerobic chemoorganotrophic proteobacteria and gram-positive bacteria from a hot spring microbial mat 
+ess, and D 
+emp, and S 
+ergin, and S 
+hylogenetic comparisons of a coastal bacterioplankton community with its counterparts in open ocean and freshwater systems 
+rins, and D 
+solation of typical marine bacteria by dilution culture: growth, maintenance, and characteristics of isolates under laboratory conditions 
+ottschal, and P 
+solation and characterisation of the marine ultramicrobacterium Sphingomonas sp. strain RB2256 
+., and A 
+easurements of in situ activities of nonphotosynthetic microorganisms in aquatic and terrestrial habitats 
+ilbig, and R 
+aylor, and E 
+tröbel, and S 
+acterial diversity among small-subunit rRNA gene clones and cellular isolates from the same seawater sample 
+hylogenetic analysis using parsimony (ⴱ and other methods), version 4.0b6 
+herr, and J 
+wings, and J 
+au, and D 
+n an effort to culture the uncultured phylotypes from oligotrophic marine ecosystems, we developed high-throughput culturing procedures that utilize the concept of extinction culturing to isolate cultures in small volumes of low-nutrient media 
+pproximately 2,500 extinction cultures from 11 separate samplings of marine bacterioplankton were screened over the course of 3 years 
+p to 14% of the cells collected from coastal seawater were cultured by this method, which was 14- to 1,400-fold higher than the numbers obtained by traditional microbiological culturing techniques 
+mong the microorganisms cultured were four unique cell lineages that belong to previously uncultured or undescribed marine Proteobacteria clades known from environmental gene cloning studies 
+his method proved successful for the cultivation of previously uncultured marine bacterioplankton that have consistently been found in marine clone libraries 
+or example, species that would otherwise be “culturable” may fail to grow because their growth state in nature, such as dormancy, prevents adjustment to conditions found in the medium used for the plate counts (13) 
+nother explanation for the “great plate count anomaly” is that many of the microbial species that dominate in natural settings are not adapted for growth in media containing high concentrations of complex organic carbon 
+he goal of this study was to develop high-throughput culturing (HTC) methods that would enable a large number of extinction cultures to be identified so that the efficacy of this approach could be assessed with a larger sampling of isolates 
+light variations of the method were performed during the development of these HTC techniques over the course of 3 years, but the overall approach remained constant 
+ater for media was collected on the south side of the southern jetty in Newport, Oreg., at high tide with a bucket on 19 March 1998 8 km (44°39.1N, 124°10.6W) offshore from the mouth of Yaquina Bay, Oreg., with a Niskin bottle deployed at 5 m on 7 June 2000 
+efore each use, the liquid media were checked for sterility by directly counting cells stained with 4⬘,6-diamidino-2-phenylindole (DAPI) as described by Turley (36), except that 1% formaldehyde was used 
+o determine the bacterioplankton cell densities of the inocula, direct cell  HIGH-THROUGHPUT CULTURING  3879  counts were done by DAPI staining, where at least 300 cells were counted per filter on triplicate filters 
+wo hundred microliters from each well in the plate was filtered into the corresponding chamber of a 48-array filter manifold of custom design manufactured by HyTek Plastics, Corvallis, Oreg 
+he diameter of each sector of the array was 2 mm, which enabled the detection of a culture with a cell titer as low as 1.3 ⫻ 103 cells/ml when 200 ␮l of sample was filtered 
+ome samples were also treated with 150 ␮l of GES lysis buffer (5 M guanidine thiocyanate, 100 mM EDTA, 0.5% Sarkosyl) while in the concentrator 
+he final volumes of the concentrated samples ranged from 10 to 30 ␮l 
+he PCR cocktail was treated with UV irradiation to reduce the contamination levels present in the reagents (6, 24) 
+he second PCR primer set had at least one primer that amplified from a position internal to the set of primers used in the first PCR 
+he concentration of the positive control DNA was measured in a Shimadzu UV160U spectrophotometer (Shimadzu Co., Kyoto, Japan) 
+TCC isolates were determined to be a mix of more than one species if RFLP bands from each digest added up to two or more times the length of the expected PCR product 
+efore sequencing, the PCR products were purified with the Qiaquick PCR purification kit (Qiagen, Valencia, Calif.) 
+he concentration of the purified product was measured in a Shimadzu UV160U or BioSpec-1601 spectrophotometer (Shimadzu Co., Kyoto, Japan) 
+hort sequences of HTCC isolates were added to the tree by using the parsimony insertion tool in ARB 
+he percent similarity of sequences was determined with the distance matrix tool in ARB; ambiguous bases were not included 
+owever, isolates from three of the four significant phylogenetic clades in this study, HTCC202 (OM43 clade),  TABLE 2 
+he sequences of the HTCC isolates used in the phylogenetic analyses have been deposited in GenBank under accession no 
+ culturability range of 0.4 to 14.3% was calculated for the different sample collections (Table 1) 
+he cell densities of the HTCC cultures ranged from 1.3 ⫻ 103 to 1.6 ⫻ 106 cells per  VOL. 68, 2002  HIGH-THROUGHPUT CULTURING  3881  HTCC175 were short rods (ca. 0.8 to 0.5 ␮m by 0.5 ␮m) 
+hese measurements are subject to sizeable error, since these small cells are at or approach the resolution of visible light microscopes 
+he failure of two cultures to amplify is probably attributable to problems with the DNA extractions and/or low cell densities in the cultures 
+he theoretical statistical estimation for the number of pure cultures versus mixed cultures that should be acquired was consistent with the RFLP analysis (Table 3) 
+f the 47 identified cultures, 4 were ␣-Proteobacteria (Fig. 3C) 
+ix isolates were members of the phylum Bacteroidetes 
+he 16S rRNA sequence for the SAR92 clone (M63811) was  FIG. 2 
+luorescence microscopy images of several of the novel isolates 
+his range of cell densities is the result of as few as 10.0 to as many as 23.3 doublings during the 3-week incubation period, assuming only one cell from the initial inoculum grew in the well (Table 2) 
+he maximum cell concentration attained (1.6 ⫻ 106 cells/ml) is similar to the natural bacterial numbers in seawater, which ranged from 8.1 ⫻ 105 to 5.6 ⫻ 106 cells per ml for the 11 inoculum samples collected 
+maging of the DAPI-stained isolates revealed unicellular organisms that were generally of small size 
+rom sequence positions 1 to 944, SAR92 is a member of the ␥-Proteobacteria; from positions 1120 to 1354, it is a member of the ␣-Proteobacteria 
+he identity of the sequence from 945 to 1119 is ambiguous 
+he ␥ portion of the SAR92 clone sequence represents a previously uncultured phylogenetic clade, we have termed the SAR92 clade 
+ercent similarities of the sequenced HTCC cultures from the four previously uncultured or undescribed phylogenetic clades were determined, in which several of the sequences were close matches to clones in GenBank (Table 4) (2, 5, 33) 
+he goal of this study was to evaluate a culturing format for the highthroughput isolation of uncultured strains of bacterioplankton that are commonly found in gene clone libraries from marine environments 
+he percentage of cells that could be cultured by the HTC approach was several orders of magnitude higher than that obtained by culturing on agar plates 
+ulturability was observed to be higher in the summer months (8.8%) than in the winter months (1.2%) 
+lternatively, the predominant strains or species of cells present in the winter could be organisms that are unable to grow under the laboratory conditions we provided, which were more similar to summer environmental conditions 
+lso, the summer months off the coast of Oregon are dominated by upwelling events that bring cool nutrient-rich water to the surface, which subsequently induces large algal blooms 
+ased on RFLP analysis, the majority of the cultures identified were pure cultures 
+his would indicate that most cultures were the result of only one of the inoculated cells growing in the well 
+owever, RFLP analysis would miss mixed cultures with differential cell lysis or where the primers used for PCR amplification fail to amplify all cell types in a culture 
+ome of the isolates that were cultured belong to phylogenetic clades that are highly abundant in marine clone libraries 
+lones in the SAR11 clade are abundant in clone libraries made from surface marine waters around the world (17) 
+hort sequences (approximately 600 bp) of HTCC isolates were added to the trees by using the parsimony insertion tool in ARB 
+n parentheses next to HTCC isolates is the number of total cultures from the subset of 47 identified cultures that are included in that clade 
+ICROBIOL.  TABLE 4. 16S rRNA sequence similarities of HTCC isolates from previously uncultivated clades to the nearest neighbors in GenBank HTCC isolate  E. coli positiona  SAR11  150  524–1362  ZD0409  OM43  144 165 168 174 185  712–1386 710–1386 711–1371 713–1362 719–1378  OM43 OM43 POCPN-5b OM43 OM43  100 100 99.8 100 100  SAR92  148 151 153 154 157 221 228 230 234  716–1384 716–1383 713–1360 716–1360 716–1351 716–1346 707–1266 28–1537 28–1537  MB11B11 MB11B11 MB11B11 Artic97A-6 Artic97A-6 MB11B11 SAR92 MB11B11 MB11B11  96.9 96.9 99.4 99.7 99.5 96.7 96.5 97.0 97.0  160 227 240  713–1383 705–1373 716–1360  OM60 MERTZ-2CM-38 MERTZ-2CM-38  Clade  OM60/OM241  a b  Clone  % Similarity  99.8  100 97.0 96.9  Position of the bases used to determine percent similarity 
+he approach we describe can be used to target specific bacterial groups for cultivation by screening cultures for the microorganisms of interest by means of fluorescence in situ hybridization, so that uncultured targets can be sought in a deliberate manner 
+o examine arrays of variables, it would be necessary to increase the rate at which cultures are examined 
+ombined with proteomics or microarrays, cultures of environmentally significant organisms can be used to examine the adaptations of organisms to environmental change 
+hylogenetic composition of bacterioplankton assemblages from the Arctic Ocean 
+acterial rhodopsin: evidence for a new type of phototrophy in the sea 
+n Proceedings of the 1989 International Symposium on Biohydrometallurgy 
+rimes (ed.), Nonculturable microorganisms in the environment 
+irchman (ed.), Microbial ecology of the oceans 
+hylogenetic diversity  HIGH-THROUGHPUT CULTURING  28. 29.  30. 31. 32.  33. 34.  35. 36.  37.  38. 39. 40.  3885  of marine coastal picoplankton 16S rRNA genes cloned from the continental shelf off Cape Hatteras, North Carolina 
+annasch, H 
+alows, H 
+aimberger, H 
+he results indicate that these newly developed HTC techniques yield isolates of many novel microbial strains, including members of previously uncultured groups that are believed to be abundant in coastal seawater.  * Corresponding author 
+er. 18:31–39. 2 
+owever, this extinction culturing method is relatively laborious 
+ur general approach to HTC is outlined (Fig. 1) 
+e give special thanks to Mike Rappé for indicating that SAR92 is a chimeric sequence 
+any microorganisms may need oligotrophic or other fastidious conditions to be successfully cultured 
+he purified PCR product was then sequenced by an ABI 373A or 377 automated sequencer (Applied Biosystems, Foster City, Calif.) 
+ells were stored in 7% dimethyl sulfoxide and/or 10% glycerol 
+he minimum density for a culture to be detectable was 1.3 ⫻ 103 cells per ml 
+he 253 wells that showed cell growth fall into four categories of cell density (Table 2) 
+etection of growth by using cell arrays 
+ cell array was made from each 48-well plate to examine wells for growth 
+he array was then scored for growth by fluorescence microscopy 
+ells were scored for growth after 3 weeks of incubation at 16°C 
+acterioplankton growth in seawater 
+he SAR86 cluster has recently been linked to a bacterial rhodopsin gene that facilitates light-mediated proton translocation (4) 
+hylogenetic analysis of ribosomal RNA operons from uncultivated coastal marine bacterioplankton 
+ravind, E 
+pudich, E 
+uzuki, E 
+., E 
+uff-Roberts, E 
+n E 
+chut, F., E 
+herr, E 

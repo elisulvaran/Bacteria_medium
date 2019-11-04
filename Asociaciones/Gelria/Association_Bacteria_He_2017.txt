@@ -1,0 +1,26 @@
+hey reported that in addition to the well-known foaming bacteria Nocardia and Desulfotomaculum, the relative abundance of several non-filamentous Lactobacillus and Bacillus spp., which produce biosurfactants, and Micrococcus and Streptococcus, which decrease media surface tension, increased significantly after foaming 
+cid-producing bacteria, such as Defluviitalea, Anaerosalibacter, Mobilitalea, Fastidiosipila, Guggenheimella, and Bacteroides also remarkably increased in RB after foaming (Fig. 4b, Supplementary Table S3)37–41 
+epidimicrobium ferriphilum gen nov, sp nov, a novel moderately thermophilic, Fe(III)-reducing bacterium of the order Clostridiales 
+embers of the order Corynebacteriales typically contain mycolic acids in their cell walls, and Corynebacterium was no exception, containing short-chain mycolic acids with a length of 22–36 carbon atoms (corynemycolic acids)29 
+n addition, Lactobacillus spp. also produces biosurfactants during fermentation (mainly proteinaceous, glycolipidic, glycoproteins, or glycolipopeptides)43,44 
+valuation of biosurfactant obtained from Lactobacillus pentosus as foaming agent in froth flotation 
+A and RB were both predominated by the acetoclastic methanogen Methanosaeta, whereas the mixotrophic methanogen Methanosarcina was the most abundant archaeal genus before foaming in RC 
+he predominant methanogens in RA shifted to Methanosarcina after foaming, but Methanosaeta and Methanosarcina remained dominant in RB and RC, respectively 
+he predominance of Methanosarcina in RC both before and after foaming was probably due to the accumulation of TAN during the early stages of digestion, which supported proliferation of Methanosarcina before foaming 
+orynebacterium is a genus within the family Corynebacteriaceae, classified to the order Corynebacteriales, which includes widely known foaming bacteria such as Gordoniaceae, Nocardiaceae, and Mycobacteriaceae 
+ellulose degradation in the human gut: Ruminococcus champanellensis expands the cellulosome paradigm 
+embers of this genus can ferment yeast extract, peptone, pyruvate, and L-arginine, yielding NH3 and acetic acid as the main products34 
+aldicoprobacter oshimai gen. nov., sp nov., an anaerobic, xylanolytic, extremely thermophilic bacterium isolated from sheep faeces, and proposal of Caldicoprobacteraceae fam. nov 
+nhanced methane production by semi-continuous mesophilic co-digestion of potato waste and cabbage waste: Performance and microbial characteristics analysis 
+hermophilic anaerobic digestion of pasteurised food wastes and dairy cattle manure in batch and large volume laboratory digesters: Focussing on mixing ratios 
+astidiosipila sanguinis gen. nov., sp nov., a new gram-positive, coccus-shaped organism from human blood 
+solation of previously uncultured rumen bacteria by dilution to extinction using a new liquid culture medium 
+axonomic compositions (a,c) and principal coordinates analysis (PCoA) (b,d) of archaeal and bacterial communities in three digesters 
+nly bacterial phyla or archaeal genera with a proportion higher than 1% in at least one sample are illustrated.  methanogenic activity (Fig. 2h,i) 
+oeller et al.8 found that high ammonia content in feedstock is a main cause of foaming in biogas plants in Germany.  Microbial community.  To elucidate the changes in microbial community structure before and after foaming, the archaeal and bacterial community compositions in each reactor were characterized using Illumina MiSeq high-throughput sequencing 
+s listed in the Supplementary Table S1, Good’s coverage was greater than 0.99 in both bacterial and archaeal communities, suggesting that the sequencing depth could reveal most bacterial and archaeal communities in the samples 
+CiEnTifiC RePorts | 7: 13701 | DOI:10.1038/s41598-017-14258-3  4  www.nature.com/scientificreports/ According to principal coordinate analysis (PCoA), no obvious changes in the archaeal communities of samples from RB or RC were found before and after foaming (Fig. 3b) 
+mpurities such as bones, plastic, and paper were removed manually before the FW was ground into homogenized slurry 
+hese bacteria can degrade cellulose or hemicellulose polysaccharides to produce acetate and lactate due to its ability to synthesize large extracellular multi-enzyme complexes termed cellulosomes31 
+aldicoprobacter, which is able to ferment various saccharides to produce lactate and acetate, increased by 878% (Supplementary Table S2)33 
+hang et al.6 observed a similar shift in dominant VFAs in a FW digester, and a severe foaming incident occurred after rapid VFA accumulation (to 20.00 g·L−1) 

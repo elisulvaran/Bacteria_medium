@@ -4,6 +4,7 @@ import re
 
 
 def funcion_busqueda(mystr,comp_dict):
+	print("Analyzing {} file...".format(file))
 	paper=[]
 	string=re.split('\. [A-Z]',mystr)
 	for i in string:
@@ -18,7 +19,6 @@ def funcion_busqueda(mystr,comp_dict):
 					if sentence not in asociaciones:
 						asociaciones.append(sentence)
 
-
 	with open(os.path.join(args.outputPath,"Association_Bacteria_"+file), mode="w") as oFile:
 		for oracion in asociaciones:
 			for palabra in oracion:
@@ -26,20 +26,17 @@ def funcion_busqueda(mystr,comp_dict):
 			oFile.write("\n")
 
 
-	
-
-
-
-
 if __name__ == '__main__':
 	parser=argparse.ArgumentParser\
-	    (description='Este script genera los datos de entrenamiento y de prueba')
+	    (description='Este script genera las asociaciones bacteria-medio')
 	 
 	
 	parser.add_argument('--path', dest='myPath', required=True, help='Ingrese la ruta del directorio de entrada.')
-	parser.add_argument('--outputpath', dest='outputPath', required=True,help='Ingrese la ruta del archivo de salida junto con su nombre y extension.')
+	parser.add_argument('--outputpath', dest='outputPath', required=True,help='Ingrese la ruta del directorio de salida')
 	parser.add_argument('--dict',dest='dictionary',required=True,help='Ingrese la ruta del diccionario.')
 	args=parser.parse_args()
+	#Ejemplo: python3 txt_read.py --path ruta_entrada/nombre_bacteria --outputpath ruta_salida/nombre_bactera --dict nombre_diccionario (bacteria o medio).
+
 
 	with open(args.dictionary) as Dict:
 		comp_dict=Dict.readlines()

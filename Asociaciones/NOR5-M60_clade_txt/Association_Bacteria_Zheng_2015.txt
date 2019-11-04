@@ -1,0 +1,23 @@
+uschak C, Leung MM, Beatty JT, Overmann J (2005) The puf operon of the purple sulfur bacterium Amoebobacter purpureus: structure, transcription and phylogenetic analysis 
+ippler B, Homuth G, Hoffmann T, Hungerer C, Schumann W, et al. (1997) Characterization of Bacillus subtilis hemN 
+nother three green sulfur bacteria genome information used to outgroup of phylogenetic tree, and their Genbank accession numbers are Chloroflexus aggregans DSM 9485 (NC_011831), Chloroflexus aurantiacus J-10-fl (NC_010175) and Roseiflexus castenholzii DSM 13941 (NC_009767) 
+omparison of the resonance Raman spectrum of the reaction centers of Rhodopseudomonas sphaeroides G1C with those of cis-trans isomers from b-carotene 
+he major carotenoids in Cb. litoralis KT71 is spirilloxanthin, the same as in Rhodospirillum rubrum DSM 467T [10] (Table S1) 
+otiadis D, Qian P, Philippsen A, Bullough PA, Engel A, Hunter CN (2004) Structural analysis of the reaction center light-harvesting complex I photosynthetic core complex of Rhodospirillum rubrum using atomic force microscopy 
+ang LY, Elliott M, Elliott T (1999) Conditional stability of the HemA protein (glutamyl-tRNA reductase) regulates heme biosynthesis in Salmonella typhimurium 
+aidner LA, Kirchman DL (2005) Aerobic anoxygenic photosynthesis genes and operons in uncultured bacteria in the Delaware River 
+agner-Döbler I, Ballhausen B, Berger M, Brinkhoff T, Buchholz I, et al. (2010) The complete genome sequence of the algal symbiont Dinoroseobacter shibae: a hitchhiker’s guide to life in the sea 
+oldareva2, Vladimir Yurkov3, Shi Yan4, Nianzhi Jiao1* 1 State Key Laboratory of Marine Environmental Science, Xiamen University, Xiamen, China, 2 Institute of Microbiology CAS, Opatovický mlýn, Třeboň, Czech Republic, 3 Department of Microbiology, University of Manitoba, Winnipeg, Canada, 4 Department of Molecular Ecology, Max Planck Institute for Marine Microbiology, Bremen, Germany  Abstract Background: Aerobic anoxygenic photototrophic (AAP) bacteria represent an important group of marine microorganisms inhabiting the euphotic zone of the ocean 
+ethodology/Principal Findings: Aerobic anoxygenic phototrophic (AAP) bacteria represent an important part of marine microbial communities 
+onclusions/Significance: Our investigations shed light on the evolution and functional implications in PGCs of marine aerobic anoxygenic phototrophs, and support the notion that AAP are a heterogenous physiological group phylogenetically scattered among Proteobacteria 
+nterestingly, the  Introduction Aerobic anoxygenic photototrophic (AAP) bacteria represent an important group of marine microorganisms inhabiting the euphotic zone of the ocean 
+ultureindependent studies have shown that marine AAP bacterial communities are mostly represented by Alpha- and Gammaproteobacteria [4,5] 
+ost cultured marine Alphaproteobacterial AAPs belong to Roseobacter clade and the order Sphingomonadales, which includes members of the genera Erythrobacter and Citromicrobium [6–8] 
+wo species were members of Gammaproteobacteria: Congregibacter (Cb.) litoralis KT71 [9,10] and marine Gammaproteobacterium HTCC2080 [11] 
+ur investigation shed light on the evolution and functional implications of PGCs of marine aerobic anoxygenic phototrophs.  Six strains were used for pigment analyses: Rsb. denitrificans OCh 114 (DSM 7001), Rsb. litoralis Och 149 (DSM 6996) and Erb. longus DSM 6997 were purchased from the DSMZ culture collections 
+éjà O, Suzuki MT, Heidelberg JF, Nelson WC, Preston CM, et al. (2002) Unsuspected diversity among marine aerobic anoxygenic phototrophs 
+oblı́žek M, Mlčoušková J, Kolber Z, Kopecký J (2010) On the photosynthetic properties of marine bacterium COL2P belonging to Roseobacter clade 
+uchs BM, Spring S, Teeling H, Quast C, Wulf J, et al. (2007) Characterization of a marine gammaproteobacterium capable of aerobic anoxygenic photosynthesis 
+ho JC, Stapels MD, Morris RM, Vergin KL, Schwalbach MS, et al. (2007) Polyphyletic photosynthetic reaction centre genes in oligotrophic marine Gammaproteobacteria 
+utin N, Béjà O (2005) Putative novel photosynthetic reaction centre organizations in marine aerobic anoxygenic photosynthetic bacteria: insights from metagenomics and environmental genomics 
+radella S, Allgaier M, Hoch C, Pauker O, Stackebrandt E, et al. (2004) Genome organization and localization of the pufLM genes of the photosynthesis reaction center in phylogenetically diverse marine Alphaproteobacteria 

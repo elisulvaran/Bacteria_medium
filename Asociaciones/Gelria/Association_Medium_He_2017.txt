@@ -1,0 +1,253 @@
+he main steps were as follows: (i) linking of ‘Y’ adapters; (ii) removal of adapter dimers with beads; (iii) PCR amplification to determine library concentrations; and (iv) generation of single-strand DNA fragments using sodium hydroxide 
+embers of this genus can ferment yeast extract, peptone, pyruvate, and L-arginine, yielding NH3 and acetic acid as the main products34 
+n addition, the proportions of microbial genera known to contribute to foam formation and stabilization significantly increased in foaming samples, including bacteria containing mycolic acid in cell walls (Actinomyces, Corynebacterium, etc.) and those capable of producing biosurfactants (Corynebacterium, Lactobacillus, 060F05-B-SD-P93, etc.) 
+MP: specific methane production; SBP: specific biogas production; VSr: volatile solid reduction; VFAs: volatile fatty acids; VFA/TA: the VFA to total alkalinity ratio; TAN: total ammonia nitrogen; FAN: free ammonia nitrogen. indicating that propionic acid substituted for acetate as the dominant VFA (Fig. 2b) 
+imilarly, the glutamate-degrading bacterium Gelria increased by 371% after foaming and can degrade a variety of amino acids and sugars in co-culture with hydrogenotrophic methanogens to yield NH4+, H2, and propionic acid as the main products36 
+actobacillus, which can ferment various carbohydrates to produce lactic acid as the main fermentation product, increased by 1151% after foaming in RC (Supplementary Table S4)37 
+actic acid is widely used as a foaming agent in the food industry15 
+or example, EPS-producing 060F05-B-SD-P93 increased in RA; Corynebacterium, which is capable of producing biosurfactant (phospholipids) and containing mycolic acid on its cell walls proliferated in RB; and Lactobacillus, which can synthesize foaming agents (lactate) and large amounts of biosurfactants, increased in RC 
+his genus can produce extracellular polymeric substances (EPS), which promote the formation of stable cellular aggregates and facilitate interspecies hydrogen transfer14 
+H4+ can form ammonium soaps with long-chain fatty acids (i.e., ionic compounds with both hydrophobic and hydrophilic ends in solution) and act as surface active material to promote the formation of foam 
+etabolic adaptation of microbial communities to ammonium stress in a high solid anaerobic digester with dewatered sludge 
+www.nature.com/scientificreports  OPEN  Received: 24 March 2017 Accepted: 9 October 2017 Published: xx xx xxxx  Investigation of foaming causes in three mesophilic food waste digesters: reactor performance and microbial analysis Qin He, Lei Li, Xiaofei Zhao, Li Qu, Di Wu & Xuya Peng Foaming negatively affects anaerobic digestion of food waste (FW) 
+o identify the causes of foaming, reactor performance and microbial community dynamics were investigated in three mesophilic digesters treating FW 
+he digesters were operated under different modes, and foaming was induced with several methods 
+roliferation of specific bacteria and accumulation of surface active materials may be the main causes of foaming 
+olatile fatty acids (VFAs) and total ammonia nitrogen (TAN) accumulated in these reactors before foaming, which may have contributed to foam formation by decreasing the surface tension of sludge and increasing foam stability 
+he relative abundance of acidproducing bacteria (Petrimonas, Fastidiosipila, etc.) and ammonia producers (Proteiniphilum, Gelria, Aminobacterium, etc.) significantly increased after foaming, which explained the rapid accumulation of VFAs and NH4+ after foaming 
+hese findings improve the understanding of foaming mechanisms in FW digesters and provide a theoretical basis for further research on effective suppression and early warning of foaming 
+naerobic digestion is the most feasible method for treating food waste (FW) and recovering renewable energy due to its high organic and moisture contents and low calorific value compared with traditional treatments such as incineration or landfills1 
+ougias et al.7 surveyed 80% of all centralized biogas plants in Denmark (i.e., 16 full-scale biogas plants) and reported that foaming incidents occur up to three times per year in most plants and greatly interfere with normal operations 
+oeller et al.8 and Subramanian et al.9 reported a similar phenomenon in Germany and America, respectively 
+xcessive foam may cause operational problems such as pump clogging and digester breakage, environmental problems due to overflowing sludge, and even financial losses due to reduced biogas production and extra maintenance cost7–9 
+hus, studies on the causes of foaming in anaerobic digesters are crucial to provide a theoretical basis for further research on effective foaming suppression and prevention measures 
+any studies have suggested that unsuitable or unstable operating conditions such as organic overloading, temperature fluctuation, and inadequate mixing contribute to anaerobic digestion foaming7–11 
+ther studies have indicated that excess surface active materials such as extracellular polymeric substances (EPS), lipids, proteins, and volatile fatty acids (VFAs) decrease surface tension and enhance foaming potential10,12 
+or example, Gordonia and Microthrix sp. have been found to proliferate after foaming events and largely contribute to foaming2,9–11 
+orrespondence and requests for materials should be addressed to X.P. (email: xuyapengcqu@126.com)  SCiEnTifiC RePorts | 7: 13701 | DOI:10.1038/s41598-017-14258-3  1  www.nature.com/scientificreports/  Figure 1 
+rganic loading rate (OLR) over time in three reactors (RA, RB, and RC) treating food waste (FW) under mesophilic temperature (37 °C ± 1 °C); OLR: organic loading rate (black solid lines) in kg VS·m−3·d−1 
+-I to A-V, B-I to B-V, and C-I to C-V represent operation stages for RA, RB, and RC, respectively 
+amples before and after foaming were chosen for microbial community analysis; sampling during stages A-III and A-IV for RA, stages B-IV and B-V for RB, and stages C-IV and C-V for RC.  biogas reactor after a foaming event induced by excess organic loading 
+hey reported that in addition to the well-known foaming bacteria Nocardia and Desulfotomaculum, the relative abundance of several non-filamentous Lactobacillus and Bacillus spp., which produce biosurfactants, and Micrococcus and Streptococcus, which decrease media surface tension, increased significantly after foaming 
+s far as we know, most studies have reported only the occurrence of foaming in such systems, whereas few have investigated the changes in microbial communities before and after foaming events or specific microorganisms that cause foaming 
+o identify the universal causes of foaming in mesophilic FW digesters, FW fermentation was carried out through wet digestion in a completely stirring tank reactor (CSTR) (RA) and through dry digestion in a plug flow reactor (PFR) (RB) and CSTR (RC) 
+oaming was induced in these digesters by temperature fluctuation and mixing interruption (RA), organic overloading (RB), and ammonia inhibition (RC) (Fig. 1) 
+o elucidate the factors contributing to foam formation in these three reactors, physicochemical indicators were monitored during fermentation and microbial community structures before and after foaming were investigated using MiSeq high-throughput sequencing technology 
+his study provides a theoretical basis for timely foam suppression and effective early warning in anaerobic digesters used to treat FW.  Results and Discussion  Reactor performance 
+he digesters were initiated at the same time and acclimated to the same organic loading rate (OLR) of 3.0 kgVS·m−3·d−1 
+emperature fluctuation, mixing interruption, and increased OLR were introduced into RA; the OLR in RB was increased with a specific gradient until organic overloading was induced; RC was operated under the initial OLR and experienced ammonia accumulation and inhibition 
+fficiency and stability parameters for each reactor were monitored during operation (Fig. 2) 
+A operated stably at 3.0 kgVS·m−3·d−1 during the first 70 days (acclimation and stable stages) (Fig. 2a) 
+emperature fluctuations (sludge temperature decrease from 37 °C ± 1 °C to 30 °C ± 1 °C) and mixing interruptions were introduced in RA for a 10 h duration on days 71, 72, and 75, and little foam appeared on the reactor surface 
+ntense foam appeared on day 87 and lasted for 43 days 
+he total VFA concentration in the foam layer was much higher than that in the liquid layer during the foaming phase (e.g., 14.28 g·L−1 in the upper foam layer and 12.36 g·L−1 in the lower liquid layer on day 95) 
+erformance parameters for RA (a–c), RB (d–f), and RC (g–i) 
+igestion efficiency indicators including SMP, SBP, and VSr (a,d,g), and stability indicators including VFA/TA, VFAs (b,e,h), TAN, FAN, and pH (c,f,i) are presented 
+-I to A-V, B-I to B-V, and C-I to C-V respectively represent operation stages for RA, RB, and RC as shown in Fig. 1 
+FAs have structures with free polic ends (carboxylic ends) that exhibit surfactant properties; thus, they tend to rise with fine gas bubbles and accumulate at the air–liquid interface 
+ccumulated VFAs could decrease the surface tension of digested liquid, increase foaming tendency, and thereby may promote foam formation10,12 
+imilarly, accumulation of VFAs was also observed before or during foaming in RB and RC, and VFAs with more carbons such as propionate obviously increased (Fig. 2e,f) 
+hang et al.6 observed a similar shift in dominant VFAs in a FW digester, and a severe foaming incident occurred after rapid VFA accumulation (to 20.00 g·L−1) 
+rtner et al.4 reported VFA accumulation prior to foaming in a slaughterhouse waste digester, and VFA concentration maintained a high level of 12.50 g·L−1 during foaming 
+axonomic compositions (a,c) and principal coordinates analysis (PCoA) (b,d) of archaeal and bacterial communities in three digesters 
+owever, VFAs continued to accumulate, and dense foam formed in this reactor during days 220–233 
+oe et al.12 reported that NH4+ increases foam formation and stability 
+oeller et al.8 found that high ammonia content in feedstock is a main cause of foaming in biogas plants in Germany.  Microbial community.  To elucidate the changes in microbial community structure before and after foaming, the archaeal and bacterial community compositions in each reactor were characterized using Illumina MiSeq high-throughput sequencing 
+s listed in the Supplementary Table S1, Good’s coverage was greater than 0.99 in both bacterial and archaeal communities, suggesting that the sequencing depth could reveal most bacterial and archaeal communities in the samples 
+ifferent methanogens were predominant in the reactors before and after foaming (Fig. 3a) 
+A and RB were both predominated by the acetoclastic methanogen Methanosaeta, whereas the mixotrophic methanogen Methanosarcina was the most abundant archaeal genus before foaming in RC 
+he predominant methanogens in RA shifted to Methanosarcina after foaming, but Methanosaeta and Methanosarcina remained dominant in RB and RC, respectively 
+ethanosarcina was predominant in RA after foaming with high VFA and ammonia accumulation, due to its strong tolerance to high ammonia and VFA concentrations compared with Methanosaeta17,19,20 
+ecause the plug flow operation mode of RB protected multicellular aggregates formed by Methanosaeta from shear and turbulence and these aggregates could be used to resist inhibition caused by VFA and TAN, Methanosaeta was able to maintain high relative abundance during the foaming stage19 
+he predominance of Methanosarcina in RC both before and after foaming was probably due to the accumulation of TAN during the early stages of digestion, which supported proliferation of Methanosarcina before foaming 
+CiEnTifiC RePorts | 7: 13701 | DOI:10.1038/s41598-017-14258-3  4  www.nature.com/scientificreports/ According to principal coordinate analysis (PCoA), no obvious changes in the archaeal communities of samples from RB or RC were found before and after foaming (Fig. 3b) 
+irmicutes and Bacteroidetes were the most common major phyla in the three reactors before foaming, accounting for 56.2% to 89.0% of total sequences (Fig. 3c) 
+embers of these two phyla are closely related to hydrolysis and acidification of organic substrates and they have been reported as predominant phyla in other mesophilic anaerobic digesters treating FW13,19,21 
+he proportion of another major phylum Bacteroidetes did not obviously change in RC, but substantially increased and decreased in RA and RB, respectively 
+oreover, the relative abundance of Actinobacteria obviously increased in the three reactors after foaming, reaching up to 12.17%, 26.03%, and 16.39% in RA, RB, and RC, respectively 
+ost members of Actinobacteria have a filamentous structure, which aides in the hydrolysis and acidification processes of anaerobic digestion, and they also are able to metabolize many kinds of substrates, including protein, lipid, lignin, cellulose, sugar, and amino acid22,23 
+he lower abundance of Actinobacteria in RA and RC compared with RB may be due to the negative effect of shear and turbulence on the growth of filaments in these two CSTRs 
+he relative abundance of Synergistetes increased by 295% and 106% after foaming in RA and RC, respectively 
+ts members mainly include anaerobic amino-acid-degrading bacteria and syntrophic acetate-oxidizing bacteria that can be co-cultured with methanogens24 
+o evaluate the correlations between these changes and foaming as well as identify specific microorganisms related to foam formation, we further analyzed the changes in bacterial genera after foaming.  Bacterial analysis at the genus level.  The relative abundances of many genera obviously increased after foaming (Supplementary Tables S2–S4; Fig. 4) 
+PS consists of organic macromolecules produced extracellularly by microorganisms and has been found in the intracellular space of microbial aggregates 
+he main components of EPS such as polysaccharides and proteins can form ionisable compounds with hydrophobic and hydrophilic ends in solution 
+herefore, EPS tends to form an organic film at the air–liquid interface, with the hydrophobic end toward the gas phase and the hydrophilic end toward the liquid phase 
+his organic film reduces the surface tension of the air–liquid interface and increases the stability of foam10,12 
+ollivignarelli et al.25 reported that foam formation in a thermophilic membrane reactor was correlated to the presence of EPS, in particular the soluble protein fraction, which was consistent with the results of Cosenza et al.26 and Di Bella et al.27 
+imilar to Gordonia, Microthrix, and other common foam-forming bacteria in activated sludge systems, Actinomyces strains found in the three reactors included filamentous bacteria; the presence of mycolic acids on the cell walls of these bacteria made cells extremely hydrophobic9,10,28,29 
+ue to their hydrophobic properties and potential for biosurfactant production, filaments tend to attach to biogas bubbles and accumulate on the air– liquid interface, resulting in lower surface tension of sludge and enhanced foaming15,30 
+hese bacteria can degrade cellulose or hemicellulose polysaccharides to produce acetate and lactate due to its ability to synthesize large extracellular multi-enzyme complexes termed cellulosomes31 
+aldicoprobacter, which is able to ferment various saccharides to produce lactate and acetate, increased by 878% (Supplementary Table S2)33 
+he relative abundance of Petrimonas was highest (29.34%) in foaming samples, and this value was 689% higher than that before foaming 
+embers of this genus can hydrolyze many types of carbohydrates and organic acids in the presence of elemental sulfur to produce a large amount of acetic acid34 
+he relative abundance of Gallicola, which is able to metabolize peptone and amino acids to NH3, acetic acid, and butyric acid, increased by 456%37 
+orynebacterium is a genus within the family Corynebacteriaceae, classified to the order Corynebacteriales, which includes widely known foaming bacteria such as Gordoniaceae, Nocardiaceae, and Mycobacteriaceae 
+embers of the order Corynebacteriales typically contain mycolic acids in their cell walls, and Corynebacterium was no exception, containing short-chain mycolic acids with a length of 22–36 carbon atoms (corynemycolic acids)29 
+n addition, Petrimonas, Ruminococcaceae_NK4A214, Aminobacterium, and Caldicoprobacter, which significantly increased in RA, respectively increased by 75%, 77%, 696%, and 318% in RB after foaming (Fig. 4b, Supplementary Table S3) 
+cid-producing bacteria, such as Defluviitalea, Anaerosalibacter, Mobilitalea, Fastidiosipila, Guggenheimella, and Bacteroides also remarkably increased in RB after foaming (Fig. 4b, Supplementary Table S3)37–41 
+he relative abundances of Tissierella and  SCiEnTifiC RePorts | 7: 13701 | DOI:10.1038/s41598-017-14258-3  5  www.nature.com/scientificreports/  Figure 4 
+elative abundance and statistical analysis of the difference between relative abundances of bacterial communities in RA (a), RB (b), and RC (c) before and after foaming 
+nly bacterial genera that significantly increased in abundance after foaming and with relative abundance higher than 0.5% in foaming samples are represented.  Tepidimicrobium, which can metabolize proteins and amino acids, increased by 54% and 441% after foaming, respectively37,42 
+uminococcus, which can secrete extracellular enzymes for degradation of cellulose or hemicellulose to produce formic and acetic acid, increased in proportion by 1029% in RC after foaming (Supplementary Table S4)45 
+phaerochaeta increased by 110% after foaming, and this genus can ferment carbohydrates to produce acetate, formate, and ethanol46 
+inally, Actinomyces, acid-producing bacteria (Mobilitalea, Petrimonas), and ammonia-producing bacteria (Proteiniphilum, Aminobacterium, Bacteroides, and Ruminococcaceae_NK4A214) proliferated in RC after foaming, similar to the trends in RA and RB (Fig. 4c) 
+n summary, intense foam was induced in the three FW digesters by different methods including temperature disturbance/mixing interruption, organic overloading, and ammonia inhibition 
+xtremely hydrophobic filaments or their products with surface active properties increased foam formation and stability 
+n addition, the relative abundance of acid-producing bacteria (Petrimonas, Fastidiosipila, etc.) and ammonia producers (Proteiniphilum, Gelria, Aminobacterium, etc.) increased after foaming, which may help to explaine the rapid accumulation of VFAs and NH4+ after foaming 
+s shown previously, high concentrations of VFAs may greatly reduce the surface tension of liquid and increase foaming tendency 
+H4+ may promote foam formation and stability as well as inhibit VFA consumption, thereby promoting VFAs accumulation and further strengthening the foaming potential 
+herefore, the proliferation of acids and ammonia producers may potentially contribute to foam formation in reactors 
+he association between foaming and these specific microorganisms requires to be further investigated 
+urther works is needed to investigate the corresponding foaming thresholds of these specific bacteria (e.g., Actinomyces) and evaluate the feasibility of these bacteria as early warning indicators 
+his information can help realize effective early warning and control methods for foaming during anaerobic digestion of FW.  Measures for foam prevention and suppression 
+ut it can be useful for developing hypotheses that foaming in the mesophilic digesters were likely involved a combination of accumulated surface active materials (such as VFAs and NH4+) and proliferation of specific microorganisms 
+ased on the hypotheses, we present recommendations for foam prevention and suppression below 
+luctuations in operational conditions (e.g., mixing disturbance and temperature fluctuation), excessive organic loading, and accumulation of inhibitors, which may cause fluctuations in methanogenic activity, must be prevented to avoid VFA accumulation 
+or example, Ca2+ and Mg2+ tend to combine with VFAs to form insoluble salts, and therefore decrease the surface active properties of VFAs12 
+urthermore, the addition of Ca2+ and Mg2+ can increase the alkalinity in digesters and reduce inhibition on methanogenic bacteria due to acidification 
+n addition, reducing the OLR or ceasing feeding for a period of time can limit the production of surfactants (VFAs, NH4+, EPS, etc.) due to the hydrolysis and acidification of new substrate, and thereby ensure full degradation of accumulating surface active materials8 
+oreover, reducing the OLR will decrease the substrate available to microbes, which will reduce the propagation of filamentous bacteria and biosurfactant producing bacteria 
+inally, to eliminate or reduce the contribution of accumulated NH4+ to foaming, ammonia stripping methods can be considered48.  Materials and Methods  Substrates and inoculum 
+mpurities such as bones, plastic, and paper were removed manually before the FW was ground into homogenized slurry 
+he FW slurry was stored at −18 °C and thawed at 4 °C for 1–2 days prior to use 
+he pH of the FW was 6.31 ± 0.21, total solids (TS) 28.20 ± 3.41%, volatile solids (VS) 26.61 ± 3.25%, VS to TS ratio (VS/TS) 93.61 ± 1.54%, and carbon content to nitrogen ratio (C/N) 14.73 ± 0.34 
+he sludge was passed through a 10-mesh sieve to remove large inorganic particles, after which it was crushed and evenly mixed 
+he pH was 7.35 ± 0.13, TS 8.28 ± 0.63%, VS 5.54 ± 0.38%, VS/TS 67.05 ± 2.62%, and C/N 10.06 ± 0.43 
+he sludge for RB and RC inoculate was collected from the same biogas pool as that for RA and received the same pretreatments 
+he pH of inoculum for RB was 7.54 ± 0.11, TS 23.53 ± 0.27%, VS 11.71 ± 0.13%, VS/ TS 49.78 ± 0.14%, and C/N 8.06 ± 0.02 
+he sludge was acclimated for a period of time and then inoculated into RC 
+he pH was 7.54 ± 0.13, TS 26.15 ± 0.60%, VS 15.95 ± 0.56%, VS/TS 60.97 ± 0.73%, and C/N 10.02 ± 0.15 
+xperimental setup and operation 
+A was a CSTR with a total volume of 50 L and working volume of 30 L 
+emperature fluctuations and stirring interruptions occurred on days 71, 72, and 75, and little foam appeared on the reactor surface 
+B was a PFR with a total volume of 30 L and working volume of 18 L 
+he initial OLR was 3.0 kgVS·m−3·d−1, and OLR was increased following a specific gradient to 4.1, 5.5, 6.8, and 8.5 kgVS·m−3·d−1 after 1, 1, 2, and 3 hydraulic retention times (HRTs) 
+he HRT for each stage was 45, 35, 25, 20, and 15 days, respectively 
+he air outlet clogged because of foaming in RB, and the internal pressure continuously increased, causing the reactor cover to crack on day 214 
+C was also a CSTR with the same volume and temperature control mode as RA 
+eactor contents were mixed intermittently at 45 rpm (5 min on and 55 min off) with an automatic motorized stirrer 
+he pH, biogas production, and biogas composition for RA were monitored in-line 
+or RB and RC, pH was measured using a pH meter every day before feeding 
+iogas production was measured using a wet gas flow meter, and biogas composition was determined every 3 days using a BIOGAS 5000 Portable Biogas Analyser (Geotech, UK) 
+S, VS, TA, TAN, VFAs, and C/N were analyzed according to methods described in our previous report14 
+S reduction (VSr) and FAN concentration were calculated according to the method reported in our previous study14 
+as volume was corrected to standard temperature and pressure (0 °C and 101.325 kPa) 
+pecific biogas production (SBP) and specific methane production (SMP) represent the volume of biogas or methane produced by adding 1 kg of organic matter based on VS content.  Microbial community analyses 
+icrobial communities before and after foaming were investigated using Illumina MiSeq high-throughput sequencing 
+hree 10-mL sludge samples were collected in sterile 15-mL centrifuge tubes (LabServe, Ireland) from each of the reactors before and after foaming 
+he exact sampling times are shown in Fig. 1 and Supplementary Table S5 
+xtracted DNA from the same reactor and stage was mixed together and purified using the AxyPrep DNA gel Recovery Kit (AXYGEN, USA) 
+he final DNA concentrations were determined by NanoDrop 2000 UV-vis spectrophotometer (Thermo Scientific, USA), and DNA quality was checked by 1% agarose gel electrophoresis 
+rimers for bacteria were 338 F (5′-ACTCC TACGG GAGGC AGCAG-3′) and 806R (5′-GGACT ACCAG GGTAT CTAAT-3′)51,52, and those for archaea were Arch344F (5′-ACGGG GYGCA GCAGG CGCGA-3′) and Arch915R (5′-GTGCT CCCCC GCCAA TTCCT-3′)17,53 
+ll PCR reactions were performed in triplicate 20 μL mixtures containing 4 μL of 5 × FastPfu Buffer, 2 μL of 2.5 mM dNTPs, 0.8 μL of each primer (5 μM), 0.4 μL of FastPfu Polymerase (TransGen AP221-02, TransGen Biotech, China), 0.2 μL of BSA, 10 ng of template DNA, and ddH2O to a final volume of 20 μL 
+CR amplification was performed in GeneAmp 9700 (ABI, USA) under the following conditions: initial denaturation at 95 °C for 3 min, followed by 35 cycles of denaturation (95 °C for 30 s), annealing (55 °C for 30 s), extension (72 °C for 45 s), and a final extension at 72 °C for 10 min 
+he PCR products were purified by using AxyPrep DNA gel Recovery Kit (AXYGEN, USA) and quantified using QuantiFluor -ST (Promega, USA) according to the manufacturer’s protocol 
+he sample libraries were pooled, and paired-end sequencing (2 × 300 bp) was conducted with an Illumina MiSeq platform (Illumina, USA) according to the standard protocols (Majorbio Bio-Pharm Technology Co 
+aw fastq files were demultiplexed and quality-filtered using QIIME software (version 1.17 http://qiime.org/ scripts/assign_taxonomy.html) with the following criteria: (i) the reads were truncated at any site receiving an average quality score of <20 over a 50-bp sliding window; (ii) primers were matched allowing a maximum of two mismatched nucleotides, and reads containing ambiguous bases were removed; and (iii) sequences with overlaps longer than 10 bp were merged according to the overlapping sequence 
+perational Taxonomic Units (OTUs) were clustered with a 97% similarity cutoff using UPARSE (version 7.1 http://drive5.com/uparse/) and chimeric sequences were identified and removed using UCHIME 
+hannon and Simpson diversity indices as well as species richness estimators, ACE and CHAO1, were obtained using the MOTHUR program (version 1.30.1 http://www.mothur.org/wiki/Schloss_SOP#Alpha_diversity) 
+escriptive statistics, including mean and standard deviation (s.d.), were carried out for all physicochemical data using PASW Statistics 
+he two-sided Chi-square test SCiEnTifiC RePorts | 7: 13701 | DOI:10.1038/s41598-017-14258-3  8  www.nature.com/scientificreports/ with DP, asymptotic with CC CI method, and fdr multiple test correction were conducted to identify significant differences between bacterial relative abundances in samples before and after foaming using STAMP software54.  Data Availability 
+ther datasets supporting the conclusions of this article are included within the article and its Supplementary Informatica files.  References  1 
+oam formation in a downstream digester of a cascade running fullscale biogas plant: Influence of fat, oil and grease addition and abundance of the filamentous bacterium Microthrix parvicella 
+fficient anaerobic mono-digestion of N-rich slaughterhouse waste: influence of ammonia, temperature and trace elements 
+hermophilic anaerobic digestion of pasteurised food wastes and dairy cattle manure in batch and large volume laboratory digesters: Focussing on mixing ratios 
+naerobic digestion foaming in full-scale biogas plants: a survey on causes and solutions 
+ormation and suppression of foam in biogas plants - practical experiences 
+urvey of causes and prevention/control of anaerobic digester foaming – a WERF study 
+ffect of substrates and intermediate compounds on foaming in manure digestion systems 
+ comparison of microbial characteristics between the thermophilic and mesophilic anaerobic digesters exposed to elevated food waste loadings 
+ mesophilic anaerobic digester for treating food waste: process stability and microbial community analysis using pyrosequencing 
+ynamics of microbial community in a mesophilic anaerobic digester treating food waste: Relationship between community structure and process stability 
+nhanced waste activated sludge digestion using a submerged anaerobic dynamic membrane bioreactor: performance, sludge characteristics and microbial community 
+ffect of increasing total solids contents on anaerobic digestion of food waste under mesophilic conditions: performance and microbial characteristics analysis 
+acteria and archaea involved in anaerobic digestion of distillers grains with solubles 
+he role of EPS in fouling and foaming phenomena for a membrane bioreactor 
+rofiling bulking and foaming bacteria in activated sludge by high throughput sequencing 
+ong-term effect of pH on short-chain fatty acids accumulation and microbial community in sludge fermentation systems 
+ombining free and aggregated cellulolytic systems in the cellulosome-producing bacterium Ruminiclostridium cellulolyticum 
+aldicoprobacter oshimai gen. nov., sp nov., an anaerobic, xylanolytic, extremely thermophilic bacterium isolated from sheep faeces, and proposal of Caldicoprobacteraceae fam. nov 
+he Family Porphyromonadaceae in The Prokaryotes-Other Major Lineages of Bacteria and The Archaea (ed 
+he phylum Synergistetes in The Prokaryotes-Other Major Lineages of Bacteria and The Archaea (ed 
+haracterization of Defluviitalea saccharophila gen. nov., sp nov., a thermophilic bacterium isolated from an upflow anaerobic filter treating abattoir wastewaters, and proposal of Defluviitaleaceae fam. nov 
+iosurfactant/s from Lactobacilli species: properties, challenges and potential biomedical applications 
+phaerochaeta globosa gen. nov., sp nov and Sphaerochaeta pleomorpha sp nov., free-living, spherical spirochaetes 
+icrobial community composition is related to soil biological and chemical properties and bacterial wilt outbreak 
+nhanced methane production by semi-continuous mesophilic co-digestion of potato waste and cabbage waste: Performance and microbial characteristics analysis 
+ater Res. 120, 190–198 (2017).  Acknowledgements  This study was financially supported by the Key Projects in the National Science & Technology Pillar Program during the Eleventh Five-year Plan Period of China (No. 2010BAC67B01).  Author Contributions  Q.H. and X.P. conceived and designed the experiments 
+.H., L.Q., X.Z., and D.W. carried out the anaerobic digestion 
+.H. and L.L. performed the microbial sampling, DNA extraction, and bioinformatics analysis 
+.H. and L.L. collected data and performed the statistical analyses 
+ll the authors have read and approved the final manuscript.  Additional Information  Supplementary information accompanies this paper at https://doi.org/10.1038/s41598-017-14258-3 
+ublisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations 
+pen Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made 
+f material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder 
+owever, foaming in anaerobic digesters is a major problem that disrupts the stable operation of biogas plants2–6 
+herefore, researchers have begun to analyze the effects of key microorganisms to identify the causes of foaming 
+any common filamentous bacteria found in activated sludge are induced by the use of sewage sludge as inoculum or substrate 
+owever, the cause of foaming in anaerobic digestion systems that use substances other than sewage sludge as substrate is unclear 
+ougias et al.15 investigated the bacterial community in a thermophilic manure-based Key Laboratory of Three Gorges Reservoir Region’s Eco-Environment, Ministry of Education, Chongqing University, Chongqing, 400045, PR China 
+chematic diagram of the experimental operation 
+owever, because microbial communities are sensitive to operational conditions, the microbial community structure in foaming digesters with different temperatures or substrates may vary from those found in the studies mentioned above13,15 
+ue to differences in digester conditions as mentioned above, we could not directly use existing research results to analyze the causes of foaming in mesophilic anaerobic digesters used to treat FW 
+peration conditions for the three FW digesters are shown in Fig. 1 
+uring the perturbation stage, VFAs rapidly accumulated to 4.65 ± 1.52 (s.d.) g·L−1, which was significantly higher than the concentration during the steady stage (p = 0.00) (Fig. 2b) 
+uring the foaming stage, VFAs continually accumulated up to 13.45 ± 4.08 (s.d.) g·L−1 with a maximum concentration of 18.78 g·L−1 
+he change in VFA composition may have been due to accumulation of electrons by acidogenic bacteria using VFAs with more carbons (e.g., propionate or n-valerate) after H2 accumulation in the system16 
+n addition, total ammonia nitrogen (TAN) in the three reactors exhibited sustained accumulation (Fig. 2c,f,i) 
+any studies have shown that ammonia accumulation can inhibit process stability, especially the cytotoxic free ammonia nitrogen (FAN), causing cytoplasmic K+ loss via an ammonia/K+ exchange reaction17,18 
+n the present study, the gradual accumulation of FAN led to rapid VFA accumulation in RC 
+he VFA build-up reduced the pH to 7.52 ± 0.08 (s.d.), which shifted the TAN equilibrium from predominance of free ammonia to the less inhibitory dissociated form (ammonium ion), leading to a decrease in the inhibition of  SCiEnTifiC RePorts | 7: 13701 | DOI:10.1038/s41598-017-14258-3  3  www.nature.com/scientificreports/  Figure 3 
+elative abundance is defined as the number of sequences affiliated with that taxon divided by the total number of sequences per sample (%) 
+ifferences in predominant methanogens may be due to variation in reactor configuration or inhibitory substances among the three reactors 
+herefore, it is not possible to relate methanogens to foam formation, which supports the results of Kougias et al.15 
+n contrast, bacteria played a major role in the formation of foam10,15 
+n RA, the relative abundance of 060F05-B-SD-P93 was 180 times higher after foaming than before (Fig. 4a) 
+n this study, the relative abundance of Actinomyces increased by 802% after foaming 
+herefore, proliferation of Actinomyces was correlated to the formation of foam 
+he relative abundance of Ruminococcaceae_NK4A214, a novel rumen bacterium within the family Ruminococcaceae, increased by 3926%32 
+n addition to proliferation of Actinomyces after foaming in RB (Fig. 4b), the proportion of Corynebacterium, which belongs to the phylum Actinobacteria, increased by 55% (Supplementary Table S3) 
+nd further works with more rigorous experimental designs is needed to verify the hypotheses raised in this study 
+nd the prevention of ammonia inhibition can be achieved by adjusting the C:N ratio of feedstock or adding the appropriate amount of trace elements47,48 
+hen foaming occurs, a fast-responding defoaming agent can be added to efficiently suppress foam under the condition that the components do not inhibit the anaerobic digestion process or adversely affect the environment49 
+ncreasing the stirring rate will also disrupt the growth of filamentous bacteria such as Actinomyces 
+o remove residual organic substrate, the sludge was incubated at 37 °C ± 1 °C for two weeks 
+he sludge was further centrifuged to meet the TS requirements for dry anaerobic digestion (20–40%)50 
+emperature in the reactor was maintained by a vessel jacket connected to a circulating hot water source 
+o enhance foaming, the OLR was increased to 4 gVS·L−1·d−1 on day 83 
+he temperature control mode was the same as that for RA 
+ludge (80 ml) was sampled daily before feeding for the  physicochemical analysis 
+otal DNA was extracted from 0.3 g sludge with the E.Z.N.A 
+oil DNA Kit (Omega, USA) according to the manufacturer’s instructions 
+ MiSeq library was prepared using the TruSeq DNA Sample Prep Kit (Illumina, USA) according to the manufacturer’s protocol 
+he raw reads were deposited into the NCBI Sequence Read Archive (SRA) database with accession No 
+equence reads were normalized before estimation of diversity indices (i.e., normalized in mothur to the sample with the lowest number of sequences) (Supplementary Table S1) 
+he phylogenetic affiliation of each 16S rRNA gene sequence was analyzed with the RDP Classifier (version 2.2 http://sourceforge.net/projects/rdp-classifier/) against the Silva (vesion SSU119 http://www.arb-silva.de) 16S rRNA database using a confidence threshold of 70%.  ®  ®  ™  ™  Statistical analysis 
+CoA was performed on the weighted UniFrac phylogenetic distance matrices using R statistical software (http:// www.r-project.org/) to visualize differences in microbial community compositions 
+he original sequencing data are available at the NCBI SRA database with accession No 
+eviewing the anaerobic digestion of food waste for biogas production 
+roceedings of the Water Environment Federation. 7876–7900 (2012). 10 
+icrobial ecology of anaerobic digesters: the key players of anaerobiosis 
+oaming in membrane bioreactors: identification of the causes 
+epidimicrobium ferriphilum gen nov, sp nov, a novel moderately thermophilic, Fe(III)-reducing bacterium of the order Clostridiales 
+ellulose degradation in the human gut: Ruminococcus champanellensis expands the cellulosome paradigm 
+yrosequencing reveals the key microorganisms involved in sludge alkaline fermentation for efficient short-chain fatty acids production 
+.H. wrote the paper 
+he images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material 
+ienen, T., Kleyböcker, A., Verstraete, W. & Würdemann, H 
+to, T., Yoshiguchi, K., Ariesyady, H 
+FAs with more than two carbons accounted for 90.51% ± 8.61% of total VFAs, with propionate accounting for 67.21% ± 11.84%, SCiEnTifiC RePorts | 7: 13701 | DOI:10.1038/s41598-017-14258-3  2  www.nature.com/scientificreports/  Figure 2 
+ev. 38, 383–392 (2014). 2 
+oaming is also prone to occur in anaerobic digesters used to treat FW5,6 
+herefore, ammonia inhibition is often manifested as VFA accumulation 
+minobacterium, which increased by 2583% after foaming, is a typical amino acid-degrading anaerobic bacterium that can ferment various amino acids (alanine, valine, leucine, etc.) when co-cultured with hydrogen-utilizing methanogens35 
+nly bacterial phyla or archaeal genera with a proportion higher than 1% in at least one sample are illustrated.  methanogenic activity (Fig. 2h,i) 
+n addition, Lactobacillus spp. also produces biosurfactants during fermentation (mainly proteinaceous, glycolipidic, glycoproteins, or glycolipopeptides)43,44 
+he sludge samples were stored at −80 °C immediately after collection until DNA extraction 
+astidiosipila sanguinis gen. nov., sp nov., a new gram-positive, coccus-shaped organism from human blood 
+ewage sludge treatment in a thermophilic membrane reactor (TMR): factors affecting foam formation 
+., Voudrias, E 
+anidi, N., Tyrrel, S. & Cartmell, E 
+osenberg, E., DeLong, E 
+., Balk, M., Zoetendal, E 

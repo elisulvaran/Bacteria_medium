@@ -1,0 +1,33 @@
+he predicted ORFs of the IMCC3088 genome also include genes encoding enzymes for the Entner-Doudoroff pathway, the pentose phosphate pathway, ABC transporters for inorganic ions and amino acids, sulfur oxidation (soxCDXYZAB), aromatic compound degradation, and C1 compound metabolism 
+ll Rights Reserved.  Vol. 193, No. 13  Genome Sequence of Strain IMCC3088, a Proteorhodopsin-Containing Marine Bacterium Belonging to the OM60/NOR5 Clade䌤 Yoonra Jang, Hyun-Myung Oh, Ilnam Kang, Kiyoung Lee, Seung-Jo Yang, and Jang-Cheon Cho* Division of Biology and Ocean Sciences, Inha University, Incheon 402-751, Republic of Korea Received 18 April 2011/Accepted 25 April 2011  the open reading frames (ORFs) and noncoding RNAs was performed by using the RAST (rapid annotation using subsystem technology) server (1), and predicted ORFs were cross-checked with the COG, KEGG, and SwissProt databases 
+he IMCC3088 genome has 2,858 predicted ORFs, one copy each of the 5S, 16S, and 23S rRNA genes, and 34 predicted tRNAs 
+n contrast to the existence of a puf operon in C. litoralis KT71 and HTCC2080, there are no predicted puf genes in the genome of IMCC3088 
+his important marine clade includes Congregibacter litoralis (6, 7) and extinction cultures designated HTCC2080, HTCC2148, and HTCC2246 (3, 4), in addition to several uncharacterized marine oligotrophic bacteria 
+ull genomic analyses of two representative strains (HTCC2080 and C. litoralis KT71) in the OM60/NOR5 clade have shown that they are aerobic anoxygenic phototrophs (AAnP) harboring photosynthetic gene clusters (puf) (4, 6) 
+hylogenetic analysis based on 16S rRNA gene sequences showed that strain IMCC3088 belongs to the NOR5-4 subclade (9) of the OM60/ NOR5 clade, which contains OM241 (U70702) and DS029 (DQ234113) 
+he strain is also closely related to cultured marine isolates of C. litoralis KT71 (94.8%), Haliea rubra CM4115a (94.7%), and strain HTCC2080 (93.9%) 
+ total of 7,015,036 short reads were generated, reaching a depth of 86-fold genome coverage, and assembled into 183 contigs (AEIG01000001 to AEIG01000183) by using Velvet (10) 
+nnotation of  This study was supported by the 21C Frontier Program of Microbial Genomics and Applications and by the Korea Research Foundation Grant funded by the Korean Government (MEST, KRF-2008-521C00263) 
+ho, J.-C., and S 
+ultivation and growth characteristics of a diverse group of oligotrophic marine Gammaproteobacteria 
+löckner, and R 
+ulturability and in situ abundance of pelagic bacteria from the North Sea 
+ailing address: Division of Biology and Ocean Sciences, Inha University, Incheon 402-751, Republic of Korea 
+-mail: chojc @inha.ac.kr. 䌤 Published ahead of print on 6 May 2011. 3415  Downloaded from http://jb.asm.org/ on February 16, 2018 by guest  Strain IMCC3088, cultivated from the Yellow Sea, is a novel isolate belonging to the OM60/NOR5 clade and is closely related to clone OM241, Congregibacter litoralis, and strain HTCC2080 
+ere, the genome sequence of strain IMCC3088 is presented, showing the absence of photosynthetic gene clusters and the presence of proteorhodopsin.  3416  GENOME ANNOUNCEMENTS  rium capable of aerobic anoxygenic photosynthesis 
+uchs, and B 
+he photosynthetic apparatus and its regulation in the aerobic gammaproteobacterium Congregibacter litoralis gen. nov., sp. nov 
+enome sequences of strains HTCC2148 and  J 
+iogeography and phylogeny of the NOR5/OM60 clade of Gammaproteobacteria 
+., and E 
+nstead, the IMCC3088 genome is predicted to encode proteorhodopsin, followed by the gene clusters for the biosynthesis of the retinal chromophore of rhodopsin (crtEIBY), suggesting that proteorhodopsin is functional 
+train IMCC3088 could be the first bacterium that harbors proteorhodopsin among the members of the OM60/NOR5 clade, indicating the existence of diverse metabolic potential in the members of this marine clade 
+he genome sequence of strain IMCC3088 is available in GenBank under accession number AEIG00000000.  The OM60/NOR5 clade, part of the oligotrophic marine Gammaproteobacteria group, comprises up to 11% of the bacterial communities on the ocean surface (3, 5, 6, 9) 
+owever, genome analyses of strain HTCC2148 (8), a member of the NOR5-8 subclade (9), showed the absence of photosynthetic gene clusters in the genome, indicating that there would be more diverse metabolism other than AAnP in the OM60/NOR5 clade 
+train IMCC3088 was isolated from a surface seawater sample collected from the Yellow Sea off the coast of Incheon, South Korea, by using standard dilution techniques on an oligotrophic medium, marine 1/10R2A 
+train IMCC3088 was chosen for genome sequencing to reveal diverse metabolic potential in the OM60/NOR5 clade 
+TCC2080, belonging to the OM60/NOR5 clade of the Gammaproteobacteria 
+pring, S., H 
+MC Genomics 9:75. 2 
+hole-genome shotgun sequencing of strain IMCC3088 was performed by Macrogen, Inc. (Seoul, South Korea), with library construction using 5 ␮g genomic DNA based on Solexa paired-end sequencing technology (2) 
+ccurate whole human genome sequencing using reversible terminator chemistry 

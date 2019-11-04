@@ -1,0 +1,254 @@
+ASB treatment of chemical synthesis-based pharmaceutical wastewater containing rich organic sulfur compounds and sulfate and associated microbial characteristics 
+he mobile phase was a mixture of ultrapure water with formic acid (0.1%) (mobile phase A), and methanol (mobile phase B) pumped at a ﬂow rate of 0.8 mL/min through the column 
+he change of dominant VFAs concentration such as acetic acid, propanoic acid, isobutyric acid, butyric acid, isovaleric acid and valeric acid during the entire operation of the two reactors are shown in Fig. 2 
+omparison with the E2 reactor, in E1 reactor, VFAs accumulated mainly included isobutyric acid, butyric acid, isovaleric acid and valeric acid 
+nd isobutyric acid concentration varied between 23 and 262 mg/L from the days 80e142 and butyric acid concentration varied between 20 mg/L and 105 mg/L from the days 80e136 
+sovaleric acid and valeric acid were detected at the max high concentration160 and 70 mg/L, respectively 
+owever, acetic and propionic acid degradation were not affected by the addition of CFX and displayed a similar degradation trend in E1 and E2 reactor respectively 
+bove results implied that the addition of CFX not inhabit the activity of methanogens using acetic as substrate and bacteria using propionic acid as substrate during long-term operation, whereas the removal of isobutyric acid, butyric acid, isovaleric acid, valeric acid and others organics pollutants were adversely affected 
+nd several studies mentioned potential function of microorganisms assigned into Spirochaetae in AD mainly related to re hydrolysis of organic matter and production of acetic acid (Rivie et al., 2009) 
+edimentibacter can ferment amino acid to butyrate (Breitenstein et al., 2002) and Macellibacteroides which mesophilic rods with a fermentative and obligately anaerobic type of metabolism is able to use protein as electron donor (Jabari et al., 2012) 
+hough Petrimonas and Bacteroides are hydrolysis/fermentative bacterium, and most of them produce acetic acid, propionate acid, formate and succinic acid as s et al., 2005; Hatamoto et al., 2014), the major end-products (Agne they were not the main function microorganism of hydrolysis/ fermentation by the effect of long-term CFX addition in the system 
+t was also the main reason that propionic acid degradation was not affected by the addition of CFX 
+esides, it is known that Clostridia are efﬁcient hydrogen producers and various Clostridia strains degrade organic acids in a syntrophic association with hydrogenotrophic methanogens 
+he relative abundance of Syntrophus and Syntrophomonas which could convert various organic acids produced in acidogenesis steps to hydrogen and acetate for subsequent methanogenesis in S1 was lower than S2 
+ethanomassiliicoccus utilizing the hydrogen and methanol as the substrate methanogen was also enriched in E1 and E2 systems 
+nd acetoclastic, utilizing hydrogen and methanol methanogenesis were also concluded.  Fig. 5 
+he Shannon diversity index provides not only the simply species richness (i.e., the number of species present) but how the abundance of each species is distributed (the evenness of the species) among all the species in the community 
+Chemosphere 184 (2017) 215e223  Contents lists available at ScienceDirect  Chemosphere journal homepage: www.elsevier.com/locate/chemosphere  The long-term impact of cefalexin on organic substrate degradation and microbial community structure in EGSB system Ling-Wei Meng, Xiang-Kun Li*, Shu-Tao Wang**, Li-Li Liu, Kai-Li Ma, Jie Zhang School of Municipal and Environmental Engineering, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin 150090, China  h i g h l i g h t s  g r a p h i c a l a b s t r a c t   The effect of antibiotic cefalexin on performance of the EGSB system is recoverable.  The accumulation of cefalexin byproducts affects the reactor running.  The bacterial genera Gelria and Syntrophorhabdus played a key role on the degradation of organic pollutants.  Hydrogenotrophic methanogens had higher competitive advantages than others methanogens.  Fungi played an important role on the complex organics removal.  a r t i c l e i n f o  a b s t r a c t  Article history: Received 19 February 2017 Received in revised form 28 May 2017 Accepted 30 May 2017 Available online 31 May 2017  In order to investigate long-term effect of cefalexin (CFX) on the performance of expanded granular sludge bed (EGSB) system and microbial community structure, two 1.47 L EGSB reactors E1 and E2 were designed and run for 224 days treating with synthetic antibiotic wastewater 
+he addition of CFX resulted in the continual increasing of soluble COD (sCOD) and accumulation of VFAs in the efﬂuent of E1 system 
+esides, it was found that the accumulation of CFX by-products D-1, D-2 and D-3 was negative correlation with sCOD removal efﬁciency 
+or the bacterial community, Gelria and Syntrophorhabdus which can ferment propionate and other organic pollutants as their substrate were obviously enriched in E1 system 
+eng et al. / Chemosphere 184 (2017) 215e223  and related treating critical processes such as carbon removal (Amin et al., 2006; Chelliapan et al., 2006) 
+or example, tracycline exerted a terminal/lethal effect at 8.5 mg/L on the microbial community under anaerobic conditions, which caused the inhibition of substrate/COD utilization and biogas generation and even a total collapse of the reactor (Cetecioglu et al., 2013) 
+owever, extremely high levels of tylosin in the antibiotic manufactured wastewater were still compatible with stable performance (Chelliapan et al., 2006), and it was also conﬁrmed that high concentration of amoxicillin was unlikely to create problems in anaerobic reactor (Meng et al., 2015b) 
+sually, in anaerobic system, four main steps are involved for organic pollutants removal (COD degradation) (Narihiro and Sekiguchi, 2007): hydrolysis (protein), fermentation (sugars and amino acid), acetogenesis (VFAs) and methanogenesis (acetic acid, H2 and CO2) 
+nd previous studies have also proven this by investigating the impacts of some antibiotics on microbial communities, especially on bacterial and archaea communities (Kor-Bicakci et al., 2016; Aydin et al., 2015; Meng et al., 2015a) 
+or example, according to our previous studies, increasing concentration of amoxicillin from 20 to 200 mg/L in the inﬂuent, Firmicute, Bacteroidetes, Cloacimonetes, Ignavibacteriae and Thermotogae were the most dominant bacterial groups and Methanosaeta was the main compositions of archaea community in amoxicillin manufacture wastewater treatment system (Meng et al., 2015b) 
+owever, Deltaproteobacteria became the major bacterial groups and archaea afﬁliated with Methanomethylovorans hollandica-like methylotroph was abundant in anaerobic reactors treating antibiotic-bearing (mainly streptomycin) wastewater (Deng et al., 2012) 
+nd the long-term adverse impact of sulfamethoxazole was quite variable for fermentative bacteria and methanogenic archaea fractions of the microbial community (Cetecioglu et al., 2015) 
+ome kind of antibiotics may lead to the favored growth of some special bacterial and archaea groups, contributing to maintain the stable operation of the treatment system 
+xcept for bacteria and archaea, eukarya such as fungi can also decompose complex organic compounds in wastewater treatment system (Guest and Smith, 2011), but it is normally neglected 
+ecent research show ascomycota can decompose complex organic compounds such as PAHs, oil and phenol in wastewater (Bankar et al., 2009; Deng et al., 2010) 
+or biological treatment solutions, white-rot fungus Phanerochaete chrysosporium has been one of the most studied species due to its ability for degrading phenolic compounds (Jaouani et al., 2005), and Trametes versicolor has been proved to be a powerful decontaminant of different types of pollutants such as dyes, chlorobenzenes, polybrominated ﬂame renquez et al., 2004; Marco-Urrea tardants and pharmaceutical (Bla et al., 2009a, 2009b; Rodríguez-Rodríguez et al., 2012) 
+esides, pervious research found the fungal carbon-degrading gene groups were signiﬁcantly correlated with the oxytetracycline and penicillin concentration, and the role of fungal functional genes was enhanced by antibiotics (Zhang et al., 2013) 
+homa sp was conﬁrmed could biotransform some pharmaceuticals and personal care products (PPCPs) in the aquatic environment (Hofmann and Schlosser, 2015) 
+ome studies also showed that fungal treatment could remove most of the pharmaceutical active compounds in hospital wastewater (Mir-Tutusaus et al., 2017) and urban  wastewater (Badia-Fabregat et al., 2015) 
+ence, fungi in antibiotic wastewater treatment process may play a key role in removal of complex organic pollutants and antibiotics 
+FX is effective against both gram-positive and gram-negative organisms like penicillin 
+nd CFX is one of the most prescribed antibiotics and is produced in great quantities, which concentration is high in synthetic drug-based efﬂuents (Sundararaman, 2009) 
+herefore, for CFX manufacture wastewater, microbial toxicity and recalcitrance of CFX may affect sCOD removal efﬁciency in the treatment systems, leading to the treatment systems breakdown 
+urthermore, some research indicated the by-products of antibiotics degradation were found to be more toxic than antibiotics themselves (Li et al., 2008; Wang and Lin, 2012) and might affect the performance of reactor 
+owever, little has been done to evaluate the impacts of the CFX or its byproducts on the performance of treatment system and microbial community in biological treatment systems from a holistic view 
+his study aimed to reveal how the addition of high CFX concentration (simulating CFX manufacture wastewater) into the inﬂuent affected the EGSB reactor run and microbial community structure response in the systems 
+o answer this question, the long-term inhibitory effect of CFX was evaluated by monitoring accumulation of volatile fatty acids (VFAs), sCOD removal efﬁciency and CFX by-products 
+urthermore, microbial community structures including bacteria, archaea and fungi in the EGSB system were analyzed by high-through sequencing technology. 2 
+aterials and methods 2.1 
+peration of EGSB reactor systems Two the same EGSB reactors (E1 and E2), which had the liquid volume of 1.47L as SFig. 1, were inoculated using granular sludge from an EGSB reactor that is used to treat antibiotic wastewater contained amoxicillin and ﬂocculent sludge from a full scale municipal wastewater treatment plant, inoculated at a volume ratio of approximately 1:1 
+he composition of synthetic wastewater from the fermentation liquor of antibiotics constituted about 6500 mg sCOD/L mainly contained acetate, propionate, isobutyrate, butyrate, isovalerate and other main organic pollutants (as STable 1) 
+n the whole operation term, the inﬂuent pH value maintained at 7 ± 0.2 and the HRT was 24 h. 2.2 
+he experimental approach The operation of the two EGSBs included a start-up period of approximately 74 days was fed with fermentation liquor of antibiotic manufacture process without CFX to allow acclimation and establishment of steady-state conditions 
+he E2 reactor was fed without any antibiotics was operated for the entire research period under identical conditions, and this served as the control reactor. 2.3 
+ampling and chemical analysis Analysis of sCOD was conducted in accordance with standard method (APHA, 2005) 
+FX concentration was measured using an HPLC (warers1525-2996-tcm) equipped with a Waters Sunﬁre C18 (5 mm  20 mm  4.6 mm) guard column and a Jasco ProSar/Dynamax UV detector 
+eaks were monitored by UV absorbance at 254 nm and 270 nm with a sensitivity of 0.005 AUFS 
+ calibration curve was prepared with ﬁve standards (0e300 mg/L), and the correlation coefﬁcient (r2 ¼ 0.999) and method detection limit (MDL) (0.1 mg/L) were determined 
+ater quality samples were preserved as indicated and analyzed within their holding time. 2.4 
+ampling and DNA extraction Sludge samples were collected at day 0 (inoculated sludge is the same in E1 and E2 reactor, marked S0) and at day 224 in the E1 (marked S1) and E2 (marked S2) reactor 
+oncentrations and quality of the extracted DNA were checked by spectrophotometric analysis on a NanoDrop ND-2000 (Thermo Fisher Scientiﬁc, USA) and electrophoresis on a 1% (weight/volume) agarose gel 
+PCR assays and PCR ampliﬁcation of 16S rRNA and ITS genes and sequencing with Illumina MiSeq QPCR assays were performed for the quantiﬁcation of bacterial 16S rRNA, archaea 16S rRNA and fungal rRNA genes using primers 341f/758r, 931f/M1100r and FR1/FF390, respectively (STable 2) 
+esides, the experiment condition and statistical analysis were showed in the previous study (Deng et al., 2012) 
+he DNA was ampliﬁed with a set of primers targeting of the bacteria (16S rRNA), archaea (16S rRNA) and fungi gene (ITS) 
+heir forward and reverse primers were showed in STable 3, respectively 
+he 50 mL reaction solution consisted of 10 ng of the extracted DNA template, 2.5 U of Plantium® Taq DNA polymerase (Invitrogen, USA), 5 mL of the supplied 10  TAP buffer (Takara, China), 0.5 mL of dNTPs (10 mM), and 0.5 mL of the combined forward and reverse primers 
+he PCR proceeded under the following conditions: 94  C for 3 min; 5 cycles of 94  C for 30 s, 45  C for 20 s, and 65  C for 30 s; 20 cycles of 94  C for 20 s, 55  C for 20 s, and 72  C for 30 s; followed by a ﬁnal extension at 72  C for 5 min 
+he PCR products were puriﬁed with the SanPrep Column DNA Gel Extraction Kit (Sangon, China) and quantiﬁed with a Qubit 2.0 ﬂuorometer (Invitrogen, USA) 
+he amplicons from different samples were mixed in equimolar amounts and sequenced on the Illumina MiSeq platform with the MiSeq Reagent Kit v3 (Illumina, USA).  217  and screened for chimeric sequences with the pre.cluster command and chimera.uchime command, respectively, in Mothur (Schloss et al., 2009) 
+he OTU-based analysis of the alpha diversity indices, including richness, the Shannon index, abundance-based coverage estimator (ACE), Chao1, and coverage, was performed with Mothur (version v.1.30. http://www.mothur. org/wiki/Schloss_SOP#Alpha_diversity) 
+ach sequence was assigned to a taxonomic rank in RDP Classiﬁer (version 2.2 http:// sourceforge.net/projects/rdp-classiﬁer/) and a conﬁdence value of 70% 
+n the taxonomic ranking of families with relative abundances of >1%, the unclassiﬁed sequences were picked, and grouped into OTUs with 97% identity 
+ccession numbers of the bacteria (16S rRNA), archaea (16S rRNA) and fungi (ITS) in the NCBI Sequence Read Archive were showed in the STable 4. 2.7 
+tatistical analysis The conversion percent of CFX by-products was standardized to further analysis using the formula, Z ¼ X/Y, where X is relative concentration of CFX by-products in the efﬂuent (Calibration curve of CFX was applied in CFX by-products calculation), and Y is the CFX concentration in the inﬂuent 
+tatistical analyses were conducted using SPSS 21.0 software package (Statistical Program for Social Sciences) to examine the relationship between COD removal efﬁciency and conversion percent of CFX by-product 
+esults and discussion 3.1 
+t the very beginning, during the days 0e74, the two EGSB systems both run without CFX, and they exhibited parallel stable sCOD removal ability, with an average efﬂuent sCOD of 903.49 ± 42 mg/L, which corresponded to sCOD removal efﬁciency of around 85% 
+he adaptors, barcodes, and primers were trimmed 
+ow-quality and short (<200 bp) sequences were removed with the PRINSEQ-lite ver. 0.19.5 software (Schmieder and Edwards, 2011) 
+erformance of the EGSB reactor for the removal of COD from the day 0e224 in the E1 and E2 reactor.  218  L.-W 
+owever, sCOD removal ability began to recover from the day 122 in E1 system, and about 28 days later, sCOD removal almost recovered to the same level with E2 system 
+bove results showed the addition of CFX had a disadvantageous effect on the removal of sCOD and this effect was recoverable in the system 
+hen treating amoxicillin manufacture wastewater, the microorganisms activity restrained by amoxicillin can be recovered and adapt high concentration amoxicillin condition step by step in the system (Meng et al., 2015b) 
+oth amoxicillin and CFX belong to b-lactam antibiotics, and CFX may have similar (not same) toxicity function to microbial community with amoxicillin 
+rganic composition removal The component of CFX synthetic wastewater is complex as mentioned above, and there are protein, sugars, aromatic compounds and TVFAs mainly contributing to sCOD 
+Fig. 2 showed sCOD, TVFAs and other complex organic (components details was showed in STable 1, in this study was all called ‘others’ contrast to sCOD and TVFAs) removal results 
+s shown in SFig. 2-A, sCOD of E2 efﬂuent kept relative stable, and TVFA slightly accumulated in the early operation and all degraded few days later 
+omparison with E2, in E1 system, sCOD accumulated as soon as CFX added, and according to SFig. 2-B, sCOD mainly accumulated from TVFAs and other organic pollutants 
+FAs proﬁle in the inﬂuent and efﬂuent of E1 and E2 from the day 68 to 224d.  3.1.3 
+FX removal and by-products accumulation in the E1 reactor The removal efﬁciency of CFX reached to 99% through degradation or conversion into its by-products and the efﬂuent concentration of CFX was around 0.2 mg/L in E1 as shown in Fig. 3-A 
+he conversion  percent of three by-products named D-1, D-2 and D-3 are showed in Fig. 3-B 
+rom the days 74e116 the D-1 and D-2 had obvious accumulation and the highest conversion percent could reach to 0.05 and 0.13, respectively 
+dditionally, D-3 was accumulated after the day 94, and had obvious increase trendy after the day130 
+ichness and diversity of microbiological phylotypes By performing the alignment, the operational taxonomic units (OTUs) (3% distance) were clustered for the sample S0, S1 and S2, and the results were showed in Table 2 
+ample S1 had the highest bacterial and archaea diversity among the three samples 
+here is a complex and toxicity organic substrate in antibiotic wastewater contained CFX 
+herefore, the high diversity of bacterial and archaea communities in E1 can be considered as a response of against the toxicity substrate environment 
+efore further taxonomic analysis, the rarefaction curves of the three samples were also determined, as is illustrated in SFig. 5 B, A and F 
+he rarefaction curves of the three samples reach level at the sequencing depth of above the 20000, suggesting that this sequencing depth was almost cover the whole microbiological including the bacteria, archaea and fungi diversity in the EGSB reactors. 3.4 
+acterial taxonomic identiﬁcation and change  Fig. 3 
+he removal efﬁciency of CFX (A) and the conversion percent of three byproducts named D-1, D-2 and D-3(B).  results showed that, with the running of EGSB reactor, the degradation pathway of CFX was affected 
+esides, some research indicated CFX degradation by-products were found to be more toxic than itself (Li et al., 2008; Wang and Lin, 2012) 
+nd, in the study, it was found that D-1, D-2 and D-3 were negative correlation with sCOD removal efﬁciency as shown in Table 1 from the days 75e116, especially D-1 (R ¼ 0.799, P ¼ 0.000 (<0.01)) 
+t was possible that accumulation of D-1, D-2 and D-3 affected the activity and structure of microbial community, which led to the unstable performance of reactor. 3.2 
+uantiﬁcation of different microbial groups by real-time PCR As SFig. 4 shown, the copy ratio of archaea/bacteria was higher in the S1 and S2 than the S0 
+he results showed that, with the running of the E1 and E2 reactor, archaea become one of the dominant microbial groups that contributed to the removal of sCOD in the anaerobic condition 
+owever, the copy ratios of fungi/bacteria were different to that of archaea/bacteria, and were decreased in S1 (9.95  105) and S2  To identify the phylogenetic diversity of bacterial community in S0, S1 and S2, we assigned qualiﬁed reads to known phyla, class and genera in Fig. 4 
+ig. 4-P showed that there were 21 (S0), 23 (S1) and 24 (S2) identiﬁed bacterial phyla in three samples respectively 
+nd the composition of phyla Proteobacteria, Bacteroidetes, Firmicutes, and Spirochaetae showed similar in these samples 
+or Proteobacteria, the relative abundance in S1 (19.54%) and S2 (17.96%) was lower than that in S0 (44.82%) 
+herefore, on phyla level, Proteobacteria and Bacteroidetes did not affected by the addition of CFX 
+pirochaetae showed the highest relative abundance in S2 (33.32%), lower in S1 (23.31%), and the lowest in S0 (6.10%) 
+he addition of CFX led to the relative abundance of Spirochaetae decline in E1, and then might affect hydrolysis of organic matter 
+he class level identiﬁcation of the bacterial communities in S0, S1, and S2 is illustrated in Fig. 4-C 
+n Proteobacteria phylum, the  Table 1 Relationship between COD removal efﬁciency and the conversion percent of by-products 
+eng et al. / Chemosphere 184 (2017) 215e223  Table 2 The richness and diversity estimators of the microbiological sequences 
+axonomic classiﬁcation of high-through from bacterial communities of S0, S1, and S2 at the (P) phylum, class(C) and (G) genus levels 
+elative abundance was deﬁned as the number of sequences afﬁliated with that taxon divided by the total number of sequences per sample.  most dominant classiﬁed subgroup was b-Proteobacteria, d-Proteobacteria, and g-Proteobacteria. g-Proteobacteria decreased to 2.52% and 4.66% in S1 and S2 respectively, and b-Proteobacteria was decreased to 1.67% in S1 
+n exception is that the relative abundance of d-Proteobacteria was increased in S1 compared to S2 and S0 
+n fact, d-Proteobacteria was the main groups in anaerobic reactors treating antibiotic (Deng et al., 2012), and had been also suggested to be speciﬁcally associated with antibiotic containing aquatic environments (Li et al., 2011) 
+nd the phylum Firmicute was mainly divided into Clostridia, Bacilli, and  Erysipelotrichia in the three samples 
+lostridia were enriched in E1 and E2, especially in E1 
+elria was enriched both in the E1 and E2 system 
+eng et al. / Chemosphere 184 (2017) 215e223  culture and was able to grow in co-culture with a hydrogenotrophic methanogen (Plugge et al., 2002) 
+oincidently in the whole operation both of E1 and E2, propionate was not accumulated, so this phenomenon illustrated that the activity of Geleria was not affected by the toxicity of CFX or its by-products 
+t is obligated anaerobic bacterium and can oxidize aromatic compounds as substrate 
+listipes, Smithella, Syntrophobacter, Spirochaeta, Sedimentibacter, and Macellibacteroides also increased in E1 system contrast to E2 with variable degrees respectively, which have been guessed that their growth have an advantage under the addition of CFX and play a vital role on keeping the stable system operation 
+listipes (3.42% in the S1) could be detected in most hospital efﬂuent and wastewater treatment plant samples and presented stronger correlation with the variation of the concentration of some antibiotics (include penicillin G) (Varela et al., 2014) 
+mithella (2.26% in the S1) and Syntrophobacter (0.40% in the S1) has been suggested as functional syntrophic benzoate oxidizing bacteria and were described as syntrophic propionate-oxidizing bacteria in partnership with H2/ formate utilizers like Methanospirillum or Methanoculleus, together with acetate consumers as Methanosaeta (Ariesyady et al., 2007; Narihiro et al., 2015) 
+esides, a reference species of the genus Spirochaeta (1.60% in the S1), namely Spirochaeta caldaria sp able to ferment various sugars to organic acids and H2/CO2 (Pohlschroeder et al., 1994), suggesting that the corresponding bacterial population likely played the major role in sugars fermentation 
+or Wohlfahrtiimonas and Lutispora, it seems that they are not affected by the addition of CFX in the system E1 and E2 
+omparison with the S0 (22.23%), in the S1 and S2, the relative abundance of Wohlfahrtiimonas decreased to 1.43% and 1.33% respectively 
+esides, in the three samples, Comamonas, Syntrophus, Syntrophomonas, Petrimonas, Paludibacter, bacteroides and Pseudomonas could also be detected in three samples and some take great part in the community 
+omamonas which is a versatile aromatic degradation for phenolics, polycyclic aromatic hydrocarbons and heterocyclic aromatics (Peng et al., 2013) was not enriched in S1 
+owever, it cannot be ignored there were mainly included uncultured, no rank and unclassiﬁed bacterium that might played a  221  key role on the hydrolysis/fermentative of organic pollutant and CFX degradation in E1 and E2 systems. 3.5 
+rchaea taxonomic identiﬁcation During typical AD systems, complex organic matter can be degraded and fermented by bacteria and converted ﬁnally into methane by methanogens as part of their energy metabolism 
+nderstanding the taxonomic distribution and change of methanogens allows us to infer methano-genic pathway in the systems 
+he phylum Euryarchaeota covered almost all the archaea population in each sample and relative abundance reached to above 99% 
+ethanobacterium which is hydrogenotrophic methanogens took great relative abundance in S2 (69.29%) and S0 (54.78%) as shown in Fig. 5 
+n the contrary, hydrogenotrophic Methanospirillum, Methanoculleus, and Methanolinea were only enriched and accounted for 9.80% of all methanogen in S1 
+his phenomenon keep well corresponding with the results of bacteria analysis, as the bacteria genus Geleria that is able to grow in co-culture with hydrogenotrophic methanogens was enriched in the E1 and E2 system, especially in the E1 system, thus hydrogenotrophic methanogens might have higher competitive advantages than others methanogens in the ESGB system treating the CFX wastewater reactor 
+iven above information, there was more functional diversity in the E1 systems than in the E2 systems and indicates that it was beneﬁcial to keep the stable operation of reactor and resist toxic substance and the shocking from the change of operation conditions 
+axonomic classiﬁcation of high-through from archaeas communities of S0, S1, and S2 at the genus levels 
+ungi taxonomic identiﬁcation In anaerobic wastewater treatment system, it contains a variety of microorganisms such as bacteria, archaea and fungi 
+n general, the function of bacteria and archaea in the system has always been concerned, whereas fungi metabolizing wide spectrum of organic substances has been neglected 
+o identify the phylogenetic diversity of fungi community in S0, S1 and S2, we assigned qualiﬁed reads to known phyla and genera in Fig. 6 
+he phylum Ascomycota was the lowest in relative abundance in S0 (46.35%), higher in the S1 (92.45%), and the highest in S2 (97.56%) (Fig. 6-P) 
+he results show Ascomycota which can decompose complex organic compounds such as PAHs, oil and phenol in wastewater (Deng et al., 2010) was enriched in E1 and E2 system 
+n generous level, the gene Pseudallescheria belonging to Ascomycota were enriched in S1 (76.91%) and S2 (91.89%), whereas there was relative low abundance of 33.53% in S0 (Fig. 6-G) 
+ervious study showed P. boydii, a weakly pathogenic fungus, has the abilities of both dechlorination and oxidation dioxins in the bioreactor process (Ishii and Furuichi, 2007; Ishii et al., 2009) 
+n fact, the fermentation liquor contained complex organic pollution such as cyanide, benzpyrole and so on, but dioxins weren't  detected 
+herefore, for Pseudallescheria, the main function in the E1 and E2 reactor was unclear 
+he other gene Phoma (1.25%) belonging to the phylum Ascomycota only could be detected in the E1 system, and has the degradation ability to PPCPs (such as the antibiotic sulfonamides) in the wastewater 
+he Trichosporon belonging to the phylum Basidiomycota could be detected in the E1 and E2 and their relative abundance were 5.95% and 0.60%, respectively 
+ great variety of Trichosporon species has a high potential to biodegrade phenolic compounds and a wide range of toxic compounds 
+o the speciﬁc appearance of Phoma and Trichosporon in E1 showed that these microorganisms maybe contribute to complex organic pollution or CFX degradation. 4 
+esides, the high diversity of bacterial and archaea communities in the E1 system can be considered as a response of against the toxicity substrate environment 
+he bacterial genera Gelria and Syntrophorhabdus played a key role on the degradation of organic pollutants, and hydrogenotrophic methanogens was the main pathway for methane generation in the antibiotic wastewater treatment system 
+urthermore, the fungi genera Trichosporon and Phoma played an important role on degradation of complex organic pollution in the system 
+cknowledgments This work was supported by “National Science Foundation of China” (Grant No. 51478138), and also supported by the National High Technology Research and Development Program of China (2012AA063503) and State Key Lab of Urban Water Resource and Environment (HIT ES200902) 
+axonomic classiﬁcation of high-through from fugin communities of S0, S1, and S2 at the (P) phylum and (G) genus levels 
+PHA Standard Methods for the Examination of Water and Wastewater, 21th ed 
+unctional bacterial and archaeal community structures of major trophic groups in a full-scale anaerobic sludge digester 
+nvironmental and industrial applications of Yarrowia lipolytica 
+eclassiﬁcation of Clostridium hydroxybenzoicum as Sedimentibacter hydroxybenzoicus gen. nov., comb. nov., and description of Sedimentibacter saalensis sp. nov 
+iodegradation and reversible inhibitory impact of sulfamethoxazole on the utilization of volatile fatty acids during anaerobic treatment of pharmaceutical industry wastewater 
+acteroides luti sp. nov., an anaerobic, cellulolytic, and xylanolytic bacterium isolated from methanogenic sludge 
+iochemical and physicochemical processes contributing to the removal of endocrine-disrupting chemicals and pharmaceuticals by the aquatic ascomycete Phoma sp 
+etermination of penicillin G and its degradation products in a penicillin production wastewater treatment plant and the receiving river 
+traw- and slurry-associated prokaryotic communities differ during cofermentation of straw and swine manure 
+erformance and microbial community proﬁles in an anaerobic reactor treating with simulated PTA wastewater: from mesophilic to thermophilic temperature 
+echlorination of Marco-Urrea, E., Pe 1,2,3- and 1,2,4-trichlorobenzene by the white-rot fungus Trametes versicolor 
+bility of whiteMarco-Urrea, E., Pe rot fungi to remove selected pharmaceuticals and identiﬁcation of degradation products of ibuprofen by Trametes versicolor 
+ffects of ﬂuoroquinolone antibiotics on reactor performance and microbial community structure of a membrane bioreactor 
+nﬂuence of the amoxicillin concentration on organics removal and microbial community structure in an anaerobic EGSB reactor treating with antibiotic wastewater 
+harmaMozaz, S., Martinez-Alonso, M., Gaju, N., Caminal, G., Sarra ceuticals removal and microbial community assessment in a continuous fungal treatment of non-sterile real hospital wastewater after a coagulationﬂocculation pretreatment 
+he nexus of syntrophy-associated microbiota in anaerobic digestion revealed by long-term enrichment and community survey 
+icrobial communities in anaerobic digestion processes for waste and wastewater treatment: a microbiological update 
+íaz-Cruz, M.S., Eljarrat, E., Petrovi c, M., Caminal, G., Barcelo Removal of pharmaceuticals, polybrominated ﬂame retardants and UV-ﬁlters from sludge by the fungus Trametes versicolor in bioslurry reactor 
+ioaugmentation and treatment of cephalexin drug-based pharmaceutical efﬂuent in an upﬂow anaerobic ﬂuidized bed system 
+ntroducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities 
+uality control and preprocessing of metagenomic datasets 
+ffect of loading rate and HRT on the removal of cephalosporin and their intermediates during the operation of a membrane bioreactor treating pharmaceutical wastewater 
+nsights into the relationship Varela, A.R., Andre between antimicrobial residues and bacterial populations in a hospital-urban wastewater treatment plant system 
+naerobic treatment of antibiotic production wastewater pretreated with enhanced hydrolysis: simultaneous reduction of COD and ARGs 
+or the purpose of comparison, E1 was fed with synthetic antibiotic industry wastewater with CFX added as the test reactor, while, E2 was fed without any CFX added as the control reactor (E2) 
+urthermore, the microbial community structures were also investigated 
+or the archaea, there was more functional diversity in E1 system than in E2 system 
+urthermore, fungi also played an important role on the removal of complex organics in E1 system. © 2017 Elsevier Ltd 
+ntroduction Antibiotics are one kind of the most relevant emerging  * Corresponding author. ** Corresponding author 
+ll rights reserved.  pollutants in the environment because of their potential long-term adverse impact on environmental microorganisms 
+nd previous studies have shown that most antibiotics in the environment comes from antibiotics manufacture waste streams which contain much higher concentrations of antibiotics (Saravanane et al., 2001a; Larsson et al., 2007) 
+nder high concentration, antibiotics will interfere the running of Wastewater Treatment Plants (WWTPs)  216  L.-W 
+ome studies have investigated the impacts of antibiotics on the performance of anaerobic reactor 
+ny step inhibited by the antibiotics will lead to the decrease of organic pollutants removal efﬁciency in anaerobic system 
+s a direct result of above issues, antibiotics in wastewater could trigger signiﬁcant changes of microbial communities, affecting the stable operation of treatment system 
+he sludge in the reactor wasn't discharged in the whole operation 
+hen the concentration of CFX in E1 reactor inﬂuent kept around 200 mg/L through successive phases, in order to observe long-term effect of CFX on the performance of EGSB 
+uantiﬁcation of CFX was obtained by comparison to the external standard peak height ratios as a function of concentration 
+NA was extracted from a 0.25 g sample of sludge with the PowerSoil DNA Isolation Kit (MO BIO Laboratories, USA), according to the instructions of the manufacturer 
+he resulting effective sequences were used for the subsequent bioinformatic analysis 
+reatment performance of the system 3.1.1 
+OD removal Long term results of sCOD removal ability of the two EGSB systems are shown in Fig. 1 
+uring the days of 0e224, the concentration of sCOD in the inﬂuent was all controlled around 6500 mg/L 
+n the day 75, CFX was introduced into E1 system,  2.6 
+ioinformatic analysis of the sequencing data Paired sequences were joined with the FLASH ver. 1.2.7 software (Su et al., 2015) 
+eng et al. / Chemosphere 184 (2017) 215e223  well E2 run as controlled system without CFX throughout the whole operation 
+s what is shown in Fig. 1, in E1 system, sCOD concentration in the efﬂuent continuously increased to 3919.47 mg/L from the days 75e116 
+t the same time, sCOD in the efﬂuent of E2 was about 800 mg/L 
+he recoverable ability may come from the contribution of the inoculated sludge taken from the system of treating amoxicillin manufactory wastewater 
+he related sludge was inoculated into the EGSB, which may be one of reasons that removal ability of sCOD was recoverable 
+n the previous study, the same sludge (50%) was inoculated into the anaerobic reactor to treat oxytetracycline production wastewater, which was advantage to achieved high organic removal efﬁciency (Yi et al., 2017) 
+esides, it was possible that some microbial community adapted or enriched in the CFX toxic environment, leading to the recovery of sCOD removal 
+esides, the degradation by-products were detected as shown in the SFig. 3 
+ungi component required further study to reveal what the main function of fungi was in the antibiotic wastewater treatment system. 3.3 
+ow, many studies support the view that greater biodiversity increases ecological stability of the system 
+nd the copy ratio of archaea/bacteria reached to 0.28, even under high concentration of CFX condition 
+owever, the relative abundance of some bacterial phyla changed obviously 
+ell the abundance of Firmicutes was increased in S1 
+nd some previous studies also revealed the main functional role for Firmicutes in antibiotic wastewater treatment system (Casas et al., 2015; Li et al., 2015) 
+his might imply that the addition of CFX in the inﬂuent was advantage to the enrichment of Firmicutes, contributing to the recovery of sCOD removal 
+he class Spirochaetes was the sole microbes cluster belonging to the phylum Spirochaetae in the three samples 
+lostridia was found in the environments contain antibiotics (Li et al., 2011) 
+tanding on the genus level allows us to further infer the functions of the community as shown in Fig. 4-G 
+nd with CFX addition, Gelria was almost not been affected in E1, on the contrary, it increased from 12.35% to 15.48% compared to E2 
+nterestingly, a reference species of the genus Geleria, namely G. glutamica, was isolated from a propionate-oxidizing methanogenic enrichment  L.-W 
+ohlfahrtiimonas which is strict aerobic bacteria was impossible growth in the anaerobic condition, but it was possible that DNA could not be degraded completely, leading to the positive result of detection 
+utispora may specialize substrate hydrolysis in straw hydrolysis (Li et al., 2014a), suggesting it played a vital role on the substrate hydrolysis in the CFX wastewater 
+t was possible that these bacteria were inhibited by the addition of CFX, which lead to the decreasing removal efﬁciency of sCOD at the beginning stage 
+owever, with the running of reactor, some advantage bacteria were then enriched in the system as above mention, contributing to the recovery of sCOD removal efﬁciency 
+owever, being affected by the addition of CFX, its relative abundance only was 45.04% in S1 
+lthough the total relative abundance of hydrogenotrophic methanogens was weakened (14.45%), new genius appeared in E1 system 
+he Methanosaeta which comprises the aceticlastic methanogens can generally be found in the anaerobic process to produce an extensive amount of methane had the higher abundance in the S0 (about 20%) than in the S2 (only 3.81%) 
+nterestingly, the relative abundance of Methanosaeta in S1 reached to 20% 
+s mentioned above, the degradation of acetate almost did not affected by CFX, which will depends on Methanosaeta being rich in E1 system 
+ddition to, above results strongly suggested that hydrogenotrophic methanogens was the main pathway for methane generation in the antibiotic wastewater treatment contained CFX 
+elative abundance was deﬁned as the number of sequences afﬁliated with that taxon divided by the total number of sequences per sample.  222  L.-W 
+urthermore, Basidiomycota was only enriched in E1 system, suggesting that the addition of CFX in E1 had favored the growth of Basidiomycota 
+onclusion The addition of CFX had a disadvantageous effect on the removal of sCOD, but this effect was recoverable 
+elative abundance was deﬁned as the number of sequences afﬁliated with that taxon divided by the total number of sequences per sample.  s, G., Tindall, B.J., Ve ronique, B., Denis, B., Christian, J., 2005 
+nﬂuence of the antibiotic erythromycin on anaerobic treatment of a pharmaceutical wastewater 
+hronic impact of tetracycline on the biodegradation of an organic substrate mixture under anaerobic conditions 
+erformance of an up-ﬂow anaerobic stage reactor (UASR) in the treatment of pharmaceutical wastewater containing macrolide antibiotics 
+stimation of the biodegradation rate of 2,3,7,8-tetrachlorodibenzo-p-dioxin by using dioxindegrading fungus, Pseudallescheria boydii 
+acellibacteroides fermentans gen. nov., sp. nov., a member of the family Porphyromonadaceae isolated from an upﬂow anaerobic ﬁlter treating abattoir wastewaters 
+ole of Jaouani, A., Guille Pycnoporus coccineus laccase in the degradation of aromatic compounds in olive oil mill wastewater 
+s the chronic impact of sulfamethoxazole different for slow growing culture? The effect of culture history 
+owards the deﬁnition of a core of microorganisms involved in anaerobic digestion of sludge 
+nhanced degradation of biphenyl from PCB-contaminated sediments: the impact of extracellular organic matter from Micrococcus luteus 
+he two EGSB reactors were operated under mesophilic condition (35 ± 2  C) by water bath 
+ig. 2 
+revious study also showed Ascomycota is an important player in pollutant removal under high concentration level of antibiotic (Deng et al., 2012) 
+he assistance from laboratory members is greatly appreciated 
+hen extracted DNA was stored at 20  C until analysis. 2.5 
+he result was different to our previous study that growth of Methanosaeta was inhabited by high concentration of amoxicillin (Meng et al., 2015b) 
+echanism of textile metal dye biotransformation by Trametes versicolor 
+eng et al. / Chemosphere 184 (2017) 215e223  syringe ﬁltered through a 0.45 mm nylon membrane to remove biomass 

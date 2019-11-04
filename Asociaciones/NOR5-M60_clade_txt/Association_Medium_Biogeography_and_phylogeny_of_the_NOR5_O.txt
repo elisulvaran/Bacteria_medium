@@ -1,0 +1,281 @@
+ARTICLE IN PRESS  Systematic and Applied Microbiology 32 (2009) 124–139 www.elsevier.de/syapm  Biogeography and phylogeny of the NOR5/OM60 clade of Gammaproteobacteria Shi Yana, Bernhard M 
+uchsa,, Sabine Lenka, Jens Harderb, Jörg Wulfa, Nian-Zhi Jiaoc, Rudolf Amanna a  Department of Molecular Ecology, Max Planck Institute for Marine Microbiology, Bremen D-28359, Germany Department of Microbiology, Max Planck Institute for Marine Microbiology, Bremen D-28359, Germany c National Key Laboratory for Marine Environmental Sciences, University of Xiamen, Xiamen, Fujian 361005, China b  Abstract The phylogeny, abundance, and biogeography of the NOR5/OM60 clade was investigated 
+lmost all sequences in the largest subclade NOR5-1 and related subclade NOR5-4 originated from marine surface water samples 
+verall, most of the NOR5/OM60 sequences were retrieved from marine coastal settings, whereas there were fewer from open-ocean surface waters, deep-sea sediment, freshwater, saline lakes and soil 
+he abundance of members of the NOR5/OM60 clade in various marine sites was determined by ﬂuorescence in situ hybridization using a newly designed and optimized probe set 
+elative abundances in coastal marine waters off Namibia and the Yangtze estuary were up to 3% of the total 40 ,6-diamidino-2-phenylindole (DAPI) counts, and in the German Bight off Helgoland the abundance was even up to 7% 
+n an open-ocean North Atlantic transect, between Iceland and the Azores, the NOR5/OM60 group was much less abundant (0.1–0.5%) 
+n analysis of the frequencies of NOR5/OM60 16S rRNA genes in the Global Ocean Survey datasets provided further support for a marine cosmopolitan occurrence of NOR5/OM60, and a clear preference for coastal marine waters. r 2008 Elsevier GmbH 
+eywords: Microbial ecology; Bacteria; Fluorescence in situ hybridization; Phylogeny; Biogeography  Introduction Aerobic anoxygenic phototrophic bacteria (AAnP) use light as an energy source, and appear to have an Corresponding author.  E-mail address: bfuchs@mpi-bremen.de (B.M 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  the class Alphaproteobacteria 
+n parallel, HTCC2080, one of three gammaproteobacterial strains obtained by highthroughput cultivation from coastal Paciﬁc surface water off Oregon, was shown to grow faster and to have higher cell yield with light rather than in the dark [12] 
+n 1997, two almost fulllength sequences were found to be closely related to SAR125; clones OM60 (U70696) and OM241 (U70702) were from a marine coastal site off North Carolina, USA [51] 
+train KT71 was placed in a group named NOR5, and recently the binominal name ‘‘Congregibacter litoralis’’ has been suggested for this isolate [22] 
+ased on comparative 16S rRNA sequence analysis, the NOR5/OM60 clade is most closely related to the genera Endobugula, Microbulbifer, Teredinibacter (all Alteromonadales), Cellvibrio (Pseudomonadales) and several other groups of oligotrophic marine Gammaproteobacteria, including the clades BD1-7, KI89A, OM182 and SAR92 [11] 
+he probe NOR5-730 has yielded counts in North Sea surface water of up to 8% [19], and even 11% [48] of all DAPI-stained cells 
+he goals of this study were to provide a more detailed description of the phylogeny of the  125  NOR5/OM60 clade and to analyze its geographic distribution, as well as abundance, in the marine environment 
+his information originated mostly from PCR-based clone libraries, but also encompassed isolates and the metagenomic Global Ocean Survey (GOS) [52] 
+ased on this comprehensive dataset the speciﬁcity of published 16S rRNA-targeted oligonucleotide probes was checked, and new ones were designed 
+ith this, the abundance of members of the NOR5/OM60 clade was quantiﬁed in coastal marine sites off China, Namibia, Spain, and Germany, as well as in an open-ocean transect in the North Atlantic.  Materials and methods Sequence retrieval NOR5/OM60-related 16S rRNA sequences were initially retrieved with the ARB program (http:// www.arb-home.de/) [43] from the SILVA database (Version 91) [50] (http://www.arb-silva.de/) by targeting group-speciﬁc signatures (e.g. complement to probe NOR5-730 with 0–2 mismatches) 
+ighly related sequences were also identiﬁed using Blastn (http:// www.ncbi.nlm.nih.gov/BLAST/), and imported into the database 
+dditionally, the 16S rRNA subset of the Camera GOS Cruise, a metagenomic project that sampled various environments, including pelagic and coastal seawater, fresh water or hypersalinic environments [52], was downloaded (http://web.camera.calit2. net/) and analyzed in a similar way 
+equences were manually checked for sequence quality and chimera, using the pintail value [5] provided with the SILVA 16S rRNA gene database and using the program ‘‘chimera check’’ at the website of the ribosomal database project (http://rdp8.cme.msu.edu/cgis/chimera.cgi?su=SSU) [13] 
+he sequences were aligned using the ARB aligner, and added to the universal parsimony tree using ‘‘ARB parsimony’’ with a ‘‘positional variability by parsimony’’ ﬁlter for Bacteria [50] 
+he 16S rRNA sequences from 22 newly isolated strains from sediment off the North Sea island Sylt (55.011N, 8.261E) were determined by standard molecular techniques (PCR, sequencing) and submitted  ARTICLE IN PRESS 126  S 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  to GenBank under the accession numbers EU672847–EU672869 
+ubsequently, the trees obtained using the three ﬁltered sets and four methods were compared manually 
+hree column ﬁlters were made in ARB and were used for selecting the columns with certain conservative levels for calculation 
+ach ﬁlter kept 1493, 1450 and 1393 bases, respectively 
+he sequences were ﬁltered into different datasets, and each was then used as input for four different algorithms: ‘‘ARB neighbor joining’’ (Felsenstein correction), ‘‘ARB parsimony interactive’’, Maximum likelihood using AxML, and the posterior possibility algorithm using MrBayes (Version 3.1, http://mrbayes.csit.fsu.edu/) [27] 
+hen, the ﬁrst thousand trees of the unstable generations were ‘‘burnt in’’ using ‘‘halfcompat’’, and MrBayes consensus trees were con-  Table 1.  Probe design, check and optimization The ‘‘probe check’’ module in the ARB program was used to check probes NOR5-730 and NOR5-130 [19] for coverage and speciﬁcity, but also to design new probes for NOR5/OM60 subclades 
+elper and competitor nucleotides were designed and tested as described before [21,46] (Table 1) 
+he probes were optimized by performing hybridization with all the relevant helpers and competitors at varying formamide concentrations [23] 
+ptimizations were carried out at 46 1C on pure cultures with a fully complementary 16S rRNA.  Biogeographic analysis For each of the NOR5/OM60 sequences retrieved from the databases, the geographic and environmental data were manually collected, either directly from  Probes, helpers and competitors that were used in this study.  Name  Targeted group  Sequence (50 –30 )  NOR5-730  NOR5/ OM60 clade n.a. n.a 
+OR5/ OM60 clade, excluding NOR5-1 and -4 n.a. n.a 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  120° 33°  121°  122°  123°  1  32°  2  3  124°  4  125° 33°  32°  5 9  17  11  31°  12  31°  13 14  30°  121°  122°  123°  Vision cruise The Vision cruise was conducted in the period September 20–October 3, 2006 
+ll water samples were ﬁxed, ﬁltered and stored as described for the Yangtze estuary.  German Bight  30°  29° 120°  127  124°  29° 125°  Fig. 1 
+ata included longitude, latitude, depth or altitude, and habitat information in categories such as marine water, hypersaline water or fresh water 
+esults of the CARD-FISH with probe NOR5-730 and NOR5-1238 were also included in the map.  Sampling sites and procedures  Samples were taken from a depth of 1 m at station ‘‘Kabeltonne’’, Helgoland (54.181N, 7.901E), German Bight, on seven separate days from May to July 2007 (see Table 2 for details) and from Cuxhaven in July 2007 
+he water samples from Helgoland were ﬁrst preﬁltered at 10 mm to remove large particles and then ﬁxed, ﬁltered and stored as described for the Yangtze estuary 
+he water samples from Cuxhaven were treated identically but they were not pre-ﬁltered.  North Sea sediment The sediment samples were sampled from a sandy intertidal ﬂat at Janssand (53.721N, 7.681E), German North Sea coast, in March and August 2007 
+ach time two adjacent cores were sampled for duplicates, and subsampled for each 1 cm range 
+he subsamples were ﬁxed and sonicated, then the supernatant was ﬁltered onto polycarbonate ﬁlters, as described previously [41,49].  Yangtze River estuary  Small sampling campaigns  On September 6–8, 2006, a small cruise was undertaken in the Yangtze River estuary (Fig. 1) 
+amples were taken from surface water, and immediately ﬁxed with 1% paraformaldehyde (PFA) for 1 h, ﬁltered onto polycarbonate ﬁlters (Millipore, 47 mm in diameter, 0.2 mm pore size) and stored frozen at 20 1C.  A summary of all additional sampling stations is given in Table 2 
+urface water samples from Xiamen, China were taken in September 2006 at the Xiamen ferry port, and in July 2007 from a sandy coast near Xiamen University 
+ther marine water samples were obtained from Southampton dock water, UK, and coastal water near Barcelona, Spain 
+resh water samples from the river Weser and freshwater ponds in Bremen were also checked for comparison 
+he samples were ﬁxed, sonicated and processed as described above for North Sea sediment samples.  Namibian upwelling region The cruise took place on March 22–23, 2003, along 231S near Walvis Bay, from the coast into the Atlantic Ocean (14.4–12.01E), through the Benguela Current 
+urface water samples (10 m) from 13 stations, as well as three depth proﬁles, were collected and immediately ﬁxed in 1% PFA for 1 h at room temperature or for 24 h at 4 1C 
+or FISH, samples were carefully thawed, ﬁltered onto polycarbonate ﬁlters (Millipore, 47 mm in diameter, 0.2 mm pore size) and further processed for FISH (see below).  CARD-FISH CARD-FISH was undertaken according to Pernthaler et al. [49] with the following modiﬁcations: agaroseembedded ﬁlters were permeabilized with 10 mg ml1  ARTICLE IN PRESS 128  Table 2.  S 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  Small sampling campaigns for determining the NOR5/OM60 distribution.  Location  Coordinates  NOR5/OM60 count  Method Notea  Reference  Germany, North Sea, Helgoland, surface water  54.181N 7.901E  Up to 6–8% in early June and late July, 1998 6–7% in May, 11–13% in August, 2002 3–5%, unaffected in incubation after 0.8 mm preﬁltration, 2000 0.2% in February, 1.5–1.9% in summer not pre-ﬁltered, 2007 0.970.3% in July, 2007  FISH  [19]  Germany, North Sea, Cuxhaven, surface water  53.8871N 8.6411E  Spain, Blanes Bay, coastal surface water  41.671N 2.801E  UK, Southampton dock water China, Xiamen coastal surface water  50.91N, 1.41W 24.4501N 118.0741E, 24.4351N 118.0951E  Paciﬁc Ocean, Newport Hydroline, marine water, euphotic zone Germany, North Sea, Sylt, intertidal sediment  44.651N (124.421W, 124.881W, 125.601W, 127.001W) 55.041N, 8.421E  Germany, River Weser, in Bremen, fresh water  53.0661N 8.8361E  Germany, Bremen, MPIPond, fresh surface water  53.1101N 8.8471E  Germany, Bremen, Kuhgrabensee, salinity 2 psu, surface water  53.1181N, 8.8521E  a  NOR5-730, 30% FA  CARD- NOR5-730, 55% FA, [48] FISH 35 1C FISH NOR5-730 [7]  CARD- NOR5-730+NOR5FISH 1238 with 4 helpers, 50% FA CARD- NOR5-730+NOR5FISH 1238 with 4 helpers, 50% FA 0.6% in January, 1.3% in CARD- NOR5-730+NOR5July, 2.6% in October, 2005 FISH 1238 with 4 helpers, 50% FA Detectable year round, low in CARD- NOR5-730, 50% FA, FISH 35 1C winter, up to 5% in July, 2003–2004 0.7% CARD- NOR5-730, 30% FA FISH 1.0–2.0% in summer, 2006 CARD- NOR5-730+NOR5and 2007 FISH 1238 with 4 helpers, 50% FA 3.471.1%, only in euphotic FISH NOR5-730, 35% FA zone 3% in 0–1 cm depth, 0.2% in CARD- NOR5-730+NOR57–8 cm depth, 2007 FISH 1238 with 4 helpers, 50% FA 0.06%, in January 2008 CARD- NOR5-730+NOR5FISH 1238 with 4 helpers, 50% FA 0.03%, in January 2008 CARD- NOR5-730+NOR5FISH 1238 with 4 helpers, 50% FA o0.03%, in February 2008 CARD- NOR5-730+NOR5FISH 1238 with 4 helpers, 50% FA  This study This study This study [3]  This study This study [12]  This study This study This study This study  All CARD-FISH experiments were performed at 46 1C unless stated otherwise.  lysozyme for 20 min at 35 1C 
+ybridization was performed at 46 1C for 3 h, and washing was carried out at 48 1C for 15 min 
+or the quantiﬁcation of most of the members of the NOR5/OM60 groups, a combination of NOR5-730 and NOR5-1238 with all four helpers was used (Table 1) 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139 3  129  NOR5-2 AM691086, EG19, 1505 12  3  NOR5-3  NOR5-7 DQ015821, ELB19-149, 1496  8  NOR5-6 DQ889883, EC179, 1493 AB294978, pItb-vmat-87, 1441 EU707310, JS9_43, 1491 6  NOR5-8  EU070300, JSS S04 clone 452, 1492 DQ071082, 1456 EU070305, JSS S04 clone 527, 1492 DQ351790, Belgica2005/10-140-11, 1492 5  NOR5-11  EU707293, JSS S04 clone 488, 1492 DS8, 1486 EU707297, JSS S04 clone 336, 1492 EU707311, JS9_29, 1492 EU707304, JSS S04 clone 516, 1492 6  NOR5-5A NOR5-5  5  NOR5-5B  DQ351747, Belgica2005/10-120-16, 1493 DQ351746, Belgica2005/10-120-14, 1492 AY212565, 114ds10, 1520 EU707298, JSS S04 clone 359, 1490 23  NOR5-13 NOR5-1A  13  NOR5-1C  JCVI_16S_1097173022133, 1535 AY627377, EB000-39D04, 1469 U70696, OM60, 1523 AAVV01000015, HTCC2080, 1533 EF379865, PC-FL10-45, 1492 AM990942, Nobaria 45, 1479 JCVI_16S_1097156386993, 1472 EU672849, Ivo14, 1492 EU672858, RAp14 1B, 1492 EU672862, Mo4, 1492 AY701454, GCHU11_C, 1452 6  NOR5-1 NOR5-1B  NOR5-4 EF125404, MSB-1E11, 1495 EF061963, XME57, 1496 AB294961, pItb-vmat-60, 1471  3  NOR5-9 AM997955, Gu227, 1494 AB015537, BD2-7, 1497  4  NOR5-12  NOR5-10  25  Outgroup  Fig. 2 
+nderlined names are cultured isolates and subclades that include cultured isolates 
+he black and grey bars on the left of the branches show the clades that can be targeted by probes NOR5-730 and NOR5-1238, respectively, and the dashed lines for partly targeted subclades.  on more than 150 almost full-length NOR5/OM60 and closely related 16S rRNA gene sequences, a new consensus tree was calculated (Fig. 2) 
+n contrast to earlier trees based on less sequences [11,22] the current reconstruction of the NOR5/OM60 clade now also includes, besides the sequences from strain KT71 and clones OM60 and OM241, a cluster of freshwater clones and BD2-7, a clone retrieved from the deep sea 
+owever, exceptions did occur (e.g. due to imperfect sequence quality) and therefore sequence identity alone was insufﬁcient to include or exclude a new sequence from the NOR5/OM60 clade 
+he exact branching within the NOR5/OM60 clade depended on the algorithms and ﬁlters used for reconstruction 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  NOR5-12, and showed low identity (usually o92%) with other NOR5/OM60 sequences 
+ive more partial sequences retrieved from fresh water studies (EF192914, EF192886, EF192904, AY214643 and AY214720) [18,40] did not group in the NOR5-13 subclade 
+bout 30% of NOR5/OM60 sequences could not be grouped into any of the above-mentioned subclades, and most of these were partial sequences 
+he representatives of each subclade and closely related outgroups are listed in SI Table 2 as hallmarks for categorizing further sequences 
+he largest subclade was labeled as NOR5-1, and it comprised more than one-third of all the available fulllength sequences, as well as many partial sequences 
+he largest was NOR5-1A with more than 90 full and partial sequences (50% of NOR5-1) 
+OR5-1C also seemed to be monophyletic, which did not apply to the other sequences of NOR5-1 (‘‘NOR5-1B’’), which included strain HTCC2080 and several North Sea strains, such as Ivo14 
+ubclades NOR5-2 and NOR5-7 were close to NOR5-3 in most phylogenetic reconstructions 
+hey currently comprise only a few sequences, including those of the NEP isolates obtained from Japanese marine coastal sediments [45], and an isolate from coastal marine water sampled off Banyuls-sur-Mer [1,2] 
+ubclades NOR5-5, NOR5-6, NOR5-8, NOR5-9 and NOR5-11 together contained one-ﬁfth of all the NOR5/OM60 sequences 
+ubgroups NOR5-10 and NOR5-12 were deeply branched in most of the trees and they were dominated by sequences obtained from the deep sea 
+his included identiﬁcation by isolation, 16S rRNA gene libraries, metagenomic studies, and by ﬂuorescence in situ hybridization (FISH) 
+equence-, isolation-, and FISH-based identiﬁcations of NOR5/OM60 were marked on the world map 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  Table 3.  Distribution of NOR5/OM60 subclades in different environments 
+arine water and other marine habitats  NOR5-1A NOR5-1C NOR5-1B NOR5-4 NOR5-3 NOR5-2 NOR5-7 NOR5-5 NOR5-6 NOR5-8 NOR5-9 NOR5-11 NOR5-10 NOR5-12 NOR5-13 Other NOR5/ OM60 Total  131  Marine sediment  Hypersaline  Soil  Fresh water  Fresh sediment  Deep sea  Total  105 53 35 21 5 2 0 13 7 12 6 1 1 0 0 91  0 1 0 0 7 2 3 7 24 8 12 6 0 1 0 56  0 1 3 0 10 0 0 2 0 0 0 0 0 0 0 7  0 0 0 0 0 0 0 2 0 0 0 0 0 0 5 1  0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0  0 0 0 0 2 0 0 0 1 0 0 0 0 0 3 1  1 0 0 0 0 0 0 1 2 0 0 0 10 2 0 14  107 55 44 23 39 4 4 30 35 20 19 11 11 3 13 179  352  127  23  8  5  7  30  588  The numbers in the table give the number of 16S rRNA sequences retrieved from the public databases for a certain environment 
+he large subclades NOR5-1 and NOR5-4 appeared almost exclusively in the marine water column 
+ubclades NOR5-10 and NOR5-12 contained mainly identiﬁcations reported from deep-sea samples, and NOR5-13 was a freshwater clade 
+equences of the other NOR5/OM60 subclades were retrieved from marine sediment and the water column 
+dentiﬁcations have been reported from almost all oceans and at many coastal sites 
+n this respect, the American, European and East Asian coasts are particularly well covered with 16S rRNA gene libraries 
+here seems to be no latitudinal preference since NOR5/OM60 clones have been reported from mangrove [38,39] and coral reef [6,20,35], as well as seaice habitats [10] 
+OR5/OM60 sequences were also reported in deep-sea sediments sampled near Antarctica [9] and Japan [4,28,37], as well as in the northeast Paciﬁc [26] and the Atlantic (Schauer, unpublished) 
+dditional reports on NOR5/OM60 sequences come from environments with different salinity: freshwater rivers [54,57], a rice paddy (DQ830363), freshwater sediments [44,61], activated sludge [32], soil [25,40], and also from  hypersaline environments [24,36,52] 
+herein, 28 belonged to subclade NOR5-1, which is typical of marine surface water, and two belonged to its sister subclade NOR5-4 
+o sequences were found at low salinity stations (GS-12, salinity 3.5 psu, and GS-20,  ARTICLE IN PRESS 132  S 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  freshwater) 
+OR5/OM60 16S rRNA sequences were clearly more frequent in coastal (20/1471; 1.4%) than in open-ocean samples (5/1516; 0.3%).  Design and optimization of probes for the quantiﬁcation of the NOR5/OM60 clade Our comprehensive collection of 16S rRNA sequences of the NOR5/OM60 clade facilitated a re-evaluation of oligonucleotide probes targeting this group 
+he new probe NOR5-1238 (Table 1) targeted 46% of all high-quality NOR5/OM60 sequences, excluding the two major subclades NOR5-1 and NOR5-4 
+ combination of the probes NOR5-730 and NOR5-1238 increased the current coverage of the NOR5/OM60 clade to 92%, without any outgroup hits (Fig. 2) 
+he combination failed to detect part of NOR5-1C, NOR5-2, NOR5-10, and all sequences in the NOR5-12 subclade 
+he application of two helpers per probe signiﬁcantly increased the intensity of monolabeled and CARD-FISH signals 
+ixed cells of Congregibacter litoralis KT71 were used to determine the optimal formamide concentration for hybridization of probes NOR5-730 and NOR-1238 as 50% 
+hese two probes were subsequently used at this formamide concentration in combination with helpers NOR5-659h, NOR5-709h, NOR5-1217h and NOR51287h for a speciﬁc and sensitive identiﬁcation of members of the NOR5/OM60 clade in environmental samples.  Quantiﬁcation of members of the NOR5/OM60 clade by CARD-FISH The cells detected by CARD-FISH with the probe mixture NOR5-730/NOR5-1238 in marine plankton and benthos samples were pleomorphic (Fig. 4), often from coccoid to rod-shaped, sometimes were also bent  in a vibrio shape 
+he length of the cells was between 0.5 and 3 mm, with a diameter between 0.5 and 1 mm 
+n the brackish to marine Yangtze River estuary (salinities of 22–32 psu), between 0% and 2.3% of all DAPI-stained cells were detected 
+ounts in surface waters obtained during an openocean North Atlantic transect in September 2006 (Vision cruise) were between 0.1% and 0.5% (3  103–1  104 cells ml1) 
+hree depth proﬁles made at coastal (14.361E), mid-shelf (13.151E) and open-ocean stations (12.001E) all clearly showed a steep decrease of the NOR5/OM60 abundances with depth 
+elow 70 m, the counts became marginal (o0.05%), and NOR5/OM60 cells were not detected below 300 m 
+t this sample point, a range of 2.5–4.0% was detected in the top 3 cm of the sediment, and 1.4–3.1% at a depth of 3–12 cm (Fig. 6) 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  133  Fig. 4 
+icroscopic pictures of NOR5/OM60 cells in the environment: (a)–(c) North Atlantic open ocean, (d) and (e) from the Yangtze River estuary, (f) from Janssand sediment, North Sea 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  107 cells cm3, and in the surface sediments it was as high as 1.5  108 cells cm3 
+bundances were less than 0.1% in the River Weser and from two ponds, one freshwater and the other with a salinity of 2 psu.  4.0 3.5 NOR5/OM60 (%)  3.0 2.5 2.0 1.5 1.0 0.5 0.0 11.5  12.0  12.5 13.0 13.5 Longitude (°E)  14.0  14.5  Fig. 5 
+OR5/OM60 counts from Janssand sediment in March (black circles) and August (white circles) 2007 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  distribution of the NOR5/OM60 clade in marine surface waters 
+he two fully sequenced strains of the NOR5/OM60 clade, ‘‘Congregibacter litoralis’’ KT71 and HTCC2080 contain two and one ribosomal operon, respectively 
+hen the copy number of the NOR5/OM60 group members is less than the average, the frequency of 16S rRNA genes in the metagenomic library might underestimate the relative abundance of cells, and vice versa 
+n fosmid libraries constructed from bacterioplankton samples at Aloha Station, Hawaii, 16S rRNA genes of the NOR5/OM60 clade were detected at depths of 10 m and 70 m, but not at 130 m or deeper [17] 
+n our study, the samples from Xiamen, Barcelona and Helgoland showed the same trend, with high counts of NOR5/OM60 co-occurring with algal blooms 
+e hope that the more sensitive and speciﬁc probes and protocols developed in this study will facilitate more detailed investigations on the seasonality of NOR5/ OM60 abundance in the future 
+esides season, water depth, and distance to the coast, we also searched for other parameters that might inﬂuence the distribution of NOR5/OM60 in the water column 
+onsequently, linear regression analysis was used to check for correlation between NOR5/OM60 abundance and other parameters 
+ndeed, the cultured strain KT71 prefers short oligomers and amino acids as substrates [22], which are generally rapidly consumed in the water column [63] 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  plankton cell counts at either site 
+he NOR5/OM60 group and the AAnPs showed some common features for distribution, at least in some regions: they both occurred at a higher percentage in coastal water compared to the open ocean, and they were more abundant in summer or autumn than in winter or spring 
+ost of them appear in the euphotic zone in the marine water column and they are positively related to high chlorophyll concentrations [15,30,53,56,62] 
+owever, considering the rather high 16S rRNA sequence diversity within the NOR5/OM60 clade and its broad habitat range, it cannot be taken for granted that all members of NOR5/OM60 are AAnPs 
+he four strains isolated from marine surface waters KT71 (NOR5-3), HTCC2080 (NOR5-1B), HTCC2246 (not grouped) and HTCC2148 (NOR5-8) were shown to contain genes pufL and pufM coding for light-harvesting complex I (LHC I) 
+owever, pufL and pufM trees lacked congruence with the 16S rRNA phylogeny [12] 
+he pufM gene of HTCC2080 belongs to pufM Group K, the sister group of KT71, while the pufL and pufM genes of the HTCC2246 and HTCC2148 groups belong to different clusters of Alphaproteobacteria [62] 
+his suggests that the loss and gain of photosynthesis operons might be quite frequent in the NOR5/OM60 clade 
+n this respect, Yutin and colleagues [62] have recently reported on compositional changes within the AAnP between coastal and open-ocean sites 
+nly six out of 85 scaffolds identiﬁed to include pufM in the oxic samples of the GOS dataset were highly similar to the pufM of Congregibacter litoralis KT71 and therefore likely to be from the NOR5/OM60 clade 
+hese were from coastal samples, whereas the pufM of the alphaproteobacterial Roseobacter-type was found throughout the samples, and, additionally, as yet unidentiﬁed groups of AAnP seemed to dominate pelagic marine waters [62].  Acknowledgements We thank Julia Arnds, Regina Schauer, Marc Mußmann, and Alaa Bakr for providing sequences 
+ep Gasol, Paola Gomez and Ilaria Pizetti provided marine surface water samples from Barcelona, the North Atlantic (Vision cruise), and sampling station Kabeltonne off Helgoland, respectively 
+e acknowledge the staff of the State Key Laboratory at Xiamen University, especially Yao Zhang for organizing the cruise to the Yangtze River estuary, and Fan Zhang for providing chlorophyll data 
+he work was funded by the Max Planck Society, the German Academic Exchange Service (DAAD) and the China Scholarship Council (CSC).  Appendix A 
+asol, Seasonality in bacterial diversity in north-west Mediterranean coastal waters: assessment through clone libraries, ﬁngerprinting and FISH, FEMS Microbiol 
+ato, Molecular phylogenetic and chemical analyses of the microbial mats in deep-sea cold seep sediments at the northeastern Japan Sea, Extremophiles 10 (2006) 311–319. [5] K.E 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  [8] O 
+cCuaig, Biodiversity, community structural shifts, and biogeography of prokaryotes within Antarctic continental shelf sediment, Appl 
+elmke, Diversity and structure of bacterial communities in Arctic versus Antarctic pack ice, Appl 
+iovannoni, Cultivation and growth characteristics of a diverse group of oligotrophic marine Gammaproteobacteria, Appl 
+iedje, The Ribosomal Database Project (RDP-II): previewing a new autoaligner that allows regular updates and the new prokaryotic taxonomy, Nucleic Acids Res. 31 (2003) 442–443. [14] S.A 
+irchman, Aerobic anoxygenic phototrophic bacteria in the Mid-Atlantic Bight and the North Paciﬁc Gyre, Appl 
+agner, The domain-speciﬁc probe EUB338 is insufﬁcient for the detection of all Bacteria: development and evaluation of a more comprehensive probe set, Syst 
+mann, Isolation of novel pelagic bacteria from the German bight and their seasonal contributions to surface picoplankton, Appl 
+ouke, Partitioning of bacterial communities between seawater and healthy black band diseased, and dead coral surfaces, Appl 
+ang, Distinct distribution pattern of abundance and diversity of aerobic anoxygenic phototrophic bacteria in the global ocean, Environ 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  [35] O 
+osenberg, Bacteria associated with mucus and tissues of the coral Oculina patagonica in summer and winter, Appl 
+ace, Unexpected diversity and complexity of the Guerrero Negro hypersaline microbial mat, Appl 
+uang, Microbial community composition of the Danshui river estuary of northern Taiwan and the practicality of the phylogenetic method in microbial barcoding, Microb 
+oodman, A census of rRNA genes and linked genomic sequences within a soil metagenomic library, Appl 
+tahl, Distribution and abundance of Gram-positive bacteria in the environment: development of a group-speciﬁc probe, J 
+chleifer, Phylogenetic oligodeoxynucleotide probes for the major subclasses of Proteobacteria-problems and solutions, Syst 
+iovannoni, Genetic comparisons reveal the same unknown bacterial lineages in Atlantic and Paciﬁc bacterioplankton communities, Limnol 
+mann, Fluorescence in situ hybridization and catalyzed reporter deposition for the identiﬁcation of marine bacteria, Appl 
+löckner, SILVA: a comprehensive online resource for quality checked and aligned ribosomal RNA sequence data compatible with ARB, Nucleic Acids Res. (2007). [51] M.S 
+uhrman, Wide-ranging abundances of aerobic anoxygenic phototrophic bacteria in the world ocean revealed by epiﬂuorescence microscopy and quantitative PCR, Limnol 
+chiyama, Succession of bacterial community structure along the Changjiang River determined by denaturing gradient gel electrophoresis and clone library analysis, Appl 
+rinkhoff, A newly discovered Roseobacter cluster in temperate and polar oceans, Nature 427 (2004) 445–448. [56] M.E 
+eeves, Analysis of 16S rRNA gene sequences and circulating cell-free DNA from plasma of chronic fatigue syndrome and non-fatigued subjects, BMC Microbiol. 2 (2002). [60] G 
+an et al. / Systematic and Applied Microbiology 32 (2009) 124–139  [61] A 
+oske, Microbial diversity and functional characterization of sediments from reservoirs of different trophic state, FEMS Microbiol 
+éjà, Assessing diversity and biogeography of aerobic anoxygenic phototrophic bacter-  139  ia in surface waters of the Atlantic and Paciﬁc Oceans using the Global Ocean Sampling expedition metagenomes, Environ 
+mann, Comparison of cellular and biomass speciﬁc activities of dominant bacterioplankton groups in stratiﬁed waters of the Celtic Sea, Appl 
+his clade includes ‘‘Congregibacter litoralis’’ strain KT71, the ﬁrst cultured representative of marine aerobic anoxygenic phototrophic Gammaproteobacteria 
+nterestingly, the surface layer of North Sea intertidal sediments was very rich in NOR5/OM60, with absolute numbers 4108 cells cm3 (or 4% of the total DAPI) 
+hey also seem to be highly abundant in the oceans 
+ecent studies based on infrared microscopy showed abundances of 4.572.4% with a maximum of 13.5% in coastal waters, while in oceanic water the frequency was lower at 1.571.3% [30,56,62] 
+his recently changed when genome analyses of marine gammaproteobacterial isolates revealed the presence of complete photosynthesis superoperons [22] 
+he North Sea isolate KT71 was identiﬁed as AAnP based on the expression of photosynthetic pigments [22] 
+n 1999, strain KT71 (AY007676) was isolated from marine surface water at the ‘‘Kabeltonne’’ station off the island of Helgoland, North Sea [19] 
+everal related strains isolated by a novel high-throughput culturing method, including HTCC2080, were placed in the OM60/OM241 clade [14], which was later referred to as the OM60 clade [11] 
+ince all these clade names are now largely redundant, we refer to it here as the NOR5/OM60 clade [22] and, currently, many more related sequences can be found in various databases 
+ sequence retrieved from deep-sea sediment, BD2-7 (AB015537) [37], was considered to represent a sister clade to the NOR5/OM60 clade 
+ata on the biogeography of the NOR5/OM60 clade are so far sparse 
+esides the mostly qualitative evidence from sequence retrieval there is also some quantiﬁcation by ﬂuorescence in situ hybridization (FISH) 
+ith the same probe, an abundance of 3.471.1% was detected in a Paciﬁc coastal transect along the Newport Hydroline [12], where maximum numbers of up to 1  105 cells ml1 were linked to the chlorophyll maximum 
+ detailed description of the strains will be published elsewhere (Harder, unpublished).  structed 
+roups that were stable in all or most of the trees were named as subclades 
+henever the branching patterns varied in many of the trees, a multifurcation was introduced at that position [42].  Phylogeny All the qualiﬁed, almost full-length sequences (41400 nt) that belonged to the NOR5/OM60 clade, as well as several closely related outgroup sequences (in total around 150 sequences), were selected for phylogenetic reconstructions 
+he MrBayes trees were built according to the manual (http://mrbayes.csit.fsu.edu/manual.php) with settings of a likelihood model in two parallel runs, each containing four chains 
+he program ran until the ‘‘average standard deviation of split frequencies’’ became less than 0.1 
+andidate probes were also checked against the 16S rRNA sequence databases, including the partial sequences 
+ampling was carried out along the transect 301W, from Iceland to the south of the Azores Islands, from surface waters (mostly at a depth of 10 m, SI Table 1) 
+ampling stations off the Yangtze River estuary.  GenBank entries or from corresponding publications 
+he resulting table (SI Table 3) was the basis for creating the biogeographic map shown in Fig. 3 
+ll the water samples were treated as described above for the Yangtze River sample 
+ther sediment samples were taken from intertidal sandy surface sediment from Sylt on the German North Sea coast 
+o check for autoﬂuorescence or un-  speciﬁc binding of the probe or tyramide, all samples were checked with the non-binding probe NON 
+he speciﬁcity of the NOR5-speciﬁc probes was checked with CARD-FISH on PFA-ﬁxed cultures of Congregibacter litoralis KT71.  Results Phylogeny Based on an extensive comparison of trees obtained with various programs for phylogenetic reconstruction  ARTICLE IN PRESS S 
+onsensus tree reconstructed based on almost full-length (41400 nt) 16S rRNA sequences of members of the NOR5/OM60 clade 
+ith all treeing methods, the NOR5/OM60 clade formed a monophyletic group within Gammaproteobacteria 
+nother deep-sea sequence, BD1-7, was still excluded from the  NOR5/OM60 clade 
+here were stable subclades in which the same sequences always clustered together 
+lone 114ds10 (AY212565) [57] was the only full sequence in the terrestrial subclade NOR5-13, which also included 13 partial sequences recovered from fresh water, fresh water sediment or soil 
+he full list of all NOR5/OM60 sequences retrieved in this study, either full-length or partial, is shown in SI Table 3.  the relationship between the subclades was unstable 
+nother stable subclade was NOR5-4, which was the sister group of NOR5-1 in most of the trees 
+ubclade NOR5-3 included the 16S rRNA sequence of ‘‘Congregibacter litoralis’’ KT71, as well as that of 17 other NOR5/OM60 strains which have all been recently isolated from the oxic layer of marine surface sediment of the German island Sylt 
+D2-7 was the only full-length sequence of  −180°  −150°  −120°  −90°  −60°  −30°  Biogeography The geographic information was compiled for all identiﬁcations of members of the NOR5/OM60 clade (Fig. 3) 
+ere, we report 22 more NOR5/OM60 strains isolated from surface sediments of an intertidal sandﬂat from the North Sea island  0°  30°  60°  90°  120°  150°  180°  90°  90°  60°  60°  30°  30°  0°  0°  −30°  −30°  −60°  −60°  −90° −180°  −150°  −120°  −90°  −60°  −30°  0°  30°  60°  90°  120°  150°  −90° 180°  Fig. 3 
+iogeography of the NOR5/OM60 clade 
+igns refer to the habitat from where the sample was retrieved: marine water or other marine habitats – circle; marine coastal sediment – diamond; hypersaline – inverted triangle; soil – hexagon; fresh water – square; fresh sediment – triangle; deep sea – star 
+he map was created using the GMT (generic mapping tools) software package.  ARTICLE IN PRESS S 
+he environmental conditions of several sequences could not be categorized; therefore the total number of a subclade can be higher than the sum of the listed numbers from different environments.  of Sylt, Germany, which belonged either to subclades NOR5-3 (17 strains) or to NOR5-1B (5 strains) 
+able 3 lists the habitat preferences for each subclade according to source materials 
+he NOR5/OM60 clade is cosmopolitan in the marine realm 
+nlike the alphaproteobacterial RCA-1 cluster [55], it was still not possible in this study to detect biogeographic patterns for the various NOR5/OM60 subclades, neither latitudinal nor with respect to certain oceanic provinces.  NOR5/OM60 afﬁliated 16S rRNA genes in the GOS metagenomics dataset The GOS dataset [52] contains 3728 16S rRNA gene sequences with lengths 4300 nt 
+y comparative sequence analysis, 30 of these sequences (0.8%) could be unambiguously grouped within the NOR5/OM60 clade 
+xcept for station GS-04 (Atlantic, Canadian coast, salinity 28.3 psu), in which four out of a total of 31 16S rRNA gene sequences afﬁliated with the NOR5/OM60 clade, all the other libraries contained at most two NOR5/ OM60 sequences 
+robe NOR5-730 (Table 1) has been used in several studies for FISH-based quantiﬁcation of members of the NOR5/OM60 clade [19] 
+his probe covered 131 out of 155 (84%) high-quality, almost full-length 16S rRNA sequences of the NOR5/OM60 clade included in the SILVA Ref dataset (Version 91) [50] 
+he probe design function of ARB [43] was used in an attempt to design new probes with an improved coverage of the NOR5/OM50 clade 
+owever, it was not possible to design a single probe that perfectly matched all the NOR5/OM60 sequences without targeting outgroup sequences 
+elper oligonucleotides were designed for all the above probes in an attempt to improve their hybridization efﬁciency (Table 1) [21] 
+elpers are unlabeled oligonucleotides that bind in the vicinity of the probe, thereby presumably opening the secondary structure of the rRNA 
+o NOR5/OM60 cells were detected further up the Yangtze River at a freshwater reference site with 0.2 psu salinity 
+OR5/OM60 cells were present in all the samples, with no obvious trend from high to low latitude 
+he counts were only higher, at 0.9%, in a coastal sample taken during the same cruise off Iceland (SI Table 1) 
+n a transect in the Namibian coastal upwelling region along 23.001S, the NOR5/OM60 counts at depths 10–15 m decreased with ﬂuctuation from 3.0% (2.0  105 cells ml1) near the coast to 0.5% (1.3  104 cells ml1) in the open ocean (Fig. 5) 
+ith a number of 3.3  105 cells ml1 (3.3% of DAPI) the counts were highest at the station closest to the coast (14.361E) at a water depth of 5 m 
+he highest relative abundance of NOR5/OM60 cells encountered in this study was recorded near the North Sea island Helgoland at station ‘‘Kabeltonne’’ (54.181N 7.901E) 
+n surface water samples retrieved during May–July 2007, which were preﬁltered through a 10 mm ﬁlter, members of the NOR5/OM60 clade ranged from 1.7% to 6.6% (8.2  103– 1.2  105 cells ml1) 
+ounts were also high in sandy intertidal sediments taken at Janssand (53.721N, 7.681E), in the back-barrier region of the island of Spiekeroog close to the German North Sea coast 
+he absolute number of NOR5/OM60 was in the order of  ARTICLE IN PRESS S 
+or all the pictures, blue: DAPI-stained DNA; green: ﬂuorescein conferred probe signal for the NOR5/OM60 group; red: autoﬂuorescence of cyanobacteria 
+able 4.  NOR5/OM60 counts from the Yangtze River estuary cruise on September 6–8, 2006.  Station  Latitude (1N)  Longitude (1E)  Salinity (psu)  Temperature (1C)  NOR5/ OM60 count  DAPI cell count (106 cells ml1)  Chlorophyll (mg l1)  CJ-1 CJ-2 CJ-3 CJ-4 CJ-5 CJ-12 CJ-14 CJ-13 CJ-11 CJ-9 CJ-17  32.00 32.00 32.00 32.00 31.50 31.00 30.50 30.80 31.00 31.20 31.38  122.01 122.50 123.00 123.50 123.50 123.50 123.50 123.00 122.60 122.30 121.60  25.1 29.6 31.2 31.2 31.2 31.8 32.3 30.1 28.1 22.5 0.2  27.8 26.5 25.2 25.6 26.3 28.5 28.0 26.7 27.1 27.2 28.9  0 0.670.2% 1.670.3% 0.970.2% 0.470.1% 0.1070.05% 0.570.1% 2.370.6% 1.470.3% 1.270.3% 0  n.d. 4.1 n.d. 7.8 10.8 n.d. 3.5 4.1 8.7 3.7 n.d.  1.3 0.4 2.2 1.3 0.9 0.5 1.1 3.9 2.3 1.0 n.d.  n.d.: not determined.  ARTICLE IN PRESS 134  S 
+urther quantiﬁcations of the NOR5/OM60 clade, either from this study or from former studies, are summarized in Table 3 
+OR5/OM60 counts by CARD-FISH in the Namibian upwelling region on March 22–23, 2003, along 231S near Walvis Bay 
+he counts were mostly at a depth of 10 m, with the exception of the two easternmost points that were at a depth of 15 m.  Discussion The interest in the NOR5/OM60 clade has signiﬁcantly increased with the discovery that this clade encompasses the elusive marine gammaproteobacterial branch of AAnPs [12,22] 
+he data obtained in this study clearly support the hypothesis of a cosmopolitan  Fig. 6 
+he presence of NOR5/OM60 is now conﬁrmed for all oceans except the Indian Ocean, which has still not yet been examined in this regard 
+everal lines of evidence suggest that members of the NOR5/OM60 clade are generally more abundant in coastal areas than in open-ocean settings 
+ully independent support for this ﬁnding comes from the GOS dataset [52] in which the frequency of NOR5/OM60 16S rRNA gene sequences was signiﬁcantly higher in coastal stations (1.4%) than in open-ocean stations (0.3%) 
+evertheless, these data cannot be directly translated into cell frequencies since the number of rRNA operons per genome is quite different in marine bacteria [31] 
+ur large CARD-FISH dataset also provides convincing support for a preference of members of the NOR5/OM60 clade for the euphotic zone, which had been reported for the coastal Paciﬁc Newport Hydroline station [12] 
+owever, since the absence of NOR5/OM60 sequences is not valid proof of their absence per se, other methods, such as quantitative PCR, need to be applied to quantify NOR5/OM60 in these deep water layers 
+here are indications for strong seasonal ﬂuctuation of the NOR5/OM60 abundance in coastal waters 
+he photoheterotrophic members of the NOR5/OM60 clade beneﬁt from algal photosynthesis, yet it is too early to speculate on a speciﬁc link to particular algal species 
+n the Namibian transect, NOR5/OM60 abundance was highly correlated to turbidity (r2 ¼ 0.79) (Fig. 7a) 
+imilarly, in the surface waters of the Yangtze River estuary, the NOR5/OM60 abundance showed a strong positive correlation with chlorophyll concentration (r2 ¼ 0.74) (Fig. 7c) 
+o, it might be advantageous to stay close to the site of production of these substrates 
+orrelation of NOR5/OM60 to other environmental parameters: (a) turbidity in the Namibian transect, (b) chlorophyll ﬂuorescence in the Namibian transect, (c) chlorophyll in the Yangtze River estuary.  ARTICLE IN PRESS 136  S 
+lso, during the North Atlantic Vision cruise, the NOR5/OM60 proportion in the surface water (10 m) showed no obvious correlation with any detected parameters (latitude, temperature, total DAPI cell count or chlorophyll ﬂuorescence) 
+or bacteria with a dominantly heterotrophic metabolism, photosynthesis might just be an accessory energy source that may not be required by all members of the NOR5/OM60 clade 
+urther studies that might combine the in situ identiﬁcation of NOR5/OM60 cells by CARD-FISH with the direct identiﬁcation of AAnP using infrared ﬂuorescence microscopy [29,53] are therefore needed 
+nly then could we directly determine how many NOR5/OM60 are AAnPs, and, vice versa, how many of the AAnP are NOR5/OM60 
+hey have assessed the diversity of marine AAnPs based on comparative analysis of pufM sequences retrieved from the metagenomic libraries of the GOS [52] 
+upplementary materials Supplementary data associated with this article can be found in the online version at doi:10.1016/j.syapm.2008. 12.001.  References [1] H 
+ebaron, A survey on bacteria inhabiting the sea surface microlayer of coastal ecosystems, FEMS Microbiol 
+arl, Community genomics among stratiﬁed microbial assemblages in the ocean’s interior, Science 311 (2006) 496–503. [18] C 
+ila, Bacterial diversity in the sediments of a temperate artiﬁcial lake, Rapel reservoir, Rev 
+mann, Unlabeled helper oligonucleotides increase the in situ accessibility to 16S rRNA of ﬂuorescently labeled  [22]  [23]  [24]  [25]  [26]  [27]  [28]  [29]  [30]  [31]  [32]  [33]  [34]  137  oligonucleotide probes, Appl 
+mann, Flow cytometric analysis of the in situ accessibility of Escherichia coli 16S rRNA for ﬂuorescently labeled oligonucleotide probes, Appl 
+orikoshi, Microbial communities associated with geological horizons in coastal subseaﬂoor sediments from the Sea of Okhotsk, Appl 
+alkowski, Contribution of aerobic photoheterotrophic bacteria to the carbon cycle in the ocean, Science 292 (2001) 2492–2495 
+alkowski, Bacterial photosynthesis in surface waters of the open ocean, Nature 407 (2000) 177–179.  ARTICLE IN PRESS 138  S 
+iovannoni, Phylogenetic diversity of marine coastal picoplankton 16S rRNA genes cloned from the continental shelf off Cape Hatteras, North Carolina, Limnol 
+oericke, Distribution of planktonic aerobic anoxygenic photoheterotrophic bacteria in the northwest Atlantic, Limnol 
+easoner, Assessment of equine fecal contamination: the search for alternative bacterial source-tracking targets, FEMS Microbiol 
+col. 54 (2005) 269–280. [2] H 
+urgens, H 
+icrobiol. 72 (2006) 557–564. [16] H 
+at. 80 (2007) 213–224. [19] H 
+pring, H 
+akai, H 
+ichter, H 
+ran, H 
+mith, H 
+ceanogr. 50 (2005) 620–628. [54] H 
+u, H 
+uzuki, H 
+n total, more than 500 16S rRNA sequences including 147 almost full-length sequences with a length of 41400 nucleotides were collected 
+he NOR5/OM60 isolate Congregibacter litoralis KT71 is known to form aggregates in pure culture 
+eightman, At least 1 in 20 16S rRNA sequence records currently held in public repositories is estimated to contain substantial anomalies, Appl 
+uchs). 0723-2020/$ - see front matter r 2008 Elsevier GmbH 
+or a long time, all cultured representatives of marine AAnP belonged to  ARTICLE IN PRESS S 
+wenty-eight probably chimeric NOR5/OM60 sequences were used only for biogeographic studies, but not for phylogenetic analysis or probe design 
+o far, only 14 isolates have been reported from marine water or coastal marine sediment (SI Table 4) 
+o other signiﬁcant correlation of NOR5/OM60 abundance was detected with temperature, salinity or total bacterio-  Fig. 7 
+n addition, there are some sequences that cannot be placed on a world map since they are, for instance, from human plasma (clone NF37-A2; AY886614) [59] 
+chleifer, ARB: a software environment for sequence data, Nucleic Acids Res. 32 (2004) 1363–1371. [44] B.J 
+eLong, Phylogenetic screening of ribosomal RNA gene-containing clones in bacterial artiﬁcial chromosome (BAC) libraries from different depths in Monterey Bay, Microb 
+arneah, E 
+en-Dov, E 
+mann, E 
+oren, E 
+icrobiol. 69 (2003) 2684–2691. [41] E 
+icrobiol. 68 (2002) 3094–3101. [50] E 
+latt, E 
+chuppler, E 

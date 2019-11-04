@@ -1,0 +1,22 @@
+ossible slow growth of S. wolinii on fumarate could not be demonstrated because of the presence of a Desulfovibrio strain which grew rapidly on fumarate in both the absence and presence of sulfate.  Propionate is an important intermediate in the conversion of complex organic carbon to methane and carbon dioxide 
+hus far, Syntrophobacter wolinii is the only described propionate-oxidizing bacterium which was obtained in a defined coculture with a Desulfovibrio strain (2) 
+n S. wolinii-M. hungatii culture, in which Desulfovibrio strain Gll was present only as a contaminant, was obtained by subculturing in propionate-media without sulfate 
+n both cultures, Desulfovibrio strain Gll was present either as the hydrogenotroph (sulfidogenic culture) or as a contaminant (methanogenic culture) 
+he Desulfovibrio sp. grew only very slowly in media with succinate and sulfate, whereas we did not observe syn-  1117  i 4-  c as C 0  It  Ui  0  10  20  10 30 0 time (days)  20  30  FIG. 3 
+ultures were made in the absence (A, C, and E) or presence (B, D, and F) of M. hungatii.  trophic growth of the Desulfovibrio sp. on succinate in the absence of sulfate but the presence of M. hungatii (results not shown) 
+n the methanogenic propionate-oxidizing culture, the Desulfovibrio sp. was present only in low cell numbers (about 1%) 
+he Desulfovibrio .sp. was enriched in the media with fumarate as the substrate, whereas the numbers of S. wolinii increased with propionate as the substrate 
+ecause of the fast growth of the Desulfovibrio sp. on fumarate, a possible slow conversion of fumarate by S. wolinu could not be assessed 
+umarate and propionate utilization by mixed cultures of S. wolinii, Desulfovibrio strain Gll, and M. hungatii JF-1 in media without sulfate Culture0  Propionate  degraded  Substrate conversion and product formation (mmol/liter) Acetate Fumarate formed degraded  Succinate formed  Syntrophobacter + Desulfovibnio Fumarate Propionate Propionate + fumarate  1.0 2.3  7.2 0.7 9.0  18.8 18.4  18.4  10.5  17.6  10.6  15.8 18.9 31.0  18.0  1.7  16.9  2.2  6.8  16.5  10.5  12.4  16.7  4.3  Syntrophobacter + Methanospirillumb Fumarate Propionate Propionate + fumarate  Desulfovibrio, fumarate Desulfovibrio + Methanospirillum, fumarate  The initial concentrations of propionate and fumarate were about 18 mM each 
+he cultures were incubated for 4 weeks at 37°C. b In this culture, the Desulfovibrio sp. was still present as a contaminant.  propionate-oxidizing culture. (i) The difficult succinate-oxidation step is avoided. (ii) Fumarate could replace methanogens as an apparent electron acceptor in propionate oxidation. (iii) Fumarate in the absence of propionate was fermented to succinate and carbon dioxide 
+ropionate acts as carboxylic group acceptor in aspartate fermentation by Propionibacterium freudenreichii 
+lectron-transport phosphorylation coupled to fumarate reduction in anaerobically grown Proteus rettgeri 
+edia for the coculture with S. wolinii were supplemented with 0.02% BBL yeast extract (Becton Dickinson, Cockeysville, Md.) and 2.8 g of Na2SO4 per liter, and media for M. hungatii were supplemented with 0.02% BBL  Corresponding author. 1114  VOL. 59, 1993  FUMARATE UTILIZATION BY PROPIONATE-OXIDIZING BACTERIA  1115  TABLE 1 
+artial H2 pressure = 10-5 atm (1 atm = 101.29 kPa).  b  yeast extract, 0.04% bioTrypticase (bioMerieux, Charbonnieres les Bains, France), and 0.15 g of sodium acetate per liter 
+hese contaminants could be enriched and isolated with yeast extract as a substrate 
+ddition of yeast extract (0.1%) to the media led to colonies of the contaminant only 
+owever, when fumarate is present in BrES-inhibited cultures, label originating from propionate was mainly recovered in succinate, while no label in acetate above the natural occurring background level of 1.1% was recovered (Fig. 2A) 
+east extract was fermented by this organism to acetate, isobutyrate, butyrate, and isovalerate (or P-methylbutyrate) in a molar ratio of about 20:2:3:6 
+ven after repeated transfer and dilution in fresh media, small coccoid bacteria remained present in low numbers (less than 1%) 
+hen a small inoculum (1% or less) was used, cultures had a long lag phase before growth started 
+he Desulfo vibrio strain was able to degrade fumarate both in the presence and in the absence of sulfate 

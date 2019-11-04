@@ -1,0 +1,271 @@
+ single nucleotide polymorphism (SNP) caused the substitution of a glutamic acid by a lysine at position 587 in the polymerase/histidinol phosphatase-like domain (PHP) of the enzyme 
+PS profiles of S. ovata wild type (wt) and of the methanol-adapted strain (met-T18-2) .  glutamic acid appeared at transfer 4 
+ucleotide metabolism and its control in lactic acid bacteria 
+icrobial electrosynthesis: feeding microbes electricity to convert carbon dioxide and water to multicarbon extracellular organic compounds. mBio 1, e00103–00110 (2010) 
+lectrobiocommodities: powering microbial production of fuels and commodity chemicals from carbon dioxide with electricity 
+www.nature.com/scientificreports  OPEN  received: 05 May 2015 accepted: 08 October 2015 Published: 04 November 2015  Adaptation of the autotrophic acetogen Sporomusa ovata to methanol accelerates the conversion of CO2 to organic products Pier-Luc Tremblay, Daniel Höglund, Anna Koza, Ida Bonde & Tian Zhang Acetogens are efficient microbial catalysts for bioprocesses converting C1 compounds into organic products 
+ere, an adaptive laboratory evolution approach was implemented to adapt Sporomusa ovata for faster autotrophic metabolism and CO2 conversion to organic chemicals 
+urthermore, acetate production rate from CO2 with an electrode serving as the electron donor was increased 6.5-fold confirming that the acceleration of the autotrophic metabolism of the adapted strain is independent of the electron donor provided 
+he results demonstrate that an efficient strategy to increase rates of CO2 conversion in bioprocesses like microbial electrosynthesis is to evolve the microbial catalyst by adaptive laboratory evolution to optimize its autotrophic metabolism.  Acetogenic bacteria have a unique autotrophic metabolism that is being exploited for the development of biotechnologies aiming at the production of commodity chemicals from C1 compounds like CO2 and CO1,2 
+uring growth on C1 compounds, CO2 is used as an electron acceptor and is being reduced to acetyl-CoA via the Wood-Ljungdahl pathway3,4 
+hey also have been used for the production of commodity chemicals from CO2 and electricity by microbial electrosynthesis (MES) in a bioelectrochemical reactor6–8 
+ethanol can be oxidized anaerobically by acetogens with CO2 from the environment as electron acceptor4,23,24 
+ince S. ovata is one of the most efficient electroautotrophic species reported in the literature29–31, the methanol-adapted strain was tested in a MES system to verify if a faster autotrophic metabolism translated in better performance for the electroconversion of CO2 into acetate 
+he growth  of acetogens on methanol requires the reduction of CO2 through the Wood-Ljundahl pathway4,32 
+o determine if met-T18-2 could also grow better autotrophically with another electron donor than methanol, it was cultivated in a minimal medium with H2 and CO2 only 
+t the end of the log phase, the OD545 of the methanol-adapted strain was 0.32 ±  0.00 compared to 0.24 ±  0.01 for the wild type indicating a higher capacity for biomass generation from CO2 (Fig. 2B) 
+his observation suggests that the adapted strain became more efficient at reducing CO2 through its central metabolism or more efficient at synthetizing cellular components in autotrophic growth conditions 
+icrobial electrosynthesis of acetate from CO2 
+hese observations suggest that the adaptation of S. ovata metabolism for autotrophic growth on methanol has been done at the expense of its growth efficiency on heterotrophic substrate like betaine.  MES of acetate from CO2 
+ne of the most promising features of S. ovata as a microbial catalyst for bioprocesses is its capacity to reduce CO2 to organic compounds with electrons coming from the cathode of a MES reactor6,31 
+nterestingly, met-T18-2 was 6.5 times more efficient at reducing CO2 in a MES system equipped with a graphite cathode poised at a potential of − 690 mV versus SHE than the wild type with an average acetate production rate of 866.7 ±  373.5 mM m−2 day−1 compared to 133.5 ±  43.2 mM m−2 day−1 (Fig. 2) 
+hese observations provide additional evidence that the methanol-adapted strain has become more efficient at reducing CO2 under diverse autotrophic conditions including the ones prevailing during MES 
+ubsequently, methyl group from methanol oxidation entered the Wood-Ljungdahl pathway in combination with CO2 serving as electron acceptor to form acetyl-CoA4 
+he predicted carbon conversion efficiency to acetate of the anaerobic methanol oxidation pathway is 150% with 2 moles of reduced CO2 coming from the environment for every 4 moles of methanol consumed 
+he difference with the predicted carbon conversion efficiency can be explained by the assimilation of a fraction of the carbon coming from methanol and CO2 into the biomass 
+ne of the positive aspects of acetogens like S. ovata compared to other methylotrophs is that they simultaneously reduce CO2 from the environment when oxidizing methanol 
+his can be exploited to develop environment-friendly biotechnologies with high carbon conversion efficiencies using both methanol and the greenhouse gas CO2 as substrates 
+urthermore, S. ovata is the most efficient microbial catalyst for MES, a promising technology for the production of commodity chemicals from the greenhouse gas CO2 and electricity30,31 
+esults presented here clearly indicate that adapting S. ovata to grow faster autotrophically on methanol produces a strain also significantly more efficient at reducing CO2 to organic chemicals in a MES reactor 
+his illustrates the potential of rational ALE strategies for the optimization of autotrophic microbial catalysts for the electroconversion of CO2 into multi-carbon compounds as well as for other industrially-relevant bioprocesses.  Materials and Methods  Organism source and growth conditions 
+hen S. ovata strains were grown with H2 as the sole electron donor and CO2 as the sole electron acceptor and carbon source, the N2-CO2 atmosphere was replaced by a H2-CO2 atmosphere (80:20) at 1.7 atm 
+. ovata DSM-2662 wild type and met-T18-2 were grown in triplicate in 100 ml  of 311 medium with H2 as the electron donor and CO2 as the electron acceptor and source of carbon 
+cientific Reports | 5:16168 | DOI: 10.1038/srep16168  8  www.nature.com/scientificreports/ CO2 reduction to acetate by MES.  MES reactors consisting of three-electrode, dual chambered systems were operated at room temperature with S. ovata grown in the cathode chamber as described previously6,31 
+daptation of the autotrophic acetogen Sporomusa ovata to methanol accelerates the conversion of CO2 to organic products. 
+etter growth on different concentrations of methanol and with H2-CO2 indicated the adapted strain had a more efficient autotrophic metabolism and a higher tolerance to solvent 
+hole-genome sequencing, transcriptomic, and biochemical studies revealed that the molecular mechanisms responsible for the novel characteristics of the adapted strain were associated with the methanol oxidation pathway and the Wood-Ljungdahl pathway of acetogens along with biosynthetic pathways, cell wall components, and protein chaperones 
+ecently, the multiplication of genome sequences and the development of genetic systems for engineering several acetogens led to important progress in the characterization of their metabolism and in the construction of microbial catalysts for industrial processes1,9–14 
+orrespondence and requests for materials should be addressed to T.Z. (email: zhang@biosustain.dtu.dk) Scientific Reports | 5:16168 | DOI: 10.1038/srep16168  1  www.nature.com/scientificreports/  Figure 1 
+utotrophic growth and heterotrophic growth of the methanol-adapted S. ovata. (A) Growth on 2% methanol with S. ovata wild type (wt), a representative methanol-adapted culture after 18 transfers (met-T18) in the presence or in the absence of methanol, and a clone isolated from the adapted culture #2 (met-T18-2). (B) Growth on H2-CO2 
+urthermore, ALE in combination with whole-genome sequencing and transcriptomic sutdies is an efficient strategy to gain useful insights on bacterial metabolism17,22 
+herefore, methanol, which is a solvent inhibiting bacterial growth26–28, is a perfect substrate for an ALE experiment aiming at applying a pressure to select acetogenic strains with faster autotrophic metabolism and higher tolerance to solvent 
+hole-genome sequencing, transcriptomic, and biochemical studies were used to uncover the molecular mechanisms responsible for the improvement of the autotrophic metabolism and for the higher tolerance to methanol.  Results and Discussion  Adaptation of S. ovata for faster growth on methanol 
+trains of S. ovata capable of grow-  ing faster with methanol as the sole source of carbon and electrons were developed by ALE (Fig. 1A) 
+. ovata was chosen for this study because its genome has recently been sequenced and also because it is an efficient microbial catalyst for biotechnologies like MES using C1 compounds as substrate12,29,30 
+fter a lag phase of 105.7 ±  7.2 hours, growth began and a 10% inoculum was transferred into fresh methanol medium 
+he ALE experiment was completed over a period of two months and stopped after 18 transfers since no further improvement of the growth rate was observed 
+ representative clone from the adapted culture #2 (met-T18-2) (Fig. 1A) with a doubling time of 13.2 ±  0.4 hours was further characterized.  Growth of methanol-adapted S. ovata on H2-CO2, 0.5% methanol, and betaine 
+o establish if the adapted strain develops a greater tolerance to methanol toxicity, the wild type and the adapted strain were grown with methanol at a lower concentration of 0.5% 
+s expected, a higher concentration of methanol was more toxic for S. ovata since the wild type, despite a long lag phase, was growing 3.2-fold faster on 0.5% methanol with a doubling time of 20.9 ±  0.5 hours and 4-fold increase in Scientific Reports | 5:16168 | DOI: 10.1038/srep16168  2  www.nature.com/scientificreports/  Figure 2 
+lectron transferred, acetate and current production with (A) S. ovata wild type and (B) the methanol-adapted S. ovata met-T18-2 
+n the case of met-T18-2, a slightly better doubling time of 12.2 ±  0.2 hours and a comparable final OD545 were observed with 0.5% methanol versus 2% methanol 
+hese results indicate that the adapted strain is fitter than the wild type at both high and low methanol concentrations 
+ore importantly, the adapted strain clearly developed mechanisms to be more tolerant to methanol toxicity since it grows similarly at high and low methanol concentrations contrary to the wild type 
+o verify if the faster growth phenotype associated to the methanol-adapted strain is specific to autotrophic growth and not to a faster metabolism in general, the wild type and the adapted strain were grown on betaine which is the carbon and electron source generally employed for heterotrophic growth and maintenance of S. ovata cultures in the laboratory (Fig. 2D) 
+ith betaine, the adapted strain had a doubling time of 12.4 ±  0.3 hours and was growing slower than the wild type which had a doubling time of 8.4 ±  0.1 hours 
+urthermore, the results presented here clearly demonstrate that the autotrophic metabolism of microbial catalysts was an important bottleneck for previously published MES systems30 and that optimization via ALE or other molecular biology approaches can improve significantly MES performance 
+he ALE experiment. (A) Growth rate at different transfers on 2% methanol and mutations detected after jump in the growth rate at transfer 4 and 9 and at the final transfer 18. (B) Growth curves on 2% methanol with clones isolated from transfer 4, 9, 18, and the wild type 
+ach value and curve is the mean of three replicates.  The involved molecular mechanisms 
+solated clones from two independent S. ovata adapted cultures after the 18th transfer on 2% methanol were sequenced and had 33 mutations in common (Fig. 3A, Table S1) 
+o establish a clear correlation between those mutations and the observed improvement in the growth rate, genomes of clones isolated from the 4th transfer and the 9th transfer were also sequenced 
+ clone isolated from the 4th transfer had a longer lag phase and a doubling time of 23.5 ±  1.0 hours which is 2.7 times better than the wild type, but still significantly slower than transfer 18 (Fig. 3B) 
+ clone isolated from the 9th transfer had a lag phase and a doubling time of 16.3 ±  0.5 hours closer to the doubling time observed at transfer 18 
+mong the 33 mutations found in the 2 independent adapted cultures sequenced from the transfer 18, 18 mutations were involved in the first jump observed before transfer 4 and 13 mutations appeared in the second jump before transfer 9 
+he relative large number of mutations found at transfer 4 combines with the mutations detected at transfer 9 and the two mutations appearing later suggest that a complex network of synergistic effects is required to improve the metabolism of S. ovata sufficiently to simultaneously increase its tolerance to methanol and its capacity for autotrophic growth 
+evertheless, their presence in two independent experiments suggests that even if those mutations could have appeared with other electron donors following serial transfer during the exponential growth phase, they are still important for faster growth and metabolism of S. ovata including for methanol-dependent growth as well as other autotrophic growth conditions 
+ecause of the absence of a genetic system in S. ovata, it is impossible to establish clearly causality between the detected mutations and the observed phenotypes 
+hus, based on biochemical evidences as well as the current state of knowledge several common mutations possibly of higher importance will be further discussed in regards to their involvement in faster autotrophic growth and higher tolerance to methanol 
+mong the 33 common mutations identified, some were located in genes involved in DNA replication and rearrangement 
+n the DNA polymerase III of Thermus thermophilus and Thermus aquaticus, this domain has an exonuclease activity and is thought to proofread freshly-synthesized DNA35,36 
+he PHP domain of S. ovata PolC1 has all the metal-coordinating residues required to carry out exonuclease activity and could also be involved in proofreading37 
+he mutations in topB2 and polC1 are possible causes of increase in mutation frequencies accelerating the adaptation of S. ovata to methanol 
+utations were found in front or into genes coding for proteins participating to the regulatory network of S. ovata including 4 transcriptional factors (Stc10, SOV_2c03990, WhiA, and SOV_2c04150) and 2 proteins (DosC and SOV_2c05090) involved in the synthesis of cyclic di-GMP38 (Fig. 3; Table S1) 
+or instance, the complete disruption of the GGDEF domain of DosC due to a 1 bp deletion and the SNP located in the GGDEF Scientific Reports | 5:16168 | DOI: 10.1038/srep16168  4  www.nature.com/scientificreports/  Figure 4 
+odifications in the central metabolism of the methanol-adapted S. ovata strain. (A) The methanol oxidation pathway and (B) the Wood-Ljungdahl pathway of S. ovata 
+og2 fold in blue and q-value in purple are indicated beside differentially-expressed genes in the adapted strain compared to the wild type grown with H2-CO2 
+ log2 fold change ≥  1.15 or ≤  –1.15 and a q-value ≤  0.02 were used as cutoff 
+arbon conversion efficiency was established experimentally from three culture replicates on 0.5% methanol.  domain of SOV_2c05090 could impact on the intracellular level of cyclic di-GMP, a second messenger involved in the transcriptional regulation of many cellular processes including biofilm formation and motility39 
+ased on these observations, RNA sequencing was used to compare gene expression on H2-CO2 in the methanol-adapted strain met-T18-2 to the wild type (Table S2 and S3) 
+enes that were found to be differentially-expressed were involved in central metabolism and in biosynthetic pathways associated with autotrophic growth in minimal medium 
+ther differentially-expressed genes were implicated in processes potentially related to an increase in the tolerance to methanol such as cell wall maintenance, membrane transport, amino acids biosynthesis, and protein folding.  Adaptation of the central metabolism.  The pathway for methanol oxidation in acetogens has been partially characterized in the thermophile Moorella thermoacetica4,40 
+t consists of MtaC, a corrinoid methyltransferase protein, and MtaB, a methanol:corrinoid methyltransferase that transfers the methyl group of methanol to the corrinoid bound to MtaC 
+. ovata has genes coding for enzymes catalyzing all the steps of the methanol oxidation pathway and of the Wood-Ljungdahl pathway12 (Fig. 4) 
+ith 0.5% methanol as the substrate, carbon conversion efficiencies were 129 ±  11% for the adapted strain and 118 ±  16% for the wild type 
+he acetate production rate was 6.1 ±  0.4 mM day−1 for the adapted strain with a methanol consumption of 9.5 ±  1.1 mM day−1 compared to the wild type producing 2.6 ±  0.2 mM day−1 of acetate and consuming 4.4 ±  0.8 mM day−1 of methanol 
+utations and differential expression of genes of the methanol oxidation pathway and of the Wood-Ljungdahl pathway that could contribute to the development of more efficient autotrophic metabolism were found in the adapted strains 
+ike in Sporomusa stain An4, MtaC of S. ovata is probably involved in the first step of methanol oxidation and its mutation suggests that this protein has been optimized for more efficient methanol oxidation and faster growth 
+o establish if this mutation had an Scientific Reports | 5:16168 | DOI: 10.1038/srep16168  5  www.nature.com/scientificreports/ impact on the acetate kinase, the acetate-forming activity of the enzyme was measured44 in whole cell lysates of the wild type and of the adapted strain (met-T18-2) grown on H2-CO2 
+o statistically-significant differential expression was detected for ackA between the adapted strain and the wild type 
+igher transcript abundance was detected for genes of the Wood-Ljungdahl pathway coding for the methyltetrahydrofolate:corrinoid/iron-sulfur protein methyltransferase AcsE, for the corrinoid/ iron-sulfur protein large subunit AcsC, and for the corrinoid/iron-sulfur protein small subunit AcsD (Fig. 4B, Table S2) 
+csE catalyzes the transfer of the methyl group acquired by the tetrahydrofolate cofactor from methanol to the cobalamin cofactor of the corrinoid iron sulfur protein (CFeSP) encoded by acsC and acsD43 
+his reaction is at the heart of the Wood-Ljungdahl pathway and higher expression of acsCDE might translate into better autotrophic metabolism in the methanol-adapted S. ovata strain. acsCDE are predicted to be encoded within the same operon with other differentially expressed genes including hdrC which is coding for the C subunit of the heterodisulfide reductase. hdrA, the gene coding for the A subunit of the heterodisulfide reductase which is located elsewhere in the genome (Table S2) had also higher transcript abundance in met-T18-2 
+lthough its exact function is not known, the transcriptomic data presented here suggests that the heterodisulfide reductase of S. ovata could also be implicated in autotrophic metabolism.  Pyrimidines and vitamins biosynthesis 
+uring the ALE experiment, the minimal medium used for methanol adaptation did not contain yeast extract and thus S. ovata cells had to increase their capacity for de novo pyrimidine biosynthesis 
+yrimidine nucleotides are involved in many cellular processes including the biosynthesis of DNA, RNA, coenzymes, and of components of the cell wall47 
+enes related to the biosynthesis of thiamin and vitamin B12 had lower transcript abundance in the adapted strain (Table S3) 
+n parallel, a gene coding for the vitamin B12 transporter BtuB had higher transcript abundance in the adapted strain further indicating that the cells were favoring transport of exogenous vitamins over de novo biosynthesis.  Amino acids and osmolytes 
+east extract is also an important source of amino acids and thus  it is not surprising that genes involved in biosynthesis of leucine, valine, and tryptophane had higher transcript abundance in met-T18-2 in the absence of yeast extract (Table S1) 
+ther genes participating in the degradation of glutamate, in the deamination of glutamine and asparagine, in the metabolism of glycine, and in the synthesis of pyridoxal 5′ phosphate, a cofactor of multiple enzymes using amino acids as substrates50, had lower transcript abundance in the adapted strain (Table S3) 
+his could be related to the role of (S)-2-acetolactate as a precursor molecule in both the acetoin metabolism and the biosynthesis of amino acids 
+utations were detected in ald2, a gene coding for one of the two alanine dehydrogenases of S. ovata, in grd2, a gene coding for a subunit of a glycine reductase and in putP, a gene coding for a sodium/proline symporter 
+eside protein synthesis, amino acids like proline, glycine along with its methyl derivatives, and glutamate are compatible solutes that can accumulate into the bacterial cells to confer tolerance to osmotic stress, solvents, and thermal stress51–53 
+utations and differential expression of genes participating in the metabolism of the osmoprotectants proline and glycine suggest that the adapted S. ovata is using them to enhance its tolerance to methanol.  Cell wall and transporter.  Development of a higher tolerance to solvent in bacteria has been associated with changes in the lipopolysaccharide (LPS) content of the cell envelope54,55 
+ased on these observations, the LPS profiles of the wild type and of met-T18-2 were investigated (Fig. 5) 
+hanges in membrane transporters and in the overall protein content of the cell wall are also associated with higher tolerance to alcohols25,55 
+urthermore, multiple genes related to transport function and cell wall maintenance were differentially expressed (Table S2 and S3) highlighting the importance of those cellular processes for the development of an optimal S. ovata strain.  Chaperone proteins 
+tress response to solvents involves chaperone proteins performing protein  refolding and preventing aggregation25,59 
+or example, exposing Clostridium acetobutylicum to butanol resulted in the upregulation of genes coding for chaperones including dnaJ, dnaK and hsp genes60 Surprisingly, dnaJ, dnaK2, and hsp1 had lower transcript abundance in met-T18-2 (Table S3) 
+ recent study by Fan et al. suggested that a moderate increase in protein mistranslation and consequently in protein misfolding could improve resistance to oxidative stress probably by activating the general stress response61 
+n parallel, the same adapted strain developed a series of molecular mechanisms increasing its tolerance to methanol including a modified cell wall, the possible use of osmoprotectants, and the possible modulation of chaperone activity 
+ith 33 conserved mutations appearing throughout the ALE experiment and a large contingent of differentially expressed genes, it is clear that Scientific Reports | 5:16168 | DOI: 10.1038/srep16168  7  www.nature.com/scientificreports/ a complex network of interactions is required for the simultaneous development of several phenotypic traits in S. ovata cells 
+ethanol is a promising C1 substrate for the development of biotechnologies producing multicarbon commodity chemicals such as amino acids and polyhydroxyalkanoates27 
+or all growth conditions presented in this study, casitone, sodium sulfide, yeast extract, and resazurin were omitted from the 311 medium 
+fter the 4th, 9th, and 18th transfer, the cultures were streaked on 311 agar plates to isolate clones 
+enomic DNA was extracted with Easy-DNA gDNA purification Kit (Life Technologies, Carlsbad, CA) from 6 ml of 311 betaine cultures of methanol-adapted S. ovata strains met-T4-2, met-T9-1, met-T18-2, and met-T18-3 
+he ends of fragmented DNA were repaired by T4 DNA polymerase, Klenow DNA polymerase, and T4 polynucleotide kinase 
+equencing was done with a MiSeq Reagent kit v2 (300 cycles) on a MiSeq (Illumina) platform with a paired-end protocol and read lengths of 151 nucleotides 
+fter reaching the exponential phase, the whole cultures were centrifuged and resuspended in Max Bacterial Enhancement Reagent (Life Technologies) 
+eads mapping, normalization and quantification of transcript abundance was done from the RNA sequencing data with Rockhopper 2.0266 
+ log2 fold change ≥ 1.15 or ≤ − 1.15 was used as cutoff. q-values ≤ 0.015 (Table S2 and S3) or ≤ 0.02 (Fig. 3) were used as cutoff 
+he graphite stick cathode (36 cm2) and anode (36 cm2) were suspended in 250 ml of 311 medium in two chambers separated by a Nafion 115 ion-exchange membrane (Ion Power, Inc., New Castle, DE, USA) 
+uring the MES experiment, both the cathode and anode chamber were continually bubbled with N2-CO2 (80:20).  High-performance liquid chromatography (HPLC).  Methanol and acetate concentrations in S. ovata cultures were measured with an HPLC apparatus equipped with a HPX-87H anion exchange column (Bio-Rad Laboratories Inc., California, USA) at a temperature of 30 °C, with 5 mM H2SO4 as the mobile phase, and a flow rate of 0.6 ml/min 
+hen,the bacterial cells were centrifuged, washed, and concentrated 10 times in 50 mM Tris-HCl pH 7.4 with 1 mM DTT before being sonicated 
+he acetyl-P to acetate activity of the acetate kinase enzyme was measured in the whole-cell lysates with the method of Bowman et al. (1976) linking the formation of ATP to the reduction of NADP+ via two reactions catalyzed by the hexokinase and the glucose-6-phosphate dehydrogenase67 
+riefly, the reaction contained 100 mM Tris-Cl pH 7.4, 5 mM ADP, 10 mM MgCl2, 5.5 mM glucose, 1 mM NADP+, 2 mM DTT, 6 U of hexokinase, 3 U of glucose-6-phosphate dehydrogenase, and whole-cell lysate 
+he reaction was conducted at room temperature and was started by the addition of 10 mM acetyl-P 
+rotein concentration in whole-cell lysates was measured with the Pierce Coomassie Plus Assay Kit (Life Technologies).  LPS extraction and SDS-PAGE.  LPS from 20 ml of H2-CO2-grown S. ovata cultures at an OD545 of ca. 0.24 were extracted with the LPS extraction kit from iNtRON Biotechnologies (Korea). 5 μ l of LPS from S. ovata wild type and from S. ovata met-T18-2 were loaded on a 12.5% SDS-PAGE 
+athway engineering and synthetic biology using acetogens 
+lostridia: the importance of their exceptional substrate and metabolite diversity for biofuel and biorefinery applications 
+nfluence of Acidic pH on Hydrogen and Acetate Production by an Electrosynthetic Microbiome 
+lasmid Transfer into the Homoacetogen Acetobacterium woodii by Electroporation and Conjugation 
+ genetic system for Clostridium ljungdahlii: a chassis for autotrophic production of biocommodities and a model homoacetogen 
+volution experiments with microorganisms: the dynamics and genetic bases of adaptation 
+daptive laboratory evolution — principles and applications for biotechnology 
+volution, genomic analysis, and reconstruction of isobutanol tolerance in Escherichia coli 
+ c-type cytochrome and a transcriptional regulator responsible for enhanced extracellular electron transfer in Geobacter sulfurreducens revealed by adaptive evolution 
+dditional characteristics of one-carbon-compound utilization by Eubacterium limosum and Acetobacterium woodii 
+orrinoid-Dependent Methyl Transfer Reactions Are Involved in Methanol and 3,4-Dimethoxybenzoate Metabolism by Sporomusa ovata 
+ comparative view of metabolite and substrate stress and tolerance in microbial bioprocessing: From biofuels and chemicals, to biocatalysis and bioremediation 
+ethanol-based industrial biotechnology: current status and future perspectives of methylotrophic bacteria 
+ffect of ethanol and methanol on growth of ruminal bacteria Selenomonas ruminantium and Butyrivibrio fibrisolvens 
+eatures of rumen and sewage sludge strains of Eubacterium limosum, a methanoland H2-CO2-utilizing species 
+loning and sequencing of Escherichia coli mutR shows its identity to topB, encoding topoisomerase III 
+n Escherichia coli topB mutant increases deletion and frameshift mutations in the supF target gene 
+urification and characterization of a methanol-induced cobamide-containing protein from Sporomusa ovata 
+nravelling the one-carbon metabolism of the acetogen Sporomusa strain An4 by genome and proteome analysis 
+urification and properties of acetate kinase from Bacillus stearothermophilus 
+nergy conservation via electron bifurcating ferredoxin reduction and proton/Na(+) translocating ferredoxin oxidation 
+tructure and electron transfer mechanism of pyruvate:ferredoxin oxidoreductase 
+smosensing by bacteria: signals and membrane-based sensors 
+he osmoprotectants glycine and its methyl derivatives prevent the thermal inactivation of protective antigen of Bacillus anthracis 
+mprovement in organic solvent tolerance by double disruptions of proV and marR genes in Escherichia coli 
+ell Envelope Changes in Solvent-Tolerant and Solvent-Sensitive Pseudomonas putida Strains following Exposure to o-Xylene 
+ipoproteins in bacteria: structures and biosynthetic pathways 
+dentification and mutational analysis of rfbG, the gene encoding CDP-D-glucose-4,6-dehydratase, isolated from free living soil bacterium Azotobacter vinelandii 
+ comparison of the endotoxin biosynthesis and protein oxidation pathways in the biogenesis of the outer membrane of Escherichia coli and Neisseria meningitidis 
+ranscriptional analysis of butanol stress and tolerance in Clostridium acetobutylicum 
+poromusa, a new genus of gram-negative anaerobic bacteria including Sporomusa sphaeroides spec. nov. and Sporomusa ovata spec. nov 
+omparison of definitions of the lag phase and the exponential phase in bacterial growth 
+egulation of enzyme activity by succinate and substrates 
+hem. 251, 3117–3121 (1976).  Acknowledgements  This work was funded by the Novo Nordisk Foundation.  Author Contributions  P.L.T. and T.Z. conceived the experiments 
+.L.T., T.Z. and D.H. conducted the experiments 
+.K. performed whole-genome and RNA sequencing 
+.L.T. and T.Z. interpreted the data and wrote the manuscript 
+ll authors reviewed and approved the final manuscript.  Additional Information  Supplementary information accompanies this paper at http://www.nature.com/srep Competing financial interests: The authors declare no competing financial interests 
+. ovata was first adapted to grow quicker autotrophically with methanol, a toxic C1 compound, as the sole substrate 
+cetogens have been mainly employed as microbial catalyst for the production of biofuels from the fermentation of syngas generated from industrial or municipal wastes5 
+or example, ALE has enabled the development of bacterial strains more tolerant to products of interest like biofuels18–20 or faster at reducing electron acceptors involved in bioremediation The Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Hørsholm, Denmark 
+he black arrows indicate repressurization at 1.7 atm of the H2-CO2 atmosphere. (C) Growth on different concentration of methanol. (D) Growth with 40 mM betaine 
+ach curve is the mean of three replicates.  processes21 
+etabolic breakdown by bacteria is a well-known route for the quick elimination of toxic compounds with the purpose of limiting exposure25 
+n this study, ALE was employed to develop a strain of the acetogen Sporomusa ovata growing significantly faster on methanol 
+he autotrophic metabolism of the adapted strain was also investigated with H2 as the electron donor 
+ubsequent transfers were done after the cultures reached the mid-log phase to select for fitter mutants 
+ resulting representative adapted culture was growing 5 times faster than the wild type with a doubling time of 13.0 ±  1.1 hours compared to 64.6 ±  19.4 hours 
+lones isolated from the adapted cultures had comparable growth rates 
+lectron transferred curves correspond to the acetate concentration in mM if all the electrons transferred were converted to acetate 
+cetate production curves in mM correspond to the real progression of acetate concentration in the MES reactor detected by high-pressure liquid chromatography 
+s expected, the average current consumption density of − 2161.7 ±  1071.4 mA m−2 observed with the adapted strain was 6.8-fold higher than with the wild type − 320.1 ±  98.5 mA m−2 
+lectron recovery in acetate was also slightly higher in the adapted strain 94.7 ±  2.1% compared to the wild type 85.3 ±  8.3% 
+hole genome sequencing was used to identify the mutations associated with the observed improvement in the autotrophic metabolism as well as with the higher tolerance to methanol 
+ome of the 33 common mutations identified may not be specifically related to faster growth on 2% methanol 
+epeated exposure to exponential phase may have resulted in the application of a selective pressure for mutations increasing cell fitness during this growth phase 
+t transfer 4, the gene topB2 coding for one of the two topoisomerase III of S. ovata contained a 1bp deletion (Table S1) 
+t transfer 9, the gene polC1 coding for one of the two DNA polymerase III of S. ovata was mutated 
+ifferential expression in the methanol-adapted S. ovata 
+he combination of those mutations might have a significant effect on the transcriptome of the methanol-adapted strains 
+n S. ovata, biochemical evidences demonstrated that the first step of methanol oxidation is catalyzed by a corrinoid-dependent methyltransferase that transfers the methyl group of methanol to tetrahydrofolate (H4folate)24,41 
+ recent proteomic study identified the two components of the corrinoid-dependent methyltransferase in the closely-related species Sporomusa strain An442 
+isser et al., 2015 also suggested that the second step of methanol oxidation was catalyzed by a methyl-H4folate-methyltransferase that transfers the methyl group from methyl-MtaC to H4folate 
+s expected, the adapted strain produced acetate faster than the wild type 
+ SNP causing the substitution of a valine by an alanine in the N-terminal corrinoid-binding domain of MtaC was detected at transfer 9 (Fig. 4A, Table S1) 
+he gene ackA coding for the acetate kinase responsible for the conversion of acetyl-phosphate to acetate in the Wood-Ljungdahl pathway3,43 was also mutated at transfer 9 
+ SNP caused the substitution of the arginine at position 176 to a glutamine (Table S1, Fig. 4B) 
+he acetate kinase activity was 1.5 times higher in the adapted strain with 204.5 ±  29.4 nmol of NADP+ reduced min−1 mg protein−1 compared to 137.5 ±  19.3 for the wild type 
+his suggests that the mutation in AckA has a positive effect on the enzyme performance or stability that could lead to improvement of the efficiency of the Wood-Ljungdahl pathway 
+n methanogens, the heterodisulfide reductase is involved in a flavin-based electron bifurcation mechanism coupling the reduction of CoM-S-S-CoM to the reduction of ferredoxin with electrons from H245 
+his included the eight most highly-upregulated genes all found in the same operon involved in pyrimidine biosynthesis (Table S2) 
+n the laboratory, S. ovata is maintained heterotrophically in a medium amended with 0.1% yeast extract which is known to contain substantial amount of pyrimidine46 
+ince these two vitamins are provided in the medium used for S. ovata, the adapted cells might have reduced the expression of the related biosynthesis pathways genes to limit energy expenses under autotrophic growth conditions 
+his included nifJ1, a gene coding for one of the two pyruvate-ferredoxin oxidoreductases (PFOR) of S. ovata catalyzing the reversible conversion of pyruvate to acetyl-CoA48 
+uring growth on methanol, PFORs of S. ovata are likely to convert part of the acetyl-CoA produced by the Wood-Ljungdahl pathway into pyruvate49, a precursor molecule in many biosynthetic pathways including amino acids 
+oreover, multiple genes associated with the acetoin metabolism had lower transcript abundance in the adapted strain 
+epressing the expression of acetoin-related genes could increase the flux of (S)-2-acetolactate toward amino acids biosynthesis 
+urthermore, three genes involved in amino acids metabolism or transport were mutated in the adapted strains (Table S1, Fig. 3) 
+gt2, a gene coding for one of the two prolipoprotein diacylglyceryl transferases of S. ovata was mutated in the methanol-adapted strain (Table S1) 
+ SNP causing the substitution of the glycine at position 230 by a Scientific Reports | 5:16168 | DOI: 10.1038/srep16168  6  www.nature.com/scientificreports/  Figure 5 
+his enzyme attaches a lipid to the preprolipoprotein anchoring it to the cytoplasmic membrane in the first step of the synthesis of mature lipoprotein56 
+oreover, rfbG, a gene participating in the biosynthesis of polysaccharides specific to the O-antigen of LPS, had higher transcript abundance in met-T18-2 (Table S2)57 
+n the contrary, arnT, a gene coding for an enzyme modifying LPS by adding a 4-amino-4-deoxy-L-arabinose to the lipid A, had a lower transcript abundance in the adapted strain (Table S3)58 
+ignificantly less high-molecular-weight LPS were detected in the adapted strain 
+nterestingly, a solvent-tolerant Pseudomonas putida strain also exhibits a similar LPS profile54 suggesting that the modifications in LPS of S. ovata are involved in higher tolerance to methanol 
+he genomes of the adapted strains had five mutations in genes coding for proteins involved in transport (Table S1, Fig. 3) 
+he lower expression of genes coding for chaperone in the adapted strain might also cause an increase in protein misfolding leading to a better response to methanol-induced stress.  Conclusions  Results presented here demonstrate that under stress, S. ovata can evolve to oxidize methanol faster by modifying its central metabolism with the possible objective of lessening its exposure to this toxic compound 
+his indicates that ALE can be employed to cause the apparition of more than one beneficial characteristic at the same time 
+poromusa ovata DSM 266262 was obtained from the  Deutsche Sammlung Mikroorganismen und Zellkulturen (DSMZ) 
+. ovata strains were routinely maintained in the DSM 311 medium with 40 mM betaine under a N2-CO2 (80:20) atmosphere 
+or MES experiments, cysteine was also omitted from the 311 medium 
+ulture lag time was approximated as the time at which a regression line associated with the exponential growth phase reached the initial OD545 after the addition of the inoculum63.  The ALE experiment 
+. ovata DSM 2662 was cultivated in two independent ALE experiments in 311 medium with 2% methanol as the substrate 
+he following 17 transfers were done when the culture reached the exponential phase 
+dentity of the clones was verified by PCR 
+he genomic libraries were generated with the TruSeq Nano DNA LT Sample Preparation Kit (Illumina Inc., San Diego CA) 
+he Klenow exo minus enzyme was then used to add an ‘A’ base to the 3′ end of the DNA fragments 
+fter ligation of the adapters, DNA fragments ranging from 300 to 400 bp were recovered by beads purification 
+he average size of dsDNA fragments in the libraries was determined with an Agilent 2100 Bioanalyzer 
+he reference genome for the analysis was Sporomusa ovata DSM 2662 (NCBI accession ASXP00000000.1) 
+ll the samples had an average coverage of at least 30X 
+ Ribo-Zero rRNA Removal Kit for bacteria (Illumina) was used to reduce the quantity of ribosomal RNAs present in the total RNA sample 
+he genome of S. ovata DSM-2662 was used as the reference for reads mapping 
+he RNA sequencing data have been deposited with the NCBI GEO database under accession number GSE66194 
+etection was done with a refractive index detector.  Acetate kinase assay.  S. ovata cultures were grown under a H2-CO2 atmosphere until reaching the exponential phase 
+he gel was silver-stained with the SilverXpress Silver Staining Kit from Life Technologies.  References 1. 2. 3. 4.  5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21.  Schiel-Bengelsdorf, B. & Dürre, P 
+irst Insights into the Genome of the Gram-Negative, Endospore-Forming Organism Sporomusa ovata Strain H1 DSM 2662 
+icrobial laboratory evolution in the era of genome-scale science 
+isualizing evolution in real time to determine the molecular mechanisms of n-butanol tolerance in Escherichia coli 
+ffects of methanol on the growth of gastrointestinal anaerobes 
+lectrifying microbes for the production of chemicals 
+nsights into the replisome from the structure of a ternary complex of the DNA polymerase III alpha-subunit 
+ structural role for the PHP domain in E. coli DNA polymerase III 
+yclic di-GMP: the first 25 years of a universal bacterial second messenger 
+haracterization of a corrinoid protein involved in the C1 metabolism of strict anaerobic bacterium Moorella thermoacetica 
+nzymology of the Wood–Ljungdahl Pathway of Acetogenesis 
+racil-induced down-regulation of the yeast uracil permease 
+he images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material 
+rake, H 
+. & May, H 
+oukyu, N., Ishikawa, K., Watanabe, R. & Ogino, H 
+inkart, H 
+., Gottschalk, G. & Hippe, H 
+he molecular evolution of pyridoxal-5′ -phosphate-dependent enzymes 
+daptive laboratory evolution (ALE) which is initiated by applying an environmental stress on a microbial population to select for fitter mutants15 can also be a powerful approach to develop readily beneficial phenotypic characteristics in industrial strains16,17 
+ethanol is a promising C1 compounds used as substrate for several bioprocesses producing organic molecules (Schrader, 2009) 
+he extinction coefficient at 340 nm for NADP+ is 6.22 mM−1 cm−1 
+he Rnf complex of Clostridium ljungdahlii is a protontranslocating ferredoxin:NAD+ oxidoreductase essential for autotrophic growth. mBio 4, e00406–00412 (2013) 
+his work is licensed under a Creative Commons Attribution 4.0 International License 
+he cathode chamber was inoculated with 100 ml of hydrogen-grown culture of S. ovata wild type or met-T18-2 
+ell cycle-dependent dynamic localization of a bacterial response regulator with a novel di-guanylate cyclase output domain 
+cetate kinase activity was measured as nmol of NADP+ reduced min−1 mg protein−1 
+cetate kinase from Veillonella alcalescens 
+riefly, 100 ng of genomic DNA diluted in 52.5 μ l TE buffer was fragmented with a Covaris E220 ultrasonicator (Woburn, MA) 
+he adapter-modified DNA fragments were enriched by three cycles-PCR 
+he growth rate on methanol was increased 5-fold 
+hese transfers were selected because they followed transfers where significant jump in growth rate were observed (Fig. 3) 
+fter growth began, a 10% inoculum was transferred to a fresh medium 
+se of adaptive laboratory evolution to discover key mutations enabling rapid growth of Escherichia coli K-12 MG1655 on glucose minimal medium 
+otal RNA was then extracted with TRIzol Max Bacterial RNA Isolation Kit (Life Technologies) 
+otal RNA was further purified with RNeasy Mini Kit (Qiagen, Hilden, Germany) with on-column DNase treatment 
+he sequencing libraries were prepared in triplicates using a TruSeq RNA Sample Preparation kit (Illumina) 
+. & Papoutsakis, E 
+aBelle, E 
+., Beamish, J. & Papoutsakis, E 

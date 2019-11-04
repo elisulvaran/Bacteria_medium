@@ -1,0 +1,47 @@
+oth organisms are predicted to have complete glycolysis and Entner-Doudoroff pathways, a complete tricarboxylic acid (TCA) cycle, and the ability to make all 20 essential amino acids and some vitamins and cofactors 
+ll Rights Reserved.  Vol. 192, No. 14  Genome Sequences of Strains HTCC2148 and HTCC2080, Belonging to the OM60/NOR5 Clade of the Gammaproteobacteria䌤 J 
+ergin,1 and Stephen J 
+iovannoni1* Department of Microbiology, Oregon State University, Corvallis, Oregon 973311; Division of Biology and Ocean Sciences, Inha University, Incheon 402-751, Republic of Korea2; and J 
+⫹C mol% measurements were computed using the genome sequence and calculated using Practical Extraction and Reporting Language (PERL) 
+he draft genomes of HTCC2148 and HTCC2080 comprised 4,310,225 and 3,576,081 bases, 3,866 and 3,229 predicted open reading frames (ORFs), and 52.96% and 51.82% G⫹C contents, respectively 
+he HTCC2148 genome is predicted to have 39 tRNA genes and two each of the 5S, 16S, and 23S rRNA genes; that of HTCC2080 is predicted to have 41 tRNA genes and one each of the 5S, 16S, and 23S rRNA genes 
+hese organisms may be deficient in B6 and thiamine production, however, and HTCC2080 has no predicted genes for biotin production 
+oth genomes have putative catalase and alcohol and formate dehydrogenase genes 
+TCC2080 contains some predicted phototrophy genes, including a predicted reaction-center H chain, and both contain predicted phosphoenolpyruvate carboxylase genes, indicating the potential for autotrophy in these organisms 
+he draft genome sequences of Gammaproteobacteria HTCC2148 and HTCC2080 have the accession numbers ABXQ00000000 and AAVV00000000, respectively, in GenBank 
+ata annotated independently with GenDB are also accessible in the Marine Microbial Genomics database at Oregon State University (http://bioinfo.cgrb.oregonstate.edu/microbes/).  Strains HTCC2148 and HTCC2080 are members of the important OM60/NOR5 clade of the oligotrophic marine Gammaproteobacteria (OMG), which includes the aerobic anoxygenic photoheterotroph Congregibacter litoralis KT71 in addition to many species of chemoheterotrophs (6, 7) 
+rganisms from this clade are detected globally throughout the euphotic zone (1, 5, 14) and can make up a significant portion (ⱕ11%) of bacterial cells in some locations (1, 6, 12, 14) 
+onsistent with this distribution, HTCC2148 and HTCC2080 were isolated from Oregon coastal water collected at hydrostation NH5 from a depth of 10 m (2) 
+sing dilution-toextinction culturing methods previously described (3, 13), these organisms were cultivated in low-nutrient heterotrophic medium (LNHM) (2) and selected for sequencing due to their phylogenetic affiliation 
+raig Venter Institute, and the draft genomes of HTCC2148 and HTCC2080 containing 75 (ABXQ01000001 to ABXQ01000075) and 25 (AAVV01000001 to AAVV01000025) contigs, respectively, were annotated with the GenDB annotation application program (9) at the Center for Genome Research and Biocomputing at Oregon State University, similarly to that previously described (10, 11) 
+utoannotation was completed by merging results from the Glimmer 2.0 modeling package (4) and contrasting to Basic Local Alignment Search Tool for Proteins (BLASTp) 
+he protein set was additionally searched against the KEGG, SwissProt, Clusters of Orthologous Groups (COG), Pfam, and Interpro protein databases to annotate EC number, gene call, and gene description 
+hese GenDB annotations predicted major metabolic pathways and biosynthesis of amino acids, vitamins, and growth factors, with manual BLAST searches run to confirm autoannotations when neces-  Sequencing, assembly, and annotation and data analysis were supported by the Gordon and Betty Moore Foundation Marine Microbiology Initiative as part of its Marine Microbial Sequencing Project (http://www.moore.org/marine-micro.aspx) and by an individual investigator award to S.J.G 
+e also thank Scott Givan at the Oregon State University Center for Genome Research and Biocomputing for his work in developing the genome annotation software.  * Corresponding author 
+arofsky, and S 
+olyphyletic pho-  3842  Downloaded from http://jb.asm.org/ on February 15, 2018 by guest  Organisms in the OM60/NOR5 clade of the Gammaproteobacteria are ubiquitous in the world’s oceans and can make up as much as 11% of bacterial cells in certain areas 
+solated from coastal Oregon water, Gammaproteobacteria HTCC2148 and HTCC2080 are two members of this important clade 
+ere we present the genome sequences of the OM60 Gammaproteobacteria HTCC2148 and HTCC2080.  VOL. 192, 2010  2.  3.  4.  5.  6.  7.  9.  10.  11.  12.  13.  14.  3843  Dalevi, I.-M 
+ugenholtz, and N 
+MG/M: a data management and analysis system for metagenomes 
+iegerich, and A 
+ohnson, and J.-C 
+ernthaler, A., and J 
+ripp, and S 
+mprovements of highthroughput culturing yielded novel SAR11 strains and other abundant marine bacteria from the Oregon coast and the Bermuda Atlantic Time Series study site 
+arder, and J 
+iogeography and phylogeny of the NOR5/OM60 clade of Gammaproteobacteria 
+ho, J.-C., and S 
+ultivation and growth characteristics of a diverse group of oligotrophic marine Gammaproteobacteria 
+., and S 
+hite, and S 
+hisholm, and D 
+erdts, and R 
+solation of novel pelagic bacteria from the German bight and their seasonal contributions to surface picoplankton 
+lockner, and R 
+omplementary analysis was performed through the Joint Genome Institute IMG/M website (http://img.jgi.doe.gov/cgi-bin/pub/main.cgi) (8) 
+s part of the Moore Foundation Microbial Genome Sequencing Project (http://www.moore.org/microgenome), the genomes were shotgun sequenced by the J 
+ommunity genomics among stratified microbial assemblages in the ocean’s interior 
+tingl, U., H 
+pring, H 
+vanova, E 
