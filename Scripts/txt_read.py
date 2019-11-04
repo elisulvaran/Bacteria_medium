@@ -19,7 +19,7 @@ def funcion_busqueda(mystr,comp_dict):
 						asociaciones.append(sentence)
 
 
-	with open(os.path.join(args.outputPath,"Association_Medium_"+file), mode="w") as oFile:
+	with open(os.path.join(args.outputPath,"Association_Bacteria_"+file), mode="w") as oFile:
 		for oracion in asociaciones:
 			for palabra in oracion:
 				oFile.write("{} ".format(palabra))
