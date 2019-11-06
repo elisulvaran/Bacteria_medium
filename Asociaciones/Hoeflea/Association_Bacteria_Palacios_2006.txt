@@ -1,124 +1,16 @@
-oes not reduce nitrate to nitrite or nitrogen 
-he following API 20NE tests give positive results: hydrolysis of aesculin and b-galactosidase activity (PNPG). 1994  The following API 20NE tests give negative results: nitrate reduction, indole production, acids from glucose, arginine dihydrolase, urease, hydrolysis of gelatin and assimilation of D-glucose, L-arabinose, D-mannose, D-mannitol, Nacetylglucosamine, D-maltose, gluconate, caproate, adipate, malate, citrate and phenylacetate 
-erments the following substrates (API 50 CH): glycerol, L-arabinose, D-ribose, D-xylose, D-glucose, D-fructose, Dmannose, inositol, D-mannitol, D-sorbitol, methyl a-Dglucopyranoside, amygdalin, arbutin, aesculin, salicin, D-cellobiose, D-maltose, sucrose, D-trehalose, inulin, Draffinose, starch, glycogen, gentiobiose, D-turanose, D-lyxose, D-fucose, L-fucose, potassium gluconate and potassium 2-ketogluconate 
-oes not ferment erythritol, D-arabinose, L-xylose, D-adonitol, methyl b-D-xylopyranoside, D-galactose, L-sorbose, L-rhamnose, dulcitol, methyl a-D-mannopyranoside, N-acetylglucosamine, D-lactose, Dmelibiose, D-melezitose, xylitol, D-tagatose, D-arabitol, Larabitol or potassium 5-ketogluconate 
-rowth on artificial seawater with phosphate and traces of minerals and vitamins, supplemented with glycerol or glucose as sole carbon source, is weak 
-he fatty acid profiles, physiological and biochemical data and DNA G+C content (59?7 mol%) support the classification of strain AM1V30T as a member of the genus Hoeflea 
-he isolate was resistant to ampicillin, nalidixic acid and trimethoprim and sensitive to streptomycin, tetracycline, cephalothin, erythromycin and chloramphenicol.  Cell morphology of cultures (after 3–4 days incubation) was observed under a Zeiss Axioskop light microscope; phasecontrast observations were included 
-he cellular fatty acid composition of strain AM1V30T was analysed by GLC at the DSMZ, using a method described previously (Kämpfer & Kroppenstedt, 1996) 
-atty acid methyl ester profiles of strain AM1V30T and related type strains Strains: 1, AM1V30T (data from this study); 2, H. marina LMG 128T (Peix et al., 2005); 3, H. phototrophica DFL-43T (Biebl et al., 2006) 
-alues are mean percentages of total fatty acid methyl esters. tr, Trace amount (¡1?0 %); ND, not detected 
-atty acid Saturated fatty acids 14 : 0 16 : 0 18 : 0 Unsaturated fatty acids 16 : 1v11c 17 : 1v8c 18 : 1v7c 18 : 1v9c 20 : 1v9t 11-Methyl 18 : 1v7c Cyclopropane acids 19 : 0 cyclo v8c 19 : 1 cyclo Summed features 14 : 0 3-OH and/or 16 : 1 iso I 16 : 1v7c and/or 15 : 0 iso 2-OH Unknown  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:44:50  1  2  tr 7?7 1?4  ND  ND  4?0 1?4  6?3 1?2  tr  ND  ND  ND  tr 76?0  62?8  ND  ND  3?6  tr 7?5  20?6  ND  5?6  ND  ND  83?1 tr ND  tr 2?3 ND  3  ND  ND  1?6 3?4  ND  ND  2?6 tr  1?6 2?4  1993  L 
-egative for the following enzyme activities (API ZYM): lipase (C14), trypsin, a-chymotrypsin, acid phosphatase, agalactosidase, b-galactosidase, b-glucuronidase, N-acetylb-glucosaminidase, a-mannosidase and a-fucosidase 
-esistant to ampicillin (25 mg), nalidixic acid (30 mg) and trimethoprim (5 mg); sensitive to cephalothin (30 mg), chloramphenicol (30 mg), erythromycin (15 mg), streptomycin (15 mg) and tetracycline (30 mg) 
-umerical analysis of  fatty acid patterns of coryneform bacteria and related taxa 
-re-  cise measurement of the G+C content of deoxyribonucleic acid by high-performance liquid chromatography 
 International Journal of Systematic and Evolutionary Microbiology (2006), 56, 1991–1995  DOI 10.1099/ijs.0.64238-0  Hoeflea alexandrii sp. nov., isolated from the toxic dinoflagellate Alexandrium minutum AL1V Lucı́a Palacios,1 David R 
-rahal,2 Beatriz Reguera3 and Irma Marı́n1 Correspondence Irma Marı́n imarin@cbm.uam.es  1  Centro de Biologı́a Molecular ‘Severo Ochoa’, Universidad Autónoma de Madrid, Cantoblanco, 28049 Madrid, Spain  2  Colección Española de Cultivos Tipo (CECT) and Departamento de Microbiologı́a y Ecologı́a, Universitat de València, 46100 Burjassot, València, Spain  3  Instituto Español de Oceanografı́a, Centro Oceanográfico de Vigo, PO Box 1552, 36200 Vigo, Pontevedra, Spain  A Gram-negative, aerobic, non-symbiotic bacterium (AM1V30T) was isolated from the toxic dinoflagellate Alexandrium minutum AL1V 
-uring the course of this study, a second species was described by others as belonging to the genus Hoeflea, namely Hoeflea phototrophica; it showed a somewhat higher level of 16S rRNA gene sequence similarity with respect to strain AM1V30T (98?2 %) and was also taken into account 
-o confirm this conclusion, DNA–DNA hybridizations were performed: low values (between 15?8 and 29?8 %) were obtained in all cases 
-train AM1V30T (=CECT 5682T=DSM 16655T) is the type strain.  The Taxonomic Outline of the Prokaryotes (Garrity et al., 2004) indicates that the family Phyllobacteriaceae consists of eight genera representing various origins and lifestyles: Phyllobacterium (Knösel, 1984), Aminobacter (Urakami et al., 1992), Aquamicrobium (Bambauer et al., 1998), Defluvibacter (Fritsche et al., 1999), ‘Candidatus Liberobacter’ (Jagoueix et al., 1994), Mesorhizobium (Jarvis et al., 1997), Nitratireductor (Labbé et al., 2004) and Pseudaminobacter (Kämpfer et al., 1999) 
-wo other genera, Parvibaculum (Schleheck et al., 2004) and Hoeflea (Peix et al., 2005), have since been proposed for consideration as members of this family, on the basis of 16S rRNA gene sequence data 
-ransmission electron micrographs of strain AM1V30T are available as a supplementary figure in IJSEM Online.  64238 G 2006 IUMS  et al., 2006), for isolates from cultures of marine dinoflagellates (three strains from Alexandrium lusitanicum and two from Prorocentrum lima) 
-his study deals with the characterization of a novel isolate, strain AM1V30T, and the proposal of a novel species of the genus Hoeflea 
-he specific relationship between bacteria and dinoflagellates is not well understood, but some authors consider that some of them might be symbiotic, as bacteria have been detected inside dinoflagellate cells (Cavanaugh, 1994; Lewis et al., 2001) 
-train AM1V30T is able to grow axenically in vitro and it also yields blooms in cultures of the microalga from which it was isolated and of another closely related clone (AL4V) 
-or isolation of bacteria, samples of the harvested dinoflagellate culture were taken under sterile conditions, washed in 16 PBS and then collected again by centrifugation 
-alacios and others  5 min with 1 min intervals on ice 
-liquots of the sonicated dinoflagellate cell suspension were streaked on full- and half-strength marine agar 2216 (Difco) for 7 days at 15 uC 
-nly one type of colony – circular and pigmented light brown – was obtained 
-or maintenance and further testing, cells were incubated in marine agar or marine broth 2216 (Difco) at 30 uC unless stated otherwise.  containing antibiotics at the following concentrations: ampicillin, 25 mg; cephalothin, 30 mg; chloramphenicol, 30 mg; erythromycin, 15 mg; nalidixic acid, 30 mg; streptomycin, 15 mg; tetracycline, 30 mg; and trimethoprim, 5 mg 
-he size and ultrastructure of the cells were determined by transmission electron microscopy (see Supplementary Fig 
-ells were negatively stained with uranyl acetate (2 % w/v, pH 4?5) and were observed with a JEOL1010 microscope (Centro de Biologı́a Molecular, Universidad Autónoma de Madrid, Madrid, Spain): monotrichous polar flagellation was observed (Supplementary Fig 
-1).  Genomic DNA was extracted from bacterial cells and purified using the Fast DNA kit (Qbiogene) 
-he 16S rRNA gene was amplified by a PCR using the primers 27f [59AGAGTTTGATC(C/A)TGGCTCAG-39] and 1492r [59-TACGG(C/T)TACCTTGTTACGACTT-39] (Lane, 1991) 
-CR amplification of the 16S rRNA gene was done as described by Orphan et al. (2001) and the products were sequenced directly as described by Moore et al. (1999) 
-he reactions were run on an Applied Biosystems 373S DNA sequencer.  Growth was assessed at 4, 10, 20, 30, 37, 42 and 50 uC and at pH 5, 6, 7, 8, 9 and 10 
-o assess the salinity requirements/ tolerance of strain AM1V30T, 0, 0?8, 1?5, 3, 6 and 10 % NaCl or 2?5 and 5 % sea salts (Sigma) were added to salt-free ZoBell medium, half-strength ZoBell medium and fullstrength ZoBell medium (Oppenheimer & ZoBell, 1952) 
-n all cases, both broth and solid media were tested 
-or comparison purposes, strain AM1V30T was also inoculated into basal medium agar consisting of 0?3 % yeast extract (Difco), 1 % Bacto-peptone (Becton Dickinson), 0?5 % NaCl (Merck) and 1?5 % agar (Pronadisa) 
-he isolate was tested by using standard procedures (Gerhardt et al., 1994) and using the whole test spectrum of the bioMérieux API 20NE kit (for biochemical reactions) and the API ZYM kit (for extracellular enzyme activities) 
-arbohydrate metabolism was investigated using API 50 CH strips (bioMérieux) in conjunction with API 50 CHB/E medium and according to the instructions of the manufacturer 
-PI 50 CH strips were read after incubation for 24 and 48 h at 30 uC 
-hylogenetic analysis using alternative treeing methods (maximum parsimony, maximum likelihood and distance matrix) and data subsets was performed using the appropriate ARB tools (Ludwig et al., 1998) 
-hylogenetic analysis revealed that strain AM1V30T is a member of the family Phyllobacteriaceae, its closest relatives being H. phototrophica and H. marina (98?2 and 97?4 % sequence similarity to the respective type strains) 
-evels of similarity to sequences from species of neighbouring genera were significantly lower: Mesorhizobium, 96?2–96?8 %; Phyllobacterium, 94?4– 96?2 %; Aminobacter, 95?9–96?1 %; Pseudaminobacter, 95?4–96?0 %; Nitratireductor, 95?8 %; Defluvibacter, 95?7 %; and Aquamicrobium, 95?6 % 
-he profile obtained largely resembled those of the two Hoeflea species,  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 56 IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:44:50  Hoeflea alexandrii sp. nov.  Fig. 1 
-eighbour-joining phylogenetic tree based on almost-complete 16S rRNA gene sequences of strain AM1V30T and members of the family Phyllobacteriaceae 
-ar, 1 estimated substitution per 100 base positions.  except with regard to the relative amounts and the presence or absence of some fatty acids in one of the three organisms (Table 1) 
-he production of bacteriochlorophyll a by strain AM1V30T was investigated as described by Biebl et al. (2006) for H. phototrophica: the absorption spectrum lacked the peaks of bacteriochlorophyll a and a carotenoid that are found in H. phototrophica 
-he values for sequence similarity with respect to the type strains of the two species of the genus, H. phototrophica and H. marina (98?2 and 97?4 %, respectively), are above the limit suggested by Stackebrandt & Goebel (1994) as defining bacterial species 
-owever, given the number of phenotypic traits that differentiate strain AM1V30T and those species (see Table 2 and comments above), DNA–DNA hybridization was deemed necessary to confirm its status as a separate species 
-NA was isolated using a French pressure cell (Thermo Spectronic) and was purified by chromatography on hydroxyapatite as described by Cashion et al. (1977) 
-alacios and others  Table 2 
-ifferentiating characteristics for the novel strain and species of the genus Hoeflea Strains: 1, AM1V30T (data from this study); 2, H. marina LMG 128T (Peix et al., 2005); 3, H. phototrophica DFL-43T (Biebl et al., 2006) 
-haracteristic Colony pigmentation Bacteriochlorophyll a Optimal salinity (% NaCl) Salinity range (% NaCl) Temperature range (uC) Urease activity Hydrolysis of gelatin Assimilation of: D-Glucose L-Arabinose D-Mannose D-Mannitol D-Maltose Malate Gentiobiose DNA G+C content (mol%)  1  2  3  Light White–cream None/beige brown 2 2 + 0–6?8 3 ND 0–11?8 0–5 0?5–7 10–42 4–37 15–33 2 + ND 2 W 2 2 2 2 2 2 2 + 59?7  + + + + + + 2 53?1  W ND ND ND ND  + ND  59?3  et al. (1983), using a Cary 100 Bio UV/VIS spectrophotometer equipped with a Peltier-thermostatted 666 multicell changer and a temperature controller with an in situ temperature probe (Varian) 
-xperiments were run in duplicate, giving the following results: strain AM1V30T against H. marina DSM 16791T, 15?8 and 17?2 %; strain AM1V30T against H. phototrophica DSM 17068T, 29?8 and 21?3 % 
-ells are Gram-negative, non-spore-forming rods, about 2?560?8 mm in size and motile by single polar flagella 
-olonies on marine agar 2216 are circular, around 1–2 mm in diameter and pigmented light brown after 2 days incubation at 30 uC 
-ptimal growth occurs at 30 uC and pH 7 
-he temperature and pH ranges for growth are 10–42 uC and pH 6–9, respectively 
-hows no specific ionic requirement, growing with salts in the range 0–11?8 % (optimally between 0 and 6?8 %) 
-xidase-negative and catalase-positive 
-ositive for the following enzyme activities (API ZYM): alkaline phosphatase, esterase (C4), esterase lipase (C8), leucine arylamidase, valine arylamidase, cystine arylamidase, naphthol-AS-BIphosphohydrolase, a-glucosidase and b-glucosidase 
-atty acids detected in strain AM1V30T include (in order of abundance): 18 : 1v7c (83?1 %), 16 : 0 (7?7 %), 11-methyl 18 : 1v7c (3?6 %), summed feature 3 (16 : 1v7c and/or 15 : 0 iso 2-OH; 2?3 %), 18 : 0 (1?4 %) and minor amounts of other fatty acids 
-raga for providing the Alexandrium minutum strain used in this work, and to A 
-.) and an institutional grant to the Centro de Biologı́a Molecular ‘Severo Ochoa’ from Fundación Ramón Areces 
-. has a contract with the Universitat de València under the Ramón y Cajal programme (Ministerio de Ciencia y Tecnologı́a).  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 56 IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:44:50  Hoeflea alexandrii sp. nov.  References  the marine denitrification system of the Montreal Biodome (Canada) 
-ethods for General and Molecular Bacteriology 
-ransfer of  Rhizobium loti, Rhizobium huakuii, Rhizobium ciceri, Rhizobium mediterraneum, and Rhizobium tianshanense to Mesorhizobium gen. nov 
-escription of Pseudaminobacter  gen. nov. with two new species, Pseudaminobacter salicylatoxidans sp. nov. and Pseudaminobacter defluvii sp. nov 
-hylo-  geny, biogeography, and species boundaries within the Alexandrium minutum group 
-he growth and viability  of sixty-three species of marine bacteria as influenced by hydrostatic pressure 
-om-  parative analysis of methane-oxidizing archaea and sulfate-reducing bacteria in anoxic marine sediments 
-axonomic note: a  place for DNA-DNA reassociation and 16S rRNA sequence analysis in the present species definition in bacteriology 
-ransfer of Pseudomonas aminovorans (den Dooren de  Jong 1926) to Aminobacter gen. nov. as Aminobacter aminovorans comb. nov. and description of Aminobacter aganoensis sp. nov. and Aminobacter niigataensis sp. nov 
 n the basis of 16S rRNA gene sequence similarity, strain AM1V30T was most closely related (97?4 % similarity) to the type strain of Hoeflea marina, which belongs to the family Phyllobacteriaceae within the order Rhizobiales of the class Alphaproteobacteria 
- polyphasic approach was used to clarify the taxonomic position of strain AM1V30T 
-he characteristics of the novel strain were sufficiently distinct to indicate that it represents a separate species 
+uring the course of this study, a second species was described by others as belonging to the genus Hoeflea, namely Hoeflea phototrophica; it showed a somewhat higher level of 16S rRNA gene sequence similarity with respect to strain AM1V30T (98?2 %) and was also taken into account 
+he fatty acid profiles, physiological and biochemical data and DNA G+C content (59?7 mol%) support the classification of strain AM1V30T as a member of the genus Hoeflea 
 hus, AM1V30T represents a novel species within the genus Hoeflea, for which the name Hoeflea alexandrii sp. nov. is proposed 
+wo other genera, Parvibaculum (Schleheck et al., 2004) and Hoeflea (Peix et al., 2005), have since been proposed for consideration as members of this family, on the basis of 16S rRNA gene sequence data 
 he genus Hoeflea was created to accommodate a single species, Hoeflea marina, based on a strain of marine origin (from the Baltic Sea, off the coast of Germany) previously assigned to the species Agrobacterium ferrugineum (Peix et al., 2005) 
 ore recently, a second species within this genus was proposed, Hoeflea phototrophica (Biebl The GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain AM1V30T is AJ786600 
-train AM1V30T was isolated from a culture of the toxinproducing marine dinoflagellate Alexandrium minutum AL1V (Instituto Español de Oceanografia, Vigo, Spain) 
-lexandrium minutum is a planktonic species associated with shellfish poisoning events (toxic, paralytic) in coastal regions around the world (Lilly et al., 2005) 
-he Taq dideoxy terminator cycle sequencing kit (Perkin Elmer Applied Biosystems) was used to sequence the 16S rRNA gene 
-his micro-organism required pH values within the range 6–9, optimal growth occurring at pH 7 
-o significant difference in the growth rate was observed with media employing only NaCl instead of sea salts (or sea salts plus NaCl) 
-his, together with the fact that salt-free media supported growth, shows that, despite its marine origin, strain AM1V30T does not have any specific ionic requirement 
-he response of strain AM1V30T to different antibiotics was tested by using filter-paper discs (Mast Diagnostics) 1992  Sequences were compared with public sequences in the EMBL gene sequence databases by using the BLAST program (National Center for Biotechnology Information; http:// ncbi.nlm.nih.gov/) 
-elated sequences were further analysed using the program package ARB (Ludwig et al., 2004; http:// www.arb-home.de) 
-equence alignments were corrected manually using the sequence editor ARB_EDIT 
-ig. 1 shows the tree derived by analysis with Jukes–Cantor corrections 
+his study deals with the characterization of a novel isolate, strain AM1V30T, and the proposal of a novel species of the genus Hoeflea 
 oreover, the sequence of strain AM1V30T consistently aligned with those of the two Hoeflea species, regardless of the treeing method, which means that it can be considered as a member of the same genus 
-he DNA G+C content (mol%) was determined by HPLC at the Deutsche Sammlung von Mikroorganismen und Zellkulturen (DSMZ; Braunschweig, Germany) according to the procedure of Mesbah et al. (1989) 
+he profile obtained largely resembled those of the two Hoeflea species,  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 56 IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:44:50  Hoeflea alexandrii sp. nov.  Fig. 1 
 s has been indicated above, strain AM1V30T belongs to the genus Hoeflea on the basis of 16S rRNA gene sequence data 
-hole-genome hybridization assays were performed at the DSMZ 
-NA–DNA hybridization was carried out as described by De Ley et al. (1970), with the modifications of Huß http://ijs.sgmjournals.org  Table 1 
+ifferentiating characteristics for the novel strain and species of the genus Hoeflea Strains: 1, AM1V30T (data from this study); 2, H. marina LMG 128T (Peix et al., 2005); 3, H. phototrophica DFL-43T (Biebl et al., 2006) 
 he low values obtained support the definitive conclusion that strain AM1V30T represents a novel species within the genus Hoeflea, for which the name Hoeflea alexandrii sp. nov. is proposed.  Description of Hoeflea alexandrii sp. nov 
-.L. gen. n. alexandrii of Alexandrium, the genus name of the dinoflagellate Alexandrium minutum, the source of isolation of the type strain) 
-he DNA G+C content of the type strain is 59?7 mol% 
-he type strain, AM1V30T (=CECT 5682T=DSM 16655T), was isolated from a culture of the toxin-producing marine dinoflagellate Alexandrium minutum AL1V (Instituto Español de Oceanografia, Vigo, Spain).  Acknowledgements We are most grateful to Professor Dr Hans G 
-rüper for his assistance with the Latin nomenclature 
-. was funded by a fellowship from the Comunidad de Madrid 
-his work was supported by grant CTM2004-04078.C03-03/MAR from the Spanish Ministerio de Ciencia y Tecnologı́a (to I 
- rapid method for the base ratio determination of bacterial  DNA 
-icrobial symbiosis: patterns of diversity  in the marine environment 
-. & Lechner, U. (1999).  Defluvibacter lusatiae gen. nov., sp. nov., a new chlorophenoldegrading member of the a-2 subgroup of proteobacteria 
-axonomic outline  of the prokaryotes 
-tudies on the  spectrophotometric determination of DNA hybridization from renaturation rates 
-he phloemlimited bacterium of greening disease of citrus is a member of the a  subdivision of the Proteobacteria 
-implified protocols for the preparation of genomic DNA  from bacterial cultures 
-ämpfer, P., Müller, C., Mau, M., Neef, A., Auling, G., Busse, H 
-train AM1V30T has a DNA G+C content of 59?7 mol%, which is 6?6 mol% higher than that of H. marina LMG 128T (53?1 mol%) (Peix et al., 2005) but almost identical to that of H. phototrophica DFL-43T (59?3 mol%) (Biebl et al., 2006) 
-train AM1V30T was unable to grow at 4 or 50 uC 
-trips were incubated at 30 uC for 24 h (API ZYM) or 48 h (API 20NE) 
-he quantitative  measurement of DNA hybridization from renaturation rates 
-he optimal temperature for growth was 30 uC 
-egarding salinity, growth was supported at 0 (salt-free ZoBell medium without added salts) to 11?8 % total salts (half-strength ZoBell medium plus 10 % NaCl) 
-ptimal growth occurred at 0–6?8 % total salts, indicating that strain AM1V30T must be considered as a marine organism that exhibits moderate halotolerance 
-rganic acids do not support growth 
-n Nucleic Acid Techniques in Bacterial Systematics, pp. 115–175 
-dited by E 
-illy, E 
-oore, E 
-. & DeLong, E 
+. has a contract with the Universitat de València under the Ramón y Cajal programme (Ministerio de Ciencia y Tecnologı́a).  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 56 IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:44:50  Hoeflea alexandrii sp. nov.  References  the marine denitrification system of the Montreal Biodome (Canada) 
+eclassification of Agrobacterium ferrugineum  LMG 128 as Hoeflea marina gen. nov., sp. nov 

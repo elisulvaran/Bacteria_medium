@@ -1,0 +1,125 @@
+he reads were trimmed using Trimmomatic 0.32 (Bolger et al.,  The three clam isolates and M. aquimarina CECT 5080T were subjected to the following phenotypic tests (MacFaddin, 1993): cell morphology and motility, Gram stain, oxidase, catalase, oxidation/fermentation test, gas and acid production from glucose, indole, methyl red, Voges–Proskauer reaction, utilization of citrate, Thornley’s arginine dihydrolase test, Moeller’s arginine dihydrolase and lysine and ornithine decarboxylases, nitrate reduction, and hydrolysis of gelatin, Tween 80, amylase and aesculin 
+he results obtained on the characterization of the clam isolates indicate that they represent two novel species of the genus Marinomonas, for which the names Marinomonas gallaica sp. nov. (type strain Cmf 17.2T=CECT 9049T=LMG 29243T) and Marinomonas atlantica sp. nov. (type strain Cmf 18.22T=CECT 9050T=LMG 29244T) are proposed.  The genus Marinomonas, within the family Oceanospirillaceae, is composed of Gram-negative bacteria that are present in different marine environments such as the Mediterranean sea (Solano & Sanchez-Amat, 1999; Macian  Abbreviations: ANI, average nucleotide identity; DDH, DNA-DNA hybridization; eDDH, estimated DNA-DNA hybridization; FAME, fatty acid methyl esters 
+he following substrates were tested: D-ribose, arabinose, D-xylose, D-glucose, fructose, D-galactose, trehalose, D-mannose, L-rhamnose, maltose, cellobiose, sucrose, lactose, melibiose, salicin, amygdalin, gluconic acid, D-mannitol, sorbitol, myo-inositol, glycerol, sodium acetate, propionic acid, citric acid, pyruvate, lactic acid, trans-aconitic acid, succinic acid, glycine, L-leucine, L-serine, threonine, glutamic acid, D-alanine, arginine, tyrosine, ornithine, citrulline, amino-N-butyric acid, aspartic  acid, L-histidine, lysine, putrescine, 3-hydroxybutyric acid, Nacetyl-D-glucosamine, fumaric acid, malic acid and D-saccharic acid 
+AME profiles also showed differences in the percentages of the main fatty acid among the three type strains, such as in summed feature 3 or C10 : 0 3-OH 
+n summary, the taxonomic study of the three clam isolates supports the proposal of two novel species of the genus Marinomonas, for which the names Marinomonas gallaica sp. nov. and Marinomonas atlantica sp. nov. are proposed with Cmf 17.2T and Cmf 18.22Tas respective type strains.  Chemotaxonomic features were studied by the analyses of fatty acid methyl esters (FAME) 
+atty acid contents (%) of Marinomonas gallaica sp. nov 
+trains were grown on MA plates at 24  C for 24 h.  Characteristic Growth at: 4 C 40  C Growth with: L-Arabinose D-Galactose Sucrose D-Mannitol Glycerol Glycine Lysine Putrescine Aspartic acid  3186  1  2  3  + –  + –  – +  – – + + + + + + +  + + – + + – – + –  – – – – – + – W  +  Marinomonas gallaica (gal.la¢i.ca L. fem. adj. gallaica pertaining to Gallaecia, the north-western region of Spain).  Fatty acid Summed features* 3 8 C10 : 0 C10 : 0 3-OH C12 : 0 C14 : 0 C16 : 0 C18 : 0  1  2  3  24.96 44.45 2.89 5.88 4.14 2.21 12.72 1.55  27.73 45.10 1.90 5.01 3.53 2.13 11.50 2.30  22.94 47.53 2.83 3.03 2.95 1.71 15.94 1.51  *Summed features are groups of two or more fatty acids that could not be separated using the MIDI system 
+ccording to API ZYM tests, positive for alkaline and acid phosphatases, leucine arylamidase, napthol-AS-BI-phosphohydrolase and a-glucosidase, and negative for all other enzymatic activities [strain Rd 20.33 also positive for esterase (C4)] 
+he following compounds are used as sole carbon source on BMA: D-glucose, fructose, D-mannose, gluconic acid, D-mannitol, glycerol, sodium acetate, propionic acid, citric acid, pyruvate, lactic acid, succinic acid, L-serine, glutamic acid, D-alanine, arginine, ornithine, citrulline, amino-n-butyric acid, L-histidine, lysine, putrescine, fumaric acid and malic acid 
+eak reactions were observed for the following compounds: D-psicose, thymidine, quinic acid, D-saccharic acid and DL-carnitine 
+he following reactions were positive on the API ZYM strips: alkaline and acid phosphatases, esterase (C4), leucine arylamidase and a-glucosidase; negative for all other enzymatic activities 
+he following compounds are used as sole carbon source on BMA: arabinose, D-glucose, fructose, D-galactose, D-mannose, gluconic acid, D-mannitol, glycerol, sodium acetate, propionic acid, citric acid, pyruvate, lactic acid, succinic acid, L-serine, glutamic acid, D-alanine, arginine, ornithine, citrulline, amino-nbutyric acid, L-histidine, 3-hydroxybutyric acid, fumaric acid and malic acid 
+tilizes the following compounds on Biolog GN2 microplates: formic acid, DL-lactic acid and L-arabinose 
+International Journal of Systematic and Evolutionary Microbiology (2016), 66, 3183–3188  DOI 10.1099/ijsem.0.001170  Marinomonas gallaica sp. nov. and Marinomonas atlantica sp. nov., isolated from reared clams (Ruditapes decussatus) guez1 and Jesús L 
+omalde  1  Departamento de Microbiología y Parasitología, CIBUS-Facultad de Biología, Universidade de Santiago de Compostela, Campus Vida s/n. 15782, Santiago de Compostela, Spain  jesus.romalde@usc.es  2  Institute of Marine Sciences, School of Biological Sciences, University of Portsmouth, PO4 9LY, Portsmouth, UK  Three Gram-negative bacterial strains (Cmf 17.2T, Rd 20.33 and Cmf 18.22T) isolated from reared clams in Galicia were subjected to a taxonomic study, based on genetic and phenotypic characterization 
+NA–DNA hybridizations were performed to confirm the taxonomic position and the results were below the recommended threshold for species delimitation, specifically 44.5 % (Cmf 17.2T with M. aquimarina CECT 5080T) and 55 % (Cmf 18.22Twith M. aquimarina CECT 5080T) 
+urthermore, the average nucleotide identity (ANIb, ANIm and OrthoANI) and in silico estimated DNA–DNA reassociation values among Cmf 17.2T, Cmf 18.22T and M. aquimarina CECT 5080T were in all cases below the respective threshold for species differentiation 
+he estimated G+C content of the genomic DNA was found to be 45.3 % (Cmf 17.2T) and 44.6 % (Cmf 18.22T) 
+he principal fatty acids of the strains were found to be summed feature 3 (C16 : 1 !7c/C16 : 1!6c), summed feature 8 (C18 : 1!7c/C18 : 1!6c), C16 : 0, C12 : 0 and C10 : 0 3-OH 
+he GenBank/EMBL/DDBJ accession numbers for the 16S rRNA gene sequences of Marinomonas gallaica Cmf 17.2T and Rd 20.33, and Marinomonas atlantica Cmf 18.22T are LN909520, LN909521 and LN909522, respectively 
+enome sequence data of Marinomonas aquimarina CECT 5080T, Marinomonas atlantica Cmf 18.22T and Marinomonas gallaica Cmf 17.2T are publicly available under the accession numbers LTAV00000000, LTAW00000000 and LTAX00000000, respectively 
+ supplementary table available with the online Supplementary Material.  001170 ã 2016 IUMS  et al., 2005), Black sea (Ivanova et al., 2005) and Arctic Ocean (Zhang et al., 2008) 
+he genus was proposed by Van Landschoot & De Ley (1983) to accommodate two unusual species of the genus Alteromonas, Alteromonas communis and Alteromonas vaga 
+n this study we report the characterization of three strains belonging to the genus Marinomonas isolated from reared clams in Galicia (Spain) and determine their taxonomic position within the genus 
+acterial isolates (Cmf 17.2T, Rd 20.33 and Cmf 18.22T) were obtained from healthy reared clams (Ruditapes decussatus) on the Galician coast (NW Spain) 
+asa and others  Marinomonas aquimarina CECT 5080T was provided by the Spanish Collection of Type Cultures (CECT) and included in the study for taxonomic and phenotypic comparison 
+equence similarities of the 16S rRNA gene were determined using the EzTaxon-e server (www.eztaxone. ezbiocloud.net) (Kim et al., 2012) and the BLASTN program, and checked with the Species Living Tree Project (LTP) database (www.arb-silva.de/living-tree) that has frequently been used for delineating bacterial species due to its high quality sequences (Yarza et al., 2008, 2014) 
+equences were aligned using CLUSTALW tool (Larkin et al., 2007), and phylogenetic trees were reconstructed using the neighbourjoining (NJ) and maximum-likelihood (ML) algorithms in MEGA software package version 6.06 (Tamura et al., 2011) 
+istance matrices were calculated by using Kimura’s twoparameter correction and stability of the groups was estimated by bootstrap analysis (1000 replicates) using MEGA version 6.06 (Tamura et al., 2011) 
+nalysis of the 16S rRNA gene sequence revealed that the three strains belonged to the genus Marinomonas, showing the highest sequence similarity with the type strains of M. aquimarina (97.8 %–98.5 %), Marinomonas ostreistagni (97.3 %–97.4 %), Marinomonas fungiae (97.2 %–97.3 %), and Marinomonas brasilensis (97.1 %–97.2 %) 
+imilarity between strains Cmf 17.2T and Rd 20.33 was 99.5 %, and between Cmf 17.2T and Cmf 18.22T was 97.9 % 
+ccording to the LTP database, sequence similarities ranging between 94.5 % and 98.7 % suggest that the microbial strain can be classified as a member of a given genus, whereas higher similarities would be indicative of belonging to a given species (Yarza et al., 2008) 
+hylogenetic analysis based on the 16S rRNA gene sequences, made with NJ and ML approaches, showed that the clam isolates form two different groups within the genus (Fig. 1) 
+trains Cmf 17.2T and Rd 20.33 clustered together in an independent branch from strain Cmf 18.22T and M. aquimarina CECT 5080T, suggesting that these isolates may represent two novel species 
+hus, Cmf 17.2T and Cmf 18.22T were selected as representative strains for further analyses.  2014) 
+he ANIb, ANIm and OrthoANI values were calculated as described by Richter & Rosselló-Móra (2009) using JSpecies (V1.2.1), and Lee et al. (2015) 
+he DNA G+C content was estimated according to the draft genome of strains Cmf 17.2T and Cmf 18.22T, and was found to be 45.3 % and 44.6 % respectively, which are in the range of the genus (i.e., 41–50 %) (Espinosa et al., 2010) 
+verage nucleotide identity (ANI) and eDDH calculations were performed to elucidate genome similarities and species assignation of strains Cmf 17.2T and Cmf 18.22T 
+he values obtained using these indexes (Table 1) were below the respective thresholds (95– 96 % ANI and 70 % eDDH) indicating that these strains represent two novel species of the genus 
+dditionally, OrthoANI (Lee et al., 2015) values showed similarities of 76.26 % between M. aquimarina CECT 5080T and Cmf 17.2T, 76.01 % between M. aquimarina CECT 5080T and Cmf 18.22T and 90.75 % between strains Cmf 17.2T and Cmf 18.22T 
+DH experiments were undertaken between the strains Cmf 17.2T and Cmf 18.22T against the type strain of the species with highest similarity in the 16S rRNA gene, M. aquimarina CECT 5080T 
+B and BA) were performed and were generally within the limits of this method (Goris et al., 1998) 
+esults obtained from DDH experiments between Cmf 17.2T and Cmf 18.22T with M. aquimarina CECT 5080T confirmed their separate status at the species level since the reassociation values were always below the recommended threshold; 44.5 % reassociation value for Cmf 17.2T with M. aquimarina CECT 5080T and 55 % reassociation value for Cmf 18.22T with M. aquimarina CECT 5080T 
+he reassociation value between strains Cmf 17.2T and Cmf 18.22T was 45.5 %.  High Pure PCR Template Preparation kit (Roche) was employed for isolation of genomic DNA for whole-genome sequencing and DNA–DNA hybridization (DDH) experiments 
+he genomes of strains Cmf 17.2T and Cmf 18.22T were sequenced at Sistemas Genómicos (Valencia, Spain) using Illumina paired-end sequencing technology 
+alt tolerance tests were performed on Basal medium agar [BMA: neopeptone (4 g l 1), yeast extract (1 g l 1) and bacteriological agar (15 g l 1)] supplemented with 0, 0.5, 1, 3, 6, 8 and 10 % NaCl 
+rowth at different temperatures (4, 20, 25, 30, 37 and 44  C) and pH (4–10) were also determined 
+dditional  3184  International Journal of Systematic and Evolutionary Microbiology 66 Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 09:22:57  Marinomonas gallaica sp. nov. and Marinomonas atlantica sp. nov.  Marinomonas arctica 328T (DQ492749)  74 62  Marinomonas hwangdonensis HDW-15T (JN087530)  0.005  Marinomonas polaris CK13T (AJ833000)  68  Marinomonas arenicola KMM 3893T (AB467281) Marinomonas primoryensis JCM 11775T (AB681909)  56  Marinomonas rhizomae IVIA-Po-145T (EU188443) Marinomonas foliarum IVIA-Po-155T (EU188444) Marinomonas alcarazii IVIA-Po-14bT (EU188442)  96  Marinomonas pontica46-16T (AY539835)  63  Marinomonas pollencensis IVIA-Po-185T (EU188441) Marinomonas dokdonensis DSW10-10T (DQ011526) Marinomonas aquiplantarum IVIA-Po-159T (EU188447)  94 100  Marinomonas posidonica IVIA-Po-181T (EU188445) Marinomonas spartinae SMJ19T (KT036402) Marinomonas balearica IVIA-Po-101T (EU188448)  99  Marinomonas mediterranea MMB-1T (AB681908) Marinomonas brasilensis R-40503T (GU929940)  78  Cmf 17.2T  92 74 68  Marinomonas gallaica Rd 20.33  92  Marinomonas aquimarina CECT 5080T (AJ843077) Cmf 18.22T  Marinomonas atlantica  Marinomonas vaga ATCC 27119T (X67025) Marinomonas ostreistagni UST010306-043T (AB242868) Marinomonas basaltis LMG 25279T (GU929941)  66 68  Marinomonas communis LMG 2864T (DQ011528)  Fig. 1 
+hylogenetic tree based on 16S rRNA gene sequences showing the relationships of Marinomonas gallaica sp. nov. and Marinomonas atlantica sp. nov. within the genus Marinomonas 
+ar, 0.005 substitutions per nucleotide position.  phenotypic characteristics were determined using API ZYM strips (bioMerieux) and Biolog GN2 plates, according to the manufacturers’ instructions 
+urthermore, utilization of additional sugars, alcohols and organic acids as sole carbon source was determined on plates of basal medium agar (Baumann 1981) supplemented with 1 % (w/v) of the corresponding organic compound 
+acterial cells were straight rods and cell motility was observed 
+ll strains are oxidase- and catalasepositive with aerobic metabolism 
+roduced enzymatic activities are listed in the species descriptions and the differences among the three strains are shown in Table S1 (available in the online Supplementary Material) 
+n addition, Biolog GN2 results showed several differences among the clam isolates (Table S1 and species description) 
+asa and others  Table 1 
+esults of ANI calculations (%) using JSpecies and estimated DDH (%) using GGDC 2.1 M. gallaica sp. nov 
+mf 18.22T  M. aquimarina CECT 5080T  90.38  75.95  ANIb Cmf 17.2T Cmf 18.22T  90.49  M. aquimarina CECT 5080T  76.04  75.58 75.70  ANIm Cmf 17.2T  91.58  Cmf 18.22T  91.58  M. aquimarina CECT 5080T  83.61  83.60 83.40  83.41  eDDH Cmf 17.2T  42.60  Cmf 18.22T  42.60  M. aquimarina CECT 5080T  19.80  19.80 19.60  19.60  (M. aquimarina CECT 5080T grows at 40  C but not at 4  C), and growth in the presence of D-mannitol and glycerol 
+oreover, the clam isolates can be distinguished from each other on the ability to use L-arabinose and D-galactose - activities present in Cmf 18.22Tbut absent in Cmf 17.2T and Rd 20.33 
+n the other hand, Cmf 17.2T and Rd 20.33 are capable of using sucrose, glycine, and lysine but Cmf 18.22T is not able to use these compounds (Table 2).  C10 : 0 3-OH (Table 3) 
+AME were extracted and prepared from 24 h cultures on MA incubated at 24±1  C as described by Sasser (1990) according to the MIDI Microbial Identification System 
+n all strains the principal fatty acids were found to be summed feature 3 (C16 : 1!7c/C16 : 1!6c), summed feature 8 (C18 : 1!7c/C18 : 1!6c), C16: 0, C12 : 0 and  Description of Marinomonas gallaica sp. nov.  Table 2 
+ifferential characteristics among the two proposed species Marinomonas gallaica sp. nov. and Marinomonas atlantica sp. nov. and the closest relative M. aquimarina  Table 3 
+mf 18.22T and M. aquimarina CECT 5080T  Taxa: 1, M. gallaica sp. nov. (Cmf 17.2T and Rd 20.33); 2, M. atlantica sp. nov. (Cmf 18.22T); 3, M. aquimarina (CECT 5080T) 
+nternational Journal of Systematic and Evolutionary Microbiology 66  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 09:22:57  Marinomonas gallaica sp. nov. and Marinomonas atlantica sp. nov.  Cells are Gram-stain-negative, straight-rod-shaped and motile 
+olonies on MA are dull white with regular edges and are non-pigmented 
+atalase- and oxidase-positive 
+egative for production of indole, arginine dihydrolase, and lysine and ornithine decarboxylases 
+egative for hydrolysis of Tween 80, aesculin, starch and gelatin 
+lso utilizes the following compounds on Biolog GN2 microplates: dextrin, glycogen, Tween 40, D-fructose, acetic acid, cis-aconitic acid, formic acid, a-ketoglutaric acid, DL-lactic acid, bromosuccinic acid, succinic acid, L-alaninamide, D-alanine, L-alanine, hydroxyl-L-proline, L-ornithine, L-phenylalanine, L-proline, inosine, uridine, putrescine, L-arabinose, maltose, D-mannitol, turanose, methyl pyruvate, monomethyl succinate, succinic acid, L-alanyl glycine, L-asparagine, L-glutamic acid, glycyl L-aspartic acid, L-aspartic acid, glycyl L-glutamic acid, L-pyroglutamic acid, L-serine, g-aminobutyric acid, 2aminoethanol, 2,3-butanediol, glycerol, DL-a-glycerol phosphate, glucose 1-phosphate and glucose 6-phosphate 
+he main fatty acids are summed feature 3 (C16 : 1!7c/C16 : 1!6c), summed feature 8 (C18 : 1!7c/ C18 : 1!6c), C16 : 0, C10 : 0 3-OH and C12 : 0 
+ells are Gram-stain-negative, straight-rod-shaped and motile 
+egative for hydrolysis of Tween 80, aesculin, starch and gelatin.  Growth occurs in media with 1–10 % NaCl (optimum 3 %) 
+eak reactions were observed for the following compounds: Tween 40, inosine, udiridine, thymidine, phenyethylamine, putrescine, monomethyl succinate, L-asparagine, L-glutamic acid, succinic acid, L-serine, 2-aminoethanol, 2, 3-butanediol, DL-a-glycerol phosphate, glucose 1-phosphate and glucose 6-phosphate 
+he main fatty acids are summed feature 3 (C16 : 1!7c/C16 : 1!6c), summed feature 8 (C18 : 1!7c/C 18 : 1!6c), C16 : 0, C10 : 0 3-OH and C12 : 0 
+he marine Gram-negative eubacteria: genera Photobacterium, Beneckea, Alteromonas, Pseudomonas and Alcaligenes 
+arinomonas brasilensis sp. nov., isolated from the coral Mussismilia hispida, and reclassification of Marinomonas basaltis as a later heterotypic synonym of Marinomonas communis 
+axonomic study of Marinomonas strains isolated from the seagrass Posidonia oceanica, with descriptions of Marinomonas balearica sp. nov. and Marinomonas pollencensis sp. nov 
+asa and others  Goris, J., Suzuki, K., de Vos, P., Nakase, T. & Kersters, K. (1998) 
+LUSTAL W and CLUSTAL X version 2.0 
+rthoANI: an improved algorithm and software for calculating average nucleotide identity 
+arinoMacia monas aquamarina sp. nov., isolated from oysters and seawater 
+enome sequence-based species delimitation with confidence intervals and improved distance functions 
+EGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods 
+ntra- and Intergeneric Similarities of the rRNA Cistrons of Alteromonas, Marinomonas (gen. nov.) and Some Other Gram-negative Bacteria 
+niting the classification of cultured and uncultured bacteria and archaea using 16S rRNA gene sequences 
+ssembling genomes and Mmni-metagenomes from highly chimeric reads 
+nt J Syst Bacteriol 48, 179–186.  3188  International Journal of Systematic and Evolutionary Microbiology 66 Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 09:22:57   
+nalysis of the 16S rRNA gene allowed the identification of the strains as members of the genus Marinomonas, sharing the highest similarity with Marinomonas aquimarina CECT 5080T (97.8 %–98.5 % 16S rRNA gene sequence similarity) 
+hylogenetic analysis of the sequences showed that the three isolates formed two different groups distantly related to their closest relative, M. aquimarina 
+n recent years, the number of described species has increased and, at the time of writing, the genus Marinomonas comprises 24 recognized species (http://www.bacterio.net/marinomonas.html) after the reclassification of Marinomonas basaltis as a later heterotypic synonym of Marinomonas communis (Chimetto et al., 2011) 
+enomic DNA was extracted from 24 h cultures on MA for in vitro amplification of the 16S rRNA gene using the InstaGene Matrix (Bio-Rad) following the manufacturer’s protocol 
+equences for reference strains were retrieved from the GenBank/EMBL/DDBJ databases 
+equence analyses were performed using the DNASTAR Lasergene SEQMAN program 
+he G+C content of the chromosomal DNA was calculated on the basis of its whole-genome sequence 
+stimated DNA–DNA hybridization (eDDH) value was determined between these two strains using the genome-to-genome distance calculator (GGDC2.1) (Auch et al., 2010a, b; MeierKolthoff et al., 2013) 
+DH experiments were performed with the hydroxyapatite/microtitre plate method (Ziemke et al., 1998) using a hybridization temperature (Tm) of 50  C 
+illed circles indicate nodes that were also recovered in maximum-likelihood (HKY+G+I parameter) tree based on the same sequences 
+ootstrap values (>50 %) based on 1000 replications are shown at the nodes of the tree 
+everal phenotypic characteristics allow the discrimination of the two different genomic groups from M. aquimarina such as growth temperature range  http://ijs.microbiologyresearch.org  3185 Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 09:22:57  A 
+ll data are from the present study 
+he G+C content of the genome of the type strain is 45.3 % 
+n additional strain of the species is Rd 20.33,  Description of Marinomonas atlantica sp. nov 
+arinomonas atlantica (at.lan¢ti.ca L. fem. adj. atlantica Atlantic, from the Atlantic Ocean) 
+he G+C content of the genome of the type strain is 44.6 %.  Acknowledgements This work was supported in part by grant AGL2013-42628-R from Ministerio de Economia y Competitividad 
+.L. acknowledges the Ministerio de Ciencia e Innovación (Spain) for a research fellowship.  References Auch, A 
+valuation of a microplate DNA–DNA hybridization method compared with the initial renaturation method 
+hifting the genomic gold standard for the prokaryotic species definition 
+arinomonas pontica sp. nov., isolated from the Black Sea 
+tudies on the phylogenetic relationships of melanogenic marine bacteria: proposal of Marinomonas mediterranea sp. nov 
+arinomonas arctica sp. nov., a psychrotolerant bacterium isolated from the Arctic 
+tarr, H 
+tolp, H 
+alows & H 
+., Klenk, H 
+., Li, H 
+., Liu, H 
+he presence of salt is required for growth 
+rowth is observed from 4  C to 37  C, with optimum growth at 24  C 
+ll media were supplemented with 1 % NaCl when required 
+rowth occurs in media with 1–10 % NaCl (optimum 3 %) 
+ultures were maintained frozen at 80  C in marine broth (MB; Difco) supplemented with 15 % (v/v) glycerol 
+he pH for growth ranges from pH 5 to pH 10 (optimum pH 8) 
+roc Natl Acad Sci USA 106, 19126–19131.  Ivanova, E 
+. & Kiprianova, E 

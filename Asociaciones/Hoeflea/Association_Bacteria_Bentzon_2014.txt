@@ -1,37 +1,16 @@
-C-SIM-MS detection and quantification of free indole-3-acetic acid bacterial galls on the marine alga Prionitis lanceolata (Rhodophyta) J 
-urrently, the Hoeflea genus represents seven species, all of which are isolated from marine and estuarine environments (1, 3–8) 
-hese organisms may facilitate phytoplankton colonization by the production of secondary metabolites that inhibit the growth of potentially competing bacteria (antibiotics) and promote phytoplankton growth (auxins) (9, 10) 
-hether the similarities between the Hoeflea organisms and the Roseobacter clade extends to the production of these bioactive compounds is currently unknown, as the Hoeflea genus is not yet well described, and only two whole-genome sequences are available (accession numbers ABIA00000000 and ARCZ00000000) 
-enomic DNA was extracted from a culture growing to an optical density at 600 nm (OD600) of ⬇1 in ZoBell medium (12) using the E.Z.N.A. tissue DNA kit (Omega Bio-Tek, Norcross, GA, USA), and a paired-end sequencing library with inserts of 450 bp was prepared 
-ndexing was done using short indexing primers (13), and sequencing was done on an Illumina HiSeq 2000 sequencer at the University of Copenhagen sequencing center 
-he sequencing data represent 6.1 ⫻ 107 sequencing reads that were assembled using Velvet de novo assembler version 1.2.08,  November/December 2014 Volume 2 Issue 6 e01213-14  with scaffolding switched off and a k-mer of 47; this produced 282 contigs with a mean length of 19.5 kb, the longest being 239 kb 
-he genome was annotated using the NCBI Prokaryotic Genome Annotation Pipeline and the online Rapid Annotations using Subsystems Technology (RAST) resource version 2.0 (14) 
-econdary metabolite prediction was done using antiSMASH 2.0 (15) and NaPDoS 
-AL378 harbors two bacteriocin gene clusters and two terpene-encoding gene clusters 
-he RAST annotation suggested that bacteriocins produced by the strain are similar to colicin V and the broad-spectrum antibacterial protein marinocine from the marine bacterium Marinomonas mediterranea (16) 
-CKNOWLEDGMENTS This work was supported by grant VKR023285 from the Villum KahnRasmussen foundation to L.G. and by grants 09-066396 and 11-105450 from the Danish Council for Independent Research, Natural Sciences, to L.R 
-ere, we report the draft genome sequence of Hoeflea sp. strain BAL378, a putative producer of bacteriocins, polyketides, and auxins, as demonstrated by genome mining.  Bentzon-Tilia et al.  3.  4.  5.  6.  8. 9.  2 genomea.asm.org  10 
-he SEED and the Rapid annotation of microbial genomes using Subsystems Technology (RAST) 
-urification and partial characterization of marinocine, a new broadspectrum antibacterial protein produced by Marinomonas mediterranea 
-his is an open-access article distributed under the terms of the Creative Commons Attribution 3.0 Unported license 
+crossmark  Draft Genome Sequence of Hoeflea sp 
+raft genome sequence of Hoeflea sp. strain BAL378, a potential producer of bioactive compounds 
 ddress correspondence to Mikkel Bentzon-Tilia, mibti@bio.dtu.dk.  T  he genus Hoeflea belongs to the Phyllobacteriaceae family of the Alphaproteobacteria 
-t was established in 2005 (1) as a consequence of the reclassification of the species Agrobacterium ferrugineum (a marine, star-shaped, aggregate-forming bacterium) into the novel Pseudorhodobacter genus (2) 
 ased on 16S rRNA gene sequence similarity, the Pseudorhodobacter genus did not, however, include the strain A. ferrugineum LMG 128, which subsequently became the type species of the Hoeflea genus, Hoeflea marina LMG 128 (1) 
+urrently, the Hoeflea genus represents seven species, all of which are isolated from marine and estuarine environments (1, 3–8) 
 ne trait commonly shared between the members of Hoeflea is the association with primary producers 
 n addition to rosette formation, phytoplankton colonization is a trait the Hoeflea organisms share with some members of the prevalent marine Roseobacter clade 
+hether the similarities between the Hoeflea organisms and the Roseobacter clade extends to the production of these bioactive compounds is currently unknown, as the Hoeflea genus is not yet well described, and only two whole-genome sequences are available (accession numbers ABIA00000000 and ARCZ00000000) 
 ence, we report here the draft genome sequence of Hoeflea sp 
-his whole-genome shotgun project has been deposited at DDBJ/EMBL/GenBank under the accession no 
-he version described in this paper is the first version 
-ansen for assistance with the genome sequencing.  REFERENCES 1 
-roposal of Pseudorhodobacter ferrugineus gen. nov., comb. nov., for a non-photosynthetic marine bacterium, Agrobacterium ferrugineum, related to the genus Rhodobacter 
+he unclosed draft genome sequence of Hoeflea sp 
+ccording to antiSMASH, Hoeflea sp 
+eclassification of Agrobacterium ferrugineum LMG 128 as Hoeflea marina gen. nov., sp. nov 
 embers of the genus Hoeflea may be examples of such bacteria; however, data describing their metabolisms are scarce 
-omain of the marine microbiologist, p 3–24 
- simple method for the parallel deep sequencing of full influenza A genomes 
-oeflea alexandrii sp. nov., isolated from the toxic dinoflagellate Alexandrium minutum AL1V 
-oeflea anabaenae sp. nov., an epiphytic symbiont that attaches to the heterocysts of a strain of Anabaena 
-oeflea suaedae sp. nov., an endophytic bacterium isolated from the root of the halophyte Suaeda maritima 
-oeflea halophila sp. nov., a novel bacterium isolated from marine sediment of the East Sea, Korea 
-e thank Lars H 
-icrobiol. 55:1163–1166. http://dx.doi.org/10.1099/ijs.0.63291-0. 2 
-cta 1721:193–203. http://dx.doi.org/10.1016/ j.bbagen.2004.11.002.  Genome Announcements  November/December 2014 Volume 2 Issue 6 e01213-14  Downloaded from http://genomea.asm.org/ on February 15, 2018 by guest  7.  Gen 
-dditionally, NaPDoS identified five putative polyketide synthases but no nonribosomal peptide synthases 
+ere, we report the draft genome sequence of Hoeflea sp. strain BAL378, a putative producer of bacteriocins, polyketides, and auxins, as demonstrated by genome mining.  Bentzon-Tilia et al.  3.  4.  5.  6.  8. 9.  2 genomea.asm.org  10 
+he RAST annotation suggested that bacteriocins produced by the strain are similar to colicin V and the broad-spectrum antibacterial protein marinocine from the marine bacterium Marinomonas mediterranea (16) 
+urification and partial characterization of marinocine, a new broadspectrum antibacterial protein produced by Marinomonas mediterranea 

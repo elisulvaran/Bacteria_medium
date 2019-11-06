@@ -1,0 +1,20 @@
+train SOL3f37T had a typical Gram-positive-type cell-wall structure, unlike the thick, multilayered cell wall of its closest relative Clostridiisalibacter paucivorans 
+t exhibited highest 16S rRNA gene sequence similarity (93.4 %) with Clostridiisalibacter paucivorans 37HS60T, 91.8 % with Thermohalobacter berrensis CTT3T and 91.7 % with Caloranaerobacter azorensis MV1087T 
+train SOL3f37T showed a typical Gram-positivetype cell-wall structure, unlike the thick, multilayered cell wall of its closest relative Clostridiisalibacter paucivorans. 100  Fig. 1 
+ellular fatty acid contents of strain SOL3f37T and its closest relative, Clostridiisalibacter paucivorans 37HS60T Strains: 1, Sporosalibacterium faouarense gen. nov., sp. nov 
+OL3f37T; 2, Clostridiisalibacter paucivorans 37HS60T (data from Liebgott et al., 2008) 
+he three most closely related strains with validly published names were Clostridiisalibacter paucivorans 37HS60T, Caloranaerobacter azorensis MV1087T and Thermohalobacter berrensis CTT3T, with sequence similarity of 93.4, 91.7 and 91.8 %, respectively 
+inally, strain SOL3f37T could be distinguished unambiguously from Clostridiisalibacter paucivorans 37HS60T in terms of marked differences in their morphological, genetic and physiological traits 
+train SOL3f37T and Clostridiisalibacter paucivorans 37HS60T both reduced fumarate slowly to succinate 
+nlike Clostridiisalibacter paucivorans 37HS60T, which was unable to use sugars as carbon sources, strain SOL3f37T produced acetate after growth on glucose, fructose and mannitol 
+ike Clostridiisalibacter paucivorans 37HS60T, strain SOL3f37T was an anaerobic, spore-forming, rod-shaped bacterium 
+owever, the 16S rRNA gene sequence similarity between strain SOL3f37T and Clostridiisalibacter paucivorans 37HS60T was less than 93.4 %, and numerous phenotypic characteristics of isolate SOL3f37T were completely distinct 
+train SOL3f37T differed from Clostridiisalibacter paucivorans 37HS60T in its inability to use Casamino acids and amino acids 
+train SOL3f37T and Clostridiisalibacter paucivorans 37HS60T were both mesophilic and slightly thermotolerant, with a similar temperature range for growth, but Clostridiisalibacter paucivorans 37HS60T grew at up to 50 uC (optimum 42 uC), whereas SOL3f37T only grew at up to 48 uC (optimum 40 uC) 
+hus, in contrast to Clostridiisalibacter paucivorans 37HS60T, which was able to grow at pH 5.5, strain SOL3f37T did not grow  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:49:08  Sporosalibacterium faouarense gen. nov., sp. nov.  Table 2 
+OL3f37T (data from the present study); 2, Clostridiisalibacter paucivorans 37HS60T (Liebgott et al., 2008); 3, Caloranaerobacter azorensis MV1087T (Wery et al., 2001); 4, Thermohalobacter berrensis CTT3T (Cayol et al., 2000) 
+lso, unlike SOL3f37T, Clostridiisalibacter paucivorans 37HS60T was unable to grow in media containing less than 10 g NaCl l21 
+he maximum NaCl concentration for growth of Clostridiisalibacter paucivorans 37HS60T was 100 g l21, whereas strain SOL3f37T was able to grow in NaCl concentrations up to 150 g l21 
+lso, the DNA G+C content of Clostridiisalibacter paucivorans 37HS60T (33.0 mol%) was significantly higher than the value calculated for strain SOL3f37T (30.7 mol%) 
+inally, Clostridiisalibacter paucivorans 37HS60T showed an atypical thick Gram-positive http://ijs.sgmjournals.org  cell-wall structure composed of dense and stratified multiple layers, which is restricted to date within these closely related genera to the genus Clostridiisalibacter, whereas strain SOL3f37T showed a typical Gram-positive-type cell-wall structure 
+xhibit a typical Gram-positive-type cell-wall ultrastructure, unlike the thick, multilayered cell wall of the closest relative Clostridiisalibacter paucivorans 

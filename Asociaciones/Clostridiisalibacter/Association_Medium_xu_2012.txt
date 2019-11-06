@@ -1,0 +1,124 @@
+o determine potential electron acceptors, elemental sulfur (0.1 %, w/v), sulfate (20 mM), thiosulfate (20 mM), nitrate (10 mM) and nitrite (5 mM) were added to the basal medium lacking the reductant Na2S, and the results were analysed as described by Ogg & Patel (2009) 
+lemental sulfur and sulfate could enhance growth, but not thiosulfate, nitrate or nitrite; however, neither sulfur nor sulfate was reduced to sulfide 
+ot able to reduce elemental sulfur, sulfate, thiosulfate, nitrate or nitrite 
+ndole, NH3 and H2S were produced from peptone 
+2S, NH3 and indole are produced from peptone.  Fitch, W 
+hen developing the technology, the microbiological composition of the wastewater was investigated and several strains with low 16S rRNA gene sequence similarity to known species were Abbreviations: DMA, dimethyl acetal; FAME, fatty acid methyl ester 
+atty acid methyl esters (FAMEs) were obtained from freeze-dried cells as described by Kuykendall et al. (1988) 
+he fatty acid profiles of the two strains are shown in Table 1 
+olybdatophosphoric acid was used to reveal total lipids, Zinzadze’s reagent for phospholipids, ninhydrin for aminolipids and a-naphthol for glycolipids 
+ellular fatty acid contents of strain BMT and S. faouarense JCM 15487T Data were obtained in this study under identical conditions 
+LDE, Aldehyde; DMA, dimethyl acetal; FAME, fatty acid methyl ester; ND, not detected 
+atty acid iso-C11 : 0 FAME iso-C13 : 0 FAME anteiso-C13 : 0 FAME Summed feature 1* Summed feature 3* iso-C14 : 0 FAME C14 : 0 FAME C14 : 0 DMA iso-C15 : 0 FAME anteiso-C15 : 0 FAME C16 : 0 ALDE C15 : 0 FAME iso-C15 : 0 DMA anteiso-C15 : 0 DMA iso-C16 : 0 FAME C16 : 1 cis7 FAME C16 : 1 cis9 FAME C16 : 0 FAME Summed feature 6* C16 : 1 cis9 DMA C16 : 0 DMA iso-C17 : 0 FAME anteiso-C17 : 0 FAME C17 : 0 cyclo FAME anteiso-C17 : 0 DMA C18 : 2 cis9,12 FAME C18 : 1 cis9 FAME Summed feature 10* C18 : 0 FAME Summed feature 11* C18 : 0 DMA anteiso-C19 : 0 FAME C19 : 0 FAME C20 : 1 cis11 FAME C20 : 1 cis13/trans11 FAME C20 : 0 FAME  Strain BMT  ND  1.5 0.3 0.5 2.1 1.8 6.1 2.0 39.3 7.6 0.5 0.3 10.1 1.6 0.6 0.2 1.5 5.6 0.2 0.7 2.9 1.0 0.9 0.9 ND  0.6 1.1 0.8 3.7 0.2 0.3 0.3 0.6 0.6 0.5 1.9  S. faouarense JCM 15487T 0.3 1.4 0.5 0.6 5.5 0.5 1.6 1.9 42.8 8.7 0.3 ND  22.5 2.5 ND ND  0.2 1.8 ND  0.3 1.9 0.5 ND  1.8 0.4 ND  0.6 0.6 1.1 ND ND ND ND ND ND ND  *Summed features are groups of two or three fatty acids that could not be separated under the conditions used 
+hey contain the following components: summed feature 1, C13 : 1 cis12 FAME and/or C11 : 1 2-OH FAME; summed feature 3, iso-C15 : 0 ALDE and/or unknown fatty acid ECL 13.570; summed feature 6, anteiso-C15 : 0 3OH FAME and/or C16 : 1cis7 DMA; summed feature 10, one or more of C18 : 1 cis11/trans9/trans6; summed feature 11, iso-C17 : 0 3-OH FAME and/or C18 : 2 DMA.  SOL3f37T (94.3 % pairwise similarity), Proteiniborus ethanoligenes GWT (92.1 %) and Clostridiisalibacter paucivorans 37HS60T (92.0 %) 
+haracteristic Isolation source Cell width6length (mm) Motility Gram stain Cell-wall type Spore formation Yeast extract dependence NaCl dependence Type of flagella Temperature for growth (uC) Range Optimum pH for growth Range Optimum NaCl concentration for growth (%, w/v) Range Optimum DNA G+C content (mol%) Growth on Casamino acids Substrates used Cysteine Glutamic acid Glycine Lysine Methionine Serine Valine Fructose Glucose Ribose Sucrose Fumarate Succinate Pyruvate  1  2  3  4  Food industry wastewater  Hydrocarbon-polluted soil  UASB sludge  0.3–0.662.0–6.8 + 2 2 2 2 2 Monotrichous  0.565.0–10.0 + + + + + + Monotrichous  0.5–0.661.4–3.8 2 2 + 2 2 2 None  Olive-mill wastewater 0.563.0–8.0 + + + + 2 + Peritrichous  16–44 37  20–48 40  20–48 37  20–50 42  6.0–9.0 7.5  6.2–8.1 6.9  6.4–10.0 8.5–8.8  5.5–8.5 6.8  0–8 1.5 28.2 +  0.5–15 4 30.7 2  0–2  1–10 5 33.0 +  2 + + 2 + 2 + + + + + 2 2 +  2 2 2 2 2 2 2 + + 2 2 + 2 +  strain BMT but not in S. faouarense JCM 15487T 
+atty  acids, antibiotic resistance, and deoxyribonucleic acid homology groups of Bradyrhizobium japonicum 
+ubstrate utilization was tested in a basal medium containing (l21) 0.3 g KH2PO4, 0.3 g K2HPO4, 1.0 g NH4Cl, 15 g NaCl, 0.1 g KCl, 0.1 g CaCl2 . 2H2O, 0.1 g MgCl2 . 6H2O and 1 ml 0.1 % (w/v) resazurin 
+International Journal of Systematic and Evolutionary Microbiology (2012), 62, 3018–3023  DOI 10.1099/ijs.0.034660-0  Brassicibacter mesophilus gen. nov., sp. nov., a strictly anaerobic bacterium isolated from food industry wastewater Ming-Xu Fang, Wen-Wu Zhang, Yan-Zhou Zhang, Hai-Qin Tan, Xin-Qi Zhang, Min Wu and Xu-Fen Zhu Correspondence  College of Life Sciences, Zhejiang University, 866 Yuhangtang Road, Hangzhou 310058, PR China  Xu-Fen Zhu xufenzhu@zju.edu.cn  A novel mesophilic, strictly anaerobic bacterium, strain BMT, was isolated from food industry wastewater 
+he cells were motile, non-spore-forming rods and stained Gram-negative 
+rowth of strain BMT was observed at 16–44 6C (optimum 37 6C) and pH 6.0–9.0 (optimum pH 7.5) 
+train BMT was chemo-organotrophic, using a few sugars and amino acids as sole carbon and energy sources 
+he fermentation products from peptone-yeast extract broth were propionate, formate, acetate, ethanol and isovalerate 
+he major fatty acids were iso-C15 : 0 (39.3 %), iso-C15 : 0 dimethyl acetal (10.1 %), anteiso-C15 : 0 (7.6 %), C14 : 0 (6.1 %) and C16 : 0 (5.6 %) 
+he major polar lipids were diphosphatidylglycerol, phosphatidylethanolamine and phosphatidylglycerol and a number of unidentified aminoglycolipids, glycolipids and phospholipids 
+hylogenetic analysis based on the 16S rRNA gene sequence revealed that strain BMT was related to various genera of the family Clostridiaceae, and its closest relatives were Sporosalibacterium faouarense SOL3f37T (94.3 % 16S rRNA gene sequence similarity), Proteiniborus ethanoligenes GWT (92.1 %) and Clostridiisalibacter paucivorans 37HS60T (92.0 %) 
+n recognition of its distinct phenotypic and genotypic characteristics, isolate BMT is proposed to represent a novel species of a new genus, Brassicibacter mesophilus gen. nov., sp. nov 
+he tumid stem of Brassica juncea var. tumida is generally used to make the juicy, salty and slightly sour pickle 
+uring the salting process, a microbial community that consists of bacteria, yeasts and fungi plays important roles in the degradation of protein, cellulose and starch from the vegetable to form the distinctive flavour 
+ndustrial manufacture of zhacai was introduced in China during the 1980s, resulting in an industrial wastewater with high salinity (2–8 %) and organic load 
+SMZ medium 104b was used for isolation and routine cultivation 
+he wastewater was serially diluted and inoculated into Hungate roll-tubes (Hungate, 1969) under O2-free N2 
+he cell morphology was examined under optical (Olympus BX 40) and electron (JEOL JEM-1230) microscopy 
+he cells stained Gram-negative in all growth phases and the ultrastructure also revealed a Gram-negative-type cell wall (Fig 
+o study the salinity requirement, DSMZ medium 104b was prepared without NaCl and NaCl was added at 0–10 % (w/ v) at 0.5 % intervals 
+o examine the pH range for growth, MES (pH 5.5–6.0), PIPES (pH 6.5–7.0), Tricine (pH 7.5– 8.5), CAPSO (pH 9.0–9.5) or CAPS (pH 10.0–11.5) was added at 25 mM and the pH was adjusted using sterile solutions (10 %) of HCl or NaOH 
+ugars (20 mM), alcohols (0.1 %), organic acids and amino acids (20 mM) were added individually to the basal medium in the presence of 0.1 g yeast extract l21 
+rowth on Casamino acids, peptone, tryptone and yeast extract (all from BD) was also examined 
+he methyl red and Voges–Proskauer reactions, H2S and indole production and catalase and oxidase activities were determined as described by Wu et al. (2010a) 
+train BMT grew heterotrophically on yeast extract, peptone, tryptone and Casamino acids 
+he fermentation products in peptone-yeast extract broth were propionate, formate, acetate, ethanol and isovalerate 
+train BMT could use four amino acids (glutamic acid, glycine, methionine and valine) as sole carbon and energy sources, and formed formate, acetate and ethanol 
+ructose, glucose, ribose, sucrose and pyruvate were also used, with acetate and ethanol produced 
+he following substrates were not used: alanine, arginine, asparagine, aspartate, cysteine, glutamine, histidine, isoleucine, leucine, lysine, phenylalanine, proline, serine, threonine, http://ijs.sgmjournals.org  tryptophan, tyrosine, arabinose, cellobiose, galactose, lactose, maltose, mannose, melibiose, raffinose, rhamnose, salicin, sorbose, starch, trehalose, xylose, inositol, mannitol, sorbitol, methanol, ethanol, propanol, citrate, fumarate, malate, succinate, malonate, formate, acetate, propionate, lactate, cellulose and xylan 
+hemotaxonomic analyses were performed on strain BMT and Sporosalibacterium faouarense JCM 15487T 
+dentification and quantification of the FAMEs were performed automatically by using the Sherlock Microbial Identification System with the standard MIS Library Generation Software (Microbial ID Inc.) 
+he main FAMEs of strain BMT were iso-C15 : 0 (39.3 %), iso-C15 : 0 dimethyl acetal (DMA) (10.1 %), anteiso-C15 : 0 (7.6 %), C14 : 0 (6.1 %) and C16 : 0 (5.6 %) 
+lthough the main fatty acids of the two strains were similar, differences were observed in their proportions and also in the minor components observed 
+soprenoid quinones were extracted according to Minnikin et al. (1984) and analysed by HPLC as described by Tindall (1990) 
+he polar lipids were extracted and separated on silica gel plates (10610 cm; Merck 5554) and analysed further as described by Minnikin et al. (1984) and Xu et al. (2007) 
+enomic DNA was extracted and the 16S rRNA gene was amplified as described by Wu et al. (2010b) 
+eighbourjoining (Saitou & Nei, 1987), maximum-parsimony (Fitch, 1971) and maximum-likelihood (Felsenstein, 1981) methods in MEGA 5 (Tamura et al., 2011) were used to reconstruct the phylogenetic tree 
+ts topology was also supported by the maximumparsimony and maximum-likelihood trees (see Figs S3 and S4) 
+ang and others  Table 1 
+eighbour-joining phylogenetic tree based on 16S rRNA gene sequences, showing the relationships of strain BMT and related species 
+ar, 0.02 substitutions per nucleotide position.  to two thermophilic strains, Thermohalobacter berrensis CTT3T (91.3 % pairwise similarity) and Caloranaerobacter azorensis MV1087T (91.1 %) 
+ccording to the latest edition of Bergey’s Manual of Systematic Bacteriology (Wiegel, 2009), strain BMT should be classified into the family Clostridiaceae within the order Clostridiales, and probably represents a novel species of a new genus 
+enotypic and phenotypic traits suggest that strain BMT is distinct from its phylogenetic relatives (Table 2) 
+train BMT differed from T. berrensis CTT3T (Cayol et al., 2000) and Caloranaerobacter azorensis MV1087T (Wery et al., 2001) in that the latter strains are thermophilic (and hence were not included in Table 2), with optimal growth temperatures of 65 uC, whereas the upper temperature for growth of strain BMT was 44 uC 
+train BMT fermented amino acids and sugars, which were not metabolized by P. ethanoligenes GWT (Niu et al., 2008), and the G+C content of P. ethanoligenes GWT (38.0 mol%) was significantly higher than that of strain BMT 
+n contrast to Clostridiisalibacter paucivorans 37HS60T (Liebgott et al., 2008), strain BMT could use four sugars as sole carbon and energy sources, and was able to use glutamic acid, glycine, methionine and valine, while Clostridiisalibacter paucivorans 37HS60T fermented cysteine, lysine, serine and valine 
+inally, chemotaxonomic evidence showed the distant relatedness between strain BMT and S. faouarense JCM 15487T 
+train BMT had a lower content (10.1 %) of isoC15 : 0 DMA than did S. faouarense JCM 15487T (22.5 %), and also possessed C14 : 0 and C16 : 0 as major components, while these two fatty acids were minor components in S. faouarense JCM 15487T (Table 1) 
+oreover, nonadecanoic acids (C19 : 0, anteiso-C19 : 0) and eicosaenoic acids (C20 : 0, C20 : 1 cis11, C20 : 1 cis13/trans11) were present in extracts of  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 62 IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:57:39  Brassicibacter mesophilus gen. nov., sp. nov.  Table 2 
+train BMT possessed diphosphatidylglycerol, phosphatidylethanolamine and phosphatidylglycerol as major phospholipids; however, in S. faouarense JCM 15487T, there was little phosphatidylethanolamine, and the glycolipids were also different in the two strains (Fig 
+ther differences between strain BMT and S. faouarense JCM 15487T (Rezgui et al., 2011) included Gram-staining and cell-wall type, spore formation, dependence on yeast extract and NaCl, tolerance of NaCl and substrates used 
+n the basis of the genotypic and phenotypic characteristics described above, we propose that strain BMT represents a novel species of a new genus, with the name Brassicibacter mesophilus gen. nov., sp. nov. http://ijs.sgmjournals.org  ND  38.0 + 2 ND ND  2 2 2 2 2 2 2 2 2 2 2  + 2 2 + 2 + + 2 2 2 2 + + +  Description of Brassicibacter gen. nov 
+. n. brassica a cabbage, and also a scientific genus name; N.L. masc. n. bacter a rod; N.L. masc. n 
+esophilic and strictly anaerobic 
+hemoorganotrophs able to grow on Casamino acids, peptone, tryptone and yeast extract 
+erment a few sugars and amino acids 
+ang and others  C14 : 0 and C16 : 0 
+he major polar lipids are diphosphatidylglycerol, phosphatidylethanolamine and phosphatidylglycerol as well as various unidentified aminoglycolipids, glycolipids and phospholipids 
+rows at 16– 44 uC (optimum 37 uC) and at pH 6.0–9.0 (optimum pH 7.5) 
+ells are able to ferment the following substrates in the presence of yeast extract (0.1 g l21): glutamic acid, glycine, methionine, valine, fructose, glucose, ribose, sucrose and pyruvate 
+ethyl red and Voges–Proskauer tests are negative 
+ests for catalase and oxidase activities are negative 
+n integrated  procedure for the extraction of bacterial isoprenoid quinones and polar lipids 
+nt J Syst Evol Microbiol 61, 99–104.  We thank Dr Jean Euzéby for his help with etymology and nomenclature 
+his work was supported by grants from the National Natural Science Foundation of China (grant no. 30970002) and from the National Science and Technology Major Projects – Water Pollution Control and Treatment Project (2008ZX07101-006-3).  Saitou, N. & Nei, M. (1987) 
+EGA5: molecular evolutionary genetics analysis using max-  imum likelihood, evolutionary distance, and maximum parsimony methods 
+ol Biol Evol 28, 2731–2739.  References  CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice 
+he  phylogeny of the genus Clostridium: proposal of five new genera and eleven new species combinations 
+ew York: Springer.  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 62 IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:57:39  Brassicibacter mesophilus gen. nov., sp. nov.  Wu, X.-Y., Zheng, G., Zhang, W.-W., Xu, X.-W., Wu, M. & Zhu, X.-F. (2010a) 
+alomonas saccharevitans sp. nov.,  Wu, X.-Y., Shi, K.-L., Xu, X.-W., Wu, M., Oren, A. & Zhu, X.-F. (2010b).  Halomonas arcis sp. nov. and Halomonas subterranea sp. nov., halophilic bacteria isolated from hypersaline environments of China 
+nt J Syst Evol Microbiol 57, 1619–1624.  Alkaliphilus halophilus sp. nov., a strictly anaerobic and halophilic bacterium isolated from a saline lake, and emended description  http://ijs.sgmjournals.org  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:57:39  3023   
+he type strain of Brassicibacter mesophilus is BMT (5JCM 16868T 5DSM 24659T).  Zhacai is a variety of preserved vegetable that has been favoured in China since it was originally salted during the 1890s 
+icrobiological degradation has proved to be an effective technology to treat the industrial wastewater 
+he GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain BMT is GU645013 
+our supplementary figures are available with the online version of this paper.  3018  isolated, such as Citricoccus zhacaiensis FS24T (Meng et al., 2010) 
+ere, we report a strain representing a novel species of a new genus belonging to the family Clostridiaceae within the order Clostridiales (Wiegel, 2009) that is a strictly anaerobic, mesophilic, non-spore-forming bacterium, isolated from zhacai wastewater 
+ilver-plating staining was performed to observe the flagella, which were also observed under transmission electron microscopy 
+ltrathin sectioning was performed to examine the cell ultrastructure 
+ranyl acetate was used to stain the cells.  Downloaded from www.microbiologyresearch.org by 034660 G 2012 IUMS IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:57:39  Printed in Great Britain  Brassicibacter mesophilus gen. nov., sp. nov.  Cells of strain BMT were long, thin rods (0.3–0.662.0– 6.8 mm) with monotrichous flagella (Fig 
+he heat resistance of the cells was determined as reported by Cayol et al. (2000); the cells could not survive heating to 80 uC for 20 min 
+aCl was not necessary for growth; the strain grew in the presence of 0– 8 % NaCl, with optimum growth at 1.5 % 
+ells used in analyses of the two strains were cultivated in DSMZ medium 104b until the OD600 reached 0.2, which was considered to be an indication of late-exponential phase 
+he almostcomplete 16S rRNA sequence (1490 nt) was compared with sequences from closely related species with the EzTaxon service (Chun et al., 2007) 
+volutionary distances were calculated according to the algorithm of Kimura’s two-parameter model (Kimura, 1980) for the neighbour-joining tree (Fig. 1) 
+n the basis of 16S rRNA gene sequence similarity, the three closest relatives of strain BMT were S. faouarense  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:57:39  3019  M.-X 
+alues are percentages of total fatty acids; fatty acids representing .5 % of the total are in bold 
+omparisons of 16S rRNA gene sequences revealed that strain BMT belonged to cluster XII of the Clostridiales (Collins et al., 1994) 
+haracteristics that distinguish strain BMT from the type strains of phylogenetically related species Strains: 1, BMT; 2, S. faouarense SOL3f37T (data from Rezgui et al., 2011); 3, P. ethanoligenes GWT (Niu et al., 2008); 4, Clostridiisalibacter paucivorans 37HS60T (Liebgott et al., 2008). +, Positive; 2, negative; ND, no data available; UASB, upflow anaerobic sludge blanket 
+rassicibacter rod-shaped bacterium from Brassica, referring to the isolation of the first strain from wastewater of the preserved vegetable Brassica juncea) 
+he DNA G+C content of the only known strain is 28.2 mol%. 16S rRNA gene sequence comparisons locate the genus in the lineage of lowG+C-content Gram-positive bacteria, in the Clostridiaceae, the type family of the order Clostridiales 
+isplays the following properties in addition to those given for the genus 
+oward defining the course of evolution:  minimum change for a specific tree topology 
+ roll tube method for the cultivation of strict  anaerobes 
+easurement of deoxyguano-  sine/thymidine ratios in complex mixtures by high-performance liquid chromatography for determination of the mole percentage guanine + cytosine of DNA 
+he DNA G+C content of strain BMT is 28.2 mol%.  sp. nov., a thermophilic, anaerobic bacterium from the Great Artesian Basin of Australia aquifer 
+zTaxon: a web-based tool for the identification of  prokaryotes based on 16S ribosomal RNA gene sequences 
+mphibacillus jilinensis sp. nov., a facultatively anaerobic,  of the genus Alkaliphilus 
+ropionate is formed from peptone-yeast extract broth 
+he type species is Brassicibacter mesophilus 
+he NaCl range for growth is 0–8 % (w/v), with an optimum at 1.5 % 
+he NaCl concentration range for growth was 0–8 % (optimum 1.5 %, w/v) 
+or transmission electron microscopy, cells were prepared on plates incubated at 37 uC in an anaerobic chamber (Bugbox; Ruskinn) for 48 h 
+ells appeared singly or in pairs 
+he pH range for growth was 6.0–9.0 with an optimum at pH 7.5; no growth was observed at or below pH 5.5 or at or above pH 9.5 
+ells are 0.3–0.662.0–6.8 mm, occurring singly or in pairs 
+he DNA G+C content was 28.2 mol% 
+he DNA G+C content of strain BMT, determined by reverse-phase HPLC according to Mesbah & Whitman (1989), was 28.2 mol% 
+volutionary trees from DNA sequences: a maximum likelihood approach 
+ram staining was performed in all growth phases 
+he temperature range for growth was determined using a water bath maintained at 10–50 uC at 1 uC intervals 
+he optimal temperature for growth was 37 uC (range 16–44 uC) 

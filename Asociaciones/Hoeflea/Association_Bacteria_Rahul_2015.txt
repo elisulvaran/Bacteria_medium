@@ -1,165 +1,34 @@
-itrogen source utilization was tested by replacing ammonium chloride with 7 mM (final concentration) different nitrogen sources (NaNO3, NaNO2, glutamate, aspartate, glutamine and urea) 
-mmonium chloride is used as sole nitrogen source; cannot use glutamine or glutamate as sole source of carbon/nitrogen and energy 
-arious biochemical tests such as hydrolysis of starch, casein, gelatin and Tweens 20 and 80, oxidase, catalase, nitrate reduction, nitrite reduction, H2S production, methyl red and Voges–Proskauer tests were performed by the procedures as outlined in Cappuccino & Sherman (1998) 
-ll strains are negative for nitrate and nitrite reduction, H2S production, methyl red, Voges–Proskauer, hydrolysis of starch, gelatin and casein, and activity of arginine dihydrolase, phenylalanine deaminase, ornithine decarboxylase and lysine decarboxylase. +, Positive; W , weakly positive; 2, negative 
-egative for nitrate and nitrite reduction 
-he water sample with traces of oil was inoculated into 250 ml conical flasks containing 100 ml mineral salts medium [comprising (g l21): KH2PO4 (0.5), MgSO4. 7H2O (0.2), NH4Cl (0.6), CaCl2.2H20 (0.05) and 5 ml ferric citrate solution (0.1 %, w/v)] with 2 % (v/v) dieseloil as a carbon source, and was incubated at 30 8C with shaking at 100 r.p.m. for 3 days 
-atty acid analysis was done as described previously (Sasser, 1990; Subhash et al., 2014) 
- procedure for the isolation of deoxyribonucleic  acid from microorganisms 
-recise  measurement of the G+C content of deoxyribonucleic acid by high-performance liquid chromatography 
-eoxyribonucleic acid homology  Gemmobacter changlensis to a new genus as Cereibacter changlensis gen. nov., comb. nov 
 International Journal of Systematic and Evolutionary Microbiology (2015), 65, 2403– 2409  DOI 10.1099/ijs.0.000277  Hoeflea olei sp. nov., a diesel-oil-degrading, anoxygenic, phototrophic bacterium isolated from backwaters and emended description of the genus Hoeflea K 
-asikala1 and Ch.V 
-amana2 Correspondence  1  Bacterial Discovery Laboratory, Centre for Environment, Institute of Science and Technology, JNT University Hyderabad, Kukatpally, Hyderabad 500 085, India  2  Department of Plant Sciences, School of Life Sciences, University of Hyderabad, P.O 
-train JC234T was oxidase- and catalase-positive, and grew at 20–35 8C and at pH 7–9 
-ells contained bacteriochlorophyll-a, hydroxydemethylspheroidene and three unidentified carotenoids 
-rowth occurred under aerobic, microaerobic and phototrophic anaerobic conditions 
-train JC234T could utilize diesel-oil as a sole source of carbon and energy 
 ased on the 16S rRNA gene sequence analysis, strain JC234T belonged to the genus Hoeflea within the family Phyllobacteriaceae, and was closely related to Hoeflea alexandrii AM1V30T (98.1 % 16S rRNA gene sequence similarity), Hoeflea halophila JG120-1T (97.6 %) and other members of the genus Hoeflea (,96.4 %) 
 train JC234T showed 22¡2 % and 28¡1.5 % DNA–DNA hybridization with Hoeflea alexandrii KCTC 22096T and Hoeflea halophila KCTC 23107T, respectively 
-he major cellular fatty acids were C18 : 1v7c/C18 : 1v6c, C16 : 0 and C16 : 1v7c/C16 : 1v6c 
-hosphatidylcholine, phosphatidylethanolamine, phosphatidylmonomethylethanolamine and phosphatidylglycerol were the major polar lipids 
 n the basis of morphological, physiological, genetic, phylogenetic and chemotaxonomical analyses, we conclude that strain JC234T represents a novel species of the genus Hoeflea, for which the name Hoeflea olei sp. nov. is proposed 
+n emended description of the genus Hoeflea is also provided.  Reclassification of Agrobacterium ferrugineum LMG 128 (Ahrens, 1968; Rüger & Höfle, 1992) resulted in the creation of the genus Hoeflea (Peix et al., 2005) with Hoeflea marina as the type species 
 t the time of writing, the genus Hoeflea comprises six species with validly published names (http://www.bacterio.net/hoeflea.html): Hoeflea marina (Peix et al., 2005), Hoeflea phototrophica Abbreviations: Bchl-a, bacteriochlorophyll-a; DCM, dichloromethane; DDH, DNA–DNA hybridization; PC, phosphatidylcholine; PE, phosphatidylethanolamine; PG, phosphatidylglycerol; PME, phosphatidylmonomethylethanolamine; SQDG, sulfoquinovosyldiacylglycerol The GenBank/EMBL/DDBJ accession numbers for the 16S rRNA and puf gene sequences of strain JC234T are HG965759 and LN811447, respectively 
 even supplementary figures and a supplementary table are available with the online Supplementary Material.  000277 G 2015 IUMS  (Biebl et al., 2006), Hoeflea alexandrii (Palacios et al., 2006), Hoeflea anabaenae (Stevenson et al., 2011), Hoeflea halophila (Jung et al., 2013) and Hoeflea suaedae (Chung et al., 2013), all isolated from marine habitats 
 embers of the genus Hoeflea are Gram-stain-negative, aerobic or microaerobic, non-endospore-forming and halotolerant 
 iphosphatidylglycerol, phosphatidylcholine (PC), phosphatidylethanolamine (PE), phosphatidylmonomethylethanolamine (PME), phosphatidylglycerol (PG), sulfoquinovo- syldiacylglycerol (SQDG), a few unidentified glycolipids, unidentified aminolipids and unidentified lipids are the major polar lipids of the genus Hoeflea 
-oeflea phototrophica is the only species of this genus reported to have bacteriochlorophyll-a (Bchl-a) and puf genes; however it lacks anaerobic growth in the dark or light (Biebl et al., 2006) 
 ahul and others  of the genus Hoeflea which can utilize diesel-oil for growth, contains Bchl-a and puf genes and can grow anaerobically in the light 
-he water sample that yielded strain JC234T had a pH of 7, a temperature of 29 8C and a salinity of 1.8 % (w/v) 
-train JC234T was preserved as glycerol stocks and by lyophilization 
-enomic DNA was extracted and purified from strain JC234T according to the method of Marmur (1961) and the DNA G+C content was determined by HPLC (Mesbah et al., 1989). 16S rRNA gene amplification and sequencing was done as described previously (Subhash et al., 2013) 
-dentification of phylogenetic neighbours and calculation of pairwise 16S rRNA gene sequence similarity were achieved using the EzTaxon-e server (Kim et al., 2012) 
-he CLUSTAL W algorithm of the MEGA 5.2 software package was used for sequence alignments and MEGA 5.2 software (Tamura et al., 2011) was used for phylogenetic analysis of the individual sequences 
-eighbour-joining, maximumlikelihood and minimum-evolution methods in the MEGA 5.2 software were used to reconstruct phylogenetic trees 
-he taxonomic relationship between strain JC234T and its closest phylogenetic neighbours was examined using DNA– DNA hybridization (DDH) studies 
-ybridization was performed with three replications for each sample (control: reversal of strains was used for binding and labelling) 
-aCl [0–10 % (w/v) at 0.5 % intervals] and temperature (4, 10, 15, 20, 25, 30, 35, 40, 45 and 50 8C) ranges for growth were examined in nutrient broth and growth was measured turbidometrically at 540 nm in a colorimeter (Systronics) 
-rginine dihydrolase, phenylalanine deaminase, ornithine decarboxylase and lysine decarboxylase activities were determined as described by Smibert & Krieg (1981) 
-tilization of organic carbon compounds as carbon and energy sources for organo-heterotrophic growth was tested in a mineral medium as previously described (Lakshmi et al., 2011) replacing sodium pyruvate with specific organic compounds (0.35 % w/v or v/v); growth was measured turbidometrically at 540 nm after 48 h 
-tilization of glutamate, glutamine, methionine, aspartate, peptone, Casamino acids and urea as sole source of carbon, nitrogen and energy was also determined 
-hototrophic growth (light anaerobic) was tested in nutrient broth in fully filled screw-cap test tubes incubated at 2400 lx at 28–30 8C and chemotrophic growth was determined in nutrient broth incubated in aerobic dark at 100 r.p.m. at 28–30 8C 
-ellular fatty acids, polar lipids and quinone composition were analysed from cultures that attained 70 % maximal optical density (at their late exponential growth phase) 
-o determine the diesel-oil degradation capability, strain JC234T was grown in 250 ml conical flasks containing 100 ml mineral salts medium with 5 % (v/v) diesel-oil as a carbon source and was incubated at 30 8C under shaking at 100 r.p.m. for 5 days 
-he diesel-oil in the supernatant was extracted with 50 ml dichloromethane (DCM) and collected by centrifugation at 10 000 g, 4 8C for 10 min 
 he DCM fraction containing diesel-oil was concentrated and the extracted hydrocarbons were analysed  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 65 IP: 189.155.188.202 On: Thu, 15 Feb 2018 23:02:21  Hoeflea olei sp. nov.  by GC-MS 
- control containing diesel-oil and no cells was used to determine background baseline of growth and degradation 
-he initial oven temperature of 60 8C was ramped to 300 8C at 3 8C min21 and held for 5 min 
-nlet temperature was 250 8C, ion source temperature 250 8C and ionization energy 270 eV 
-ecoChromaTOF software (version 4.21) was used to process the chromatograms and the metabolites were identified based on mass spectral comparison to a standard NIST (National Institutes of Standards and Technology) 98 library 
 n nutrient agar, colonies of JC234T were round, flat to raised, initially colourless or light reddish-brown but later  Hoeflea halophila JG120-1T (GU564401) Hoeflea olei JC234T (HG965759)  60 67  53  The DNA–DNA reassociation value between strain JC234T and Hoeflea alexandrii KCTC 22096T was 22¡2 %, and between strain JC234T and Hoeflea halophila KCTC 23107T was 28¡1.5 %; these hybridization values are well within the recommended standards to delineate a bacterial species based on DDH (Stackebrandt & Goebel, 1994).  Hoeflea alexandrii AM1V30T (AJ786600)  81 0.01  The EzTaxon-e server search analysis revealed that strain JC234T was most closely related to members of genus Hoeflea, and the highest sequence similarity was observed with Hoeflea alexandrii AM1V30T (98.1 %), Hoeflea halophila JG120-1T (97.6 %) and other members of the genus Hoeflea (,96.4 %) 
 he results of phylogenetic analysis of the 16S rRNA gene sequences suggested that strain JC234T clustered with the members of the genus Hoeflea and formed a separate clade along with the type strains of Hoeflea alexandrii and Hoeflea halophila (Fig. 1).  Hoeflea marina LMG 128T (AY598817) Hoeflea phototrophica DFL-43T (AJ582088)  62  Hoeflea anabaenae WH2KT (DQ364238) Hoeflea suaedae YC6898T (HM800935) 100  Ensifer arboris LMG 14919T (AM181744) Ensifer kostiense LMG 19227T (AM181748) Phyllobacterium myrsinacearum IAM 13584T (D12789)  72  Phyllobacterium leguminum ORS 1419T (AY785323) 65  63 88  Mesorhizobium shangrilense CCBAU 65327T (EU074203) Mesorhizobium temperatum SDW018T (AF508208) T 100 Aminobacter niigataensis DSM 7050 (AJ011761)  Aminobacter aganoensis DSM 7051T (AJ011760) Stappia marina mano18T (AY628423)  Fig. 1 
-eighbour-joining tree based on 16S rRNA gene sequences, showing phylogenetic relationships between strain JC234T and closely related taxa 
-he tree was reconstructed by the neighbour-joining method using MEGA 5.2 software and rooted by using Stappia marina mano 18T as an outgroup 
-illed circles indicate nodes that were obtained by all treeing methods; empty circles represent nodes that were recovered by neighbour-joining and minimum-evolution methods 
-ahul and others  colour intensified and become dark reddish-brown with a diameter of 1–3 mm 
-ells were Gram-stain-negative, motile, straight rods measuring 2–5 mm long and 1–2 mm wide (Fig 
-n vivo absorption spectra exhibited maxima at 475, 512, 589, 802, 846 and 877 nm (Fig. 2) indicating the presence of bacteriochlorophyll-a in phototrophically grown cells of strain JC234T 
-arotenoid composition from phototrophically grown cells indicated the presence of hydroxydemethylspheroidene and three unidentified carotenoids (Fig 
 hototrophic growth, Bchl-a and puf genes were identified in strain JC234T but not in Hoeflea alexandrii KCTC 22096T or Hoeflea halophila KCTC 23107T 
+mong other members of the genus Hoeflea, phototrophic growth was not reported but the presence of puf genes was reported in Hoeflea phototrophica DFL-43T (Biebl et al., 2006) 
 lthough strain JC234T and Hoeflea phototrophica share the presence of Bchl-a and carotenoids, they differ importantly in phototrophic growth (anaerobic light) 
-chl-a and carotenoids of strain JC234T were observed only from phototrophically grown cells, while the culture grows equally well under both phototrophic and chemotrophic conditions (Fig 
 4).  Absorbance  Strain JC234T grew at pH 7–9 with optimum growth at pH 7, and differs from Hoeflea alexandrii KCTC 22096T and Hoeflea halophila KCTC 23107T which have a pH range of 6–9 
 aCl was not required for growth of strain JC234T but could be tolerated up to 8 % (w/v), while the type strains of Hoeflea alexandrii and Hoeflea halophila are more and less tolerant, respectively (Table 1) 
-ther physiological and biochemical results are presented in the species description and Table 1 
-he major fatty acids of strain JC234T were C18 : 1v7c/ C18 : 1v6c, C16 : 0 and C16 : 1v7c/C16 : 1v6c, with minor amounts of C18 : 1v7c 11-methyl and C18 : 0 
 train JC234T shared the presence of major fatty acids with Hoeflea alexandrii KCTC 22096T and Hoeflea halophila KCTC 23107T 
 owever, significant differences in the relative amounts of C16 : 1v7c/C16 : 1v6c and C18 : 1v7c 11methyl were found between strain JC234T and the type strains of Hoeflea alexandrii and Hoelfea halophila (Table S1) 
-he polar lipid profile of strain JC234T contained PC, PME, PG, PE, SQDG and unidentified lipids L1, L2 and L3 (Fig 
 dentification of SQDG in strain JC234T was based on the motility of the spot as demonstrated by Chung et al. (2013) in Hoeflea suaedae YC6898T, Hoeflea marina KACC 12993T and Hoeflea alexandrii KACC 12994T 
-he spot corresponding to SQDG was eluted from the TLC plate, dissolved in chloroform/methanol (2 : 1, v/v) and the Fourier transform infrared (FTIR) spectrum of the chloroform/methanolic extract was recorded on a Bruker FTIR spectrometer in the wave number range of 3500– 500 cm21 
-he infrared spectrum of the chloroform/methanolic extract showed characteristic absorption bands for sulfur-containing compounds at 959 cm21 and 792 cm21 indicating the presence of strong dehydration of SO3 and symmetrical C-O-S association with a C-O-SO3 group 
-he above two characteristic bands and the other absorption bands indicating the -CH3 bending and C-H stretching confirmed the presence of SQDG (Fig 
 he polar lipid profile of strain JC234T was well in consonance with the type species of the genus Hoeflea (Hoeflea marina) which contained PC, PME, PG and PE as major lipids as reported by Chung et al. (2013) and data from this study (data not shown) 
-ased on the GC-MS analysis of diesel layer, various hydrocarbons were seen to decrease in abundance sequentially based on their carbon chain length and branching 
+he major quinone of strain JC234T was ubiquinone Q10, which is in line with members of the genus Hoeflea 
 istinct phylogenetic, genotypic, chemotaxonomic and phenotypic properties thus justify the description of strain JC234T as representative of a novel species of the genus Hoeflea, for which the name Hoeflea olei sp. nov. is proposed 
-hototrophy is a recognized genus-specific character (Imhoff & Caumette, 2004) and hence it is debatable if a new genus needs to be described in future to accommodate this anoxygenic phototrophic bacterium based on multiple strains 
+n emended description of the genus Hoeflea is also provided 
 uch description of a new genus based on phototrophy was recently proposed for  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 65 IP: 189.155.188.202 On: Thu, 15 Feb 2018 23:02:21  Hoeflea olei sp. nov.  Table 1 
 ifferentiating characteristics between strain JC234T and the type strains of phylogenetically related species of the genus Hoeflea Taxa: 1, JC234T; 2, Hoeflea alexandrii KCTC 22096T; 3, Hoeflea halophila KCTC 23107T 
-ll strains are Gram-stain-negative, motile, non-spore-forming rods, positive for catalase activity and show optimal growth at pH 7.0 
-. gen. n. olei of oil) Colonies are circular with entire margin, and texture is moist with flat to raised elevation 
-n nutrient agar, colonies are reddish-brown and measure 1–3 mm in diameter 
-ells are straight rods (1–2 mm|2–5 mm), Gram-stainnegative, motile and non-endospore-forming 
-erobic, microaerobic and phototrophic anaerobic growth is possible 
-hole-cell absorption spectra of phototrophically grown cells exhibit maxima at 475, 512, 589, 802, 846 and 877 nm 
-ydroxydemethylspheroidene and three unidentified carotenoids are present in phototrophically grown cells 
-atalase- and oxidase-positive 
-egative for hydrolysis of casein, gelatin, starch and Tweens 20 and 80 
-ests for arginine dihydrolase, phenylalanine deaminase, lysine decarboxylase, ornithine decarboxylase, methyl red, Voges–Proskauer and production of H2S are negative 
-ood growth occurs with acetate, butyrate, citrate and pyruvate as sole carbon and energy sources 
-rabinose, capric acid, cellobiose, fumarate, galactose, glycerol, lactate, lactose, ribose, salicin, sucrose, sorbitol, tagatose and xylose are not used as sole sources of carbon and energy 
-C, PME, PG, PE, SQDG and three unidentified lipids (L1, L2 and L3) are the polar lipids 
-ajor fatty acids are C18 : 1v7c/C18 : 1v6c, C16 : 0 and C16 : 1v7c/ C16 : 1v6c along with C18 : 1v7c 11-methyl and C18 : 0 in minor quantities.  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Thu, 15 Feb 2018 23:02:21  2407  K 
-ahul and others  The type strain JC234T (5KCTC 42071T5LMG 28200T) was isolated from a diesel-oil-contaminated backwaters of Vembanad Lake, Kerala, India 
-ome species show microaerobic growth and lack motility 
-ome members of the genus contain photosynthetic reaction-centre genes puf and form photosynthetic pigments such as bacteriochlorophyll-a and carotenoids 
-hosphatidylcholine, unidentified glycolipids, unidentified aminolipid and unidentified lipids are also present in some species 
-18 : 1v7c 11-methyl and C16 : 0 can be present in minor amounts (v3 %) 
-ome species require NaCl for growth and can tolerate concentrations up to 10–11 % (w/v) and pH of 5–10 
-., Jordan, J., Aye, T., Radosevic, J., Jannat-Khah, D., Thiry, D. & other authors (2007).  Identification of ‘‘Haematobacter,’’ a new genus of aerobic Gramnegative rods isolated from clinical specimens, and reclassification of Rhodobacter massiliensis as ‘‘Haematobacter massiliensis comb. nov.’’ 
-he infrastructural support provided at Jawaharlal Nehru Technological University Hyderabad by TEQIP and DST-FIST is acknowledged 
-. and A 
-. thank the CSIR and UGC, respectively, for the award of research fellowships 
-e thank KCTC for providing Hoeflea alexandrii KCTC 22096T and Hoeflea halophila KCTC 23107T in exchange 
-apped BLAST and PSI-BLAST: a new  generation of protein database search programs 
-nt J Syst Evol Microbiol 56, 821–826.  forming bacteria: Agrobacterium atlanticum sp. nov.; Agrobacterium meteori sp. nov.; Agrobacterium ferrugineum sp. nov., nom. rev.; Agrobacterium gelatinovorum sp. nov., nom. rev.; and Agrobacterium stellulatum sp. nov., nom. rev 
-oeflea phototrophica sp. nov., a novel marine  2408  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 65 IP: 189.155.188.202 On: Thu, 15 Feb 2018 23:02:21  Hoeflea olei sp. nov.  Schaeffer, A 
-cience 77, 194.  among Bacillus polymyxa, Bacillus macerans, Bacillus azotofixans, and other nitrogen-fixing Bacillus strains 
-axonomic note: a place for  DNA-DNA reassociation and 16S rRNA sequence analysis in the present species definition in bacteriology 
-nt J Syst Evol Microbiol 64, 1580–1586.  http://ijs.sgmjournals.org  Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M. & Kumar, MEGA 5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods 
-solation of members of the families  Chromatiaceae and Chlorobiaceae 
-n The Prokaryotes: a Handbook on Habitats, Isolation, and Identification of Bacteria, pp. 279–289 
-train JC234T contained Q10 as the predominant ubiquinone 
-n emended description of the genus Hoeflea is also provided.  Reclassification of Agrobacterium ferrugineum LMG 128 (Ahrens, 1968; Rüger & Höfle, 1992) resulted in the creation of the genus Hoeflea (Peix et al., 2005) with Hoeflea marina as the type species 
-he DNA G+C content of members of the genus ranges from 53 to 60 mol % 
-istances were calculated by using the Kimura correction in a pairwise deletion manner (Kimura, 1980) 
-enomic relatedness was determined by the membrane-filter technique as described previously (Seldin & Dubnau, 1985; Tourova & Antonov, 1987; Subhash et al., 2014) 
-nternal membrane structures were viewed with a transmission electron microscope (H-7500; Hitachi), after the cells had been processed as described by Hanada et al. (2002) 
-mplification of the puf gene fragment was performed as described by Nagashima et al. (1997) 
-he pH range for growth was tested using nutrient broth, adjusted to different pH values (pH 4.0–11.0, intervals of 0.5 pH units) by using the appropriate biological buffers as described previously (Subhash et al., 2014) 
-ne microlitre of sample was injected into a HP-5 column (30 m, internal diameter 0.32 mm, thickness 0.25 mm), with helium as the carrier gas at a constant flow of 1.2 ml min21 
-1 available in the online Supplementary Material) 
-he colour of the phototrophically (anaerobic light, 2400 lx) grown cell suspension of strain JC234T was reddish-brown 
-he highest puf gene sequence similarity (94 %) of strain JC234T was observed with an uncultured bacterial clone based on comparison with sequences in the GenBank database by using the program BLASTN (Altschul et al., 1997) 
-mong other members of the genus Hoeflea, phototrophic growth was not reported but the presence of puf genes was reported in Hoeflea phototrophica DFL-43T (Biebl et al., 2006) 
-he major quinone of strain JC234T was ubiquinone Q10, which is in line with members of the genus Hoeflea 
-train JC234T degraded almost all the hydrocarbon present in diesel (C10–C28) which suggests that this strain could be efficiently used for the treatment processes of various hydrocarbon-contaminated sites (Fig 
-n emended description of the genus Hoeflea is also provided 
-he DNA base composition of the type strain is 54.3 mol % 
+escription of Hoeflea olei sp. nov 
 mended description of the genus Hoeflea Peix et al. 2005 The description of the genus is as given by Peix et al. (2005) with the following modifications 
-oeflea suaedae sp. nov., an endophytic bacterium  isolated from the root of the halophyte Suaeda maritima 
-hodobacter massiliensis sp. nov., a new  amoebae-resistant species isolated from the nose of a patient 
-ecommended standards for the  description of new species of anoxygenic phototrophic bacteria 
-oeflea halophila sp. nov., a  novel bacterium isolated from marine sediment of the East Sea, Korea 
-., Hiraishi, A., Shimada, K. & Matsuura, K. (1997).  Horizontal transfer of genes coding for the photosynthetic reaction centers of purple bacteria 
-ucleic Acids Res 25, 3389–3402.  alexandrii sp. nov., isolated from the toxic dinoflagellate Alexandrium minutum AL1V 
-oeflea anabaenae sp. nov.,  an epiphytic symbiont that attaches to the heterocysts of a strain of Anabaena 
-hylogenetic analyses of Lampropedia  hyalina based on the 16S rRNA gene sequence 
-üger, H 
-rüper, H 
-tarr, H 
-tolp, H 
-alows & H 
-n vivo absorption spectra were measured with a Spectronic Genesys 2 spectrophotometer using sucrose 2404  solution for cell suspension (Trüper & Pfennig, 1981) 
-he temperature range for growth further differentiates strain  475 512  877 802 846  589  300  400  500  600  700  800  900  Wavelength (nm)  Fig. 2 
-haracteristic Isolation source NaCl tolerance range (optima) for growth (%, w/v) Temperature range (optima) for growth (8C) pH range for growth Oxidase activity Anaerobic phototrophic growth Hydrolysis of: Tween 20 Tween 80 Degradation of diesel-oil Organic substrates utilized for growth Acetate Arabinose Butyrate Citrate Fumarate Galactose Glucose Glutamate Glycerol Pyruvate Sucrose Bacteriochlorophyll-a DNA G+C content (mol%)  1  2  3  Hydrocarbon-contaminated backwaters 0–8 (0–1) 20–35 (30) 7–9 + +  Marine sediment  Dinoflagellate  0–10 (0–2) 10–40 (30) 6–9 2  0–5 (1) 15–30 (25) 6–9 + 2  2 2 +  + + 2  2 2 2  + 2 + + 2 2  2 2  2 + 2 + + 2 2 2  Gemmobacter changlensis reclassifying into Cereibacter changlensis (Suresh et al., 2015) 
-rowth temperature range http://ijs.sgmjournals.org  W  2 2 + 2 + 54.3  W  W  2 + + + + 2 + + 2 58.2  W  2 + 2 57.1  is 20–35 uC (optimum 30 uC) 
-he type strain is JC234T (5KCTC 42071T5LMG 28200T) 
-rowth pH range is pH 7–9 (optimum pH 7) 
-aCl is not required for growth but can be tolerated up to 8 % (w/v) 
-ndole is not produced from tryptophan 
-he major quinone is ubiquinone Q10 
-xidase activity is negative in some species 
-19 : 0cyclov8c is absent in some species 
-emperature range for growth is 4–42 uC 
-he DNA G+C content is 53.1–59.7 mol %.  Chung, E 
  simple method for estimating evolutionary rates  The type species is Hoeflea marina.  of base substitutions through comparative studies of nucleotide sequences 
-haeovibrio sulfidiphilus  Ministry of Earth Sciences, Government of India is acknowledged for financial support under MoES-2/DS/6/2007 PC-IV 
-nfrastructural support provided at University of Hyderabad under DST-FIST level-II is acknowledged 
-orphological properties (cell shape, cell size, motility) of strain JC234T grown on nutrient broth was observed directly or after Gram-staining using Olympus BH-2 phase-contrast microscope 
-hemo-organotrophic with or without photosynthetic pigments, but some species are phototrophic 
-he DNA G+C content of strain JC234T was 54.3 mol % 
-ass spectral peaks showing similarity above 700 were accepted, with maximum match equal to 1000 for statistical analysis.  71  The DNA G+C content of strain JC234T was 54.3 mol % (by HPLC) 
-ransmission electron micrographs revealed that cells of strain JC234T grown phototrophically had no definite internal membrane structures (Fig 
-ostilow, E 
-., Moore, E 
+e thank KCTC for providing Hoeflea alexandrii KCTC 22096T and Hoeflea halophila KCTC 23107T in exchange 
+e thank Dr Claudine Vereecke of LMG culture collection for providing Hoeflea marina LMG 128T in exchange.  gen. nov., sp. nov., phototrophic alphaproteobacteria isolated from brackish water 
+eclassification of Agrobacterium ferrugineum  LMG 128 as Hoeflea marina gen. nov., sp. nov 
+oeflea phototrophica sp. nov., a novel marine  2408  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 65 IP: 189.155.188.202 On: Thu, 15 Feb 2018 23:02:21  Hoeflea olei sp. nov.  Schaeffer, A 

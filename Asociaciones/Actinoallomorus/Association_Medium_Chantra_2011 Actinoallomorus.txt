@@ -1,0 +1,128 @@
+eduction of nitrate and production of melanin pigments were determined by the method of Shirling & http://ijs.sgmjournals.org  Gottlieb (1966) 
+train GMKU 370T did not reduce nitrate or peptonize milk 
+train GMKU 370T contained meso-diaminopimelic acid and lysine in the cell-wall peptidoglycan and galactose and madurose as whole-cell sugars 
+he genus Actinoallomurus is characterized by cell walls that contain meso-diaminopimelic acid and lysine and 3Present address: Department of Biology, Faculty of Science, Burapha University, Chonburi 20131, Thailand 
+he acyl type of the muramic acid is N-acetyl 
+atty acid profiles include iso-hexadecanoic acid (iso-C16 : 0) as the major component and the phospholipid pattern is made up of phosphatidylglycerol and diphosphatidylglycerol (phospholipid pattern type PI) 
+somers of diaminopimelic acid in the cell wall were determined by TLC according to the method of Hasegawa et al. (1983) 
+he cellular fatty acid composition was analysed by TechnoSuruga Co., Ltd according to the instructions of the Microbial Identification System (MIDI) by using a gas chromatograph (model HP6890; Hewlett Packard) (Sasser, 1990) 
+he diagnostic amino acids of the peptidoglycan layer of strain GMKU 370T were meso-diaminopimelic acid and lysine 
+he N-acyl group of the muramic acid in the peptidoglycan was of the acetyl type 
+he predominant fatty acid was iso-C16 : 0 (Supplementary Table S1, available in IJSEM Online) 
+tilization of casein, gelatin, hypoxanthine and xanthine, peptonization of milk and acid production from carbohydrates were assessed according to the method of Gordon et al. (1974) 
+ontains meso-diaminopimelic acid and lysine in the cell-wall peptidoglycan 
+he major fatty acid is iso-C16 : 0 
+luorometric deoxyribonucleic acid-deoxyribonucleic acid hybridization in microdilution wells as an alternative to membrane filter hybridization in which radioisotopes are used to determine genetic relatedness among bacterial strains 
+volution 39, 783–791.  nucleic acid by phenol treatment 
+ycolic acid composition and thermally  adaptative changes in Nocardia asteroides 
+atalase and oxidase activities were determined with a 3 % (v/v) hydrogen peroxide solution and 1 % (v/v) tetramethyl-p-phenylenediamine solution, respectively 
+International Journal of Systematic and Evolutionary Microbiology (2011), 61, 737–741  DOI 10.1099/ijs.0.022509-0  Actinoallomurus oryzae sp. nov., an endophytic actinomycete isolated from roots of a Thai jasmine rice plant Chantra Indananda,13 Arinthip Thamchaipenet,1 Atsuko Matsumoto,2 Yuki Inahashi,2 Kannika Duangmal3 and Yoko Takahashi2 Correspondence  1  Arinthip Thamchaipenet  2  arinthip.t@ku.ac.th  Department of Genetics, Faculty of Science, Kasetsart University, Chatuchak, Bangkok 10900, Thailand Kitasato Institute for Life Sciences, Kitasato University, 5-9-1 Shirokane, Minato-ku, Tokyo 1088641, Japan  3  Department of Microbiology, Faculty of Science, Kasetsart University, Chatuchak, Bangkok 10900, Thailand  The novel strain GMKU 370T was isolated from roots of a Thai jasmine rice plant (Oryza sativa L. ‘KDML 105’) collected from Pathum Thani Rice Research Center, Pathum Thani province, Thailand 
+he predominant menaquinones were MK-9(H6) and MK-9(H8) 
+he polar phospholipids consisted of phosphatidylglycerol and phosphatidylinositol 
+train GMKU 370T is distinct from the phylogenetically closely related type strains Actinoallomurus iriomotensis NBRC 103685T and Actinoallomurus coprocola NBRC 103688T (99.20 % 16S rRNA gene sequence similarity to both) in terms of differences in phenotypic characteristics and DNA–DNA relatedness (51 and 17 %, respectively) 
+he type strain is GMKU 370T (5BCC 31373T 5NBRC 105246T).  A programme of isolation and identification of endophytic actinomycetes from Thai plants has been established in order to search for novel strains and bioactive compounds from this under-researched habitat 
+n the process, novel taxa at the genus/species level have been discovered from strains isolated from medicinal and agricultural plants (Duangmal et al., 2008, 2009; Thamchaipenet et al., 2010), including Thai glutinous rice (Indananda et al., 2010) 
+n this work, an endophytic actinomycete was isolated from roots of a Thai jasmine rice plant and was found to represent a novel species of the genus Actinoallomurus 
+ supplementary table is available with the online version of this paper.  022509 G 2011 IUMS  contain madurose and galactose as characteristic sugars in whole-cell hydrolysates (Tamura et al., 2009) 
+rincipal menaquinones are MK-9(H6) and MK-9(H8) 
+xcised roots were surface-sterilized using serial treatments of 95 % (v/v) ethanol for 10 min, 1 % (w/v) sodium hypochlorite for 15 min and 10 % (w/v) NaHCO3 for 10 min 
+he roots were then ground and spread onto starch casein agar (SCA; Küster & Williams, 1964) supplemented with 2.5 U penicillin G ml21 and 50 mg cycloheximide ml21 
+ndananda and others  at 30 uC for 4–5 weeks 
+olonies were isolated and purified on mannitol soya agar (MS agar; Hobbs et al., 1989) 
+ultural characteristics of strain GMKU 370T were examined by growing the strain on yeast extract-malt extract agar (ISP 2), oatmeal agar (ISP 3), inorganic saltsstarch agar (ISP 4), glycerol-asparagine agar (ISP 5), nutrient agar (NA), oatmeal-nitrate agar (JCM medium 52), potato dextrose agar (PDA) and 1/10 yeast extractstarch (YS) agar 
+fter incubation for 2 weeks at 27 uC, moderate growth was observed on ISP 3, oatmeal-nitrate agar and YS agar 
+oor growth was detected on ISP 2 and ISP 5 
+train GMKU 370T grew well on PDA and NA but did not produce spores 
+hitish aerial mycelium was produced on ISP 3 and oatmeal-nitrate agar after 3 weeks of growth 
+otal DNA was extracted and purified by the method of Kieser et al. (2000) 
+he PCR product was purified using a QIAquick gel extraction kit (Qiagen) and sequenced directly on an ABI model 3130 automatic DNA sequencer using a BigDye terminator cycle sequencing kit (Applied Biosystems) 
+ar, 1 mm. 738  370T (1468 bp) was preliminarily compared with 16S rRNA gene sequences in the GenBank database and this comparison indicated a close relationship with members of the genus Actinoallomurus (Tamura et al., 2009) 
+ultiple alignment of sequences obtained from the 10 Actinoallomurus species with validly published names (Tamura et al., 2009; Thamchaipenet et al., 2010) and strain GMKU 370T (using the sequence of Actinomadura madurae NBRC 14623T as an outgroup) was performed using CLUSTAL_X, version 2 (Larkin et al., 2007) 
+hylogenetic trees were deduced using the neighbour-joining (Saitou & Nei, 1987), maximum-likelihood (Felsenstein, 1981) and maximumparsimony (Eck & Dayhoff, 1966) methods and trees were reconstructed by using NJPlot (Perrière & Gouy, 1996), PHYLIP 3.68 and MEGA 4 (Tamura et al., 2007), respectively 
+he closest phylogenetic neighbours were Actinoallomurus coprocola TT04-09T and Actinoallomurus iriomotensis TT02-47T, with 99.20 % 16S rRNA gene sequence similarity to both type strains, corresponding to 11 nucleotide substitutions 
+n order to clarify the taxonomic relationships between strain GMKU 370T and closely related species, genomic DNA of strain GMKU 370T and the type strains A. iriomotensis NBRC 103685T and A. coprocola NBRC 103688T was extracted and purified according to the method of Saito & Miura (1963) for use in DNA–DNA hybridization 
+hylogenetic tree constructed by using the neighbourjoining method based on almost-complete 16S rRNA gene sequences, showing relationships between strain GMKU 370T and all members of the genus Actinoallomurus 
+olid circles indicate corresponding nodes that were also recovered from maximum-likelihood and maximum-parsimony trees 
+ar, 0.005 substitutions per site.  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP: 189.155.188.202 On: Sun, 18 Feb 2018 07:30:55  Actinoallomurus oryzae sp. nov.  DNA–DNA relatedness between A. coprocola NBRC 103688T and A. iriomotensis NBRC 103685T and strain GMKU 370T was 17 and 51 % (means of duplicate determinations), respectively 
+o analyse the chemical characteristics of strain GMKU 370T, biomass was prepared by growing the strain in 1 % (w/v) potato dextrose broth containing 1 % (w/v) yeast extract in an orbital shaker (200 r.p.m.) at 27 uC for 14 days and then cells were freeze-dried 
+hospholipids were extracted and determined by the method of Minnikin et al. (1984) 
+enaquinones were extracted and purified by the method of Collins et al. (1977) and isoprene units were analysed by HPLC using a JASCO 802-SC chromatograph equipped with a Shiseido CAPCELL PAK C18 column (Tamaoka et al., 1983) 
+he sugars present in whole-cell hydrolysates were galactose, glucose, madurose, mannose and ribose 
+he phospholipids included phosphatidylglycerol and phosphatidylinositol, representing type PI (Lechevalier et al., 1977) 
+he major menaquinones were MK-9(H6) and MK-9(H8); minor components were MK-9(H2) and MK-9(H4), while a small amount of MK-9(H0) was also detected 
+train GMKU 370T was able to grow at 21–45 uC, with optimal growth at 32–39 uC, at pH 5.0–9.0 and in 1–4 % NaCl 
+he strain did not utilize hypoxanthine, xanthine or starch but degraded casein and gelatin poorly 
+he strain showed catalase and oxidase activities 
+train GMKU 370T was able to use dulcitol, D-galactose, myo-inositol, lactose, maltose, D-mannose, raffinose, L-rhamnose, D-sorbitol, sucrose, trehalose and D-xylose 
+cids were produced from Dgalactose, D-glucose and raffinose 
+henotypic differences between strain GMKU 370T and its phylogenetically closest relatives, A. coprocola NBRC 103688T and A. iriomotensis NBRC 103685T, are shown in Table 1 
+ased on the chemotaxonomic and phylogenetic analysis, it is confirmed that strain GMKU370T belongs to the genus Actinoallomurus 
+t is also evident from physiological characteristics and levels of DNA–DNA relatedness that strain GMKU 370T is distinct from the type strains of phylogenetically closely related species 
+erobic and Gram-stain-positive 
+rows well on PDA and NA and shows moderate growth on ISP 3, oatmeal-nitrate agar and 1/10 yeast extract-starch agar, forming a welldeveloped white aerial mycelium that differentiates into short spiral spore chains with smooth surfaces 
+he optimal temperature and pH for growth are 32–39 uC and pH 5.0– 9.0 
+atalase- and oxidase-positive 
+ydrolysis of casein and gelatin is weakly positive 
+egradation of hypoxanthine, starch and xanthine is negative 
+ulcitol, D-galactose, myo-inositol, lactose, maltose, Dmannose, raffinose, L-rhamnose, D-sorbitol, sucrose, trehalose and D-xylose are utilized as sole carbon sources but L-arabinose, D-fructose, D-glucose and D-mannitol are not 
+cid is produced from D-galactose, D-glucose and raffinose but not from L-arabinose, dulcitol, D-fructose, myo-  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sun, 18 Feb 2018 07:30:55  739  C 
+ndananda and others  Table 1 
+hole-cell sugars include galactose, glucose, madurose, mannose and ribose 
+redominant menaquinones are MK-9(H6) and MK-9(H8); minor menaquinones are MK9(H4), MK-9(H2) and MK-9(H0) 
+ain phospholipids are phosphatidylglycerol and phosphatidylinositol 
+. (1977).  Distribution of menaquinones in actinomycetes and corynebacteria 
+tlas of Protein Sequence and  Structure 
+his study was supported by the Thailand Research Fund, CHE and Kasetsart University Research and Development Institute. 740  Becker, B., Lechevalier, M 
+ Mol Evol 17, 368–376.  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP: 189.155.188.202 On: Sun, 18 Feb 2018 07:30:55  Actinoallomurus oryzae sp. nov 
+ocardia coeliaca, Nocardia autotrophica and the nocardin  Saitou, N. & Nei, M. (1987) 
+escription of two novel species of the genus Kitasatospora Ōmura et al. 1982, Kitasatospora cineracea sp. nov. and Kitasatospora niigatensis sp. nov 
+ Mol Evol 16, 111–120.  Transfer of Actinomadura spadix Nonomura and Ohara 1971 to Actinoallomurus spadix gen. nov., comb. nov., and description of Actinoallomurus amamiensis sp. nov., Actinoallomurus caesius sp. nov., Actinoallomurus coprocola sp. nov., Actinoallomurus fulvus sp. nov., Actinoallomurus iriomotensis sp. nov., Actinoallomurus luridus sp. nov., Actinoallomurus purpureus sp. nov. and Actinoallomurus yoronensis sp. nov 
+lustal W and Clustal X version 2.0 
+ Gen Appl Microbiol 30, 131–134.  procedure for the extraction of bacterial isoprenoid quinones and polar lipids 
+ phylogenetic analysis based on 16S rRNA gene sequences indicated that strain GMKU 370T formed a distinct clade within the genus Actinoallomurus 
+hese chemical properties reveal that strain GMKU 370T belongs to the genus Actinoallomurus 
+t is proposed that strain GMKU 370T represents a novel species of the genus Actinoallomurus, for which the name Actinoallomurus oryzae sp. nov. is proposed 
+he GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain GMKU 370T is EU420071 
+t the time of writing, the genus contains 10 species with validly published names (Tamura et al., 2009; Thamchaipenet et al., 2010) 
+olonies of endophytic actinomycetes appeared on the medium after incubation  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sun, 18 Feb 2018 07:30:55  Printed in Great Britain  737  C 
+he colour of mycelium was determined by comparing its colour with colour chips from the Color Harmony Manual (Jacobson et al., 1958) 
+o soluble pigment was produced on any of the media tested 
+equencing of the 16S rRNA gene was performed to identify strain GMKU 370T at the genus level 
+he result of the phylogenetic analysis indicated that strain GMKU 370T formed a clade with the members of the genus Actinoallomurus (Fig. 2) 
+NA–DNA hybridization was performed by the photobiotin-labelling method of Ezaki et al. (1989) at 54 uC using a Cytofluor multiwell plate-reader series 4000.  Fig. 2 
+hus, the results clearly indicated that strain GMKU 370T does not belong to either A. coprocola or A. iriomotensis, as these values are well below the threshold value of 70 % suggested for the definition of bacterial species according to Wayne et al. (1987) 
+he acyl type of muramic acids in the cell wall was analysed by using the method of Uchida & Aida (1984) 
+hole-cell sugars were analysed according to the method of Becker et al. (1965) 
+ycolic acids were determined by TLC, using the method of Tomiyasu (1982) 
+he results of chemical analysis indicated that strain GMKU 370T has chemotaxonomic markers typical of members of the genus Actinoallomurus (Tamura et al., 2009) 
+adurose was the characteristic sugar, indicating type B whole-cell sugars (Lechevalier & Lechevalier, 1970) 
+t is therefore proposed that strain GMKU 370T represents a novel species of the genus Actinoallomurus, for which the name Actinoallomurus oryzae sp. nov. is proposed 
+. gen. n. oryzae of rice, referring to the isolation of the type strain from roots of Thai jasmine rice) 
+henotypic characteristics that differentiate strain GMKU 370T from the type strains of phylogenetically closely related Actinoallomurus species Data for reference strains were obtained in this study or taken from Tamura et al. (2009). +, Positive; 2, negative; applicable 
+he glycan moiety of the murein is acetylated 
+he DNA G+C content of the type strain is 65.4 mol%.  References  The type strain, strain GMKU 370T (5BCC 31373T 5NBRC 105246T), was isolated from roots of a Thai jasmine rice plant (Oryza sativa L. ‘KDML 105’) collected from Pathum Thani Rice Research Center, Pathum Thani province, Thailand.  Duangmal, K., Thamchaipenet, A., Matsumoto, A. & Takahashi, Y. (2009) 
+nt J Syst Bacteriol 39, 224–229.  Ezaki, T., Hashimoto, Y. & Yabuuchi, E. (1989).  Acknowledgements We give special thanks to Professor Pradit Pongtongkam for providing the rice cultivar 
+. has been awarded a PhD scholarship from the Commission on Higher Education (CHE), Ministry of Education, Thailand 
+reparation of transforming deoxyribo-  using the bootstrap 
+ctinophytocola oryzae  gen. nov., sp. nov., isolated from the roots of Thai glutinous rice plants, a new member of the family Pseudonocardiaceae 
+edia for the isolation of  streptomycetes: starch casein medium 
+hemical composition  as a criterion in the classification of aerobic actinomycetes 
+n improved method for the glycolate  test for simple identification of the acyl type of bacterial cell walls 
+eport of the ad hoc committee on reconciliation of approaches to bacterial systematics 
+. & Lechevalier, H 
+., De Bièvre, C. & Lechevalier, H 
+EGA 4: molecular  Foundation.  evolutionary genetics analysis (MEGA) software version 4.0 
+haracteristic Growth on ISP 2 Growth Colour of substrate mycelium Soluble pigment Growth on ISP 3 Growth Colour of substrate mycelium Soluble pigment Growth on ISP 4 Growth Colour of substrate mycelium Soluble pigment Growth on YS agar Growth Colour of substrate mycelium Soluble pigment Temperature for growth (uC) Growth at 4 % NaCl Growth at pH 8–9 Utilization of: L-Arabinose D-Fructose D-Glucose D-Mannitol Hydrolysis of: Starch Gelatin  W,  weakly positive;  NA,  GMKU 370T  A. coprocola NBRC 103688T  A. iriomotensis NBRC 103685T  Poor Pale yellow–brown None  Absent NA  Good Moderate orange–yellow None  Moderate White None  Good Grey purplish red Moderate to strong yellow  Moderate Light yellow to moderate orange None  Absent  Moderate Pale yellow None  Poor Light yellow None Poor White None 20–37  NA NA  Moderate White None 21–45  NA  W  Moderate Pale yellow Pale green 20–37 –  +  W  +  – – – –  + + + +  + + + +  –  + +  + +  W  not  W  inositol, lactose, D-mannitol or L-rhamnose 
+either diffusible pigment nor melanin is produced 
+itrate reduction is negative 
+aCl tolerance was studied on PDA containing NaCl at final concentrations of 1–7 % (w/v) 
+rows in 0–4 % NaCl 
+ure cultures were maintained as 20 % (v/v) glycerol suspensions at 280 uC or as lyophilized hyphae for long-term preservation 
+o production of melanin pigment was determined on tryptone-yeast extract broth (ISP 1) or tyrosine agar (ISP 7) 
+he DNA G+C content of strain GMKU 370T was 65.4 mol% 
+volutionary trees from DNA sequences: a maximum likelihood approach 
+etermination of DNA base  composition by reversed-phase high-performance liquid chromatography 
+o growth was found on ISP 4 
+he range of temperature for growth was determined on PDA in a temperature gradient incubator 
+ispersed growth of Streptomyces in liquid culture 
+ Gen Appl Microbiol 29, 319–322.  Shirling, E 
