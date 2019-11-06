@@ -1,9 +1,0 @@
-ccurate whole human genome sequencing using reversible terminator chemistry 
-train IMCC3088 could be the first bacterium that harbors proteorhodopsin among the members of the OM60/NOR5 clade, indicating the existence of diverse metabolic potential in the members of this marine clade 
-he genome sequence of strain IMCC3088 is available in GenBank under accession number AEIG00000000.  The OM60/NOR5 clade, part of the oligotrophic marine Gammaproteobacteria group, comprises up to 11% of the bacterial communities on the ocean surface (3, 5, 6, 9) 
-his important marine clade includes Congregibacter litoralis (6, 7) and extinction cultures designated HTCC2080, HTCC2148, and HTCC2246 (3, 4), in addition to several uncharacterized marine oligotrophic bacteria 
-train IMCC3088 was isolated from a surface seawater sample collected from the Yellow Sea off the coast of Incheon, South Korea, by using standard dilution techniques on an oligotrophic medium, marine 1/10R2A 
-he strain is also closely related to cultured marine isolates of C. litoralis KT71 (94.8%), Haliea rubra CM4115a (94.7%), and strain HTCC2080 (93.9%) 
-ultivation and growth characteristics of a diverse group of oligotrophic marine Gammaproteobacteria 
-olyphyletic photosynthetic reaction center genes in oligotrophic marine Gammaproteobacteria 
-haracterization of a marine gammaproteobacte-  * Corresponding author 

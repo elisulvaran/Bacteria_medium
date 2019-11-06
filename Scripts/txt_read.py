@@ -42,6 +42,7 @@ if __name__ == '__main__':
 		comp_dict=Dict.readlines()
 		comp_dict=[x.replace('\n', '').replace(' ', '') for x in comp_dict]
 
+	print(comp_dict)
 
 	lista=[]
 	for path,dirs,files in os.walk(args.myPath):
@@ -50,7 +51,7 @@ if __name__ == '__main__':
 				with open(os.path.join(path,file),mode='r') as iFile:
 					lines=iFile.readlines()
 					mystr=' '.join([line.strip() for line in lines])
-					funcion_busqueda(mystr,comp_dict)
+					#funcion_busqueda(mystr,comp_dict)
 
 
 
