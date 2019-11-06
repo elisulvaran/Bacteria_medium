@@ -1,0 +1,7 @@
+acterial community analysis revealed the dominance of acetogenic bacteria (Sporomusa spp.) only in the enrichments on the methoxylated aromatics, suggesting that Sporomusa spp. initially convert vanillate and syringate into protocatechuate and gallate, respectively, with acetogenesis via O-demethylation 
+mong the Firmicutes phylotypes, the phylotype ArB-01 (99.6% identity to Sporomusa sphaeroides) and ArB-02 (89.8% identity to Sporomusa paucivorans) were abundantly detected from vanillate- and syringate-enrichments, but not from enrichments with their degradation intermediates 
+hese findings suggested that Sporomusa spp. contribute to the initial step of anaerobic degradation of the lignin-derived aromatics in the enrichments, namely the conversion of vanillate and syringate into PCA and gallate, respectively 
+nalysis on degradation intermediates and microbial communities in the enrichments suggested that vanillate is firstly converted into PCA by Sporomusa spp. with acetate generation via O-demethylation reactions (Fig. 6A) 
+s in the case of vanillate, the first step of syringate degradation appears to be acetogenic O-demethylation catalyzed by Sporomusa spp. (Fig. 6B) 
+he initial step appears to be catalyzed by Sporomusa spp. that generate acetate via O-demethylation of the methoxylated aromatics 
+orrinoid-dependent methyl transfer reactions are involved in methanol and 3,4-dimethoxybenzoate metabolism by Sporomusa ovata 

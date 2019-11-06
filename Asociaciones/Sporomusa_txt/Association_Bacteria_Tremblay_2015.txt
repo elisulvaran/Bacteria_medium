@@ -1,0 +1,12 @@
+www.nature.com/scientificreports  OPEN  received: 05 May 2015 accepted: 08 October 2015 Published: 04 November 2015  Adaptation of the autotrophic acetogen Sporomusa ovata to methanol accelerates the conversion of CO2 to organic products Pier-Luc Tremblay, Daniel Höglund, Anna Koza, Ida Bonde & Tian Zhang Acetogens are efficient microbial catalysts for bioprocesses converting C1 compounds into organic products 
+ere, an adaptive laboratory evolution approach was implemented to adapt Sporomusa ovata for faster autotrophic metabolism and CO2 conversion to organic chemicals 
+n this study, ALE was employed to develop a strain of the acetogen Sporomusa ovata growing significantly faster on methanol 
+ recent proteomic study identified the two components of the corrinoid-dependent methyltransferase in the closely-related species Sporomusa strain An442 
+ike in Sporomusa stain An4, MtaC of S. ovata is probably involved in the first step of methanol oxidation and its mutation suggests that this protein has been optimized for more efficient methanol oxidation and faster growth 
+he reference genome for the analysis was Sporomusa ovata DSM 2662 (NCBI accession ASXP00000000.1) 
+irst Insights into the Genome of the Gram-Negative, Endospore-Forming Organism Sporomusa ovata Strain H1 DSM 2662 
+orrinoid-Dependent Methyl Transfer Reactions Are Involved in Methanol and 3,4-Dimethoxybenzoate Metabolism by Sporomusa ovata 
+urification and characterization of a methanol-induced cobamide-containing protein from Sporomusa ovata 
+nravelling the one-carbon metabolism of the acetogen Sporomusa strain An4 by genome and proteome analysis 
+poromusa, a new genus of gram-negative anaerobic bacteria including Sporomusa sphaeroides spec. nov. and Sporomusa ovata spec. nov 
+daptation of the autotrophic acetogen Sporomusa ovata to methanol accelerates the conversion of CO2 to organic products. 
