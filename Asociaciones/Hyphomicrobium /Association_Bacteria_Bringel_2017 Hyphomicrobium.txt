@@ -1,0 +1,40 @@
+enes associated with dissimilatory nitrate reduction and complete denitriﬁcation to N2 were also identiﬁed, as expected from the known ability of Hyphomicrobium strains to grow with DCM with nitrate as the terminal electron acceptor in the absence of oxygen (17) 
+train GJ21  Université de Strasbourg, CNRS, GMGM UMR 7156, Department of Microbiology, Genomics and the Environment, Strasbourg, Francea; Biochemical Laboratory, Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, Groningen, The Netherlandsb; Commissariat à l’Énergie Atomique et aux Énergies Alternatives, Institut de Biologie François-Jacob, Laboratoire de Biologie Moléculaire pour l’Etude des Génomes, Évry, Francec; Commissariat à l’Énergie Atomique et aux Énergies Alternatives, Institut de Biologie François-Jacob, Laboratoire d’Analyse Bioinformatique en Génomique et Métabolisme, Évry, Franced; Centre National de la Recherche Scientiﬁque, UMR 8030, Évry, Francee; UEVE, Université d'Évry, Évry, Francef  ABSTRACT The genome sequence of Hyphomicrobium sp. strain GJ21, isolated in the Netherlands from samples of environments contaminated with halogenated pollutants and capable of using dichloromethane as its sole carbon and energy source, was determined.  D  ichloromethane (DCM) is one of the most used industrial halogenated solvents worldwide, and its toxicity and substantial release into the environment are of serious concern (1, 2) 
+arious methylotrophic bacterial strains capable of growing with DCM as the sole source of carbon and energy have been isolated over the years (3) 
+hereas natural sources of DCM exist, such as production by microalgae (11), most DCM in the environment is of industrial origin, raising questions about the origin, evolution, and distribution of DCM dehalogenase genes in microorganisms 
+yphomicrobium sp. strain GJ21, isolated after prolonged adaptation from a mixture of activated sludge from a wastewater treatment plant and soil samples from polluted sites (12), has been extensively used as a model for bioremediation of DCM in bioreactor studies (e.g., see reference 13 and references therein) 
+ matepaired library (7-kb insert size) and a paired-end library (340-bp insert size) were produced and sequenced using HiSeq2000 (2 ⫻ 100 nucleotides), yielding ~4 Gb and ~1.85 Gb of useful reads after selection and trimming, respectively 
+he ﬁnal assembly resulted in 1 circular scaffold comprising 4 contigs with a cumulative size of 3.84 Mb and a G⫹C content of 60.8% 
+utomatic and manual gene annotations were performed using the MicroScope platform (14) 
+he genome contains a single rRNA operon and encodes 47 tRNAs for all Volume 5 Issue 30 e00622-17  Received 15 May 2017 Accepted 30 May 2017 Published 27 July 2017 Citation Bringel F, Postema CP, Mangenot S, Bibi-Triki S, Chaignaud P, Farhan Ul Haque M, Gruffaz C, Hermon L, Louhichi Y, Maucourt B, Muller EEL, Nadalig T, Lajus A, Rouy Z, Médigue C, Barbe V, Janssen DB, Vuilleumier S. 2017 
+he LABGeM (CEA/IG/ Genoscope and CNRS UMR 8030) and the France Génomique national infrastructure (funded as part of the Investissements d’avenir program managed by the Agence Nationale pour la Recherche, contract ANR-10-INBS-09) are acknowledged for support within the MicroScope annotation platform.  REFERENCES 1 
+emoval of dichloromethane from ground and wastewater: a review 
+uman health effects of dichloromethane: key ﬁndings and scientiﬁc issues 
+elative contributions of Dehalobacter and zerovalent iron in the degradation of chlorinated methanes 
+olecular and carbon isotopic characterization of an anaerobic stable Volume 5 Issue 30 e00622-17  11.  12.  13.  14.  15.  16.  17.  18.  19.  enrichment culture containing Dehalobacterium sp. during dichloromethane fermentation 
+roduction and role of volatile halogenated compounds from marine algae 
+icroScope in 2017: an expanding and evolving integrated resource for community expertise of microbial genomes 
+ethylobacterium extorquens: methylotrophy and biotechnological applications 
+t features genes for enzymes participating in methanol, methylamine, dimethylamine, and trimethylamine oxidation and associated accessory genes; for enzymes involved in formaldehyde oxidation by the tetrahydromethanopterin pathway, enzymes of the tetrahydrofolate-dependent C1 pathway, and corresponding cofactor biosynthesis genes; and for enzymes involved in formate oxidation, as well as genes of the serine and ethylmalonyl-CoA cycles for carbon assimilation (15) 
+he version described here is the ﬁrst version, CDHO01000000.  Genome Announcement  fying bacterial strains isolated from a uranium- and nitrate-contaminated subsurface environment 
+omparative analysis of denitrifying activities of Hyphomicrobium nitrativorans, Hyphomicrobium denitriﬁcans, and Hyphomicrobium zavarzinii 
+PROKARYOTES  crossm Genome Sequence of the Dichloromethane-Degrading Bacterium Hyphomicrobium sp 
+ll such strains for which the dehalogenase has been characterized, including strain GJ21 (4), contain the dcmA gene for DCM dehalogenase, an enzyme of the glutathione S-transferase family (5, 6) 
+ther DCM-degrading systems, particularly from anaerobic environments, are currently being investigated in detail (7–10), including at the genome level 
+equence data were assembled with the Velvet assembler (https://www.ebi.ac.uk/~zerbino/velvet) 
+enome sequence of the dichloromethanedegrading bacterium Hyphomicrobium sp. strain GJ21 
+his is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International license 
+ichloromethane-degrading bacteria in the genomic age 
+leindienst S, Higgins SA, Tsementzi D, Chen G, Konstantinidis KT, Mack EE, Löfﬂer FE. 2017. “Candidatus Dichloromethanomonas elyunquensis” gen. nov., sp. nov., a dichloromethane-degrading anaerobe of the Peptococcaceae family 
+ichloromethane as the sole carbon source for Hyphomicrobium sp. strain DM2 under denitriﬁcation conditions 
+omplete genome sequence of the chloromethane-degrading Hyphomicrobium sp. strain MC1 
+he genome also possesses the strongly conserved dcm islet of dcmRABC genes found in all bacteria with dcmA-encoded DCM dehalogenase (3), including Hyphomicrobium denitriﬁcans ATCC 51888 of known genome sequence (16) 
+omparative genomics of the Hyphomicrobium genus will support ongoing experimental studies on bacterial adaptation to growth with halogenated methanes for bioremediation applications 
+he Hyphomicrobium sp. strain GJ21 genome sequence was deposited in GenBank under the accession number CDHO00000000 
+omplete genome sequence of Hyphomicrobium nitrativorans strain NL23, a denitrifying bacterium isolated from bioﬁlm of a methanol-fed denitriﬁcation system treating seawater at the Montreal Biodome 
+ap ﬁlling was performed using GapCloser (http://soap.genomics.org.cn/soapdenovo.html) on scaffolds larger than 2 kb 
+hemosphere 93:1258 –1267. https:// doi.org/10.1016/j.chemosphere.2013.07.022. 2 
+enome sequences for three denitrigenomea.asm.org 2  Downloaded from http://genomea.asm.org/ on February 15, 2018 by guest  amino acids 
+everal other Hyphomicrobium genome sequences of isolated strains (16, 18–21) (http://www.genoscope.cns.fr/agc/microscope) or reconstructed from metagenomes (22) are now publicly available 
+enkatramanan R, Prakash O, Woyke T, Chain P, Goodwin LA, Watson D, Brooks S, Kostka JE, Green SJ. 2013 
+ostema,b Sophie Mangenot,c Sabrina Bibi-Triki,a Pauline Chaignaud,a Muhammad Farhan Ul Haque,a Christelle Gruffaz,a Louis Hermon,a Yousra Louhichi,a Bruno Maucourt,a Emilie E 

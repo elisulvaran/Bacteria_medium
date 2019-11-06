@@ -1,0 +1,127 @@
+eduction of nitrate was determined using ISP 8 by the method of the ISP (Shirling & Gottlieb, 1966) 
+egradation of gelatin and casein and reduction of nitrate were negative 
+ysine and meso-diaminopimelic acid were present in the cell-wall peptidoglycan 
+embers of the genus Actinoallomurus contain mesodiaminopimelic acid in the cell wall and madurose as a  Downloaded from www.microbiologyresearch.org by 012237 G 2010 IUMS IP: 189.155.188.202 On: Sun, 18 Feb 2018 07:31:47  Printed in Great Britain  Actinoallomurus acaciae sp. nov.  characteristic sugar in whole-cell hydrolysates, which is similar to the closely related genus Actinomadura (Lechevalier & Lechevalier, 1970; Goodfellow, 1989) 
+he acyl type of the muramic acid is N-acetyl 
+he fatty acid profiles include iso-hexadecanoic acid (iso-C16 : 0) as the major component and the phospholipid patterns contain phosphatidylinositol mannoside 
+he diagnostic amino acids of the peptidoglycan layer of strain GMKU 931T were meso-diaminopimelic acid, lysine, alanine and glutamic acid 
+he N-acyl group of the muramic acid in peptidoglycan was of the acetyl type 
+hamchaipenet and others  acid phosphatase, N-acetyl-b-glucosaminidase, alkaline phosphatase, esterase (C4), a- and b-glucosidases, b-glucuronidase, leucine aminopeptidase, lipase (C8), a-mannosidase and phosphoamidase are detected; chymotrypsin, cystine aminopeptidase, a-fucosidase, a- and b-galactosidases, lipase (C14), trypsin and valine aminopeptidase are not detected 
+he diagnostic diamino acids of the peptidoglycan are meso-diaminopimelic acid, lysine, alanine and glutamic acid 
+ procedure for the isolation of deoxyribonucleic  acid from microorganisms 
+EMS Microbiol Lett 25, 125–128.  deoxyribonucleic acid-deoxyribonucleic acid hybridization in microdilution wells as an alternative to membrane filter hybridization in which radioisotopes are used to determine genetic relatedness among bacterial strains 
+ycolic acid composition and thermally  adaptative changes in Nocardia asteroides 
+atalase and oxidase activities were determined with 3 % (v/v) hydrogen peroxide solution and 1 % tetramethyl-p-phenylenediamine solution, respectively 
+International Journal of Systematic and Evolutionary Microbiology (2010), 60, 554–559  DOI 10.1099/ijs.0.012237-0  Actinoallomurus acaciae sp. nov., an endophytic actinomycete isolated from Acacia auriculiformis A 
+rinthip Thamchaipenet,1 Chantra Indananda,13 Chakrit Bunyoo,1 Kannika Duangmal,2 Atsuko Matsumoto3 and Yoko Takahashi3 Correspondence Arinthip Thamchaipenet arinthip.t@ku.ac.th  1  Department of Genetics, Faculty of Science, Kasetsart University, Chatuchak, Bangkok 10900, Thailand  2  Department of Microbiology, Faculty of Science, Kasetsart University, Chatuchak, Bangkok 10900, Thailand  3  Kitasato Institute for Life Sciences, Kitasato University, 5-9-1 Shirokane, Minato-ku, Tokyo 1088641, Japan  A novel endophytic actinomycete, strain GMKU 931T, was isolated from the root of a wattle tree, Acacia auriculiformis A 
+hole-cell hydrolysates contained galactose, madurose and mannose 
+he predominant menaquinones were MK-9(H6) and MK-9(H8) 
+he major fatty acids were iso-C16 : 0 and iso-C16 : 1 
+he major phospholipids were phosphatidylinositol and phosphatidylglycerol 
+he significant differences in phenotypic and genotypic data indicate that strain GMKU 931T represents a novel species of the genus Actinoallomurus, for which the name Actinoallomurus acaciae sp. nov. is proposed 
+he isolation of novel endophytic actinomycetes is expected to lead to the identification of novel bioactive compounds and/or growth-regulating agents as well as novel actinomycete genera and species 
+hailand is a natural-resource-rich country and there is a wide range of plant diversity 
+herefore, we have established a programme for the isolation and identification of endophytic actinomycetes from plants, including those of important agricultural and medicinal species 
+he GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain GMKU 931T is EU429322.  554  The genus Actinoallomurus (Tamura et al., 2009) is the most recently described genus in the family Thermomonosporaceae (Kroppenstedt & Goodfellow, 1991; Zhang et al., 1998, 2001), which includes Actinocorallia, Actinomadura (Nonomura & Ohara, 1971), Excellospora, Spirillospora and Thermomonospora 
+t the same time, other isolates from soil and dung samples, collected from various places in Japan, were chemotaxonomically and phylogenetically characterized and eight more novel species belonging to the genus Actinoallomurus were proposed (Tamura et al., 2009) 
+dditionally, the cell-wall peptidoglycan encloses D- and L-lysine, which is an important characteristic to differentiate Actinoallomurus species from Actinomadura species (Tamura et al., 2009) 
+he main menaquinones are MK-9(H6) and MK9(H8) 
+he root was surface sterilized with 95 % ethanol and 1 % sodium hypochlorite before being ground and spread onto starch-casein agar (Küster & Williams, 1964) supplemented with (ml–1) 100 mg ampicillin, 2.5 U penicillin G and 20 mg ketoconazole 
+he strain was isolated and purified on mannitol soya (MS) agar (Hobbs et al., 1989) 
+he pure culture was maintained as a suspension in 20 % glycerol at –80 uC and as lyophilized cells for long-term preservation 
+train GMKU 931T grew well on International Streptomyces Project (ISP) medium 2 (Shirling & Gottlieb, 1966) and MS agar at 30 uC and it started to produce whitish spores after 14 days 
+oderate growth was observed on ISP 3, oatmeal-nitrate agar (l–1: 3.0 g Quaker white oat, 0.2 g KNO3, 0.5 g K2HPO4, 0.2 g MgSO4 . 7H2O, 15.0 g agar; pH 7.0) and 1/10 yeast extract-starch agar, poor growth was observed on ISP 5 and there was no growth on ISP 4 
+orphological characteristics were examined by subculturing the strain on oatmeal-nitrate agar and observing under a light microscope and a scanning electron microscope (JSM 5600 LV; JEOL) 
+ydrolysis of casein and gelatin was evaluated using the media of Gordon et al. (1974) 
+ar, 1 mm.  showed activity for catalase and urease but not for oxidase 
+mplification was carried out in a thermal cycler (TaKaRa), with an initial incubation step at 94 uC for 1 min, 30 cycles of 94 uC for 1 min, 50 uC for 1 min and 72 uC for 1–5 min and a final extension step at 72 uC for 2 min 
+he PCR product was purified using a QIAquick Gel Extraction kit (Qiagen) and was sequenced directly on an ABI model 3130 automatic DNA sequencer using a BigDye Terminator cycle sequencing kit (Applied Biosystems) 
+ultiple alignment of the sequences obtained from strain GMKU 931T and the type strains of the nine Actinoallomurus species with validly published names, using Actinomadura madurae NBRC 14623T as an outgroup, was performed using CLUSTAL X version 2 (Larkin et al., 2007) 
+ phylogenetic tree was constructed with MEGA version 4.0 (Tamura et al., 2007) using the neighbour-joining method (Saitou & Nei, 1987) and the reliability of the tree topology was evaluated by bootstrap analysis with 1000 resamplings (Felsenstein, 1985) 
+hamchaipenet and others  neighbours were Actinoallomurus caesius NBRC 103678T, and Actinoallomurus amamiensis NBRC 103682T T Actinoallomurus fulvus NBRC 103680 , with 16S rRNA gene sequence similarity values of 99.30, 99.20 and 99.11 %, respectively 
+hole-cell amino acids and sugars were analysed using the method of Hasegawa et al. (1983) and Becker et al. (1965), respectively 
+hospholipids were extracted and determined by the method of Minnikin et al. (1984) 
+enaquinones were extracted and purified by using the method of Collins et al. (1977) and isoprene units were analysed by HPLC using a Jasco 802-SC chromatograph equipped with a Shiseido CAPCELL PAK C18 column as described by Tamaoka et al. (1983) 
+he sugars presented in whole-cell hydrolysates were galactose, glucose, madurose, mannose and ribose 
+hosphatidylinositol and phosphatidylglycerol were detected as the major phospholipids 
+he major menaquinones were MK-9(H6) and MK-9(H8), while a small amount of MK-9(H4) was also detected 
+he predominant fatty acids were iso-C16 : 0 (40.9 %) and iso-C16 : 1 (16 %) 
+he minor fatty acids were C16 : 0 (4.3 %), 10-methyl C16 : 0 (3.4 %), C17 : 0 (3.8 %), anteiso-C17 : 0 (5 %), 10-methyl C17 : 0 (6.9 %), C18 : 0 (4.6 %) and 10methyl C18 : 0 (tuberculostearic acid; 3.3 %) 
+he G+C content of the DNA of strain GMKU 931T was 70.6 mol%.  There are a number of phenotypic differences between strain GMKU 931T and its closest phylogenetic neighbours, Actinoallomurus caesius NBRC 103678T, Actinoallomurus amamiensis NBRC 103682T and Actinoallomurus fulvus NBRC 103680T, including differences in morphological characteristics, optimal temperature for growth, utilization of sole carbon sources, degradation abilities and enzymic activities (Table 1) 
+he significant characteristics that distinguish strain GMKU 931T from the other three strains are that strain GMKU 931T does not produce diffusible pigment on ISP 2, ISP 3 or yeast-starch agar, does not grow on ISP 4, grows well at 28–30 uC, does not utilize maltose, raffinose or gelatin, hydrolyses urea and exhibits aglucosidase activity when examined with the API ZYM enzyme assay 
+o examine the finer taxonomic relationships between strain GMKU 931T and its three closest phylogenetic neighbours, DNA–DNA hybridization relatedness values (means of duplicate measurements) were determined fluorometrically by the method of Ezaki et al. (1989) 
+he results supported the phenotypic and genotypic data and confirmed that strain GMKU 931T belongs to a different species: low DNA–DNA relatedness values were found between strain GMKU 931T and Actinoallomurus caesius NBRC 103678T (44 %), Actinoallomurus amamiensis NBRC 103682T (43 %) and Actinoallomurus fulvus NBRC 103680T (43 %) 
+train GMKU 931T is readily distinguished from its closest phylogenetic neighbours Actinoallomurus caesius, Actinoallomurus amamiensis and Actinoallomurus fulvus on the basis of distinct phyletic lines, differences in phenotypic data and low levels of DNA–DNA relatedness 
+. n. acacia the acacia tree and also the name of a botanical genus; L. gen. n. acaciae of Acacia, referring to the isolation of the type strain from a root of Acacia auriculiformis A 
+eighbour-joining phylogenetic tree based on 16S rRNA gene sequences showing the relative position of strain GMKU 931T and the nine type strains of the genus Actinoallomurus 
+ar, 0.005 substitutions per nucleotide position. 556  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 60 IP: 189.155.188.202 On: Sun, 18 Feb 2018 07:31:47  Actinoallomurus acaciae sp. nov.  Table 1 
+haracteristic Growth on ISP 2 Growth Aerial mycelium Soluble pigment Growth on ISP 3 Growth Aerial mycelium Soluble pigment Growth on ISP 4 Growth Aerial mycelium Soluble pigment Growth on yeast-starch agar Growth Aerial mycelium Soluble pigment Optimum growth temperature (uC) Utilization of: L-Arabinose Dulcitol D-Fructose D-Galactose D-Glucose myo-Inositol Maltose D-Mannitol Raffinose D-Sorbitol Sucrose Hydrolysis of: Gelatin Starch Urea Enzyme activities N-Acetyl-b-glucosaminidase Alkaline phosphatase b-Glucuronidase a-Glucosidase b-Glucosidase  1  2  3  4  Good Pale yellow brown None  Good Moderate brown  Good Light yellowish brown to dark reddish brown Strong brown  Good Dark reddish brown  Moderate yellowish brown  Moderate White None  Moderate Light yellow None  Good Pale yellow Pale yellow  Moderate Moderate yellow None  Absent  NA  Moderate Pale yellow to yellowish pink None  Moderate Pale yellow to moderate orange None  Moderate Moderate to strong yellow None  Moderate White None 28–30  Moderate Pale yellow None 20–37  Moderate Pale yellow to light olive None 20–37  Moderate Pale yellow Pale yellow 20–37  2 2 2 2 2 + 2 2 2 2 2  2 2 2 + + 2 + + 2 2  + + 2 + + + + + + + +  + + + + + + + 2 + + +  + 2 2  + + 2  + + 2  NA  2 W  + + + + + +  Aerobic and Gram-positive 
+ells grow well on ISP 2 and MS agar and show moderate growth on ISP 3, oatmealnitrate agar and 1/10 yeast-starch agar, forming a welldeveloped white aerial mycelium that differentiates into short spiral spore chains with smooth surfaces 
+he optimal temperature for growth is 28– 30 uC and optimal pH is pH 6.0–7.0 
+atalase- and urease-positive, oxidase-negative 
+ydrolysis of casein, milk and gelatin is negative and degradation of starch is weakly positive 
+-Mannose, L-rhamnose and trehalose are utilized as sole carbon sources but L-arabinose, dulcitol, D-fructose, D-galactose, D-glucose, b-lactose, maltose, Dmannitol, raffinose, D-sorbitol, sucrose and D-xylose are not utilized 
+hole-cell sugars include galactose, madurose and mannose 
+he predominant menaquinones are MK-9(H6) and MK-9(H8), with MK-9(H4) as a minor component 
+he major fatty acids are iso-C16 : 0 and isoC16 : 1 and the minor fatty acids are C16 : 0, 10-methyl C16 : 0, C17 : 0, anteiso-C17 : 0, 10-methyl C17 : 0, C18 : 0 and 10-methyl C18 : 0 
+he phospholipid pattern comprises phosphatidylinositol and phosphatidylglycerol 
+ndophytic actinomycetes and their interactions with host  plants 
+LUSTAL W and CLUSTAL X version 2.0 
+. was granted an MS scholarship from co-funding of the Thailand Research Fund (TRF) and the Faculty of Science, Kasetsart University 
+his work was supported by co-funding of TRF, CHE and the Kasetsart University Research and Development Institute.  Minnikin, D 
+n integrated  procedure for the extraction of bacterial isoprenoid quinones and polar lipids 
+. (1977).  Distribution of menaquinones in actinomycetes and corynebacteria 
+ajima, K., Takahashi, Y., Seino, A., Iwai, Y. & Ōmura, S. (2001).  Description of two novel species of the genus Kitasatospora Ōmura et al. 1982, Kitasatospora cineracea sp. nov. and Kitasatospora niigatensis sp. nov 
+ocardia coeliaca, Nocardia autotrophica, and the nocardin  strain 
+EGA4: molecular  Tamura, T., Ishida, Y., Nozawa, Y., Otogturo, M. & Suzuki, K. (2009).  Transfer of Actinomadura spadix Nonomura and Ohara 1971 to Actinoallomurus spadix gen. nov., comb. nov., and description of Actinoallomurus amamiensis sp. nov., Actinoallomurus caesius sp. nov., Actinoallomurus coprocola sp. nov., Actinoallomurus fulvus sp. nov., Actinoallomurus iriomotensis sp. nov., Actinoallomurus luridus sp. nov., Actinoallomurus purpureus sp. nov. and Actinoallomurus yoronensis sp. nov 
+ Bacteriol 151, 828–837.  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 60 IP: 189.155.188.202 On: Sun, 18 Feb 2018 07:31:47  Actinoallomurus acaciae sp. nov 
+ Gen Appl Microbiol 30, 131–134.  the relationship between the members of the family Thermomonosporaceae on the basis of 16S rDNA, 16S–23S rRNA internal transcribed spacer and 23S rDNA sequences and chemotaxonomic analyses 
+eclassification of Thermomonospora and Microtetraspora 
+train GMKU 931T produced short spiral chains of smooth-surfaced spores on the aerial mycelium 
+ phylogenetic analysis based on 16S rRNA gene sequences suggested that strain GMKU 931T forms a distinct phyletic line within the recently proposed genus Actinoallomurus 
+heir mutual association with plants may play important roles in protecting the plant from pathogenic infection, promoting plant growth or assisting plant survival during environmental stress (Kunoh, 2002; Hasegawa et al., 2006) 
+n this work, endophytic actinobacteria were isolated from the wattle tree (Acacia auriculiformis A 
+embers of the genus Actinoallomurus were found to be phylogenetically related to Actinomadura spadix, which exhibited low 16S rRNA gene sequence similarity with other Actinomadura species (Tamura et al., 2009) 
+olyphasic investigation also revealed that Actinomadura spadix could be clearly distinguished at the genus level from other Actinomadura species and, therefore, the species was assigned to the genus Actinoallomurus as Actinoallomurus spadix comb. nov. (Tamura et al., 2009) 
+ctinoallomurus spadix was designated the type species of the genus 
+o soluble pigment was produced on any of the media tested 
+rowth of strain GMKU 931T was determined over the temperature range 5–50 uC in a temperature-gradient incubator over 14 days on ISP 2 
+rowth was observed at 12–41 uC, with the optimal temperature for good growth being 28–30 uC 
+n ISP 2, the strain was able to tolerate NaCl up to 3 % (w/v); no growth was observed at 4 % NaCl 
+enomic DNA of strain GMKU 931T was extracted from mycelium material scraped from a well-grown culture on ISP 2 according to the protocol described by Kieser et al. (2000) 
+n almost-complete 16S rRNA gene sequence of strain GMKU 931T (1468 bp) was preliminarily compared with 16S rRNA gene sequences in the GenBank database, which indicated a close relationship with members of the genus Actinoallomurus (Tamura et al., 2009) 
+he result of the phylogenetic analysis indicated that strain GMKU 931T formed a distinct clade within the genus Actinoallomurus (Fig. 2) 
+train GMKU 931T was analysed chemically using the methodology for the genus Actinoallomurus (Tamura et al., 2009) 
+he acyl type of the cell wall was analysed according to the method of Uchida & Aida (1984) 
+nalysis of the fatty acids was performed according to the procedures for the Sherlock Microbial Identification System (Microbial ID) 
+ycolic acids were analysed by TLC according to the method of Tomiyasu (1982) 
+he G+C content (mol%) of DNA, which was isolated according to the method of Marmur (1961), was determined by HPLC according to the method of Tamaoka & Komagata (1984) 
+adurose was the characteristic sugar, indicating type-B whole-cell sugars (Lechevalier & Lechevalier, 1970) 
+n the basis of the data presented in this study, it is evident that strain GMKU 931T represents a distinct novel genomic species belonging to the genus Actinoallomurus 
+henotypic characteristics that differentiate strain GMKU 931T from the type strains of the most closely phylogenetically related Actinoallomurus species Strains: 1, Actinoallomurus acaciae sp. nov 
+either diffusible pigment nor melanin is produced on any of the media tested 
+ith the API ZYM enzyme assay,  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sun, 18 Feb 2018 07:31:47  557  A 
+he glycan moiety of the murein is acetylated 
+he G+C content of the DNA of the type strain is 70.6 mol% 
+edia for the isolation of  streptomycetes: starch casein medium 
+hemical composition  as a criterion in the classification of aerobic actinomycetes 
+uzéby for kind advice on naming the species 
+. was awarded a PhD scholarship from the Commission on Higher Education (CHE), Ministry of Education, Thailand 
+ome new species of the genus Actinomadura Lechevalier et al 
+ol Biol Evol 24, 1596–1599.  using the bootstrap 
+n improved method for the glycolate  Zhang, Z., Kudo, T., Nakajima, Y. & Wang, Y. (2001) 
+alows, H 
+. & Lechevalier, H 
+he biomass was obtained after incubation at 27 uC for 5 days in ISP 2 broth 
+unn. ex Benth.).  Fig. 2 
+olerates up to 3 % http://ijs.sgmjournals.org  Light greyish brown  W  V  V  +  2 2 2 2  V  2 2  + + V  2 V  (w/v) NaCl 
+he type strain is GMKU 931T (5BCC 28622T 5NBRC 104354T 5NRRL B-24610T).  Endophytic actinomycetes have recently attracted a lot of attention 
+unn. ex Benth.), of which one is described here. 3Present address: Department of Biology, Faculty of Science, Burapha University, Chonburi 20131, Thailand 
+he name Actinoallomurus acaciae sp. nov. is proposed 
+itrate reduction is negative 
+o production of melanin pigment was observed on ISP 1 or ISP 7 
+etermination of DNA base  composition by reversed-phase high-performance liquid chromatography 
+he strain was able to grow at pH 5.0–8.0, with optimal growth at pH 6.0–7.0 
+ispersed growth of Streptomyces in liquid culture 
+ Gen Plant Pathol 68, 249–252 
+ol Biol Evol 4, 406– 425.  References  Shirling, E 

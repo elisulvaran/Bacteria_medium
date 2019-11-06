@@ -1,0 +1,224 @@
+mmonium sulfate was added to the supernatant (40% saturation) and proteins that precipitated during a 60-min incubation at 4°C under constant stirring (‘40% fraction’ or ‘P40’) were collected by centrifugation (13,000×g, 4°C, 40 min) 
+he concentration of the ammonium sulfate in the supernatant was increased to 60% saturation, and after a further incubation for 60 min at 4°C, the precipitated fraction (‘60% fraction’ or ‘P60’) was collected by centrifugation as above and resuspended in a minimum volume of P buffer 
+he concentration of ammonium sulfate in the supernatant was increased to 80% saturation, and an ‘80% fraction’ or ‘P80’ was collected analogously 
+f indicated, formaldehyde-responsive bands were  cut out from the native gel and further analyzed by sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDSPAGE; Laemmli 1970) using 10% gels 
+n case of the protein fractions, protein fraction P40 showed almost no FalDH activity, while both P60 and P80 showed an enzymatic activity, which was an order of magnitude higher than for  Appl Microbiol Biotechnol (2007) 77:779–788  785  Table 3 dlFalDH enzymatic activity determined by redox cycling assay in the protein fraction of the cell lysate obtained by ammonium sulfate fractionation Pre-incubation with PQQ and CaCl (reconstitution) Soluble fraction CFE P40 P60 P80  − PMS n.d. 0.01 0.32 0.52  + PMS 0.041 0.00 0.46 0.48  − PMS n.d. n.d. 0.18 n.d.  + PMS n.d. 0.00 0.64 0.48  The enzyme activity is expressed in units ml−1 in the redox cycling assay performed with 200 μg of protein 
+he pellet (representing the P40 fraction) was resuspended in a minimum volume of a 50 mM potassium phosphate buffer pH 8.0 (‘P buffer’) 
+or the analysis, 200 μg protein was assayed in 80 mM phosphate buffer, pH 7.0, containing 2 mM phenazine methosulfate, 0.2 mM dichlorophenolindophenol, and 10 mM formaldehyde 
+fter the run, the gel was washed twice with phosphate buffer pH 8.0 before being incubated sequentially in reconstitution solution (50 μM CaCl2, 1 μM PQQ; 40 min),  native PAGE after pre-incubation (‘reconstitution’) for 45 min at 4°C, with 50 μM CaCl2 und 1 μM PQQ 
+his analysis revealed (data not shown) that the two bands seen  NBT solution (60 min), phosphate buffer pH 8.0, and PMS with or without formaldehyde as substrate (60 min) 
+ll solutions were prepared in phosphate buffer pH 8.0 
+ased on the biomass data, the following specific growth rates were calculated from the slope of a plot ln N (cell concentration) against time t: 8 to 28 h, μmax =0.101 h−1; 28 to 48 h, μmax =0.07 h−1; 48 to 100 h, μmax =0.009 h−1  Effect of culture condition on dlFalDH yield To determine the product titers during the production of dlFalDH by H. zavarzinii ZV 580, the redox cycling microassay was used to analyze the cell free extract (CFE) and fractions P40, P60, and P80 obtained by (NH4)2SO4 precipitation 
+he (NH4)2SO4 fractionation might have led to a removal of the Ca2+ ions (formation of CaSO4) 
+train and culture conditions Bacteria were grown in a mineral medium containing 10 mM K2HPO4, 14 mM NaH2PO4, 10 mM MgSO4, 15 mM (NH4)2SO4, 4 μM FeSO4, 1 μM ZnSO4, 10 μM CaCl2, 1 μM CuSO4, 1 μM CoCl2, 186 μM (NH4)6Mo7O24, 5 μM MnCl2, and 4 μM ethylenediaminetetraacetic acid (EDTA) and supplemented as indicated with either MeOH or methylamine hydrochloride (MA-HCl) as C1-source 
+A-HCl concentrations in the culture medium were analyzed by gas chromatography (GC 6890N with FID detector, Agilent, Waldbronn, Germany) using a protocol adapted from a generic protocol for the quantification of amino acids in cell culture supernatants based on the EZ:faast GC/FID free amino acid kit (Phenomenex, Aschaffenburg, Germany), as published elsewhere (Jérôme et al. 2007) 
+riefly, the gels were washed twice at 4°C with P buffer and then sequentially incubated at room temperature with: P buffer containing 50 μM CaCl2 and 1 μM pyrroloquinoline quinone (PQQ) for 40 min (‘reconstitution step’ making up for potential loss of Ca2+ and/or the cofactor during sample processing) and 3.3 mM NBT for 60 min; pure P buffer for 5 min; 0.65 mM phenazine methosulfate (PMS) with or without 15 mM formaldehyde as substrate for 60 min 
+owever, while Sigma-A can be added to  787  the culture medium, it unfortunately cannot be pumped into the bioreactor on an ‘on demand’ basis (the best protection against excessive foaming in the bioreactor) because it is not water-soluble 
+Appl Microbiol Biotechnol (2007) 77:779–788 DOI 10.1007/s00253-007-1218-z  BIOTECHNOLOGICAL PRODUCTS AND PROCESS ENGINEERING  Development of a fed-batch process for the production of a dye-linked formaldehyde dehydrogenase in Hyphomicrobium zavarzinii ZV 580 Valérie Jérôme & Markus Hermann & Frank Hilbrig & Ruth Freitag  Received: 27 April 2007 / Revised: 18 September 2007 / Accepted: 18 September 2007 / Published online: 16 October 2007 # Springer-Verlag 2007  Abstract The dye-linked formaldehyde dehydrogenase (dlFalDH) from Hyphomicrobium zavarzinii ZV 580 processes formaldehyde in a highly selective manner and without need for NAD(P) 
+n this contribution, a fed-batch bioprocess is developed, which improves both the biomass production of H. zavarzinii ZV 580 (from 0.6 to 2 g l−1 dry mass) and the specific dlFalDH production (from 0.1 to 0.3 units g−1 biomass), resulting in an overall improvement of the productivity by more than an order of magnitude compared to the previously reported process (Klein et al., Biochem J 301:289–295, 1994) 
+reitag (*) Chair for Process Biotechnology, University of Bayreuth, 95440 Bayreuth, Germany e-mail: bioprozesstechnik@uni-bayreuth.de  Introduction The Gram-negative bacterial strain Hyphomicrobium zavarzinii ZV 580 has first been described in 1955 (Zavarzin 1955) and elicited moderate interest since then (e.g., Matzen and Hirsch 1982; Moore and Duxbury 1981; Zavarzin 1960) 
+. zavarzinii ZV 580 is a ‘slow growing’ methylotrophic bacterium, (Hirsch and Conti 1964b) most noted for the facultative expression of a formaldehydeoxidizing enzyme when grown on certain C1-sources 
+he molecular nature of this cofactor has not yet been elucidated but bears features of a protein-bound quinone (Klein et al. 1994), hence the name ‘dye-linked formaldehyde dehydrogenase’ (dlFalDH) given to this particular enzyme. dlFalDH produced by H. zavarzinii ZV 580 when grown, e.g., on methylamine hydrochloride, differs from other dyelinked aldehyde dehydrogenases of methylotrophic bacteria by its affinity and specificity towards formaldehyde 
+owever, to create a viable production process, the biomass and the specific dlFalDH yield of the organism have to be maximized 
+o date, little effort has been made to optimize the cultivation parameters for H. zavarzinii ZV 580 (Matzen and Hirsch 1982) 
+he only previously established production process was based on a batch mode fermentation  780  without pH control and led to very low biomass yields (about 0.8 g l−1 dry weight, Klein et al. 1994) 
+he situation is made worse by the fact that the cell structure of Hyphomicrobium and its method of reproduction are fairly complex (Zavarzin 1961) 
+n particular, the life cycle of Hyphomicrobium sp. exhibits three different morphological states (swarmer, hyphal, and rosette) reflecting two processes, the formation of mother cells and the formation of daughter cells, occurring at the same time (Moore and Hirsch 1973a,b, Conti and Hirsch 1965; Zavarzin 1960, Poindexter 1964) 
+n this study, an improved fermentation process for H. zavarzinii ZV 580 was developed, which is characterized by a more than threefold increase in both biomass and specific enzyme production.  Materials and methods Materials Chemicals including minerals for the media were from established suppliers such as Sigma-Aldrich and used as obtained 
+or this purpose, the bacteria were twice washed and re-centrifuged, then dried in pre-weighted glass tubes at 80°C to constant weight 
+ultures were inoculated at an OD600 of 0.1 and incubated at 30°C and 135 rpm on a rotary shaker (Thermo Life Sciences, Egelsbach, Germany) 
+n the ‘fed-batch mode’, the pH of the culture was estimated before each feeding and adjusted to pH 7.0 by addition of few drops of  Appl Microbiol Biotechnol (2007) 77:779–788  2 M NaOH when necessary 
+or cultivation in the bioreactor (NLF22 bioreactor, Bioengineering, Wald, Switzerland), the cells were inoculated at an OD600 of 0.1 and initial culture volume of 7.0 l 
+he stirrer speed and the air flow were programmed in cascade with the dissolved oxygen (DO) in such a way that the set point of 30% oxygen saturation was maintained by changing the air flow linearly between 0 and 11.5 l min−1 and the stirrer speed between 92 and 200 rpm 
+reparation of the cell-free extracts For the preparation of cell-free extracts, the fresh or frozen cells were resuspended in 50 mM Tris/HCl buffer, pH 7.4, containing 1 mg ml−1 lysozyme, 0.2 mM phenylmethanesulphonyl fluoride, 2.5 units ml−1 DNase, and 3 mM MgCl2, followed by sonication (five times for 1 min) on ice 
+he samples (P40, P60, and P80) were desalted using a Zeba desalt spin column (Pierce, Bonn, Germany), and the protein concentration in the samples was determined using the micro-BCA protein assay (Pierce) according to the manufacturer’s instructions 
+his test relies on a redox reaction converting the substrate (formaldehyde) into formate, thereby releasing two electrons, which are transferred first to the dlFalDH cofactor (unidentified quinone), then to the mediator PMS (phenazine methosulfate), and finally to the  Appl Microbiol Biotechnol (2007) 77:779–788  781  dye DCPIP (dichlorophenolindophenol) that becomes colorless upon reduction, leading to a decrease of the OD595 
+he activity was calculated using an extinction coefficient of 21,000 M−1 cm−1 (Steyn-Parvé and Beinert 1958) 
+o collect additional information on the detected formaldehyde dehydrogenase activity in some of the samples, we also performed a redox assay in native polyacrylamide gel electrophoresis (PAGE; 8% gels, Tris/glycine buffer pH 8.3 according to Gallagher 1995), both in the presence and in the absence of formaldehyde 
+erforming the assay in the presence and the absence of formaldehyde allows distinguishing between enzymes that reduce the redox coloring agent as follow-up to a specific formaldehyde oxidation and those that do not require the presence of formaldehyde for this reaction, i.e., most likely are not true formaldehyde dehydrogenases 
+BT and PMS stock solution were prepared in P buffer 
+riefly, samples were clarified by centrifugation (13,000×g, 4°C, 10 min), and the supernatants were processed, pure or diluted 2- to 25-fold in mineral medium 
+or calibration and reproducibility studies, culture supernatants were replaced with standard solutions of MA-HCl at concentrations between 0.1 and 12 mM 
+he analysis was carried out on a 10 m×0.25 mm ZB-AAA fused-silica capillary column (Phenomenex, Aschaffenburg, Germany), with the following temperature program: 40 to 180°C with 12°C min−1, then 180 to 320°C with 30°C min−1, and finally 1 min at 320°C 
+he cultures were inoculated at an OD600 of 0.1 in 50 ml mineral medium containing either 0.5% (v/v) MeOH or 10, 25, and 50 mM MA-HCl as C1-source 
+ultures were run as batch or fed batch, in the latter mode, MeOH or MA-HCl  Table 1 Comparison of Hyphomicrobium zavarzinii ZV 580 biomass obtained in the batch and fed batch mode and as a function of the C-source C1-source  Batch mode (g l−1)  Fed-batch mode (g l−1)  MeOH (0.5% v/v) 10 mM MA-HCl 25 mM MA-HCl 50 mM MA-HCl  1.2 n.d. 0.4 0.6  2.2 1.4 1.5 1.2  Biomass yield (cell dry weight, g l−1 ) determined after 78 h of culture at 30°C in shake flasks 
+n the fed-batch mode, the pH of the culture was measured before each feeding and corrected with 2 M NaOH if necessary.  782  were added again 48 and 72 h post-inoculation (same concentrations), and the pH was adjusted each time to 7.0 by the addition of few drops of 2 M NaOH 
+rowth rates and biomass production were monitored, Table 1 
+owever, the specific growth rate could not be kept constant over the 100 h of cultivation, dropping from a μmax of 0.12 between 10 to 32 h to a μmax of 0.04 between 32 and 56 h, and finally a μmax of 0.009 between 56 and 100 h 
+ubsequently, we will refer to these three growth phases as early, middle, and late phase.  Fig. 1 Culture of Hyphomicrobium zavarzinii ZV 580 in shake flask 
+fter 24, 32, 48, 56, 72, 80, and 96 h, the culture was manually supplemented with MA-HCl to a final concentration of 25.5 mM (triangle) or 38.6 mM (inverted triangle) 
+efore each addition, the pH of the culture was measured and adjusted manually to pH 7.0 with 2 M NaOH, if necessary 
+fter 48, 72, and 96 h, the culture were supplemented with MeOH to a final concentration of 0.5% and 10, 25, or 50 mM NaCl 
+ariations observed when repeating these and other shaker flask cultivations of H. zavarzinii ZV 580 run in the fed-batch mode suggested that high salt concentrations might inhibit cell growth (data not shown) 
+o investigate the salt tolerance of H. zavarzinii ZV 580, we cultivated the cells on MeOH (0.5% v/v) as C1source in the fed-batch mode with pH correction and added 10, 25, or 50 mM NaCl to the growth medium at t=0 h and also at each feed 
+or results and details, see Fig. 2 
+oaming was observed in several of the shake flask cultures and would have made the overnight cultivation in the bioreactor hazardous without proper counter measures.  Appl Microbiol Biotechnol (2007) 77:779–788  783  beyond 6 ppm started to inhibit bacterial growth, reaching a 60% reduction in biomass production for 50 ppm SigmaA compared to a parallel culture that lacked the antifoam agent 
+fter 24, 32, 48, and 56 h, the cultures were supplemented with MA-HCl to a final concentration of 10 mM 
+efore each addition of the C1-source, the pH of the culture was measured and corrected with NaOH (open square) or MA (filled square) if necessary (data represent the mean values of the biomass of three independent experiments)  In preparation for scale-up of the cultivation by transfer to the bioreactor, the effect of two antifoam agents on H. zavarzinii ZV 580 growth was studied, namely, the nonsilicone polyether dispersion Sigma-A204 and the silicone polymer-based antifoam agent Sigma-A 
+he former was added to the culture from the start, and the latter was added when the cells reached the mid-exponential phase 
+ncreasing the concentration of Sigma-A  To scale up the process, the optimized fed-batch protocol developed for the shake flask was transferred to the bioreactor (starting volume 7 l) keeping all other experimental parameters as similar as possible, although the quantity of MA-HCl added to the culture after 72, 80, and 96 h of growth was somewhat increased (see figure legends for details) 
+he bioreactor results are compiled in Fig. 4 and should be compared directly with those shown in Fig. 1 (corresponding shake flask culture) 
+he three growth phases previously observed (Fig. 1) were also observed in the bioreactor (μmax of 0.11 between 10 to 32 h; μmax of 0.03 between 32 and 56 h; μmax of 0.008 between 56 and 100 h) 
+fter 24, 32, 48, 56, 72, 80, and 96 h, the culture were manually supplemented with MA-HCl to a final concentration of 25.5 mM (inverted open triangle), 38.6 mM (open triangle), 55.7 mM (filled triangle) or 64.3 mM (arrow down) 
+he feed-pump (flow rate, 30.4 ml min−1) was set empirically to automatically run for 0.3 min (between t0 and t40) and for 0.6 min (between t40 and t55) whenever DO≥35% 
+ata for biomass development and C1-source concentration are presented in Fig. 5 
+t can be seen that during the exponential phase the MA-HCl is quickly consumed, and the biomass yield corresponds to 0.029 g (dry weight) per mmol of MAHCl 
+rowth stopped (plateau) after 75 h of culture, although the vitality of the bacteria was nearly 100% in colony forming assay (data not shown) and nutrients were still available 
+fter 56 and 78 h of culture, the DO increased slightly but did not surpass 35% anymore.  Each time, the culture was manually supplemented with 38 and 38.7 mM MA-HCl 
+he biomass production is displayed by black squares, the MA-HCl concentration in the fermentation broth by white circles, the dissolved oxygen tension by solid line, and the feed by dashed line 
+hile the activity in case of P80 was similar in the presence and the absence of PMS, in P60, the activity was significantly increased in the presence of PMS 
+hen the redox assay was performed in the native PAGE gels of the corresponding samples, we were not able to see any differences in the band patterns obtained for P60 and P80 in the presence and absence of formaldehyde (data not shown) 
+t has been suggested (Schwartz AC, personal communication) that Ca2+ ions are required for the stabilization of the tetrameric structure of the dlFalDH from H. zavarzinii ZV 580 and for its optimal functionality 
+he results are included in Table 3, and the corresponding gels are shown in Fig. 6 
+ave for P40, two bands are seen in the high molecular weight range of both gels, i.e., in the absence and the presence of the substrate formaldehyde for all fractions and the CFE 
+his phenomenon is described in the literature as ‘nothing dehydrogenase’ (Rothe 1994) and is of no further concern 
+n addition, save for P40, one band is seen only in the presence of the substrate formaldehyde for all fractions and the CFE, indicated by a star in Fig. 6 
+ll ‘formaldehyde-depending’ bands were subsequently cut out from the native gel and analyzed by SDS-PAGE 
+ubsequently, the redox cycling microassay (microtitre plate redox assay) was repeated for the reconstituted fractions P60 and P80, Table 3 
+he data presented above strongly suggest that fraction P60 contains the dlFalDH. ‘Volumetric’ productivity is an important index for evaluating the efficiency of a bioprocess and can be defined as product produced per unit biomass 
+he effect of the culture conditions on the dlFalDH production was analyzed by determining the dlFalDH activity in the reconstituted P60 fraction at the end of the fermentation by the redox cycling microassay, and the quantity of enzymatic units present per gram biomass was calculated 
+he initial C1-source concentration in the medium and the concentration and time course of the feeding also influence the overall productivity of the cells 
+ost importantly, when the productivity was determined as a function of the fermentation time, in particular after 29, 53, 77, and 97 h of fermentation in the bioreactor (Fig. 5), values obtained after 29 and 53 h (0.27 U g−1 for both time points) were in the same order of magnitude as before (Table 4), while somewhat lower values were determined after 77 and 97 h (0.18 and 0.16 U g−1, respectively).  Discussion H. zavarzinii ZV580 is known to grow on various C1sources including methanol (MeOH) and methylamine hydrochloride (MA-HCl), albeit typically only to rather low cell densities 
+uch a weak biomass production might be due not only to growth limitation because of nutrient limitation and/or acidification of the fermentation medium by by-products released during the culture, but also to the  Table 4 Comparison of dlFalDH production as a function of the cultivation conditions Culture mode and C-source feeding strategy  Shake flask  Bioreactor  Batch t0: 25 mM Fed-batch 1 t0: 10 mM Feed: t71, 93, 115, 123, 139, 163: 25 mM Fed-batch 2 t0: 20 mM Feed: t55, 72: 30 mM; t79: 40 mM Fed-batch 3 t0: 10 mM Feed: t24,48, 25 mM; t32,56, 38.5 mM; t72, 55.7 mM; t80,96, 64.3 mM Fed-batch 4 t0: 10 mM Feed: t31, 11.3 mM; t54, 34 mM; t66, 30 mM; t79, 29.6 mM; t90, 29.1 mM Fed-batch 5 t0: 10 mM Feed: automatic  0.11 U g−1  n.d.  0.13 U g−1  n.d.  0.19 U g−1  n.d.  n.d.  0.30 U g−1  n.d.  0.36 U g−1  n.d.  0.31 U g−1  dlFalDH yield at the end of the culture expressed in unit g−1 biomass (wet weight) 
+he time course of feeding and quantity of MA-HCl supplemented to the culture are given for each culture conditions.  Appl Microbiol Biotechnol (2007) 77:779–788  presence of inhibitory agents 
+he enzyme is exclusively produced when the bacteria are grown on methylamine hydrochloride (or methylamine), as previously described by Kohler and Schwartz (1982) 
+n this contribution, it is shown that, via a suitable fed batch strategy, it is possible to improve the biomass yield of up to 3.5-fold and the specific enzyme production from 0.11 to 0.30 units g−1 biomass 
+ndependently of the applied feeding strategy, the growth of H. zavarzinii ZV 580 can be divided in three growth phases (early, middle, and late) 
+he specific growth rate is highest in the early and lowest in the late phase 
+ne aspect may be an increase in the salt concentration after several rounds of MA-HCl feeding and pH correction with NaOH 
+ntifoam Sigma-A204 is a surfactant and might disrupt or interfere with this interaction leading to a blockage of the cell cycle and, consequently, to proliferation inhibition 
+ previous study had shown that Tween 80 prevents rosettes formation (Moore and Marshall 1981) 
+t is also possible that the fermentation parameters and/or feeding strategy were somehow less successful in the bioreactor than in the shake flask or that the controlled environment in the bioreactor led to an improved C1-source uptake/metabolism and thus to an earlier starvation of the bacteria inducing a lag phase (observable as slight reduction in biomass in the bioreactor after 55 h of cultivation, Fig. 4) 
+n this context, the specific growth rates of the early and late phases were not influenced either by the culture vessel (shake flask vs bioreactor) or by the process parameters (manual vs automatic feeding and pH control) 
+yphal bacteria are normally present in culture as heterogeneous population of cells (swarmer, hyphal/budding stages, and rosette-like aggregates); each population might have a different sensitivity to the physico-chemical parameters of the fermentation medium 
+owever, as this genus utilizes C1 carbon compounds as the sole source of carbon and energy, it is questionable if this consumption varied according to the life cycle stages (Hirsch and Conti 1964a,b; Moore 1981) 
+ata analyzing the kinetics of dlFalDH expression during the fermentation (Fig. 5) suggest again a correlation between the cell growth, the methylamine consumption rate, and the quantity of enzyme produced 
+ supplementary set of analysis of the enzyme production at the RNA level with for example RT-PCR or quantitative RT-PCR should clarify this point and allow us to further improve the enzyme production 
+ased on the results achieved, we conclude that there are two major factors that seem to positively affect dlFalDH productivity: culture in the fed-batch mode in the bioreactor and active methylamine consumption 
+orholt (INRA/CNRS, Castanet-Tolosan, France).  References Borodina E, Kelly DP, Rainey FA, Ward-Rainey NL, Wood AP (2000) Dimethylsulfone as a growth substrate for novel methylotrophic species of Hyphomicrobium and Arthrobacter 
+ine structure of Rhodomicrobium and Hyphomicrobium spp 
+iochem J 301(Pt 1):289–295 Kohler J, Schwartz AC (1982) Oxidation of aromatic-aldehydes and aliphatic secondary alcohols by Hyphomicrobium spp 
+an J Microbiol 28(1):65–72 Koszelak Rosenblum ME (2002) Cofactor activities of factor VIIIa and A2 subunit following cleavage of A1 subunit at Arg336 
+ature 227:680–685 Matzen N, Hirsch P (1982) Continuous culture and synchronization of Hyphomicrobium sp 
+rch Microbiol V132(1):96–99 Moore RL (1981) The biology of Hyphomicrobium and other prosthecate, budding bacteria 
+ems Microbiology Letters 11(2–3):107–109 Moore RL, Marshall KC (1981) Attachment and Rosette formation by hyphomicrobia 
+ Biol Chem 266:689–692 Poindexter JS (1964) Biological properties and classification of caulobacter group 
+r Latv Padomju Soc Repub Zinat Akad Mikrobiol Inst 4:196–201 Zavarzin GA (1960) The developmental cycle and the nuclear apparatus of Hyphomicrobium vulgare Stutz. et Hartleb 
+he enzyme thus has considerable potential for technical applications if the difficulties associated with its efficient production can be resolved 
+n particular, the process uses an automated feeding strategy controlled via the dissolved oxygen concentration 
+n addition, our results show that the growth of H. zavarzinii ZV 580 is rather sensitive toward increasing salt concentration in the culture medium 
+rowth is also inhibited by the presence of surfactant-based antifoam reagents 
+djustment of the pH via the addition of methylamine instead of NaOH, on the other hand, leads to an increase in biomass yield 
+his enzyme belongs to the family of NAD(P)-independent aldehyde dehydrogenases 
+his, together with the absence of NAD(P) as electron acceptor in the catalytic reaction, makes dlFalDH particular suitable for several technical applications, for example, in the biosensor field, if enough material can be produced in a cost efficient manner 
+xpression of the enzyme in recombinant form is not straightforward due to the necessity of the cofactor 
+ells in the different stages of development may differ in their needs, rendering process development difficult 
+illipore water was used for the preparation of all aqueous solutions 
+he strain H. zavarzinii ZV 580 was from the collection of the “Institute für Allgemeine Mikrobiologie” (University of Kiel, Germany, accession number IFAM ZV-580, EMBL accession number Y14306) 
+he pH of the medium was adjusted to 7.0 before autoclaving 
+acterial growth was monitored by measuring the optical density of the culture at 600 nm (OD600) 
+ptical densities were related to the dry weight via a calibration curve prepared using cells obtained by centrifugation (11,700×g, 10 min, 4°C) from fully grown cultures at the end of the exponential phase 
+hile 100% airflow was adjusted for 100% output signal, the maximum stirrer speed was already adjusted for 50% output signal 
+nalytical methods To determine the product titers during the production of dlFalDH by H. zavarzinii ZV 580, the spectrophotometric enzyme assay for formaldehyde dehydrogenase previously published by Borodina et al. (2000) was scaled down to the microtiter plate format (‘redox cycling microassay’) 
+he assay was performed in flat-bottom microtiter plates (Greiner Bio-one GmbH, Frickenhausen, Germany) using 200 μl reaction mixture (optical path length, 5.9 mm; detection wavelength, 595 nm) with the temperature maintained at 30°C in a Genios Pro plate reader (Tecan, Crailsheim, Germany) 
+ne unit of enzyme activity is defined as the amount of enzyme required for reduction of 1 μmol of DCPIP per minute 
+his procedure has the advantage that the enzymes giving positive results are first separated in the gel 
+n particular, the formaldehyde dehydrogenase (FalDH) activity in the gel was detected according to a protocol modified from Paz et al. (1991), employing nitroblue tetrazolium (NBT) as the redox coloring agent 
+he calibration curve was linear in the range of 0.1 to 8 mM (RSD≤5%) 
+elium was the carrier gas (head pressure, 0.45 bar) 
+.01.03 was applied for computer-assisted data processing.  Results The aim of the bioprocess strategy described in this publication was to improve the biomass production of H. zavarzinii ZV 580 cultured in the bioreactor and, in consequence, the overall dlFalDH enzyme production 
+ffect of media composition To identify possible factors affecting the biomass production, series of shake flask cultures were performed 
+n the batch mode, cells stopped growing after 28 h (25 mM MAHCl) or after 45 h [0.5% (v/v) MeOH; 50 mM MA-HCl] 
+ssuming that the C1-source has been completely metabolized, a substrate consumption rate of 2.3 mmol g−1 h−1 can be calculated for MeOH, while this rate is in the range of 2.0–2.4 mmol g−1 h−1 for MA-HCl 
+rom the results compiled in Table 1, it becomes evident that, by running the culture in the fed-batch mode with pH adjustment, the biomass yield can be increased two- to threefold 
+ substrate limitation thus seems to be among the reasons for the previously observed low final biomass yields 
+his was corroborated by the fact that a feeding strategy designed to further extend the growth phase (Fig. 1, see figure legend for details) further improved the overall biomass production up to a final value of 2.3 g l−1 
+oncomitantly, the culture could be extended to 100 h 
+ased on the biomass data, the following specific growth rates were calculated from the slope of a plot ln N (cell concentration) against time t: 10 to 32 h, μmax =0.12 h−1; 32 to 56 h, μmax =0.04 h−1; 56 to 100 h, μmax = 0.009 h−1  Appl Microbiol Biotechnol (2007) 77:779–788  Fig. 2 Inhibition of cellular growth of Hyphomicrobium zavarzinii ZV 580 by increasing amounts of NaCl 
+f necessary, the pH of the culture was adjusted to 7 using 2 M NaOH  Several media components may also exert an inhibitory influence on biomass production 
+he cells were fed three times leading to final NaCl concentrations in the growth medium ranging from 40 to 250 mM at the end of the culture (t=102 h) 
+s displayed in Fig. 2, the upper limit tolerated by the cells under these conditions seems to be 50 mM NaCl 
+s a possible means to reduce the salt accumulation in the fermentation broth during the fed-batch culture, methylamine (MA) instead of NaOH was used for pH correction 
+wo types of shake flasks cultures were done in parallel correcting the pH either with NaOH or with MA 
+n both cases, the cultures were supplemented four times with MA-HCl as C-source (0.5 mmol per feed), Fig. 3 
+ven considering the standard deviation of the individual measurement points (n=3), pH adjustment with MA led to a significant increase in biomass at the end of the culture compared to a culture where NaOH was used 
+ed-batch cultivation of H. zavarzinii ZV 580 in the bioreactor  Fig. 3 Influence of the means of pH control (NaOH or methylamine) on the growth of Hyphomicrobium zavarzinii ZV 580 
+ccording to these results, as little as 0.5% (v/v) of Sigma-A204 in the growth medium already caused a 47% decrease in the final biomass, while the addition of Sigma-A at concentrations of up to 6 ppm had no significant effect on H. zavarzinii ZV 580 growth 
+oreover, cell growth was identical in both culture vessels over the first 55 h of culture 
+fterwards, the two curves slightly diverged from each other, with the bioreactor yielding less biomass than the shake flask, although the specific growth rates were almost identical in the late phase (Fig. 4).  Table 2 Effect of antifoam on Hyphomicrobium zavarzinii ZV 580 biomass Antifoam  Biomass (% decrease)  No addition 0.5% (v/v) Sigma-A204 3 ppm Sigma-A 6 ppm Sigma-A 13 ppm Sigma-A 25 ppm Sigma-A 50 ppm Sigma-A  0 47 5 0 15 50 60  Biomass (cell dry weight, g l−1 ) determined after 27 or 100 h of culture in a medium containing the indicated amounts of antifoam Sigma-A204 or Sigma-A.  Fig. 4 Cultivation of Hyphomicrobium zavarzinii ZV 580 in the bioreactor with manual feeding 
+he pH of the culture was maintained constant at pH 7 by automatic titration with 2 M NaOH 
+ased on the biomass data, the following specific growth rates were calculated from the slope of a plot ln N (cell concentration) against time t: 10 to 32 h: μmax =0.11 h−1, 32 to 56 h: μmax =0.03 h−1, 56 to 100 h: μmax =0.008 h−1  784  Appl Microbiol Biotechnol (2007) 77:779–788  To improve the feeding schedule, additional experiments including the assessment of the MA-HCl concentration in the medium were performed 
+or this purpose, the substrate (MA-HCl) concentration was analyzed by gas chromatography 
+n parallel, we attempted to automate the feeding process 
+fter a few bioreactor runs, it became obvious that the dissolved O2 (DO) briefly jumped above 35% air saturation when the H. zavarzinii ZV 580 cells stopped growing 
+s we assumed that the growth arrest reflects a C1-source limitation, we took advantage of this phenomenon to develop an ‘on-demand’ feeding for the culture in the bioreactor, activating the feeding-pump whenever the pO2 values were above 35% air saturation 
+fter 45 h of fermentation, we activated the feed pump twice manually for 1 min because the DO values consistently stayed below 35% (see legend to Fig. 5 for details) 
+fter 55 h of culture, the cell growth slowed down, although the C1-source was not depleted from the medium;  the methylamine concentration was still above 20 mM 
+nder this feeding strategy, the biomass yield was 1.5 g l−1 demonstrating the potential of such a feeding strategy for the fermentation of H. zavarzinii ZV 580, although the fully automated ‘on demand’ feeding could only be achieved for the first 45 h of culture 
+ost importantly, this approach allowed us to increase the specific growth rate in the middle phase more than twofold.  Fig. 5 Cultivation of Hyphomicrobium zavarzinii ZV 580 in the bioreactor with automatic feeding based on the dissolved oxygen 
+he culture was run in the fed-batch mode, the feed (5 M MA-HCl) pump (flow rate, 30.4 ml min−1) was activated for 0.3 to 1 min whenever the dissolved oxygen value surpassed 35% 
+he results compiled in Table 3 show that the enzyme activity in the CFE is relatively weak 
+ore importantly, we obtained positive results even in the absence of the mediator PMS in the assay mixture 
+FE Cell-free extract  the CFE 
+oreover, as the nature of the cofactor is not known, it cannot be excluded that the cofactor was removed from the protein during precipitation/sample processing 
+t has been speculated that PQQ might be the bound cofactor in the dlFalDH from H. zavarzinii ZV 580 
+his is the case as for the membraneassociated quinoprotein formaldehyde dehydrogenase from Methylococcus capsulatus bath (Zahn et al. 2001) 
+n addition, some lighter bands are observed in the gel 
+he reason for the occurrence of such bands is at present still unclear; however, they do not present formaldehyde dehydrogenase activity 
+wo additional bands (marked by arrows in Fig. 6) appear exclusively for fraction P60 in the presence of the substrate formaldehyde 
+ark bands represent the formazan precipitate, which reflects the desired enzymatic activity  786  exclusively in fraction P60 (indicated by arrows in Fig. 6) contain proteins or protein subunits with a molecular weight in the range of 45 to 55 kDa, which correlates with the expected size of the dlFalDH monomer (Klein et al. 1994) 
+he lower band seen in all fractions save P40 (indicated by a star in Fig. 6) contains proteins with a molecular weight in the range of 10 to 14 kDa 
+his result incidentally also demonstrates that the redox cycling assay when performed on non- or only partially purified cell extracts can only give an estimation of the formaldehyde dehydrogenase activity 
+f all fractions, only P60 showed an increase in activity measured after reconstitution compared to the activity determined without reconstitution 
+s shown in Table 4, even in the shake flasks, the fed-batch mode, in particular in the case of ‘fed-batch 2’, can almost double the productivity  Appl Microbiol Biotechnol (2007) 77:779–788  compared to the batch mode 
+ comparison of the fed-batch shake flask with the fed-batch bioreactor data shows that, in spite of the somewhat lower biomass titers, the productivity in the bioreactor was considerably higher 
+he method used for feeding (manual or automatic) was not of much influence in regard to the dlFalDH production 
+he previously published protocol (bioreactor without pH control) for growth on MA-HCl as C-source yielded approximately 0.8 g l−1 dry weight at the end of the exponential phase (Klein et al. 1994), which can be considered typical 
+rowth is often somewhat better on methanol, but this substrate does not provide a suitable C1-source for the production of dlFalDH 
+ first analysis of shake flask data showed that, via a suitable fed batch strategy, it is possible to double the biomass yield 
+he reason for the observed decrease in the specific growth rate in the later stages of the cultivation is not straightforward 
+ufficient nutrients to sustain growth beyond the observed level were still present 
+uch a salt sensitivity may even become a critical bottleneck, as it may prevent implementing an exponential feeding strategy in the bioreactor 
+hile some salt accumulation in the fermentation broth is unavoidable in a fed-batch culture, we nevertheless found that using methylamine (MA) instead of NaOH for pH correction had a beneficial effect on biomass production 
+his approach has the advantage that MA can also be used as C1-source by the H. zavarzinii ZV 580, thereby lowering the amount of MA-HCl to be added during feeding concomitant to the pH control 
+ second prerequisite for transfer of the dlFalDH production to the bioreactor is the addition of a suitable antifoam agent 
+s shown in Table 2, between the two agents tested, the cells were very sensitive to agent SigmaA204, where the addition of 0.5% (v/v) to the growth medium caused a 47% decrease in the final biomass yield 
+uch a concentration of the antifoam agent would, on the other hand, most likely not even be sufficient to prevent foaming in the bioreactor, especially towards the end of the cultivation 
+nfortunately, that study did not provide any data on the effect of Tween 80 on bacterial growth 
+he bacteria much better tolerated the antifoam agent Sigma-A 
+he three growth phases were also observed in the bioreactor 
+hile the specific growth rates in the three growth phases were similar to those calculated for the fedbatch shaker flask cultures, the final biomass was somewhat lower 
+he reason for this reduced final biomass in the bioreactor is at present unclear 
+n experimental error cannot be excluded, although the effect was observed reproducibly 
+o avoid the occurrence of such starvation periods, an automatic ‘on demand’ feeding strategy was developed 
+hile this rendered bioproduction of dlFalDH more convenient, it did, at first glance, not improve the biomass yield of the process, which dropped to 1.5 g l−1 (Fig. 5) 
+ndependently of the applied feeding strategy, the growth of H. zavarzinii ZV 580 seemed to correlate with the methylamine concentration in the culture medium 
+owever, the ‘on-demand’ feeding strategy led to a more than twofold increase of μmiddle phase 
+nterestingly, the highest specific growth rate (0.12 h−1) was achieved at low methylamine concentration 
+n the other hand, the data presented in Fig. 5 demonstrate that the diminution of the growth in the late phase is not related to a C1-source limitation 
+t might be linked to the depletion of additional limiting nutrients or may be caused by the accumulation of inhibitory metabolites in the  788  fermentation medium 
+owever, as an increasing salt concentration in the fermentation medium also inhibits cellular growth, an increasing osmomolarity of the medium caused by increased methylamine concentration may also negatively influence the growth rate 
+his assumption is also supported by the fact that pH correction with methylamine led to a significant increase of the biomass yield 
+n particular, a lower enzyme production rate was observed in the late phase of the cultivation 
+his suggests a down-regulation of the dlFalDH production in correlation with the absence of MA-HCl consumption 
+uch a mechanism might reflect the physiological significance of dlFalDH in the formaldehyde metabolism in H. zavarzinii ZV 580 cultured on C1 compounds 
+cknowledgements This work was supported by the German Research Foundation (DFG, project number Fr 830/10–1) 
+hanks to Nancy Nixdorf for the GC analysis 
+rchiv Fur Mikrobiologie 48 (4):358–367 Jérôme V, Hermann M, Hilbrig F, Freitag R (2007) Fast method for quantitative analysis of methylamine in fermentation broth by gas chromatography. in J Chrom A (in press) Klein CR, Kesseler FP, Perrei C, Frank J, Duine JA, Schwartz AC (1994) A novel dye-linked formaldehyde dehydrogenase with some properties indicating the presence of a protein-bound redox-active quinone cofactor 
+ Biol Chem 277:11664–11669 Laemmli UK (1970) Cleavage of structural proteins during the assembly of the head of bacteriophage T4 
+ Bacteriol 116(3):1447–1455 Moore RL, Duxbury T (1981) A microcultural study of the effect of mitomycin-C on Hyphomicrobium vulgare 
+pringer, Berlin, pp 141–179 Steyn-Parv EP, Beinert H (1958) On the mechanism of dehydrogenation of fatty acyl derivatives of coenzyme A 
+ Bacteriol 183(23):6832– 6840 Zavarzin GA (1955) Bacteriology of the surface stratum in natural water supply of the Volga Delta 
+t is described as a tetramer, each subunit with a molecular weight of 54,000 carrying a— putatively covalently bound—cofactor 
+hake flasks cultivations were done in 250 ml to 2 l Erlenmeyer flasks containing 50 to 400 ml of growth medium 
+nless indicated otherwise, a constant pH of 6.9±0.1 was maintained by automatic titration with 2 M NaOH 
+ultivations without antifoam addition were performed in parallel; results are compiled in Table 2 
+he assay is hence not specific for FalDH activity in complex mixtures 
+ctivity is indicated by dark bands 
+t is possible that, in general, too high a concentration of nutrients results in growth inhibition for this oligotrophic strain, which in nature is used to live at low nutrient levels (Hirsch 1986) 
+herefore, all protein fractions were once more investigated in  Fig. 6 Assay of dlFalDH activity in a native PAGE gel 
+he cultures were supplemented with 0 mM (circle), 10 mM (square), 25 mM (triangle), 50 mM (plus symbol) NaCl 
+or higher output signals, a constant stirrer speed of 200 rpm was adjusted 
+or this purpose, various aspects were investigated 
+igher concentrations drastically inhibited cell growth 
+urrent Protocols in Protein Science 2:10.3.1–10.3.11 Hirsch P (1986) Microbial life at extremely low nutrient levels 

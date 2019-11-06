@@ -1,0 +1,297 @@
+inally, it was shown that the DMS removal rate in these  Dimethyl sulfide (DMS) is a reduced sulfur compound that is emitted from both natural and anthropogenic sources 
+-mail: dgrant.allen@utoronto.ca. † Present address: School of Environmental Studies and Department of Chemical Engineering, Queen’s University, Kingston, Ontario, Canada K7L 3N6. 䌤 Published ahead of print on 18 June 2010. 5423  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  The growth kinetics of Hyphomicrobium spp. and Thiobacillus spp. on dimethyl sulfide (DMS) and methanol (in the case of Hyphomicrobium spp.) in an enrichment culture created from a biofilter cotreating DMS and methanol were studied 
+n Hyphomicrobium spp., methanol is first oxidized to formaldehyde by a methanol dehydrogenase (12) while DMS is oxidized to methyl mercaptan and formaldehyde by a DMS monooxygenase (7, 36), and methyl mercaptan is further oxidized to hydrogen sulfide and formaldehyde by a methyl mercaptan oxidase (37) 
+ormation of dimethyl sulfide and methanethiol from methoxylated aromatic compounds and inorganic sulfide by newly isolated anaerobic bacteria 
+imethyl sulphoxide and dimethyl sulfide as a carbon, sulphur and energy source for growth of Hyphomicrobium S 
+iological removal of dimethyl sulfide from sea water 
+solation and characterization of Methanomethylovorans hollandica gen. nov., sp. nov., isolated from freshwater sediment, a methylotrophic methanogen able to grow on dimethyl sulfide and methanethiol 
+naerobic degradation of methyl mercaptan and dimethyl sulfide by newly isolated thermophilic sulfate-reducing bacteria 
+hotoautotrophic growth of Thiocapsa roseopersicina on dimethyl sulfide 
+ new mechanism for the aerobic catabolism of dimethyl sulfide 
+xidation of dimethyl sulfide to dimethyl sulfoxide by phototrophic purple bacteria 
+emoval characteristics of dimethyl sulfide, methanethiol and hydrogen sulfide by Hyphomicrobium sp 
+xidation of dimethyl sulfide by Pseudomonas acidovorans DMR-11 isolated from peat biofilter 
+he effects of methanol on the biofiltration of dimethyl sulfide in inorganic biofilters 
+ffect of methanol on pH and stability of inorganic biofilters treating dimethyl sulfide 
+nhancing and modeling the biofiltration of dimethyl sulfide under dynamic methanol addition 
+odeling the biofiltration of dimethyl sulfide in the presence of methanol in inorganic biofilters at steady state 
+erformance and microbial analysis of defined and non-defined inocula for the removal of dimethyl sulfide in a biotrickling filter 
+his is believed to be due to the acidification of the biofilter bed brought about by the conversion of DMS to sulfate (32) 
+ethanol addition also resulted in a decrease in the full conversion of DMS to sulfate (increase in S0) and nitrification in biofilters cotreating DMS and methanol compared to the biofilter treating DMS alone, resulting in a decrease in the rate of acidification in these biofilters (48) 
+erobic bacteria, such as Hyphomicrobium spp. (7, 27, 36, 45), Thiobacillus spp. (6, 19, 42), or Methylophaga spp. (10), convert DMS to oxidized inorganic sulfur products such as sulfate and thiosulfate 
+he gas phase concentrations of DMS and methanol were measured using gas chromatography (GC), sulfate formation was measured by ion chromatography, and the quantity of 16S rRNA genes from Bacteria, Hyphomicrobium spp., Thiobacillus spp., and Chitinophaga spp. was measured using qPCR 
+queous sulfate ion concentrations were measured by ion chromatography using a Dionex (Sunnyvale, CA) 300 series ion chromatograph equipped with an Ionpac AS11 40-mm column 
+urthermore, sulfate analysis was carried out on the medium to determine the extent of the conversion of DMS to sulfate 
+or sulfate analysis, at pH 7 it was determined  TABLE 3 
+his result is not likely explained by the use of qPCR to  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  that the increase in sulfate in the batch reactors meant that the conversion of DMS to sulfate was 107% ⫾ 1% 
+etermination of the percent conversion of DMS to sulfate was not feasible for the pH 6 and pH 5 experiments due to the use of H2SO4 to lower the pH of the mineral medium, which resulted in high background sulfate levels 
+urthermore, no sulfate inhibition was observed in the Hyphomicrobium enrichment culture for sulfate concentrations below 24 g SO42⫺/ liter (33), a sulfate concentration that exceeds any sulfate concentration measured in this study by at least an order of magnitude, suggesting that the decline in the specific growth rate is due to pH rather than sulfate inhibition 
+econd, DMS was completely converted to sulfate in the pH 7 experiments, and 16S rRNA gene copies from Hyphomicrobium spp. and Thiobacillus spp. accounted for the bulk of bacterial 16S rRNA genes in the batch experiments 
+iven that only bacteria are known to carry out the aerobic pathway of converting DMS to sulfate (as opposed to DMSO), this makes the likelihood of another microorganism being responsible for significant DMS removal in the enrichment culture unlikely 
+o test the effect of nitrogen, the 0.4 g/liter NH4Cl in the mineral medium was replaced with 0.9 g/liter KNO3 
+ffect of pH and nitrogen source on the specific growth rate and yield of Hyphomicrobium spp., Thiobacillus spp., and Chitinophaga spp. in the enrichment culture grown on DMS Specific growth rate (h⫺1) at the indicated pHa Microbial group  Nitrogen source 5  6  Yield (no. of 16S rRNA gene copies/␮mol of DMS consumed) at the indicated pHa  7  5  6  7  Hyphomicrobium  NH4Cl KNO3  0.015 (0.015) 0.020 (0.019)  0.033 (0.029) 0.033 (0.018)  0.099 (0.016) 0.089 (0.022)  1.5 (1.4) ⫻ 10 1.6 (1.1) ⫻ 105  1.0 (0.9) ⫻ 10 1.8 (1.1) ⫻ 105  1.8 (0.8) ⫻ 107 4.0 (1.7) ⫻ 106  Thiobacillus  NH4Cl KNO3  0.084 (0.052) 0.110 (0.04)  0.080 (0.033) 0.065 (0.030)  0.076 (0.019) 0.110 (0.026)  3.0 (1.8) ⫻ 106 3.0 (2.5) ⫻ 106  1.4 (0.9) ⫻ 106 2.2 (1.9) ⫻ 106  3.5 (2.4) ⫻ 106 2.5 (1.5) ⫻ 106  Chitinophaga  NH4Cl KNO3  0.052 (0.038) 0.039 (0.030)  0.044 (0.036) 0.063 (0.021)  0.061 (0.011) 0.075 (0.020)  3.3 (2.5) ⫻ 105 3.2 (2.1) ⫻ 105  3.9 (1.2) ⫻ 104 2.1 (1.6) ⫻ 105  1.4 (0.9) ⫻ 106 1.5 (1.1) ⫻ 106  a  5  6  Numbers in parentheses indicate standard deviations.  biovolume of a cell, average carbon content of cellular dry mass, and the number of 16S rRNA genes per cell 
+ffect of pH and nitrogen source on the specific growth rate and yield of Hyphomicrobium spp. in the enrichment culture grown on methanol  pH  Specific growth rate (h⫺1) witha: NH4Cl  5 6 7 a  0.095 (0.005) 0.134 (0.001) 0.120 (0.011)  Yield (no. of 16S rRNA gene copies/␮mol of MeOH consumed) witha:  KNO3  NH4Cl  KNO3  0.111 (0.009) 0.148 (0.002) 0.136 (0.015)  4.2 (0.6) ⫻ 10 6.5 (3.8) ⫻ 106 1.5 (0.5) ⫻ 107 6  6.2 (1.5) ⫻ 106 6.3 (1.6) ⫻ 106 1.2 (0.1) ⫻ 107  Numbers in parentheses indicate standard deviations.  Yield on methanol Organism  No. of 16S rRNA gene copies/␮mol  Biomass (g of dry wt/g of substrate)a  Reference or source  Hyphomicrobium Hyphomicrobium VS  1.2E07  0.13b 0.38–0.45  This study 27  a The theoretical yield is 0.74 
+egradation characteristics of hydrogen sulfide, methanethiol, dimethyl sulfide, and dimethyl disulfide by Thiobacillus thioparus DW44 isolated from peat biofilter 
+ll Rights Reserved.  Vol. 76, No. 16  Growth Kinetics of Hyphomicrobium and Thiobacillus spp. in Mixed Cultures Degrading Dimethyl Sulfide and Methanol䌤 Alexander C 
+iss,2† and D 
+rant Allen1* Department of Chemical Engineering and Applied Chemistry, University of Toronto, 200 College Street, Toronto, Ontario, Canada M5S 3E5,1 and School of Environmental Sciences, Ontario Agricultural College, University of Guelph, Guelph, Ontario, Canada N1G 2W12 Received 12 January 2010/Accepted 10 June 2010  (DMSO) (11, 18) 
+inally, DMS can be eliminated through several anaerobic pathways, with a variety of methanogens (13, 22), sulfate-reducing bacteria (39), phototrophic bacteria (41, 44), and denitrifiers (42) capable of growth on DMS being reported in the literature 
+atural DMS emissions are largely the result of the cleavage of dimethylsulfoniopropionate (9), the breakdown of the sulfurcontaining amino acids methionine and cysteine (9, 11), and the degradation of methoxylated aromatic compounds (3, 9) 
+nthropogenic DMS emissions tend to be the result of hightemperature industrial processes and are problematic due to the foul smell of DMS and its low odor threshold (34) 
+ndustries that are sources of anthropogenic DMS emissions include wastewater treatment (14), aerobic composting (40), animal rendering (23), and kraft pulping (35) 
+ailing address: Department of Chemical Engineering and Applied Chemistry, University of Toronto, 200 College Street, Toronto, Ontario, Canada M5S 3E5 
+pecific growth rates of 0.099 hⴚ1 and 0.11 hⴚ1 were determined for Hyphomicrobium spp. and Thiobacillus spp., respectively, growing on DMS at pH 7 
+hrough the same pH shift, the specific growth rate and 16S rRNA gene yield of Thiobacillus spp. remained similar 
+he results of these mixed-culture batch experiments indicate that the increased DMS removal rates observed in previous studies of biofilters cotreating DMS and methanol are due to the proliferation of DMS-degrading Hyphomicrobium spp. on methanol at pH levels not conducive to high growth rates on DMS alone.  5424  APPL 
+uantitative PCR primers and probes used in this study to quantify the 16S rRNA genes of Bacteria, Hyphomicrobium spp., Thiobacillus spp., and Chitinophaga spp 
+icrobial group  Oligonucleotide sequence  Reference or source  Bacteria  BAC Forward BAC Probe BAC Reverse  5⬘-TCCTACGGGAGGCAGCAGT-3⬘ 5⬘-FAM-CGTATTACCGCGGCTGCTGGCAC-TAMRA-3⬘ 5⬘-GGACTACCAGGGTATCTAATCCTGTT-3⬘  25 25 25  Hyphomicrobium  Hyp Hyp Hyp Hyp  5⬘-GGCTCAACCTCGGAACT-3⬘ 5⬘-CGAATTTCACCTCTACACTAGGAT-3⬘ 5⬘-FAM-TGAGTCCGATAGAGGTGGGTGG-TAMRA-3⬘ 5⬘-FAM-AGTCTTGAGTCCGGAAGAGG-TAMRA-3⬘  16 16 16 16  Thiobacillus  Thio Forward Thio Reverse  5⬘-CCTCACGTTATTCGAGCGG-3⬘ 5⬘-ACGCACTCTAGACTGCCA-3⬘  16 16  Chitinophaga  Chi Forward Chi Reverse  5⬘-TTRAAGATGGSYGTGCRYC-3⬘ 5⬘-CGCTACATGACATATTCCGCT-3⬘  16 16  Forward Reverse Probe 1 Probe 2  biofilters could be optimized by adopting step-feeding (49) and pulse-feeding (50) strategies 
+his paper focuses on the mechanism behind increased DMS removal rates in biofilters cotreating DMS and methanol 
+he behavior of an enrichment culture created from a biofilter cotreating DMS and methanol under different conditions relevant to biofilter operations as reported previously was investigated 
+atch studies coupled with quantitative PCR (qPCR) methods were conducted to determine the effect of pH and nitrogen source on the kinetics of Hyphomicrobium spp., Thiobacillus spp., and a group of bacteria closely related to Chitinophaga spp. present in the enrichment culture grown on DMS and methanol 
+ATERIALS AND METHODS Establishment of original enrichment culture and subcultures 
+n enrichment culture was established by inoculating 40 ml of mineral medium (27) in 250-ml glass bottles sealed with Mininert valves (Supelco, Bellefonte, PA) with biomass obtained from a biofilter cotreating DMS and methanol 
+he enrichment culture was maintained by serial 1:2,500 dilutions of fully grown cultures with fresh medium and by refeeding liquid DMS (0.3 mM initial DMS concentration) 
+his enrichment culture has been maintained for ⬎2.5 years growing in medium at ambient temperature (22 to 24°C), pH 7, and shaken at 150 rpm 
+hen methanol was used as a substrate, polypropylene bottles were substituted for glass bottles, and an initial concentration of 60 mM methanol was used 
+onstruction of genus- and family-wide phylogenies of Hyphomicrobium, Thiobacillus, and Chitinophaga. 16S rRNA gene sequences clustering within the Hyphomicrobium and Thiobacillus genera and the Chitinophaga family in a previously constructed Bacteria-wide 16S rRNA gene clone library of the enrichment culture created from a biofilter cotreating DMS and methanol (16) were reanalyzed 
+equences were aligned using Greengenes (8), and minimum evolution phylogenies were constructed using MEGA 4 with the Kimura two-parameter nucleotide model (38) 
+ime course batch experiments were carried out in 250-ml glass bottles, sealed with Mininert valves, containing 40 ml of mineral medium at ambient temperature (22 to 24°C) and shaken at 150 rpm 
+ime course batch experiments for the DMS experiments were performed in triplicate and repeated (n ⫽ 6 for each condition) while time course batch experiments for methanol were carried out in triplicate once (n ⫽ 3 for each condition) 
+iomass yield estimates were made by converting quantitative PCR yields using estimates of average cellular biovolume, average carbon content of cellular dry mass, and the number of 16S rRNA genes per cell 
+his approach was taken since the volumes and biomass content available in these studies were relatively small and since pure cultures were not obtained from the enrichment culture 
+as phase concentrations of DMS and methanol in the headspace of the batch culture bottles were measured with a gas chromatograph (Varian 3400 Cx; Palo Alto, CA) equipped with a pulse flame photometric detector (PFPD) and flame ionization detector (FID) 
+ constant column temperature of 120°C was used with the injection port at 120°C and the detection temperature at 250°C 
+he eluent flow rate was 1.0 ml/min with the following concentration gradient: 5 mM NaOH for 5 min, increased linearly to 25 mM NaOH over the next 10 min, maintained at 25 mM NaOH for the next 3 min, reduced linearly to 5 mM NaOH over next 2 min, and maintained at 5 mM NaOH over next 5 min 
+uantification of 16S rRNA genes from Bacteria, Hyphomicrobium spp., Thiobacillus spp., and Chitinophaga spp. was performed using qPCR 
+iomass samples were harvested from the batch reaction mixtures by centrifuging 1.5 ml of the culture at 10,000 ⫻ g for 5 min and removing the supernatant 
+ll primers and probes used in this study are listed in Table 1 
+or quantification of 16S rRNA genes from Bacteria and Hyphomicrobium spp., Taq nuclease assays were carried out in a total volume of 20 ␮l using a Lightcycler TaqMan Master kit (Roche Diagnostics Corp., Indianapolis, IN) with primer concentrations of 0.5 ␮M and a hydrolysis probe concentration of 0.1 ␮M 
+he thermal cycling program consisted of an initial 10-min denaturation at 95°C, followed by 45 cycles of 95°C for 10 s, 55°C for 20 s, and 72°C for 20 s 
+or quantification of Thiobacillus spp. and Chitinophaga spp., SYBR green I assays were carried out in a total volume of 20 ␮l using a Lightcycler FastStart DNA Master Plus SYBR green I kit (Roche Diagnostics Corp., Indianapolis, IN) with primer concentrations of 0.5 ␮M 
+or the Thiobacillus assay, the cycling program included a preincubation of 10 min at 95°C and 45 cycles of 95°C for 10 s, 52°C for 20 s, and 72°C for 20 s 
+or the Chitinophaga assay, the cycling program included a preincubation of 10 min at 95°C and 45 cycles of 95°C for 10 s, 57°C for 20 s, and 72°C for 20 s 
+roduct purity was verified by melting curve analysis.  RESULTS Characterization of an enrichment culture from a biofilter and growth on DMS 
+enus-wide (A, Hyphomicrobium; B, Thiobacillus) and family-wide (C, Chitinophagaceae) minimum evolution phylogenies of clones identified in an enrichment culture created from a biofilter cotreating DMS and methanol 
+lones are denoted ENR and GenBank accession numbers of all sequences used are listed 
+he scale is in number of substitutions per nucleotide.  NH4⫹-N and NO3⫺-N media of 1.8 ⫻ 107 and 4.0 ⫻ 106 16S rRNA gene copies per ␮mol of DMS consumed, with the NO3⫺-N yield being significantly lower than the NH4⫹-N yield (P ⫽ 0.00018) 
+t pH 6, the yields of Hyphomicrobium spp. in the NH4⫹-N and NO3⫺-N media were 1.0 ⫻ 106 and 1.8 ⫻ 105 16S rRNA gene copies per ␮mol of DMS consumed, respectively, and at pH 5 the respective yields were 1.5 ⫻ 105 and 1.6 ⫻ 105 16S rRNA gene copies per ␮mol of DMS consumed 
+here was no significant difference at the 95% confidence level between any of the Hyphomicrobium yields at pH 6 or pH 5, and all four yield values were significantly lower than the yields obtained at pH 7 in the respective media.  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  inoculating mineral medium with biomass collected from a biofilter cotreating DMS and methanol and by feeding the culture DMS as the sole organic carbon source 
+ Bacteriawide Bayesian phylogeny revealed that the enrichment culture was composed of a wide variety of bacteria, and a comparison of this clone library with one constructed from a biofilter treating DMS alone revealed three groups of bacteria (Hyphomicrobium, Thiobacillus, and Chitinophaga) that appear to be tightly correlated to DMS degradation in these systems (16) 
+inimum evolution phylogenies of the Hyphomicrobium and Thiobacillus genera and the Chitinophaga family reveal that while there is genetic diversity in the 16S rRNA gene sequences within each of these groups, the identified clones from Thiobacillus spp. tend to be much less genetically diverse in terms of evolutionary distance than clones from Hyphomicrobium spp. and Chitinophaga spp. (Fig. 1) 
+he growth of Hyphomicrobium spp., Thiobacillus spp., and Chitinophaga spp. in the enrichment culture with DMS as the sole carbon source was studied 
+s shown in Fig. 3, this was indeed the case for the example shown, where regression plots of the natural logarithm of 16S rRNA gene copies versus time of Hyphomicrobium spp., Thiobacillus spp., and Chitinophaga spp. all had R2 values above 0.93 
+rowth kinetics of Hyphomicrobium, Thiobacillus, and Chitinophaga spp. on DMS in enrichment culture 
+aximum specific growth rate values for Hyphomicrobium spp. were achieved at pH 7 in both the NH4⫹-N and NO3⫺-N media (0.099 h⫺1 and 0.089 h⫺1, respectively) 
+t pH 6, for both media there was a significant decrease in the specific growth rates to 0.033 h⫺1 (P ⫽ 0.0015 and P ⫽ 0.0063, respectively) and, at pH 5, the specific growth rates were 0.015 h⫺1 and 0.020 h⫺1, respectively 
+t pH 7, the specific growth rates in the NH4⫹-N and NO3⫺-N media were 0.076 h⫺1 and 0.110 h⫺1, respectively 
+t pH 5, the specific growth rates in the NH4⫹-N and NO3⫺-N media were 0.084 h⫺1 and 0.110 h⫺1, respectively 
+s for the effect of the nitrogen source on the specific growth rate of Thiobacillus spp., at pH 7, the specific growth rate of Thiobacillus spp. was significantly higher in the NO3⫺-N medium (P ⫽ 0.020), but at pH 5 and pH 6 there was no significant difference at the 95% confidence level 
+lot of the natural logarithm of the number of 16S rRNA gene copies of Hyphomicrobium spp., Thiobacillus spp., and Chitinophaga spp. in the enrichment culture versus time for the same experiment as shown in Fig. 2.  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  FIG. 2 
+MS consumption and growth of Hyphomicrobium spp., Thiobacillus spp., and Chitinophaga spp. in the enrichment culture in an NH4Cl-based medium at pH 7 versus time.  VOL. 76, 2010  GROWTH OF HYPHOMICROBIUM AND THIOBACILLUS SPP 
+or Hyphomicrobium and Thiobacillus, the average biovolume estimates used were 8.8 ⫻ 10⫺13 cm3/cell (17) and 8.6 ⫻ 10⫺14 cm3/cell (20), respectively 
+n addition to tracking the degradation of DMS by gas chromatography and the growth of Hyphomicrobium spp., Thiobacillus spp., and Chitinophaga spp. by qPCR, total bacterial 16S rRNA genes were quantified at the end of the time course batch experiments to verify that Hyphomicrobium spp. and Thiobacillus spp. did account for the bulk of total bacteria and that other bacteria were not responsible for the bulk of the DMS degradation 
+t pH 7, the ratio of the sum of 16S rRNA gene copies from Hyphomicrobium spp. and Thiobacillus spp. to total bacterial 16S rRNA genes averaged 1.76 ⫾ 0.73 
+t pH 6 and pH 5, the average ratio was 1.08 ⫾ 0.94 and 0.97 ⫾ 0.49, respectively 
+omparisons of yields of Hyphomicrobium and Thiobacillus grown on DMS at pH 7 in NH4⫹-N medium Yield on DMS Organism  No. of 16S rRNA gene copies/␮mol  Hyphomicrobium Thiobacillus Hyphomicrobium VS Hyphomicrobium EG T. thioparus TK-m  1.80E07 3.50E06  Biomass (g of dry wt/g of substrate)a  0.1b 0.01b 0.26 0.31 0.49  Reference or source  This study This study 27 36 19  a The theoretical yield is 1.03 
+ee text for bioenergetics assumptions and evaluations. b Calculated from qPCR data using assumptions (see text).  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  rRNA gene copies per ␮mol of DMS consumed occurred at pH 7 in the NH4⫹-N medium 
+imilarly to Thiobacillus spp., the specific growth rates and yields of Chitinophaga spp. were also fairly consistent across the pH range tested 
+t pH 7, the specific growth rates in the NH4⫹-N and NO3⫺-N media were 0.061 h⫺1 and 0.076 h⫺1, respectively 
+t pH 6, the specific growth rates in the NH4⫹-N and NO3⫺-N media were 0.044 h⫺1 and 0.063 h⫺1, respectively 
+t pH 5, the specific growth rates in the NH4⫹-N and NO3⫺-N media were 0.052 h⫺1 and 0.039 h⫺1, respectively 
+t pH 7, the yields of Chitinophaga spp. in the NH4⫹-N and NO3⫺-N media were 1.4 ⫻ 106 and 1.5 ⫻ 106 16S rRNA gene copies per ␮mol of DMS consumed, respectively 
+t pH 6, the yields declined significantly to 3.9 ⫻ 104 (P ⫽ 0.0096) and 2.1 ⫻ 105 (P ⫽ 0.0046) 16S rRNA gene copies per ␮mol of DMS consumed, respectively, and, at pH 5, the yields were 3.3 ⫻ 105 and 3.2 ⫻ 105 16S rRNA gene copies per ␮mol of DMS consumed, respectively 
+lso, both pH 5 yields were significantly lower than the yield in the respective medium at pH 7 (P ⫽ 0.018 and P ⫽ 0.0079, respectively) 
+he yields of Hyphomicrobium spp. and Thiobacillus spp. on DMS in this enrichment culture were compared to the reported yields of Hyphomicrobium VS and Thiobacillus thioparus Tk-m from the literature as well as the theoretical biomass yield at pH 7 with an NH4⫹-N source calculated from bioenergetics (Table 3) 
+his calculation resulted in an estimate of the maximum yield equal to 0.565 electron equivalents (eeq) of cells/eeq of DMS, which corresponds to 1.03 g of cells/g of DMS, assuming 113 g of cells/20 eeq of cells and 20 eeq/mol of DMS (29) 
+ee text for bioenergetics assumptions and evaluations. b Calculated from qPCR data using assumptions (see text).  calculated from bioenergetics (Table 5) 
+his calculation resulted in an estimate of the maximum yield equal to 0.699 eeq of cells/eeq of methanol, which corresponds to 0.741 g of cells/g of methanol, assuming 113 g of cells/20 eeq of cells and 6 eeq/mol of methanol (29) 
+uantitative PCR yields were converted using estimates of the average biovolume of a cell, average carbon content of cellular dry mass, and the number of 16S rRNA genes per cell 
+t pH 6 and pH 5, the average ratios were 1.06 ⫾ 0.19 and 0.82 ⫾ 0.27, respectively 
+ISCUSSION The microbial degradation of DMS is an important process in both the natural environment and some engineered biotechnological systems 
+n this study, it was revealed that, of the three microbial groups previous identified to be tightly linked to DMS degradation in biofilters treating DMS, only Hyphomicrobium spp. and Thiobacillus spp. were actually growing on DMS while the third group of bacteria, Chitinophaga spp., was likely growing on some other substrate 
+iven that other Chitinophaga spp. have been reported to grow on chitin (30) and carboxymethyl cellulose (43), it is possible that these bacteria may be contributing to carbon cycling within the microbial community rather than DMS degradation directly by breaking down complex organic compounds originating from other bacteria 
+he maximum specific growth rates for Hyphomicrobium spp. (0.099 h⫺1) and Thiobacillus spp. (0.11 h⫺1) on DMS were double the highest maximum specific growth rates reported in the literature for microorganisms growing on DMS, i.e., 0.05 h⫺1 for Methylophaga sulfidovorans (10), 0.05 h⫺1 for T. thioparus Tk-m (19), and 0.04 h⫺1 for Hyphomicrobium VS (27) 
+t pH 7, the specific growth rates of Hyphomicrobium spp. in the NH4⫹-N and NO3⫺-N media were 0.12 h⫺1 and 0.14 h⫺1, respectively 
+t pH 6, the specific growth rates of Hyphomicrobium spp. in the NH4⫹-N and NO3⫺-N media were 0.13 h⫺1 and 0.15 h⫺1, respectively, but neither growth rate was significantly different at the 95% confidence level from the specific growth rate in the respective medium at pH 7 
+t pH 5, the specific growth rates for the NH4⫹-N and NO3⫺-N media decreased to 0.095 h⫺1 and 0.11 h⫺1, respectively 
+oth were a significant decrease from the respective value at pH 6 (P ⫽ 0.018 and P ⫽ 0.0027, respectively) 
+s for yield, at pH 7, the yields of Hyphomicrobium spp. in the NH4⫹-N and NO3⫺-N media were 1.5 ⫻ 107 and 1.2 ⫻ 107 16S rRNA gene copies per ␮mol of methanol consumed, respectively 
+t pH 6, the yields of Hyphomicrobium spp. in the NH4⫹-N and NO3⫺-N media were estimated to be 6.5 ⫻ 106 and 6.3 ⫻ 106 16S rRNA gene copies per ␮mol of methanol consumed, respectively 
+t pH 5, the yields of Hyphomicrobium spp. in the NH4⫹-N and NO3⫺-N media were 4.2 ⫻ 106 and 6.2 ⫻ 106 16S rRNA gene copies per ␮mol of methanol consumed, respectively 
+either of these was significantly different at the 95% confidence level from the respective yields obtained at pH 6, but both were significantly lower than the respective yields at pH 7 (P ⫽ 0.034 and P ⫽ 0.0030, respectively) 
+N DMS  Hyphomicrobium spp. and Thiobacillus spp. in the literature 
+owever, a study of an enrichment culture believed to be dominated by Hyphomicrobium spp. (observed by microscopy) had a maximum DMS degradation rate somewhere between pH 6.0 and 7.0 
+owever, in a biotrickling filter study, where nearly 100% removal efficiencies were achieved and the microbial community was typically composed of more than 10% Thiobacillus spp. and less than 0.1% Hyphomicrobium spp. on a total bacterial 16S rRNA gene basis, the DMS degradation rate remained robust (⬃90% removal efficiency) as the pH of the recirculation medium was adjusted to pH 5 over the course of 1 day (31) 
+iven that these experiments were carried out only over the course of a day, it is unknown if the results would have been sustainable in the long term, but the batch data in this study suggest that there are Thiobacillus spp. that can grow equally well at pH 5 and pH 7 over the long term 
+t has long been known that Hyphomicrobium spp. could be enriched from environmental samples equally quickly in media at pH values between 5.5 and 8.0 (2) 
+he difference with respect to pH in growth rates on methanol and DMS for Hyphomicrobium spp. could be the result of different pH optima of the enzymes involved in the metabolic pathway of these compounds 
+owever, methanol dehydrogenases have been shown to remain stable and retain their activity after incubation for 45 h in buffer from pH 5 to pH 10, with the optimum activity occurring  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  estimate biomass (versus volatile suspended solids [VSS], for example) since the maximum specific growth rate measured in this study for Hyphomicrobium spp. on methanol (0.15 h⫺1) is similar to the maximum specific growth rates on methanol for Hyphomicrobium VS (0.14 h⫺1) (27) and Hyphomicrobium X (0.10 h⫺1) (15) 
+he increased specific growth rates of Hyphomicrobium spp. and Thiobacillus spp. on DMS in this enrichment culture may be the result of the mixed culture improving growth on DMS relative to pure cultures 
+owever, there have been relatively few pure-culture kinetic studies carried out with DMS as the substrate, and our observation of higher specific growth rates may reflect this and the utility of qPCR for estimating growth kinetics in situ 
+iomass yields of both Hyphomicrobium spp. and Thiobacillus spp. were significantly lower in the enrichment culture at pH 7 than both the theoretical yield calculated using bioenergetics and biomass yields of pure cultures grown on DMS reported in the literature 
+his is a product of the enrichment culture being a mixed culture, the experimental method employed, and how the yield was calculated 
+ince the enrichment culture is a mixed culture, both Hyphomicrobium spp. and Thiobacillus spp. are growing on DMS, and there is no way to determine how much of the DMS substrate each group is consuming, leading to an underestimation of their respective yields 
+inally, the biomass yield is calculated using estimates of biovolume, cell carbon, and 16S rRNA gene copy number per genome 
+he effect of the pH of the medium had different effects on the kinetics of Hyphomicrobium spp. and Thiobacillus spp 
+CKNOWLEDGMENTS The financial support of the Natural Sciences and Engineering Research Council of Canada (NSERC) and the research consortium Minimizing the Impact of Pulp and Paper Mill Discharges, consisting of Aracruz Celulose S.A., Carter Holt Harvey Pulp and Paper, Domtar Inc., Eka Chemicals Inc., Georgia-Pacific Corporation, Irving Pulp and Paper Ltd., Japan Carlit Co 
+td., ERCO Worldwide, and Tembec Inc., is gratefully acknowledged 
+olzenburg and N 
+crutton (ed.), Enzyme-catalyzed electron and radical transfer 
+., and W 
+ rapid and specific enrichment procedure for Hyphomicrobium spp 
+inster, and F 
+ood, and D 
+ratbak, G., and I 
+acterial dry matter content and biomass estimations 
+irai, and M 
+. van Dijken, and W 
+han, and G 
+e Zwart, J., and J 
+elisse, and J 
+solation and characterization of Methylophaga sulfidovorans sp. nov.: an obligate methylotrophic aerobic, DMS oxidizing bacterium from a microbial mat 
+avernier, and R 
+idespread occurrence of bacterial thiol methyltransferases and the biogenic emission of methylated sulfur gases 
+rank, and L 
+animoto, and F 
+ermentation of methanethiol and dimethylsulfide by a newly isolated methanogenic bacterium 
+arsons, and R 
+ttwood, and J 
+iss, and D 
+inking performance to microbiology in biofilters treating dimethyl sulphide in the presence and absence of methanol 
+enus Hyphomicrobium Stutzer and Hartleb 1898, 76AL, p. 1895–1904 
+fennig, and J 
+anagawa, T., and D 
+reakdown of dimethyl sulphide by mixed cultures and by Thiobacillus thioparus 
+., and P 
+., and T 
+p den Camp, and A 
+his and the fact that Hyphomicrobium spp. can be isolated almost equally as quickly from environmental samples from pH 5.5 to pH 8.0 suggest a wide pH range in which methanol dehydrogenase is active in vivo (2) 
+e Bont et al. (7) performed the first studies on cell extracts and assayed both DMS monooxygenase and methyl mercaptan oxidase at pH 7.2 but reported low activities for DMS monooxygenase that may have been the result of suboptimal assay conditions 
+irst, they highlight the importance of pH control in biofiltration and other biotechnological systems designed to remove DMS where the microbial community is comprised of a significant quantity of Hyphomicrobium spp 
+his was evident in our previous study in which the biofilter treating DMS alone was characterized by chronically low DMS removal rates and removal efficiencies in a community where Hyphomicrobium spp. accounted for 10% of the bacterial population on a 16S rRNA gene basis (16) 
+econd, these results show that in systems where pH may be difficult to control, such as traditional biofiltration systems, methanol addition can lead to higher DMS removal rates and removal efficiencies under conditions that are not conducive to high growth rates of Hyphomicrobium spp. on DMS alone 
+n the biofilters cotreating DMS and methanol in our previous study, Hyphomicrobium spp. were capable of growing at much higher specific growth rates on methanol than on DMS throughout the pH regime that was employed in these biofilters 
+his resulted in the proliferation of DMS-degrading Hyphomicrobium spp. that consumed both DMS and methanol, with the increase in Hyphomicrobium spp. being proportional to the increase in DMS degradation in these systems (16) 
+ei, and S 
+animoto, Y., and F 
+cNamara, and C 
+ench-scale removal of odor and volatile organic compounds at a composting facility 
+., and H. van Gemerden. 1991 
+., and B 
+eon, and Y 
+akeham, and R 
+uo, J., and M 
+as characteristics before and after biofiltration treating odorous emissions from animal rendering processes 
+., and H 
+acques, and N 
+etermination of bacterial load by real-time PCR using a broad-range (universal) probe and primers set 
+ujita, and J 
+ethanol dehydrogenase of Methylomonas J.: purification, crystallization, and some properties 
+ersten, and C. van der Drift. 1994 
+solation of a dimethylsulfide-utilizing Hyphomicrobium species and its application in biofiltration of polluted air 
+hrzanowski, and R 
+eadspace gas chromatographic determination of distribution coefficients of selected organosulphur compounds and their dependence on some parameters 
+nvironmental biotechnology: principles and applications 
+angkhobol, V., and V 
+erstraete, and H 
+an Langenhove, and W 
+he effect of inoculation and the type of carrier material used on the biofiltration of methyl sulfides 
+ens, and H 
+ndustrial environmental control: pulp and paper industry 
+tefess, and J 
+an Dijken, and J 
+he prevalence of bacteria in the environment capable of growth on DMS has created interest in developing low-cost biotechnological methods to remove DMS from industrial waste gas streams 
+revious research by our group investigated the effect of the presence of methanol on DMS removal rates in inorganic biofilters treating DMS inoculated with sludge since industrial biofilters often treat mixtures of waste gases with biofilms composed of mixed microbial communities 
+t was demonstrated that the DMS degradation rate in biofilters where the pH of the biofilter bed was allowed to acidify naturally over time to pH 5 before the pH was neutralized back to pH 7 could be increased by up to 11-fold with methanol cotreatment (47) 
+he increase in the DMS removal rates was shown to be the result of an order of magnitude increase in the concentration of Hyphomicrobium spp., which were also capable of growth on methanol (16) 
+n the environment, microbial degradation can be a significant sink for DMS 
+n seawater, approximately 90% of the DMS produced is removed biologically before it reaches the atmosphere (21) 
+emoval of DMS in the environment can be carried out by a variety of pathways 
+hese specific growth rates are double the highest maximum specific growth rate for bacterial growth on DMS reported to date in the literature 
+hen the pH of the medium was decreased from pH 7 to pH 5, the specific growth rate of Hyphomicrobium spp. decreased by 85%, with a near 100-fold decline in the yield of Hyphomicrobium 16S rRNA gene copies in the mixed culture 
+hen methanol was used as a substrate, the specific growth rate of Hyphomicrobium spp. declined much less over the same pH range (up to 30%) while the yield of 16S rRNA gene copies declined by only 50% 
+witching from an NH4ⴙ-N-based source to a NO3ⴚ-N-based source resulted in the same trends for the specific growth rate of these microorganisms with respect to pH 
+his suggests that pH has far more impact on the growth kinetics of these microorganisms than the nitrogen source 
+ubcultures of the original enrichment were established for testing the behavior of the culture under different conditions 
+o test different pH conditions, the initial pH of the medium was lowered by adding the necessary volume of a 0.2 M H2SO4 solution 
+iomass  samples were taken at approximately 24-h intervals over the course of the approximately 90 h it took for the substrate (DMS or methanol) to be degraded 
+o determine specific growth rates, the natural logarithm of the number of 16S rRNA gene copies per ml of medium was plotted versus time 
+ 50-␮l or 250-␮l sample was injected into the GC using a 250-␮l gas-tight syringe 
+enomic DNA extractions were performed using an Ultraclean Soil DNA Kit (Mo Bio Laboratories, Carlsbad, CA) with the normal extraction procedure 
+urthermore, a more complete phylogeny constructed from 16S rRNA genes of members of the Chitinophagaceae family revealed that the clones identified in our previous work as Chitinophaga are closely related to members of this family but form their own distinct group 
+s shown in Fig. 2, the initial DMS degradation rate was low at the beginning but increased greatly throughout the experiment as microorganisms proliferated exponentially with a concomitant decrease in DMS 
+his was the case for all time course batch experiments performed in this study 
+n order to determine the specific growth rate (␮), an exponential relationship for biomass growth with time was assumed 
+herefore, a plot of the natural logarithm of 16S rRNA gene copy number versus time should yield a straight line where the slope is equal to the specific growth rate 
+his is representative of all of the time course batch experiments carried out in this study 
+t is also important to note that, for Chitinophaga spp., there was no significant difference in the yield of 16S rRNA gene copy numbers for Chitinophaga spp. in negative-control cultures (no DMS) that were run under the same conditions as the DMS-grown mixed cultures 
+either Hyphomicrobium spp. nor Thiobacillus spp. grew in the negative-control cultures 
+he specific growth rate of Hyphomicrobium spp. on DMS was strongly affected by the pH of the mineral medium while the nitrogen source had no significant effect on the specific growth rate of Hyphomicrobium spp. (Table 2) 
+he same trend was observed for the yield of Hyphomicrobium spp., where large declines were observed in the yield with decreasing pH 
+t pH 7, Hyphomicrobium spp. had respective yields in the  5425  5426  HAYES ET AL.  APPL 
+ICROBIOL.  The specific growth rate of Thiobacillus spp. was fairly consistent across the pH range tested 
+t pH 6, the specific growth rate in the NH4⫹-N medium was 0.080 h⫺1, which was not significantly different from the specific growth rate at pH 7 (P ⫽ 0.77) 
+owever, in the NO3⫺-N medium the specific growth rate was 0.065 h⫺1, which was significantly lower than the specific growth rate in the NO3⫺-N medium at pH 7 (P ⫽ 0.022) 
+either of  the specific growth rates was significantly different at the 95% confidence level from the values in the respective medium at either pH 6 or pH 7 
+he yield of Thiobacillus spp. was also consistent across the pH ranges tested 
+he minimum yield of 1.4 ⫻ 106 16S rRNA gene copies per ␮mol of DMS consumed occurred at pH 6 in the NH4⫹-N medium while the maximum yield of 3.5 ⫻ 106 16S  FIG. 3 
+o information was found on the amount of 16S rRNA genes per Hyphomicrobium cell, so an assumption of 1 16S rRNA gene copy per cell was assumed 
+or Thiobacillus, no information was found on the number of 16S rRNA gene copies per cell for Thiobacillus thioparus 
+one of the yields of Thiobacillus spp. under any of the conditions was significantly different from any of the other yields at the 95% confidence level 
+here were no significant differences at the 95% confidence level between specific growth values at different pH values or with different nitrogen sources 
+he NH4⫹-N medium showed a statistically significant increase at pH 5 compared to the yield at pH 6 (P ⫽ 0.030) while there was no significant difference in the yield of Chitinophaga spp. in the NO3⫺-N medium for these two pH values 
+he only significant difference that nitrogen source had on yields of Chitinophaga spp. was a higher yield of Chitinophaga spp. in the NO3⫺-N medium than in the NH4⫹-N medium at pH 6 (P ⫽ 0.037) 
+heoretical yields can be estimated from the free energy released from the oxidation of DMS 
+uantitative PCR yields were converted using estimates of the average  5428  HAYES ET AL.  APPL 
+heoretical yields were estimated from the free energy released from the oxidation of methanol 
+or Hyphomicrobium, the average biovolume was estimated to be 8.8 ⫻ 10⫺13 cm3/cell (17) 
+o information was found on the number of 16S rRNA genes per Hyphomicrobium cell, so an assumption of 1 16S rRNA gene copy per cell was assumed 
+s with the enrichment culture grown on DMS, total bacterial 16S rRNA genes were quantified at the end of the experiment to confirm that Hyphomicrobium spp. accounted for a significant fraction of the total bacterial 16S rRNA gene copies 
+t pH 7, the ratio of 16S rRNA gene copies from Hyphomicrobium spp. to total bacterial 16S rRNA genes averaged 1.09 ⫾ 0.68 
+he growth of Hyphomicrobium spp. in the enrichment culture was further tested with methanol as a substrate under the same conditions used for growth with DMS (Table 4) 
+he pH of the mineral medium had only a slight effect on the specific growth rate of Hyphomicrobium spp. for the range tested 
+here were no significant differences at the 95% confidence level in the specific growth rate as a result of nitrogen source 
+his represented a significant decrease for the NO3⫺-N medium (P ⫽ 0.0034) while the difference was not significant for the NH4⫹-N medium 
+s for the effect of nitrogen source on yield, there were no significant differences at any pH value at the 95% confidence level 
+he yield of Hyphomicrobium spp. on methanol in this enrichment culture was compared to the reported yield of Hyphomicrobium VS from the literature as well as to the theoretical biomass yield at pH 7 with an NH4⫹-N nitrogen source  TABLE 5 
+n the case of Hyphomicrobium spp., experiments on pure cultures were all carried out at pH 7 only 
+hen the pH of the enrichment culture was decreased to 5.0, the DMS degradation rate decreased to 50% of the maximum DMS degradation rate (32) 
+his is consistent with observations in the enrichment culture in this study that showed that the specific growth rate and, by extension, the DMS degradation rate, of Hyphomicrobium spp. decreased by up to 85% when the pH was decreased from pH 7 to pH 5 
+s for Thiobacillus spp., the specific growth rate of T. thioparus Tk-m was reported to decrease by 50% as the pH decreased from pH 7.7 to pH 6.1, with no growth occurring at pH 5.6 (19) 
+hile decreasing the pH of the medium from pH 7 to pH 5 had a deleterious effect on the growth kinetics of Hyphomicrobium spp. on DMS, it had only a minimal effect on the growth kinetics of Hyphomicrobium spp. on methanol 
+his suggests that that the specific growth rates for Hyphomicrobium spp. are similar within this pH range, which is consistent with results in this study for Hyphomicrobium spp. growing on methanol 
+ethanol dehydrogenase is a well-studied enzyme in the literature; methanol oxidation occurs in the periplasmic space via an electron transport chain, with the initial step of methanol dehydrogenase oxidizing cytochrome cL at a pH optimum of pH 7.0 (1) 
+ixed cultures provide several situations where microbial growth of a particular organism may be enhanced as a result of synergies among members of the community 
+he removal of inhibitory compounds or the production of vitamins or other growth factors by other microorganisms (24) may improve growth compared to a pure culture growing in a defined medium 
+he experimental method also leads to an underestimation of the yield due to losses that may accrue in the extra processing steps involved compared to VSS measurements, particularly the genomic DNA extraction 
+ possible concern raised by the low biomass yields is that there is another microorganism degrading DMS in the enrichment culture 
+here are several results that suggest that this is not the case 
+irst, when methanol was the substrate, a similar, approximately 65% underestimate of the biomass yield was observed at pH 7 for Hyphomicrobium spp. compared to the biomass yield of Hyphomicrobium VS in pure culture 
+his suggests that the biomass yield underestimation is mainly an artifact of experimental methodology 
+hile there was a clear deterioration in the ability of Hyphomicrobium spp. to grow on DMS as the pH decreased from pH 7 to pH 5, Thiobacillus spp. maintained their ability to grow on DMS as the pH decreased from pH 7 to pH 5 
+here is very little information on the effect of pH on the growth kinetics of  5429  5430  HAYES ET AL.  biomass that leads to increased DMS degradation in these biofilters 
+he genome sequence of the obligately chemolithotrophic, facultatively anaerobic bacterium Thiobacillus denitrificans 
+nzymatic studies on the metabolism of DMS by Hyphomicrobium spp. are limited 
+uylen et al. (37) reported that the pH optimum for methyl mercaptan oxidase in Hyphomicrobium EG was pH 8.2 
+t is possible that the higher pH optimum of methyl mercaptan oxidase and, perhaps of DMS monooxygenase, results in the more rapid decline of the specific growth rate of Hyphomicrobium spp. on DMS than on methanol as the pH decreases from pH 7 to pH 5 
+n our previous biofiltration study, the specific growth rate of the microbial community was experimentally determined to be 0.012 h⫺1 (49) 
+ssuming an airwater partition coefficient of 0.07 for DMS (28), the approximate aqueous concentration of DMS in our batch studies is 300 ␮M while the approximate concentration of DMS in the biofilm of our biofilters, with an inlet DMS concentration of 20 parts per million by volume (ppmv), would be approximately 10 ␮M 
+he half-velocity constant, KS, of the biofilter microbial community was determined to be 0.2 ␮M (49), but even if the biofilter microbial community had a KS on DMS similar to that of Hyphomicrobium VS (3 ␮M) (27), it would be expected that the specific growth rate at pH 7 would be approximately 0.07 h⫺1, not 0.012 h⫺1, which is a value that is more analogous to the specific growth rate at pH 5 in the batch studies 
+n other words, the pH conditions in these biofilters resulted in much lower specific growth rates than can be achieved by Hyphomicrobium spp. at pH 7 
+his suggests that these Hyphomicrobium spp. still grow at a lower than optimal specific growth rate on DMS in the presence of methanol but that methanol addition results in an increase in the concentration of Hyphomicrobium  APPL 
+N DMS  38.  39.  40.  41.  42. 43.  44.  45.  46.  47.  48.  49.  50.  Methyl mercaptan oxidase, a key enzyme in the metabolism of methylated sulphur compounds by Hyphomicrobium EG 
+eller, H 
+olland, H 
+uderer, H 
+ol, A., H 
+hasaya, H 
+met, E., H 
+EGA4: molecular evolutionary genetics analysis (MEGA) software version 4.0 
+N DMS  5427  TABLE 2 
+pringer, New York, NY. 2 
+ne possible technology is biofiltration which involves passing waste air through a packed bed of microorganisms 
+t least two growth cycles were carried out on subcultures before batch kinetic assays were performed 
+hemolithotrophic potential of a Hyphomicrobium species, capable of growth on methylated sulphur compounds 
+o convert biovolume to biomass (carbon content), a conversion factor of 0.22 g of C/cm⫺3 was used (5) 
+o convert biovolume to biomass (carbon content) a conversion factor of 0.22 g of C/cm⫺3 was used (5) 
+eller, E 

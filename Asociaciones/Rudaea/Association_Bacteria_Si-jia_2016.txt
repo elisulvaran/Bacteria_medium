@@ -1,0 +1,236 @@
+mages and forcedistance curves of the sludge were recorded using an AFM (Multimode 8, Bruker Inc., Germany) and scanned in a contact mode using a silicon nitride cantilever with a spring constant of 0.2113 N/m at speed of 1.99 Hz with 256  256 resolutions 
+hospholipid fatty acid (PLFA) analysis The PLFA were extracted from activated sludge on the 15th and 30th day according to the method described by Niu et al. (2012) 
+ silicic acid column was used to separate the phospholipid from other lipids 
+fter extraction and lavation, the resulting fatty acid methyl esters were detected by Aglient 7890  647  GC, and the results were analyzed using the MIDI Sherlock Microbial Identification System (MIDI, Newark, DE) 
+atty acid was classified in terms of total number of carbon atoms, with the number of double bonds given after a colon, following the form A:BxC, where A is the number of carbon atoms, B is the number of double bonds, and C is the position of the first double bond from the ‘‘omega” or the molecule’s aliphatic end 
+ffect of low temperature on highly unsaturated fatty acid biosynthesis in activated sludge 
+he results suggested that in the three reactors, the synthesis of long chain fatty acids (the number of carbons > 18) increased when the reactors achieved steady operation stage 
+Bioresource Technology 214 (2016) 645–652  Contents lists available at ScienceDirect  Bioresource Technology journal homepage: www.elsevier.com/locate/biortech  Effects of DO levels on surface force, cell membrane properties and microbial community dynamics of activated sludge Si-jia Ma 1, Li-li Ding 1, Hui Huang, Jin-ju Geng, Ke Xu, Yan Zhang, Hong-qiang Ren ⇑ State Key Laboratory of Pollution Control and Resource Reuse, School of the Environment, Nanjing University, Nanjing 210023, Jiangsu, PR China  h i g h l i g h t s  g r a p h i c a l a b s t r a c t   Microbial surface force decreased  with the increase of DO levels.  Cell membrane fluidity was the  lowest at medium DO level.  Micropruina, Zoogloea and  Nakamurella increased with the increase of DO levels.  a r t i c l e  i n f o  Article history: Received 28 January 2016 Received in revised form 26 April 2016 Accepted 28 April 2016 Available online 30 April 2016 Keywords: Dissolved oxygen concentration Activated sludge Surface force Phospholipid fatty acids Microbial community structure  a b s t r a c t In this paper, we employ atomic force microscopy (AFM), fluorescence recovery after photobleaching (FRAP) technique, phospholipid fatty acids (PLFA) and MiSeq analysis to study the effects of traditional dissolved oxygen (DO) levels (0.71–1.32 mg/L, 2.13–3.02 mg/L and 4.31–5.16 mg/L) on surface force, cell membrane properties and microbial community dynamics of activated sludge 
+esults showed that low DO level enhanced the surface force and roughness of activated sludge; the medium DO level decreased cell membrane fluidity by reducing the synthesis of branched fatty acids in the cell membrane; high DO level resulted in the highest protein content in the effluent by EEM scanning 
+bundance of Micropruina, Zoogloea and Nakamurella increased and Paracoccus and Rudaea decreased with the increase of DO levels 
+DA analysis suggested that saturated fatty acids (SFA), anteiso-fatty acids (AFA) and iso-fatty acids (IFA) were closely related to effluent quality as well as some genera. Ó 2016 Published by Elsevier Ltd.  1 
+ntroduction Dissolved oxygen (DO), one of the most important parameters, relates to the degradation rate of organics, effluent dissolved organic matters, efficiency of sludge separation and operational costs in wastewater treatment plants (WWTPs) by regulating physicochemical properties and microbial community composition ⇑ Corresponding author 
+ijia Ma and Lili Ding contributed equally to all aspects of conceptualizing planning, sample and data collection, data analysis and preparation of the manuscript. 1  http://dx.doi.org/10.1016/j.biortech.2016.04.132 0960-8524/Ó 2016 Published by Elsevier Ltd.  of activated sludge (AS) (Liao et al., 2011; Ma et al., 2013; Miao et al., 2015; Yadav et al., 2014) 
+ high level of DO can result in an increase of dissolved organic matter concentration through erosion of bound extracellular polymeric substances (EPS), which consequently deteriorate effluent quality and increase operating costs (Ma et al., 2013) 
+n the meantime, a low DO adversely affects treatment efficiencies and causes sludge bulking, especially in industrial sewage (Zheng  646  S.-j 
+owever, few researches have addressed the influence of the DO levels on the cell membrane characteristics of AS rather than merely the expected effects on intracellular and extracellular polymers in activated sludge process 
+resently, changes in cell membrane characteristics of single bacteria have been reported based on their response to heavy metals, low temperature and organic solvents (Fang et al., 2004; Fang et al., 2007; Niu et al., 2012; Ramos et al., 2002), but few investigators have reported the effects of DO levels on microbial cell membrane properties in activated sludge 
+ell membrane fluidity is essential for many biological membrane functions, such as the passive permeability of molecules and active solute transport (Lippincott-Schwartz et al., 2001; Van Meer et al., 2008) 
+he fluidity of cell membrane strongly influences the transportation and extrusion of many structurally and functionally unrelated compounds, which may have a significant effect on wastewater treatment efficiency and soluble microbial products (SMP) (Ramos et al., 2002) 
+embranes appear to have specific lipid constituents to maintain fluidity and the ability to transport nutrients under various stress conditions (Niu et al., 2013; Zhao et al., 2014) 
+herefore, when environment changes, the microbes regulate the composition of the membrane lipids to maintain the fluidity and membrane phase behavior, to minimize energy expenditure, and optimize growth 
+nderstanding the bacterial cell membrane properties in activated sludge processes and analyzing the shifts in responding to different DO levels are essential to develop efficient treatment strategies 
+ourier transform infrared spectroscopy (FTIR) measurements and FRAP analysis had been used to analyze cell membrane fluidity (Fang et al., 2007; Mullineaux et al., 2006); and Agilent 7890 Gas Chromatography with flame ionization detector (FID) was widely used to detected cell membrane phospholipid compositions (Niu et al., 2012) 
+t has been reported that unsaturated fatty acids and branched fatty acids can disrupt the close packing of phospholipid acyl chains and lower the temperature of the phase transition (Kaneda, 1991; Niu et al., 2012) 
+hang et al. (2011) reported that an increase of aeration off time could decrease monounsaturated fatty acids content and increase branched fatty acids content in submerged membrane bioreactor 
+ang et al. (2007) reported that 0.01 mol/L of nC60 (fullerene water suspensions) decreased the amount of unsaturated fatty acids and increased the content of branched fatty acids of Bacillus subtilis, which led to an increase of cell membrane fluidity where oxygen was absent 
+hifts of microbial cell membrane properties (PLFA and fluidity) in response to different DO levels and the changes with time under same DO levels in activated sludge are still unclear 
+nalysis of this constituent would be helpful to enhance treatment efficiency and decrease SMP content in activated sludge 
+nvironmental conditions (such as pH, temperature and DO) have significant influence on microbial ecology (Yang et al., 2011) 
+he PLFA composition and SMP were determined by microbiota in activated sludge 
+owever, most related investigations are contradictory and the relationship between DO levels and microbial com-  munity is still unclear in activated sludge 
+t also has been reported that DO levels significantly affect the microbial community structure, including Actinobacteria, Proteobacteria, Nitrospira, Bacteroidetes and so on (Xin et al., 2016; Yadav et al., 2014; Zhang et al., 2012).Therefore, the structural changes of microbial communities in responding to different DO levels should be meaningfully characterized 
+he MiSeq platform (Illumina, Inc., USA) provides a way to achieve high-through-put sequencing, which enables microbial ecology the greatest coverage and most accurate DNA data for analysis of the microbial community in various environmental samples (Yadav et al., 2014; Zhu et al., 2015) 
+he objectives of this study were to: (1) compare the effluent dissolved organics matters of the three SBRs with different DO levels fed with a synthetic wastewater; (2) investigate surface morphology and mechanics characteristics of sludge, cell membrane physiological properties including membrane phospholipids composition and membrane fluidity, and; (3) investigate the microbial community structures, and the effects of microbial community structures changes on membrane physiological properties 
+hose findings would be helpful to the development of strategies to minimize energy consumption and optimize performance in WWTPs. 2 
+aterials and methods 2.1 
+erobic sequencing batch reactors (SBRs) The laboratory experimental system consists of three parallel SBRs (total and effective volume: 2.5 and 2 L, respectively), operated at DO of 0.71–1.32 mg/L (reactor A), 2.13–3.02 mg/L (reactor B) and 4.31–5.16 mg/L (reactor C) with the help of three rotameters 
+he oxygen concentration in the reactors was monitored using an oxygen meter and probe (SG6, METTLER TOLEDO Inc., USA) 
+he seeding sludge was collected from Jiangxinzhou municipal WWTP in Nanjing, China and the MLSS of each SBR was about 3000 mg/L fed with synthetic wastewater 
+ne liter of synthetic wastewater contained 400 mg of glucose, 120 mg of NH4Cl, 19 mg of KH2PO4, 25 mg of MgSO47H2O, 11 mg of CaCl22H2O and 0.6 mL of a trace metals solution, yield an influent COD of 400 ± 20 mg/L 
+ne liter of the trace metals solution contained: 1.5 g FeCl36H2O, 0.15 g H3BO3, 0.03 g CuSO45H2O, 0.18 g KI, 0.12 g MnCl24H2O, 0.06 g Na2MoO42H2O, 0.12 g ZnSO47H2O, 0.15 g CoCl26H2O and 10 g EDTA 
+he time of filling, reaction, settling and discharging was 10, 660, 40, and 10 min, respectively 
+he pH was adjusted to 7 ± 0.1 before reaction of the three reactors at each cycle using a pH meter and probe (FE20, METTLER TOLEDO Inc., USA), respectively. 1 L of the synthetic wastewater was added to each SBR in each cycle 
+ater chemistry analysis Chemical oxygen demand (COD) was determined according to standard methods and effluent protein content was determined by the Bradford assay with bovine serum albumin (BSA) as standard, the references were provided in Supplementary Material 
+a et al. / Bioresource Technology 214 (2016) 645–652  at the end of settling period (COD and SMP) and at 0 h, 1 h, 2 h, 3 h, 5 h, 7 h, 9 h, and 11 h of the reaction period (COD removal efficiency at a single cycle) 
+tomic force microscopy (AFM) AFM has been exploited to characterize microbial surface in terms of structure and function with higher resolution, surface feature and force measurement (Zhu et al., 2015).The activated sludge samples on the 30th day were observed with AFM after drying naturally 
+he adhesion force between tips and cells was analyzed by force-distance measurement (Zhu et al., 2015) 
+luorescence recovery after photobleaching (FRAP) measurements and data analysis The techniques described and illustrated in Mullineaux et al. (2006) were used to measure the diffusion coefficients for the BODIPY FL-C12-tagged plasma membrane lipid on the 30th day 
+he suspension was incubated for approximately 30 min in the presence of BODIPY, then harvested by centrifugation at room temperature and washed several times in synthetic wastewater to remove unincorporated dye 
+mages were recorded with a laser scanning confocal microscope (LSCM, FV1000, Olympus Co., Japan) equipped with a 10 mW argon laser and BODIPY fluorescence emissions were selected using green (515–565 nm) filters 
+leaching was recorded at 488 nm and fluorescence emission was detected between 520 and 545 nm 
+re- and post-bleach scans were recorded separately at 2 min intervals over a 512  512 pixel area using the xy mode for scanning 
+he mobile fraction Mf from FRAP experiments was determined by Mf = (Ft F0)/(Fi F0) where Ft is the fluorescence in the bleached region after full recovery, Fi is the fluorescence before bleaching and F0 is the fluorescence just after bleaching (LippincottSchwartz et al., 2001). 2.5 
+aponification was carried out with a sodium hydroxide-methanol-distilled water mixture (m/v/v, 45:150:150) and methylation with a mixture of hydrochloric acid–methanol (v/v, 325:275) 
+he prefixes ‘‘i” and ‘‘a” indicate ‘‘iso” and ‘‘anteiso” branching, respectively.  2.6 
+rocedure of 16S rRNA gene amplicon sequencing and data analysis The microbial community structures were investigated using MiSeq platform on the 15th and 30th day 
+ctivated sludge for the 16S rRNA gene sequencing amplicon were first processed as follows: DNA extraction, 16S rRNA gene PCR amplification and PCR products purification (Zhu et al., 2015) 
+o amplify and sequence the V1V2 hypervariable region of the 16S rRNA gene, forward primer (50-AGAGTTTGATYMTGGCTCAG-30) and the reverse primer (50-TGCTGCCTCCCGTAGGAGT-30) were selected and different 8-base barcodes and a guanine were linked to the 50 end of each primer 
+he acquired data was processed by the Sickle and Mothur program to remove the low quality of sequence and reduce noises 
+he specific methods and data analysis are available in the supplemental material 
+edundancy analysis (RDA) based on the community composition and the measured variables (PLFA compositions and effluent organics matters) were performed with CANOCO 4.5 software 
+esults and discussion 3.1 
+1a, in the beginning of the experimental runs, a period of time was set to allow the three SBRs (A, B, and C) to adapt to the different DO levels 
+ll the reactors achieved steady operation status after running 15 days, and the COD removal efficiencies were higher than 85% under all operation conditions 
+t a single cycle of the operation of each reactor, COD removal efficiency was detected and noted when all the reactors achieved steady operation status (Fig 
+EM spectrum showed that aromatic protein-like (peak at Ex/Em = 280–285/305–310 and peak at Ex/ Em = 228–235/330–340), humic acid-like (peak at Ex/Em = 340– 345/380–390) and fulvic acid-like (Ex/Em = 240–250/460–475) substances presented in the effluent according to the method from Chen et al. (2003) and Zhu et al. (2012) 
+romatic protein-like and fulvic acid-like were two major substances in the effluent dissolved organic matter on the 15th day 
+t day 30, the fluorescence intensity of fulvic acid-like and aromatic protein-like decreased while the humic acid-like substance enriched 
+oughness and adhesion force of sludge Atomic force microscopy (AFM) provided important morphology features and mechanical characteristics and was thus used to detect microscale images and surface properties of the sludge samples on the 30th day (Fig 
+he adhesion forces of sludge for Reactors A, B and C were 29.1 ± 2.2 nN, 12.1 ± 0.27 nN and 7.4 ± 0.35 nN (Table 2), respectively 
+he Ra roughness for Reactors A, B and C were  246.5 ± 37.1 nm, 81.7 ± 3.4 nm and 86.6 ± 1.2 nm (Table 2), respectively 
+n wastewater treatment, organics removal consists of two steps: adsorption and degradation 
+t has been reported that an increase of adhesion force could facilitate the bacterial interactions or the adhesion between carbohydrate and specific receptors (such as concanavalin A receptor surfaces) in biological processes (Pussak et al., 2014) 
+ut Li et al. (2014) reported that no significant correlation was found between adhesion energy and microbial aggregation or transport behavior 
+s shown in Fig. 1b, at the first hour in one operating cycle, the removal of COD were 226.8 mg/L, 164.8 mg/L and 129.2 mg/L at Reactors A (0.71–1.32 mg/L), B (2.13–3.02 mg/L), and C (4.31–5.16 mg/L), respectively 
+his results indicate that a decrease of DO level may facilitate the adhesion between glucose and cell surface in activated sludge, thus promote the COD removal at the first hour 
+hysicochemical properties present on the outer cell membrane are known to affect the organics adhesion and transportation behavior (Li et al., 2014) 
+iu et al. (2013) reported that at low temperature under heteropolar magnetic field treatment, the cells of activated sludge appeared a lower roughness, which may be conducive to the interaction between cells and absorption of nutrient to a certain extent, improving mass transfer effect 
+ll results reflected the influence of DO on the morphology characteristics and mechanical properties of sludge. 3.3 
+EM spectra of the effluent of the three reactors on the 15th and 30th day 
+-15 represents the activated sludge samples of Reactor A on the 15th day, and so on 
+eactor  Protein-like  Humic acid-like  Fulvic acid-like  A-15 B-15 C-15 A-30 B-30 C-30  236.4 164.3 228.1 103.2 88.1 117.1  53.5 60.6 47.3 171.9 113.4 157.4  175.1 198.5 132.4 36.5 40.8 32.3  Table 2 Roughness and adhesion force of activated sludge microbial cell surface using AFM on the 30th day 
+t has been reported that the changes of cell membrane fluidity might be a mechanism of microbes to maintain substance transportation and optimal growth (Fang et al., 2007) 
+nder laser scanning confocal microscopy (LSCM), microorganisms displayed green colors after binding with BODIPY FL-C12 and the red circle was used to limit the bleached area 
+iu et al. (2012) reported that low temperature could led to an increase of unsaturated fatty acids and thus promote the cell membrane fluidity of activated sludge, which can enhance the mass transfer efficiency of cells 
+t has been reported that microorganisms can catalyze the active extrusion of many structurally and functionally unrelated compounds from bacterial cytoplasm to external media for optimal growth 
+he changes of cell membrane fluidity under DO levels of 0.71– 1.32 mg/L, 2.13–3.02 mg/L and 4.31–5.16 mg/L were consistent with the different effluent protein content 
+hospholipid fatty acids of microbes in sludge The cell membrane lipid composition changes of microbes were studied by PLFA analysis (Fig. 2 and Table S1) 
+-15 represents the activated sludge samples of A on the 15th day, and so on 
+he content of saturated fatty acids all had an increase from the 15th day to 30th day and Reactor B had the highest proportion 
+t Reactors A (0.71–1.32 mg/L), B (2.13–3.02 mg/L), and C (4.31–5.16 mg/L) on  Table 3 Fluorescence intensity of selected area changes after incubation of 30 min in the presence of BODIPY and Mf on the 30th day.a A operated at DO of 0.71–1.32 mg/L, B operated at DO of 2.13–3.02 mg/L, C operated at DO of 4.31–5.16 mg/L 
+eactor  A  B  C  Before bleaching After bleaching 1 min 3 min 5 min 7 min 9 min 11 min Mf  1599.5 1034.2 1126.1 1189.5 1225.3 1288.9 1294.5 1290.2 46.1%  1000.1 564.1 616.8 652.1 689.9 704.5 740.3 718.2 40.4%  879.2 310.9 456.4 475.1 542.1 573.5 591 583.4 49.3%  a Before bleaching and after bleaching represent the fluorescence intensity before and after bleaching, respectively 
+he next line is after bleaching for one minute, and subsequent time in minutes is indicated 
+f represents the mobile fraction of the cell membrane.  the 15th day, the proportions of unsaturated fatty acids were 7.44 ± 0.77%, 15.37 ± 1.93% and 16.27 ± 2.23%, and breached fatty acids were 58.82 ± 7.93%, 34.06 ± 0.98% and 49.23 ± 5.91%, respectively 
+hen the three reactors maintained for 30 days (>3 SRT), the branched fatty acids content at the three reactors (A, B and C) all had a decrease, respectively (34.89 ± 0.33%, 27.94 ± 4% and 38.43 ± 3.44%) 
+he unsaturated fatty acids content at Reactors B and C continuously decreased (13.19 ± 2.23% and 10.4 ± 1.92%) but at Reactor A had a slight increase (10.29 ± 0.66%) 
+so- and anteisobranched fatty acids have the same ability as unsaturated fatty acids to disrupt the close packing of phospholipid acyl chains and lower the temperature of the phase transition (Kaneda, 1991; Niu et al., 2012) 
+ifferent substrate or environments could cause different phospholipid compositions and the increase of breached-chain fatty acids may be a defense mechanism employed by microorganisms responding to stress conditions (fullerene and toluene) (Fang et al., 2007; Fang et al., 2004) 
+n the initial stage, microbes growing at DO of 0.71–1.32 mg/L and 4.31–5.16 mg/L, increased the synthesis of branched fatty acids for maintaining mass transfer and growth 
+hen all the reactors achieved steady operation, the microbes recompounded their lipid compositions and the contents of breached-chain fatty acids on the 30th day were as follows: Reactor B (27.94 ± 4%) < Reactor A (34.89 ± 0.33%) < Reactor C (38.43 ± 3.44%) 
+nd the higher branched fatty acids content accounted for the faster cell membrane fluidity at Reactors A and C in comparison to at Reactor B 
+he major branched fatty acids (abundance > 1%) on the 15th and 30th day were C15:0 anteiso, C14:0 iso, C15:0 iso and C16:0  650  S.-j 
+LFA profiles of the activated sludge in three reactors on the 15th and 30th day. (a) By structure; (b) By the number of carbon atoms 
+he results suggested that at DO of 4.31–5.16 mg/L and 0.71–1.32 mg/L, microbes can increase the synthesis of branched fatty acids to increase the fluidity of cell membranes for optimal growth 
+rom Fig. 2b, it can be seen that at Reactors A and B, the content of C15 had a significant decrease while the content of C16 and C18 all increased distinctly on the 30th day 
+t Reactor C, the content of C15 and C16 all had a slight decrease but the content of C18 increased 
+ll this reflected the domestication and selection of DO for plasma membrane phospholipid fatty acids. 3.5 
+hifts of microbial community structure The microbial community structure differences in responding to different DO levels on the 15th day and 30th day were detected by MiSeq high-throughput sequencing (Fig. 3) 
+ig. 3a showed that the microbial community at phylum level (Reactors A, B and C) dominantly consisted of Proteobacteria (64.84%, 29.2% and 74.88%), Bacteroidetes (8.24%, 22.54% and 8.16%), Actinobacteria (17.81%, 30.15%  and 11.82%) on the 15th day and Proteobacteria (19.2%, 21.79% and 20.75%), Bacteroidetes (36.2%, 12.92% and 15.33%), Actinobacteria (4.21%, 18.7% and 19.6%) and TM7(29.2%, 35.5% and 32.4%) on the 30th day respectively 
+he other phylum were Acidobacteria, Nitrospira, Chloroflexi, Firmicutes, Gemmatimonadetes, Verrucomicrobia, OD1, Thermotogae and Spirochaetes 
+s shown in Fig. 3a, Proteobacteria was the most dominant phylum on the 15th day at Reactors A (0.71–1.32 mg/L) and C (4.31– 5.16 mg/L), which agreed with previous studies in full-scale wastewater treatment plants (Peng et al., 2014; Zhang et al., 2012) 
+t has been reported that Actinobacteria is the most abundant phylum in activated sludge treating pharmaceutical and dye wastewater (Yadav et al., 2014) 
+M7 increased significantly to be the most abundant phylum at Reactor B and C on the 30th day, while Bacteroidetes was the most abundant phylum at DO of 0.71–1.32 mg/L 
+he main microbial community differences among the three SBRs were the content of Bacteroidetes and Actinobacteria 
+revious studies on the features and functions of TM7 are limited (Wakelin et al., 2012) 
+ operated at DO of 0.71–1.32 mg/L, B operated at DO of 2.13–3.02 mg/L, C operated at DO of 4.31–5.16 mg/L.  researchers reported that TM7 are filamentous bacteria and increased during the start-up period in MBBR (Zhu et al., 2015) 
+acteroidetes plays an important role in using protein, and chitin, and is proficient in degrading part of the high molecular mass fraction of the DOM (Ma et al., 2013) 
+eng et al. (2014) reported that changes in microbial communities are one of leading reasons for variations in metabolites, and such changes may have a direct effect on effluent quality 
+ig. 3b shows that Zoogloea, Leptothrix, Nakamurella, and Micropruina genera were consistently abundant in the sludge of three reactors on the 15th day 
+ith the reactors operation, those genera decreased and the microbial communities changed greatly 
+t day 30, the most abundant genus in Reactors A, B and C was TM7 genera incertae sedis, which has a significant increase in utilization of carbohydrates (Wakelin et al., 2012) 
+rom the heat map of the genus relative abundances, Nakamurella and Micropruina increased with the increase of the DO level 
+t has been reported that Nakamurella and Micropruina are able to accumulate large amounts of polysaccharides in their cells (Hope et al., 2010; Begum and Batista, 2012) 
+aracoccus and Rudaea decreased with the increase of DO levels 
+he Zoogloea genera (0.1% in Reactor A, 0.9% in Reactor B and 1.9% in Reactor C) were widely spread in activated sludge and had been regarded as the key populations responsible for the flocculation of activated sludge (Zhang et al., 2012). 3.6 
+orrelation analysis of microbial community with PLFA composition and effluent quality The RDA analysis was used to investigate the relationship of microbial community with PLFA composition and effluent dissolved organic matter (Fig. 4) 
+he RDA1 and RDA2 explained 85.8% and 10.3% of the total variance, respectively 
+M7 genera incertae sedis and SFA were correlated with effluent aromatic  Fig. 4 
+DA analysis of microbial community composition in relation to PLFA composition and effluent quality 
+eak p, f and h represent the aromatic protein-like, fulvic acid-like and humic acidlike substance, respectively.  protein-like (Peak p), humic acid-like (Peak h) and fulvic acidlike (Peak f) (Person test, p < 0.05) 
+rosthecobacter and Gp4 were correlated with effluent fulvic acid-like (Person test, p < 0.05) 
+esides, AFA was related to effluent aromatic protein-like and Ideonella; IFA was related to effluent aromatic protein-like and Nakamurella (Person test, p < 0.05) 
+revious studies have proven that these PLFA and genera may significantly influence the effluent quality (Niu et al., 2012; Yadav et al., 2014) 
+ome genera showed high positive correlation with AFA and IFA, including Ideonella, Nakamurella and Zoogloea 
+bove results showed that the changes of DO levels, promoted the shifts of microbial community and the compositions of PLFA, which influenced the effluent dissolved organic matter.  652  S.-j 
+onclusion The results showed that DO of 2.13–3.02 mg/L led to the lowest effluent dissolved organics matters content and an increase of DO level resulted in decreasing surface adhesion force 
+O of 0.71– 1.32 mg/L and 4.31–5.16 mg/L could prompt cell membrane fluidity by increasing the synthesis of branched fatty acids 
+t was also found that higher abundance of bacteria which contain more branched fatty acids resulted in the increase of fluidity and branched fatty acids content, which further influenced the effluent quality 
+FA, AFA and IFA significantly influenced the effluent dissolved organic matter 
+cknowledgements This work was supported by the National High-tech R&D Program (863 program) (Grant No. 2012AA063407) and the National Science & Technology Support Program of China (No. 2014BAC08B04) 
+he impact of aeration on the competition between polyphosphate accumulating organisms and glycogen accumulating organisms 
+he use of isotopic and lipid analysis techniques linking toluene degradation to specific microorganisms: applications and limitations 
+ffect of a fullerene water suspension on bacterial phospholipids and membrane phase behavior 
+ging biofilm from a full-scale moving bed biofilm reactor: characterization and enzymatic treatment study 
+so- and anteiso-fatty acids in bacteria: biosynthesis, function, and taxonomic significance 
+niversal quantifier derived from AFM analysis links cellular mechanical properties and cell-surface integration forces with microbial deposition and transport behavior 
+ffects of temperature and dissolved oxygen on sludge properties and their role in bioflocculation and settling 
+orrelating microbial community structure and composition with aeration intensity in submerged membrane bioreactors by 454 high-throughput pyrosequencing 
+he influence of aeration intensity on predation and EPS production in membrane bioreactors 
+hifts in the microbial community, nitrifiers and denitrifiers in the biofilm in a full-scale rotating biological contactor 
+eposition of extracellular polymeric substances (EPS) and microtopographical changes on membrane surfaces during intermittent filtration conditions 
+erobic treatment of dairy wastewater in an industrial three-reactor plane: effect of aeration regime on performance and on protozoan and bacterial communities 
+embrane lipids: where they are and how they behave 
+ole of aeration intensity on performance and microbial community profiles in a sequencing batch reaction kettle (SBRK) for wastewater nutrients rapid removal 
+hylogenetic diversity and metabolic potential of activated sludge microbial communities in full-scale wastewater treatment plants 
+icrobial community structure and metabolic property of biofilms in vermifiltration for liquid-state sludge stabilization using PLFA profiles 
+omponent analysis of extracellular polymeric substances (EPS) during aerobic sludge granulation using FTIR and 3D-EEM technologies 
+hysicochemical characteristics and microbial community evolution of biofilms during the start-up period in a moving bed biofilm reactor 
+any reports have focused on the effects of DO levels on the characteristics of activated sludge, especially on the extracellular polymeric substances (EPS) (Liao et al., 2011; Martins et al., 2003) 
+n appropriate level of DO is beneficial to the performance of WWTPs 
+ecently, it has been reported that low DO levels promote the proliferation of polyphosphate accumulating organisms over glycogen accumulating organisms, thus increase the WWTPs efficiency (Carvalheira et al., 2014) 
+ang et al. (2004) reported that in aerobic conditions, apolar organics could cause a decrease in the amount of unsaturated fatty acids of Pseudomonas putida 
+he temperature during the operation was 25 ± 2 °C for the three reactors 
+he mixing intensity in each SBR was made similar by setting the same rotating speed of the electric mixer in each SBR. 2.2 
+he samples for these measurements were taken from the SBRs  S.-j 
+luorescence EEMs were measured using the method described in Huang et al. (2014). 2.3 
+ 2.4 mmol/L stock solution of dimethyl sulphoxide was added to the cell suspension to give a final concentration of 1 lmol/L 
+xperimental protocol: First, adjust the argon laser to 2 mW; then, scan in the xy plane to record the sample image 
+elect an appropriate small region in the image as the bleaching area 
+econd, focus an argon laser light run at 10 mW on the selected area 
+urn off the argon laser after irreversibly bleaching the bound reagent for five minutes 
+hird, the fluorescence of the bleached area increased as unbleached fluorescent lipids diffused into it along with time bleached ones 
+urther statistical analyses were made using the OLYMPUS FV1000 Ver.1.7b Viewer 
+hen the purified products were sent for sequencing using Illumina sequencing platform (MiSeq, Illumina Inc., USA) 
+astly, the filtered sequences were assigned to a taxon by an RDP classifier 
+icrobial abundance at the genus level was mapped using heatmap modules in ‘‘R” statistical packages 
+he Significant Correlation (P) of the correlations among different parameters was calculated using SPSS 19.0 software.  3 
+verall performance of the three sequencing batch reactors (SBRs) As shown in Fig 
+hen operated at DO of 2.13– 3.02 mg/L, COD of effluent was the lowest at this period 
+he average COD removal efficiency decreased with the decline of DO concentration: Reactor C (4.31– 5.16 mg/L, 94.1%) > Reactor B (2.13–3.02 mg/L, 92.3%) > Reactor A (0.71–1.32 mg/L, 89.9%) 
+t is agreed with the findings that an increase of DO levels could led to an increase of COD removal efficiency (Yadav et al., 2014) 
+t suggested that at the first hour the COD removal rate increased as follows: Reactor C (4.31–5.16 mg/L, 32.3%) < Reactor B (2.13– 3.02 mg/L, 41.2%) < Reactor A (0.71–1.32 mg/L, 56.7%) 
+t is consistent with the findings that at the first hour in one cycle, the COD removal efficiencies were higher at aeration intensity of 0.2– 0.4 MPa than 0.6 MPa (Xin et al., 2016) 
+his sequence changed with the fast increasing of COD removal efficiencies of Reactor C, which got the largest COD removal efficiency at the second hour 
+iao et al. (2011) reported that an increase in the DO level resulted in a higher COD removal rate of activated sludge under thermophilic conditions 
+nalysis of the treated effluent showed that the content of proteins increased as follows: Reactor B (3.6 ± 0.5 mg/L) < Reactor A (7.3 ± 0.6 mg/L) < Reactor C (10.8 ± 1.5 mg/L) 
+he highest protein content in effluent was at Reactor C, which is similar with the findings that higher shear condition (DO was about 6 mg/L) resulted in the increase of SMP concentrations in membrane bioreactors (Menniti et al., 2010) 
+he results suggested that a moderate DO level (2.13–3.02 mg/L) can result in the lowest protein content in effluent of SBRs. 3.2 
+his indicates that the increase of DO level leads to a decrease of adhesion force 
+ansel et al. (2006) reported that with the increase of membrane roughness during filtration, the amount of EPS deposited on the membranes increased significantly 
+n this study, it means that substance transportation through the outer cell membrane was easier at DO of 2.13–3.02 mg/L 
+he effects of DO levels on the fluidity of cell membranes were studied by measuring the diffusion coefficients for BODIPY FL-C12labeled plasma membrane lipids (Mullineaux et al., 2006) 
+he diffusion coefficient of lipids in the membrane can be calculated from the extent of recovery of fluorescence in the bleached patch (Fig 
+he rate of fluorescence recovery is proportional to the rate of labeled molecules move into the bleached area 
+he percentage of fluorescence intensity of recovery rates could be used to represent the fluidity of cell membranes 
+s shown in Table 3, Reactor C, operating at DO of 4.31–5.16 mg/L had the fastest rate of fluorescence recovery while Reactor B, operating at DO of 2.13–3.02 mg/L had the lowest with substantial mobile fraction (Mf) as follows: Reactor B (40.4%) < Reactor A (46.1%) < Reactor C (49.3%) 
+t has been reported that the change of cell membrane fluidity may be a mechanism to adapt to environmental changes (Fang et al., 2007) 
+he change in cell membrane fluidity is the key to implementing this self-defense function (Ramos et al., 2002) 
+his discovery might be useful for reducing the content of EfOM or DON in the effluent.  3.4 
+t has been reported that the increase of unsaturated fatty acids can enhance the mass transfer efficiency of cells, which is necessary for efficient metabolism at low temperature (Niu et al., 2012; Niu et al., 2013) 
+owever, Fang et al., 2007 reported that depending on the different environments present, microbial response may result in decreased or increased unsaturated fatty acids 
+n this study, the contents of unsaturated fatty acids decreased during the whole operation except for a slight increase trend at Reactor A (0.71–1.32 mg/L) on the 30th day (from 7.44 ± 0.77% to 10.29 ± 0.66%) 
+n this study, branched fatty acids were more abundant than unsaturated fatty acids in the whole operation (Fig. 2a) 
+reached-chain fatty acids content on the 15th day were: Reactor B (34.06 ± 0.93%) < Reactor C (49.23 ± 5.91%) < Reactor A (58.82 ± 7.93%) 
+he branched fatty acids content had a decrease in all reactors in comparison to the 15th day 
+t has been reported that the decrease of branched fatty acids may be a defense mechanism to prevent the membrane from being too fluid for optimal growth (Fang et al., 2007) 
+specially, the C15:0 anteiso content had a significant increase as follows: Reactor B (24.36 ± 0.16%) < Reactor C (33.31 ± 4.11%) < Reactor A (41.97 ± 3.9%) 
+t the 30th day, the C15:0 anteiso content had a decrease to: Reactor B (19.40 ± 2.34%) < Reactor A (25.56 ± 0.28%) < Reactor C (25.90 ± 2.13%) 
+n the whole period, C15:0 anteiso was the most abundant branched fatty acids 
+t has been reported that C15:0 anteiso has the lowest phase transition temperature (23 °C) in comparison to others (Kaneda, 1991) 
+n the genus level, the content exceeded 0.1% which was selected to generate the heat map (Fig. 3b) 
+he microbial community at genus level changed greatly in the three reactors from the 15th day to 30th day 
+t Reactor B on the 15th day, the dominant phyla were Actinobacteria (30.15%), Proteobacteria (29.2%), Bacteroidetes (22.54%) 
+xygen stress (1–5 mg/L) appeared to distinctly affect the bacterial community structure in MBR (Ma et al., 2013) 
+fter the reactors run for 30 days, the microbial community had changed greatly compared to the 15th day (Fig. 3a) 
+ecently, Peng et al. (2014) showed that TM7 increases notably in the middle of the rotating biological contactor (RBC) 
+he color bar indicates the range of the percentage of a genus in a sample, based on the color key (log 10 scale) at the bottom right corner 
+he results of this study confirmed this phenomenon by finding that the lowest protein content in the effluent of Reactor B, with larger amount of Bacteroidetes on the 15th day; while at the 30th day, the Bacteroidetes content in Reactor B changed to the lowest with the lowest protein content, which means other bacteria may account for the protein removal 
+aracoccus, a denitrifying group, was more abundant at three reactors on the 30th day 
+upplementary data Supplementary data associated with this article can be found, in the online version, at http://dx.doi.org/10.1016/j.biortech.2016.04. 132 
+ffect of intermittent aeration on the microbial community structure of activated sludge in a submerged membrane bioreactor 
+he effect of oxygen supply on nitrogen removal via nitrite using stored substrate (PHB) as the electron donor in SBRs 
+a et al. / Bioresource Technology 214 (2016) 645–652  Fig. 2 
+tand Genomi Sci 2 (2), 168– 175 
+FA = saturated fatty acids, AFA = anteiso-branched fatty acids, IFA = iso-branched fatty acids, UFA = unsaturated fatty acids, OFA = other fatty acids.  iso (Table S1) 
+FA = saturated fatty acids, AFA = anteisobranched fatty acids, IFA = iso-branched fatty acids, UFA = unsaturated fatty acids 
+luidity of cell membrane in activated sludge Cell membrane fluidity is essential for many biological membrane functions, such as mass transfer (Lippincott-Schwartz  Fig. 1 
+ecently Yadav et al. (2014) found that Proteobacteria is sensitive to oxygen levels (1–4 mg/L) in industrial wastewater treatment 
+he abundance is presented in terms of percentage in total effective bacterial sequences in a sample; (b) Heat map of genera in six activated sludge samples 
+he effects of operating parameters on activated sludge microbial cell membrane properties are limited to low temperature or other rigidifying conditions (Niu et al., 2012; Niu et al., 2013) 
+or example, Tocchi et al. (2012) reported that microbial communities under a high DO level (8.9 mg/L) exhibit a great similarity (80%) to those under moderate DO level (3.1 mg/L) 
+or FRAP measurement, 1 mL of activated sludge suspension was diluted with Milli-Q water by 1:100 
+iffusion of green fluorescent protein in three cell environments in Escherichia coli 
+tudying protein dynamics in living cells 
+t has been found that branched fatty acids are required for growth of two mutants of B. subtilis (Kaneda, 1991) 
+herefore, microbes can better maintain cell membrane fluidity 

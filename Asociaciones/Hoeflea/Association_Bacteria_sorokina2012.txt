@@ -1,0 +1,156 @@
+hen NO 3 was replaced with N2O, growth was not inhibited and was accompa nied by accumulation of N2 in the gas phase: –  NO 3  –  NO 2 — ¦  N2 O  N2 .  Growth was inhibited due to accumulation of – NO 2 , which resulted from low rates of enzymatic activity involved in the chain of reactions causing a reduction of nitrogen compounds: the activity of nitrate reductase was 30 nmol/mL per 1 mg of protein, while the activity of nitrite reductase did not exceed 0.6 nmol/mL per 1 mg of protein 
+he capacity for utilizing various nitrogen sources was tested using the abovedescribed mineral medium with sodium acetate and without NH4Cl 
+he cultivation medium contained the following (g L–1): NaCl, 20; NH4Cl, 0.3; CaCl2 ⋅ 6H2O, 0.3; MgCl2 ⋅ 7H2O, 3; NaHCO3, 0.5; 10% phosphate buffer (pH 7.0), 0.1; Hepes buffer (pH 7.2), 3.0; KNO3, 0.3; CH3COONa, 0.15; vitamins and trace elements [12]; Difco agar, 5.0; pH 7.0 
+he cell suspension obtained on the medium with ferrous iron was pretreated with 1% oxalic acid for 3–5 min in order to dissolve iron oxides 
+nalysis of the fatty acid composition of the cells of strain Hf1 
+ICROBIOLOGY  Vol. 81  No. 1  2012  Hoeflea siderophila sp. nov., A NEW NEUTROPHILIC  (а)  (b)  (c)  (d)  61  Fig. 1.Morphology and ultrastructure of strain Hf1T cells: phase contrast microphotographs, Fe(II)free media (a); iron encrusted cells (the arrow points to iron oxides on the cell surface and in the medium) (b); cells stained with phosphotungstic acid (c); and cell ultrastructure (d) 
+sipov for the analysis of fatty acid composition 
+he microorganism utilized ammonium salts, – NO 3 , N2O, urea, yeast extract, and peptone, and did –  not utilize NO 2 , histidine, aspartic and glutamic acids, and casein hydrolysate as nitrogen sources 
+he microorganism utilizes ammonium – salts, NO 3 , N2O, urea, yeast extract, and peptone as –  nitrogen sources 
+nder anaerobic conditions, strain Hf1 was not able –  –  2–  to utilize NO 2 , ClO 4 , S0, S 2 O 3 , and Fe(OH)3 as electron acceptors 
+nder anaerobic conditions, strain Hf1 is – 2– unable to utilize ClO 4 , S0, S 2 O 3 , or Fe(OH)3 as electron acceptors 
+hernousovab, and G 
+he bacterium reproduced by binary division and was capable of producing rosettes 
+ptimal growth was observed within the pH range of 6.2–8.5 (with an optimum at 7.5), at 9–38°C (with an optimum at 30°C), and in the salinity range of 0.1–8.5% NaCl (with an optimum at 1%) 
+he strain was capable of mixotrophic and organoheterotrophic growth 
+e(II) oxidation occurred –  under anaerobic conditions via reduction of NO 3 and N2O, or under microaerobic conditions with oxygen as an electron acceptor 
+ccording to its phenotypic and chemotaxonomic properties, as well as to the results of phylogenetic analysis, strain Hf1 was classified into the genus Hoeflea of the family Phyllo bacteriaceae, order Rhizobiales of the phylum Alphaproteobacteria as a novel species, Hoeflea siderophila sp. nov 
+ew representatives of ironoxidizing bacteria are able to oxidize Fe(II)  deepwater marine hydrotherms [5, 6], and plant rhizosphere [7] 
+ue to the difficulties in both isolation and cultiva tion, the physiological properties of neutrophilic lithotrophic ironoxidizing bacteria are poorly under stood 
+ver the past 20 years, only two species of Betaproteobacteria [8] and the only representative of the new phylum Zetaproteobacteria [5, 9] have been described 
+ll isolates are capable of Fe(II) oxidation under anaerobic conditions coupled to reduction of oxidized – – nitrogen compounds ( NO 3 , NO 2 , and N2O) 
+amples of water and newly formed ochreous precipitates from the lowtempera ture mineral ironrich spring no. 8 of the Staraya Russa Resort (Novgorod region, Russia) were the sub jects of this study 
+uantitative assessment and conditions of isolation and cultivation of ironoxidizing bacteria 
+ell morphology and ultrastructure 
+hole cell preparations and ultrathin sections were examined under a JEM100C electron microscope (JEOL, Japan) at an accelerating voltage of 80 kV 
+ultural and analytical methods 
+arbon and nitrogen sources were added to a concen tration of 0.5 g L–1 
+itrate and nitrite reductase activities were determined with methyl viologen using the standard techniques [15, 16] 
+atalase and oxidase activities in the cell suspen sion were determined according to the standard pro cedure [17, 18] 
+he fatty acids were analyzed by gas chro matography and mass spectrometry with a Sherlock gas chromatograph (Microbial Identification System, MIDI Inc., United States) according to the standard procedure [20] 
+o disintegrate bacterial cells, they were subjected three times to a freezing–thawing procedure (at –70 and 50°С, respectively); the cell suspension was then heated at 80°С for 5 min [21] 
+CR amplification of the 16S rRNA gene was car ried out with the universal eubacterial primers 27f (5'AGAGTTTGATCCTGGCTCAG3') and 1492r (5'TACGGYTACCTTGTTACGACTT3') [25, 26] 
+or identification of the microorganisms closely related to the obtained strain, the 16S rRNA gene sequences were compared to those of the type strains from the RDBII (Ribosomal Data base Project, http://rdp.cme.msu.edu) and NCBI (National Center for Biotechnology Information, http://www.ncbi.nlm.nih.gov) databases 
+cale bar, 1 µm.  RESULTS Quantitative assessment and isolation of pure cul tures 
+he cells of strain Hf1 were thin, slightly curved rods (0.4 × 0.9– 2.2 μm), motile by means of a single polar flagellum (Figs. 1a, 1c, and 1d) 
+hysiological and biochemical properties 
+uring growth of ironoxi dizing bacteria under anaerobic conditions in the min –  eral medium with NO 3 as an electron acceptor and FeSO4 as an electron donor, oxidation of Fe(II) occurred primarily via bacterial oxidation; however, up to 20% of Fe(II) was oxidized in the chemical reac tion with the newly formed nitrite (Table 1) 
+train Hf1 was capable of both mixotrophic and organotrophic growth under microaerobic or anaero –  bic conditions; in the latter case, it utilized NO 3 , N2O as electron acceptors 
+uring lithotrophic growth, it utilized FeS, FeSO4, and FeCO3 as Fe(II) sources 
+elation between the decrease in the Fe(II) content and the biomass accumulation, strain Hf1, during anaerobic – growth in the mineral medium with NO 3 as an electron acceptor –  0 5 10 15  –  NO 3 , mM  Time, days  NO 2 , mM  Fe(II), mg/L  Cell protein, mg/L  Control  Experiment  Control  Experiment  Control  Experiment  Experiment  7 7 7 7  7 5.9 4.7 2.8  0 0 0 0  0 0.035 0.08 0.15  140 140 140 140  140 130 80 55  4 8.5 11 11  Table 2 
+elation between the decrease in the Fe(II) content and the biomass accumulation during anaerobic growth in the mineral media with N2O as an electron acceptor Fe(II), mg/L Time, days  Cell protein, mg/L  N2 in the gas phase, mM Control  Experiment  Control  Experiment  0  0.047  140  140  0  2  3  0.17  –  120  0  4  6  0.27  130  105  0  6  10  0.33  130  90  0  8  13  0.43  –  75  0  10  17  0.45  130  40  0  11  During organotrophic growth under anaerobic – – conditions, strain Hf1 reduced NO 3 only to NO 2 via the interrupted chain of denitrification. –  Accumulation of NO 2 inhibited growth of the –  ironoxidizing bacterium 
+arbon and nitrogen sources 
+uring aerobic orga notrophic growth, strain Hf1 utilized acetate, succi nate, citrate, lactate, malate, fumarate, propionate, pyruvate, butyrate, propanol, glycerol, a wide range of sugars, including ribose, xylose, D,Larabinose, D,Lglucose, dextrose, fructose, Lsorbose, galac  tose, Dmannose, 2deoxyglucose, sucrose, Dlac tose, trehalose, Dmaltose, cellobiose, melibiose, melizitose, Draffinose, Lrhamnose, L,CH3gluco side, Dglucuronic acid, Minositol, Merythritol, Larabitol, Dglucosamine, Nacetylglucosamine, as well as dextrin, glycogen, yeast extract, and pep tone, as carbon sources 
+eak growth was observed on media with some amino acids, including phenylala nine, tryptophan, and histidine 
+he strain was not able to utilize oxalate, formate, benzoate, ethanol, buthanol, proline, leucine, alanine, asparagine, glutamine, aspartic and glutamic acids, or casein hydrolysate 
+he predominant fatty acids were 11octadecenoic (18:1ω7с; 60.48%), hexadecanoic (16:0; 14.65%), and 11methyloctadecenoic (11Methyl 18:1ω7с; 10.94%) 
+he strain was sensitive to polymyxin, rifampicin, and tetramycin and resistant to amikacin, bacitracin, kanamycin, mycostatin, and penicillin 
+omparative analysis of the properties of strain Hf1T and the type strains of the described Hoeflea species Strain Hf1T DSM21587T  H. phototrophica DFL43T [30]  H. alexandrii DFL43T [31]  H. marina LMG 128T [32]  0.9–2.2 0.4 +  0.3–0.5 0.7–2.0 +  0.8 2.5 +  0.7–0.9 1.1–1.4 +  1% (0.1–8.5%) 30°C (9–38°C) 7.5 (6.2–8.5) + ± + + +  3% (0.5–7%) 31°C (25–33°C) 7.5 (6–9) – + + – ND  0–6.8% (0–11.8%) 30°C (10–42°C) 7 (6–9) – + – + ND  3% (0–5%) 28°C (4–40°C) 7 (6–8) ⎯ + + + ⎯  NO 3  +  –  –  –  N2O  +  ND  ND  ND  NO 2  –  ND  ND  ND  Bchl a pufL and pufM bchl a genes Main fatty acids: 16:0 18:1ω7c 11Methyl 18:1ω7c 19:0сус DNA G+C base content, mol % (Tm)  – +  + +  – ND  – ND  14.65 60.48 10.94 3.98 57.5  6.3 62.8 20.6 3.4 59.3  7.7 83.1 3.6 ND 59.7  4 76 7.5 5.6 53.1  Differentiating properties Cell size (mm) Length Width Motility Growth optima and ranges NaCl Temperature pH Anaerobic growth Catalase activity Oxidase activity Utilization of sugars Utilization of Fe(II) as an elec tron donor Electron acceptors –  –  Note: +, detected; ⎯, not detected; ND, not determined.  The results of comparative analysis of the pheno and genotypic characteristics of strain Hf1, and those of the closely related species [30–32], are listed in Table 3 
+enotypic and phylogenetic analysis 
+he levels of 16S rRNA similarity between strain Hf1 and H. phototrophica DFL43T, H. alexandrii AM1V30T, and H. marina LMG 128T were 98.5, 98.2, and 97.8%, respectively 
+he level of DNA–DNA homology between strain Hf1 and the type species H. marina was 19% 
+he con tents of the G+C base pairs in the DNA of strain Hf1 MICROBIOLOGY  Vol. 81  No. 1  2012  and the type species were 57.5 and 53.1 mol %, respec tively 
+ow ever, comparative analysis of the results of phenotypic and genotypic studies demonstrated that strain Hf1 differed considerably from the type species and the two other described species (Table 3) 
+mong the main physiological properties of this strain are its ability to utilize Fe(II) compounds as electron donors during lithotrophic growth, and its  64  SOROKINA et al. 0.02  Aminobacer aminovorans DSM 7048T (AJ011759)  100  Aminobacer lissarensis CC495T (AF107722)  83  Mesorhizobium mediterraneum UPMCa36T (L38825)  59  Mesorhizobium loti LMG 6125T (X67229) Pseudaminobacter defluvii THI 051T (D32248)  97  Pseudaminobacter salicylatoxidans BN12T (AF072542) Phyllobacterium catacumbae CSC19T (AY636000)  100  60  Phyllobacterium myrsinacearum IAM 13584T (D12789) Aquamicrobium defluvium DSM 11603T (Y15403)  100  Defluvibacter lusaliae DSM11099T (AJ132378) Hoeflea alexandrii AM1V30T (AJ786600) 100 100  Hoeflea siderophila sp. nov 
+he available data on the levels of DNA–DNA homology between strain Hf1 and the type species H. marina suggest similarly low levels of DNA–DNA homology may exist between the studied strain and H. phototrophica and H. alexandrii 
+he bacterium reproduces by binary division and is capable of producing rosettes 
+ptimal growth occurs within a pH range of 6.2–8.5 (with an optimum at 7.5), at 30°C (9–38°C) (with an optimum at 30°C), and in a salinity range of 0.1–8.5% NaCl (with an optimum at 1%) 
+he strain is able to grow under organotrophic and mixotrophic conditions with utilizing Fe(II) as an – electron donor via reduction of NO 3 and N2O and depositing iron oxides on the cell surface 
+he micro organism exhibits oxidase activity and low catalase activity 
+uring aerobic organotrophic growth, strain Hf1 utilizes acetate, succinate, citrate, lactate, malate, fumarate, propionate, pyruvate, butyrate, propanol, glycerol, a wide range of sugars, including ribose, xylose, D,Larabinose, D,Lglucose, dextrose, fructose, Lsor bose, galactose, Dmannose, 2deoxyglucose, sucrose, Dlactose, trehalose, Dmaltose, cellobiose, melibiose, melizitose, Draffinose, Lrhamnose, L,CH3glucoside, Dglucuronic acid, Minositol, Merythritol, Larabi tol, Dglucosamine, Nacetylglucosamine, as well as dextrin, glycogen, yeast extract, and peptone, as carbon sources 
+eak growth occurs in media with some amino acids (phenylalanine, tryptophan, and histidine) 
+he strain is unable to utilize oxalate, formate, benzoate, eth anol, buthanol, proline, leucine, alanine, asparagine, glutamine, aspartic and glutamic acids, or casein MICROBIOLOGY  Vol. 81  No. 1  2012  Hoeflea siderophila sp. nov., A NEW NEUTROPHILIC  hydrolysate 
+he strain is unable to utilize NO 2 , histidine, aspartic and glutamic acids, or casein hydrolysate 
+he predominant fatty acids are 11octadecenoic (18:1ω7с) 60.48%), hexadecanoic (16:0; 14.65%), and 11methyloctadecenoic (11Metyl 18:1ω7c) 10.94%) 
+he strain is sensitive to polymyxin, rifampi cin, and tetramycin and resistant to amikacin, bacitra cin, kanamycin, mycostatin, and penicillin 
+orokin for valuable advice and for help in the experiments, E.N 
+etkova for help with DNA/DNAhybridization, and G.A 
+albeck, L. and Pedersen, K., Autotrophic and Mix otrophic Growth of Gallionella ferruginea, J 
+merson, D. and Moyer, C., Isolation and Character ization of Novel IronOxidizing Bacteria That Grow at Circumneutral pH, Appl 
+obolev, D. and Roden, E.E., Characterization of a Neutrophilic, Chemolithoautotrophic Fe(II)Oxidiz ing BetaProteobacterium from Freshwater Wetland Sediments, Geomicrobiol 
+merson, D. and Moyer, C.L., Neutrophilic FeOxi dizing Bacteria Are Abundant at the Loihi Seamount Hydrothermal Vents and Play a Major Role in Fe Oxide Deposition, Appl 
+dwards, K.J., Rogers, D.R., Wirsen, C.O., and McCollom, T.M., Isolation and Characterization of Novel Psychrophilic, Neutrophilic, FeOxidizing, Chemolithoautotrophic α and γProteobacteria from the Deep Sea, Appl 
+merson, D., Weiss, J.V., and Megonigal, J.P., Iron Oxidizing Bacteria Are Associated with Ferric Hydrox ide Precipitates (FePlaque) on the Roots of Wetland Plants, Appl 
+eiss, J.V., Rentz, J.A., Plaia, T., Neubauer, S.C., Mer rillFloyd, M., Lilburn, T., Bradburne, C., Megonigal, J.P., and Emerson, D., Characterization of Neutrophilic Fe(II)Oxidizing Bacteria Isolated from the Rhizo sphere of Wetland Plants and Description of Fer ritrophicum radicicola gen. nov. sp. nov., and Sideroxy dans paludicola sp. nov., Geomicrobiol 
+merson, D., Rentz, J.A., Lilburn, T.G., Davis, R.E., Aldrich, H., Chan, C., and Moyer, C.L., A Novel Lin eage of Proteobacteria Involved in Formation of Marine FeOxidizing Microbial Mat Communities, PLoS ONE 2:e667. doi: 10.1371/journal.pone. 0000667. 10 
+enz, M., Brune, A., and Shinck, B., Anaerobic and Aerobic Oxidation of Ferrous Iron at Neutral pH by Chemoheterotrophic NitrateReducing Bacteria, Arch 
+eber, K.A., Hedrick, D.B., Peacock, A.D., Thrash, J.C., White, D.C., Achenbach, L.A., and Coates, J.D., Phys iological and Taxonomic Description of Novel Autotrophic, Metal Oxidizing Bacterium, Pseudogul benkiania sp 
+fennig, N. and Lippert, K.D., Über das Vitamin B12 Bedürfnis phototropher Schwefelbakterien, Arch 
+ Handbook on Habitats, Isolation, and Identification of Bacteria., Starr, M., Trüper, H., Balows, A., and Schle gel, H., Eds., Berlin: Springer, 1981, vol. 1, pp. 509– 515. 14 
+eznikov, A.A., Mulikovskaya, E.P., and Sokolov, I.Yu., Metody analiza prirodnykh vod (Methods of Analysis of Natural Waters), Moscow: Nedra, 1970. 15 
+urillo, F.M., Gugliuzzo, T., Basu, P., and Stolz, J.F., A HemeCContaining Enzyme Complex That Exhib its Nitrate and Nitrite Reductase Activity from the Dis similatory IronReducing Bacterium Geobacter metal lireducens, Arch 
+riesRomijnvan Eck., Physiological and Chemical Test for Drinking Water, NEN 1056, IY2 Nederlandse Normalisatie Instituut Rijswijk, 1966. 17 
+ennis, M.T., Arnaud, S.D., and Malatesta, F.J., Hydrogen Peroxide Is the End of Oxygen Reduction by the Terminal Oxidase in the Marine Bacterium Pseudomonas palustris Strain 617, FEBS Lett., 1989, vol. 247, pp. 475–479. 18 
+uft, J.U., Ruthenium Red and Violet 
+tead, D.E., Shellwood, J.E., Willson, J., and Winey, I., Evalution of a Commercial Microbial Identification System Based on Fatty Acid Profiles for Rapid, Accu rate Identification of Plant Pathogenic Bacteria, J 
+ej, A.K., Mahbubani, M.H., Dicesare, J.L., and Atlas, R.M., Polymerase Chain ReactionGene Probe  66  SOROKINA et al 
+usubel, F.M., Brent, R., Kingston, R.E., Moore, D.D., Seidman, J.G., Smith, J.A., and Struhl, K., Current Protocols in Molecular Biology, New York: Wiley, 1994. 23 
+wen, R.J., Hill, L.R., and Lapage, S.P., Determina tion of DNA Base Composition from Melting Profiles in Dilute Buffers, Biopolymers, 1969, vol. 7, pp. 503– 516. 24 
+e Ley, J., Cattoir, H., and Reynaerts, A., The Quanti tative Measurements of DNA Hybridization from Renaturation Rates, Eur 
+ane, D.G., 16S/23S rRNA Sequencing, in Nucleic Acid Techniques in Bacterial Systematics, Stackebrandt, E. and Goodfellow, M., Eds., Chichester: Wiley, 1991, pp. 115–175. 26 
+edlin, L., Elwood, H.J., Stickel, S., and Sogin, M.L., The Characterization of Enzymatically Amplified Eukaryotic 16SLike rRNACoding Regions, Gene, 1988, vol. 71, pp. 491–499. 27 
+hompson, J.D., Gibson, T.J., Plewniak, F., Jeanmou gin, F., and Higgins, D.G., The CLUSTAL_X Win dows Interface: Flexible Strategies for Multiple Sequence Alignment Aided by Quality Analysis Tools, Nucleic Acid Res., 1997, vol. 25, pp. 4876–4882.  28 
+an de Peer, Y. and De Wachter, R., TREECON for Windows: A Software Package for the Construction and Drawing of Evolutionary Trees for the Microsoft Win dows Environment, Comput 
+inger, T.P. and Gutman, H., The DPNH Dehydroge nase of the Mitochondrial Respiratory Chain, Adv 
+iebl, H., Tindal, B.J., Pukall, R., Lünsdorf, H., All gaier, M., and WagnerDöbler, I., Hoeflea phototrophica sp. nov., a Novel Marine Alphaproteobacterium That Forms Bacteriochlorophyll a, Int 
+alacios, L., Arahal, D.R., Reguera, B., and Marín, I., Hoeflea alexandrii sp. nov., Isolated from the Toxic Dinoflagellate Alexandrium minutum AL1V, Int 
+eix, A., Rivas, R., Trujillo, M.E., Vancanneyt, M., Velázquez, E., and Willems, A., Reclassification of Agrobacterium ferrugineum LMG 128 as Hoeflea marina gen. nov., sp. nov., Int 
+tackebrandt, E. and Ebers, J., Taxonomic Parameters Revisited: Tarnished Gold Standards, Microbiol 
+indall, B.J., RossellóMóra, R., Busse, H.J., Lud wing, W., and Kämpfer, P., Notes on the Characteriza tion of Prokaryote Strains for Taxonomic Purpose, Int 
+ubininaa a  Winogradsky Institute of Microbiology, Russian Academy of Sciences, pr. 60letiya Oktyabrya 7, k. 2, Moscow, 117312 Russia b Voronezh State University, Universitetskaya pl.1, Voronezh, 394006 Russia Received May 30, 2011  Abstract—A new representative of neutrophilic ironoxidizing bacteria was isolated from the ironcontaining sediments of the brackish lowtemperature ironrich spring of the Staraya Russa Resort (Novgorod region, Russia) 
+ccording to phylogenetic analysis based on the comparison of the 16S rRNA gene sequences, the strain was closest to the organotrophic marine bacterium Hoeflea phototrophica (98.5% simi larity) 
+he level of DNA–DNA homology with the type species of the genus Hoeflea was 19% 
+he GenBank accession number for the 16S rRNA gene sequences of strain Hf1T is EU670237 
+OI: 10.1134/S0026261712010146  The capacity for utilizing Fe(II) as an inorganic electron donor in the electron transport chain is shared by a small number of bacteria belonging to sev eral taxonomic groups 
+p to the end of the 1980s, lithotrophic ironoxidizing bacteria were represented only by acidophilic microorganisms growing at a pH of less than 4.5, when Fe(II) is resistant to chemical oxidation with the oxygen of air 
+ince the end of the 1980s, some attempts have been made to apply the radioisotope method with 14СO2 to confirm that the previously described ironoxidizing bacterium Gal lionella ferruginea [1] could grow chemolitho autotrophically with Fe(II) as an energy source under neutral ambient conditions [2] 
+n the present work, the results of our study of the new strain of neutrophilic facultatively anaerobic ironoxidizing bacteria isolated from the brackish, lowtemperature, ironrich spring of the Staraya Russa Resort (Novgorod region, Russia) are pre sented.  –  under anaerobic conditions via reduction of NO 3 as an electron acceptor 
+nder natural conditions, growth is usually detected at the boundary of the redox zone in such aquatic ecosystems as sediments formed where groundwater is brought to the surface [3, 4], 1  Corresponding author; email: asorokina83@mail.ru  59  60  SOROKINA et al.  MATERIALS AND METHODS Isolation source 
+he spring is allied with the water bearing bed of the ancient Devon sea 
+otal mineral ization of the water was 20 g l–1; the water temperature varied from 11 to 14°C; pH was 7.0; oxygen was not detected near the spring outlet 
+he Fe(II) content in the water was 3 mg l–1 
+efore inoculation, the medium was supplemented with the fresh sterile FeS suspension [13] (0.2 mL per 10 mL of medium) 
+he pure culture of strain Hf1 was isolated with tenfold dilutions on the abovedescribed agarized medium; the obtained ochreous colonies were trans ferred to liquid medium 
+ltrathin sections were obtained using the standard methods 
+he ability of ironoxidizing bacteria to utilize various carbon sources was tested using the abovedescribed mineral medium 
+he content of Fe(II) in the water samples was determined on a KFK3 spectrophotometer (Russia) using α,αdipyridyl [14] 
+he concentration of dissolved oxygen was deter mined with a Hanna HI 9142 oximeter (Finland) at the sampling site; the pH of the water was determined with a portable Hanna Checker 1 pH meter (Finland) 
+he content of N2 in the gas phase was determined using a Kristall 5000.1 gas chromatograph (Chro matec, Russia).  –  –  The contents of NO 3 , NO 2 were determined on a Staier liquid anion exchange chromatograph (Russia) 
+esistance to antibiotics was determined using the test discs (Difco Laboratories, United States) [19] 
+rotein content was determined by the Lowry method 
+NA was extracted by the phenol method [22] 
+he DNA G+C base content was determined by the method of Owen et al. [23] 
+he DNA homology level was determined by the optical reassociation method [24] 
+etermination of the 16S rRNA gene sequences was carried out on a CEQ 2000 XL automatic sequencer (Beckman Coulter, United States) according to the manufacturer’s instructions 
+he obtained 16S rRNA gene sequences were aligned using the Clustal W software package [27] 
+he phylogenetic tree was constructed by the methods implemented in the Treecon software package [28] 
+he total number of ironoxidizing bacteria in the spring water did not exceed 10 cells/mL; in the ironcontaining precipitates, it was 105–107 cells/mL 
+or the isolation of ironoxidizing bacteria, samples of fresh ochreous sediments collected near the outlet of the ironrich spring were used as inoculum 
+n the agarized medium, the strain produced small (1–3 mm in diameter), dense spherical colonies, orangecolored due to the formation of iron oxides 
+n the liquid medium of the same composition, an ochre ous precipitate was formed 
+uring growth in the medium with ferrous iron, iron oxides were deposited on the cell surface (Fig. 1b) 
+he cell wall is of the gramnegative type 
+he temperature range for the growth of strain Hf1 was 9–38°C, with an optimum at 30°C; the pH range for growth was 6.2–8.5, with an MICROBIOLOGY  Vol. 81  No. 1  2012  optimum at 7.5 
+uring growth in the mineral medium, H2 was not utilized as an electron donor.  62  SOROKINA et al.  Table 1 
+ccording to the results of phylogenetic analysis based on the com parison of the 16S rRNA gene sequences, strain Hf1 belonged to the cluster of the genus Hoeflea (Fig. 2), but formed a separate branch within this genus 
+ISCUSSION The isolated strain of neutrophilic facultative anaerobic ironoxidizing bacteria shared common properties with members of the genus Hoeflea 
+eighbourjoining phylogenetic tree based on 16S rRNA gene sequences, showing the position of Hoeflea siderophila sp. nov 
+f1T within the family Phyllobacteriaceae 
+he numbers at the branching points show the significance of the branching order as determined by bootstrap analysis 
+espite 1.3% dif ference in their 16S rRNA gene sequences, the level of DNA–DNA homology between the majority of bacte rial taxa is lower than 70% [33] 
+he results obtained support classification of strain Hf1Т within the genus Hoeflea, family Phyllobacteri aceae, order Rizobiales of the class Alphaproteobacteria as a new species Hoeflea siderophila sp. nov 
+he cell wall structure is of the gramnegative type 
+uring growth in the mineral medium, H2 is not utilized as an electron donor 
+he GenBank accession number for the 16S rRNA gene sequences of strain 21587T is EU670237 
+his work was supported by the Russian Founda tion for Basic Research, project no. 100401500 
+flT (EU670237)  100 75  Hoeflea phototrophica DFL43T (ABIA02000018) Hoeflea marina LMG 128T (AY598817) Nitratireductor aquibiodomus NL21T (AF534573)  Bradyrhizobium japonicum LMG 6138T (X66024) Fig. 2 
+tg., 1888, vol. 46, pp. 261–270. 2 
+he type strain is Hf1T (=DSM 21587 = VKM A7094) 
+he type strain is Hf1T (=DSM 21587T = VKM A7094T) 
+he organism is a faculta  tive anaerobe 
+hen –  NO 3 was replaced with N2O, chemical oxidation of Fe(II) was insignificant (Table 2) 
+ar, 0.02 substitutions per nucleotide position.The tree was rooted using Bradyrhizobium japonicum LMG6138T (X66024) as an outgroup.  –  ability to utilize NO 3 as an electron acceptor under anaerobic conditions 
+he isolate grew at a NaCl concentra tion of 0.1–8.5%, with an optimum at 1% 
+he DNA G + C base content was 57.5 mol % 
+ll known strains are mixotrophs; capacity for chem olithoautotrophic growth was strictly confirmed only for two species [2, 8] 
+orokinaa,1, E 

@@ -1,0 +1,76 @@
+aterials and Methods Isolation and characterization of T4 Phototrophic bacteria were enriched from a waste water pond [depth 1.5 m, pH 7.6 ð 0.4, 28 ∞C, organic load (1200 ð 600) mg/l BOD (biological oxygen demand), 3Ð6 mg/l sulfide] in Laphu, Hoaiduc, HaTay province (Vietnam) by anaerobic growth in light in screw cap tubes or bottles filled with a medium containig (g/l): KH2PO4 (1.0); MgCl2 · 6H2O (0.5); CaCl2 · 2H2O (0.1); NH4Cl (1); NaCl (1); NaHCO3 (1); Na-acetate (3); 1 ml vitamin solution; 1 ml trace element solution (Trüper and Imhoff, 1989); at pH 6.8Ð7.2 
+omparative physiological characterization of Rhodocista centenaria, R. pekingensis and T4 Growth tests with different C (36.5 mm) or N (18 mm) sources (see Table I) were carried out at 30 ∞C in liquid cultures under aerobic heterotrophic (5 ml on a rotary shaker) or anaerobic phototrophic conditions (8 ml screw cap bottles without gas phase, illumination by a tungsten lamp) with the medium as described above, omitting NH4Cl when testing N sources, and omitting acetate when testing C sources 
+yst formation of T4 Cyst formation was induced as described by Berleman and Bauer (2004), by aerobic mainte-  nance for several days at 42 ∞C on plates containing NH4Cl and butyrate as N and C sources, respectively 
+omparative studies of Rhodocista strains Survival at non-growing conditions In a comparative set of experiments the three strains were plated on agar plates containing NH4Cl and butyrate, and incubated at 42 ∞C for 4 months, so that the plates dried completely 
+Physiological Versatility of the Genus Rhodocista Thi To Uyen Doa,*, Van Nhi Trana, and Diethelm Kleinerb a b  Photobiology Laboratory, National Center of Natural Science and Technology, Hanoi, Vietnam 
+-mail: dothitouyen@yahoo.com Mikrobiologie, Universität Bayreuth, D-95440 Bayreuth, Germany  * Author for correspondence and reprint requests Z 
+aturforsch. 62 c, 571Ð575 (2007); received August 25, 2006/February 1, 2007 A new purple bacterium (strain T4), capable of heterotrophic aerobic and phototrophic anaerobic growth, was isolated from waste water of a noodle factory near Hanoi, Vietnam 
+omparative studies of T4 with Rhodocista centenaria (Rhodospirillum centenum) and Rhodocista pekingensis revealed a remarkable physiological versatility regarding nutrient spectra and survival properties of this genus 
+he spiral-shaped strains among them were formerly collected in the genus Rhodospirillum (Trüper and Imhoff, 1989) 
+hen, however, more isolates of this group had been analyzed biochemically and genetically Ð especially by sequencing of 16S rDNA Ð it became evident, that description of the genus Rhodospirillum had to be revised: new genera like Rhodospira (Pfennig et al., 1997) or Rhodocista (Kawasaki et al., 1992) were established 
+o far two Rhodocista sp. have been described: R. centenaria and R. pekingensis (Zhang et al., 2003) 
+ased on the use of 16S rRNA-targeted oligonucleotide probes (Stoffels et al., 2001) and the 16S rDNA sequences a distance matrix tree shows close phylogenetic relationships of Rhodocista with Azospirillum (see Fig. 1 and http://www.ncbi.nlm.nih.gov/blast/treeview/blast_ tree_view.cgi?request=page&rid=1155726842Ð 25814Ð85101723765.BLASTQ4&dbname=nr& queryID=lcl|1_25814&distmode=on&screen Width=1024). 0939Ð5075/2007/0700Ð0571 $ 06.00  We here report: (i) isolation and characterization of a novel bacterium of the Rhodocista group (strain T4), which differs considerably from the species mentioned above, and therefore is proposed to form a novel species, tentatively named Rhodocista hanoiensis, and (ii) extensive comparative studies which document the interesting versatility and adaptability of the members of the genus Rhodocista 
+amples were diluted and streaked on agar plates which were incubated anaerobically (under N2) at 30 ∞C in light from tungsten lamps 
+ink-reddish colonies were selected and repeatedly streaked on plates and incubated anaerobically until they appeared pure as judged by microscopic inspection.  ” 2007 Verlag der Zeitschrift für Naturforschung, Tübingen · http://www.znaturforsch.com · D  Unauthenticated Download Date | 2/16/18 1:06 AM  572  T 
+istance matrix tree showing the position of Rhodocista T4 (adapted from http://www.ncbi.nlm.nih.gov/blast/ treeview/blast_tree_view.cgi?request=page&rid=1155726842Ð25814Ð85101723765.BLASTQ4&dbname=nr&query ID=lcl|1_25814&distmode=on&screenWidth=1024).  Purity of strains was also demonstrated by uniformity of growth on plates and of morphology of cells after growth on selective media (see below) 
+xpression of pigments as function of oxygen content in the gas phase was assessed by incubation under 0, 2.5, 5, 8, 10, 15 and 20% O2 in the light 
+NA was isolated and purified according to standard techniques (Sambrook et al., 1989) 
+ fragment of 16S rDNA was amplified and sequenced using standard primers described by Wittke et al. (1997) 
+he sequence was deposited in the EMBL gene bank and received the accession number AJ580798 
+hen testing for vitamin requirement, the vitamin solution (Trüper and Imhoff, 1989) was omitted as well.  Miscellaneous techniques Absorption spectra were recorded using intact cells grown under phototrophic conditions and resuspended in a 60% sucrose solution 
+orphology and structure were observed by optical microscopy 
+esults Characterization of Rhodocista T4 16S rDNA sequence alignments From the enrichment cultures various strains of the genera Rhodopseudomonas, Rhodospirillum and Rhodobacter could be isolated as described 
+J401217, AJ401204) and Rhodocista pekingensis (acc. no 
+F523824; Zhang et al., 2003), and 97% similarity with Rhodocista centenaria (acc. no 
+o et al. · Physiology of Rhodocista  573  and un-characterized Rhodocista sp. (acc. nos 
+ther properties of strain T4 Vegetative cells of T4 had a vibroid to rod shape with dimensions of (0.7 ¥ 2) μm under aerobic (Fig. 2a) and (0.7 ¥ 4) μm under anaerobic growth conditions (Fig. 2b) 
+n vivo absorption spectra of anaerobically cultivated cells showed maxima at 410, 480, 510, 590, 800 and 875 nm, indicative of the presence of bacteriochlorophyll a and spirilloxanthin-like pigments 
+heir development closely followed the pattern as cited above: after 1 d some cells began to swell (Fig. 2c) and finally formed tetrads like R. centenaria (Figs. 2d, e) 
+ells were scraped off, transferred into LB (Luria-Bertani) medium and incubated aerobically 
+rowth was visible after 2 d (R. pekingensis and T4) or after 5 d (R. centenaria) 
+ and N spectra of Rhodocista strains 
+erobic growth in liquid cultures (5 ml on a rotary shaker) was conducted with cells pre-grown in an ammonium/acetate medium and washed twice with water to remove all nutrients 
+esults in square brackets are from Favinger et al. (1989) (R. centenaria, Rce), Stadtwald-Demchick et al. (1990) (Rce), and Zhang et al. (2003) (R. pekingensis, Rpk) 
+ight microscopic appearance of Rhodocista T4 (stained with carbol fuchsin) after growth at different conditions: (a) after aerobic cultivation for 3 d in liquid ammonium/acetate medium (30 ∞C); (b) after anaerobic cultivation for 3 d in liquid ammonium/acetate medium (30 ∞C); (c) after 1 d on ammonium/butyrate plate (42 ∞C); (d) after 2 and 3 d on ammonium/butyrate plate (42 ∞C); (e) after 3 d or more on ammonium/butyrate plate (42 ∞C).  nium butyrate medium and supplied with 10% NaCl 
+fter resuspension in water, aliquots were transferred to LB medium and incubated 
+icroscopic inspections showed that cultures were pure and showed the typical characteristics of the original strains 
+tilization of C and N sources The spectrum of C and N sources for the Rhodocista strains, especially T4 is rather wide (Table I): apart from many mono- and dicarboxylic acids, the organisms can use a number of carbohydrates and benzoate as C and most amino acids as N sources 
+iscussion The 16S rDNA sequence data as well as the physiological characteristics and ability of cyst formation demonstrate, that T4 is a novel species belonging to the genus Rhodocista 
+he physiological comparison reveals a remarkable versatility as to C and N source utilization of this genus 
+hodocista species are methylotrophs, being able to aerobically use methanol, formiate and methylamine as C sources 
+urthermore because of their ability to form cysts, all strains can survive severe drought and salt stress 
+auer (Bloomington, IN, USA) and Liu (Beijing, China) for strains of R. centenaria and R. pekingensis, respectively.  Rce  Rpk  T4  biotin + B12 39Ð45 1 ¥ 2Ð3 6.8  thiamin + B12 31Ð42 0.6Ð0.8 ¥ 0.8Ð1.5 7.0  none 32Ð35 0.6Ð0.8 ¥ 2Ð4 7.2Ð7.5  Table II 
+omparison of miscellaneous physiological properties of R. centenaria (Rce), R. pekingensis (Rpk) and strain T4.  Unauthenticated Download Date | 2/16/18 1:06 AM  T 
+. and Bauer C 
+avinger J., Stadtwald R., and Gest H. (1989), Rhodospirillum centenum, sp. nov., a thermotolerant cyst-forming anoxygenic photosynthetic bacterium 
+awasaki H., Hoshino Y., Kuraishi H., and Yamasato K. (1992), Rhodocista centenaria gen. nov. sp. nov., a cystforming anoxygenic phototrophic bacterium and its phylogenetic position in the proteobacteria alpha group 
+awasaki H., Hoshino Y., and Yamasato K. (1993), Phylogenetic diversity of phototrophic purple non-sulfur bacteria in the proteobacteria alpha group 
+fennig N., Lunsdorf H., Suling J., and Imhoff J 
+., and Maniatis T. (1989), Molecular Cloning: a Laboratory Manual 
+., and Gest H. (1990), Physiological properties of the thermotolerant photosynthetic bacterium, Rhodospirillum centenum 
+., and Burris R 
+toffels M., Castellanos T., and Hartmann A. (2001), Design and application of new 16S rRNA-targeted oligonucleotide probes for the Azospirillum-Skermanella-Rhodocista-cluster 
+. and Imhoff J 
+., Pfennig N., and Holt J 
+ittke R., Ludwig W., Peiffer S., and Kleiner D. (1997), Isolation and characterization of Burkholderia norimbergensis sp. nov., a mildly alkaliphilic sulfur oxidizer 
+hang D., Zhang W., Yang H., Huang Z., and Liu S 
+ comparison of 16S rDNA sequences revealed its association with the genus Rhodocista 
+n contrast to other species of this genus T4 does not need any supplines (growth factors, not synthesized by the organisms) 
+hey constitute a phylogenetically heterologous group, being found in three of the five proteobacteria classes together with heterotrophic genera (Kawasaki et al., 1993) 
+itrogen fixation was measured by the acetylene reduction technique as described by Stewart et al. (1968) 
+epeated PCR of its 16S rDNA yielded a 1491 bp fragment, the sequence of which, according to a BLAST databank search, showed 99% similaritiy with a vitamin B12 Ð requiring unpublished strain (“Rhodocista xerospirillum”, acc. no 
+roduction of red pigments was O2-dependent: the pigments appeared only in a gas phase containing less than 5% O2 
+. (2004), Characterization of cyst cell formation in the purple photosynthetic bacterium Rhodospirillum centenaria 
+. (1997), Rhodospira trueperi gen. nov., spec. nov., a new phototrophic proteobacterium of the alpha group 
+rüper H 
+o et al. · Physiology of Rhodocista  Fig. 2 
+ike other phototrophs, T4 is able to fix N2 anaerobically 
+. is grateful for a DAAD grant 
+edium  Aerobic growth of  N source  C source  LB medium NH4+ NH4+ NH4+ NH4+ NH4+ NH4+ NH4+ NH4+ NH4+ NH4+ Arginine Glutamate Methylamine NO3Ð NO3Ð NO3Ð NO3Ð NO3Ð NO3Ð NO3Ð N2 NH4+ + 2% NaCl NH4+ + 4% NaCl NH4+ + 6% NaCl  LB medium Glucose Fructose Sucrose Formiate Acetate Butyrate Benzoate Citrate Methanol Ethanol Arginine Glutamate Methylamine Formiate Acetate Benzoate Fructose Glycerol Sucrose Glucose Acetate Acetate Acetate Acetate  Anaerobic growth of  Rce  Rpk  T4  Rce  Rpk  T4  + + + + + + + + + Ð + + + + + + +  + + + + Ð + + + + + + + + + + + +  + + + + + + + + + + + + + + + + +  + Ð [+] [+] Ð + [+] + [+] [+] [+]  + Ð [Ð]  + + + + Ð + + + +  + Ð Ð  + + [Ð] Ð  [+] + [+] + [+] Ð  [Ð] Ð [Ð] + [+] + [+] [Ð] [Ð] [Ð] [Ð] [+]  + + + Ð  +  +  Ð + + + [+]  + + Ð + +  [+]  + + Ð  +, Growth after 5 d; Ð, no growth after 5 d.  Unauthenticated Download Date | 2/16/18 1:06 AM  574  T 
+he vegetative cells form short (under aerobic conditions) or long curve-shaped rods 
+n contrast to other Rhodocista, T4 does not require any supplines like vitamins (Table II).  Characteristic Vitamin requirement Optimum growth temperature [∞C] Cell diameter ¥ length pH Optimum  Miscellaneous Apart from vitamin requirement other characteristic differences are listed in Table II 
+he isolate, tentatively named “Rhodocista hanoiensis”, forms cysts after growth on butyratecontaining plates at 42 ∞C 
+ur attention was drawn to an isolate capable of heterotrophic growth on benzoate, called strain T4 
+hese cysts resumed vegetative growth when cultivated at optimum temperatures 
+naerobic growth in liquid cultures (8 ml screw cap bottles without gas phase) was conducted with cells treated as above 
+ambrook J., Fritsch E 
