@@ -1,23 +1,35 @@
-he effects of elevated CO2 concentration on competitive interaction between aceticlastic and syntrophic methanogenesis in a model microbial consortium 
- he amounts of CH4 produced from 5 mM of benzoate, vanillate, and syringate were 17.1 ±  0.5, 18.4 ±  0.3, and 20.1 ±  0.3 mmol l−1, respectively, and were approximate to the theoretical values (18.75, 20, and 22.5 mmol l−1, respectively) calculated from the following equations:  C 7H5O 2−(benzoate) + 7.75H 2O → 3.75CH 4 + 3.25HCO3− + 2.25H +, C 8H7O 4−(vanillate) + 8H 2O → 4CH 4 + 4HCO3− + 3H +, C 9H9O5−(syringate) + 8.5H 2O → 4.5CH 4 + 4.5HCO3− + 3.5H + 
- roduction of CH4 (filled circles) and acetate (open squares) were monitored during the incubation of respective enrichment cultures supplemented with 5 mM of benzoate (A), vanillate (B), or syringate (C) 
- he cultures were incubated with 5 mM of vanillate (A) or syringate (B), and portions of the enrichments were corrected at the start, day 10, and day 24 or at the start, day 3, and day 10, respectively 
- he supernatant of enrichment of vanillate and syringate were analyzed by HPLC with detection at 220 nm and 270 nm, respectively 
- CA (open squares, (A)) and gallate (filled circles, (A)) were supplemented with 5 mM at day 0 
- nrichment cultures on PCA and gallate were constructed with vanillate- and syringate-enrichments as the inoculum, respectively, and generated considerable amounts of CH4 within 40 days (Fig. 3A) 
- he dominant phylotypes (>10% in at least one enrichment) and their closest relatives (sequence identity, %) are shown in the legends.  supplementation of 1 mM catechol 
- n this case, methanogenesis started with approximately a 20-day lag phase and plateaued at around 40 days of cultivation (Fig. 3B) 
- ethanogenic microbial com-  munities were enriched in serum bottles (68 ml in capacity) filled with 20 ml of a bicarbonate- and HEPES-buffered freshwater basal medium (pH 7.0)54 supplemented with aromatic compounds (benzoate, vanillate, or syringate) as a substrate 
- egradation products of vanillate and syringate were detected at the wavelength of 220 nm and 270 nm, respectively 
- n the ESI-MS analysis, mass spectra were obtained by negative and positive modes with the following settings: capillary voltage, 3.0 kv; cone voltage, 10 to 40 V; source temperature, 120 °C; desolvation temperature, 350 °C; desolvation gas flow rate, 650 liter h−1; and cone gas flow rate, 50 liter h−1 
- ither lignin-derived methoxylated aromatics (5 mM of vanillate or syringate) or a control aromatic compound (5 mM of benzoate) were supplemented as the substrates 
- fter several weeks of cultivation, CH4 was produced in all of the cultures supplemented with aromatics (Fig 
- cetate accumulated in the enrichment cultures to 8 to 12 mM during methanogenesis, followed by the complete consumption of the accumulated acetate (Fig. 1A–C), indicating that acetate is one of the important intermediates of methanogenic degradation of the aromatic compounds 
- n the vanillate enrichment cultures, two peaks (compound I, II) appeared at day 10, followed by an appearance of another peak (compound III) at day 24 (Fig. 2A) 
- atechol (filled triangles, (B)) was supplemented with 1 M at the time points represented by arrows 
+ormic acid 0.1 % was added to the mobile phase solvent as a means of increasing ionization efficiency for ESI-MS 
+ he effects of elevated CO2 concentration on competitive interaction between aceticlastic and syntrophic methanogenesis in a model microbial consortium 
+ he amounts of CH4 produced from 5 mM of benzoate vanillate and syringate were 17.1 ± 0.5 18.4 ± 0.3 and 20.1 ± 0.3 mmol l−1 respectively and were approximate to the theoretical values 18.75 20 and 22.5 mmol l−1 respectively calculated from the following equations C 7H5O 2− benzoate + 7.75H 2O → 3.75CH 4 + 3.25HCO3− + 2.25H + C 8H7O 4− vanillate + 8H 2O → 4CH 4 + 4HCO3− + 3H + C 9H9O5− syringate + 8.5H 2O → 4.5CH 4 + 4.5HCO3− + 3.5H + 
+ roduction of CH4 filled circles and acetate open squares were monitored during the incubation of respective enrichment cultures supplemented with 5 mM of benzoate A , vanillate B , or syringate C 
+ he cultures were incubated with 5 mM of vanillate A or syringate B and portions of the enrichments were corrected at the start day 10 and day 24 or at the start day 3 and day 10 , respectively 
+ he supernatant of enrichment of vanillate and syringate were analyzed by HPLC with detection at 220 nm and 270 nm respectively 
+ he retention times of compound I II III IV and V were 1.43 2.40 3.34 1.53 and 0.98 min respectively 
+ CA open squares A and gallate ( filled circles ( A ) ) were supplemented with 5 mM at day 0 
+ nrichment cultures on PCA and gallate were constructed with vanillate- and syringate-enrichments as the inoculum respectively and generated considerable amounts of CH4 within 40 days Fig . 3A 
+ he dominant phylotypes > 10 % in at least one enrichment and their closest relatives sequence identity % are shown in the legends . supplementation of 1 mM catechol 
+ n this case methanogenesis started with approximately a 20-day lag phase and plateaued at around 40 days of cultivation Fig . 3B 
+ he amount of CH4 produced from PCA 5 mM gallate 5 mM and catechol 1 mM were 15.5 ± 0.5 14.4 ± 0.5 and 2.8 ± 0.3 mmol l−1 respectively and were approximate to the theoretical values 16.25 15 and 3.25 mmol l−1 respectively calculated from the following equations C 7H5O 4− PCA + 7.25H 2O → 3.25CH 4 + 3.75HCO3− + 2.75H + , C 7H5O5− gallate + 7H 2O → 3CH 4 + 4HCO3− + 3H + , C 6H6O 2 catechol + 6.25H 2O → 3.25CH 4 + 2.75HCO3− + 2.75H + 
+ he phylotypes classified as hydrogenotrophic methanogens namely the phylotype ArA-02 97.9 % identity to Methanoculleus palmolei and ArA-03 97.5 % identity to Methanocella arvoryzae , were also detected from all enrichment cultures 
+ he predominant bacterial phylotype in the benzoate-enrichments was the phylotype ArB-25 Fig . 4B and Table S2 , which is classified into the class Deltaproteobacteria and has 99.0 % identity to Syntrophus aciditrophicus 
+ he bar indicates 2 % sequence divergence . decompose benzoate into acetate and H2/CO2 which is further converted into CH4 by aceticlastic and hydrogenotrophic methanogens 
+ mong the Firmicutes phylotypes the phylotype ArB-01 99.6 % identity to Sporomusa sphaeroides and ArB-02 89.8 % identity to Sporomusa paucivorans were abundantly detected from vanillate- and syringate-enrichments but not from enrichments with their degradation intermediates 
+ he dominant phylotypes ArB-04 96.8 % identity to Pelotomaculum schinkii and ArB-06 98.4 % identity to Cryptanaerobacter phenolicus were clustered into the Desulfotomaculum subcluster Ih31 
+ he other dominant phylotype ArB-05 97.9 % identity to Desulfosporosinus auripigmenti was separately clustered from ArB-04 and -06 and affiliated with genus Desulfosporosinus Fig . 5A 
+ ne of the phylotypes ArB-08 was not clustered with known Ruminococcaceae isolates and has only quite low 16S rRNA gene sequence identity to isolated microorganisms 92.0 % identity to Acetivibrio sp . 6–13 
+ ethanogenic microbial com- munities were enriched in serum bottles 68 ml in capacity filled with 20 ml of a bicarbonate- and HEPES-buffered freshwater basal medium pH 7.0 54 supplemented with aromatic compounds benzoate vanillate or syringate as a substrate 
+ egradation products of vanillate and syringate were detected at the wavelength of 220 nm and 270 nm respectively 
+ n the ESI-MS analysis mass spectra were obtained by negative and positive modes with the following settings capillary voltage 3.0 kv cone voltage 10 to 40 V source temperature 120 °C desolvation temperature 350 °C desolvation gas flow rate 650 liter h−1 and cone gas flow rate 50 liter h−1 
+ ither lignin-derived methoxylated aromatics 5 mM of vanillate or syringate or a control aromatic compound 5 mM of benzoate were supplemented as the substrates 
+ fter several weeks of cultivation CH4 was produced in all of the cultures supplemented with aromatics Fig 
+ cetate accumulated in the enrichment cultures to 8 to 12 mM during methanogenesis followed by the complete consumption of the accumulated acetate Fig . 1A–C , indicating that acetate is one of the important intermediates of methanogenic degradation of the aromatic compounds 
+ n the vanillate enrichment cultures two peaks compound I II appeared at day 10 followed by an appearance of another peak compound III at day 24 Fig . 2A 
+ atechol filled triangles ( B ) was supplemented with 1 M at the time points represented by arrows 
  eneration of PCA at day 10 suggests that O-demethylation of vanillate is the first step of vanillate degradation 
- lthough enrichment cultures on catechol was also constructed using the vanillate-enrichments as the inoculum, the cultures supplemented with 5 mM catechol produced only little amounts of CH4 with a long lag time (> 50 days, data not shown) 
- ince cytotoxicity of relatively high concentration of catechol was considered as the reason for the low methanogenic activity, another set of enrichment cultures was constructed with Scientific Reports | 5:14295 | DOI: 10.1038/srep14295  4  www.nature.com/scientificreports/  Figure 4 
- fter saturation of methanogenesis, another 1 mM of catechol was added to the culture, which resulted in resumption of methanogenesis with almost no lag time 
- hen methanogenesis reached a plateau, 0.5 ml of culture solution was transferred to the fresh media 
+ lthough enrichment cultures on catechol was also constructed using the vanillate-enrichments as the inoculum the cultures supplemented with 5 mM catechol produced only little amounts of CH4 with a long lag time > 50 days data not shown 
+ ince cytotoxicity of relatively high concentration of catechol was considered as the reason for the low methanogenic activity another set of enrichment cultures was constructed with Scientific Reports | 5:14295 | DOI 10.1038/srep14295 4 www.nature.com/scientificreports/ Figure 4 
+ fter saturation of methanogenesis another 1 mM of catechol was added to the culture which resulted in resumption of methanogenesis with almost no lag time 
+ he phylotype ArA-01 98.9 % identity to Methanosarcina vacuolata which dominated in all enrichment cultures , was the only phylotype classified as an aceticlastic methanogen 
+ he other dominant phylotype ArB-09 97.1 % identity to Intestinimonas butyriciproducens was placed within the “ Clostridium cluster IV44,45 ” 
+ hen methanogenesis reached a plateau 0.5 ml of culture solution was transferred to the fresh media 
  

@@ -1,16 +1,23 @@
-crossmark  Draft Genome Sequence of Hoeflea sp 
-raft genome sequence of Hoeflea sp. strain BAL378, a potential producer of bioactive compounds 
-ddress correspondence to Mikkel Bentzon-Tilia, mibti@bio.dtu.dk.  T  he genus Hoeflea belongs to the Phyllobacteriaceae family of the Alphaproteobacteria 
-ased on 16S rRNA gene sequence similarity, the Pseudorhodobacter genus did not, however, include the strain A. ferrugineum LMG 128, which subsequently became the type species of the Hoeflea genus, Hoeflea marina LMG 128 (1) 
-urrently, the Hoeflea genus represents seven species, all of which are isolated from marine and estuarine environments (1, 3–8) 
+crossmark Draft Genome Sequence of Hoeflea sp 
+raft genome sequence of Hoeflea sp . strain BAL378 a potential producer of bioactive compounds 
+ddress correspondence to Mikkel Bentzon-Tilia mibti @ bio.dtu.dk . T he genus Hoeflea belongs to the Phyllobacteriaceae family of the Alphaproteobacteria 
+ased on 16S rRNA gene sequence similarity the Pseudorhodobacter genus did not however include the strain A. ferrugineum LMG 128 which subsequently became the type species of the Hoeflea genus Hoeflea marina LMG 128 1 
+urrently the Hoeflea genus represents seven species all of which are isolated from marine and estuarine environments 1 3–8 
 ne trait commonly shared between the members of Hoeflea is the association with primary producers 
-n addition to rosette formation, phytoplankton colonization is a trait the Hoeflea organisms share with some members of the prevalent marine Roseobacter clade 
-hether the similarities between the Hoeflea organisms and the Roseobacter clade extends to the production of these bioactive compounds is currently unknown, as the Hoeflea genus is not yet well described, and only two whole-genome sequences are available (accession numbers ABIA00000000 and ARCZ00000000) 
-ence, we report here the draft genome sequence of Hoeflea sp 
+n addition to rosette formation phytoplankton colonization is a trait the Hoeflea organisms share with some members of the prevalent marine Roseobacter clade 
+hether the similarities between the Hoeflea organisms and the Roseobacter clade extends to the production of these bioactive compounds is currently unknown as the Hoeflea genus is not yet well described and only two whole-genome sequences are available accession numbers ABIA00000000 and ARCZ00000000 
+ence we report here the draft genome sequence of Hoeflea sp 
 he unclosed draft genome sequence of Hoeflea sp 
-ccording to antiSMASH, Hoeflea sp 
-eclassification of Agrobacterium ferrugineum LMG 128 as Hoeflea marina gen. nov., sp. nov 
-embers of the genus Hoeflea may be examples of such bacteria; however, data describing their metabolisms are scarce 
-ere, we report the draft genome sequence of Hoeflea sp. strain BAL378, a putative producer of bacteriocins, polyketides, and auxins, as demonstrated by genome mining.  Bentzon-Tilia et al.  3.  4.  5.  6.  8. 9.  2 genomea.asm.org  10 
-he RAST annotation suggested that bacteriocins produced by the strain are similar to colicin V and the broad-spectrum antibacterial protein marinocine from the marine bacterium Marinomonas mediterranea (16) 
-urification and partial characterization of marinocine, a new broadspectrum antibacterial protein produced by Marinomonas mediterranea 
+ccording to antiSMASH Hoeflea sp 
+eclassification of Agrobacterium ferrugineum LMG 128 as Hoeflea marina gen. nov. sp . nov 
+embers of the genus Hoeflea may be examples of such bacteria however data describing their metabolisms are scarce 
+ere we report the draft genome sequence of Hoeflea sp . strain BAL378 a putative producer of bacteriocins polyketides and auxins as demonstrated by genome mining . Bentzon-Tilia et al . 3 . 4 . 5 . 6 . 8 . 9 . 2 genomea.asm.org 10 
+he RAST annotation suggested that bacteriocins produced by the strain are similar to colicin V and the broad-spectrum antibacterial protein marinocine from the marine bacterium Marinomonas mediterranea 16 
+urification and partial characterization of marinocine a new broadspectrum antibacterial protein produced by Marinomonas mediterranea 
+oeflea suaedae was originally isolated from a halophyte 6 , whereas three other species were isolated from phytoplankton 3– 5 
+oeflea phototrophica sp . nov. a novel marine alphaproteobacterium that forms bacteriochlorophyll a 
+oeflea alexandrii sp . nov. isolated from the toxic dinoflagellate Alexandrium minutum AL1V 
+oeflea anabaenae sp . nov. an epiphytic symbiont that attaches to the heterocysts of a strain of Anabaena 
+oeflea suaedae sp . nov. an endophytic bacterium isolated from the root of the halophyte Suaeda maritima 
+oeflea halophila sp . nov. a novel bacterium isolated from marine sediment of the East Sea Korea 
+oeflea siderophila sp . nov. a new neutrophilic iron-oxidizing bacterium 

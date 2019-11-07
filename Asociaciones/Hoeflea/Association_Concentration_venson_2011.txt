@@ -1,11 +1,17 @@
-ptimal growth was obtained in complex media with 15 g sea salts l”1, at 18–34 6C (30 6C optimum) and at pH 6.0–8.0 (optimum pH 6.5) 
- H2KT formed colonies that were small (1–2 mm), nonpigmented and opaque after 7–10 days on all agar media.  Fig. 1 
- he permissible (18–34 uC) and optimal (30 uC) growth temperatures were determined sequentially in an incubator, with shaking at 225 r.p.m. with periodic measurement of optical density at 600 nm (OD600) 
- ea salts were required at a concentration of at least 5 g l21, but WH2KT grew optimally at concentrations between 12.5 and 17.5 g l21 and tolerated only up to 25 g sea salts l21 
- ttachment was monitored microscopically on days 3, 7, 14, 30 and 49 
- he level of attachment (if observed) was recorded as the number of attachments per 106 Anabaena filaments (mean two heterocysts per filament) and the number of cells attached to each heterocyst 
- n contrast, cells of WH2KT were found attached to 28 % of observed heterocysts at day 7 and 55 % at day 49, with a mean of four cells per heterocyst 
- train WH2KT belongs to a cluster of named organisms that includes H. marina LMG 128T (96.9 % similarity), H. phototrophica DFL-43T (96.7 % similarity) and H. alexandrii AM1V30T (96.6 % similarity) 
- ultures require aerobic growth conditions and concentrations of sea salts above 5 g l21 but below 25 g l21 (optimum 15 g l21), temperatures of 18–34 uC (optimum 30 uC) and pH 6.0–8.0 (optimum pH 6.5) 
- nalysis of its 16S rRNA gene sequence demonstrated that the symbiont was most closely related to the type strain of Hoeflea marina (96.9 % similarity), which belongs to the family Phyllobacteriaceae within the order Rhizobiales of the class Alphaproteobacteria 
+he predominant fatty acids were a summed feature that comprises C18 1v7c C18 1v9t C18 1v12t or any combination of these 64.0 % and an unidentified fatty acid of equivalent chain length 17.603 13.5 % 
+ ptimal growth was obtained in complex media with 15 g sea salts l ” 1 at 18–34 6C 30 6C optimum and at pH 6.0–8.0 optimum pH 6.5 
+ H2KT formed colonies that were small 1–2 mm , nonpigmented and opaque after 7–10 days on all agar media . Fig . 1 
+ he permissible 18–34 uC and optimal 30 uC growth temperatures were determined sequentially in an incubator with shaking at 225 r.p.m . with periodic measurement of optical density at 600 nm OD600 
+ ea salts were required at a concentration of at least 5 g l21 but WH2KT grew optimally at concentrations between 12.5 and 17.5 g l21 and tolerated only up to 25 g sea salts l21 
+ atty acids detected in strain WH2KT included C18 1v7c/v9t/v12t or any combination of these 64.0 % , ECL 17.603 13.5 % , ECL 18.846/C19 1v6c 7.5 % , C18 1v9c 6.6 % , C18 0 4.0 % , 11-methyl C18 1v7c 2.6 % and C16 0 1.8 % 
+ ttachment was monitored microscopically on days 3 7 14 30 and 49 
+ he level of attachment if observed was recorded as the number of attachments per 106 Anabaena filaments mean two heterocysts per filament and the number of cells attached to each heterocyst 
+ n contrast cells of WH2KT were found attached to 28 % of observed heterocysts at day 7 and 55 % at day 49 with a mean of four cells per heterocyst 
+ train WH2KT belongs to a cluster of named organisms that includes H. marina LMG 128T 96.9 % similarity , H. phototrophica DFL-43T 96.7 % similarity and H. alexandrii AM1V30T 96.6 % similarity 
+ ultures require aerobic growth conditions and concentrations of sea salts above 5 g l21 but below 25 g l21 optimum 15 g l21 , temperatures of 18–34 uC optimum 30 uC and pH 6.0–8.0 optimum pH 6.5 
+ nalysis of its 16S rRNA gene sequence demonstrated that the symbiont was most closely related to the type strain of Hoeflea marina 96.9 % similarity , which belongs to the family Phyllobacteriaceae within the order Rhizobiales of the class Alphaproteobacteria 
+ he DNA G+C content of the strain was 58.1 mol % 
+ he DNA G+C content of the type strain is 58.1 mol % 
+ atty acids that occurred at less than 1.0 % in all four strains are not shown 2 ,1.0 % 
+ haracteristic Source Heterocyst attachment Salts required for growth Bacteriochlorophyll a Substrate utilization Glucose Fructose Glycerol Butyrate Lactate L-Arabinose Extracellular enzyme activity Esterase lipase C8 Trypsin Fatty acids % D C18 0 C16 1v7c C18 1v9c Polar lipidsd PL1 PL2 SQDG DNA G+C content mol % 16S rRNA gene sequence similarity to strain WH2KT 1 2 3 4 Attached symbiont of Anabaena sp 
  

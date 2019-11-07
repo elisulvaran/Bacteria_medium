@@ -1,0 +1,28 @@
+o determine potential electron acceptors elemental sulfur 0.1 % w/v sulfate 20 mM , thiosulfate 20 mM , nitrate 10 mM and nitrite 5 mM were added to the basal medium lacking the reductant Na2S , and the results were analysed as described by Ogg & Patel 2009 
+ ubstrate utilization was tested in a basal medium containing l21 0.3 g KH2PO4 0.3 g K2HPO4 1.0 g NH4Cl 15 g NaCl 0.1 g KCl 0.1 g CaCl2 . 2H2O 0.1 g MgCl2 . 6H2O and 1 ml 0.1 % w/v resazurin 
+ hey contain the following components summed feature 1 C13 1 cis12 FAME and/or C11 1 2-OH FAME summed feature 3 iso-C15 0 ALDE and/or unknown fatty acid ECL 13.570 summed feature 6 anteiso-C15 0 3OH FAME and/or C16 1cis7 DMA summed feature 10 one or more of C18 1 cis11/trans9/trans6 summed feature 11 iso-C17 0 3-OH FAME and/or C18 2 DMA . SOL3f37T 94.3 % pairwise similarity , Proteiniborus ethanoligenes GWT 92.1 % and Clostridiisalibacter paucivorans 37HS60T 92.0 % 
+ haracteristic Isolation source Cell width6length mm Motility Gram stain Cell-wall type Spore formation Yeast extract dependence NaCl dependence Type of flagella Temperature for growth uC Range Optimum pH for growth Range Optimum NaCl concentration for growth % w/v Range Optimum DNA G+C content mol % Growth on Casamino acids Substrates used Cysteine Glutamic acid Glycine Lysine Methionine Serine Valine Fructose Glucose Ribose Sucrose Fumarate Succinate Pyruvate 1 2 3 4 Food industry wastewater Hydrocarbon-polluted soil UASB sludge 0.3–0.662.0–6.8 + 2 2 2 2 2 Monotrichous 0.565.0–10.0 + + + + + + Monotrichous 0.5–0.661.4–3.8 2 2 + 2 2 2 None Olive-mill wastewater 0.563.0–8.0 + + + + 2 + Peritrichous 16–44 37 20–48 40 20–48 37 20–50 42 6.0–9.0 7.5 6.2–8.1 6.9 6.4–10.0 8.5–8.8 5.5–8.5 6.8 0–8 1.5 28.2 + 0.5–15 4 30.7 2 0–2 1–10 5 33.0 + 2 + + 2 + 2 + + + + + 2 2 + 2 2 2 2 2 2 2 + + 2 2 + 2 + strain BMT but not in S. faouarense JCM 15487T 
+ rowth of strain BMT was observed at 16–44 6C optimum 37 6C and pH 6.0–9.0 optimum pH 7.5 
+ he major fatty acids were iso-C15 0 39.3 % , iso-C15 0 dimethyl acetal 10.1 % , anteiso-C15 0 7.6 % , C14 0 6.1 % and C16 0 5.6 % 
+ hylogenetic analysis based on the 16S rRNA gene sequence revealed that strain BMT was related to various genera of the family Clostridiaceae and its closest relatives were Sporosalibacterium faouarense SOL3f37T 94.3 % 16S rRNA gene sequence similarity , Proteiniborus ethanoligenes GWT 92.1 % and Clostridiisalibacter paucivorans 37HS60T 92.0 % 
+ ndustrial manufacture of zhacai was introduced in China during the 1980s resulting in an industrial wastewater with high salinity 2–8 % and organic load 
+ o study the salinity requirement DSMZ medium 104b was prepared without NaCl and NaCl was added at 0–10 % w/ v at 0.5 % intervals 
+ o examine the pH range for growth MES pH 5.5–6.0 , PIPES pH 6.5–7.0 , Tricine pH 7.5– 8.5 , CAPSO pH 9.0–9.5 or CAPS pH 10.0–11.5 was added at 25 mM and the pH was adjusted using sterile solutions 10 % of HCl or NaOH 
+ ugars 20 mM , alcohols 0.1 % , organic acids and amino acids 20 mM were added individually to the basal medium in the presence of 0.1 g yeast extract l21 
+ he main FAMEs of strain BMT were iso-C15 0 39.3 % , iso-C15 0 dimethyl acetal DMA 10.1 % , anteiso-C15 0 7.6 % , C14 0 6.1 % and C16 0 ( 5.6 % 
+ ar 0.02 substitutions per nucleotide position . to two thermophilic strains Thermohalobacter berrensis CTT3T 91.3 % pairwise similarity and Caloranaerobacter azorensis MV1087T 91.1 % 
+ train BMT fermented amino acids and sugars which were not metabolized by P. ethanoligenes GWT Niu et al. 2008 , and the G+C content of P. ethanoligenes GWT 38.0 mol % was significantly higher than that of strain BMT 
+ train BMT had a lower content 10.1 % of isoC15 0 DMA than did S. faouarense JCM 15487T 22.5 % and also possessed C14 0 and C16 0 as major components , while these two fatty acids were minor components in S. faouarense JCM 15487T Table 1 
+ rows at 16– 44 uC optimum 37 uC and at pH 6.0–9.0 optimum pH 7.5 
+ he heat resistance of the cells was determined as reported by Cayol et al . 2000 ; the cells could not survive heating to 80 uC for 20 min 
+ aCl was not necessary for growth the strain grew in the presence of 0– 8 % NaCl with optimum growth at 1.5 % 
+ alues are percentages of total fatty acids fatty acids representing .5 % of the total are in bold 
+ he DNA G+C content of the only known strain is 28.2 mol % . 16S rRNA gene sequence comparisons locate the genus in the lineage of lowG+C-content Gram-positive bacteria in the Clostridiaceae the type family of the order Clostridiales 
+ easurement of deoxyguano- sine/thymidine ratios in complex mixtures by high-performance liquid chromatography for determination of the mole percentage guanine + cytosine of DNA 
+ he DNA G+C content of strain BMT is 28.2 mol % . sp . nov. a thermophilic anaerobic bacterium from the Great Artesian Basin of Australia aquifer 
+ he NaCl range for growth is 0–8 % w/v , with an optimum at 1.5 % 
+ he NaCl concentration range for growth was 0–8 % optimum 1.5 % w/v 
+ he pH range for growth was 6.0–9.0 with an optimum at pH 7.5 no growth was observed at or below pH 5.5 or at or above pH 9.5 
+ he DNA G+C content was 28.2 mol % 
+ he DNA G+C content of strain BMT determined by reverse-phase HPLC according to Mesbah & Whitman 1989 , was 28.2 mol % 
+ 

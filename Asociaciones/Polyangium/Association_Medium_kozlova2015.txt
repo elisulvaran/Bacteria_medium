@@ -1,166 +1,168 @@
-umigel is a dark brown col loidal gel of potassium humate with pH 7.0, a density of 1.1 g/cm3, and a mass humate fraction of 5% 
-n order to determine the contribution of the humic and bacterial components to the biological activ  400  THE INFLUENCE OF BACTERIAL–HUMUS PREPARATIONS  ity of the soils, experiments with the application of bacterial Rhodococcus and Pseudomonas suspensions, suspensions of the microbial complex from the mucky–gley soil (the bacterial titer is 109 cell/ml), and a sterile preparation of humic acid (Gumigel) were performed 
- total of 18 variants were tested in the model experiment: (1) C—the control soil; (2) HA—the soil with the application of sterile humic acid; (3) BS—the soil with the application of Rhodococcus and Pseudomonas bacterial suspensions; (4) MC—the soil with the appli cation of the microbial complex of the mucky–gley soil; (5) HA + BS—the soil with the application of humic acids enriched with Rhodococcus and Pseudomonas bacteria; (6) HA + MC—the soil with the application of humic acids enriched with the microbial complex of the mucky–gley soil; (7) Pb—the soil contaminated with Pb(CH3COO)2; (8) Pb + HA—the soil contami nated with Pb(CH3COO)2 and sterile humic acid; (9) Pb + BS—the soil contaminated with Pb(CH3COO)2 and the application of Rhodococcus and Pseudomonas bacterial suspensions; (10) Pb + MC—the soil contaminated with Pb(CH3COO)2 and the application of the microbial complex of the mucky–gley soil; (11) Pb + HA + BS—the soil con taminated with Pb(CH3COO)2 and the application of the humic acid preparation enriched with Rhodococcus and Pseudomonas bacteria; (12) Pb + HA + MC—the soil contaminated with Pb(CH3COO)2 and the applica tion of the humic the humic acid preparation enriched with the microbial complex of the mucky–gley soil; (13) G—the soil contaminated with gasoline; (14) G + HA—the soil contaminated with gasoline with the application of sterile humic acid; (15) G + BS—the soil contaminated with gasoline with the application of Rhodococcus and Pseudomonas bacterial suspensions; (16) G + MC—the soil contaminated with gasoline and the application of the microbial complex of the mucky–gley soil; (17) G + HA + BS—the soil contam inated with gasoline and the application of the humic acid preparation enriched with Rhodococcus and Pseudomonas bacteria; and (18) G + HA + MC—the soil contaminated with gasoline and the application of humic acid preparation enriched with the complex of microorganisms from the mucky–gley soil 
-n the gasolinepolluted soils, the CO2 emission increased by 1.5 times due to the use of an additional carbon source 
+or the analysis of the dehydrogenase activity 2,3,5triphenyl tetrazolium chloride which is reduced to a red com pound triphenylformazan was applied 
+umigel is a dark brown col loidal gel of potassium humate with pH 7.0 a density of 1.1 g/cm3 and a mass humate fraction of 5 % 
+or the colorimetric analysis of the phos phatase activity the amount of phenolphthalein which is formed by the decomposition of phenolphthalein phosphate was determined 1 
+n order to determine the contribution of the humic and bacterial components to the biological activ 400 THE INFLUENCE OF BACTERIAL–HUMUS PREPARATIONS ity of the soils experiments with the application of bacterial Rhodococcus and Pseudomonas suspensions suspensions of the microbial complex from the mucky–gley soil the bacterial titer is 109 cell/ml , and a sterile preparation of humic acid Gumigel were performed 
+total of 18 variants were tested in the model experiment 1 C—the control soil 2 HA—the soil with the application of sterile humic acid 3 BS—the soil with the application of Rhodococcus and Pseudomonas bacterial suspensions 4 MC—the soil with the appli cation of the microbial complex of the mucky–gley soil 5 HA + BS—the soil with the application of humic acids enriched with Rhodococcus and Pseudomonas bacteria 6 HA + MC—the soil with the application of humic acids enriched with the microbial complex of the mucky–gley soil 7 Pb—the soil contaminated with Pb ( CH3COO 2 ( 8 Pb + HA—the soil contami nated with Pb ( CH3COO 2 and sterile humic acid ( 9 Pb + BS—the soil contaminated with Pb ( CH3COO 2 and the application of Rhodococcus and Pseudomonas bacterial suspensions ( 10 Pb + MC—the soil contaminated with Pb ( CH3COO 2 and the application of the microbial complex of the mucky–gley soil ( 11 Pb + HA + BS—the soil con taminated with Pb ( CH3COO 2 and the application of the humic acid preparation enriched with Rhodococcus and Pseudomonas bacteria ( 12 Pb + HA + MC—the soil contaminated with Pb ( CH3COO 2 and the applica tion of the humic the humic acid preparation enriched with the microbial complex of the mucky–gley soil ( 13 G—the soil contaminated with gasoline ( 14 G + HA—the soil contaminated with gasoline with the application of sterile humic acid ( 15 G + BS—the soil contaminated with gasoline with the application of Rhodococcus and Pseudomonas bacterial suspensions ( 16 G + MC—the soil contaminated with gasoline and the application of the microbial complex of the mucky–gley soil ( 17 G + HA + BS—the soil contam inated with gasoline and the application of the humic acid preparation enriched with Rhodococcus and Pseudomonas bacteria and ( 18 G + HA + MC—the soil contaminated with gasoline and the application of humic acid preparation enriched with the complex of microorganisms from the mucky–gley soil 
+n the gasolinepolluted soils the CO2 emission increased by 1.5 times due to the use of an additional carbon source 
 he low difference in the CO2 emissions between the test variants can be also explained by the considerable contribution of fungi to the soil respiration 
 his fact agrees with the above described changes in the CO2 emission 
-ysak, 2015, published in Pochvovedenie, 2015, No. 4, pp. 452–461.  SOIL BIOLOGY  The Influence of Bacterial–Humus Preparations on the Biological Activity of Soils Polluted with Oil Products and Heavy Metals E 
-tepanov, and L 
-ysak Faculty of Soil Science, Moscow State University, Leninskie gory, Moscow, 119991 Russia email: sowest88@yandex.ru Received February 17, 2014  Abstract—The influence of bacterial–humus preparations based on Gumigel (Agrosintez Company) on the biological activity of soddypodzolic soil polluted with Pb(CH3COO)2 and gasoline was studied in a model experiment 
-he process of nitrogen fixation and the activity of dehydrogenase and phosphatase were mostly inhibited by Pb(CH3COO)2 and gasoline 
-he bacterial–humus preparations exerted a significant positive effect on the biological activ ity of the polluted soils manifested in the increase of the total number of bacteria and of the enzyme activity (1.5–5.0 times), in the intensification of nitrogen fixation and denitrification (3–8 times), as well as in the increase in the biomass of the plants grown (1.5–2.0 times) 
-eywords: bacterial–humus preparations, biological activity of soils, soil remediation DOI: 10.1134/S1064229315020052  INTRODUCTION  intez Company) on the biological activity of soils pol luted with oil products and heavy metals.  The continuously increasing anthropogenic impact on the environment is accompanied by entering of toxic compounds to ecosystems 
+ysak 2015 published in Pochvovedenie 2015 No . 4 pp . 452–461 . SOIL BIOLOGY The Influence of Bacterial–Humus Preparations on the Biological Activity of Soils Polluted with Oil Products and Heavy Metals E 
+tepanov and L 
+ysak Faculty of Soil Science Moscow State University Leninskie gory Moscow 119991 Russia email sowest88 @ yandex.ru Received February 17 2014 Abstract—The influence of bacterial–humus preparations based on Gumigel Agrosintez Company on the biological activity of soddypodzolic soil polluted with Pb CH3COO 2 and gasoline was studied in a model experiment 
+he process of nitrogen fixation and the activity of dehydrogenase and phosphatase were mostly inhibited by Pb CH3COO 2 and gasoline 
+he bacterial–humus preparations exerted a significant positive effect on the biological activ ity of the polluted soils manifested in the increase of the total number of bacteria and of the enzyme activity 1.5–5.0 times , in the intensification of nitrogen fixation and denitrification 3–8 times , as well as in the increase in the biomass of the plants grown 1.5–2.0 times 
+eywords bacterial–humus preparations biological activity of soils soil remediation DOI 10.1134/S1064229315020052 INTRODUCTION intez Company on the biological activity of soils pol luted with oil products and heavy metals . The continuously increasing anthropogenic impact on the environment is accompanied by entering of toxic compounds to ecosystems 
 mong the priority pollutants are oil hydrocarbons and heavy metals 
-he capability of humic acids to exhibit protective properties relative to soil microorganisms and plants is well known [3, 7, 10] 
+he capability of humic acids to exhibit protective properties relative to soil microorganisms and plants is well known 3 7 10 
 acterial–humus preparations combine the properties of humic acids and bacterial cultures 
-he objective of this work is to study the effect of bacterial–humus preparations based on Gumigel (Agros  OBJECTS AND METHODS The studies were conducted with two bacterial– humus preparations representing a solution of potas sium humate isolated from brown coal (Gumigel, Agrosintez Company) enriched with the following: (1) a mixture of pure Rhodococcus and Pseudomonas bacterial cultures (further HA + BC), and (2) a complex of microorganisms (HA + SC) isolated from a mucky– gley soil (Training and Experimental Soil–Ecological Center Chashnikovo, Moscow State University) and containing bacteria of the Bacillus, Arthrobacter, Rhodococcus, Pseudomonas, Cytophaga, Myxococcus, and Aquaspirillum genera 
-asoline AI95 at a concentration of 4% and Pb(CH3COO)2 at a concentration of 5MPC were applied as pollutants 
-he soil without gasoline and Pb(CH3COO)2 was used as a control 
-he influence of the bacterial–humus preparations on the biological activity of the soils was assessed according to the changes in the total bacterial number, the respiration intensity of the soil microorganisms, the nitrogen fixation, the denitrification and activity of catalase, the dehydrogenase, the urease, and the phos phatase 
-he respiration intensity, the activity of nitrogen fixation, and the denitrification by the soil microorganisms were analyzed using the method of gas EURASIAN SOIL SCIENCE  Vol. 48  No. 4  2015  401  chromatography [9] 
-he plating was tradi tionally performed from 1 : 100 and 1 : 10000 dilutions (five replicates) after the preliminary treatment on a UZDN1 ultrasound dispersant (22 kHz, 0.44 A, 2 min) 
-ESULTS AND DISCUSSION The studies conducted showed that the pollution of the soils with gasoline and Pb(CH3COO)2 significantly affected all the indices of the soil biological activity except for the respiration of the soil microorganisms 
-nzymes of oxidoreductases (catalase and dehydrogenase) and hydrolases (urease and phosphatase) are considered in this work 
-hanges in the activity of the soil enzymes: catalase (a), dehydrogenase (b), urease (c), and phosphatase (d).  By the dehydrogenase activity, the control soil was referred to those with the medium content of this enzyme (Fig. 2b) 
-owever, in this case, both the bacterial–humus prep arations and bacterial suspensions did not positively affect the enzyme activity 
-hus, the dehydrogenase and phosphatase activi ties turned out to be the most sensitive characteristics 
-b(CH3COO)2 little influ enced the catalase and urease activities but noticeably affected the dehydrogenase and phosphatase activi ties 
-he use only of bacterial cultures did not positively affect the urease and phosphatase activ ities in the gasolinecontaminated soils and the urease activity in the Pb(CH3COO)2 polluted soil 
+he objective of this work is to study the effect of bacterial–humus preparations based on Gumigel Agros OBJECTS AND METHODS The studies were conducted with two bacterial– humus preparations representing a solution of potas sium humate isolated from brown coal Gumigel Agrosintez Company enriched with the following 1 a mixture of pure Rhodococcus and Pseudomonas bacterial cultures further HA + BC and 2 a complex of microorganisms HA + SC isolated from a mucky– gley soil ( Training and Experimental Soil–Ecological Center Chashnikovo Moscow State University and containing bacteria of the Bacillus Arthrobacter Rhodococcus Pseudomonas Cytophaga Myxococcus , and Aquaspirillum genera 
+asoline AI95 at a concentration of 4 % and Pb CH3COO 2 at a concentration of 5MPC were applied as pollutants 
+he soil without gasoline and Pb CH3COO 2 was used as a control 
+he influence of the bacterial–humus preparations on the biological activity of the soils was assessed according to the changes in the total bacterial number the respiration intensity of the soil microorganisms the nitrogen fixation the denitrification and activity of catalase the dehydrogenase the urease and the phos phatase 
+he respiration intensity the activity of nitrogen fixation and the denitrification by the soil microorganisms were analyzed using the method of gas EURASIAN SOIL SCIENCE Vol . 48 No . 4 2015 401 chromatography 9 
+he plating was tradi tionally performed from 1 100 and 1 10000 dilutions five replicates after the preliminary treatment on a UZDN1 ultrasound dispersant 22 kHz 0.44 A 2 min 
+ESULTS AND DISCUSSION The studies conducted showed that the pollution of the soils with gasoline and Pb CH3COO 2 significantly affected all the indices of the soil biological activity except for the respiration of the soil microorganisms 
+nzymes of oxidoreductases catalase and dehydrogenase and hydrolases urease and phosphatase are considered in this work 
+hanges in the activity of the soil enzymes catalase a dehydrogenase b , urease c , and phosphatase d . By the dehydrogenase activity , the control soil was referred to those with the medium content of this enzyme Fig . 2b 
+owever in this case both the bacterial–humus prep arations and bacterial suspensions did not positively affect the enzyme activity 
+hus the dehydrogenase and phosphatase activi ties turned out to be the most sensitive characteristics 
+b CH3COO 2 little influ enced the catalase and urease activities but noticeably affected the dehydrogenase and phosphatase activi ties 
+he use only of bacterial cultures did not positively affect the urease and phosphatase activ ities in the gasolinecontaminated soils and the urease activity in the Pb CH3COO 2 polluted soil 
 hanges in nitrogen fixation and denitrification 
-hanges in the activity of nitrogen fixation (a) and denitrification (b).  the bacterial–humus preparations was twice higher than that of the bacterial suspensions 
-hanges in the share of Bacillus (a), Pseudomo nas (b), and Rhodococcus (c) bacteria in the structure of the saprotroph bacterial complex.  the genera studied was used for the characterization of the saprotrophic bacterial complex structure accord ing to the following gradations: dominants—more than 30% of the total number of bacteria counted on the applied medium; subdominants—20–30%; the group of medium abundance—10–20%; and the minor components—less than 10% 
+hanges in the activity of nitrogen fixation a and denitrification b . the bacterial–humus preparations was twice higher than that of the bacterial suspensions 
+hanges in the share of Bacillus a , Pseudomo nas b , and Rhodococcus c bacteria in the structure of the saprotroph bacterial complex . the genera studied was used for the characterization of the saprotrophic bacterial complex structure accord ing to the following gradations dominants—more than 30 % of the total number of bacteria counted on the applied medium subdominants—20–30 % the group of medium abundance—10–20 % and the minor components—less than 10 % 
 acte ria of the Rhodococcus and Pseudomonas genera that often are present in the preparations used for the remediation of oilpolluted soils are of a special interest 
-he introduction of bacterial suspensions to the soil increased the share of Pseudomonas bacteria up to 0.9 and 2.0% in the pure Rhodococcus and Pseudomonas cultures and in the soil microbial com plex, respectively 
-he variance analysis of the results was per formed to reveal what factors (type of pollution, appli cation of humic acids, introduction and type of micro bial complex) affect some characteristics of the soil  biological activity 
-he most sensitive characteristics of the soil biological activity turned out to be the total number of bacteria, the enzyme activity, and the denitrification 
-he nitrogen fixation was influenced by the soil pollution (p = 0.00) and the humic acids applied (p = 0.0497) 
-ariance analysis of the influence of the soil pollution and remediation method on the characteristics of the soil biological activity Factor  Sum of squares  Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria Pollution + HA + bacteria  10.6403 0.6241 0.7893 1.0595 10.2263 0.8217 2.0031  Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria Pollution + HA + bacteria  63.5025 5.5104 7.8325 1.1558 1.8200 6.6658 5.4367  Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria  1437.37 4971.30 2361.83 1023.52 988.49 533.01  Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria Pollution + HA + bacteria  824.89 79.37 179.47 83.93 553.05 3.60 164.69  Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria Pollution + HA + bacteria  22.8776 106.6049 63.5260 40.5947 19.5796 28.5728 22.3271  Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria Pollution + HA + bacteria Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria Pollution + HA + bacteria EURASIAN SOIL SCIENCE  0.003268 0.001668 0.000230 0.000161 0.000426 0.000253 0.000580 18419.98 2550.92 3155.87 2537.79 6586.58 2312.02 2238.28 Vol. 48  No. 4  Number of degrees Average square Fcriterion of freedom Number 2 1 2 2 4 2 4 Catalase 2 1 2 2 4 2 4 Dehydrogenase 2 1 2 2 4 2 Urease 2 1 2 2 4 2 4 Phosphatase 2 1 2 2 4 2 4 Denitrification 2 1 2 2 4 2 4 Nitrogen fixation 2 1 2 2 4 2 4 2015  5.3201 0.6241 0.3947 0.5297 2.5566 0.4109 0.5008 31.7513 5.5104 3.9163 0.5779 0.4550 3.3329 1.3592  103.947 12.193 7.711 10.350 49.951 8.028 9.784 48.3829 8.3968 5.9676 0.8806 0.6933 5.0787 2.0711  Significance level 0.0000 0.0013 0.0016 0.0003 0.0000 0.0013 0.0000 0.0000 0.0064 0.0058 0.4233 0.6015 0.0114 0.1050  718.69 4971.30 1180.91 511.76 247.12 266.50  19.465 134.644 31.984 13.861 6.693 7.218  0.0000 0.0000 0.0000 0.0000 0.0004 0.0023  412.45 79.37 89.74 41.96 138.26 1.80 41.17  47.810 9.200 10.402 4.864 16.027 0.209 4.773  0.0000 0.0045 0.0003 0.0135 0.0000 0.8125 0.0034  11.4388 106.6049 31.7630 20.2974 4.8949 14.2864 5.5818  8.4696 78.9331 23.5182 15.0287 3.6243 10.5780 4.1329  0.0010 0.0000 0.0000 0.0000 0.0140 0.0002 0.0074  0.001634 0.001668 0.000115 0.000080 0.000106 0.000127 0.000145 9209.99 2550.92 1577.93 1268.89 1646.64 1156.01 559.57  128.193 130.829 9.007 6.308 8.353 9.938 11.375 14.89111 4.12445 2.55127 2.05160 2.66237 1.86909 0.90474  0.0000 0.0000 0.0007 0.0045 0.0001 0.0004 0.0000 0.0000 0.0497 0.0920 0.1433 0.0481 0.1689 0.4715  408  KOZLOVA et al.  Table 2. (Contd.) Factor  Sum of squares  Number of degrees Average square Fcriterion of freedom  Significance level  Respiration Pollution  28.602  2  14.301  11.231  0.0002  HA  1.605  1  1.605  1.261  0.2689  Bacteria  1.934  2  0.967  0.759  0.4753  Pollution + HA  1.244  2  0.622  0.488  0.6176  Pollution + bacteria  6.928  4  1.732  1.360  0.2670  HA + bacteria  7.112  2  3.556  2.792  0.0746  Pollution + HA + bacteria  1.866  4  0.467  0.366  0.8309  CONCLUSIONS The soil pollution affected to different extents some characteristics of the biological activity of the soddy podzolic soil investigated 
-n the contaminated soils, the nitrogen fixation and dehydrogenase and phos phatase activities were mostly inhibited 
-as oline inhibited all the characteristics of the biological  activity, except for the respiration; Pb(CH3COO)2 reduced the catalase and urease activities and denitri fication to a lesser extent 
-he dehydrogenase and phosphatase activities and nitrogen fixation were strongly inhibited by Pb(CH3COO)2 
-he introduction of bacterial suspensions of pure cultures and the microbial complex without humic acids to the polluted soil sometimes had no  250  200  100  C  HA  HA + BS  BS  MC  G + MC  G + HA + BS  G + HA + MC  HA + MC  Pb + HA  Pb + HA + BS  Pb + MC  Pb + HA + MC  Pb  G + HA  G  0  Pb + BS  50  G + BS  Distance  150  Fig. 7 
+he introduction of bacterial suspensions to the soil increased the share of Pseudomonas bacteria up to 0.9 and 2.0 % in the pure Rhodococcus and Pseudomonas cultures and in the soil microbial com plex respectively 
+he variance analysis of the results was per formed to reveal what factors type of pollution appli cation of humic acids introduction and type of micro bial complex affect some characteristics of the soil biological activity 
+he most sensitive characteristics of the soil biological activity turned out to be the total number of bacteria the enzyme activity and the denitrification 
+he nitrogen fixation was influenced by the soil pollution p = 0.00 and the humic acids applied p = 0.0497 
+ariance analysis of the influence of the soil pollution and remediation method on the characteristics of the soil biological activity Factor Sum of squares Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria Pollution + HA + bacteria 10.6403 0.6241 0.7893 1.0595 10.2263 0.8217 2.0031 Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria Pollution + HA + bacteria 63.5025 5.5104 7.8325 1.1558 1.8200 6.6658 5.4367 Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria 1437.37 4971.30 2361.83 1023.52 988.49 533.01 Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria Pollution + HA + bacteria 824.89 79.37 179.47 83.93 553.05 3.60 164.69 Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria Pollution + HA + bacteria 22.8776 106.6049 63.5260 40.5947 19.5796 28.5728 22.3271 Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria Pollution + HA + bacteria Pollution HA Bacteria Pollution + HA Pollution + bacteria HA + bacteria Pollution + HA + bacteria EURASIAN SOIL SCIENCE 0.003268 0.001668 0.000230 0.000161 0.000426 0.000253 0.000580 18419.98 2550.92 3155.87 2537.79 6586.58 2312.02 2238.28 Vol . 48 No . 4 Number of degrees Average square Fcriterion of freedom Number 2 1 2 2 4 2 4 Catalase 2 1 2 2 4 2 4 Dehydrogenase 2 1 2 2 4 2 Urease 2 1 2 2 4 2 4 Phosphatase 2 1 2 2 4 2 4 Denitrification 2 1 2 2 4 2 4 Nitrogen fixation 2 1 2 2 4 2 4 2015 5.3201 0.6241 0.3947 0.5297 2.5566 0.4109 0.5008 31.7513 5.5104 3.9163 0.5779 0.4550 3.3329 1.3592 103.947 12.193 7.711 10.350 49.951 8.028 9.784 48.3829 8.3968 5.9676 0.8806 0.6933 5.0787 2.0711 Significance level 0.0000 0.0013 0.0016 0.0003 0.0000 0.0013 0.0000 0.0000 0.0064 0.0058 0.4233 0.6015 0.0114 0.1050 718.69 4971.30 1180.91 511.76 247.12 266.50 19.465 134.644 31.984 13.861 6.693 7.218 0.0000 0.0000 0.0000 0.0000 0.0004 0.0023 412.45 79.37 89.74 41.96 138.26 1.80 41.17 47.810 9.200 10.402 4.864 16.027 0.209 4.773 0.0000 0.0045 0.0003 0.0135 0.0000 0.8125 0.0034 11.4388 106.6049 31.7630 20.2974 4.8949 14.2864 5.5818 8.4696 78.9331 23.5182 15.0287 3.6243 10.5780 4.1329 0.0010 0.0000 0.0000 0.0000 0.0140 0.0002 0.0074 0.001634 0.001668 0.000115 0.000080 0.000106 0.000127 0.000145 9209.99 2550.92 1577.93 1268.89 1646.64 1156.01 559.57 128.193 130.829 9.007 6.308 8.353 9.938 11.375 14.89111 4.12445 2.55127 2.05160 2.66237 1.86909 0.90474 0.0000 0.0000 0.0007 0.0045 0.0001 0.0004 0.0000 0.0000 0.0497 0.0920 0.1433 0.0481 0.1689 0.4715 408 KOZLOVA et al . Table 2 . Contd . Factor Sum of squares Number of degrees Average square Fcriterion of freedom Significance level Respiration Pollution 28.602 2 14.301 11.231 0.0002 HA 1.605 1 1.605 1.261 0.2689 Bacteria 1.934 2 0.967 0.759 0.4753 Pollution + HA 1.244 2 0.622 0.488 0.6176 Pollution + bacteria 6.928 4 1.732 1.360 0.2670 HA + bacteria 7.112 2 3.556 2.792 0.0746 Pollution + HA + bacteria 1.866 4 0.467 0.366 0.8309 CONCLUSIONS The soil pollution affected to different extents some characteristics of the biological activity of the soddy podzolic soil investigated 
+n the contaminated soils the nitrogen fixation and dehydrogenase and phos phatase activities were mostly inhibited 
+as oline inhibited all the characteristics of the biological activity except for the respiration Pb CH3COO 2 reduced the catalase and urease activities and denitri fication to a lesser extent 
+he dehydrogenase and phosphatase activities and nitrogen fixation were strongly inhibited by Pb CH3COO 2 
+he introduction of bacterial suspensions of pure cultures and the microbial complex without humic acids to the polluted soil sometimes had no 250 200 100 C HA HA + BS BS MC G + MC G + HA + BS G + HA + MC HA + MC Pb + HA Pb + HA + BS Pb + MC Pb + HA + MC Pb G + HA G 0 Pb + BS 50 G + BS Distance 150 Fig . 7 
 he biomass of the plants grown also depended on the type of pollution and the method of soil reme diation 
-ne can conclude that the use of bacterial–humus preparations is highly efficient for the remediation of soils contaminated with heavy metals and oil products.  409  3 
-al’tseva, and L 
-varovskaya, “Stimulation of the activity of microorganisms by humin preparations in oilpolluted soils,” Eurasian Soil Sci. 43 (2), 210–215 (2010).  stimulators and their practical use: a review,” Appl 
-erminova, and G 
-obrovol’skaya, and I 
-kvortsova, Guidance for Assessment of Bacterial Diversity in Soil and Identification of Soil Bacteria (MaksPress, Moscow, 2003) [in Russian] 
-anual on Soil Microbiology and Biochemistry, Ed. by D 
-ysak, and A 
-herdyntseva, and A 
-asoline compared to Pb(CH3COO)2 inhibited the soil biological activity to a greater extent 
+ne can conclude that the use of bacterial–humus preparations is highly efficient for the remediation of soils contaminated with heavy metals and oil products . 409 3 
+al ’ tseva and L 
+varovskaya “ Stimulation of the activity of microorganisms by humin preparations in oilpolluted soils ” Eurasian Soil Sci . 43 2 210–215 2010 . stimulators and their practical use a review , ” Appl 
+erminova and G 
+obrovol ’ skaya and I 
+kvortsova Guidance for Assessment of Bacterial Diversity in Soil and Identification of Soil Bacteria MaksPress Moscow 2003 [ in Russian 
+anual on Soil Microbiology and Biochemistry Ed . by D 
+ysak and A 
+herdyntseva and A 
+asoline compared to Pb CH3COO 2 inhibited the soil biological activity to a greater extent 
 he application of bacterial suspensions of pure cultures or the microbial complex without the preparations of humic acids did not always give a positive effect 
-eing accumulated in the soil, they determine its tox icity for living organisms 
+eing accumulated in the soil they determine its tox icity for living organisms 
 oils with a high content of pollutants become unsuitable for the normal growth of plants 
 he permanent increasing of the area of pol luted lands makes the problem of their remediation topical 
-he use of bacterial preparations based on humic acids (bacterial–humus preparations) may be a prospective method for the restoration of soil fertility 
+he use of bacterial preparations based on humic acids bacterial–humus preparations may be a prospective method for the restoration of soil fertility 
 umic acids can bind the toxi cants into complexes unavailable for plants 
 hey also improve the physicochemical properties of soils 
-ac teria can decompose the organic pollutants (oil hydro carbons, xenobiotics) 
-icroorganisms synthesize the physiologically active substances stimulating the growth of plants [4] 
-n addition, humic acids can also support the viability of microorganisms in the preparation intro duced into the soil [5, 12] 
+ac teria can decompose the organic pollutants oil hydro carbons xenobiotics 
+icroorganisms synthesize the physiologically active substances stimulating the growth of plants 4 
+n addition humic acids can also support the viability of microorganisms in the preparation intro duced into the soil 5 12 
 he titer of bacteria after the introduction of humate into the ini tial preparation was 109 cell/mL 
 odel tests were per formed in vessels with a volume of 0.3 L to study the effect of the bacterial–humus preparations on the bio logical activity of the soils 
-or the experiments, soddy podzolic soils (Tomilino Forest Park, Moscow oblast) were used 
-he bacterial–humus prepara tions (at the volume of 40 mL/kg) were added to the soils 
+or the experiments soddy podzolic soils Tomilino Forest Park Moscow oblast were used 
+he bacterial–humus prepara tions at the volume of 40 mL/kg were added to the soils 
 he structure of the saprotrophic bacterial complex was also studied 
-he catalase activity was deter mined by the Galstyan gasometric method [9] 
-or the analysis of the dehydrogenase activity, 2,3,5triphenyl tetrazolium chloride, which is reduced to a red com pound, triphenylformazan, was applied 
-he amount of the triphenylformazan formed was determined using a colorimeter [9] 
-he urease activity was estimated using the colorimetric measurement of the colored solution that is formed as a result of the reaction with Nessler’s reagent due to ammonia isolated upon the urea decom position [9] 
-or the colorimetric analysis of the phos phatase activity, the amount of phenolphthalein, which is formed by the decomposition of phenolphthalein phosphate, was determined [1] 
-or studying the effect of the bacterial–humus prep arations on the structure of the bacterial community, the method of plating on an agar glucose–peptone– yeast medium was applied [8] 
-n order to inhibit the development of fungi, 50 mg of nystatin was added for 0.5 L of the medium 
+he catalase activity was deter mined by the Galstyan gasometric method 9 
+he amount of the triphenylformazan formed was determined using a colorimeter 9 
+he urease activity was estimated using the colorimetric measurement of the colored solution that is formed as a result of the reaction with Nessler ’ s reagent due to ammonia isolated upon the urea decom position 9 
+or studying the effect of the bacterial–humus prep arations on the structure of the bacterial community the method of plating on an agar glucose–peptone– yeast medium was applied 8 
+n order to inhibit the development of fungi 50 mg of nystatin was added for 0.5 L of the medium 
 he effect of the preparations on plants was deter mined according to the biomass of Lepidium sativum in a pot experiment 
-eeds of the salad (50 seeds) were sown in vegetative pots with soddypodzolic soil (300 g) 
+eeds of the salad 50 seeds were sown in vegetative pots with soddypodzolic soil 300 g 
 he duration of the model experiment was 3 months 
 hanges in the total number of bacteria 
-he 4% gas oline pollution of the soil has led to a reduction in the total bacterial number by 3 times (Fig. 1) 
-he intro duction of the bacterial–humus preparations to the polluted soil promoted the increase in the number of soil bacteria by 70% 
- similar pattern was observed upon the Pb(CH3COO)2 pollution of the soils 
+he 4 % gas oline pollution of the soil has led to a reduction in the total bacterial number by 3 times Fig . 1 
+he intro duction of the bacterial–humus preparations to the polluted soil promoted the increase in the number of soil bacteria by 70 % 
+similar pattern was observed upon the Pb CH3COO 2 pollution of the soils 
 stimation of the soil enzyme activity 
-he control soil was enriched with catalase to a medium extent according to the Zvyagintsev scale [9] (Fig. 2a) 
+he control soil was enriched with catalase to a medium extent according to the Zvyagintsev scale 9 ( Fig . 2a 
 he gasoline pollution inhibited the catalase activity to the greatest extent 
-n this case, compared to the control, the catalase activity was 3 times lower 
+n this case compared to the control the catalase activity was 3 times lower 
 he soil polluted with gasoline was referred to the soils poor in catalase 
-he application of bacterial–humus prepa rations increased the catalase activity by 60–80% 
-he Pb(CH3COO)2 pollution decreased the catalase activity to a lesser degree than in the case with the gasoline pol lution.  402  KOZLOVA et al. billion cell/g soil 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0  G + HA +MC  G + MC  G + HA + BS  G + BS  G + HA  G  Pb + HA + MC  Pb + MC  Pb + HA + BS  Pb + BS  Pb + HA  Pb  HA + MC  MC  HA + BS  BS  HA  0  C  0.5  mg TPhF/10 g 24 h  (c)  14 12 10 8 6 4 2 0 20 18 16 14 12 10 8 6 4 2 0  (b)  (d)  C HA BS HA + BS MC HA + MC Pb Pb + HA Pb + BS Pb + HA + BS Pb + MC Pb + HA + MC G G + HA G + BS G + HA + BS G + MC G + HA +MC  45 40 35 30 25 20 15 10 5 0  (a)  mg P2O5/10 g soil h  7 6 5 4 3 2 1 0  C HA BS HA + BS MC HA + MC Pb Pb + HA Pb + BS Pb + HA + BS Pb + MC Pb + HA + MC G G + HA G + BS G + HA + BS G + MC G + HA +MC  mL NH3/10 g 4 h  mL О2/ g min  Fig. 1 
+he application of bacterial–humus prepa rations increased the catalase activity by 60–80 % 
+he Pb CH3COO 2 pollution decreased the catalase activity to a lesser degree than in the case with the gasoline pol lution . 402 KOZLOVA et al . billion cell/g soil 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 G + HA +MC G + MC G + HA + BS G + BS G + HA G Pb + HA + MC Pb + MC Pb + HA + BS Pb + BS Pb + HA Pb HA + MC MC HA + BS BS HA 0 C 0.5 mg TPhF/10 g 24 h c 14 12 10 8 6 4 2 0 20 18 16 14 12 10 8 6 4 2 0 b d C HA BS HA + BS MC HA + MC Pb Pb + HA Pb + BS Pb + HA + BS Pb + MC Pb + HA + MC G G + HA G + BS G + HA + BS G + MC G + HA +MC 45 40 35 30 25 20 15 10 5 0 ( a mg P2O5/10 g soil h 7 6 5 4 3 2 1 0 C HA BS HA + BS MC HA + MC Pb Pb + HA Pb + BS Pb + HA + BS Pb + MC Pb + HA + MC G G + HA G + BS G + HA + BS G + MC G + HA +MC mL NH3/10 g 4 h mL О2/ g min Fig . 1 
 he introduction of the bacterial– humus preparations increased the dehydrogenase activity of the soil by 1.5–2.0 times 
-he soil with the bacterial–humus preparations enriched with the microorganisms from the mucky–gley soil was char acterized as a rich one in terms of the dehydrogenase  activity 
-he gasoline pollution reduced the dehydro genase activity by more than 3 times; according to the content of this enzyme, this soil was referred to very poor ones 
-he use of the bacterial–humus prepara tions in the gasolinepolluted soil promoted the increase in the dehydrogenase activity by 3–9 times; the amount of this enzyme in the soil was medium 
-b(CH3COO)2 inhibited the dehydrogenase activity EURASIAN SOIL SCIENCE  Vol. 48  No. 4  2015  THE INFLUENCE OF BACTERIAL–HUMUS PREPARATIONS  EURASIAN SOIL SCIENCE  Vol. 48  No. 4  2015  (a)  nm C2H2/g 24 h 140 120 100 80 60 40 20 0  G + MC  G + HA +MC  G + BS  G + HA + BS  G  G + HA  Pb + MC  Pb + HA + MC  Pb + BS  Pb + HA + BS  Pb  Pb + HA  MC  HA + MC  BS  (b)  HA + BS  C  µmol N2O/g h 0.050 0.045 0.040 0.035 0.030 0.025 0.020 0.015 0.010 0.005 0 HA  to a greater extent than the catalase activity 
-s com pared to the control soil, the dehydrogenase activity decreased almost by 2 times; it was poor in terms of the enrichment with this enzyme 
-he application of the bacterial–humus preparations in the Pb(CH3COO)2 polluted soil 5–6 times increased the dehydrogenase activity 
-hus, the dehydrogenase activity, compared to that of catalase, is a more sensitive indicator of the soil biological activity 
-he control soil was medium in terms of the urease content (Fig. 2c) 
+he soil with the bacterial–humus preparations enriched with the microorganisms from the mucky–gley soil was char acterized as a rich one in terms of the dehydrogenase activity 
+he gasoline pollution reduced the dehydro genase activity by more than 3 times according to the content of this enzyme this soil was referred to very poor ones 
+he use of the bacterial–humus prepara tions in the gasolinepolluted soil promoted the increase in the dehydrogenase activity by 3–9 times the amount of this enzyme in the soil was medium 
+b CH3COO 2 inhibited the dehydrogenase activity EURASIAN SOIL SCIENCE Vol . 48 No . 4 2015 THE INFLUENCE OF BACTERIAL–HUMUS PREPARATIONS EURASIAN SOIL SCIENCE Vol . 48 No . 4 2015 a nm C2H2/g 24 h 140 120 100 80 60 40 20 0 G + MC G + HA +MC G + BS G + HA + BS G G + HA Pb + MC Pb + HA + MC Pb + BS Pb + HA + BS Pb Pb + HA MC HA + MC BS b HA + BS C µmol N2O/g h 0.050 0.045 0.040 0.035 0.030 0.025 0.020 0.015 0.010 0.005 0 HA to a greater extent than the catalase activity 
+s com pared to the control soil the dehydrogenase activity decreased almost by 2 times it was poor in terms of the enrichment with this enzyme 
+he application of the bacterial–humus preparations in the Pb CH3COO 2 polluted soil 5–6 times increased the dehydrogenase activity 
+hus the dehydrogenase activity compared to that of catalase is a more sensitive indicator of the soil biological activity 
+he control soil was medium in terms of the urease content Fig . 2c 
 he gasoline pollution decreased the urease activity by 2.5 times 
-he application of the bacterial–humus preparations increased the urease activity by 2–3 times, while the introduction of simple bacterial suspensions to the contaminated soil did not positively affect them 
-he character of the influence of Pb(CH3COO)2 on the urease activity was similar to that of catalase 
-he application of bacterial suspensions, as in the case with gasoline pollution, did not have any significant influence 
-n terms of the phosphatase content, the control soil was rich (Fig. 2d) 
+he application of the bacterial–humus preparations increased the urease activity by 2–3 times while the introduction of simple bacterial suspensions to the contaminated soil did not positively affect them 
+he character of the influence of Pb CH3COO 2 on the urease activity was similar to that of catalase 
+he application of bacterial suspensions as in the case with gasoline pollution did not have any significant influence 
+n terms of the phosphatase content the control soil was rich Fig . 2d 
 he gasoline pollution decreased the phosphatase activity by 2 times up to the medium enrichment of the soil with this enzyme 
 he use of the bacterial–humus preparations increased the phosphatase activity by 2.5–5.0 times 
-he applica tion of the bacterial suspensions, as the use of urease, did not have any effect 
-b(CH3COO)2 inhibited the phosphatase activity by 2 times, as well as gasoline did 
+he applica tion of the bacterial suspensions as the use of urease did not have any effect 
+b CH3COO 2 inhibited the phosphatase activity by 2 times as well as gasoline did 
 asoline most significantly inhibited the activity of all the enzymes in the soils 
 he application of the bacterial–humus prepara tions exerted the most positive influence on the enzyme activity 
-he contamination of the soils decreased the activity of nitrogenfixing microorganisms to a greater extent (Fig. 3a) 
-pon Pb(CH3COO)2 pollution, the nitrogen fixation was lowered by more than an order of magni tude, while upon the gasoline pollution, by almost 2 orders 
+he contamination of the soils decreased the activity of nitrogenfixing microorganisms to a greater extent Fig . 3a 
+pon Pb CH3COO 2 pollution the nitrogen fixation was lowered by more than an order of magni tude while upon the gasoline pollution by almost 2 orders 
 he application of the bacterial–humus prepa rations in the gasolinepolluted soil intensified the nitrogen fixation by 5 times 
-he positive effect of the bacterial–humus preparations was 20% higher than that in case of the application of the bacterial suspen sions 
-ith the use of these compounds in the Pb(CH3COO)2 polluted soil, the nitrogen fixation increased by 3–8 times 
-n the gasolinecontaminated soil, the denitrifi cation became lower by 6 times (Fig. 3b); the use of the bacterial–humus preparations increased it by 3– 6 times 
-he positive effect of the bacterial–humus preparations exceeded that from the bacterial sus pensions by 50–90% 
- less inhibiting effect was observed in the Pb(CH3COO)2 polluted soil 
+he positive effect of the bacterial–humus preparations was 20 % higher than that in case of the application of the bacterial suspen sions 
+ith the use of these compounds in the Pb CH3COO 2 polluted soil the nitrogen fixation increased by 3–8 times 
+n the gasolinecontaminated soil the denitrifi cation became lower by 6 times Fig . 3b ; the use of the bacterial–humus preparations increased it by 3– 6 times 
+he positive effect of the bacterial–humus preparations exceeded that from the bacterial sus pensions by 50–90 % 
+less inhibiting effect was observed in the Pb CH3COO 2 polluted soil 
 he use of the bac terial–humus preparations intensified the denitrifi cation by 1.5 times 
 hanges in the respiration intensity of the soil microorganisms 
-he respiration of the soil microor ganisms changed to the least extent as compared to the changes in the other indices of the soil biological activ ity (Fig. 4) 
+he respiration of the soil microor ganisms changed to the least extent as compared to the changes in the other indices of the soil biological activ ity Fig . 4 
 hanges in the structure of the saprotrophic bacte rial complex 
-he analysis of the structure of the saprotrophic bacterial complex showed that, in most cases, the application of the bacterial–humus preparations promoted an increase in their diversity, which is esti mated by the number of genera determined (Table 1) 
+he analysis of the structure of the saprotrophic bacterial complex showed that in most cases the application of the bacterial–humus preparations promoted an increase in their diversity which is esti mated by the number of genera determined Table 1 
 he soil pollution caused an increase in the share of Bacillus bacteria capable of enduring unfavorable conditions by forming spores 
-s the bacterial– humus preparations were applied, the share of Bacil lus bacteria significantly decreased (Fig. 5a) 
-he studies showed that Pb(CH3COO)2 in the polluted soils inhibited the development of Pseudomonas bacteria to a great extent (Fig. 5c) 
-uring the experiment, it was not possible to isolate representatives of this genus from the Pb(CH3COO)2 polluted soil without the application of any prepara tions 
-n this case, Pseudomonas bacteria are in the group of minor components 
-he applica tion of the bacterial–humus preparations has caused a significant increase (more than 10%) in the share of EURASIAN SOIL SCIENCE  Vol. 48  No. 4  2015  THE INFLUENCE OF BACTERIAL–HUMUS PREPARATIONS  405  Table 1 
-hanges in the structure of the saprotrophic bacterial complex Variant  Dominants  Subdominants  Arthrobacter  C  Bacillus  HA  BS  Arthrobacter  HA + BS MC  Bacillus  HA + MC  Pb  Average abundance  Arthrobacter  Minor components Myxococcus, Rhodococcus, Streptomyces, Polyangium, Cy tophaga,Vibrio, Erwinia, Cellu lomonas  Arthrobacter  Rhodococcus, Myxococ Cytophaga,Vibrio, Proteus, cus, Streptomyces Pseudomonas, Bacillus, Xanto monas, Erwinia  Bacillus  Myxococcus  Rhodococcus  Arthrobacter, Cytophaga Bacillus, Myxococcus, Pseudomonas, Streptomyces  Arthrobacter  Streptomyces  Rhodococcus, Spirillum, Pseudomonas, Streptomyces, Cy tophaga  Rhodococcus, Vibrio, Myxococ cus, Erwinia, Cytophaga, Poly angium, Pseudomonas  Bacillus, Arthrobacter Myxococcus  Rhodococcus, Vibrio, Pseudomo nas, Streptomyces, Cytophaga, Erwinia, Cellulomonas  Bacillus  Rhodococcus, Vibrio, Myxococcus, Proteus, Streptomyces, Cytophaga, Cellulomonas, Enterobacter  Pb + HA  Arthrobacter, Rhodococ Bacillus, Myxococcus, Strepto cus, Pseudomonas, myces, Erwinia, Cytophaga, Vibrio Polyangium  Pb + BS  Bacillus, Arthrobacter Myxococcus, Streptomy Rhodococcus, Proteus, Pseudomonas, Cytophaga, Poly ces, angium, Cellulomonas  Pb + HA + BS Arthrobacter  Rhodococcus, Pseudomonas, Bacillus  Myxococcus, Cytophaga, Strepto myces, Vibrio, Polyangium, Cel lulomonas  Pb + MC  Streptomyces  Rhodococcus, Vibrio, Myxococ cus, Spirillum, Pseudomonas, Cellulomonas  Bacillus, Arthrobacter  Pb + HA + MC Arthrobacter  Rhodococcus,Myxococ Bacillus, Cytophaga, Erwinia, cus, Pseudomonas, Polyangium, Vibrio, Cellulomo Streptomyces nas, Enterobacter, Serratia  G  Vibrio  Bacillus, Myxococcus  Arthrobacter, Pseudomonas, Streptomyces, Erwinia, Rhodo coccus, Cellulomonas  G + HA  Arthrobacter  Bacillus, Pseudomonas  Rhodococcus, Vibrio, Streptomy ces, Cytophaga, Alcaligenes  G + BS  Myxococcus  Bacillus, Aeromonas, Pseudomonas  Arthrobacter, Vibrio, Rhodococ cus, Proteus, Cytophaga  G + HA + BS  Arthrobacter  Myxococcus  G + MC  Myxococcus  Bacillus  Arthrobacter, Vibrio  Rhodococcus, Pseudomonas, Spirillum  Pseudomonas  Bacillus, Arthrobacter  Myxococcus, Cytophaga, Entero bacter, Proteus, Alcaligenes, Aero monas, Rhodococcus, Vibrio  G + HA + MC  EURASIAN SOIL SCIENCE  Myxococcus  Vol. 48  No. 4  Bacillus,Rhodococcus, Pseudomonas, Vibrio, Streptomy ces, Cytophaga, Enterobacter, Aeromonas  2015  406  KOZLOVA et al 
-hanges in the biomass of cress salad.  representatives of this group 
-hus, bacteria of this group could be referred to the group of medium abundance 
-he gasoline contamination exerted a less adverse effect on the development of Pseudomo nas bacteria as compared to the influence of Pb(CH3COO)2, since gasoline components can be used as a substrate 
+s the bacterial– humus preparations were applied the share of Bacil lus bacteria significantly decreased Fig . 5a 
+he studies showed that Pb CH3COO 2 in the polluted soils inhibited the development of Pseudomonas bacteria to a great extent Fig . 5c 
+uring the experiment it was not possible to isolate representatives of this genus from the Pb CH3COO 2 polluted soil without the application of any prepara tions 
+n this case Pseudomonas bacteria are in the group of minor components 
+he applica tion of the bacterial–humus preparations has caused a significant increase more than 10 % in the share of EURASIAN SOIL SCIENCE Vol . 48 No . 4 2015 THE INFLUENCE OF BACTERIAL–HUMUS PREPARATIONS 405 Table 1 
+hanges in the structure of the saprotrophic bacterial complex Variant Dominants Subdominants Arthrobacter C Bacillus HA BS Arthrobacter HA + BS MC Bacillus HA + MC Pb Average abundance Arthrobacter Minor components Myxococcus Rhodococcus Streptomyces Polyangium Cy tophaga Vibrio Erwinia Cellu lomonas Arthrobacter Rhodococcus Myxococ Cytophaga Vibrio Proteus cus Streptomyces Pseudomonas Bacillus Xanto monas Erwinia Bacillus Myxococcus Rhodococcus Arthrobacter Cytophaga Bacillus Myxococcus Pseudomonas Streptomyces Arthrobacter Streptomyces Rhodococcus Spirillum Pseudomonas Streptomyces Cy tophaga Rhodococcus Vibrio Myxococ cus Erwinia Cytophaga Poly angium Pseudomonas Bacillus Arthrobacter Myxococcus Rhodococcus Vibrio Pseudomo nas Streptomyces Cytophaga Erwinia Cellulomonas Bacillus Rhodococcus Vibrio Myxococcus Proteus Streptomyces Cytophaga Cellulomonas Enterobacter Pb + HA Arthrobacter Rhodococ Bacillus Myxococcus Strepto cus Pseudomonas myces Erwinia Cytophaga Vibrio Polyangium Pb + BS Bacillus Arthrobacter Myxococcus Streptomy Rhodococcus Proteus Pseudomonas Cytophaga Poly ces angium Cellulomonas Pb + HA + BS Arthrobacter Rhodococcus Pseudomonas Bacillus Myxococcus Cytophaga Strepto myces Vibrio Polyangium Cel lulomonas Pb + MC Streptomyces Rhodococcus Vibrio Myxococ cus Spirillum Pseudomonas Cellulomonas Bacillus Arthrobacter Pb + HA + MC Arthrobacter Rhodococcus Myxococ Bacillus Cytophaga Erwinia cus Pseudomonas Polyangium Vibrio Cellulomo Streptomyces nas Enterobacter Serratia G Vibrio Bacillus Myxococcus Arthrobacter Pseudomonas Streptomyces Erwinia Rhodo coccus Cellulomonas G + HA Arthrobacter Bacillus Pseudomonas Rhodococcus Vibrio Streptomy ces Cytophaga Alcaligenes G + BS Myxococcus Bacillus Aeromonas Pseudomonas Arthrobacter Vibrio Rhodococ cus Proteus Cytophaga G + HA + BS Arthrobacter Myxococcus G + MC Myxococcus Bacillus Arthrobacter Vibrio Rhodococcus Pseudomonas Spirillum Pseudomonas Bacillus Arthrobacter Myxococcus Cytophaga Entero bacter Proteus Alcaligenes Aero monas Rhodococcus Vibrio G + HA + MC EURASIAN SOIL SCIENCE Myxococcus Vol . 48 No . 4 Bacillus Rhodococcus Pseudomonas Vibrio Streptomy ces Cytophaga Enterobacter Aeromonas 2015 406 KOZLOVA et al 
+hanges in the biomass of cress salad . representatives of this group 
+hus bacteria of this group could be referred to the group of medium abundance 
+he gasoline contamination exerted a less adverse effect on the development of Pseudomo nas bacteria as compared to the influence of Pb CH3COO 2 since gasoline components can be used as a substrate 
 he use of the bacterial–humus preparations also promoted the increase in the pro portion of Pseudomonas bacteria 
 he soil pollution less adversely affected the devel opment of Rhodococcus bacteria than that of the Pseudomonas representatives 
-owever, in this case, the positive influence of the bacterial–humus prepara tions was also visible (Fig. 5c) 
+owever in this case the positive influence of the bacterial–humus prepara tions was also visible Fig . 5c 
 he effect from using the bacterial–humus preparations was 3–5 times higher than the positive action from the application of the bacterial suspensions 
-he 4% gasoline contamina tion of the soils reduced the biomass of the cresssalad by an order of magnitude 
+he 4 % gasoline contamina tion of the soils reduced the biomass of the cresssalad by an order of magnitude 
 he use of the bacterial– humus preparations increased its biomass by 1.5– 2.0 times 
-heir effect was 10–20% higher than that of the bacterial suspensions (Fig. 6) 
-he Pb(CH3COO)2 pollution reduced the biomass by 25% 
-he applica tion of the bacterial–humus preparations favored the increase in the plant biomass by 40–50%; a faster tran sition from the stage of vegetation to the flowering stage was observed 
+heir effect was 10–20 % higher than that of the bacterial suspensions Fig . 6 
+he Pb CH3COO 2 pollution reduced the biomass by 25 % 
+he applica tion of the bacterial–humus preparations favored the increase in the plant biomass by 40–50 % a faster tran sition from the stage of vegetation to the flowering stage was observed 
 tatistical analysis of the results of the model exper iment 
-or the classification of the test variants, cluster analysis was used 
-he variance analysis has revealed the following (Table 2) 
+or the classification of the test variants cluster analysis was used 
+he variance analysis has revealed the following Table 2 
 ll the factors considered affected these characteristics 
 he introduction of any bacteria did not affect the nitrogen fixation 
-nly one factor, the soil pollution, influenced the respiration activity of the microorganisms (p = 0.0002) 
-sing the cluster analysis of the Word method, the test variants were divided into several classes 
-his analysis also enables one to divide the variants into conventional groups (Fig. 7): unpolluted soil (contains 3 objects: C, HA, HA + BS); restored soil (contains 10 objects: BS, MC, HA + MC, Pb + HA, Pb + HA + BS, Pb + MC, Pb + HA + MC, G + HA + BS, G + MC, G + HA + MC); polluted soil (contains 5 objects: Pb, Pb + BS, G, G + HA, G + BS) 
-hus, the cluster analysis has confirmed the effi ciency of using bacterial–humus preparations for the restoration of the biological activity of contaminated soils 
+nly one factor the soil pollution influenced the respiration activity of the microorganisms p = 0.0002 
+sing the cluster analysis of the Word method the test variants were divided into several classes 
+his analysis also enables one to divide the variants into conventional groups Fig . 7 unpolluted soil contains 3 objects C HA HA + BS ; restored soil contains 10 objects BS MC HA + MC Pb + HA Pb + HA + BS Pb + MC Pb + HA + MC G + HA + BS G + MC G + HA + MC ; polluted soil contains 5 objects : Pb Pb + BS G G + HA G + BS 
+hus the cluster analysis has confirmed the effi ciency of using bacterial–humus preparations for the restoration of the biological activity of contaminated soils 
 he respira tion intensity by the soil microorganisms turned out to be the most resistant to soil pollution 
 he type of pol lution also influenced the soil biological activity 
-n all the test variants, the application of the bacterial–humus prep arations had the highest positive effect on the biologi cal activity 
+n all the test variants the application of the bacterial–humus prep arations had the highest positive effect on the biologi cal activity 
 esults of the cluster analysis 
-he gasoline contamination ten times low ered the plant biomass, while Pb(CH3COO)2 inhibited the growth of plants to a lesser extent 
-he bacterial– humus preparations stronger increased the plant bio mass (by 10–20%) than the introduction only of the bacterial suspensions 
-n addition, humic acids enriched with the complex of microorganisms of the mucky–gley soil accelerated the transition of plants from the vegetation stage to the flowering stage 
-ysak, “Application of bacterialhumus preparations in the remediation of soils contaminated with diesel fuel,” Eurasian Soil Sci. 47 (5), 449–452 (2014). doi: 10.7868/S0032180X14050104 L 
-tepanov, “The effect of a bacterialhumus preparation on the biological activity of soils,” Eur asian Soil Sci. 46 (7), 788–792 (2013). doi: 10.7868/S0032180X13070137  4 
-otal number of bacteria.  Fig. 2 
-he relative abundance of bacteria from  G + HA +MC  G + MC  G + HA + BS  G + BS  G + HA  G  Pb + HA + MC  Pb + MC  Pb + HA + BS  Pb + BS  Pb + HA  Pb  HA + BS  BS  HA  C  µmol CO2/g 24 h 10 9 8 7 6 5 4 3 2 1 0  HA + MC  KOZLOVA et al.  MC  404  Fig. 4 
-URASIAN SOIL SCIENCE  Vol. 48  No. 4  2015  THE INFLUENCE OF BACTERIAL–HUMUS PREPARATIONS  407  Table 2 
-alakhov (Gidrometeoizdat, Moscow, 1984) [in Russian]. 2 
-his is also true for Pb(CH3COO)2 
-etrusov, “Microbial producers of plant growth  Translated by L 
-udina, E 
-atis, E 
+he gasoline contamination ten times low ered the plant biomass while Pb CH3COO 2 inhibited the growth of plants to a lesser extent 
+he bacterial– humus preparations stronger increased the plant bio mass by 10–20 % than the introduction only of the bacterial suspensions 
+n addition humic acids enriched with the complex of microorganisms of the mucky–gley soil accelerated the transition of plants from the vegetation stage to the flowering stage 
+ysak “ Application of bacterialhumus preparations in the remediation of soils contaminated with diesel fuel ” Eurasian Soil Sci . 47 5 , 449–452 2014 . doi 10.7868/S0032180X14050104 L 
+tepanov “ The effect of a bacterialhumus preparation on the biological activity of soils ” Eur asian Soil Sci . 46 7 , 788–792 2013 . doi 10.7868/S0032180X13070137 4 
+he microbial biomass can sorb heavy metals 2 6 11 
+otal number of bacteria . Fig . 2 
+his is also true for Pb CH3COO 2 
+he relative abundance of bacteria from G + HA +MC G + MC G + HA + BS G + BS G + HA G Pb + HA + MC Pb + MC Pb + HA + BS Pb + BS Pb + HA Pb HA + BS BS HA C µmol CO2/g 24 h 10 9 8 7 6 5 4 3 2 1 0 HA + MC KOZLOVA et al . MC 404 Fig . 4 
+URASIAN SOIL SCIENCE Vol . 48 No . 4 2015 THE INFLUENCE OF BACTERIAL–HUMUS PREPARATIONS 407 Table 2 
+icrobiol . 42 2 , 117–126 2006 
+alakhov Gidrometeoizdat Moscow 1984 [ in Russian . 2 
+etrusov “ Microbial producers of plant growth Translated by L 
+udina E 
+atis E 

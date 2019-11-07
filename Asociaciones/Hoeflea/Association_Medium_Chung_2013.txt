@@ -1,114 +1,118 @@
-haracteristic  1  2  Temperature range (uC) 10–42 4–42 NaCl (%, w/v) range 0–9.5 0–11.5 pH range 5.0–10.0 6.0–9.0 Hydrolysis of: Tween 20 2 + Tween 80 2 + Reduction of nitrate to + 2 nitrite b-Galactosidase 2 + Assimilation of: N-Acetylglucosamine + 2 Esterase lipase (C8) 2 + Trypsin + 2 a-Glucosidase + 2 b-Glucosidase 2 + Utilization of Erythritol + 2 D-Arabinose + 2 D-Xylose + 2 Salicin + 2 L-Fucose + 2 Bacteriochlorophyll a 2 2 DNA G +C content 53.7 59.7D (mol%)  3 ND ND ND  4  5  15–33 10–37 0–7.0 0–5.0 5.5–9.0 5.5–8.0  ND  2 + 2  + + 2  +  +  +  2 2 + 2 +  2 2 + + 2  2 2 2 2 2  ND ND  2 2 ND 2 ND 2 ND 2 2* + 58.1* 59.3d ND  +  2 2 2 2 2 2 53.1§  *Data obtained from Stevenson et al. (2011) 
-t can use D-glucose, D-ribose, D-xylose, L-xylose, D-fucose, L-fucose, D-arabitol, potassium 5-ketogluconase, D-arabinose, Larabinose, N-acetylglucosamine, malate, salicin and glycerol as a single carbon source available in the API 20NE and API 50CH systems 
-nzyme activities and acid production from different carbohydrates were determined by using API ZYM and API 20E kits at 30 uC, respectively, according to instructions of the manufacturer (bioMérieux) 
-he analysis of fatty acid methyl esters was performed according to the instructions of the Microbial Identification System (MIDI; Microbial ID, Inc.) 
-xtracts were analysed by GC (Agilent 6890) and identified by comparing the fatty acid profiles with the TSBA 40 database provided with the Sherlock Software 4.0. 2278  Table 1 
-otal lipid profiles were detected by spraying with phosphomolybdic acid solution (Sigma-Aldrich) followed by heating at 150 uC for 10 min 
+haracteristic 1 2 Temperature range uC 10–42 4–42 NaCl % w/v range 0–9.5 0–11.5 pH range 5.0–10.0 6.0–9.0 Hydrolysis of Tween 20 2 + Tween 80 2 + Reduction of nitrate to + 2 nitrite b-Galactosidase 2 + Assimilation of N-Acetylglucosamine + 2 Esterase lipase C8 2 + Trypsin + 2 a-Glucosidase + 2 b-Glucosidase 2 + Utilization of Erythritol + 2 D-Arabinose + 2 D-Xylose + 2 Salicin + 2 L-Fucose + 2 Bacteriochlorophyll a 2 2 DNA G +C content 53.7 59.7D mol % 3 ND ND ND 4 5 15–33 10–37 0–7.0 0–5.0 5.5–9.0 5.5–8.0 ND 2 + 2 + + 2 + + + 2 2 + 2 + 2 2 + + 2 2 2 2 2 2 ND ND 2 2 ND 2 ND 2 ND 2 2* + 58.1* 59.3d ND + 2 2 2 2 2 2 53.1§ *Data obtained from Stevenson et al . 2011 
+t can use D-glucose D-ribose D-xylose L-xylose D-fucose L-fucose D-arabitol potassium 5-ketogluconase D-arabinose Larabinose N-acetylglucosamine malate salicin and glycerol as a single carbon source available in the API 20NE and API 50CH systems 
+nzyme activities and acid production from different carbohydrates were determined by using API ZYM and API 20E kits at 30 uC respectively according to instructions of the manufacturer bioMérieux 
+he analysis of fatty acid methyl esters was performed according to the instructions of the Microbial Identification System MIDI Microbial ID Inc . 
+xtracts were analysed by GC Agilent 6890 and identified by comparing the fatty acid profiles with the TSBA 40 database provided with the Sherlock Software 4.0 . 2278 Table 1 
+otal lipid profiles were detected by spraying with phosphomolybdic acid solution Sigma-Aldrich followed by heating at 150 uC for 10 min 
 he cellular fatty acid profiles of strain YC6898T and the type strains of related Hoeflea species are shown in Table 2 
-he predominant cellular fatty acid was C18 : 1v7c (61.1 %), which was shared with other closely related members of the genus Hoeflea 
-ellular fatty acid composition (%) of strain YC6898T and the type strains of related taxa Strains: 1, YC6898T; 2, H. alexandrii KACC 12994T; 3, H. anabaenae WH2KT; 4, H. phototrophica KACC 12992T; 5, H. marina KACC 12993T 
-atty acid Saturated C16 : 0 C18 : 0 Unsaturated C18 : 1v7c C18 : 1v9c 11-methyl C18 : 1v7c Hydroxy C12 : 0 3-OH Cyclopropane C19 : 0 cyclo v8c Summed features* C14 : 0 3-OH and/or iso-C16 : 1 I C16 : 1 v7c and/or C15 : 0 iso 2-OH C19 : 1 v6c and/or ECL 18.846 Unidentified ECL 17.603D  1  2  3  11.9 2.3  8.0 2  1.8 4.0  61.1 68.2 2 2 9.6 10.8  4  5  11.0 12.5 2 2.1  64.0* 51.1 64.4 6.6 2 2.3 2.6 11.2 8.7  1.3  2  2  2  2  8.0  4.4  2  14.3  3.6  2 4.2 1.7  4.8 3.8 2  2 2 7.5  2  2  13.5  5.1 4.3 7.3 2 2 2.3 2  2  *Summed features represent groups of two or three fatty acids that could not be separated by GLC with the MIDI system 
-1) and fatty acid profiles (Table 2) supported the affiliation of strain YC6898T to the genus Hoeflea in the family Phyllobacteriaceae 
-n the API ZYM kit, it shows enzyme activities of alkaline phosphatase, leucine arylamidase, trypsin, acid phosphatase, naphthol-AS-BI-phosphohydrolase, a-galactosidase and a-glucosidase, but not of esterase (C4), lipase (C14), valine arylamidase, cystine arylamidase, a-chymotrypsin, a-mannosidase or a-fucosidase 
-he CLUSTAL_X windows interface: flexible  measurement of the G+C content of deoxyribonucleic acid by highperformance liquid chromatography 
-rowth under anaerobic conditions was determined for 7 days at 30 uC in an anaerobic Gaspak jar containing an atmosphere of CO2 (Gas-Pack System; Becton Dickinson) 
-International Journal of Systematic and Evolutionary Microbiology (2013), 63, 2277–2281  DOI 10.1099/ijs.0.045484-0  Hoeflea suaedae sp. nov., an endophytic bacterium isolated from the root of the halophyte Suaeda maritima Eu Jin Chung,1 Jeong Ae Park,2 Prabhat Pramanik,2 Fehmida Bibi,2 Che Ok Jeon3 and Young Ryun Chung2 Correspondence Young Ryun Chung yrchung@gnu.ac.kr  1  Department of Research & Technology Development, JGreen Inc., Jinju 660-841, Republic of Korea  2  Division of Applied Life Science (BK21), Plant Molecular Biology & Biotechnology Research Center, Gyeongsang National University, Jinju 660-701, Republic of Korea  3  Department of Life Sciences, Chung-Ang University, Seoul 156-756, Republic of Korea  A Gram-negative, aerobic, short rod-shaped bacterium, designated strain YC6898T, was isolated from the surface-sterilized root of a halophyte (Suaeda maritima) inhabiting tidal flat of Namhae Island, Korea 
+he predominant cellular fatty acid was C18 1v7c 61.1 % , which was shared with other closely related members of the genus Hoeflea 
+ellular fatty acid composition % of strain YC6898T and the type strains of related taxa Strains 1 YC6898T 2 H. alexandrii KACC 12994T 3 H. anabaenae WH2KT 4 H. phototrophica KACC 12992T 5 H. marina KACC 12993T 
+atty acid Saturated C16 0 C18 0 Unsaturated C18 1v7c C18 1v9c 11-methyl C18 1v7c Hydroxy C12 0 3-OH Cyclopropane C19 0 cyclo v8c Summed features* C14 0 3-OH and/or iso-C16 1 I C16 1 v7c and/or C15 0 iso 2-OH C19 1 v6c and/or ECL 18.846 Unidentified ECL 17.603D 1 2 3 11.9 2.3 8.0 2 1.8 4.0 61.1 68.2 2 2 9.6 10.8 4 5 11.0 12.5 2 2.1 64.0* 51.1 64.4 6.6 2 2.3 2.6 11.2 8.7 1.3 2 2 2 2 8.0 4.4 2 14.3 3.6 2 4.2 1.7 4.8 3.8 2 2 2 7.5 2 2 13.5 5.1 4.3 7.3 2 2 2.3 2 2 *Summed features represent groups of two or three fatty acids that could not be separated by GLC with the MIDI system 
+1 and fatty acid profiles Table 2 supported the affiliation of strain YC6898T to the genus Hoeflea in the family Phyllobacteriaceae 
+n the API ZYM kit it shows enzyme activities of alkaline phosphatase leucine arylamidase trypsin acid phosphatase naphthol-AS-BI-phosphohydrolase a-galactosidase and a-glucosidase but not of esterase C4 lipase C14 valine arylamidase cystine arylamidase , a-chymotrypsin , a-mannosidase or a-fucosidase 
+he CLUSTAL_X windows interface flexible measurement of the G+C content of deoxyribonucleic acid by highperformance liquid chromatography 
+rowth under anaerobic conditions was determined for 7 days at 30 uC in an anaerobic Gaspak jar containing an atmosphere of CO2 Gas-Pack System Becton Dickinson 
+International Journal of Systematic and Evolutionary Microbiology 2013 63 2277–2281 DOI 10.1099/ijs.0.045484-0 Hoeflea suaedae sp . nov. an endophytic bacterium isolated from the root of the halophyte Suaeda maritima Eu Jin Chung,1 Jeong Ae Park,2 Prabhat Pramanik,2 Fehmida Bibi,2 Che Ok Jeon3 and Young Ryun Chung2 Correspondence Young Ryun Chung yrchung @ gnu.ac.kr 1 Department of Research & Technology Development JGreen Inc. Jinju 660-841 Republic of Korea 2 Division of Applied Life Science BK21 Plant Molecular Biology & Biotechnology Research Center Gyeongsang National University Jinju 660-701 Republic of Korea 3 Department of Life Sciences Chung-Ang University Seoul 156-756 Republic of Korea A Gram-negative aerobic short rod-shaped bacterium designated strain YC6898T , was isolated from the surface-sterilized root of a halophyte Suaeda maritima inhabiting tidal flat of Namhae Island , Korea 
 train YC6898T grew optimally at 30–37 6C and pH 6.5–7.5 
 he strain inhibited mycelial growth of Pythium ultimum and Phytophthora capsici 
-ts closest relatives were Hoeflea alexandrii AM1V30T (96.7 % 16S rRNA gene sequence similarity), Hoeflea anabaenae WH2KT (95.7 %), Hoeflea phototrophica DFL-43T (95.5 %) and Hoeflea marina LMG 128T (94.8 %) 
-he major fatty acids of strain YC6898T were C18 : 1v7c (61.1 %), C16 : 0 (11.9 %), 11-methyl C18 : 1v7c (9.6 %) and C19 : 0 cyclo v8c (8.0 %) 
-he polar lipids were phosphatidylcholine, phosphatidylethanolamine, phosphatidylmonomethylethanolamine, phosphatidylglycerol, unknown lipids and an unknown glycolipid 
-n the basis of phenotypic, chemotaxonomic and phylogenetic analysis, strain YC6898T represents a novel species of the genus Hoeflea, for which the name Hoeflea suaedae sp. nov. is proposed 
-embers of the genus Hoeflea are Gram-negative, aerobic, non-spore-forming and halotolerant, being isolated from marine sources 
-t the time of writing, the genus comprises four recognized species: H. marina (Peix et al., 2005), Hoeflea phototrophica (Biebl et al., 2006), Hoeflea alexandrii (Palacios et al., 2006) and Hoeflea anabaenae (Stevenson et al., 2011) 
-uring a screening of endophytic bacteria with antifungal activity, one strain, YC6898T, with strong growth inhibition of the oomycete plant pathogens Phytophthora capsici and Pythium ultimum, were isolated from the root of a tidal flat plant, Suaeda maritima, inhabiting Namhae The GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain YC6898T is HM800935 
-ere we report the taxonomic characterization of strain YC6898T, and show that this represents a novel species of the genus Hoeflea 
-ell morphology and the presence of flagellum were investigated under a Nikon light microscope (10006 magnification) and a transmission electron microscope (Hitachi, model H-600) using cells grown in marine broth 2216 (MB; Difco) at 30 uC for 48 h 
-atalase and oxidase tests were performed by the procedures as outlined in Cappuccino & Sherman (2002) 
-he physiological properties of strain YC6898T and related type strains, including H. marina KACC 12993T, H. alexandrii KACC 12994T and H. phototrophica KACC 12992T, were  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:21:58  Printed in Great Britain  2277  E 
-hung and others  determined using tests as described: hydrolysis of casein, aesculin, gelatin, starch, L-tyrosine and urea (Brown, 2007), and Tweens 20 and 80 (Atlas, 1993) and production of cellulase (Teather & Wood, 1982), chitinase (Singh et al., 1999) and protease (Atlas, 1993) 
+ts closest relatives were Hoeflea alexandrii AM1V30T 96.7 % 16S rRNA gene sequence similarity , Hoeflea anabaenae WH2KT 95.7 % , Hoeflea phototrophica DFL-43T 95.5 % and Hoeflea marina LMG 128T 94.8 % 
+he major fatty acids of strain YC6898T were C18 1v7c 61.1 % , C16 0 11.9 % , 11-methyl C18 1v7c 9.6 % and C19 0 cyclo v8c 8.0 % 
+he polar lipids were phosphatidylcholine phosphatidylethanolamine phosphatidylmonomethylethanolamine phosphatidylglycerol unknown lipids and an unknown glycolipid 
+n the basis of phenotypic chemotaxonomic and phylogenetic analysis strain YC6898T represents a novel species of the genus Hoeflea for which the name Hoeflea suaedae sp . nov. is proposed 
+embers of the genus Hoeflea are Gram-negative aerobic non-spore-forming and halotolerant being isolated from marine sources 
+t the time of writing the genus comprises four recognized species H. marina Peix et al. 2005 Hoeflea phototrophica Biebl et al. 2006 Hoeflea alexandrii Palacios et al. , 2006 and Hoeflea anabaenae Stevenson et al. , 2011 
+uring a screening of endophytic bacteria with antifungal activity one strain YC6898T with strong growth inhibition of the oomycete plant pathogens Phytophthora capsici and Pythium ultimum were isolated from the root of a tidal flat plant Suaeda maritima inhabiting Namhae The GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain YC6898T is HM800935 
+ndophytic bacteria residing in the tissue of plants may have beneficial effects on host plants and in particular antagonistic endophytic bacteria against plant pathogens in tidal flat plants may be novel biocontrol agents of oomycete plant pathogens Hallmann et al. 1997 Downing & Thomson 2000 Bibi et al. 2012 
+ere we report the taxonomic characterization of strain YC6898T and show that this represents a novel species of the genus Hoeflea 
+ell morphology and the presence of flagellum were investigated under a Nikon light microscope 10006 magnification and a transmission electron microscope Hitachi model H-600 using cells grown in marine broth 2216 MB Difco at 30 uC for 48 h 
+atalase and oxidase tests were performed by the procedures as outlined in Cappuccino & Sherman 2002 
+he physiological properties of strain YC6898T and related type strains including H. marina KACC 12993T H. alexandrii KACC 12994T and H. phototrophica KACC 12992T were Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Thu 15 Feb 2018 22:21:58 Printed in Great Britain 2277 E 
+hung and others determined using tests as described hydrolysis of casein aesculin gelatin starch L-tyrosine and urea Brown 2007 and Tweens 20 and 80 Atlas 1993 and production of cellulase Teather & Wood 1982 chitinase Singh et al. , 1999 and protease Atlas , 1993 
 ssimilation of various substrates was determined by using API 20NE and API 50CH kits as recommended by the manufacturer 
-rowth at different temperatures (4, 10, 15, 20, 25, 30, 33, 37, 40, 42, 45 uC) and various pH values (pH 4.5–10.5 at intervals of 0.5 pH units) was assayed after 4 days incubation 
-rowth on nutrient agar, Luria–Bertani (LB) agar, Czapek-dox agar, trypticase soy agar (TSA), MA, MacConkey agar and R2A agar was evaluated at 30 uC after 4 days incubation 
-ntagonistic activity of strain YC6898T was detected as inhibition of mycelial growth of Py. ultimum and Ph. capsici using a confrontation bioassay (Bibi et al., 2012) 
-alt tolerance was tested in NaCl-free artificial seawater (ASW) containing 5 g peptone and 1 g yeast extract supplemented with 0–12 % (w/v, at 0.5 % intervals) NaCl after 2 days incubation at 30 uC (Kim et al., 2007) 
-  Cells of strain YC6898 were Gram-negative, motile, aerobic and rod-shaped 
+rowth at different temperatures 4 10 15 20 25 30 33 37 40 42 45 uC and various pH values pH 4.5–10.5 at intervals of 0.5 pH units was assayed after 4 days incubation 
+rowth on nutrient agar Luria–Bertani LB agar Czapek-dox agar trypticase soy agar TSA MA , MacConkey agar and R2A agar was evaluated at 30 uC after 4 days incubation 
+ntagonistic activity of strain YC6898T was detected as inhibition of mycelial growth of Py . ultimum and Ph . capsici using a confrontation bioassay Bibi et al. 2012 
+alt tolerance was tested in NaCl-free artificial seawater ASW containing 5 g peptone and 1 g yeast extract supplemented with 0–12 % w/v at 0.5 % intervals NaCl after 2 days incubation at 30 uC Kim et al. 2007 
+Cells of strain YC6898 were Gram-negative motile aerobic and rod-shaped 
 train YC6898T exhibited positive reactions for oxidase and catalase activities 
-he strain grew well on LB agar, MA, R2A agar, TSA, Czapek-dox agar and nutrient agar media, but did not grow on MacConkey agar medium 
-train YC6898T inhibited mycelial growth of Py. ultimum and Ph. capsici 
+he strain grew well on LB agar MA R2A agar TSA Czapek-dox agar and nutrient agar media but did not grow on MacConkey agar medium 
+train YC6898T inhibited mycelial growth of Py . ultimum and Ph . capsici 
 he physiological and biochemical characteristics of strain YC6898T are summarized in the species description and a comparison of selective characteristics with related type strains is given in Table 1 
-or analysis of cellular fatty acids, strain YC6898T and the related type strains were cultivated in MB at 30 uC and cells were harvested at the mid-exponential growth phase (OD600 of 0.4–0.5) 
-ifferential phenotypic characteristics of strain YC6898T and members of related taxa Strains: 1, YC6898T; 2, H. alexandrii KACC 12994T; 3, H. anabaenae WH2KT; 4, H. phototrophica KACC 12992T; 5, H. marina KACC 12993T 
-Data obtained from Palacios et al. (2006). dData obtained from Biebl et al. (2006). §Data obtained from Peix et al. (2005).  Isoprenoid quinones were extracted and analysed using reversed-phase HPLC according to the method described by Komagata & Suzuki (1987) 
-or measurement of the G+C content of the chromosomal DNA, the genomic DNA of strain YC6898T was extracted and purified as described (Ausubel et al., 1995) 
-t was then enzymically degraded into nucleosides and G+C content was determined with a reversed-phase C18 column (Mesbah et al., 1989) 
-olar lipids were extracted according to the modified method of Minnikin et al. (1984) and separated by TLC on a Merck Kieselgel 60-HPTLC system 
-lycolipids were detected with 1-naphthol spray reagent by heating at 100 uC for 3–5 min (Jacin & Mishkin, 1965).  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 63 IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:21:58  Hoeflea suaedae sp. nov.  The presence of phosphatidylcholine was detected with Dragendorff reagent (Sigma-Aldrich) 
-16 : 0 (11.9 %), 11-methyl C18 : 1v7c (9.6 %), C19 : 0 cyclo v8c (8.0 %), C16 : 1 v7c and/or iso-C15 : 0 2-OH (4.2 %), C18 : 0 (2.3 %), C12 : 0 3-OH (1.3 %) and C19 : 1 v6c and/or ECL 18.846 (1.7 %) were found in strain YC6898T 
-train YC6898T exhibited a polar lipid profile consisting of phosphatidylethanolamine (PE), phosphatidylglycerol (PG), phosphatidylcholine (PC), phosphatidylmonomethylethanolamine (PME), sulfoquinovosyl diacylglycerol (SQDG), an unknown glycolipid (GL2) and unknown lipids (L1, 2, 4) (Fig 
-E, PME, PG, PC, SQDG and L1 were common to strain YC6898T, H. marina LMG 128T and H. alexandrii AM1V30T, but diphosphatidylglycerol (DPG) was detected only in H. alexandrii AM1V30T.  Table 2 
-he 16S rRNA gene was PCR amplified from the genomic DNA by using primers 27F and 1492R (Lane, 1991) 
-he amplified PCR product was cloned into T&A cloning vector (RBC) and sequenced by GenoTech Inc. 16S rRNA gene sequences were compiled using SeqMan software (DNASTAR) and the sequences of related taxa were obtained from the GenBank database 
-hylogenetic trees were constructed by using the neighbour-joining method (Saitou & Nei, 1987) in the program MEGA4 (Tamura et al., 2007) and maximum-parsimony (Fitch, 1971) and maximum-likelihood methods in PHYLIP software, version 3.6 (Felsenstein, 2002), with bootstrap values based on 1000 replications (Felsenstein, 1985) 
-airwise sequence similarity values between strain YC6898T and related taxa were computed by using the EzTaxon-e server (Kim et al., 2012) 
-ased on the phylogenetic analysis of 16S rRNA gene sequences, the closest relatives of strain YC6898T were H. alexandrii AM1V30T (96.7 % similarity), H. anabaenae WH2KT (95.7 %), H. phototrophica DFL-43T (95.5 %) and H. marina LMG 128T (94.8 %) 
-nalysis with the maximum-likelihood and maximum-parsimony algorithms also showed that strain YC6898T formed a phylogenetic cluster with H. anabaenae WH2KT and H. alexandrii AM1V30T within the genus Hoeflea (Fig 
-he results of phylogenetic analysis (Figs 1 and S2), physiological and biochemical characteristics (Table 1), polar lipid analysis (Fig 
-ells are Gram-negative, aerobic, short rod-shaped (0.3– 0.5 mm wide by 1.3–1.4 mm long) and motile by a single polar flagellum 
-olonies grown on MA at 30 uC for 2 days are 1.0–2.0 mm in diameter, white-cream, transparent, smooth, flat and circular 
-atalase and oxidase reactions are  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:21:58  2279  E 
-hung and others  Mesorhizobium loti LMG 6125T (X67229)  100  0.01  Mesorhizobium ciceri UPM-Ca7T (U07934) Mesorhizobium amorphae ACCC 19665T (AF041442)  53  100  Mesorhizobium huakuii IAM 14158T (D12797)  Mesorhizobium chacoense Pr5T (AJ278249)  82  Aminobacter aminovorans DSM 7048T (AJ011759) 100  Aminobacter aganoensis DSM 7051T (AJ011760) Aminobacter ciceronei IMB-1T (AF034798) Aquamicrobium defluvii DSM 11603T (Y15403)  100  Defluvibacter lusatiensis DSM 11099T (AJ132378) Pseudaminobacter defluvii THI 051T (D32248)  57  Pseudaminobacter salicylatoxidans BN12T (AF072542)  96  Phyllobacterium leguminum ORS 1419T (AY785323) Phyllobacterium myrsinacearum IAM 13584T (D12789)  85  Hoeflea suaedae YC6898T (HM800935) Hoeflea anabaenae WH2KT (DQ364238)  88  Hoeflea alexandrii  83  AM1V30T (AJ786600) Hoeflea marina LMG 128T (AY598817)  60 99  Hoeflea phototrophica DFL-43T (AJ582088)  Fig. 1 
+or analysis of cellular fatty acids strain YC6898T and the related type strains were cultivated in MB at 30 uC and cells were harvested at the mid-exponential growth phase OD600 of 0.4–0.5 
+ifferential phenotypic characteristics of strain YC6898T and members of related taxa Strains 1 YC6898T 2 H. alexandrii KACC 12994T 3 H. anabaenae WH2KT 4 H. phototrophica KACC 12992T 5 H. marina KACC 12993T 
+Data obtained from Palacios et al . 2006 . dData obtained from Biebl et al . 2006 . §Data obtained from Peix et al . 2005 . Isoprenoid quinones were extracted and analysed using reversed-phase HPLC according to the method described by Komagata & Suzuki 1987 
+or measurement of the G+C content of the chromosomal DNA the genomic DNA of strain YC6898T was extracted and purified as described Ausubel et al. 1995 
+t was then enzymically degraded into nucleosides and G+C content was determined with a reversed-phase C18 column Mesbah et al. 1989 
+olar lipids were extracted according to the modified method of Minnikin et al . 1984 and separated by TLC on a Merck Kieselgel 60-HPTLC system 
+lycolipids were detected with 1-naphthol spray reagent by heating at 100 uC for 3–5 min Jacin & Mishkin 1965 . Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 63 IP 189.155.188.202 On Thu 15 Feb 2018 22:21:58 Hoeflea suaedae sp . nov . The presence of phosphatidylcholine was detected with Dragendorff reagent Sigma-Aldrich 
+16 0 11.9 % , 11-methyl C18 1v7c 9.6 % , C19 0 cyclo v8c 8.0 % , C16 1 v7c and/or iso-C15 0 2-OH 4.2 % , C18 0 2.3 % , C12 0 3-OH 1.3 % and C19 1 v6c and/or ECL 18.846 1.7 % were found in strain YC6898T 
+train YC6898T exhibited a polar lipid profile consisting of phosphatidylethanolamine PE phosphatidylglycerol PG phosphatidylcholine PC , phosphatidylmonomethylethanolamine PME , sulfoquinovosyl diacylglycerol SQDG , an unknown glycolipid GL2 and unknown lipids L1 , 2 , 4 ( Fig 
+E PME PG PC SQDG and L1 were common to strain YC6898T H. marina LMG 128T and H. alexandrii AM1V30T but diphosphatidylglycerol DPG was detected only in H. alexandrii AM1V30T . Table 2 
+he 16S rRNA gene was PCR amplified from the genomic DNA by using primers 27F and 1492R Lane 1991 
+he amplified PCR product was cloned into T & A cloning vector RBC and sequenced by GenoTech Inc. 16S rRNA gene sequences were compiled using SeqMan software DNASTAR and the sequences of related taxa were obtained from the GenBank database 
+hylogenetic trees were constructed by using the neighbour-joining method Saitou & Nei 1987 in the program MEGA4 Tamura et al. 2007 and maximum-parsimony Fitch 1971 and maximum-likelihood methods in PHYLIP software version 3.6 Felsenstein 2002 with bootstrap values based on 1000 replications Felsenstein , 1985 
+airwise sequence similarity values between strain YC6898T and related taxa were computed by using the EzTaxon-e server Kim et al. 2012 
+ased on the phylogenetic analysis of 16S rRNA gene sequences the closest relatives of strain YC6898T were H. alexandrii AM1V30T 96.7 % similarity , H. anabaenae WH2KT 95.7 % , H. phototrophica DFL-43T 95.5 % and H. marina LMG 128T 94.8 % 
+nalysis with the maximum-likelihood and maximum-parsimony algorithms also showed that strain YC6898T formed a phylogenetic cluster with H. anabaenae WH2KT and H. alexandrii AM1V30T within the genus Hoeflea Fig 
+he results of phylogenetic analysis Figs 1 and S2 , physiological and biochemical characteristics Table 1 , polar lipid analysis Fig 
+ells are Gram-negative aerobic short rod-shaped 0.3– 0.5 mm wide by 1.3–1.4 mm long and motile by a single polar flagellum 
+olonies grown on MA at 30 uC for 2 days are 1.0–2.0 mm in diameter white-cream transparent smooth flat and circular 
+atalase and oxidase reactions are Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Thu 15 Feb 2018 22:21:58 2279 E 
+hung and others Mesorhizobium loti LMG 6125T X67229 100 0.01 Mesorhizobium ciceri UPM-Ca7T U07934 Mesorhizobium amorphae ACCC 19665T AF041442 53 100 Mesorhizobium huakuii IAM 14158T D12797 Mesorhizobium chacoense Pr5T AJ278249 82 Aminobacter aminovorans DSM 7048T AJ011759 100 Aminobacter aganoensis DSM 7051T AJ011760 Aminobacter ciceronei IMB-1T AF034798 Aquamicrobium defluvii DSM 11603T Y15403 100 Defluvibacter lusatiensis DSM 11099T AJ132378 Pseudaminobacter defluvii THI 051T D32248 57 Pseudaminobacter salicylatoxidans BN12T AF072542 96 Phyllobacterium leguminum ORS 1419T AY785323 Phyllobacterium myrsinacearum IAM 13584T D12789 85 Hoeflea suaedae YC6898T HM800935 Hoeflea anabaenae WH2KT DQ364238 88 Hoeflea alexandrii 83 AM1V30T AJ786600 Hoeflea marina LMG 128T AY598817 60 99 Hoeflea phototrophica DFL-43T AJ582088 Fig . 1 
 hylogenetic tree constructed from the comparative analysis of 16S rRNA gene sequences showing the relationship between strain YC6898T and related taxa 
 he phylogenetic tree was constructed by using the neighbour-joining method and Jukes–Cantor evolutionary distance matrix data obtained from aligned nucleotides 
-hows antagonistic activity against plant oomycete pathogens Py. ultimum and Ph. capsici 
-ensitive to ampicillin (10 mg), chloramphenicol (30 mg), streptomycin (10 mg), rifampicin (30 mg) and penicillin (10 mg), but resistant to gentamicin (10 mg), tetracycline (30 mg), vancomycin (30 mg) and kanamycin (30 mg) 
-t can hydrolyse aesculin and urea, but not casein, starch, gelatin, Tween 20, Tween 80 or tyrosine 
-he polar lipids are phosphatidylmonomethylethanolamine, phosphatidylethanolamine, phosphatidylglycerol, phosphatidylcholine, sulfoquinovosyl diacylglycerol, an unknown glycolipid and unknown lipids 
-he major fatty acids are C18 : 1v7c and C16 : 0 
-he DNA G+C content of the type strain is 53.7 mol%. 2280  Acknowledgements This work was supported by the BK 21 project (2009–2010), the Ministry of Education, Science and Technology, Korea, and was partially supported by a grant for research and business development, the Ministry of Food, Agriculture, Forestry and Fisheries (#8080153), Korea, in cooperation with JGreen Inc.  References Atlas, R 
-. (2012).  Diversity and characterization of endophytic bacteria associated with tidal flat plants and their antagonistic effects on oomycetous plant pathogens 
- Lipid Res 15, 126–127.  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 63 IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:21:58  Hoeflea suaedae sp. nov 
-onfidence limits on phylogenies: an approach  procedure for the extraction of bacterial isoprenoid quinones and polar lipids 
-ioEdit: a user-friendly biological sequence  alignment editor and analysis program for Windows 95/98/NT 
+hows antagonistic activity against plant oomycete pathogens Py . ultimum and Ph . capsici 
+ensitive to ampicillin 10 mg , chloramphenicol 30 mg , streptomycin 10 mg , rifampicin 30 mg and penicillin 10 mg , but resistant to gentamicin 10 mg , tetracycline 30 mg , vancomycin 30 mg and kanamycin 30 mg 
+t can hydrolyse aesculin and urea but not casein starch gelatin Tween 20 Tween 80 or tyrosine 
+he polar lipids are phosphatidylmonomethylethanolamine phosphatidylethanolamine phosphatidylglycerol phosphatidylcholine sulfoquinovosyl diacylglycerol an unknown glycolipid and unknown lipids 
+he major fatty acids are C18 1v7c and C16 0 
+he DNA G+C content of the type strain is 53.7 mol % . 2280 Acknowledgements This work was supported by the BK 21 project 2009–2010 the Ministry of Education Science and Technology Korea and was partially supported by a grant for research and business development the Ministry of Food Agriculture Forestry and Fisheries # 8080153 Korea , in cooperation with JGreen Inc. References Atlas , R 
+. 2012 . Diversity and characterization of endophytic bacteria associated with tidal flat plants and their antagonistic effects on oomycetous plant pathogens 
+Lipid Res 15 126–127 . Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 63 IP 189.155.188.202 On Thu 15 Feb 2018 22:21:58 Hoeflea suaedae sp . nov 
+onfidence limits on phylogenies an approach procedure for the extraction of bacterial isoprenoid quinones and polar lipids 
+ioEdit a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT 
 ipid and cell-wall analysis in bacterial systematics 
-se of Congo red–polysaccharide  interactions in enumeration and characterization of cellulolytic bacteria from the bovine rumen 
+se of Congo red–polysaccharide interactions in enumeration and characterization of cellulolytic bacteria from the bovine rumen 
 hylogenetic analyses based on 16S rRNA gene sequences indicated that strain YC6898T belongs to the genus Hoeflea in the family Phyllobacteriaceae 
 train YC6898T contained Q-10 as the major ubiquinone 
-he type strain is YC6898T (5KACC 14911T5NBRC 107700T).  The genus Hoeflea was described with Hoeflea marina as the type species in the family Phyllobacteriaceae within the order Rhizobiales of the class Alphaproteobacteria, with the reclassification of Agrobacterium ferrugineum LMG 128 (Peix et al., 2005) 
-wo supplementary figures are available with the online version of this paper.  045484 G 2013 IUMS  Island, Korea (Bibi et al., 2012) 
-ndophytic bacteria residing in the tissue of plants may have beneficial effects on host plants and, in particular, antagonistic endophytic bacteria against plant pathogens in tidal flat plants may be novel biocontrol agents of oomycete plant pathogens (Hallmann et al., 1997; Downing & Thomson, 2000; Bibi et al., 2012) 
-he Gram reaction was determined by using the bioMérieux Gram stain kit according to the manufacturer’s instructions 
+he type strain is YC6898T 5KACC 14911T5NBRC 107700T . The genus Hoeflea was described with Hoeflea marina as the type species in the family Phyllobacteriaceae within the order Rhizobiales of the class Alphaproteobacteria with the reclassification of Agrobacterium ferrugineum LMG 128 Peix et al. 2005 
+wo supplementary figures are available with the online version of this paper . 045484 G 2013 IUMS Island Korea Bibi et al. 2012 
+he Gram reaction was determined by using the bioMérieux Gram stain kit according to the manufacturer ’ s instructions 
 he type strain of H. anabaenae was not available from the NRRL or CCUG culture collections 
-minolipids were detected by spraying the plate with 0.2 % (w/v) solution of ninhydrin in butanol saturated with water followed by heating at 105 uC for 10 min (Ross et al., 1985) 
-hospholipids were detected by spraying the plate with Zinzadze reagent of Dittmer & Lester (1964) 
-ultiple alignments were performed using the CLUSTAL X program (Thompson et al., 1997) 
-aps were edited in the BioEdit program (Hall, 1999) 
-he phylogenetic tree based on the neighbour-joining algorithm showed that strain YC6898T formed a cluster with members of the genus Hoeflea with 88 % bootstrap support (Fig. 1) 
-e thus suggest that strain YC6898T represents a novel species of the genus Hoeflea, for which the name Hoeflea suaedae sp. nov. is proposed 
-.L. gen. n. suaedae of Suaeda, isolated from Suaeda maritima, referring to the source of isolation of the type strain) 
-he type strain, YC6898T (5KACC 14911T5NBRC 107700T), was isolated from the root of Suaeda maritima growing on the tidal flat of Namhae Island, Korea 
- simple, specific spray for the  detection of phospholipids on thin-layer chromatograms 
-ntroduction of the Serratia  marcescens chiA gene into an endophytic Pseudomonas fluorescens for the biocontrol of phytopathogenic fungi 
- Microbiol Methods 2, 233–241.  using the bootstrap 
+minolipids were detected by spraying the plate with 0.2 % w/v solution of ninhydrin in butanol saturated with water followed by heating at 105 uC for 10 min Ross et al. 1985 
+hospholipids were detected by spraying the plate with Zinzadze reagent of Dittmer & Lester 1964 
+ultiple alignments were performed using the CLUSTAL X program Thompson et al. 1997 
+aps were edited in the BioEdit program Hall 1999 
+he phylogenetic tree based on the neighbour-joining algorithm showed that strain YC6898T formed a cluster with members of the genus Hoeflea with 88 % bootstrap support Fig . 1 
+e thus suggest that strain YC6898T represents a novel species of the genus Hoeflea for which the name Hoeflea suaedae sp . nov. is proposed 
+.L . gen. n. suaedae of Suaeda isolated from Suaeda maritima referring to the source of isolation of the type strain 
+he type strain YC6898T 5KACC 14911T5NBRC 107700T was isolated from the root of Suaeda maritima growing on the tidal flat of Namhae Island , Korea 
+simple specific spray for the detection of phospholipids on thin-layer chromatograms 
+ntroduction of the Serratia marcescens chiA gene into an endophytic Pseudomonas fluorescens for the biocontrol of phytopathogenic fungi 
+Microbiol Methods 2 233–241 . using the bootstrap 
 istributed by the author 
-epartment of Genetics, University of Washington, Seattle, USA.  alexandrii sp. nov., isolated from the toxic dinoflagellate Alexandrium minutum AL1V 
-oward defining the course of evolution:  minimum change for a specific tree topology 
-eparation of carbohydrates on  include Litoricola lipolytica gen. nov., sp. nov., a marine bacterium belonging to the order Oceanospirillales 
-oeflea anabaenae sp. nov., an  epiphytic symbiont that attaches to the heterocysts of a strain of Anabaena 
-oss, H 
-ol Biol Evol 4, 406– 425.  Kim, H 
-EGA4: molecular evolutionary genetics analysis (MEGA) software version 4.0 
+epartment of Genetics University of Washington Seattle USA . alexandrii sp . nov. isolated from the toxic dinoflagellate Alexandrium minutum AL1V 
+oward defining the course of evolution minimum change for a specific tree topology 
+eparation of carbohydrates on include Litoricola lipolytica gen. nov. sp . nov. a marine bacterium belonging to the order Oceanospirillales 
+oeflea anabaenae sp . nov. an epiphytic symbiont that attaches to the heterocysts of a strain of Anabaena 
+oss H 
+ol Biol Evol 4 406– 425 . Kim H 
+EGA4 molecular evolutionary genetics analysis MEGA software version 4.0 
+ata for H. anabaenae are from Stevenson et al . 2011 . + Positive 2 negative W weakly positive ND not determined 
+ata for H. anabaenae are from Stevenson et al . 2011 . 2 Not detected 
+2 
 he temperature range for growth is 10–42 uC with optimal growth at 30–37 uC 
 he pH range for growth is 5.0–10.0 
-he range of NaCl for growth is 0–9.5 % (w/v) 
+he range of NaCl for growth is 0–9.5 % w/v 
 he major isoprenoid quinone is ubiquinone Q-10 
-ondon: Academic Press.  borate impregnated silica gel G plates 
-ptimal growth occurs with 0–7 % (w/v) NaCl 
-uplicate antibiotic-sensitivity tests were done using filter-paper discs containing 30 mg tetracycline, 30 mg kanamycin, 10 mg penicillin, 10 mg streptomycin, 30 mg rifampicin, 30 mg chloramphenicol, 10 mg gentamicin, 10 mg ampicillin or 30 mg vancomycin 
-train YC6898T had cellulase activity, but no chitinase or protease activity 
-he total genomic DNA G+C content was 53.7 mol% 
-he genomic DNA G+C content of strain YC6898T was 53.7 mol% 
-ECL, equivalent chain-length. http://ijs.sgmjournals.org  Genomic DNA of strain YC6898T for 16S rRNA gene amplification was extracted by using a commercial DNA extraction kit (Core Biosystem) 
-n Nucleic Acid  Techniques in Bacterial Systematics, pp. 115–175 
+ondon Academic Press . borate impregnated silica gel G plates 
+im O.-S. Cho Y.-J. Lee K. Yoon S.-H. Kim M. Na H. Park S.-C. Jeon Y 
+ptimal growth occurs with 0–7 % w/v NaCl 
+uplicate antibiotic-sensitivity tests were done using filter-paper discs containing 30 mg tetracycline 30 mg kanamycin 10 mg penicillin 10 mg streptomycin 30 mg rifampicin 30 mg chloramphenicol 10 mg gentamicin 10 mg ampicillin or 30 mg vancomycin 
+train YC6898T had cellulase activity but no chitinase or protease activity 
+he total genomic DNA G+C content was 53.7 mol % 
+he genomic DNA G+C content of strain YC6898T was 53.7 mol % 
+ECL equivalent chain-length . http //ijs.sgmjournals.org Genomic DNA of strain YC6898T for 16S rRNA gene amplification was extracted by using a commercial DNA extraction kit Core Biosystem 
+n Nucleic Acid Techniques in Bacterial Systematics pp . 115–175 
 dited by E 
-., Moore, E 
+. Moore E 

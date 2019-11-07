@@ -1,57 +1,60 @@
-n order to see if energy could be derived from its respiration, sulfide was added at 3 m M feed concentration to methanol limited continuous cultures (D = 0.023 and 0.1 h - l )  
- pon addition of limiting amounts of sulfide (80 #M) during respiration measurements the ratio of oxygen consumed per mole of sulfide added was (1-1.2):1 for methanol-grown cultures, indicating an initial oxidation product at the level of thiosulfate 
- ature 326: 655-661 Cho KS, Hirai M & Shoda M (t991a) Degradation characteristics of hydrogensulfide, methanethiol, dimethyl sulfide and dimethyl disulfide by Thiobacillus thioparus DW44 isolated from peat biofilter.J 
- eth. 10:247-254 Tiwaree RS, Cho KS, Hirai M & ShodaM (1992) Biological deodorization of dimethyl sulfide using different fabrics as the carriers of microorganisms 
- hromatogr. 606:65-71 Zhang L, Hirai M & Shoda M (I991) Removal characteristics of dimethyl sulfide, methanethiol and hydrogen sulfide by Hyphomicrobium sp 
+n order to see if energy could be derived from its respiration sulfide was added at 3 m M feed concentration to methanol limited continuous cultures D = 0.023 and 0.1 h l 
+ pon addition of limiting amounts of sulfide 80 M during respiration measurements the ratio of oxygen consumed per mole of sulfide added was 1-1.2 :1 for methanol-grown cultures indicating an initial oxidation product at the level of thiosulfate 
+ ature 326 655-661 Cho KS Hirai M & Shoda M t991a Degradation characteristics of hydrogensulfide methanethiol dimethyl sulfide and dimethyl disulfide by Thiobacillus thioparus DW44 isolated from peat biofilter.J 
+ eth . 10:247-254 Tiwaree RS Cho KS Hirai M & ShodaM 1992 Biological deodorization of dimethyl sulfide using different fabrics as the carriers of microorganisms 
+ hromatogr . 606:65-71 Zhang L Hirai M & Shoda M I991 Removal characteristics of dimethyl sulfide methanethiol and hydrogen sulfide by Hyphomicrobium sp 
  xidation o f D M S by DMS-grown Hyphomicrobium VS cells resulted in sulfate formation as confirmed by HPLC analysis 
- ydroxypyruvate reductase was determined according to Blackmore & Quayle (1970) except that 50 mM phosphate buffer (pH 7.0) was used as buffer 
- ioeng. 67:280-285 Teunissen M J, Marras SAE, Op den Camp HJM & Vogels GD (I 989) Improved method for simultaneous determination of alcohols, volatile fatty acids, lactic acid or 2,3-butanediol in biological samples 
- t was shown that the carrier material had a large effect on the m a x i m u m removal rates of volatile compounds in exhaust gas (Kirchner et al. 1987; Tiwaree et al. 1992), Further studies will therefore focus on use o f different package materials and long term operation at concentrations equal to those found in industrial exhaust gases.  References Blackmore MA & Quayle JR (1970) Microbial growth on oxalate by a route not involvingglyoxylate carboligase 
- ioeng. 73:219-224 Cho KS, Zhang L, Hirai M & Shoda M (1991b) Removal characteristics of hydrogen sulphide and methanethiol by ThiobaciIlus sp. isolated from peat in biological deodorization 
- ersten & Chris van der Drift Department of Microbiology & EvolutionaryBiology, Faculty of Science, Universityof Nijmegen, Toernooiveld1, NL-6525 El) Nijmegen, The Netherlands Accepted in revised form 22 November 1993  Key words': biofilter, dimethytsulfide, Hyphomicrobium, odor, trickling filter, volatile sulfur compounds Abstract The methylotrophic bacterium HyphomicrobiurnVS was enriched and isolated, using activated sewage sludge as inoculum in mineral medium containing dimethylsulfide (DMS) at a low concentration to prevent toxicity 
- he isolation and characterization of a Hyphomicrobium species able to utilize DMS as a carbon and energy source, and initial attempts to use this  106 strain for purification of DMS-containing air streams are presented in this study.  with 0.2 M NaOH 
- he medium contained (in g 1-~): K2HPO4, 0.4; KH2PO4, 1.0; NH4CI, 0.4; MgC12 • 6H20, 0.1; CaClz • 2H20, 0.01; Na2CO3, 0.5; and 2 ml 1-1 trace element solution 
- ubstrates tested for growth experiments were added to a final concentration of 10 mM except for formaldehyde and sulfur compounds, which were tested at I raM.  Enrichment and isolation Enrichment of DMS-utilizing bacteria, using activated sewage sludge as inoculum, was achieved at room temperature in mineral medium containing DMS at a low concentration (0.015 mM liquid concentration during the first transfers and 0,4 mM for the following ones) as the only source of carbon and energy 
- nrichment was performed in 120 ml stoppered bottles containing 20 ml medium, and DMS was added by syringe; after depletion of DMS new amounts were added 
- ates were expressed as nmol 02 rain-I mg protein-1 and were corrected for endogenous respiration.  Preparation of cell-free extracts Cell-free extracts were prepared by suspending ceils (0.5 g wet weight per ml) in 50 mM Tris-HC1 buffer (pH 7.0) and breaking them by passage through a French pressure cell at 110 MPa 
- he mixture contained 50 mM Tris-HC1 buffer, pH 8.2, 1 #mol MT and about 0.15 mg of protein 
- eaction mixtures contained 25 mM glycytglycine buffer (pH 7.4), 0.24 mM NADH, 0.25 mM oxaloacetate and an appropriate amount of cell extract (about 0.15 mg protein per ml) 
- he medium was pH regulated between 6.7 and 7.0 by simultaneous addition of fresh medium and a NaOH solution (0.2 M) 
- he filter was inoculated by replacing 400 ml of the recirculation fluid with a culture of Hyphomicrobium VS with an optical density at 600 nm (OD600) of about 1.0.  Analytical procedures DMS and MT were determined gaschromatographically as described earlier (Derikx et al. 1990) 
- fter streaking on agar plates and incubation for about 14 days in a jar, containing DMS and air in the gas phase, small colonies were visible 
+ ydroxypyruvate reductase was determined according to Blackmore & Quayle 1970 except that 50 mM phosphate buffer pH 7.0 was used as buffer 
+ ioeng . 67:280-285 Teunissen M J Marras SAE Op den Camp HJM & Vogels GD I 989 Improved method for simultaneous determination of alcohols volatile fatty acids lactic acid or 2,3-butanediol in biological samples 
+ t was shown that the carrier material had a large effect on the m a x i m u m removal rates of volatile compounds in exhaust gas Kirchner et al . 1987 Tiwaree et al . 1992 , Further studies will therefore focus on use o f different package materials and long term operation at concentrations equal to those found in industrial exhaust gases . References Blackmore MA & Quayle JR 1970 Microbial growth on oxalate by a route not involvingglyoxylate carboligase 
+ ioeng . 73:219-224 Cho KS Zhang L Hirai M & Shoda M 1991b Removal characteristics of hydrogen sulphide and methanethiol by ThiobaciIlus sp . isolated from peat in biological deodorization 
+ ersten & Chris van der Drift Department of Microbiology & EvolutionaryBiology Faculty of Science Universityof Nijmegen Toernooiveld1 NL-6525 El Nijmegen The Netherlands Accepted in revised form 22 November 1993 Key words ' biofilter dimethytsulfide Hyphomicrobium odor trickling filter volatile sulfur compounds Abstract The methylotrophic bacterium HyphomicrobiurnVS was enriched and isolated using activated sewage sludge as inoculum in mineral medium containing dimethylsulfide DMS at a low concentration to prevent toxicity 
+ he isolation and characterization of a Hyphomicrobium species able to utilize DMS as a carbon and energy source and initial attempts to use this 106 strain for purification of DMS-containing air streams are presented in this study . with 0.2 M NaOH 
+ he medium contained in g 1-~ : K2HPO4 0.4 KH2PO4 1.0 NH4CI 0.4 MgC12 • 6H20 0.1 CaClz • 2H20 0.01 Na2CO3 0.5 and 2 ml 1-1 trace element solution 
+ ubstrates tested for growth experiments were added to a final concentration of 10 mM except for formaldehyde and sulfur compounds which were tested at I raM . Enrichment and isolation Enrichment of DMS-utilizing bacteria using activated sewage sludge as inoculum was achieved at room temperature in mineral medium containing DMS at a low concentration 0.015 mM liquid concentration during the first transfers and 0,4 mM for the following ones as the only source of carbon and energy 
+ nrichment was performed in 120 ml stoppered bottles containing 20 ml medium and DMS was added by syringe after depletion of DMS new amounts were added 
+ fter 6 transfers agar plates composed of the same mineral medium plus 1.5 % w/v agar were inoculated with the enrichment culture and incubated at 30 °C in ajar containing 15 mmol 1-1 DMS in the gas phase 
+ ates were expressed as nmol 02 rain-I mg protein-1 and were corrected for endogenous respiration . Preparation of cell-free extracts Cell-free extracts were prepared by suspending ceils 0.5 g wet weight per ml in 50 mM Tris-HC1 buffer pH 7.0 and breaking them by passage through a French pressure cell at 110 MPa 
+ he mixture contained 50 mM Tris-HC1 buffer pH 8.2 1 mol MT and about 0.15 mg of protein 
+ eaction mixtures contained 25 mM glycytglycine buffer pH 7.4 0.24 mM NADH , 0.25 mM oxaloacetate and an appropriate amount of cell extract about 0.15 mg protein per ml 
+ he medium was pH regulated between 6.7 and 7.0 by simultaneous addition of fresh medium and a NaOH solution 0.2 M 
+ he filter was inoculated by replacing 400 ml of the recirculation fluid with a culture of Hyphomicrobium VS with an optical density at 600 nm OD600 of about 1.0 . Analytical procedures DMS and MT were determined gaschromatographically as described earlier Derikx et al . 1990 
+ fter streaking on agar plates and incubation for about 14 days in a jar containing DMS and air in the gas phase small colonies were visible 
  rowth was observed between pH 6.0 and 8.0 with an optimum at pH 7.0 
- ediumconcentrationfor methanoland DMS were 20 mM and 15 raM, respectively. c Methanolexhaustedculture adaptedto DMS. a n.d. = not determined. e Respirationof DMSO using batch-growncells on methanolwas foundto be zero.  ing the D to 0.04 h-1 enhanced the DMS-respiration rate to 444 nmol 02 min -1 mg protein-I after one week 
+ ediumconcentrationfor methanoland DMS were 20 mM and 15 raM respectively . c Methanolexhaustedculture adaptedto DMS . a n.d. = not determined . e Respirationof DMSO using batch-growncells on methanolwas foundto be zero . ing the D to 0.04 h-1 enhanced the DMS-respiration rate to 444 nmol 02 min -1 mg protein-I after one week 
  ield measurements were negatively influenced by cell attachment to the walt and inner parts of the chemostat vessel 
- fter addition of DMS (< 0.15 raM)to a methanoldepleted batch culture the capacity to respire methylated sulfides was observed after a further 4 h incubation period, and a maximum respiration rate of DMS of about t50 nmol O2 rain- 1 mg protein- l was achieved after 18 h 
- emovalof DMS from an air streamin a trickling biofilter filled with polyurethane.Symbols: DMS concentration in air inlet (9), and outlet (A) 
- ymbols: DMS concentration in air inlet (D), and outlet (A) 
+ he substrate affinity constants K ) for DMS and methanol as estimated from the respiration rates at different substrate concentrations were both around 3 M 
+ fter addition of DMS < 0.15 raM to a methanoldepleted batch culture the capacity to respire methylated sulfides was observed after a further 4 h incubation period and a maximum respiration rate of DMS of about t50 nmol O2 rain- 1 mg protein- l was achieved after 18 h 
+ emovalof DMS from an air streamin a trickling biofilter filled with polyurethane.Symbols DMS concentration in air inlet 9 , and outlet A 
+ ymbols DMS concentration in air inlet D , and outlet A 
  ethanol was added to the medium after sterilization to a final concentration of 20 raM 
- fter centrifugation at 40,000 x g at 4 °C for 20 rain the supernatant (crude extract) was directly used or stored at - 20 oC.  Enzyme assays Methanol dehydrogenase was assayed at pH 9.0 according to Duine et al. (1978) 
- ethanethiol (MT) oxidase activity was determined gaschromatographically by measuring the disappearance of MT in the headspace of an incubation mixture (total volume t.2 ml) in a stoppered 100 ml bottle 
+ fter centrifugation at 40,000 x g at 4 °C for 20 rain the supernatant crude extract was directly used or stored at 20 oC . Enzyme assays Methanol dehydrogenase was assayed at pH 9.0 according to Duine et al . 1978 
+ ethanethiol MT oxidase activity was determined gaschromatographically by measuring the disappearance of MT in the headspace of an incubation mixture total volume t.2 ml in a stoppered 100 ml bottle 
  AD+-dependent malate dehydrogenase was assayed by following the oxaloacetatedependent oxidation of NADH at 340 nm 
  very 30 min 0.5 liter of medium was sprayed on top of the packing material via a perforated plate 
  n this way the concentration of Na2SO4 never exceeded 20 mM 
- he DMS concentration in the air stream was 100 #tool I -~, which in the absence of consumption would result in an equilibrium concentration of 1.5 mM in the liquid phase 
+ he DMS concentration in the air stream was 100 tool I -~ which in the absence of consumption would result in an equilibrium concentration of 1.5 mM in the liquid phase 
  y increasing the air flow-rate addition of DMS was gradually increased within 5 days up to 15 mmol 1- I medium 
- uring a cultivation period of 3 weeks the respiration rate for DMS was 244 nmol Oa m i n - 1 mg protein- 1 
- rowtha Substrate Methanol Formaldehyde Formate Ethanol DMS MT DMDS DMTS DMSO Sulfide Methylamine Dimethylamine Trimethylamine Thiosulfate  D=0.O16 + + + +/+ n.d,  + + + +  308 156 0 298 0 0 n.d, n,d, n.d.e 894 0 0 0 n.d,  Respirationrate (nmol02 rain-1 mg protein-1) Methanolgrownb DMS grownb D---0.023 D=0.105 D=0.115 D=O.02 D=O.04 322 303 24 293 0 0 n.d. n.d. n.d. 818 0 0 0 0  381 n.d.a n.d. 334 0 0 n.d. n.d. n.d. n.d. 0 0 0 0  3!9 278 26 260 0 0 n.d. n.d. n.d. 1135 0 0 0 0  91 113 19 n.d. 244 268 40 44 89 374 0 4 0 51  t 27 n.d. n.d. n.d. 444-800 n.d. 17 20 n.d. n.d. 0 n.d. n.d. n.d.  DMSc batch  DMSO batch  73 88 13.5 n,d, 151 106 30 n.d.  13 n.d. n.d. n.d. 286 137 n.d. n.d. 245 n.d. n.d. n.d. n.d. 115  n,d.  n.d. 0 6.4 0 51  Growth was tested as describedunder Materialsand Methods,+ indicatesgrowth on basis of turbiditywithin a few days. 6 Continuouscultureslimitedfor the substrateat the indicateddilutionrate (h-l) 
-  further increase was observed during the following two weeks of cultivation up to about 800 nmol 02 rain -1 mg protein -1 
- fter 4 days the concentration was increased to 4 #mol 1-1 resulting in a transient increase in outlet DMS concentration 
- fter 11 days the space velocity was increased to 24 h - 1 
- t day 23 the space velocity was increased further to about 100 h-1 with a concomitant decrease in the DMS concentration of the inlet to 1.4 #mol 1- l  
- apid adaptation to DMS was obvious from the high removal rate from the first day on (2.3 mmoI I-1 d - l )  
- n increase in the inlet concentration (at day 24) did not increase the outlet concentration, indicating that the biofilter was not operating at maximum capacity 
- ompared to the second week during which the filter was operated at the same loading, the removal capacity had clearly increased at the end of the experiment.  Discussion By using low, non-toxic, concentrations of DMS, we succeeded in the isolation of a Hyphomicrobium  110 Table 2 
- urther, a biofilter inoculated with methanolgrown cells acquired the ability to remove DMS from an airstream within one day 
+ uring a cultivation period of 3 weeks the respiration rate for DMS was 244 nmol Oa m i n 1 mg protein- 1 
+ rowtha Substrate Methanol Formaldehyde Formate Ethanol DMS MT DMDS DMTS DMSO Sulfide Methylamine Dimethylamine Trimethylamine Thiosulfate D=0.O16 + + + +/+ n.d + + + + 308 156 0 298 0 0 n.d n d n.d.e 894 0 0 0 n.d Respirationrate nmol02 rain-1 mg protein-1 Methanolgrownb DMS grownb D -- -0.023 D=0.105 D=0.115 D=O.02 D=O.04 322 303 24 293 0 0 n.d. n.d. n.d. 818 0 0 0 0 381 n.d.a n.d. 334 0 0 n.d. n.d. n.d. n.d. 0 0 0 0 3 9 278 26 260 0 0 n.d. n.d. n.d. 1135 0 0 0 0 91 113 19 n.d. 244 268 40 44 89 374 0 4 0 51 t 27 n.d. n.d. n.d. 444-800 n.d. 17 20 n.d. n.d. 0 n.d. n.d. n.d. DMSc batch DMSO batch 73 88 13.5 n d 151 106 30 n.d. 13 n.d. n.d. n.d. 286 137 n.d. n.d. 245 n.d. n.d. n.d. n.d. 115 n d . n.d. 0 6.4 0 51 Growth was tested as describedunder Materialsand Methods + indicatesgrowth on basis of turbiditywithin a few days . 6 Continuouscultureslimitedfor the substrateat the indicateddilutionrate h-l 
+ further increase was observed during the following two weeks of cultivation up to about 800 nmol 02 rain -1 mg protein -1 
+ fter 4 days the concentration was increased to 4 mol 1-1 resulting in a transient increase in outlet DMS concentration 
+ fter 11 days the space velocity was increased to 24 h 1 
+ t day 23 the space velocity was increased further to about 100 h-1 with a concomitant decrease in the DMS concentration of the inlet to 1.4 mol 1- l 
+ apid adaptation to DMS was obvious from the high removal rate from the first day on 2.3 mmoI I-1 d l 
+ n increase in the inlet concentration at day 24 did not increase the outlet concentration indicating that the biofilter was not operating at maximum capacity 
+ ompared to the second week during which the filter was operated at the same loading the removal capacity had clearly increased at the end of the experiment . Discussion By using low non-toxic concentrations of DMS we succeeded in the isolation of a Hyphomicrobium 110 Table 2 
+ urther a biofilter inoculated with methanolgrown cells acquired the ability to remove DMS from an airstream within one day 
  hether the S-metabolic pathway of D M S will gain energy remains to be studied 
- ull. 40:799-801 Shoda M (1991) Methods for the biological treatment of exhaust gases 
-  value of 2 nmol 1- I was found indicating a liquid concentration of 0.03 #M 
- nzyme  Coenzyme  Specific activity (tzmol min - i mg -1)  Methanol dehydrogenase Formaldehyde dehydrogenase  DCPIP DCPIP NAD + DCPIP NAD + NAD + NADH  0.24 0.17 0.05 < 0.01 0.22 0.49 2.95 188  Formate dehydrogenase Malate dehydrogenase Hydroxypyruvate reductase Catalase  100  $o  m@h  '°  2O  0  5  ';0  15  20  25  30  35  40  Time (d)  Fig. 2 
-  r o m short-term experiments (circa 45 days) it was concluded that high concentrations o f DMS ( 1 - 2 # m o l 1- t ) were removed very efficiently at relatively high space velocities (up to 100 h-1): final outlet concentrations obtained were 0.05 #tool 1-1 (1 ppm) 
- he pH was maintained at 7.0 by automatic titration  Respiration rates of whole cells were measured polarographically in a Biological Oxygen Monitor, with a Clark-type oxygen electrode at 30 °C 
- his gradual increase resulted in a more or less constant. high outlet concentration of 1.1 #mol 1-1 (from day 27 onwards) 
+ urther the liquid recirculation allows control o f optimal physiological conditions i.e. pH medium addition 
+ ull . 40:799-801 Shoda M 1991 Methods for the biological treatment of exhaust gases 
+ value of 2 nmol 1- I was found indicating a liquid concentration of 0.03 M 
+ nzyme Coenzyme Specific activity tzmol min i mg -1 Methanol dehydrogenase Formaldehyde dehydrogenase DCPIP DCPIP NAD + DCPIP NAD + NAD + NADH 0.24 0.17 0.05 < 0.01 0.22 0.49 2.95 188 Formate dehydrogenase Malate dehydrogenase Hydroxypyruvate reductase Catalase 100 $ o m @ h '° 2O 0 5 ' 0 15 20 25 30 35 40 Time d Fig . 2 
+ r o m short-term experiments circa 45 days it was concluded that high concentrations o f DMS 1 2 m o l 1- t were removed very efficiently at relatively high space velocities up to 100 h-1 : final outlet concentrations obtained were 0.05 tool 1-1 1 ppm 
+ he pH was maintained at 7.0 by automatic titration Respiration rates of whole cells were measured polarographically in a Biological Oxygen Monitor with a Clark-type oxygen electrode at 30 °C 
+ his gradual increase resulted in a more or less constant . high outlet concentration of 1.1 mol 1-1 from day 27 onwards 
  xtracts from DMS-grown cells further contained a MT oxidase activity of about 200 nmol rain-1 mg protein- 1 
- ttempts to demonstrate this enzyme in Hyphomicrobium EG also failed (Suylen 1988), while in Hyphomicrobium S a very low activity (0.001 #tool rain -1 mg protein -1) could be measured (De Bont et al. 1981) 
+ ttempts to demonstrate this enzyme in Hyphomicrobium EG also failed Suylen 1988 , while in Hyphomicrobium S a very low activity 0.001 tool rain -1 mg protein -1 could be measured De Bont et al . 1981 
  MS concentrations above 1 mM proved to be growth inhibiting 
- ow concentrations of DMS were a prerequisite, since DMS concentrations above 1 mM proved to be growth inhibiting 
+ ow concentrations of DMS were a prerequisite since DMS concentrations above 1 mM proved to be growth inhibiting 
  

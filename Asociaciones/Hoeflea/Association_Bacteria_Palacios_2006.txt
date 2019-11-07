@@ -1,16 +1,18 @@
-International Journal of Systematic and Evolutionary Microbiology (2006), 56, 1991–1995  DOI 10.1099/ijs.0.64238-0  Hoeflea alexandrii sp. nov., isolated from the toxic dinoflagellate Alexandrium minutum AL1V Lucı́a Palacios,1 David R 
-n the basis of 16S rRNA gene sequence similarity, strain AM1V30T was most closely related (97?4 % similarity) to the type strain of Hoeflea marina, which belongs to the family Phyllobacteriaceae within the order Rhizobiales of the class Alphaproteobacteria 
-uring the course of this study, a second species was described by others as belonging to the genus Hoeflea, namely Hoeflea phototrophica; it showed a somewhat higher level of 16S rRNA gene sequence similarity with respect to strain AM1V30T (98?2 %) and was also taken into account 
-he fatty acid profiles, physiological and biochemical data and DNA G+C content (59?7 mol%) support the classification of strain AM1V30T as a member of the genus Hoeflea 
-hus, AM1V30T represents a novel species within the genus Hoeflea, for which the name Hoeflea alexandrii sp. nov. is proposed 
-wo other genera, Parvibaculum (Schleheck et al., 2004) and Hoeflea (Peix et al., 2005), have since been proposed for consideration as members of this family, on the basis of 16S rRNA gene sequence data 
-he genus Hoeflea was created to accommodate a single species, Hoeflea marina, based on a strain of marine origin (from the Baltic Sea, off the coast of Germany) previously assigned to the species Agrobacterium ferrugineum (Peix et al., 2005) 
-ore recently, a second species within this genus was proposed, Hoeflea phototrophica (Biebl The GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain AM1V30T is AJ786600 
-his study deals with the characterization of a novel isolate, strain AM1V30T, and the proposal of a novel species of the genus Hoeflea 
-oreover, the sequence of strain AM1V30T consistently aligned with those of the two Hoeflea species, regardless of the treeing method, which means that it can be considered as a member of the same genus 
-he profile obtained largely resembled those of the two Hoeflea species,  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 56 IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:44:50  Hoeflea alexandrii sp. nov.  Fig. 1 
-s has been indicated above, strain AM1V30T belongs to the genus Hoeflea on the basis of 16S rRNA gene sequence data 
-ifferentiating characteristics for the novel strain and species of the genus Hoeflea Strains: 1, AM1V30T (data from this study); 2, H. marina LMG 128T (Peix et al., 2005); 3, H. phototrophica DFL-43T (Biebl et al., 2006) 
-he low values obtained support the definitive conclusion that strain AM1V30T represents a novel species within the genus Hoeflea, for which the name Hoeflea alexandrii sp. nov. is proposed.  Description of Hoeflea alexandrii sp. nov 
-. has a contract with the Universitat de València under the Ramón y Cajal programme (Ministerio de Ciencia y Tecnologı́a).  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 56 IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:44:50  Hoeflea alexandrii sp. nov.  References  the marine denitrification system of the Montreal Biodome (Canada) 
-eclassification of Agrobacterium ferrugineum  LMG 128 as Hoeflea marina gen. nov., sp. nov 
+International Journal of Systematic and Evolutionary Microbiology 2006 56 1991–1995 DOI 10.1099/ijs.0.64238-0 Hoeflea alexandrii sp . nov. , isolated from the toxic dinoflagellate Alexandrium minutum AL1V Lucı́a Palacios,1 David R 
+n the basis of 16S rRNA gene sequence similarity strain AM1V30T was most closely related 97 4 % similarity to the type strain of Hoeflea marina which belongs to the family Phyllobacteriaceae within the order Rhizobiales of the class Alphaproteobacteria 
+uring the course of this study a second species was described by others as belonging to the genus Hoeflea namely Hoeflea phototrophica it showed a somewhat higher level of 16S rRNA gene sequence similarity with respect to strain AM1V30T 98 2 % and was also taken into account 
+he fatty acid profiles physiological and biochemical data and DNA G+C content 59 7 mol % support the classification of strain AM1V30T as a member of the genus Hoeflea 
+hus AM1V30T represents a novel species within the genus Hoeflea for which the name Hoeflea alexandrii sp . nov. is proposed 
+wo other genera Parvibaculum Schleheck et al. 2004 and Hoeflea Peix et al. 2005 have since been proposed for consideration as members of this family , on the basis of 16S rRNA gene sequence data 
+he genus Hoeflea was created to accommodate a single species Hoeflea marina based on a strain of marine origin from the Baltic Sea off the coast of Germany previously assigned to the species Agrobacterium ferrugineum Peix et al. 2005 
+ore recently a second species within this genus was proposed Hoeflea phototrophica Biebl The GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain AM1V30T is AJ786600 
+his study deals with the characterization of a novel isolate strain AM1V30T and the proposal of a novel species of the genus Hoeflea 
+oreover the sequence of strain AM1V30T consistently aligned with those of the two Hoeflea species regardless of the treeing method which means that it can be considered as a member of the same genus 
+he profile obtained largely resembled those of the two Hoeflea species Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 56 IP 189.155.188.202 On Thu 15 Feb 2018 22:44:50 Hoeflea alexandrii sp . nov . Fig . 1 
+s has been indicated above strain AM1V30T belongs to the genus Hoeflea on the basis of 16S rRNA gene sequence data 
+ifferentiating characteristics for the novel strain and species of the genus Hoeflea Strains 1 AM1V30T data from this study ; 2 H. marina LMG 128T Peix et al. 2005 ; 3 H. phototrophica DFL-43T Biebl et al. 2006 
+he low values obtained support the definitive conclusion that strain AM1V30T represents a novel species within the genus Hoeflea for which the name Hoeflea alexandrii sp . nov. is proposed . Description of Hoeflea alexandrii sp . nov 
+. has a contract with the Universitat de València under the Ramón y Cajal programme Ministerio de Ciencia y Tecnologı́a . Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 56 IP 189.155.188.202 On Thu 15 Feb 2018 22:44:50 Hoeflea alexandrii sp . nov. References the marine denitrification system of the Montreal Biodome Canada 
+eclassification of Agrobacterium ferrugineum LMG 128 as Hoeflea marina gen. nov. sp . nov 
+oeflea alexandrii a.lex.an9dri.i 
+oeflea phototrophica sp . nov. a novel marine aerobic alphaproteobacterium that forms bacteriochlorophyll a 

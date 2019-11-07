@@ -1,18 +1,26 @@
-haracteristic  1  2  Temperature range (uC) 10–42 4–42 NaCl (%, w/v) range 0–9.5 0–11.5 pH range 5.0–10.0 6.0–9.0 Hydrolysis of: Tween 20 2 + Tween 80 2 + Reduction of nitrate to + 2 nitrite b-Galactosidase 2 + Assimilation of: N-Acetylglucosamine + 2 Esterase lipase (C8) 2 + Trypsin + 2 a-Glucosidase + 2 b-Glucosidase 2 + Utilization of Erythritol + 2 D-Arabinose + 2 D-Xylose + 2 Salicin + 2 L-Fucose + 2 Bacteriochlorophyll a 2 2 DNA G +C content 53.7 59.7D (mol%)  3 ND ND ND  4  5  15–33 10–37 0–7.0 0–5.0 5.5–9.0 5.5–8.0  ND  2 + 2  + + 2  +  +  +  2 2 + 2 +  2 2 + + 2  2 2 2 2 2  ND ND  2 2 ND 2 ND 2 ND 2 2* + 58.1* 59.3d ND  +  2 2 2 2 2 2 53.1§  *Data obtained from Stevenson et al. (2011) 
- otal lipid profiles were detected by spraying with phosphomolybdic acid solution (Sigma-Aldrich) followed by heating at 150 uC for 10 min 
- rowth under anaerobic conditions was determined for 7 days at 30 uC in an anaerobic Gaspak jar containing an atmosphere of CO2 (Gas-Pack System; Becton Dickinson) 
+haracteristic 1 2 Temperature range uC 10–42 4–42 NaCl % w/v range 0–9.5 0–11.5 pH range 5.0–10.0 6.0–9.0 Hydrolysis of Tween 20 2 + Tween 80 2 + Reduction of nitrate to + 2 nitrite b-Galactosidase 2 + Assimilation of N-Acetylglucosamine + 2 Esterase lipase C8 2 + Trypsin + 2 a-Glucosidase + 2 b-Glucosidase 2 + Utilization of Erythritol + 2 D-Arabinose + 2 D-Xylose + 2 Salicin + 2 L-Fucose + 2 Bacteriochlorophyll a 2 2 DNA G +C content 53.7 59.7D mol % 3 ND ND ND 4 5 15–33 10–37 0–7.0 0–5.0 5.5–9.0 5.5–8.0 ND 2 + 2 + + 2 + + + 2 2 + 2 + 2 2 + + 2 2 2 2 2 2 ND ND 2 2 ND 2 ND 2 ND 2 2* + 58.1* 59.3d ND + 2 2 2 2 2 2 53.1§ *Data obtained from Stevenson et al . 2011 
+ otal lipid profiles were detected by spraying with phosphomolybdic acid solution Sigma-Aldrich followed by heating at 150 uC for 10 min 
+ he predominant cellular fatty acid was C18 1v7c 61.1 % , which was shared with other closely related members of the genus Hoeflea 
+ ellular fatty acid composition % of strain YC6898T and the type strains of related taxa Strains 1 YC6898T 2 H. alexandrii KACC 12994T 3 H. anabaenae WH2KT 4 H. phototrophica KACC 12992T 5 H. marina KACC 12993T 
+ rowth under anaerobic conditions was determined for 7 days at 30 uC in an anaerobic Gaspak jar containing an atmosphere of CO2 Gas-Pack System Becton Dickinson 
  train YC6898T grew optimally at 30–37 6C and pH 6.5–7.5 
- ts closest relatives were Hoeflea alexandrii AM1V30T (96.7 % 16S rRNA gene sequence similarity), Hoeflea anabaenae WH2KT (95.7 %), Hoeflea phototrophica DFL-43T (95.5 %) and Hoeflea marina LMG 128T (94.8 %) 
- rowth at different temperatures (4, 10, 15, 20, 25, 30, 33, 37, 40, 42, 45 uC) and various pH values (pH 4.5–10.5 at intervals of 0.5 pH units) was assayed after 4 days incubation 
- rowth on nutrient agar, Luria–Bertani (LB) agar, Czapek-dox agar, trypticase soy agar (TSA), MA, MacConkey agar and R2A agar was evaluated at 30 uC after 4 days incubation 
- alt tolerance was tested in NaCl-free artificial seawater (ASW) containing 5 g peptone and 1 g yeast extract supplemented with 0–12 % (w/v, at 0.5 % intervals) NaCl after 2 days incubation at 30 uC (Kim et al., 2007) 
- lycolipids were detected with 1-naphthol spray reagent by heating at 100 uC for 3–5 min (Jacin & Mishkin, 1965).  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 63 IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:21:58  Hoeflea suaedae sp. nov.  The presence of phosphatidylcholine was detected with Dragendorff reagent (Sigma-Aldrich) 
- ased on the phylogenetic analysis of 16S rRNA gene sequences, the closest relatives of strain YC6898T were H. alexandrii AM1V30T (96.7 % similarity), H. anabaenae WH2KT (95.7 %), H. phototrophica DFL-43T (95.5 %) and H. marina LMG 128T (94.8 %) 
- olonies grown on MA at 30 uC for 2 days are 1.0–2.0 mm in diameter, white-cream, transparent, smooth, flat and circular 
- minolipids were detected by spraying the plate with 0.2 % (w/v) solution of ninhydrin in butanol saturated with water followed by heating at 105 uC for 10 min (Ross et al., 1985) 
- he phylogenetic tree based on the neighbour-joining algorithm showed that strain YC6898T formed a cluster with members of the genus Hoeflea with 88 % bootstrap support (Fig. 1) 
+ ts closest relatives were Hoeflea alexandrii AM1V30T 96.7 % 16S rRNA gene sequence similarity , Hoeflea anabaenae WH2KT 95.7 % , Hoeflea phototrophica DFL-43T 95.5 % and Hoeflea marina LMG 128T 94.8 % 
+ he major fatty acids of strain YC6898T were C18 1v7c 61.1 % , C16 0 11.9 % , 11-methyl C18 1v7c 9.6 % and C19 0 cyclo v8c 8.0 % 
+ rowth at different temperatures 4 10 15 20 25 30 33 37 40 42 45 uC and various pH values pH 4.5–10.5 at intervals of 0.5 pH units was assayed after 4 days incubation 
+ rowth on nutrient agar Luria–Bertani LB agar Czapek-dox agar trypticase soy agar TSA MA , MacConkey agar and R2A agar was evaluated at 30 uC after 4 days incubation 
+ alt tolerance was tested in NaCl-free artificial seawater ASW containing 5 g peptone and 1 g yeast extract supplemented with 0–12 % w/v at 0.5 % intervals NaCl after 2 days incubation at 30 uC Kim et al. 2007 
+ lycolipids were detected with 1-naphthol spray reagent by heating at 100 uC for 3–5 min Jacin & Mishkin 1965 . Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 63 IP 189.155.188.202 On Thu 15 Feb 2018 22:21:58 Hoeflea suaedae sp . nov . The presence of phosphatidylcholine was detected with Dragendorff reagent Sigma-Aldrich 
+ 16 0 11.9 % , 11-methyl C18 1v7c 9.6 % , C19 0 cyclo v8c 8.0 % , C16 1 v7c and/or iso-C15 0 2-OH 4.2 % , C18 0 2.3 % , C12 0 3-OH 1.3 % and C19 1 v6c and/or ECL 18.846 1.7 % were found in strain YC6898T 
+ ased on the phylogenetic analysis of 16S rRNA gene sequences the closest relatives of strain YC6898T were H. alexandrii AM1V30T 96.7 % similarity , H. anabaenae WH2KT 95.7 % , H. phototrophica DFL-43T 95.5 % and H. marina LMG 128T 94.8 % 
+ olonies grown on MA at 30 uC for 2 days are 1.0–2.0 mm in diameter white-cream transparent smooth flat and circular 
+ ensitive to ampicillin 10 mg , chloramphenicol 30 mg , streptomycin 10 mg , rifampicin 30 mg and penicillin 10 mg , but resistant to gentamicin 10 mg , tetracycline 30 mg , vancomycin 30 mg and kanamycin 30 mg 
+ he DNA G+C content of the type strain is 53.7 mol % . 2280 Acknowledgements This work was supported by the BK 21 project 2009–2010 the Ministry of Education Science and Technology Korea and was partially supported by a grant for research and business development the Ministry of Food Agriculture Forestry and Fisheries # 8080153 Korea , in cooperation with JGreen Inc. References Atlas , R 
+ minolipids were detected by spraying the plate with 0.2 % w/v solution of ninhydrin in butanol saturated with water followed by heating at 105 uC for 10 min Ross et al. 1985 
+ he phylogenetic tree based on the neighbour-joining algorithm showed that strain YC6898T formed a cluster with members of the genus Hoeflea with 88 % bootstrap support Fig . 1 
  he pH range for growth is 5.0–10.0 
- he range of NaCl for growth is 0–9.5 % (w/v) 
- ptimal growth occurs with 0–7 % (w/v) NaCl 
- uplicate antibiotic-sensitivity tests were done using filter-paper discs containing 30 mg tetracycline, 30 mg kanamycin, 10 mg penicillin, 10 mg streptomycin, 30 mg rifampicin, 30 mg chloramphenicol, 10 mg gentamicin, 10 mg ampicillin or 30 mg vancomycin 
+ he range of NaCl for growth is 0–9.5 % w/v 
+ ptimal growth occurs with 0–7 % w/v NaCl 
+ uplicate antibiotic-sensitivity tests were done using filter-paper discs containing 30 mg tetracycline 30 mg kanamycin 10 mg penicillin 10 mg streptomycin 30 mg rifampicin 30 mg chloramphenicol 10 mg gentamicin 10 mg ampicillin or 30 mg vancomycin 
+ he total genomic DNA G+C content was 53.7 mol % 
+ he genomic DNA G+C content of strain YC6898T was 53.7 mol % 
  

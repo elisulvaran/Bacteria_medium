@@ -1,2 +1,7 @@
-enomic DNA was extracted from a culture growing to an optical density at 600 nm (OD600) of ⬇1 in ZoBell medium (12) using the E.Z.N.A. tissue DNA kit (Omega Bio-Tek, Norcross, GA, USA), and a paired-end sequencing library with inserts of 450 bp was prepared 
+enomic DNA was extracted from a culture growing to an optical density at 600 nm OD600 of ⬇1 in ZoBell medium 12 using the E.Z.N.A . tissue DNA kit Omega Bio-Tek Norcross GA USA , and a paired-end sequencing library with inserts of 450 bp was prepared 
+ arnelid H Harder J Bentzon-Tilia M Riemann L. 2013 
+ iebl H Tindal BJ Pukall R Lünsdorf H Allgaier M Wagner-Döbler I . 2006 
+ AL378 consists of 5.49 Mbp of DNA with a G⫹C content of 65.3 % 
+ eix A Rivas R Trujillo ME Vancanneyt M Velázquez E Willems A . 2005 
+ ampmann ML Fordyce SL Avila-Arcos MC Rasmussen M Willerslev E Nielsen LP Gilbert MTP . 2011 
  

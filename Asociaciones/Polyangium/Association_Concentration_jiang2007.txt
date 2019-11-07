@@ -1,6 +1,17 @@
-he ground soil was mixed with an extraction buﬀer (100 mM Tris–HCl; 100 mM EDTA; 100 mM sodium phosphate; 1.5 M NaCl; 1% [w/v] CTAB; pH 8.0) containing 1 mg/ml protease K, and was then subjected to three freeze-thaw cycles followed by incubation at 65 C for 2 h 
- fter hybridization, the membrane was washed twice in 5· SSC, 0.1% (w/v) SDS at room temperature, for 5 min each time, and then washed twice in 1· SSC, 0.1% (w/v) SDS at 50 C, for 15 min each time 
- fter a complete alignment using clustalX (version 1.83; Thompson et al., 1997), corresponding parts of 16S rRNA gene sequences from cultured and uncultured myxobacteria were used for inferring phylogenetic relation-  547  ships 
- he bar in (a) is equivalent to two, and in (b) to one nucleotide changes per 100 bp 
+he ground soil was mixed with an extraction buﬀer 100 mM Tris–HCl 100 mM EDTA 100 mM sodium phosphate 1.5 M NaCl 1 % w/v CTAB pH 8.0 containing 1 mg/ml protease K and was then subjected to three freeze-thaw cycles followed by incubation at 65 C for 2 h 
+ ifty-three Cystobacterineae-related clones were sequenced and could be divided into at least 12 subgroups with 95 % or less sequence similarity , of which four spanned the diversity of all previously described members of this suborder 
+ ollowing extraction with chloroform–isopentanol total DNA was precipitated with 0.6 vol of cold isopentanol washed with 70 % ice-cold ethanol and puriﬁed on a Sephedex G-200 column 
+ he membrane was soaked in the hybridization buﬀer 5· SSC 0.1 % w/v SDS 20-fold dilution of liquid block supplied with the kit and 0.5 % w/v dextran sulphate MW 500,000 ] for 1 h at a selected temperature 
+ fter hybridization the membrane was washed twice in 5· SSC 0.1 % w/v SDS at room temperature for 5 min each time and then washed twice in 1· SSC 0.1 % w/v SDS at 50 C for 15 min each time 
+ fter a complete alignment using clustalX version 1.83 Thompson et al. 1997 , corresponding parts of 16S rRNA gene sequences from cultured and uncultured myxobacteria were used for inferring phylogenetic relation- 547 ships 
+ mong the 33 uncultured sequences ﬁve clones 9-96 13-17 14-33 208 20-2 shared > 96 % similarity with the genus Sorangium four clones 9-15 13-73 16-60 21-42 were Polyangiumrelated seven clones 9-66 10-37 13-5 13-27 14-7 15-11 21-33 were Byssophage-related and the others were of unknown subgroups 
+ roups III and IV were composed of 4 and 13 clones respectively 5.4 % and 17.6 % , and the three clones in Group V represented 4.1 % of the total 74 sequences derived from soil 
+ his last group was distantly related less than 85 % sequence similarity to Group I and may represent a newly discovered suborder 
+ he bar in a is equivalent to two and in b to one nucleotide changes per 100 bp 
+ pproximately 20 % of the samples produced a signal from which 85 clones were randomly chosen for sequencing 
+ ased on the phylogeny of the 74 unique Sorangineae sequences we suggest that this particular soil habitat contained at least ﬁve major clades of the suborder Sorangineae having 90 % or less sequence similarity with one another i.e. at the depth of separate families 
+ roup I contained 33 uncultured sequences accounting for 44.6 % of the total 74 sequences in two diﬀerent branches one of which included all of the reported cultured Sorangineae strains i.e 
+ roup II was composed of 21 clones 28.4 % of the total 74 sequences with sequence similarity values of 89 to 98 % 
+ or example the morphologically distinct genus Melittangium appears to be polyphyletic in that the 16S rRNA gene sequences of its diﬀerent members are 99 % or more similar to that of either Corallococcus or Cystobacter each of which is also polyphyletic in Fig . 2 
  he bar is equivalent to two nucleotide changes per 100 bp 
  

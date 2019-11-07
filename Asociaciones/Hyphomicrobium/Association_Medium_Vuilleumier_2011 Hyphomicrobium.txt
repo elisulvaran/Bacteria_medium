@@ -1,42 +1,42 @@
+ethyl chloride naturally occurring toxicant and C-1 growth substrate 
+nlike in H. denitrificans ATCC 51888 genes for N2 fixation a complete uptake hydrogenase gene cluster and gene systems for both assimilative nas and dissimilative nar reduction of nitrate ammonia and nitrate/nitrite transport a putative nitrate-inducible formate dehydrogenase an alkane sulfonate oxidation and transport system and an acetone carboxylase acxRABC cluster 12 were detected 
 olecular and biokinetic characterization of methylotrophic denitrification using nitrate and nitrite as terminal electron acceptors 
-ts genome, consisting of a single 4.76-Mb chromosome, is the first for a chloromethane-degrading bacterium to be formally reported. predicted open reading frames (ORFs), 947 (20%) have close homologs (⬎80% amino acid identity over ⬎80% of protein length, almost all of them in synteny) in Hyphomicrobium denitrificans ATCC 51888, whose genome sequence has been determined (NC_014313) (4) 
-he genome of strain MC1 also encodes a complete glycolysis pathway and a closed tricarboxylic acid cycle, but no genes for the glyoxylate shunt (isocitrate lyase and malate synthase) were detected 
+ts genome consisting of a single 4.76-Mb chromosome is the first for a chloromethane-degrading bacterium to be formally reported . predicted open reading frames ORFs 947 20 % have close homologs ⬎80 % amino acid identity over ⬎80 % of protein length almost all of them in synteny in Hyphomicrobium denitrificans ATCC 51888 , whose genome sequence has been determined NC_014313 ( 4 
+he genome of strain MC1 also encodes a complete glycolysis pathway and a closed tricarboxylic acid cycle but no genes for the glyoxylate shunt isocitrate lyase and malate synthase were detected 
 ucleic acid sequence accession number 
-uller,1 Christelle Gruffaz,1 Valérie Barbe,2 Claudine Médigue,3 and Françoise Bringel1* Equipe Adaptations et interactions microbiennes dans l’environnement, UMR 7156 CNRS, Université de Strasbourg, 67083 Strasbourg Cedex, France1; CEA, DSV, IG, Genoscope, Laboratoire de finition (LF), 91057 Evry, France2; and CEA, DSV, IG, Genoscope & UMR 8030 CNRS, Laboratoire d’Analyses Bioinformatiques pour la Génomique et le Métabolisme (LABGeM), 91057 Evry, France3  Hyphomicrobium sp. strain MC1 is an aerobic methylotroph originally isolated from industrial sewage 
+uller,1 Christelle Gruffaz,1 Valérie Barbe,2 Claudine Médigue,3 and Françoise Bringel1* Equipe Adaptations et interactions microbiennes dans l ’ environnement UMR 7156 CNRS Université de Strasbourg 67083 Strasbourg Cedex France1 CEA DSV IG Genoscope Laboratoire de finition LF 91057 Evry France2 and CEA DSV IG Genoscope & UMR 8030 CNRS Laboratoire d ’ Analyses Bioinformatiques pour la Génomique et le Métabolisme LABGeM , 91057 Evry , France3 Hyphomicrobium sp . strain MC1 is an aerobic methylotroph originally isolated from industrial sewage 
 his prosthecate bacterium was the first strain reported to grow with chloromethane as the sole carbon and energy source 
-enes encoding enzymes and proteins for oxidation of methanol (mxa) and methylamine (mgs and mgd [5, 7] but not mau genes) were identified, together with proteins and enzymes involved in pyrroloquinoline quinone synthesis and tetrahydrofolate- and tetrahydromethanopterin-linked pathways 
-enes for complete serine and ethylmalonyl coenzyme A pathways (1) for carbon assimilation were identified 
-nlike in H. denitrificans ATCC 51888, genes for N2 fixation, a complete uptake hydrogenase gene cluster, and gene systems for both assimilative (nas) and dissimilative (nar) reduction of nitrate, ammonia and nitrate/nitrite transport, a putative nitrate-inducible formate dehydrogenase, an alkane sulfonate oxidation and transport system, and an acetone carboxylase (acxRABC) cluster (12) were detected 
-yphomicrobium sp. strain MC1 thus emerges as a promising model for investigating the degradation of halogenated pollutants in the context of methylotrophic metabolism using genomic information (16) and for studies of morphological and metabolic features supporting bacterial growth under nutrientscarce conditions 
-he Hyphomicrobium sp. strain MC1 genome sequence was deposited in GenBank/EMBL under accession number FQ859181.  Strains of the genus Hyphomicrobium originally attracted interest for their distinctive prosthecae and atypical complex growth cycle (9) 
-trains of this genus are ubiquitous but were detected in wastewater treatment plants in particular, and often under denitrifying conditions (3, 8) 
-ollowing the description of strain MC1 (6), several chloromethane-degrading Hyphomicrobium strains were isolated from various aquatic and soil environments, and most recently also from the surfaces of plant leaves (11) 
-train MC1 features the consecutive cmuBCA gene arrangement; these genes encode chloromethane dehalogenase, which has been found in all aerobic chloromethane-degrading bacteria characterized so far with the exception of Methylobacterium extorquens CM4, from which chloromethane dehalogenase was purified (13) and in which regulation of chloromethane dehalogenase expression was investigated (14) 
- mate-paired 454 library with an 8-kb insert size was constructed (version Titanium), and 559,691 reads (173,407,941 bp; approximately 36⫻ coverage) were assembled using Newbler (version 2.3, release 091027_1459) 
-ssembly validation was made via Consed (www.phrap.org), and 129 PCRs between contigs were performed and sequenced for gap closure 
-or quality assessment, a total of 25,299,825 Illumina 36-bp reads were mapped onto the whole genome sequence using SOAP (http://soap.genomics.org.cn) (2), allowing us to correct potential base errors and confirming the final closed circular 4,757,528-bp assembly 
-equence annotation and comparative genome analysis are under way using the MicroScope platform at Genoscope (15) 
-he Biology of Hyphomicrobium and other prosthecate, budding bacteria 
-ringel, and S 
-etection and isolation of chloromethane-degrading bacteria from the Arabidopsis thaliana phyllosphere, and characterization of chloromethane utilization genes 
-iochemical, molecular, and genetic analyses of the acetone carboxylases from Xanthobacter autotrophicus strain Py2 and Rhodobacter capsulatus strain B10 
-uilleumier, and T 
-eisinger, and S 
-icroScope: a platform for microbial genome annotation and comparative genomics 
-ethylobacterium genome sequences: a reference blueprint to investigate microbial metabolism of C1 compounds from natural and industrial sources 
-ow half a century of research was required to understand bacterial growth on C1 and C2 compounds; the story of the serine cycle and the ethylmalonyl-CoA pathway 
-ark, and K 
-emmerich, and Y 
-ook, and T 
-ethyl chloride: naturally occurring toxicant and C-1 growth substrate 
-ll Rights Reserved.  Vol. 193, No. 18  Complete Genome Sequence of the Chloromethane-Degrading Hyphomicrobium sp 
-n contrast, the dichloromethane dehalogenation genes (dcmRABC) (10) allowing H. denitrificans ATCC 51888 to grow on DCM were not found in strain MC1 
-ased on the 16S rRNA sequence of its single rRNA operon, strain MC1 appears to be most closely related to Hyphomicrobium facile subspecies type strains 
+enes encoding enzymes and proteins for oxidation of methanol mxa and methylamine mgs and mgd 5 7 but not mau genes were identified together with proteins and enzymes involved in pyrroloquinoline quinone synthesis and tetrahydrofolate- and tetrahydromethanopterin-linked pathways 
+enes for complete serine and ethylmalonyl coenzyme A pathways 1 for carbon assimilation were identified 
+yphomicrobium sp . strain MC1 thus emerges as a promising model for investigating the degradation of halogenated pollutants in the context of methylotrophic metabolism using genomic information 16 and for studies of morphological and metabolic features supporting bacterial growth under nutrientscarce conditions 
+he Hyphomicrobium sp . strain MC1 genome sequence was deposited in GenBank/EMBL under accession number FQ859181 . Strains of the genus Hyphomicrobium originally attracted interest for their distinctive prosthecae and atypical complex growth cycle 9 
+trains of this genus are ubiquitous but were detected in wastewater treatment plants in particular and often under denitrifying conditions 3 8 
+ollowing the description of strain MC1 6 several chloromethane-degrading Hyphomicrobium strains were isolated from various aquatic and soil environments , and most recently also from the surfaces of plant leaves 11 
+train MC1 features the consecutive cmuBCA gene arrangement these genes encode chloromethane dehalogenase which has been found in all aerobic chloromethane-degrading bacteria characterized so far with the exception of Methylobacterium extorquens CM4 from which chloromethane dehalogenase was purified 13 and in which regulation of chloromethane dehalogenase expression was investigated 14 
+mate-paired 454 library with an 8-kb insert size was constructed version Titanium and 559,691 reads 173,407,941 bp approximately 36⫻ coverage were assembled using Newbler version 2.3 , release 091027_1459 
+ssembly validation was made via Consed www.phrap.org , and 129 PCRs between contigs were performed and sequenced for gap closure 
+or quality assessment a total of 25,299,825 Illumina 36-bp reads were mapped onto the whole genome sequence using SOAP http //soap.genomics.org.cn ( 2 , allowing us to correct potential base errors and confirming the final closed circular 4,757,528-bp assembly 
+equence annotation and comparative genome analysis are under way using the MicroScope platform at Genoscope 15 
+he Biology of Hyphomicrobium and other prosthecate budding bacteria 
+ringel and S 
+etection and isolation of chloromethane-degrading bacteria from the Arabidopsis thaliana phyllosphere and characterization of chloromethane utilization genes 
+iochemical molecular and genetic analyses of the acetone carboxylases from Xanthobacter autotrophicus strain Py2 and Rhodobacter capsulatus strain B10 
+uilleumier and T 
+eisinger and S 
+icroScope a platform for microbial genome annotation and comparative genomics 
+ethylobacterium genome sequences a reference blueprint to investigate microbial metabolism of C1 compounds from natural and industrial sources 
+ow half a century of research was required to understand bacterial growth on C1 and C2 compounds the story of the serine cycle and the ethylmalonyl-CoA pathway 
+ark and K 
+emmerich and Y 
+ook and T 
+ll Rights Reserved . Vol . 193 No . 18 Complete Genome Sequence of the Chloromethane-Degrading Hyphomicrobium sp 
+n contrast the dichloromethane dehalogenation genes dcmRABC ( 10 allowing H. denitrificans ATCC 51888 to grow on DCM were not found in strain MC1 
+ased on the 16S rRNA sequence of its single rRNA operon strain MC1 appears to be most closely related to Hyphomicrobium facile subspecies type strains 
 ichloromethanedegrading bacteria in the genomic age 
 amma-glutamylmethylamide is an essential intermediate in the metabolism of methylamine by Methylocella silvestris 
 enetics of the glutamate-mediated methylamine utilization pathway in the facultative methylotrophic beta-proteobacterium Methyloversatilis universalis FAM5 
-u, H 
-cience Progress. 94:109–137. 2 
+u H 
+cience Progress . 94:109–137 . 2 
 train MC1 Stéphane Vuilleumier,1 Thierry Nadalig,1 Muhammad Farhan Ul Haque,1 Ghislaine Magdelenat,2 Aurélie Lajus,3 Sandro Roselli,1 Emilie E 
-uller, E 
-tuder, A., E 
+uller E 
+tuder A. E 

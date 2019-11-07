@@ -1,176 +1,176 @@
 he integrity and size of the nucleic acids were determined visually after electrophoresis on a 1n2 % agarose gel containing ethidium bromide in the presence of markers and compared with the 16S rDNA of strain TGOT 
-train TGOT was not able to utilize sulphate, sulphite, thiosulphate, nitrate or fumarate as electron acceptors 
-he # # of traces of strain could not# grow in the presence oxygen, nor could sulphate, sulphite, thiosulphate or nitrate serve as electron acceptors 
+train TGOT was not able to utilize sulphate sulphite thiosulphate nitrate or fumarate as electron acceptors 
+he of traces of strain could not # grow in the presence oxygen nor could sulphate sulphite thiosulphate or nitrate serve as electron acceptors 
 he effect of sulfate and nitrate on methane formation in a freshwater sediment 
-he pH optimum was tested in medium by adding 0n15 g KH PO l−" # % instead of sodium bicarbonate 
- bicarbonate-buffered medium with the following composition was used (l−") : 0n4 g KH PO , # %; 0n53 g Na HPO , 0n3 g NH Cl, 0n3 g NaCl, 0n1 g MgCl # g CaCl % % 1 ml alkaline trace element # 6H O, 0n11 ; 2H O, # # # solution, 1 ml acid trace element solution, 1 ml vitamin solution, 0n5 mg resazurin, 4 g NaHCO , 0n25 g Na S ; $ elements and # 7–9H O and 0n5 g yeast extract 
-.L. n. acidum glutamicum glutamic acid ; N.L. fem. adj. glutamica referring to glutamic acid, on which the bacterium grows) 
+he pH optimum was tested in medium by adding 0n15 g KH PO l− '' % instead of sodium bicarbonate 
+bicarbonate-buffered medium with the following composition was used l− '' : 0n4 g KH PO % 0n53 g Na HPO 0n3 g NH Cl 0n3 g NaCl 0n1 g MgCl g CaCl % % 1 ml alkaline trace element 6H O 0n11 2H O # # solution 1 ml acid trace element solution 1 ml vitamin solution 0n5 mg resazurin 4 g NaHCO 0n25 g Na S $ elements and # 7–9H O and 0n5 g yeast extract 
+t was not possible to obtain the bacterium in pure culture by adding an inhibitor of methanogenesis bromoethanesulphonic acid BES to the enrichment culture 
+.L . n. acidum glutamicum glutamic acid N.L . fem . adj . glutamica referring to glutamic acid on which the bacterium grows 
 mino acid degradation by anaerobic bacteria 
 rocedure for the isolation of desoxyribonucleic acid from microorganisms 
 nteraction between amino acid degrading bacteria and methanogenic bacteria in anaerobic digestion 
 he role of interspecies hydrogen transfer on thermophilic protein and amino acid metabolism 
 mino acid degradation by the mesophilic sulfate-reducing bacterium Desulfobacterium vacuolatum 
-he name Gelria glutamica gen. nov., sp. nov. is proposed for strain TGOT.  Keywords : thermophilic bacteria, interspecies hydrogen transfer, obligate syntrophic glutamate oxidation, proline oxidation, propionate formation  INTRODUCTION  Because proteins are encountered in almost every ecosystem, the biodegradation of amino acids is a very important microbial process 
+he name Gelria glutamica gen. nov. sp . nov. is proposed for strain TGOT . Keywords thermophilic bacteria interspecies hydrogen transfer obligate syntrophic glutamate oxidation proline oxidation propionate formation INTRODUCTION Because proteins are encountered in almost every ecosystem the biodegradation of amino acids is a very important microbial process 
 his type of conversion of glutamate is hydrogen independent 
-he formation of hydrogen is more likely to occur in methanogenic environments, where hydrogen-scavenging methanogens convert the hydrogen to methane with the concomitant reduction of CO  
-owever, in a methanogenic consortium, the hydrogen formed is consumed via interspecies hydrogen transfer and the energy that becomes available from this reaction increases to k79n0 kJ (mol glutamate)−" 
-ike strain TGOT, Aminobacterium mobile only grows on glutamate in the presence of a hydrogen scavenger.  .................................................................................................................................................  Fig. 2 
+he formation of hydrogen is more likely to occur in methanogenic environments where hydrogen-scavenging methanogens convert the hydrogen to methane with the concomitant reduction of CO 
+owever in a methanogenic consortium the hydrogen formed is consumed via interspecies hydrogen transfer and the energy that becomes available from this reaction increases to k79n0 kJ mol glutamate − '' 
+ike strain TGOT Aminobacterium mobile only grows on glutamate in the presence of a hydrogen scavenger . ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . Fig . 2 
 ugars were converted mainly to acetate and propionate with the formation of traces of hydrogen and formate 
-arkers : Gene Ruler 100 bp DNA ladder (lane 1) and phage λ DNA digested with PstI (lane 2).  culture, they form acetate, NH+, CO and H  
-yruvate was converted by strain TGOT to acetate, propionate, succinate (traces), H and CO . # # Glycerol was utilized slowly by the pure culture but, in co-culture, glycerol was converted rapidly to acetate, traces of propionate and CH . % Other substrates that could be used by the pure culture of TGOT were lactate, arabinose, fructose, galactose, glucose, maltose, mannitol, rhamnose and sucrose 
-n the original enrichment culture, glutamate was degraded to acetate, CH , NH+ and CO , with the intermediate % propionate % # 2a) 
-lutamate and proline are oxidized to propionate, H , NH+ and CO  
-ugars are converted # % CO and# H as main products. to acetate, propionate, Growth occurs between 37# and 60# mC with optimum growth at 50–55 mC and at pH 5n5–8 (optimum pH 7) 
-econstitution of the original consortium from axenic cultures of strain TGOT, strain TPO and Methanobacterium thermautotrophicum Z-245  In order to investigate glutamate utilization as originally observed in the propionate-oxidizing enrichment culture, we performed reconstitution experiments with three axenic cultures : strain TGOT, strain TPO (the syntrophic propionate-oxidizing organism) and Methanobacterium thermautotrophicum Z-245 
-International Journal of Systematic and Evolutionary Microbiology (2002), 52, 401–407  DOI : 10.1099/ijs.0.01949-0  Gelria glutamica gen. nov., sp. nov., a thermophilic, obligately syntrophic, glutamate-degrading anaerobe 1  2  Laboratory of Microbiology, Wageningen University, H. van Suchtelenweg 4, 6703 CT Wageningen, The Netherlands Wageningen Centre for Food Science, PO Box 557, 6700 AL Wageningen, The Netherlands  Caroline M 
+roline 18n6 mM was degraded to propionate 17n3 mM , NH+ 18n2 mM and H 27n2 mM and the calculated from the amount of % hydrogen formed was amount of methane measured 
+lutamate was converted to H2 CO2 propionate and traces of succinate 
+arkers Gene Ruler 100 bp DNA ladder lane 1 and phage λ DNA digested with PstI lane 2 . culture they form acetate NH+ CO and H 
+yruvate was converted by strain TGOT to acetate propionate succinate traces H and CO . # Glycerol was utilized slowly by the pure culture but in co-culture glycerol was converted rapidly to acetate traces of propionate and CH . % Other substrates that could be used by the pure culture of TGOT were lactate arabinose fructose galactose glucose maltose mannitol , rhamnose and sucrose 
+n the original enrichment culture glutamate was degraded to acetate CH NH+ and CO with the intermediate % propionate % 2a 
+lutamate and proline are oxidized to propionate H NH+ and CO 
+ugars are converted % CO and H as main products . to acetate propionate Growth occurs between 37 and 60 mC with optimum growth at 50–55 mC and at pH 5n5–8 optimum pH 7 
+International Journal of Systematic and Evolutionary Microbiology 2002 52 401–407 DOI 10.1099/ijs.0.01949-0 Gelria glutamica gen. nov. sp . nov. a thermophilic obligately syntrophic glutamate-degrading anaerobe 1 2 Laboratory of Microbiology Wageningen University H. van Suchtelenweg 4 6703 CT Wageningen The Netherlands Wageningen Centre for Food Science PO Box 557 6700 AL Wageningen , The Netherlands Caroline M 
 oetendal1,2 and Alfons J 
 ells were rod-shaped and non-motile 
 he optimal temperature for growth was 50–55 SC and growth occurred between 37 and 60 SC 
-n pure culture, strain TGOT could grow on pyruvate, lactate, glycerol and several sugars 
-n co-culture with the hydrogenotrophic methanogen Methanobacterium thermautotrophicum strain Z-245, strain TGOT could grow on glutamate, proline and Casamino acids 
-lutamate was converted to H2, CO2, propionate and traces of succinate 
-ts closest relations were Moorella glycerini (92 %) and Moorella thermoacetica (90 %) 
-he additional base pairs were found as long loops in the V1, V7 and V9 regions of the 16S rDNA 
+n pure culture strain TGOT could grow on pyruvate lactate glycerol and several sugars 
+n co-culture with the hydrogenotrophic methanogen Methanobacterium thermautotrophicum strain Z-245 strain TGOT could grow on glutamate proline and Casamino acids 
+ts closest relations were Moorella glycerini 92 % and Moorella thermoacetica 90 % 
+he additional base pairs were found as long loops in the V1 V7 and V9 regions of the 16S rDNA 
 he formation of acetate and butyrate as the organic end-products has been described for many anaerobes that belong mainly to the genus Clostridium 
-ther examples of hydrogen-independent glutamate conversions are the homoacetogenic fermentation (Dehning et al., 1989) and the reductive formation of propionate (Nanninga et al., 1987) 
+ther examples of hydrogen-independent glutamate conversions are the homoacetogenic fermentation Dehning et al. 1989 and the reductive formation of propionate Nanninga et al. 1987 
 lugge and others Table 1 
-hange of free energy for the conversion of glutamate to various products at 55 mC under anaerobic conditions .................................................................................................................................................................................................................................................................................................................  Energy changes were calculated using the van’t Hoff equation, standard enthalpy values of compounds (Chang, 1977) and Gibbs ’ free energy changes at 298 K (Thauer et al., 1977) 
-alues of ∆Gh were calculated under standard conditions : pH 7, 1 M solutes, 1 atmosphere gases and 55 mC (328 K). ∆Gh (kJ)  Reaction  Glutamate−j2H O 4 acetate−jHCO−j"H+jNH+j"butyrate− # $ # % # Glutamate−j3H O 4 2acetate−jHCO−jH+jNH+jH # $ % # − − − + Glutamate j2H O 4 2"acetate j"HCO j$H jNH+ # % # $ % % Glutamate−j2H O 4 1#acetate−j"propionate−j#HCO−j#H+jNH+ # $ $ $ $ $ % Glutamate−j4H O 4 propionate−j2HCO−jNH+j2H # $ % #  standard conditions, these reactions yield small amounts of energy 
-n this paper, we present detailed information about the organism and we propose to name the organism Gelria glutamica gen. nov., sp. nov 
+hange of free energy for the conversion of glutamate to various products at 55 mC under anaerobic conditions ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. Energy changes were calculated using the van ’ t Hoff equation standard enthalpy values of compounds Chang 1977 and Gibbs ’ free energy changes at 298 K Thauer et al. 1977 
+alues of ∆Gh were calculated under standard conditions pH 7 1 M solutes 1 atmosphere gases and 55 mC 328 K . ∆Gh kJ Reaction Glutamate−j2H O 4 acetate−jHCO−j '' H+jNH+j '' butyrate− $ % Glutamate−j3H O 4 2acetate−jHCO−jH+jNH+jH $ % − − − + Glutamate j2H O 4 2 '' acetate j '' HCO j $ H jNH+ % $ % % Glutamate−j2H O 4 1 acetate−j '' propionate−j HCO−j H+jNH+ $ $ $ $ $ % Glutamate−j4H O 4 propionate−j2HCO−jNH+j2H $ % standard conditions these reactions yield small amounts of energy 
+n this paper we present detailed information about the organism and we propose to name the organism Gelria glutamica gen. nov. sp . nov 
 ETHODS Strains and source of organisms 
 oorella thermoacetica DSM 521T and Moorella glycerini DSM 11254T were obtained from the DSMZ 
 edia and cultivation 
-ll compounds were heat-sterilized except for the vitamins and the solution of Na S ; 7–9H O, which were filter-sterilized. # # Incubations were done in serum bottles sealed with butyl  402  105 Pa H2  1 Pa H2  k61n1 k41n6 k64n0 k69n0 k16n0  k61n1 k73n1 k64n0 k69n0 k79n0  rubber stoppers (Rubber bv) and a gas phase of 182 kPa N \CO (80 : 20, v\v) 
-or the reconstitution experiments with axenic cultures of strain TGOT (0n5 %, v\v), strain TPO (2 %, v\v) and Methanobacterium thermautotrophicum Z-245 (2 %, v\v) were inoculated in medium with 20 mM glutamate 
+ll compounds were heat-sterilized except for the vitamins and the solution of Na S 7–9H O which were filter-sterilized . # Incubations were done in serum bottles sealed with butyl 402 105 Pa H2 1 Pa H2 k61n1 k41n6 k64n0 k69n0 k16n0 k61n1 k73n1 k64n0 k69n0 k79n0 rubber stoppers Rubber bv and a gas phase of 182 kPa N \CO 80 20 v\v 
+or the cultivation of methanogens a phase of 182 kPa H \CO 80 20 v\v was used and gas was changed to N \CO 
+or the reconstitution experiments with axenic cultures of strain TGOT 0n5 % v\v strain TPO 2 % v\v and Methanobacterium thermautotrophicum Z-245 2 % , v\v were inoculated in medium with 20 mM glutamate 
 emperature and pH 
 he temperature optimum was determined in bicarbonate-buffered medium containing 20 mM pyruvate at pH 7 and duplicate bottles were incubated at temperatures ranging from 30 to 75 mC 
-or incubated at 55 mC at determinations of the temperature and pH optimum, OD '!! and acetate production were measured as indicators for growth 
+or incubated at 55 mC at determinations of the temperature and pH optimum OD ' ! and acetate production were measured as indicators for growth 
 rowth and substrate utilization 
 tilization of substrates by strain TGOT in pure culture and in co-culture with Methanobacterium thermautotrophicum Z-245 was determined by monitoring growth and substrate depletion as well as product formation 
-solation and purification of genomic DNA was carried out according to Marmur (1961) 
-CR was performed with the bacterial primers 7f and 1510r (Lane, 1991) by using the Taq DNA polymerase kit (Life Technologies) to amplify the bacterial 16S rDNA 
-rimers 538r, 1100r (Lane, 1991) and 968f (Nu$ bel et al., 1996) labelled with Infrared Dye 41 (MWG-Biotech) were  International Journal of Systematic and Evolutionary Microbiology 52 Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 07:24:21  Gelria glutamica gen. nov., sp. nov. used as sequencing primers 
+solation and purification of genomic DNA was carried out according to Marmur 1961 
+CR was performed with the bacterial primers 7f and 1510r Lane 1991 by using the Taq DNA polymerase kit Life Technologies to amplify the bacterial 16S rDNA 
+rimers 538r 1100r Lane 1991 and 968f Nu $ bel et al. 1996 labelled with Infrared Dye 41 MWG-Biotech were International Journal of Systematic and Evolutionary Microbiology 52 Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Sat 17 Feb 2018 07:24:21 Gelria glutamica gen. nov. sp . nov. used as sequencing primers 
 he sequences were analysed automatically on a LI-COR DNA sequencer 4000L and corrected manually 
-hylogenetic analysis and tree construction were performed with the programs of the  software package (Strunk & Ludwig, 1991).  homology searches with sequences of the EMBL and GenBank DNA databases were performed and the results were compared with those obtained with the  programs 
-ecause strain TGOT had additional loops in several regions of the 16S rDNA, we did the database comparison with the complete sequence of 1725 bp and also with the sequence without the additional loops 
-NA isolation, RT–PCR and dot-blot hybridizations 
-pecific probes targeting the V1, V7 and V9 regions of the 16S rDNA of strain TGOT were applied in order to investigate whether such additional loops were also present in the 16S rRNA 
-he sequences of these oligonucleotides were 5h-GCTCTTGGGCCTTTTGAA-3h (V1 region), 5h-GTTAACCCTCTGGCTTTG-3h (V7 region) and 5h-CTCAATCCGCAAGTTTAA-3h (V9 region) 
-ot-blot hybridizations were performed with strain TGOT, Moorella thermoacetica, Moorella glycerini and Escherichia coli as described by Oude Elferink et al. (1997) 
-T–PCR of the 16S rRNA genes of strain TGOT, Moorella thermoacetica, Moorella glycerini and Escherichia coli was performed by means of bacterial primers 7f and 1510r using the Access RT–PCR system (Promega) 
-ases and organic acids were analysed by GC and HPLC as described by Plugge et al. (2000) 
-ram and flagella staining were done by standard procedures as described previously (Plugge et al., 2000).  RESULTS AND DISCUSSION Isolation of the glutamate-oxidizing strain TGOT  A thermophilic, syntrophic, propionate-oxidizing enrichment, as described by Stams et al. (1992), was also able to convert glutamate to acetate, NH+, HCO− and $ on CH  
-he colonies that appeared in the agar and on  .................................................................................................................................................  Fig. 1 
+hylogenetic analysis and tree construction were performed with the programs of the  software package Strunk & Ludwig 1991 .  homology searches with sequences of the EMBL and GenBank DNA databases were performed and the results were compared with those obtained with the  programs 
+ecause strain TGOT had additional loops in several regions of the 16S rDNA we did the database comparison with the complete sequence of 1725 bp and also with the sequence without the additional loops 
+NA isolation RT–PCR and dot-blot hybridizations 
+pecific probes targeting the V1 V7 and V9 regions of the 16S rDNA of strain TGOT were applied in order to investigate whether such additional loops were also present in the 16S rRNA 
+he sequences of these oligonucleotides were 5h-GCTCTTGGGCCTTTTGAA-3h V1 region , 5h-GTTAACCCTCTGGCTTTG-3h V7 region and 5h-CTCAATCCGCAAGTTTAA-3h V9 region 
+ot-blot hybridizations were performed with strain TGOT Moorella thermoacetica Moorella glycerini and Escherichia coli as described by Oude Elferink et al . 1997 
+T–PCR of the 16S rRNA genes of strain TGOT Moorella thermoacetica Moorella glycerini and Escherichia coli was performed by means of bacterial primers 7f and 1510r using the Access RT–PCR system Promega 
+ases and organic acids were analysed by GC and HPLC as described by Plugge et al . 2000 
+ram and flagella staining were done by standard procedures as described previously Plugge et al. 2000 . RESULTS AND DISCUSSION Isolation of the glutamate-oxidizing strain TGOT A thermophilic syntrophic propionate-oxidizing enrichment as described by Stams et al . 1992 was also able to convert glutamate to acetate NH+ , HCO− and $ on CH 
+he colonies that appeared in the agar and on ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . Fig . 1 
 he colonies were white and round at the surface and lens-shaped in the agar 
- single colony picked from the agar grew in medium containing pyruvate and with 0n05 % yeast extract 
-orphology and cellular characterization  The isolated strain TGOT is a rod-shaped, sporeforming organism 
-ells were 0n5 µm in diameter and 1–1n5 µm in length when grown on pyruvate (Fig. 1) 
-f the bacterium was grown on glucose, the cells were 0n5 µm in diameter and 3–20 µm in length 
+single colony picked from the agar grew in medium containing pyruvate and with 0n05 % yeast extract 
+orphology and cellular characterization The isolated strain TGOT is a rod-shaped sporeforming organism 
+ells were 0n5 µm in diameter and 1–1n5 µm in length when grown on pyruvate Fig . 1 
+f the bacterium was grown on glucose the cells were 0n5 µm in diameter and 3–20 µm in length 
 pores were located terminally and were 0n5i0n5 µm in size and developed in the lateexponential phase 
-lutamate (15 mM) was converted to propionate (12n9 mM), succinate (1n0 mM), NH+ (14n9 mM) and CH (8n9 % remM) 
-he carbon and %electron recovery were spectively 93 and 98 % (excluding the biomass formed) 
-aloramator proteoclasticus, Caloramator coolhaasii and Thermanaerovibrio acidaminovorans (Cheng et al., 1992 ; Tarlera & Stams, 1999 ; Plugge et al., 2000) are examples of such thermophilic glutamate-degrading organisms 
-lugge and others  vorans is grown in co-culture with a methanogen, the products formed from glutamate conversion shift in favour of propionate formation 
-xamples of mesophilic glutamate-degrading organisms that show the same degradation products as Thermanaerovibrio acidaminovorans are Acidaminobacter hydrogenoformans and Aminobacterium mobile (Stams & Hansen, 1984 ; Baena et al., 2000) 
-tilization of glutamate (4) and production of propionate (>), acetate ( ), succinate (#) and CH4 ($) by a consortium of strain TGOT, strain TPO and Methanobacterium thermautotrophicum Z-245. (a) Original enrichment culture as described by Stams et al. (1992). (b) Co-culture inoculated with 0n5, 2 and 0n5 % (v/v) of pure cultures of strain TGOT, strain TPO and Methanobacterium thermautotrophicum strain Z-245.  .................................................................................................................................................  Fig. 3 
-garose gel (1n2 %) showing size and integrity of reamplified 16S rDNA (lane 3) and rRNA (lane 4) of strain TGOT and 16S rRNA of Moorella glycerini (lane 5) and Moorella thermoacetica (lane 6) 
-hen Thermanaerovibrio acidamino404  Strain TGOT is the first example of an organism that is unable to form acetate from glutamate and forms mainly propionate 
-t is unclear why strain TGOT does not form acetate from glutamate, even though acetate production could be detected after growth on several sugars, lactate and pyruvate 
+lutamate 15 mM was converted to propionate 12n9 mM , succinate 1n0 mM , NH+ 14n9 mM and CH 8n9 % remM 
+he carbon and % electron recovery were spectively 93 and 98 % excluding the biomass formed 
+aloramator proteoclasticus Caloramator coolhaasii and Thermanaerovibrio acidaminovorans Cheng et al. 1992 Tarlera & Stams 1999 Plugge et al. 2000 are examples of such thermophilic glutamate-degrading organisms 
+lugge and others vorans is grown in co-culture with a methanogen the products formed from glutamate conversion shift in favour of propionate formation 
+xamples of mesophilic glutamate-degrading organisms that show the same degradation products as Thermanaerovibrio acidaminovorans are Acidaminobacter hydrogenoformans and Aminobacterium mobile Stams & Hansen 1984 Baena et al. 2000 
+tilization of glutamate 4 and production of propionate > acetate succinate # and CH4 $ by a consortium of strain TGOT strain TPO and Methanobacterium thermautotrophicum Z-245 . a Original enrichment culture as described by Stams et al . 1992 . b Co-culture inoculated with 0n5 2 and 0n5 % v/v ) of pure cultures of strain TGOT , strain TPO and Methanobacterium thermautotrophicum strain Z-245 . ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . Fig . 3 
+garose gel 1n2 % showing size and integrity of reamplified 16S rDNA lane 3 and rRNA lane 4 of strain TGOT and 16S rRNA of Moorella glycerini lane 5 and Moorella thermoacetica lane 6 
+hen Thermanaerovibrio acidamino404 Strain TGOT is the first example of an organism that is unable to form acetate from glutamate and forms mainly propionate 
+t is unclear why strain TGOT does not form acetate from glutamate even though acetate production could be detected after growth on several sugars lactate and pyruvate 
 he formation of traces of succinate during glutamate utilization suggests that direct oxidation takes place via α-ketoglutarate and succinyl-CoA 
-his pathway was also suggested to be used in propionate formation in Thermanaerovibrio acidaminovorans and Acidaminobacter hydrogenoformans (Cheng et al., 1992 ; Stams & Hansen, 1984) 
-n co-culture with the methanogen Methanobacterium thermautotrophicum Z-245, strain TGOT could also grow on Casamino acids, α-ketoglutarate and proline 
-roline (18n6 mM) was degraded to propionate (17n3 mM), NH+ (18n2 mM) and H (27n2 mM) and the # calculated from the amount of %hydrogen formed was amount of methane measured 
-esulfobacterium vacuolatum (Rees et al., 1998), a versatile amino acid-utilizing sulphate reducer, and Geovibrio ferrireducens (Caccavo et al., 1996), an ironreducing bacterium, can couple the oxidation of proline to sulphate reduction and dissimilatory Fe(III) reduction, respectively 
-train TGOT might be able to convert proline to glutamate with the reverse reactions of proline synthesis via glutamate semialdehyde.  International Journal of Systematic and Evolutionary Microbiology 52 Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 07:24:21  Gelria glutamica gen. nov., sp. nov.  .....................................................................................................  Fig. 4 
-he tree is based on a distance matrix of 16S rRNA sequences and was constructed using the neighbour-joining method corrected by the method of Felsenstein (1982) 
-ar, 0n1 (evolutionary distance).  No growth of strain TGOT was observed in pure culture or in co-culture with Methanobacterium thermautotrophicum Z-245 on aspartate, alanine, lysine, threonine, leucine, tyrosine, glycine, fumarate, malate, succinate, propionate, acetate, methanol, ethanol, propanol, butanol, acetone, benzoate, starch or H \CO . # but # The following mixtures of amino acids were tested were not utilized by the pure culture of strain TGOT : alaninejglycine, alaninejarginine, alaninejproline, leucinejglycine, leucinejarginine, leucinejproline, H jglycine, H jarginine and H jproline 
+his pathway was also suggested to be used in propionate formation in Thermanaerovibrio acidaminovorans and Acidaminobacter hydrogenoformans Cheng et al. 1992 Stams & Hansen 1984 
+n co-culture with the methanogen Methanobacterium thermautotrophicum Z-245 strain TGOT could also grow on Casamino acids α-ketoglutarate and proline 
+esulfobacterium vacuolatum Rees et al. 1998 a versatile amino acid-utilizing sulphate reducer and Geovibrio ferrireducens Caccavo et al. 1996 an ironreducing bacterium , can couple the oxidation of proline to sulphate reduction and dissimilatory Fe III reduction , respectively 
+train TGOT might be able to convert proline to glutamate with the reverse reactions of proline synthesis via glutamate semialdehyde . International Journal of Systematic and Evolutionary Microbiology 52 Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Sat 17 Feb 2018 07:24:21 Gelria glutamica gen. nov. sp . nov. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. Fig . 4 
+he tree is based on a distance matrix of 16S rRNA sequences and was constructed using the neighbour-joining method corrected by the method of Felsenstein 1982 
+ar 0n1 evolutionary distance . No growth of strain TGOT was observed in pure culture or in co-culture with Methanobacterium thermautotrophicum Z-245 on aspartate alanine lysine threonine leucine tyrosine glycine fumarate malate succinate propionate acetate methanol ethanol propanol butanol acetone benzoate starch or H \CO . but The following mixtures of amino acids were tested were not utilized by the pure culture of strain TGOT alaninejglycine alaninejarginine alaninejproline leucinejglycine leucinejarginine leucinejproline H jglycine H jarginine and H jproline 
 train TGOT could grow on glucose between 37 and 60 mC with an optimum at 50–55 mC 
-his indicated that the axenic cultures of strain TGOT and strain TPO had the same physiological capabilities as in the original enrichment cultures.  Phylogeny  The nucleotide sequence (1725 bp) of the 16S rDNA of strain TGOT was analysed and it revealed that this organism belongs to the subphylum of Gram-positive, endospore-forming, thermophilic, anaerobic bacteria 
-equence alignment revealed that strain TGOT had additional loops in the V1, V7 and V9 helices of the 16S rDNA 
-ot-blot hybridizations with specific oligonucleotides against these regions showed no hybridization with 16S rRNA from strain TGOT, Moorella glycerini, Moorella thermoacetica and Escherichia coli 
+econstitution of the original consortium from axenic cultures of strain TGOT strain TPO and Methanobacterium thermautotrophicum Z-245 In order to investigate glutamate utilization as originally observed in the propionate-oxidizing enrichment culture we performed reconstitution experiments with three axenic cultures strain TGOT strain TPO the syntrophic propionate-oxidizing organism and Methanobacterium thermautotrophicum Z-245 
+his indicated that the axenic cultures of strain TGOT and strain TPO had the same physiological capabilities as in the original enrichment cultures . Phylogeny The nucleotide sequence 1725 bp of the 16S rDNA of strain TGOT was analysed and it revealed that this organism belongs to the subphylum of Gram-positive endospore-forming thermophilic anaerobic bacteria 
+equence alignment revealed that strain TGOT had additional loops in the V1 V7 and V9 helices of the 16S rDNA 
+ot-blot hybridizations with specific oligonucleotides against these regions showed no hybridization with 16S rRNA from strain TGOT Moorella glycerini Moorella thermoacetica and Escherichia coli 
 omparison of the size of the 16S rDNA and 16S rRNA showed that the sizes were respectively 1700 and 1500 bp 
-equence analysis showed that strain TGOT is only distantly related to Moorella glycerini and Moorella thermoacetica (Slobodkin et al., 1997 ; Collins et al., 1994), with respective levels of similarity of 92 and 90 % 
- phylogenetic tree showing the relationship of strain TGOT and other related species is depicted in Fig. 4 
-axonomy  Our findings indicate that strain TGOT differs physiologically and phylogenetically from previously described species 
-lugge and others  the phylogenetic relationship is not sufficiently close to classify strain TGOT in this genus 
-herefore, we propose a novel genus and species, Gelria glutamica gen. nov., sp. nov 
-n pure culture, the cells can grow on pyruvate, lactate, glycerol, glucose, rhamnose and galactose 
-n syntrophic association with a hydrogenotrophic methanogen, the organism can utilize glutamate, α-ketoglutarate, proline, Casamino acids and a variety of sugars 
-he phylogeny of the genus Clostridium : proposal of five new genera and eleven new species combinations 
+equence analysis showed that strain TGOT is only distantly related to Moorella glycerini and Moorella thermoacetica Slobodkin et al. 1997 Collins et al. 1994 , with respective levels of similarity of 92 and 90 % 
+phylogenetic tree showing the relationship of strain TGOT and other related species is depicted in Fig . 4 
+axonomy Our findings indicate that strain TGOT differs physiologically and phylogenetically from previously described species 
+lugge and others the phylogenetic relationship is not sufficiently close to classify strain TGOT in this genus 
+herefore we propose a novel genus and species Gelria glutamica gen. nov. sp . nov 
+n pure culture the cells can grow on pyruvate lactate glycerol glucose rhamnose and galactose 
+n syntrophic association with a hydrogenotrophic methanogen the organism can utilize glutamate α-ketoglutarate proline Casamino acids and a variety of sugars 
+he phylogeny of the genus Clostridium proposal of five new genera and eleven new species combinations 
 naerobic hydrolysis and fermentation of fats and proteins 
 etection and quantification of Desulforhabdus amnigenes in anaerobic granular sludge by dot blot hybridization and PCR amplification 
-ntonie Leeuwenhoek 68, 309–315.  International Journal of Systematic and Evolutionary Microbiology 52 Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 07:24:21  Gelria glutamica gen. nov., sp. nov 
-solation and characterization of the homoacetogenic thermophilic bacterium Moorella glycerini sp. nov 
-ermentation of glutamate and other compounds by Acidaminobacter hydrogenoformans gen. nov., sp. nov., an obligate anaerobe isolated from black mud 
+ntonie Leeuwenhoek 68 309–315 . International Journal of Systematic and Evolutionary Microbiology 52 Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Sat 17 Feb 2018 07:24:21 Gelria glutamica gen. nov. sp . nov 
+solation and characterization of the homoacetogenic thermophilic bacterium Moorella glycerini sp . nov 
+ermentation of glutamate and other compounds by Acidaminobacter hydrogenoformans gen. nov. sp . nov. an obligate anaerobe isolated from black mud 
 tudies with pure cultures and mixed cultures with sulfate-reducing and methanogenic bacteria 
 egradation of proteins and amino acids by Caloramator proteoclasticus in pure culture and in coculture with Methanobacterium thermoformicicum Z245 
-hylogenetic analysis of 18 thermophilic Methanobacterium isolates supports the proposals to create a new genus, Methanothermobacter gen. nov., and to reclassify several isolates in three species, Methanothermobacter thermautotrophicus comb. nov., Methanothermobacter wolfeii comb. nov., and Methanothermobacter marburgensis sp. nov 
+hylogenetic analysis of 18 thermophilic Methanobacterium isolates supports the proposals to create a new genus Methanothermobacter gen. nov. and to reclassify several isolates in three species Methanothermobacter thermautotrophicus comb . nov. Methanothermobacter wolfeii comb . nov. and Methanothermobacter marburgensis sp . nov 
 emperature gradient gel electrophoresis analysis of 16S rRNA from human fecal samples reveals stable and host-specific communities of active bacteria 
 he axenic culture was obtained by growing the bacterium on pyruvate 
-equence analysis of the 16S rDNA revealed that strain TGOT belongs to the thermophilic, endospore-forming anaerobes, though no close relations were found 
-owever, the loops were not found in the 16S rRNA 
-he conversion of amino acids in methanogenic environments has been studied over the last 20 years, especially in temperate environments (Barker, 1981 ; Nagase & Matsuo, 1982 ; McInerney, 1989) 
-owever, in moderately thermophilic methanogenic environments, the degradation of amino acids has not been studied in detail 
-nly a few bacterial species have been described to degrade amino acids under thermophilic conditions (Cheng et al., .................................................................................................................................................  The GenBank accession number for the 16S rDNA sequence of strain TGOT is AF321086.  1992 ; O= rlygsson, 1994 ; Tarlera et al., 1997 ; Plugge et al., 2000) 
-n # the presence of methanogens, the free energy available from the overall reactions is higher (Table 1) 
-n particular, the exclusive formation of propionate from glutamate is very difficult, since the free energy at 55 mC is only k16n0 kJ (mol glutamate)−" (Table 1) 
-arlier research indicated the presence of a propionateforming, obligately syntrophic bacterium in a thermophilic, syntrophic, glutamate-degrading, propionateoxidizing enrichment (Stams et al., 1992) 
-rom this mixed culture, we isolated a bacterium that produced propionate as the major product from glutamate, in addition to traces of succinate 
-train TPO, a syntrophic, propionateoxidizing bacterium, was isolated from the same enrichment culture 
-or the cultivation of methanogens, a # phase # of 182 kPa H \CO (80 : 20, v\v) was used and, gas # was# changed to N \CO  
-rganic after growth, the gas phase substrates were added from anaerobic sterile#stock#solutions to final concentrations of 20 mM (unless otherwise stated) 
-o obtain an axenic culture, soft agar (0n7–0n8 % agar noble ; Difco) was added to the medium described above, supplemented with 20 mM pyruvate as the carbon source 
+equence analysis of the 16S rDNA revealed that strain TGOT belongs to the thermophilic endospore-forming anaerobes though no close relations were found 
+owever the loops were not found in the 16S rRNA 
+he conversion of amino acids in methanogenic environments has been studied over the last 20 years especially in temperate environments Barker 1981 Nagase & Matsuo 1982 McInerney 1989 
+owever in moderately thermophilic methanogenic environments the degradation of amino acids has not been studied in detail 
+nly a few bacterial species have been described to degrade amino acids under thermophilic conditions Cheng et al. ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . The GenBank accession number for the 16S rDNA sequence of strain TGOT is AF321086 . 1992 O= rlygsson 1994 Tarlera et al. 1997 Plugge et al. 2000 
+n the presence of methanogens the free energy available from the overall reactions is higher Table 1 
+n particular the exclusive formation of propionate from glutamate is very difficult since the free energy at 55 mC is only k16n0 kJ mol glutamate − '' Table 1 
+arlier research indicated the presence of a propionateforming obligately syntrophic bacterium in a thermophilic syntrophic glutamate-degrading propionateoxidizing enrichment Stams et al. 1992 
+rom this mixed culture we isolated a bacterium that produced propionate as the major product from glutamate in addition to traces of succinate 
+train TPO a syntrophic propionateoxidizing bacterium was isolated from the same enrichment culture 
+rganic after growth the gas phase substrates were added from anaerobic sterile stock solutions to final concentrations of 20 mM unless otherwise stated 
+o obtain an axenic culture soft agar 0n7–0n8 % agar noble Difco was added to the medium described above supplemented with 20 mM pyruvate as the carbon source 
 he pH value of the medium containing 20 mM pyruvate was adjusted with NaOH or HCl under the N atmosphere 
 he effect of electron acceptors on the growth of strain TGOT was tested in medium with 20 mM glutamate 
-he GjC content of the DNA was analysed using thermal denaturation as described by Owen et al. (1969). 16S rDNA sequence analysis 
-CR products were purified with the Qiaquick PCR purification kit (Qiagen) according to the manufacturer’s instructions 
-rior to the RT– PCR amplification, the samples were incubated with RNasefree DNase (Promega) to remove all traces of DNA 
-mmonium was analysed by the indophenol-blue method (Hanson & Philips, 1981) 
-hen the enrichment culture was% growing % glutamate, a small, rod-shaped bacterium became predominant 
-t was not possible to obtain the bacterium in pure culture by adding an inhibitor of methanogenesis (bromoethanesulphonic acid, BES) to the enrichment culture 
-he bacterium could be purified by serial dilution in media containing agar (0n7–0n8 %) with pyruvate as the organic substrate 
+he GjC content of the DNA was analysed using thermal denaturation as described by Owen et al . 1969 . 16S rDNA sequence analysis 
+CR products were purified with the Qiaquick PCR purification kit Qiagen according to the manufacturer ’ s instructions 
+rior to the RT– PCR amplification the samples were incubated with RNasefree DNase Promega to remove all traces of DNA 
+mmonium was analysed by the indophenol-blue method Hanson & Philips 1981 
+hen the enrichment culture was % growing % glutamate a small rod-shaped bacterium became predominant 
+he bacterium could be purified by serial dilution in media containing agar 0n7–0n8 % with pyruvate as the organic substrate 
 he arrow indicates the start of spore formation 
-ar, 5 µm.  the surface of the agar were 0n7–1n0 mm in diameter 
-hysiological characterization  Strain TGOT was able to grow on glutamate only in the presence of the methanogenic archaeon Methanobacterium thermautotrophicum Z-245 
-everal thermophilic bacteria are known to utilize glutamate with the concomitant production of H , but these organisms also grow in pure culture on #glutamate 
-s a consequence, the organism has to grow in a syntrophic co-culture with a methanogen, since the free energy under standard conditions is only slightly negative (Table 1) 
-hylogenetic tree showing the position of strain TGOT among representatives of thermophilic, anaerobic spore-forming genera 
-he stoichiometry production of (Fig. of glutamate conversion was : Glutamate−j3"H O 4 acetate−j1"CH j1$HCO− % # % % % $ j$ H+jNH+ % % In the reconstitution experiments, glutamate was consumed according to the stoichiometry described above (Fig. 2b) 
+ar 5 µm . the surface of the agar were 0n7–1n0 mm in diameter 
+hysiological characterization Strain TGOT was able to grow on glutamate only in the presence of the methanogenic archaeon Methanobacterium thermautotrophicum Z-245 
+everal thermophilic bacteria are known to utilize glutamate with the concomitant production of H but these organisms also grow in pure culture on glutamate 
+s a consequence the organism has to grow in a syntrophic co-culture with a methanogen since the free energy under standard conditions is only slightly negative Table 1 
+hylogenetic tree showing the position of strain TGOT among representatives of thermophilic anaerobic spore-forming genera 
+he stoichiometry production of Fig . of glutamate conversion was Glutamate−j3 '' H O 4 acetate−j1 '' CH j1 $ HCO− % % % % $ j $ H+jNH+ % % In the reconstitution experiments glutamate was consumed according to the stoichiometry described above Fig . 2b 
 here are examples of other organisms with 16S rDNA that exceeds the mean length of 1500 bp 
-n thermophiles, it is not unusual that the 16S rDNA is longer (Rainey et al., 1996) 
+n thermophiles it is not unusual that the 16S rDNA is longer Rainey et al. 1996 
 his indicated that the loops were not transcribed from the 16S rDNA to the 16S rRNA of strain TGOT 
-his confirms the absence of the loops in the 16S rRNA observed with the dot-blot hybridizations (Fig. 3) 
+his confirms the absence of the loops in the 16S rRNA observed with the dot-blot hybridizations Fig . 3 
 t is unclear how the transcription of the rRNA is regulated 
 he similarities were calculated with the use of the 16S rDNA sequence of strain TGOT without the additional loops 
-train TGOT is phylogenetically most similar to the genus Moorella (90–92 % similarity), but  http://ijs.sgmjournals.org  405 Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 07:24:21  C 
-lso, the ability of strain TGOT to form solely propionate from glutamate separates it from members of this genus 
-elria Gelre or Gelderland, one of the 12 provinces of The Netherlands, in which Wageningen is located) 
-ells are 0n5i0n5–6 µm, varying depending on the growth substrate 
+train TGOT is phylogenetically most similar to the genus Moorella 90–92 % similarity but http //ijs.sgmjournals.org 405 Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Sat , 17 Feb 2018 07:24:21 C 
+lso the ability of strain TGOT to form solely propionate from glutamate separates it from members of this genus 
+elria Gelre or Gelderland one of the 12 provinces of The Netherlands in which Wageningen is located 
+ells are 0n5i0n5–6 µm varying depending on the growth substrate 
 CKNOWLEDGEMENTS The determination of the GjC content by Dr A 
-ysenko at the Institute of Microbiology of the Russian Academy of Sciences in Moscow is greatly appreciated.  REFERENCES Baena, S., Fardeau, M.-L., Labat, M., Ollivier, B., Garcia, J.-L. & Patel, B 
+ysenko at the Institute of Microbiology of the Russian Academy of Sciences in Moscow is greatly appreciated . REFERENCES Baena S. Fardeau M.-L. Labat M. Ollivier B. Garcia J.-L. & Patel B 
 ormation of -alanine as a reduced end product in carbohydrate fermentation by the hyperthermophilic archeon Pyrococcus furiosus 
 rowth of syntrophic propionate-oxidizing bacteria with fumarate in the absence of methanogenic bacteria 
-arker, H 
-ernt, E. & Bergmeyer, H 
+arker H 
+ernt E. & Bergmeyer H 
 dited by H 
-anninga, H 
-., Rinia, H 
+anninga H 
+. Rinia H 
 mmonium by indophenol blue reaction 
-= rlygsson, J. (1994) 
+= rlygsson J . 1994 
 t is highly unlikely that a single organism can perform this reaction 
 he DNA GjC content is 33n8 mol % 
-he type strain is TGOT (l DSM 14054T l ATCC BAA-262T) 
+he type strain is TGOT l DSM 14054T l ATCC BAA-262T 
 equence heterogeneities of genes encoding 16S rRNAs in Paenibacillus polymyxa detected by temperature gradient gel electrophoresis 
-poromusa malonica sp. nov., a homoacetogenic bacterium growing by decarboxylation of malonate or succinate 
+poromusa malonica sp . nov. a homoacetogenic bacterium growing by decarboxylation of malonate or succinate 
 nrichment of thermophilic propionate-oxidizing bacteria in syntrophy with Methanobacterium thermautotrophicum or Methanobacterium thermoformicicum 
-otal DNA was extracted from strain TGOT as described previously (Zoetendal et al., 1998) 
+otal DNA was extracted from strain TGOT as described previously Zoetendal et al. 1998 
 etermination of DNA base composition from melting profiles in dilute buffers 
 he pH range for growth was 55–8 with optimum growth at pH 7 
-east extract (minimum 0n02 %) was required for growth 
-he pH range for growth was 5n5–8, with optimum growth at pH 7 
+east extract minimum 0n02 % was required for growth 
+he pH range for growth was 5n5–8 with optimum growth at pH 7 
 accharolytic growth in pure culture 
-. (1991). 16S\23S rDNA sequencing, In Nucleic Acid Techniques in Bacterial Systematics, pp. 115–175 
-ostilow, E 
+. 1991 . 16S\23S rDNA sequencing In Nucleic Acid Techniques in Bacterial Systematics pp . 115–175 
+ostilow E 
 dited by E 
-, Zoetendal, E 
-oetendal, E 
+Zoetendal E 
+oetendal E 

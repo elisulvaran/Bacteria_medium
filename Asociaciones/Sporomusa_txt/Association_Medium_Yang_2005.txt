@@ -1,237 +1,239 @@
-f these, most can only dehalogenate PCE to cis-1,2-dichloroethene (cDCE), such as Dehalobacter restrictus, Sulfurospirillum multivorans (previously Dehalospirillum multivorans (Luijten et al., 2003)), Desulfuromonas chloroethenica, Desulfuromonas michiganensis, and some Desulfitobacterium species; only Dehalococcoides species were identiﬁed as organisms capable of complete dehalogenation of PCE (Dehalococcoides ethenogenes) or cDCE/vinyl chloride (VC) (Dehalococcoides sp 
+f these most can only dehalogenate PCE to cis-1,2-dichloroethene cDCE such as Dehalobacter restrictus Sulfurospirillum multivorans previously Dehalospirillum multivorans Luijten et al. 2003 Desulfuromonas chloroethenica Desulfuromonas michiganensis , and some Desulfitobacterium species only Dehalococcoides species were identiﬁed as organisms capable of complete dehalogenation of PCE Dehalococcoides ethenogenes or cDCE/vinyl chloride VC ) ( Dehalococcoides sp 
 rowth of a Dehalococcoides-like microorganism on vinyl chloride and cis-dichloroethene as electron acceptors as determined by competitive PCR 
-omparison of anaerobic dechlorinating enrichment cultures maintained on tetrachloroethene, trichloroethene, cis-dichloroethene and vinyl chloride 
+omparison of anaerobic dechlorinating enrichment cultures maintained on tetrachloroethene trichloroethene cis-dichloroethene and vinyl chloride 
 etoxiﬁcation of vinyl chloride to ethene coupled to growth of an anaerobic bacterium 
-rganic acid concentrations were determined with a DX-320 ion chromatography (IC) system, using 100 mL liquid samples 
-els were stained for 30 min with a 1:10,000 dilution of GelStars nucleic acid stain (Bio Whittaker, Denmark) and analyzed using the Gel Doc 2000 system (BioRad) and QuantityOne software (BioRad). 2.7 
+fter discarding the supernatant the cell pellet was resuspended in 1 mL DNA extraction buffer 50 mM NaCl 50 mM EDTA 50 mM Tris 5 % sodium dodecyl sulfate pH 8 and DNA was extracted and puriﬁed according to the method of Sigler and Zeyer Sigler and Zeyer 2002 
+rganic acid concentrations were determined with a DX-320 ion chromatography IC system using 100 mL liquid samples 
+els were stained for 30 min with a 1:10,000 dilution of GelStars nucleic acid stain Bio Whittaker Denmark and analyzed using the Gel Doc 2000 system BioRad and QuantityOne software BioRad . 2.7 
 ibosomal RNA-targeted nucleic acid probes for studies in microbial ecology 
-omparison of butyric acid, ethanol, lactic acid, and propionic acid as hydrogen donors for the reductive dechlorination of tetrachloroethene 
-he combined analyses suggested that Dehalococcoides-like bacteria are associated with complete dehalogenation of chlorinated ethenes to ethene with hydrogen as electron donor; and Desulfitobacterium-like bacteria, in contrast, are associated with incomplete PCE dehalogenation to cDCE and appear to be able to use acetate as electron donor 
-ost of these organisms can use hydrogen but not acetate as the direct electron donor (hydrogenotrophic dehalogenators), such as Dehalobacter restrictus, S. multivorans, D. ethenogenes, and some Desulfitobacterium species 
-o acetotrophic dehalogenators cultivated so far are capable of complete dehalogenation of PCE to ethene, and hydrogen is generally assumed to be the major electron donor to sustain complete dehalogenation (Distefano et al., 1992; Smatlak et al., 1996; Ballapragada et al., 1997; Fennell et al., 1997; Yang and McCarty, 1998) 
-he enrichment procedure was designed according to assumed metabolic requirements of dehalogenators using different combinations of electron donors (including hydrogen and acetate) and electron acceptors (including PCE, cDCE, and controls without chlorinated ethenes) 
-his selection is of universal signiﬁcance as hydrogen and acetate are major intermediates in anaerobic decomposition of organic matter (Schink, 1997) 
-ue to the presence of active methane-producing microorganisms, which can use hydrogen and acetate as electron donors, no accumulation of these intermediates of benzoate degradation was observed in the chemostat 
-he culture was grown on hydrogen and PCE as previously described (Maymo-Gatell et al., 1997). 2.3 
-ulture enrichment scheme For culture enrichment, hydrogen and acetate were used as electron donors, PCE and cDCE as electron acceptors 
-ith hydrogen as electron donor (Fig. 2a), DGGE ﬁngerprints of the subcultures receiving PCE or cDCE clearly differed from the original chemostat culture and controls without chlorinated ethenes (bands 1–3; Fig. 2a) 
-he ﬁrst six lanes of panel (a) and (b) are from subcultures enriched with hydrogen and acetate, respectively, which are shown in duplicates from independent microcosm 
-and 4 was present in ﬁngerprints of both acetate/PCE and acetate/cDCE subcultures and its DNA sequence was 100% similar to an uncultured Dehalococcoides species and was afﬁliated with the same phylotype as band 1 from communities grown with hydrogen as electron  99 100 99 96 100 99  donor (Table 2) 
-owever, in the presence of PCE or cDCE, when hydrogen was used as electron donor, a signiﬁcant increase in Dehalococcoides-like bacteria was observed, which reached 52% and 76% of the total bacteria in H2/cDCE and H2/PCE subcultures, respectively, at the end of the sixth transfer 
-hese bacteria were not detected in the original chemostat culture, but were greatly enriched in all cultures receiving PCE as electron acceptor, reaching 53 and 17% of total bacteria counts with acetate and hydrogen as electron donor, respectively (Fig. 4) 
+omparison of butyric acid ethanol lactic acid and propionic acid as hydrogen donors for the reductive dechlorination of tetrachloroethene 
+he culture was enriched using different combinations of electron donors hydrogen and acetate and electron acceptors PCE cis-1,2dichloroethene cDCE and controls without chlorinated ethenes 
+he combined analyses suggested that Dehalococcoides-like bacteria are associated with complete dehalogenation of chlorinated ethenes to ethene with hydrogen as electron donor and Desulfitobacterium-like bacteria in contrast are associated with incomplete PCE dehalogenation to cDCE and appear to be able to use acetate as electron donor 
+ost of these organisms can use hydrogen but not acetate as the direct electron donor hydrogenotrophic dehalogenators such as Dehalobacter restrictus S. multivorans D. ethenogenes , and some Desulfitobacterium species 
+o acetotrophic dehalogenators cultivated so far are capable of complete dehalogenation of PCE to ethene and hydrogen is generally assumed to be the major electron donor to sustain complete dehalogenation Distefano et al. 1992 Smatlak et al. 1996 Ballapragada et al. 1997 Fennell et al. 1997 Yang and McCarty 1998 
+he enrichment procedure was designed according to assumed metabolic requirements of dehalogenators using different combinations of electron donors including hydrogen and acetate and electron acceptors including PCE cDCE and controls without chlorinated ethenes 
+his selection is of universal signiﬁcance as hydrogen and acetate are major intermediates in anaerobic decomposition of organic matter Schink 1997 
+ue to the presence of active methane-producing microorganisms which can use hydrogen and acetate as electron donors no accumulation of these intermediates of benzoate degradation was observed in the chemostat 
+he culture was grown on hydrogen and PCE as previously described Maymo-Gatell et al. 1997 . 2.3 
+ulture enrichment scheme For culture enrichment hydrogen and acetate were used as electron donors PCE and cDCE as electron acceptors 
+CE cDCE hydrogen and acetate were then added in amounts of 45 15 270 and 270 mmol respectively if required 
+ith hydrogen as electron donor Fig . 2a , DGGE ﬁngerprints of the subcultures receiving PCE or cDCE clearly differed from the original chemostat culture and controls without chlorinated ethenes bands 1–3 Fig . 2a 
+he ﬁrst six lanes of panel a and b are from subcultures enriched with hydrogen and acetate respectively which are shown in duplicates from independent microcosm 
+and 4 was present in ﬁngerprints of both acetate/PCE and acetate/cDCE subcultures and its DNA sequence was 100 % similar to an uncultured Dehalococcoides species and was afﬁliated with the same phylotype as band 1 from communities grown with hydrogen as electron 99 100 99 96 100 99 donor Table 2 
+owever in the presence of PCE or cDCE when hydrogen was used as electron donor a signiﬁcant increase in Dehalococcoides-like bacteria was observed which reached 52 % and 76 % of the total bacteria in H2/cDCE and H2/PCE subcultures respectively at the end of the sixth transfer 
+hese bacteria were not detected in the original chemostat culture but were greatly enriched in all cultures receiving PCE as electron acceptor reaching 53 and 17 % of total bacteria counts with acetate and hydrogen as electron donor respectively Fig . 4 
 everal lines of evidence provided in the study suggested that the Dehalococcoides-like bacteria detected in this culture are capable of complete dehalogenation of chlorinated ethenes to ethene using hydrogen as electron donor 
-ased on physiological characterization, only the subcultures enriched with PCE or cDCE as electron acceptor, and hydrogen as electron donor maintained the original chemostat culture’s capability of complete PCE or cDCE dehalogenation, indicating the existence of hydrogenotrophic complete dehalogenators 
-his correlation of Dehalococcoides-like bacteria with complete dehalogenation using hydrogen as electron donor is in agreement with previous reports (Maymo-Gatell et al., 1997) 
-ith respect to electron donor requirements, Desulfitobacterium-like bacteria might be able to use both hydrogen and acetate because they were enriched in both H2/PCE and acetate/PCE subcultures 
-dditional evidence is that Sporomusa-like bacteria, which are capable of converting hydrogen and carbon dioxide to acetate (Moeller et al., 1984), were found in all hydrogen-receiving subcultures 
+ased on physiological characterization only the subcultures enriched with PCE or cDCE as electron acceptor and hydrogen as electron donor maintained the original chemostat culture ’ s capability of complete PCE or cDCE dehalogenation indicating the existence of hydrogenotrophic complete dehalogenators 
+his correlation of Dehalococcoides-like bacteria with complete dehalogenation using hydrogen as electron donor is in agreement with previous reports Maymo-Gatell et al. 1997 
+ith respect to electron donor requirements Desulfitobacterium-like bacteria might be able to use both hydrogen and acetate because they were enriched in both H2/PCE and acetate/PCE subcultures 
+dditional evidence is that Sporomusa-like bacteria which are capable of converting hydrogen and carbon dioxide to acetate Moeller et al. 1984 , were found in all hydrogen-receiving subcultures 
 ehalococcoides-like bacteria in the studied community are associated with complete dehalogenation of chlorinated ethenes to ethene using hydrogen as electron donor 
 ffect of hydrogen on reductive dechlorination of chlorinated ethenes 
 omparative kinetics of hydrogen utilization for reductive dechlorination of tetrachloroethene and methanogenesis in an anaerobic enrichment culture 
 ompetition for hydrogen within a chlorinated solvent dehalogenating anaerobic mixed culture 
 esponse to comment on competition for hydrogen within a chlorinated solvent dehalogenating anaerobic mixed culture 
-owever, the dehalogenation activity observed in that study depended on concomitant acetogenesis from methanol and carbon dioxide (Terzenbach and Blaut, 1994) 
-t the start of the experiment, 60 mL of the chemostat culture was added to each bottle anaerobically by gas purging with an 80% N2/20% CO2 mixture during the transfer 
-ARTICLE IN PRESS  Water Research 39 (2005) 3954–3966 www.elsevier.com/locate/watres  Identiﬁcation of microorganisms involved in reductive dehalogenation of chlorinated ethenes in an anaerobic microbial community Yanru Yang,1, Manuel Pesaro, William Sigler, Josef Zeyer ETH Zurich, Institute of Terrestrial Ecology, Soil Biology, Grabenstrasse 3, CH-8952 Schlieren, Switzerland Received 9 November 2004; received in revised form 13 June 2005; accepted 7 July 2005 Available online 19 August 2005  Abstract In this study, we report on phylogenetic and physiological characterization of an anaerobic culture capable of reductive dehalogenation of tetrachloroethene (PCE) obtained from a PCE-contaminated site 
-he culture was enriched using different combinations of electron donors (hydrogen and acetate) and electron acceptors (PCE, cis-1,2dichloroethene (cDCE) and controls without chlorinated ethenes) 
-he resulting subcultures were analyzed using three different approaches: chemical analysis to document conversion of chlorinated ethenes; polymerase chain reaction (PCR) of 16S rRNA gene fragments and denaturing gradient gel electrophoresis (DGGE) to compare community compositions; ﬂuorescence in situ hybridization (FISH) to quantify speciﬁc groups of microorganisms using oligonucleotide probes previously designed or newly designed based on the sequences retrieved from sequence analysis of speciﬁc DGGE bands 
-embers of two genera which contain bacteria capable of reductive dehalogenation were detected in the culture: Dehalococcoides and Desulfitobacterium 
-he results demonstrated that combination of culture enrichment with different substrates, DGGE, and FISH allowed a detailed qualitative and quantitative characterization of the dominant microorganisms associated with reductive dehalogenation. r 2005 Elsevier Ltd 
-ang). 1 Present address: Environmental Engineering and Science, Clemson University, 342 Computer Court, Anderson, SC 29625, USA.  Anthropogenic chlorinated organic compounds, such as tetrachloroethene (PCE) and trichloroethene (TCE), are common groundwater contaminants due to their widespread use as solvents 
-ang et al. / Water Research 39 (2005) 3954–3966  Because this process has the potential of completely detoxifying chlorinated ethenes, it is recognized as a promising approach for the cleanup of contaminated sites and has been extensively studied for in situ bioremediation 
-or the purpose of achieving effective PCE/TCE bioremediation, it is important to understand the factors controlling the rate and extent of reductive dehalogenation 
+owever the dehalogenation activity observed in that study depended on concomitant acetogenesis from methanol and carbon dioxide Terzenbach and Blaut 1994 
+t the start of the experiment 60 mL of the chemostat culture was added to each bottle anaerobically by gas purging with an 80 % N2/20 % CO2 mixture during the transfer 
+ARTICLE IN PRESS Water Research 39 2005 3954–3966 www.elsevier.com/locate/watres Identiﬁcation of microorganisms involved in reductive dehalogenation of chlorinated ethenes in an anaerobic microbial community Yanru Yang,1 Manuel Pesaro William Sigler Josef Zeyer ETH Zurich Institute of Terrestrial Ecology Soil Biology Grabenstrasse 3 CH-8952 Schlieren Switzerland Received 9 November 2004 received in revised form 13 June 2005 accepted 7 July 2005 Available online 19 August 2005 Abstract In this study we report on phylogenetic and physiological characterization of an anaerobic culture capable of reductive dehalogenation of tetrachloroethene PCE obtained from a PCE-contaminated site 
+he resulting subcultures were analyzed using three different approaches chemical analysis to document conversion of chlorinated ethenes polymerase chain reaction PCR of 16S rRNA gene fragments and denaturing gradient gel electrophoresis DGGE to compare community compositions ﬂuorescence in situ hybridization FISH to quantify speciﬁc groups of microorganisms using oligonucleotide probes previously designed or newly designed based on the sequences retrieved from sequence analysis of speciﬁc DGGE bands 
+embers of two genera which contain bacteria capable of reductive dehalogenation were detected in the culture Dehalococcoides and Desulfitobacterium 
+he results demonstrated that combination of culture enrichment with different substrates DGGE and FISH allowed a detailed qualitative and quantitative characterization of the dominant microorganisms associated with reductive dehalogenation . r 2005 Elsevier Ltd 
+ang . 1 Present address Environmental Engineering and Science Clemson University 342 Computer Court Anderson SC 29625 USA . Anthropogenic chlorinated organic compounds such as tetrachloroethene PCE and trichloroethene TCE , are common groundwater contaminants due to their widespread use as solvents 
+ang et al . / Water Research 39 2005 3954–3966 Because this process has the potential of completely detoxifying chlorinated ethenes it is recognized as a promising approach for the cleanup of contaminated sites and has been extensively studied for in situ bioremediation 
+or the purpose of achieving effective PCE/TCE bioremediation it is important to understand the factors controlling the rate and extent of reductive dehalogenation 
 mong the factors affecting reductive dehalogenation are the metabolic capabilities of and interactions among the microorganisms involved 
-n contrast, only a few can use acetate as electron donor (acetotrophic dehalogenators), including D. chloroethenica (Krumholz et al., 1996; Krumholz, 1997) and D. michiganensis (Loefﬂer et al., 1998; Sung et al., 2003) 
-iven the signiﬁcant difference of these organisms in their capabilities to reduce chlorinated ethenes, it is necessary to identify those involved in reductive dehalogenation occurring at contaminated sites and to understand how they interact with each other and with other organisms (because almost always complex microbial communities are expected under ﬁeld conditions) so as to optimize in situ reductive dehalogenation 
-ulture-independent nucleic acid-based techniques have been providing interesting insights into the microorganisms in complex microbial communities in recent years (Muyzer, 1999; Amann and Ludwig, 2000; Dahllof, 2002) 
-owever, due to the technical limitation of these qualitative PCR-based methods (Chandler et al., 1997; von Wintzingerode et al., 1997; Qiu et al., 2001), it is difﬁcult to obtain quantitative information of the microorganisms in the samples, and usually only the dominant organisms in the community were retrieved, which were not necessarily the organisms actively involved in reductive dehalogenation 
-n addition, most of the previous studies did not provide direct correlations between identity and metabolic function of the organisms detected 
-n this study, we report on phylogenetic and physiological identiﬁcation of dehalogenating organisms in a microbial community by combining culture enrichment procedures and molecular analysis techniques 
-ydrogen and acetate were selected as electron donors because they were major products from anaerobic degradation of benzoate, which was the substrate used to maintain the studied culture 
-ubsequently, a biphasic full cycle rRNA analysis (Amann et al., 1995) was performed to identify and quantify the microorganisms involved in reductive dehalogenation by combining 16S rDNA-based PCR and denaturing gradient gel electrophoresis (DGGE) with ﬂuorescence in situ hybridization (FISH) 
+n contrast only a few can use acetate as electron donor acetotrophic dehalogenators including D. chloroethenica Krumholz et al. 1996 Krumholz 1997 and D. michiganensis Loefﬂer et al. 1998 Sung et al. , 2003 
+iven the signiﬁcant difference of these organisms in their capabilities to reduce chlorinated ethenes it is necessary to identify those involved in reductive dehalogenation occurring at contaminated sites and to understand how they interact with each other and with other organisms because almost always complex microbial communities are expected under ﬁeld conditions so as to optimize in situ reductive dehalogenation 
+ulture-independent nucleic acid-based techniques have been providing interesting insights into the microorganisms in complex microbial communities in recent years Muyzer 1999 Amann and Ludwig 2000 Dahllof 2002 
+owever due to the technical limitation of these qualitative PCR-based methods Chandler et al. 1997 von Wintzingerode et al. 1997 Qiu et al. 2001 it is difﬁcult to obtain quantitative information of the microorganisms in the samples and usually only the dominant organisms in the community were retrieved , which were not necessarily the organisms actively involved in reductive dehalogenation 
+n addition most of the previous studies did not provide direct correlations between identity and metabolic function of the organisms detected 
+n this study we report on phylogenetic and physiological identiﬁcation of dehalogenating organisms in a microbial community by combining culture enrichment procedures and molecular analysis techniques 
+ydrogen and acetate were selected as electron donors because they were major products from anaerobic degradation of benzoate which was the substrate used to maintain the studied culture 
+ubsequently a biphasic full cycle rRNA analysis Amann et al. 1995 was performed to identify and quantify the microorganisms involved in reductive dehalogenation by combining 16S rDNA-based PCR and denaturing gradient gel electrophoresis DGGE with ﬂuorescence in situ hybridization FISH 
 GGE analysis followed by sequencing of speciﬁc gene fragments was applied to obtain information on the community composition under different culturing conditions and to identify enriched organisms 
 aterials and methods 2.1 
-hemicals Liquid PCE (499.5%, GC grade, Fluka, Buchs, Switzerland), TCE (499.5%, GC grade, Fluka), and cDCE (97%, GC grade, Fluka) were used for preparing stock feed solutions and analytical standards 
-C (499%, Scott Specialty Gases, Alltech Associates, Deerﬁeld, IL), ethene (499%, PanGas, Dagmersellen, Switzerland), and methane (499%, PanGas) were used as analytical standards 
-ydrogen (10% in nitrogen, PanGas), acetate (sodium salt, 99%, Fluka), and benzoate (sodium salt, 99%, Fluka) were used as electron donors and to develop analytical standards. 2.2 
-ulture and growth medium The dehalogenating culture used in the study was maintained in an anaerobic chemostat (total volume 2.3 L, liquid volume 1.9 L, continuously stirred) inoculated with a culture from a chemostat described previously (Yang and McCarty, 1998) which was initially inoculated with aquifer material from a PCEcontaminated groundwater site in Victoria, TX 
- basal medium (Yang and McCarty, 1998) supplemented with 1.7 mM sodium benzoate, 20 mg/L yeast extract, and 0.98 mM PCE was added to the chemostat using a syringe pump at a rate of 50 mL/day, resulting in a 38day retention time 
-ith different combinations of electron donors and electron acceptors, six different types of  subcultures were established including two controls with electron donors, but without chlorinated ethenes 
-CE, cDCE, hydrogen, and acetate were then added in amounts of 45, 15, 270, and 270 mmol, respectively, if required 
+hemicals Liquid PCE 499.5 % GC grade Fluka Buchs Switzerland TCE 499.5 % GC grade Fluka and cDCE 97 % , GC grade , Fluka were used for preparing stock feed solutions and analytical standards 
+C 499 % Scott Specialty Gases Alltech Associates Deerﬁeld IL ethene 499 % PanGas Dagmersellen Switzerland , and methane 499 % , PanGas were used as analytical standards 
+ydrogen 10 % in nitrogen PanGas acetate sodium salt 99 % Fluka and benzoate sodium salt , 99 % , Fluka were used as electron donors and to develop analytical standards . 2.2 
+ulture and growth medium The dehalogenating culture used in the study was maintained in an anaerobic chemostat total volume 2.3 L liquid volume 1.9 L continuously stirred inoculated with a culture from a chemostat described previously Yang and McCarty 1998 which was initially inoculated with aquifer material from a PCEcontaminated groundwater site in Victoria TX 
+basal medium Yang and McCarty 1998 supplemented with 1.7 mM sodium benzoate 20 mg/L yeast extract and 0.98 mM PCE was added to the chemostat using a syringe pump at a rate of 50 mL/day resulting in a 38day retention time 
+ith different combinations of electron donors and electron acceptors six different types of subcultures were established including two controls with electron donors but without chlorinated ethenes 
 ydrogen and acetate were added in excess to ensure the completeness of dehalogenating reactions 
 he reason that different amounts of PCE and cDCE were used was because approximately the same amount of time was required to completely dehalogenate the PCE and cDCE added according to our previous experience 
-hlorinated ethenes, ethene, methane, and acetate were measured every 5–7 days to monitor the physiological changes of the cultures 
-amples were taken at the end of the 2nd, 4th, and 6th transfer for DGGE analysis and ﬂuorescence in situ hybridization 
-ottles were sealed with butyl rubber stoppers (Bellco Glass, Vineland, NJ) and aluminum crimp caps to maintain anaerobic conditions 
-nalytical methods PCE, TCE, cDCE, VC, ethene, and methane were quantiﬁed by a Fisons HRGC Mega 2 Series gas chromatography (GC) (Fisons, Milan, Italy), using 250 mL headspace samples 
-he GC was equipped with a ﬂame ionization detector and a GS-Q fused-silica capillary column (length, 30 m; inside diameter, 0.53 mm; Agilent Technologies, Basel, Switzerland) 
-he IC was equipped with an electrical conductivity detector and an EG40 eluent gradient generator (Dionex, Sunnyvale, CA) 
-ang et al. / Water Research 39 (2005) 3954–3966  KOH eluent gradient was used: 0–7 min, 1 mM KOH; 7–25 min, 1–25 mM KOH; 25–28 min, 25–60 mM KOH; 28–28.1 min, 60–1 mM KOH; and 28.1–32 min, 1 mM KOH 
-dentiﬁcation and quantiﬁcation were made by comparison with external standards. 2.5 
+hlorinated ethenes ethene methane and acetate were measured every 5–7 days to monitor the physiological changes of the cultures 
+amples were taken at the end of the 2nd 4th and 6th transfer for DGGE analysis and ﬂuorescence in situ hybridization 
+ottles were sealed with butyl rubber stoppers Bellco Glass Vineland NJ and aluminum crimp caps to maintain anaerobic conditions 
+nalytical methods PCE TCE cDCE VC ethene and methane were quantiﬁed by a Fisons HRGC Mega 2 Series gas chromatography GC ( Fisons Milan Italy , using 250 mL headspace samples 
+he GC was equipped with a ﬂame ionization detector and a GS-Q fused-silica capillary column length 30 m inside diameter 0.53 mm Agilent Technologies Basel Switzerland 
+he IC was equipped with an electrical conductivity detector and an EG40 eluent gradient generator Dionex Sunnyvale CA 
+ang et al . / Water Research 39 2005 3954–3966 KOH eluent gradient was used 0–7 min 1 mM KOH 7–25 min 1–25 mM KOH 25–28 min 25–60 mM KOH 28–28.1 min 60–1 mM KOH and 28.1–32 min 1 mM KOH 
+dentiﬁcation and quantiﬁcation were made by comparison with external standards . 2.5 
 NA extraction From each subculture 10 mL of sample was transferred with sterile syringe into 15 mL polypropylene tubes and immediately centrifuged at 4500g for 10 min 
-fter discarding the supernatant, the cell pellet was resuspended in 1 mL DNA extraction buffer (50 mM NaCl, 50 mM EDTA, 50 mM Tris, 5% sodium dodecyl sulfate; pH 8) and DNA was extracted and puriﬁed according to the method of Sigler and Zeyer (Sigler and Zeyer, 2002) 
-NA samples were stored at 20 1C until further analysis. 2.6. 16S rDNA amplification and DGGE analysis For Bacteria-speciﬁc PCR of 16S rDNA fragments, the primers BAC 341f-GC (50 -GC-clamp-CCT ACG GGA GGC AGC AG-30 ) and BAC 534r (50 -ATT ACC GCG GCT GCT GG-30 ) (Muyzer et al., 1993) were used 
-he PCR cocktail contained 0.2 mM of each primer, 0.2 mM of each deoxynucleotide (Invitrogen, Basel, Switzerland), 2 mM MgCl2, 1.8 mg mL1 bovine serum albumin (Sigma, Buchs, Switzerland), 1 U of Taq polymerase (Invitrogen), 1 mL of DNA extract, and 1  PCR reaction buffer in a ﬁnal volume of 50 mL 
-fter initial denaturation at 95 1C for 5 min, 35 cycles of denaturation at 94 1C for 30 s, primer annealing at 55 1C for 45 s and extension at 72 1C for 45 s was performed followed by a ﬁnal extension step at 72 1C for 5 min 
-els (16 cm  16 cm) consisted of 10% bis-: acrylamide (37.5:1) and a denaturant gradient of 40–60% 
-lectrophoresis was performed in 1  TAE buffer (0.04 M Tris base, 0.02 M sodium acetate, and 1 mM EDTA; pH 7.4) at 60 1C and 75 V for 15 h 
+NA samples were stored at 20 1C until further analysis . 2.6 . 16S rDNA amplification and DGGE analysis For Bacteria-speciﬁc PCR of 16S rDNA fragments the primers BAC 341f-GC 50 -GC-clamp-CCT ACG GGA GGC AGC AG-30 and BAC 534r 50 -ATT ACC GCG GCT GCT GG-30 ( Muyzer et al. 1993 were used 
+he PCR cocktail contained 0.2 mM of each primer 0.2 mM of each deoxynucleotide Invitrogen Basel Switzerland 2 mM MgCl2 1.8 mg mL1 bovine serum albumin Sigma Buchs Switzerland , 1 U of Taq polymerase Invitrogen , 1 mL of DNA extract , and 1  PCR reaction buffer in a ﬁnal volume of 50 mL 
+fter initial denaturation at 95 1C for 5 min 35 cycles of denaturation at 94 1C for 30 s primer annealing at 55 1C for 45 s and extension at 72 1C for 45 s was performed followed by a ﬁnal extension step at 72 1C for 5 min 
+els 16 cm  16 cm consisted of 10 % bis- acrylamide 37.5:1 and a denaturant gradient of 40–60 % 
+lectrophoresis was performed in 1  TAE buffer 0.04 M Tris base 0.02 M sodium acetate and 1 mM EDTA pH 7.4 at 60 1C and 75 V for 15 h 
 loning and sequence analysis Portions of selected bands were excised from DGGE gels for sequence determination by coring the band of interest with a sterile pipette tip 
-fter incubation for 3 h at 421C, 2 mL of the solution containing the eluted DNA was used for PCR and DGGE analysis described above 
+fter incubation for 3 h at 421C 2 mL of the solution containing the eluted DNA was used for PCR and DGGE analysis described above 
 igration positions of plasmid inserts were checked and were in agreement with the excised bands in the community DGGE ﬁngerprints 
-he ‘‘pure’’ DNA fragments were then excised and re-ampliﬁed using the primers described above, but without the GC-clamp 
+he ‘ ‘ pure ’ ’ DNA fragments were then excised and re-ampliﬁed using the primers described above but without the GC-clamp 
 nserts of retrieved plasmids were ampliﬁed with BAC 341f-GC/BAC 534r primers and migration positions on DGGE gels were reconﬁrmed by directly comparing with the positions of the originally excised bands 
-ligonucleotide probes and probe design for Desulfitobacterium species A previously-described FISH probe, Dhe1259t was used here for in situ quantiﬁcation of Dehalococcoides species (Yang and Zeyer, 2003) 
-robe Dsf440 and its helper probe Dsf475 (1:1, mol/mol) used for in situ quantiﬁcation of Desulfitobacterium species were designed using the PROBE-DESIGN program of ARB software (Amann and Ludwig, 2000) based on ﬁve sequences retrieved from DGGE and sequence analysis 
-he optimal hybridization stringency of Dsf440 and Dsf475 was determined with the acetate/PCE subculture by increasing the formamide concentration in the hybridization buffer in increments of 5% at a constant hybridization temperature of 42 1C 
-robe-conferred signal intensity remained at the same level following the addition of formamide up to 5% and then decreased rapidly 
+ligonucleotide probes and probe design for Desulfitobacterium species A previously-described FISH probe Dhe1259t was used here for in situ quantiﬁcation of Dehalococcoides species Yang and Zeyer 2003 
+robe Dsf440 and its helper probe Dsf475 1:1 mol/mol used for in situ quantiﬁcation of Desulfitobacterium species were designed using the PROBE-DESIGN program of ARB software Amann and Ludwig 2000 based on ﬁve sequences retrieved from DGGE and sequence analysis 
+he optimal hybridization stringency of Dsf440 and Dsf475 was determined with the acetate/PCE subculture by increasing the formamide concentration in the hybridization buffer in increments of 5 % at a constant hybridization temperature of 42 1C 
+robe-conferred signal intensity remained at the same level following the addition of formamide up to 5 % and then decreased rapidly 
 equences and target sites of the probes used in this study are given in Table 1 
-ncluding D. ethenogenes. c According to Table 3. b  a  ACTCCTACGGGAGGCAGC AGCTCCAGTTCACACTGTTG TACCGTTCGTCCCTGAAG CTCAGGTACCGTCATGTAAG Non338 Dhe1259t Dsf440 Dsf475  Negative control Dehalococcoides sp.b Desulfitobacterium sp.c Helper probe of Dsf440  338–355 1259–1278 440–457 475–494  References Formamide conc. (%) Position on 16S rRNAa Sequence (50 30 ) Target organisms Probe  Table 1 Probes used for FISH in this study  (Amann et al., 1995) (Yang and Zeyer, 2003) This study This study  Y 
-ang et al. / Water Research 39 (2005) 3954–3966  3958  Approximately 10 mL of each subculture sample was immediately ﬁxed in 4% paraformaldehyde/phosphatebuffered saline (PBS; 0.13 M NaCl, 7 mM Na2HPO4, and 3 mM NaH2PO4, pH 7.2) at 0 1C for 12 h, washed twice in PBS and subsequently stored in 50% ethanol in PBS at 20 1C until further analysis (Zarda et al., 1998) 
-ixed samples were applied to eight-well, teﬂon-coated slides (Erie Scientiﬁc Co., Portsmouth, NH), air-dried, and dehydrated in an ethanol series (50%, 80% and 96%) for 3 min each 
- mixture of 1 mL probe (25–30 ng/mL), 9 mL hybridization buffer (0.9 M NaCl, 20 mM TrisHCl, 5 mM EDTA, 0.01% SDS (pH 7.2)), and a speciﬁc amount of formamide depending on the probe used (Table 1) was applied to each well, followed by incubation for 2 h in a humid chamber at 42 1C 
-he slides were washed in pre-warmed washing buffer for 15 min at 48 1C, then rinsed with deionized water, and air-dried 
-he washing buffer contained 20 mM TrisHCl (pH 7.2), 10 mM EDTA, 0.01% SDS, and 636 or 112 mM NaCl (when 5% or 30% formamide was used during hybridization, respectively) 
-fter incubation for 3 min at room temperature in the dark, the slides were rinsed with deionized water and air-dried 
-eductive dehalogenation with different electron acceptors and electron donors PCE or cDCE was dehalogenated in similar fashion from one transfer to the other for each subculture  ARTICLE IN PRESS Y 
-epicted in Fig. 1 are time course plots of the total mass of chlorinated ethenes and ethene during the sixth transfer in different subcultures 
-ydrogen was found to support complete dehalogenation of both PCE (Fig. 1a) and cDCE (Fig. 1b) to ethene 
-hese results suggested that acetate was unable to support cDCE dehalogenation, which is consistent with previous observations with a culture from the same source (Yang and McCarty, 1998, 1999) 
-apid methane production was sustained during all transfers in all controls, but in the subcultures amended with either PCE or cDCE methane was only produced during the ﬁrst two transfers and became undetectable thereafter (data not shown). 3.2 
+ncluding D. ethenogenes . c According to Table 3. b a ACTCCTACGGGAGGCAGC AGCTCCAGTTCACACTGTTG TACCGTTCGTCCCTGAAG CTCAGGTACCGTCATGTAAG Non338 Dhe1259t Dsf440 Dsf475 Negative control Dehalococcoides sp.b Desulfitobacterium sp.c Helper probe of Dsf440 338–355 1259–1278 440–457 475–494 References Formamide conc . % Position on 16S rRNAa Sequence 50 30 Target organisms Probe Table 1 Probes used for FISH in this study Amann et al. 1995 ( Yang and Zeyer 2003 This study This study Y 
+ang et al . / Water Research 39 2005 3954–3966 3958 Approximately 10 mL of each subculture sample was immediately ﬁxed in 4 % paraformaldehyde/phosphatebuffered saline PBS 0.13 M NaCl 7 mM Na2HPO4 and 3 mM NaH2PO4 pH 7.2 at 0 1C for 12 h washed twice in PBS and subsequently stored in 50 % ethanol in PBS at 20 1C until further analysis Zarda et al. 1998 
+ixed samples were applied to eight-well teﬂon-coated slides Erie Scientiﬁc Co. Portsmouth NH air-dried and dehydrated in an ethanol series 50 % , 80 % and 96 % for 3 min each 
+mixture of 1 mL probe 25–30 ng/mL 9 mL hybridization buffer 0.9 M NaCl 20 mM TrisHCl 5 mM EDTA 0.01 % SDS pH 7.2 and a speciﬁc amount of formamide depending on the probe used Table 1 ) was applied to each well , followed by incubation for 2 h in a humid chamber at 42 1C 
+he slides were washed in pre-warmed washing buffer for 15 min at 48 1C then rinsed with deionized water and air-dried 
+he washing buffer contained 20 mM TrisHCl pH 7.2 10 mM EDTA 0.01 % SDS and 636 or 112 mM NaCl when 5 % or 30 % formamide was used during hybridization , respectively 
+fter incubation for 3 min at room temperature in the dark the slides were rinsed with deionized water and air-dried 
+eductive dehalogenation with different electron acceptors and electron donors PCE or cDCE was dehalogenated in similar fashion from one transfer to the other for each subculture ARTICLE IN PRESS Y 
+epicted in Fig . 1 are time course plots of the total mass of chlorinated ethenes and ethene during the sixth transfer in different subcultures 
+ydrogen was found to support complete dehalogenation of both PCE Fig . 1a and cDCE Fig . 1b to ethene 
+hese results suggested that acetate was unable to support cDCE dehalogenation which is consistent with previous observations with a culture from the same source Yang and McCarty 1998 1999 
+apid methane production was sustained during all transfers in all controls but in the subcultures amended with either PCE or cDCE methane was only produced during the ﬁrst two transfers and became undetectable thereafter data not shown . 3.2 
 GGE and sequence analysis Samples from each subculture were subject to DGGE analysis to assess changes in the bacterial community throughout the experiment 
-n comparison with the original chemostat culture, band 1, which was very faint in the controls, was enriched in H2/PCE and H2/cDCE subcultures 
-and 2 did not appear to be present in the original chemostat culture proﬁle, but was enriched to different extents in all hydrogen-receiving subcultures 
-ehalogenation of PCE (a, c) and cDCE (b, d) with different electron donors including H2 (a, b) and acetate (c, d) after 6 transfers 
-CE (~) and cDCE (m) were transformed to different end products 
-ntermediates include TCE (’), VC (K) and ethene (J) 
+n comparison with the original chemostat culture band 1 which was very faint in the controls was enriched in H2/PCE and H2/cDCE subcultures 
+and 2 did not appear to be present in the original chemostat culture proﬁle but was enriched to different extents in all hydrogen-receiving subcultures 
+ehalogenation of PCE a c and cDCE b d with different electron donors including H2 a b and acetate c d after 6 transfers 
+CE ~ and cDCE m were transformed to different end products 
+ntermediates include TCE ’ , VC K and ethene J 
 GGE patterns of 16S rDNA fragments of cultures grown with different electron acceptors and donors 
 2 control and acetate control designate subcultures without chlorinated ethenes 
-hemostat and strain 195 designate the original chemostat culture and D. ethenogenes strain 195, respectively, whose DGGE patterns were used for comparison in both cases 
+hemostat and strain 195 designate the original chemostat culture and D. ethenogenes strain 195 respectively whose DGGE patterns were used for comparison in both cases 
 and 5 was enriched in ﬁngerprints of acetate/PCE subcultures compared with the original chemostat culture 
-esides band 5, the appearance of two fainter bands, 7 and 8, were speciﬁcally associated with DGGE patterns of acetate/PCE subcultures 
-and 7 showed 100% sequence similarity to D. frappieri, whereas band 8 revealed 99% match to the sequence of D. hafniense.  ARTICLE IN PRESS Y 
-ang et al. / Water Research 39 (2005) 3954–3966  Band 5, 7, and 8, differred by 1–2 bases in their sequences, all had high similarity to known Desulfitobacterium species 
-and 6 was observed in DGGE patterns derived from acetate/cDCE subcultures and was attributed to D. hafniense with 96% sequence similarity.  3961  were detected as Dehalococcoides-like bacteria in the original chemostat culture (Fig. 4) 
-n two substrate controls without chlorinated ethenes, the number of Dehalococcoides-like bacteria decreased to undetectable  10 total Dehalococcoides  Because the identiﬁcation of Dehalococcoides- and Desulfitobacterium-like bacteria by DGGE analysis was based on the sequences of DNA fragments of less than 200 base pairs in length, FISH was used as a complement for veriﬁcation and, in addition, for quantiﬁcation of the numbers of metabolically active cells of these organisms in the subcultures and the original chemostat culture 
-ne of the two probes designed previously for Dehalococcoides species, Dhe1259t (Yang and Zeyer, 2003), was used in the current study 
-ISH detection of Dehalococcoides- and Desulfitobacterium-like bacteria  Desulfitobacterium  6  4  2  0 H2/PCE  H2/cDCE  acetate/PCE acetate/cDCE chemostat  Fig. 4 
+esides band 5 the appearance of two fainter bands 7 and 8 were speciﬁcally associated with DGGE patterns of acetate/PCE subcultures 
+and 7 showed 100 % sequence similarity to D. frappieri whereas band 8 revealed 99 % match to the sequence of D. hafniense . ARTICLE IN PRESS Y 
+ang et al . / Water Research 39 2005 3954–3966 Band 5 7 and 8 differred by 1–2 bases in their sequences all had high similarity to known Desulfitobacterium species 
+and 6 was observed in DGGE patterns derived from acetate/cDCE subcultures and was attributed to D. hafniense with 96 % sequence similarity . 3961 were detected as Dehalococcoides-like bacteria in the original chemostat culture Fig . 4 
+n two substrate controls without chlorinated ethenes the number of Dehalococcoides-like bacteria decreased to undetectable 10 total Dehalococcoides Because the identiﬁcation of Dehalococcoides- and Desulfitobacterium-like bacteria by DGGE analysis was based on the sequences of DNA fragments of less than 200 base pairs in length FISH was used as a complement for veriﬁcation and in addition for quantiﬁcation of the numbers of metabolically active cells of these organisms in the subcultures and the original chemostat culture 
+ne of the two probes designed previously for Dehalococcoides species Dhe1259t Yang and Zeyer 2003 , was used in the current study 
+ISH detection of Dehalococcoides- and Desulfitobacterium-like bacteria Desulfitobacterium 6 4 2 0 H2/PCE H2/cDCE acetate/PCE acetate/cDCE chemostat Fig . 4 
 ISH quantiﬁcation of Dehalococcoides- and Desulfitobacterium-like bacteria in the culture enriched with different electron acceptors and donors 
 peciﬁc detection of Dehalococcoides- and Desulfitobacterium-like bacteria by FISH 
-piﬂuorescence micrographs of in situ hybridization with probe Dhe1259t for H2/PCE subcultures (a) and probe Dsf440 for acetate/PCE subcultures (b) are presented 
-ue to the weak signal obtained with this probe, a helper probe Dsf475 was designed to improve the in situ accessibility of probe Dsf440 and thus enhance ﬂuorescence (Fuchs et al., 2000) 
-iscussion With a combination of culture enrichment, DGGE ﬁngerprinting, and FISH analysis, Dehalococcoides- and Desulfitobacterium-like bacteria were found to be involved in reductive dehalogenation of chlorinated ethenes in a complex microbial community 
-n contrast, the relative and absolute abundance of these bacteria clearly decreased under all the other enrichment conditions 
+piﬂuorescence micrographs of in situ hybridization with probe Dhe1259t for H2/PCE subcultures a and probe Dsf440 for acetate/PCE subcultures b are presented 
+ue to the weak signal obtained with this probe a helper probe Dsf475 was designed to improve the in situ accessibility of probe Dsf440 and thus enhance ﬂuorescence Fuchs et al. 2000 
+iscussion With a combination of culture enrichment DGGE ﬁngerprinting and FISH analysis Dehalococcoides- and Desulfitobacterium-like bacteria were found to be involved in reductive dehalogenation of chlorinated ethenes in a complex microbial community 
+n contrast the relative and absolute abundance of these bacteria clearly decreased under all the other enrichment conditions 
 urther studies are necessary to verify our hypothesis and deﬁne the physiology of these bacteria in this culture 
-he role of Desulfitobacterium-like bacteria as acetotrophic dehalogenators in this culture is an interesting ﬁnding because no Desulfitobacterium species identiﬁed so far can use acetate as electron donor for reductive dehalogenation, although a number of these bacteria have been reported performing dehalogenation of either chlorinated ethenes or chlorinated aromatic compounds (Utkin et al., 1994; Bouchard et al., 1996; Christiansen and Ahring, 1996; Gerritse et al., 1996, 1999; Sanford et al., 1996) 
-n addition to Dehalococcoides and Desulfitobacterium, Sporomusa-like bacteria were also detected in this culture 
-poromusa-like bacteria may also play a role in reductive dehalogenation because it was  3963  previously reported that Sporomusa ovata was able to reductively dehalogenate PCE to TCE (Terzenbach and Blaut, 1994) 
-dditionally, our results conﬁrmed the importance and necessity of using a complementary quantiﬁcation technique, such as FISH, when performing community structure analysis with PCR-DGGE analysis 
-or example, although the results obtained from DGGE were largely in agreement with FISH analysis, discrepancies were observed with acetate/ cDCE and acetate/PCE subcultures 
-GGE analysis indicated that both Dehalococcoides- and Desulfitobacterium-like bacteria were present in acetate/cDCE subcultures, and that Dehalococcoides-like bacteria were present in acetate/PCE subcultures 
-mong the several primer pairs we experimented with, BAC 341f and BAC 534r was the only one clearly reﬂecting the shift of microbial community structure under different enrichment conditions, and the other primer pairs tested resulted in similar banding patterns among different treatments 
-n summary, this study provided molecular evidence for the presence of both hydrogenotrophic complete dehalogenators, Dehalococcoides-like bacteria, and acetotrophic incomplete dehalogenators, Desulfitobacteriumlike bacteria, in one microbial community 
-reviously, Schlotelburg et al. (Schlotelburg et al., 2002) reported on the presence of Dehalococcoides and Dehalobacter restrictus in an anaerobic bioreactor dehalogenating 1,2-dichloropropane 
-hile evidence is increasing that Dehalococcoides are widely distributed in microbial communities associated with complete dehalogenation and thus play a predominant role in this process (Fennell et al., 2001; Hendrickson et al., 2002), one wonders about the role of incomplete dehalogenators, such as Desulfitobacterium in this study 
-o they have an ecological niche? How do they interact with Dehalococcoides-like bacteria and further impact the rate and extent of reductive dehalogenation? Moreover, do similar interactions also occur in environmental microbial communities? Further investigations to characterize the interactions between Dehalococcoides and Desulfitobacterium are required to address these questions. 5 
-onclusions   Molecular     evidence was presented to indicate the presence of both Dehalococcoides- and Desulfitobacterium-like bacteria in one microbial community capable of reductive dehalogenation 
+he role of Desulfitobacterium-like bacteria as acetotrophic dehalogenators in this culture is an interesting ﬁnding because no Desulfitobacterium species identiﬁed so far can use acetate as electron donor for reductive dehalogenation although a number of these bacteria have been reported performing dehalogenation of either chlorinated ethenes or chlorinated aromatic compounds Utkin et al. 1994 Bouchard et al. 1996 Christiansen and Ahring 1996 Gerritse et al. 1996 1999 Sanford et al. 1996 
+n addition to Dehalococcoides and Desulfitobacterium Sporomusa-like bacteria were also detected in this culture 
+poromusa-like bacteria may also play a role in reductive dehalogenation because it was 3963 previously reported that Sporomusa ovata was able to reductively dehalogenate PCE to TCE Terzenbach and Blaut 1994 
+dditionally our results conﬁrmed the importance and necessity of using a complementary quantiﬁcation technique such as FISH when performing community structure analysis with PCR-DGGE analysis 
+or example although the results obtained from DGGE were largely in agreement with FISH analysis discrepancies were observed with acetate/ cDCE and acetate/PCE subcultures 
+GGE analysis indicated that both Dehalococcoides- and Desulfitobacterium-like bacteria were present in acetate/cDCE subcultures and that Dehalococcoides-like bacteria were present in acetate/PCE subcultures 
+mong the several primer pairs we experimented with BAC 341f and BAC 534r was the only one clearly reﬂecting the shift of microbial community structure under different enrichment conditions and the other primer pairs tested resulted in similar banding patterns among different treatments 
+n summary this study provided molecular evidence for the presence of both hydrogenotrophic complete dehalogenators Dehalococcoides-like bacteria and acetotrophic incomplete dehalogenators Desulfitobacteriumlike bacteria in one microbial community 
+reviously Schlotelburg et al . Schlotelburg et al. 2002 reported on the presence of Dehalococcoides and Dehalobacter restrictus in an anaerobic bioreactor dehalogenating 1,2-dichloropropane 
+hile evidence is increasing that Dehalococcoides are widely distributed in microbial communities associated with complete dehalogenation and thus play a predominant role in this process Fennell et al. 2001 Hendrickson et al. 2002 one wonders about the role of incomplete dehalogenators , such as Desulfitobacterium in this study 
+o they have an ecological niche How do they interact with Dehalococcoides-like bacteria and further impact the rate and extent of reductive dehalogenation Moreover do similar interactions also occur in environmental microbial communities Further investigations to characterize the interactions between Dehalococcoides and Desulfitobacterium are required to address these questions . 5 
+onclusions  Molecular    evidence was presented to indicate the presence of both Dehalococcoides- and Desulfitobacterium-like bacteria in one microbial community capable of reductive dehalogenation 
 esulfitobacterium-like bacteria are associated with incomplete PCE dehalogenation to cDCE and appear to be able to use acetate as electron donor 
-ombination of conventional enrichment techniques with DGGE and FISH was found a powerful tool for identiﬁcation of key microbes involved in PCE dehalogenation, correlation of functions of the microbes with their phylogenetic identities, and in situ detection of their activity.  Acknowledgements We are very thankful to Drs 
-cCarty, Alfred Spormann, and Jochen Mueller (Stanford University), and Drs 
-teve Zinder and Ivonne Nijenhuis  (Cornell University) for providing the different cultures used in this study 
-utta Kleikemper and Michael Bunge (Swiss Federal Institute of Technology) are greatly appreciated.  References Altschul, S.F., Madden, T.F., Schaffer, A.A., Zhang, J., Zhang, Z., Miller, W., Lipman, D.J., 1997 
-apped BLAST and PSI-BLAST: a new generation of protein database search programs 
+ombination of conventional enrichment techniques with DGGE and FISH was found a powerful tool for identiﬁcation of key microbes involved in PCE dehalogenation correlation of functions of the microbes with their phylogenetic identities and in situ detection of their activity . Acknowledgements We are very thankful to Drs 
+cCarty Alfred Spormann and Jochen Mueller Stanford University , and Drs 
+teve Zinder and Ivonne Nijenhuis Cornell University for providing the different cultures used in this study 
+utta Kleikemper and Michael Bunge Swiss Federal Institute of Technology are greatly appreciated . References Altschul S.F. Madden T.F. Schaffer A.A. Zhang J. Zhang Z. Miller W. Lipman D.J. 1997 
+apped BLAST and PSI-BLAST a new generation of protein database search programs 
 hylogenetic identiﬁcation and in situ detection of individual microbial cells without cultivation 
-etection and quantitative estimation of Dehalococcoides spp. in a dechlorinating bioreactor by a combination of ﬂuorescent in situ hybridisation (FISH) and kinetic analysis 
-solation and characterization of Desulfitobacterium frappieri sp. nov, an anaerobic bacterium which reductively dechlorinates pentachlorophenol to 3chlorophenol 
+etection and quantitative estimation of Dehalococcoides spp . in a dechlorinating bioreactor by a combination of ﬂuorescent in situ hybridisation FISH and kinetic analysis 
+solation and characterization of Desulfitobacterium frappieri sp . nov an anaerobic bacterium which reductively dechlorinates pentachlorophenol to 3chlorophenol 
 ffect of PCR template concentration on the composition and distribution of total community 16S rDNA clone libraries 
-ssessment of indigenous reductive dechlorinating potential at a TCE-contaminated site using microcosms, polymerase chain reaction analysis, and site data 
+ssessment of indigenous reductive dechlorinating potential at a TCE-contaminated site using microcosms polymerase chain reaction analysis and site data 
 icrobial community changes associated with a shift from reductive dechlorination of PCE to reductive dechlorination of cisDCE and VC 
 nﬂuence of different electron donors and acceptors on dehalorespiration of tetrachloroethene by Desulfitobacterium frappieri TCE1 
-easurement of Henry’s law constants for C1 and C2 chlorinated hydrocarbons 
+easurement of Henry ’ s law constants for C1 and C2 chlorinated hydrocarbons 
 olecular analysis of Dehalococcoides 16S ribosomal DNA from chloroethenecontaminated sites throughout north America and Europe 
-esulfuromonas chloroethenica sp. nov. used tetrachloroethylene and trichloroethylene as electron acceptors 
-oefﬂer, F.E., Sun, Q., Li, J., Tiedje, J.M., 2000. 16S rRNA gene-based detection of tetrachloroethene-dechlorinating Desulfuromonas and Dehalococcoides species 
+esulfuromonas chloroethenica sp . nov. used tetrachloroethylene and trichloroethylene as electron acceptors 
+oefﬂer F.E. Sun Q. Li J. Tiedje J.M. 2000 . 16S rRNA gene-based detection of tetrachloroethene-dechlorinating Desulfuromonas and Dehalococcoides species 
 eochemistry and microbial diversity of a trichloroethene-contaminated superfund site undergoing intrinsic in situ reductive dechlorination 
-escription of Sulfurospirillum halorespirans sp. nov., an anaerobic, tetrachloroethene-respiring bacterium, and transfer of  3965  Dehalospirillum multivorans to the genus Sulfurospirillum as Sulfurospirillum multivorans comb. nov 
-poromusa, a new genus of gram-negative anaerobic bacteria including Sporomusa sphaeroides sp. nov. and Sporomusa ovata sp. nov 
+escription of Sulfurospirillum halorespirans sp . nov. an anaerobic tetrachloroethene-respiring bacterium and transfer of 3965 Dehalospirillum multivorans to the genus Sulfurospirillum as Sulfurospirillum multivorans comb . nov 
+poromusa a new genus of gram-negative anaerobic bacteria including Sporomusa sphaeroides sp . nov. and Sporomusa ovata sp . nov 
 ffects of freeze-thaw stress during soil storage on microbial communities and methidathion degradation 
-valuation of PCR-generated chimeras, mutations, and heteroduplexes with 16S rRNA gene-based cloning 
+valuation of PCR-generated chimeras mutations and heteroduplexes with 16S rRNA gene-based cloning 
 icrobial diversity and activity along the foreﬁelds of two receding glaciers 
-haracterization of two tetrachloroethene-reducing, acetate-oxidizing anaerobic bacteria and their description as Desulfuromonas michiganensis sp. nov 
-solation and characterization of Desulfitobacterium Dehalogenans gen-nov, sp.nov, an anaerobic bacterium which reductively dechlorinates chlorophenolic compounds 
+haracterization of two tetrachloroethene-reducing acetate-oxidizing anaerobic bacteria and their description as Desulfuromonas michiganensis sp . nov 
+solation and characterization of Desulfitobacterium Dehalogenans gen-nov sp.nov an anaerobic bacterium which reductively dechlorinates chlorophenolic compounds 
 nalysis of bacterial and protozoan communities in an aquifer contaminated with monoaromatic hydrocarbons 
-evertheless, there have been only few studies attempting to identify the organisms in complex microbial communities associated with reductive dehalogenation of chlorinated ethenes using these methods  3955  (Flynn et al., 2000; Loefﬂer et al., 2000; Fennell et al., 2001; Duhamel et al., 2002; Hendrickson et al., 2002; Lowe et al., 2002; Richardson et al., 2002; Aulenta et al., 2004) 
-n these studies, either the organisms of interest, in most cases Dehalococcoides species, were detected in microcosms or ﬁeld samples by amplifying speciﬁc 16S rRNA genes (rDNAs) with polymerase chain reaction (PCR); or universal primers were used to amplify all bacterial 16S rDNA sequences present, followed by cloning, sequencing or ﬁngerprinting 
-n contrast, the second approach may provide a more comprehensive understanding of the microbial community structure including identiﬁcation of unknown organisms from environmental samples 
+evertheless there have been only few studies attempting to identify the organisms in complex microbial communities associated with reductive dehalogenation of chlorinated ethenes using these methods 3955 Flynn et al. 2000 Loefﬂer et al. 2000 Fennell et al. 2001 Duhamel et al. 2002 Hendrickson et al. 2002 Lowe et al. 2002 Richardson et al. 2002 Aulenta et al. 2004 
+n these studies either the organisms of interest in most cases Dehalococcoides species were detected in microcosms or ﬁeld samples by amplifying speciﬁc 16S rRNA genes rDNAs with polymerase chain reaction PCR ; or universal primers were used to amplify all bacterial 16S rDNA sequences present followed by cloning sequencing or ﬁngerprinting 
+n contrast the second approach may provide a more comprehensive understanding of the microbial community structure including identiﬁcation of unknown organisms from environmental samples 
 he purpose of this step was to enrich the organisms possessing speciﬁc physiological traits 
-ang et al. / Water Research 39 (2005) 3954–3966  organisms with speciﬁc oligonucleotide probes previously or newly designed based on the sequences retrieved from sequencing analysis.  2 
+ang et al . / Water Research 39 2005 3954–3966 organisms with speciﬁc oligonucleotide probes previously or newly designed based on the sequences retrieved from sequencing analysis . 2 
 he culture in the daughter chemostat behaved similarly in physiology to the previous reactor following ﬁve months of incubation 
 very day 50 mL of liquid was removed to bring the liquid volume back to 1.9 L 
-nder the described conditions, complete conversion of PCE to ethene was observed 
-fter about four weeks of incubation when 80% of the chlorinated ethenes was degraded (in terms of total chlorine removal) in the subcultures, these cultures were transferred (50% v/v) into the fresh basal medium 
-orption of chlorinated compounds by the rubber stoppers was less than 5% after the ﬁrst few days so that good mass balances could be maintained throughout the studies 
-ands derived from different subcultures that appeared to share the same  3957  migration position were all excised in order to account for possible differences in the phylotypes that might have occurred during enrichment 
+nder the described conditions complete conversion of PCE to ethene was observed 
+fter about four weeks of incubation when 80 % of the chlorinated ethenes was degraded in terms of total chlorine removal in the subcultures these cultures were transferred 50 % v/v into the fresh basal medium 
+orption of chlorinated compounds by the rubber stoppers was less than 5 % after the ﬁrst few days so that good mass balances could be maintained throughout the studies 
+ands derived from different subcultures that appeared to share the same 3957 migration position were all excised in order to account for possible differences in the phylotypes that might have occurred during enrichment 
 his procedure was repeated until signals of the desired bands were obtained without other co-migrating bands 
- comparison of sequences obtained in this study with those of previous studies was performed through a BLAST (Altschul et al., 1997) search of the GenBank database.  2.8 
-heir speciﬁcities were then checked with the PROBEMATCH program of the Ribosomal Database Project (Maidak et al., 1997) 
-amples were also analyzed with probe Non338 (Amann et al., 1995) to estimate the number of autoﬂuorescent cells 
-hole-cell hybridization was performed based on the protocol of Zarda et al. (Zarda et al., 1998) 
-hen probing for Desulfitobacterium species, which belong to the grampositive bacteria, a pretreatment procedure with lysozyme (400 units/mL for 5 min at 0 1C) was included before hybridization to increase the permeability of these cells (Meier et al., 1999) 
+comparison of sequences obtained in this study with those of previous studies was performed through a BLAST Altschul et al. 1997 search of the GenBank database . 2.8 
+heir speciﬁcities were then checked with the PROBEMATCH program of the Ribosomal Database Project Maidak et al. 1997 
+amples were also analyzed with probe Non338 Amann et al. 1995 to estimate the number of autoﬂuorescent cells 
+hole-cell hybridization was performed based on the protocol of Zarda et al . Zarda et al. 1998 
+hen probing for Desulfitobacterium species which belong to the grampositive bacteria a pretreatment procedure with lysozyme 400 units/mL for 5 min at 0 1C was included before hybridization to increase the permeability of these cells Meier et al. 1999 
 API staining was always included to detect total microorganisms present in the preparation 
 ounting results were corrected by subtracting the numbers of autoﬂuorescent cells 
-ang et al. / Water Research 39 (2005) 3954–3966  throughout the duration of the experiment 
-ith acetate as electron donor, reductive dehalogenation occurred only when PCE was used as electron acceptor. cDCE was found to be the major degradation product of PCE dehalogenation (Fig. 1c) 
-ecause the main purpose of this study was to identify the dominant microorgan-  isms involved in reductive dehalogenation but not to perform full community analysis, only the DNA fragments which manifested considerable changes (especially enriched) after incubation were sequenced for further analysis 
-GGE analyses of subculture samples after all transfers revealed similar banding patterns, but the most marked changes were observed after the last transfer 
-NA from band 1 was found to share 100% sequence similarity to the 16S rDNA of uncultured Dehalococcoides species (Table 2), slightly different (1 bp difference in 170 bp) from that of D. ethenogenes strain 195 
-he sequence of band 2 was most similar to the 16S rDNA of Sporomusa sphaeroides (99% sequence similarity) 
-lthough this band appeared to have the same migration position as the one derived from D. ethenogenes strain 195, sequence analysis of its DNA revealed 20  40 Mass (µmol)  Mass (µmol)  50  30 20 10 0 10  20  10 5  30  Time (day)  (a)  0  10  20  30  Time (day)  (b)  50  20  40  Mass (µmol)  Mass (µmol)  15  0 0  30 20 10  15 10 5 0  0 0 (c)  3959  10  20 Time (day)  30  40  0 (d)  10  20 Time (day)  30  40  Fig. 1 
-ata are the average of duplicates (duplicates differed byo10%).  ARTICLE IN PRESS Y 
-ands subject to sequence analysis are labeled with numbers (refer to Table 2 for phylogenetic afﬁliations).  Table 2 Phylogenetic afﬁliations of 16S rDNA fragments retrieved in this study (band numbering refers to the DGGE gels in Fig. 2) Band designation  Enrichment conditions (electron donor/acceptor)  Fragment length (bp)  Phylotype with highest sequence similarity; sequence accession number  Sequence similarity (%)  Band 1 (same as band 4)  H2/PCE, H2/cDCE acetate/PCE acetate/cDCE, chemostat culture H2/PCE; H2/cDCE H2/PCE Acetate/PCE Acetate/cDCE Acetate/PCE Acetate/PCE  170  Uncultured Dehalococcoides; AF388533, AF388536, AF388542, AF388550 S. sphaeroide; AJ279801 D. hafniense; X94975 D. hafniense; X94975 D hafniense; X94975 D. frappieri; AJ276701 D. hafniense; X94975  100  Band Band Band Band Band Band  2 3 5 6 7 8  195 195 195 195 195 195  that it was 100% similar to the 16S rDNA of D. hafniense 
-istinct community changes were also observed with the subcultures receiving acetate as electron donor (Fig. 2b) compared to the original chemostat culture 
-lthough this band appeared to share the same migration position with D. ethenogenes strain 195, it showed 99% similarity to D. hafniense 
+ang et al . / Water Research 39 2005 3954–3966 throughout the duration of the experiment 
+ith acetate as electron donor reductive dehalogenation occurred only when PCE was used as electron acceptor . cDCE was found to be the major degradation product of PCE dehalogenation Fig . 1c 
+ecause the main purpose of this study was to identify the dominant microorgan- isms involved in reductive dehalogenation but not to perform full community analysis only the DNA fragments which manifested considerable changes especially enriched after incubation were sequenced for further analysis 
+GGE analyses of subculture samples after all transfers revealed similar banding patterns but the most marked changes were observed after the last transfer 
+NA from band 1 was found to share 100 % sequence similarity to the 16S rDNA of uncultured Dehalococcoides species Table 2 , slightly different 1 bp difference in 170 bp from that of D. ethenogenes strain 195 
+he sequence of band 2 was most similar to the 16S rDNA of Sporomusa sphaeroides 99 % sequence similarity 
+lthough this band appeared to have the same migration position as the one derived from D. ethenogenes strain 195 sequence analysis of its DNA revealed 20 40 Mass µmol Mass µmol 50 30 20 10 0 10 20 10 5 30 Time day a 0 10 20 30 Time day b 50 20 40 Mass µmol Mass µmol 15 0 0 30 20 10 15 10 5 0 0 0 c 3959 10 20 Time day 30 40 0 ( d 10 20 Time ( day 30 40 Fig . 1 
+ata are the average of duplicates duplicates differed byo10 % . ARTICLE IN PRESS Y 
+ands subject to sequence analysis are labeled with numbers refer to Table 2 for phylogenetic afﬁliations . Table 2 Phylogenetic afﬁliations of 16S rDNA fragments retrieved in this study band numbering refers to the DGGE gels in Fig . 2 Band designation Enrichment conditions electron donor/acceptor Fragment length bp Phylotype with highest sequence similarity sequence accession number Sequence similarity % Band 1 same as band 4 H2/PCE H2/cDCE acetate/PCE acetate/cDCE chemostat culture H2/PCE H2/cDCE H2/PCE Acetate/PCE Acetate/cDCE Acetate/PCE Acetate/PCE 170 Uncultured Dehalococcoides AF388533 AF388536 AF388542 AF388550 S. sphaeroide AJ279801 D. hafniense X94975 D. hafniense X94975 D hafniense X94975 D. frappieri AJ276701 D. hafniense X94975 100 Band Band Band Band Band Band 2 3 5 6 7 8 195 195 195 195 195 195 that it was 100 % similar to the 16S rDNA of D. hafniense 
+istinct community changes were also observed with the subcultures receiving acetate as electron donor Fig . 2b compared to the original chemostat culture 
+lthough this band appeared to share the same migration position with D. ethenogenes strain 195 it showed 99 % similarity to D. hafniense 
 t is hard to judge at this point whether these different sequences represented different species or only different copies of the rRNA operon of the same species 
-s shown in Fig. 3a, these bacteria were found mostly as small coccoids, consistent with the morphology description for D. ethenogenes (MaymoGatell et al., 1997) 
-he new probe was found to be fully complementary to four of the ﬁve sequences obtained from this study with the exception of one band (band 8), which exhibits one mismatch with the probe 
-n addition, it is also fully complementary to or exhibits only one mismatch to the 16S rDNA sequences of several Desulfitobacterium species (Table 3) 
+s shown in Fig . 3a these bacteria were found mostly as small coccoids consistent with the morphology description for D. ethenogenes MaymoGatell et al. 1997 
+he new probe was found to be fully complementary to four of the ﬁve sequences obtained from this study with the exception of one band band 8 , which exhibits one mismatch with the probe 
+n addition it is also fully complementary to or exhibits only one mismatch to the 16S rDNA sequences of several Desulfitobacterium species Table 3 
 ll other 16S rDNA sequences in public databases have at least three mismatches with the probe 
-n all the other subcultures, in contrast, Desulfitobacteriumlike bacteria remained undetected.  4 
+n all the other subcultures in contrast Desulfitobacteriumlike bacteria remained undetected . 4 
 ubsequent FISH analysis revealed that under these conditions Dehalococcoides-like bacteria were greatly enriched compared with the original chemostat culture 
-ith respect to electron acceptors, it is certain that the Dehalococcoides-like bacteria detected in this culture are capable of cDCE dehalogenation 
-ndeed, other studies with this culture also indicated the presence of cDCE-dehalogenating Dehalococcoides (Cupples et al., 2003) 
-owever, we suspect that the Dehalococcoides-like bacteria were also  Table 3 Alignment of 16S rRNA target regions of Desulfitobacterium species Sequence/Organismsa  Target sequence (50 30 )  Band 3 Band 5 Band 6 Band 7 Band 8 D.hafniense str 
-W/IU–DC1 (L28946)  CTTCAGGGACGAACGGTAb ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – T– ––– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –N ––– ––––– – – – – – –– – –– – C– ––––– – – – – – –– – –– – C–  a Refer to Fig. 2 for the naming of bands 
-n parenthesis are GenBank accession numbers of the corresponding organisms or sequences. b Identical to the target sequence of probe Dsf440.  ARTICLE IN PRESS Y 
+ith respect to electron acceptors it is certain that the Dehalococcoides-like bacteria detected in this culture are capable of cDCE dehalogenation 
+ndeed other studies with this culture also indicated the presence of cDCE-dehalogenating Dehalococcoides Cupples et al. 2003 
+owever we suspect that the Dehalococcoides-like bacteria were also Table 3 Alignment of 16S rRNA target regions of Desulfitobacterium species Sequence/Organismsa Target sequence 50 30 Band 3 Band 5 Band 6 Band 7 Band 8 D.hafniense str 
+W/IU–DC1 L28946 CTTCAGGGACGAACGGTAb ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – T– ––– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –– – –– ––––– – – – – – –– – –N ––– ––––– – – – – – –– – –– – C– ––––– – – – – – –– – –– – C– a Refer to Fig . 2 for the naming of bands 
+n parenthesis are GenBank accession numbers of the corresponding organisms or sequences . b Identical to the target sequence of probe Dsf440 . ARTICLE IN PRESS Y 
 ne can argue that Desulfitobacterium-like bacteria were responsible for PCE dehalogenation in those subcultures because they were also enriched under the same condition 
-owever, active Desulfitobacteriumlike bacteria were not detected by FISH in the chemostat, where complete PCE dehalogenation occurred 
-evertheless, we can not exclude the possibility that different species of Dehalococcoides might be present in this culture 
-n the other hand, Desulfitobacterium-like bacteria detected in this culture appeared to be capable of incomplete PCE dehalogenation to cDCE because enrichment of these bacteria (compared with the original chemostat culture) was observed only in PCE-amended subcultures but not in cDCE-amended ones 
-owever, it is more likely that acetate served as the direct electron donor since acetate was detected in H2/PCE subcultures during all transfers (0.5–1.0 mM) 
-o date Desulfuromonas species are the only known organisms capable of using acetate as electron donor for PCE dehalogenation to cDCE (Krumholz et al., 1996; Krumholz, 1997; Sung et al., 2003) 
+owever active Desulfitobacteriumlike bacteria were not detected by FISH in the chemostat where complete PCE dehalogenation occurred 
+evertheless we can not exclude the possibility that different species of Dehalococcoides might be present in this culture 
+n the other hand Desulfitobacterium-like bacteria detected in this culture appeared to be capable of incomplete PCE dehalogenation to cDCE because enrichment of these bacteria compared with the original chemostat culture was observed only in PCE-amended subcultures but not in cDCE-amended ones 
+owever it is more likely that acetate served as the direct electron donor since acetate was detected in H2/PCE subcultures during all transfers 0.5–1.0 mM 
+o date Desulfuromonas species are the only known organisms capable of using acetate as electron donor for PCE dehalogenation to cDCE Krumholz et al. 1996 Krumholz 1997 Sung et al. 2003 
 urther physiology studies are necessary to assess the role of Sporomusa-like bacteria in reductive dehalogenation 
-n terms of methodology, this study demonstrated the usefulness of culture enrichment to characterize microorganisms involved in reductive dehalogenation 
-he enrichment scheme in this study allowed enrichment of the organisms directly accomplishing dehalogenation, possibly due to the elimination of organisms involved in benzoate degradation in the original culture 
-irst, PCR-DGGE ﬁngerprinting alone could not provide quantitative information with respect to the abundance of bacteria 
-his is largely due to the potential intrinsic bias of the conventional end-point PCR, which lowers the value of band intensity as a measure for species abundance (von Wintzingerode et al., 1997) 
-ne possible explanation to this is that these bacteria were present, but not metabolically active thus could only be detected by DGGE but not by FISH because DGGE analysis in this study was carried out with 16S rDNA of the microorganisms, while FISH targeted 16S rRNA 
-urther, DGGE ﬁngerprints of the dehalogenating microbial community was to a great extent dependent on the primer pairs used for PCR ampliﬁcation 
-lthough the rDNA sequences retrieved contain much speciﬁc phylogenetic information (V3 region), they did not allow a highly robust phylogenetic analysis 
+n terms of methodology this study demonstrated the usefulness of culture enrichment to characterize microorganisms involved in reductive dehalogenation 
+he enrichment scheme in this study allowed enrichment of the organisms directly accomplishing dehalogenation possibly due to the elimination of organisms involved in benzoate degradation in the original culture 
+irst PCR-DGGE ﬁngerprinting alone could not provide quantitative information with respect to the abundance of bacteria 
+his is largely due to the potential intrinsic bias of the conventional end-point PCR which lowers the value of band intensity as a measure for species abundance von Wintzingerode et al. 1997 
+ne possible explanation to this is that these bacteria were present but not metabolically active thus could only be detected by DGGE but not by FISH because DGGE analysis in this study was carried out with 16S rDNA of the microorganisms while FISH targeted 16S rRNA 
+urther DGGE ﬁngerprints of the dehalogenating microbial community was to a great extent dependent on the primer pairs used for PCR ampliﬁcation 
+lthough the rDNA sequences retrieved contain much speciﬁc phylogenetic information V3 region , they did not allow a highly robust phylogenetic analysis 
 his is one of the few reports on the presence of different types of dehalogenators in one microbial community capable of PCE dehalogenation 
 nlabeled helper oligonucleotides increase the in situ accessibility to 16S rRNA of ﬂuorescently labeled oligonucleotide probes 
 eductive dechlorination in the energy metabolism of anaerobic bacteria 
-n: 98th General Meeting of the American Society for Microbiology 
-haracterization of Desulfitobacterium chlororespirans sp. nov, which grows by coupling the oxidation of lactate to the reductive dechlorination of 3-chloro-4-hydroxybenzoate 
+n 98th General Meeting of the American Society for Microbiology 
+haracterization of Desulfitobacterium chlororespirans sp . nov which grows by coupling the oxidation of lactate to the reductive dechlorination of 3-chloro-4-hydroxybenzoate 
 hylogenetic characterization of microbial communities that reductively dechlorinate TCE based upon a combination of molecular techniques 
-ang et al. / Water Research 39 (2005) 3954–3966  3960  Fig. 2 
-2 (AF320982) D. frappieri str 
-t is known that these bacteria are capable of homoacetogenesis (Moeller et al., 1984) 
+ang et al . / Water Research 39 2005 3954–3966 3960 Fig . 2 
+2 AF320982 D. frappieri str 
+he Sporomusa-like bacteria present in this culture may also act as homoacetogens because enrichment of these bacteria was detected in all hydrogen-receiving subcultures Fig . 2 , where concurrent acetate formation occurred data not shown 
+icrobiol . 2 317–322 
+t is known that these bacteria are capable of homoacetogenesis Moeller et al. 1984 
 roﬁling of complex microbial populations by denaturing gradient gel electrophoresis analysis of polymerase chain reactionampliﬁed genes coding for 16S rRNA 
-nder anaerobic conditions, these compounds can be reductively dehalogenated to less chlorinated ethenes or innocuous ethene by microorganisms through dehalorespiration (McCarty, 1997).  0043-1354/$ - see front matter r 2005 Elsevier Ltd 
-esulfitobacterium sp. strain PCE1, an anaerobic bacterium that can grow by reductive dechlorination of tetrachloroethene or ortho-chlorinated phenols 
-n acetate/cDCE subcultures, trace amounts of VC were detected (Fig. 1d), but this activity could not be sustained even after longer periods of incubation (data not shown) 
-ang et al. / Water Research 39 (2005) 3954–3966  level (not shown) 
-ang et al. / Water Research 39 (2005) 3954–3966  involved in PCE dehalogenation because enrichment of these organisms was observed in H2/PCE subcultures (Fig. 4) 
-ang et al. / Water Research 39 (2005) 3954–3966  length 
-ang et al. / Water Research 39 (2005) 3954–3966 Fennell, D.E., Gossett, J.M., Zinder, S.H., 1997 
-ang et al. / Water Research 39 (2005) 3954–3966  Smatlak, C.R., Gossett, J.M., Zinder, S.H., 1996 
-fter hybridization, 20 mL of DNA intercalating ﬂuorescent dye 40 ,6-diamidino-2-phenylindole (DAPI, Sigma, Buchs, Switzerland) (1 ng/mL) was added to each well 
-s a result, we were only able to obtain DNA fragments of less than 200 base pairs in  ARTICLE IN PRESS 3964  Y 
+nder anaerobic conditions these compounds can be reductively dehalogenated to less chlorinated ethenes or innocuous ethene by microorganisms through dehalorespiration McCarty 1997 . 0043-1354/ $ see front matter r 2005 Elsevier Ltd 
+esulfitobacterium sp . strain PCE1 an anaerobic bacterium that can grow by reductive dechlorination of tetrachloroethene or ortho-chlorinated phenols 
+n acetate/cDCE subcultures trace amounts of VC were detected Fig . 1d , but this activity could not be sustained even after longer periods of incubation data not shown 
+ang et al . / Water Research 39 2005 3954–3966 level not shown 
+ang et al . / Water Research 39 2005 3954–3966 involved in PCE dehalogenation because enrichment of these organisms was observed in H2/PCE subcultures Fig . 4 
+ang et al . / Water Research 39 2005 3954–3966 length 
+ang et al . / Water Research 39 2005 3954–3966 Fennell D.E. Gossett J.M. Zinder S.H. 1997 
+ang et al . / Water Research 39 2005 3954–3966 Smatlak C.R. Gossett J.M. Zinder S.H. 1996 
+fter hybridization 20 mL of DNA intercalating ﬂuorescent dye 40 ,6-diamidino-2-phenylindole DAPI Sigma Buchs Switzerland ( 1 ng/mL was added to each well 
+s a result we were only able to obtain DNA fragments of less than 200 base pairs in ARTICLE IN PRESS 3964 Y 
 peciﬁc oligonucleotide probes for in situ detection of a major group of gram-positive bacteria with low DNA G+C content 

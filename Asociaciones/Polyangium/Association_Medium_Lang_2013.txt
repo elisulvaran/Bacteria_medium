@@ -1,93 +1,97 @@
-he fatty acid composition of the proposed type strains are given in Table S2 (Garcia et al., 2011) 
-International Journal of Systematic and Evolutionary Microbiology (2013), 63, 4354–4360  DOI 10.1099/ijs.0.056440-0  Designation of type strains for seven species of the order Myxococcales and proposal for neotype strains of Cystobacter ferrugineus, Cystobacter minus and Polyangium fumosum Elke Lang1 and Hans Reichenbach23 Corresponding Elke Lang  1  ela@dsmz.de  2  Leibniz-Institut DSMZ – Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH, Inhoffenstrasse 7B, 38124 Braunschweig, Germany Helmholtz-Zentrum für Infektionsforschung, Inhoffenstrasse 7, 38124 Braunschweig, Germany  Ten species of the order Myxococcales with validly published names are devoid of living type strains 
-or a species of the genus Melittangium and two species of the genus Polyangium, no physical type material was assigned at the time of validation of the names or later on 
-n accordance with rule 18f of the International Code of Nomenclature of Bacteria the following type strains are designated for these species: strain Cm a14T (5DSM 14605T5JCM 12615T) as the type strain of Chondromyces apiculatus, strain Cm c5T (5DSM 14714T5JCM 12616T) as the type strain of Chondromyces crocatus, strain Sy t2T (5DSM 14631T5JCM 12617T) as the type strain of Chondromyces lanuginosus, strain Cm p51T (5DSM 14607T5JCM 12618T) as the type strain of Chondromyces pediculatus, strain Me b8T (5DSM 14713T5JCM 12633T) as the type strain of Melittangium boletus, strain Pl s12T (5DSM 14670T5JCM 12637T) as the type strain of Polyangium sorediatum and strain Pl sm5T (5DSM 14734T5JCM 12638T) as the type strain of Polyangium spumosum 
-urthermore, the type strains given for three species of the genera Cystobacter and Polyangium had been kept at one university institute and have been lost according to our investigations 
-n accordance with Rule 18c of the Bacteriological Code, we propose the following neotype strains: strain Cb fe18 (5DSM 14716 5JCM 12624) as the neotype strain of Cystobacter ferrugineus, strain Cb m2 (5DSM 147515JCM 12627) as the neotype strain of Cystobacter minus and strain Pl fu5 (5DSM 146685JCM 12636) as the neotype strain of Polyangium fumosum 
-he proposals of the strains are based on the descriptions and strain proposals given in the respective chapters of Bergey’s Manual of Systematic Bacteriology (2005).  An exceptionally high number of myxobacterial species descriptions is not supported by the availability of formally acknowledged living type strain material 
-hese are the most frequently used guides in taxonomy currently, and for that reason, great efforts are taken to fill the sequencing gaps (Yarza et al., 2013) 
-n this communication, we formally designate type strains for seven and formally propose neotype strains for three species of the order Myxococcales 
-he present wording of Rule 18f of the International Code is: ‘If a description or illustration constitutes, or a dead preserved specimen has been designated as the type of a species [Rule 18a(1)] and a later strain of this species is cultivated, then the type strain may be designated by the  Downloaded from www.microbiologyresearch.org by 056440 G 2013 IUMS IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:03:38  Printed in Great Britain  http://ijs.sgmjournals.org  Table 1 
+he fatty acid composition of the proposed type strains are given in Table S2 Garcia et al. 2011 
+International Journal of Systematic and Evolutionary Microbiology 2013 63 4354–4360 DOI 10.1099/ijs.0.056440-0 Designation of type strains for seven species of the order Myxococcales and proposal for neotype strains of Cystobacter ferrugineus Cystobacter minus and Polyangium fumosum Elke Lang1 and Hans Reichenbach23 Corresponding Elke Lang 1 ela @ dsmz.de 2 Leibniz-Institut DSMZ – Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH Inhoffenstrasse 7B 38124 Braunschweig Germany Helmholtz-Zentrum für Infektionsforschung Inhoffenstrasse 7 38124 Braunschweig , Germany Ten species of the order Myxococcales with validly published names are devoid of living type strains 
+or a species of the genus Melittangium and two species of the genus Polyangium no physical type material was assigned at the time of validation of the names or later on 
+n accordance with rule 18f of the International Code of Nomenclature of Bacteria the following type strains are designated for these species strain Cm a14T 5DSM 14605T5JCM 12615T as the type strain of Chondromyces apiculatus strain Cm c5T 5DSM 14714T5JCM 12616T as the type strain of Chondromyces crocatus strain Sy t2T 5DSM 14631T5JCM 12617T as the type strain of Chondromyces lanuginosus strain Cm p51T 5DSM 14607T5JCM 12618T as the type strain of Chondromyces pediculatus strain Me b8T 5DSM 14713T5JCM 12633T as the type strain of Melittangium boletus strain Pl s12T 5DSM 14670T5JCM 12637T as the type strain of Polyangium sorediatum and strain Pl sm5T 5DSM 14734T5JCM 12638T as the type strain of Polyangium spumosum 
+urthermore the type strains given for three species of the genera Cystobacter and Polyangium had been kept at one university institute and have been lost according to our investigations 
+n accordance with Rule 18c of the Bacteriological Code we propose the following neotype strains strain Cb fe18 5DSM 14716 5JCM 12624 as the neotype strain of Cystobacter ferrugineus strain Cb m2 5DSM 147515JCM 12627 as the neotype strain of Cystobacter minus and strain Pl fu5 5DSM 146685JCM 12636 as the neotype strain of Polyangium fumosum 
+he proposals of the strains are based on the descriptions and strain proposals given in the respective chapters of Bergey ’ s Manual of Systematic Bacteriology 2005 . An exceptionally high number of myxobacterial species descriptions is not supported by the availability of formally acknowledged living type strain material 
+hese are the most frequently used guides in taxonomy currently and for that reason great efforts are taken to fill the sequencing gaps Yarza et al. 2013 
+n this communication we formally designate type strains for seven and formally propose neotype strains for three species of the order Myxococcales 
+he present wording of Rule 18f of the International Code is ‘ If a description or illustration constitutes or a dead preserved specimen has been designated as the type of a species Rule 18a 1 ] and a later strain of this species is cultivated then the type strain may be designated by the Downloaded from www.microbiologyresearch.org by 056440 G 2013 IUMS IP 189.155.188.202 On Sat 17 Feb 2018 05:03:38 Printed in Great Britain http //ijs.sgmjournals.org Table 1 
 yxobacterial species for which a cultivable type strain or neotype strain is formally proposed and the 16S rRNA sequences of the proposed neotype strains 
-L, types as given in Validation List No 31 (Brockman, 1989b, c) Species name and authors of the species description Chondromyces apiculatus Thaxter 1897 Chondromyces crocatus Berkeley and Curtis 1874; type species of the genus Chondromyces lanuginosus Kofler 1913 Chondromyces pediculatus Thaxter 1904 Melittangium boletus Jahn 1924; type species of the genus Polyangium sorediatum (ex Thaxter 1904) Brockman 1989 Polyangium spumosum (ex Krzemieniewska and Krzemieniewski 1927) Brockman 1989  Reference  Type strain in Approved Lists  Designated type strain  DSM number of the type strain  JCM number of the type strain  Figure No.  Accession number of the 16S rRNA gene sequence  TC 4481T AL TC 601T AL  Cm a14T Cm c5T  DSM 14605T DSM 14714T  JCM 12615T JCM 12616T  1 2  AJ233938 GU207874  Reichenbach (2005a) Reichenbach (2005a)  TC 4494T AL TC 4524T AL ‘Not cultivated’ AL  Sy t2T Cm p51T Me b8T  DSM 14631T DSM 14607T DSM 14713T  JCM 12617T JCM 12618T JCM 12633T  3 4 5  AJ233939 GU207875 AJ233908  Reichenbach (2005a) Reichenbach (2005a) Reichenbach (2005c)  Description in Brockman VL Description in Brockman VL  Pl s12T  DSM 14670T  JCM 12637T  6  GU207880  Reichenbach (2005d)  Pl sm5T  DSM 14734T  JCM 12638T  7  GU207881  Reichenbach (2005d)  Proposed neotype strain Cb fe18  DSM 14716  JCM 12624  8  Cb m2  DSM 14751  JCM 12627  9  AJ233903; DQ768113  Reichenbach (2005b)  Pl fu5  DSM 14668  JCM 12636  10  GU207879  Reichenbach (2005d)  4355 Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:03:38  NR_025343; AJ233901; Reichenbach (2005b) DQ768112  (Neo-)Type strains for species of myxobacteria  Cystobacter ferrugineus (Krzemieniewska Windsor M-203T AL and Krzemieniewski 1927) McCurdy 1970 Cystobacter minus (Krzemieniewska and Windsor M-307T AL Krzemieniewski 1926) McCurdy 1970 Polyangium fumosum Krzemieniewska Windsor M-257T AL and Krzemieniewski 1930  DSM number of JCM number of the neotype strain the neotype strain  E 
+L types as given in Validation List No 31 Brockman 1989b c Species name and authors of the species description Chondromyces apiculatus Thaxter 1897 Chondromyces crocatus Berkeley and Curtis 1874 type species of the genus Chondromyces lanuginosus Kofler 1913 Chondromyces pediculatus Thaxter 1904 Melittangium boletus Jahn 1924 type species of the genus Polyangium sorediatum ex Thaxter 1904 Brockman 1989 Polyangium spumosum ex Krzemieniewska and Krzemieniewski 1927 Brockman 1989 Reference Type strain in Approved Lists Designated type strain DSM number of the type strain JCM number of the type strain Figure No . Accession number of the 16S rRNA gene sequence TC 4481T AL TC 601T AL Cm a14T Cm c5T DSM 14605T DSM 14714T JCM 12615T JCM 12616T 1 2 AJ233938 GU207874 Reichenbach 2005a Reichenbach 2005a TC 4494T AL TC 4524T AL ‘ Not cultivated ’ AL Sy t2T Cm p51T Me b8T DSM 14631T DSM 14607T DSM 14713T JCM 12617T JCM 12618T JCM 12633T 3 4 5 AJ233939 GU207875 AJ233908 Reichenbach 2005a Reichenbach 2005a Reichenbach 2005c Description in Brockman VL Description in Brockman VL Pl s12T DSM 14670T JCM 12637T 6 GU207880 Reichenbach 2005d Pl sm5T DSM 14734T JCM 12638T 7 GU207881 Reichenbach 2005d Proposed neotype strain Cb fe18 DSM 14716 JCM 12624 8 Cb m2 DSM 14751 JCM 12627 9 AJ233903 DQ768113 Reichenbach 2005b Pl fu5 DSM 14668 JCM 12636 10 GU207879 Reichenbach 2005d 4355 Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Sat 17 Feb 2018 05:03:38 NR_025343 AJ233901 Reichenbach 2005b DQ768112 Neo- Type strains for species of myxobacteria Cystobacter ferrugineus Krzemieniewska Windsor M-203T AL and Krzemieniewski 1927 McCurdy 1970 Cystobacter minus Krzemieniewska and Windsor M-307T AL Krzemieniewski 1926 McCurdy 1970 Polyangium fumosum Krzemieniewska Windsor M-257T AL and Krzemieniewski 1930 DSM number of JCM number of the neotype strain the neotype strain E 
 ang and H 
-hondromyces apiculatus. (a) Drawing from Thaxter (1897), plate XXX on pages 405–406. (b) Fruiting body (bar, 100 mm) and vegetative cells (insert; bar, 10 mm) of Cm a14T.  person who isolated the strain or by a subsequent author 
-he designation of a type strain in this manner must be published in the IJSB/IJSEM, the authorship and date of priority of publication being determined by the effective and valid publication of the name by the original authors (Rule 24b)’ 
-he presently designated type strains of the species Chondromyces apiculatus (Thaxter, 1897), Chondromyces crocatus (Berkeley & Curtis, 1874), Chondromyces lanuginosus (Kofler, 1913) and Chondromyces pediculatus (Thaxter, 1904) are dead herbarium specimens in the Thaxter collection (TC), housed in the Farlow Herbarium, Harvard University, Cambridge, USA (Table 1) 
-ar, 100 mm.  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 63 IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:03:38  (Neo-)Type strains for species of myxobacteria  (a)  knowledge accumulated during 40 years of intense investigations on myxobacteria and were written after more than 3000 myxobacterial strains had been isolated 
-ased on the original species descriptions, appropriate strains were selected and described as the type strains of the respective species (Table 1) 
-or the species Melittangium boletus (Jahn, 1924), Polyangium sorediatum (Brockman, 1989a) and Polyangium spumosum (Brockman, 1989a) no physical type strains were assigned in the Approved Lists (Skerman et al., 1980) or in Validation List No. 31 (Brockman, 1989b,c), respectively 
-hese chapters are based on the experience and  (a)  For the reason that presently dead preserved material constitutes-, or a description has been designated-, the type strain of the mentioned species, or no type strain has been assigned, it is formally proposed that the strains selected by Reichenbach shall be designated the type strains of the respective species according to Rule 18f 
-hese are Chondromyces apiculatus Cm a14T, Chondromyces crocatus Cm c5T, Chondromyces lanuginosus Sy t2T, Chondromyces pediculatus Cm p51T, M. boletus Me b8T, P. sorediatum Pl s12T and P. spumosum Pl sm5T 
-he prerequisite for the acceptance of type strains, their deposit and availability in two culture collections is achieved 
+hondromyces apiculatus . a Drawing from Thaxter 1897 plate XXX on pages 405–406 . b Fruiting body bar 100 mm and vegetative cells insert bar , 10 mm of Cm a14T . person who isolated the strain or by a subsequent author 
+he designation of a type strain in this manner must be published in the IJSB/IJSEM the authorship and date of priority of publication being determined by the effective and valid publication of the name by the original authors Rule 24b ’ 
+he presently designated type strains of the species Chondromyces apiculatus Thaxter 1897 Chondromyces crocatus Berkeley & Curtis 1874 Chondromyces lanuginosus Kofler 1913 and Chondromyces pediculatus Thaxter 1904 are dead herbarium specimens in the Thaxter collection TC housed in the Farlow Herbarium , Harvard University , Cambridge , USA Table 1 
+ar 100 mm . Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 63 IP 189.155.188.202 On Sat 17 Feb 2018 05:03:38 Neo- Type strains for species of myxobacteria a knowledge accumulated during 40 years of intense investigations on myxobacteria and were written after more than 3000 myxobacterial strains had been isolated 
+ased on the original species descriptions appropriate strains were selected and described as the type strains of the respective species Table 1 
+or the species Melittangium boletus Jahn 1924 Polyangium sorediatum Brockman 1989a and Polyangium spumosum Brockman 1989a no physical type strains were assigned in the Approved Lists Skerman et al. 1980 or in Validation List No . 31 Brockman 1989b , c , respectively 
+hese chapters are based on the experience and a For the reason that presently dead preserved material constitutes- or a description has been designated- the type strain of the mentioned species or no type strain has been assigned it is formally proposed that the strains selected by Reichenbach shall be designated the type strains of the respective species according to Rule 18f 
+hese are Chondromyces apiculatus Cm a14T Chondromyces crocatus Cm c5T Chondromyces lanuginosus Sy t2T Chondromyces pediculatus Cm p51T M. boletus Me b8T P. sorediatum Pl s12T and P. spumosum Pl sm5T 
+he prerequisite for the acceptance of type strains their deposit and availability in two culture collections is achieved 
 he figures from the original descriptions and of the proposed type strains are shown face to face with figures showing the proposed type strains in Figs 1–10 
-ourtesy Bornträger-Cramer, www.borntraeger-cramer.de. (b) and (c) Fruiting bodies of Me b8T 
-ars, 120 and 80 mm, respectively. http://ijs.sgmjournals.org  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:03:38  4357  E 
-eichenbach  (a)  reference to an effectively published description and a record of the permanently established culture collection(s) where the strain is deposited (see also Note 1 to Rule 24a)’.  (b)  29  (c)  30 28 22  24  27 25  23  26  Fig. 6 
-os 22–30 depict P. sorediatum. (b and c) Fruiting bodies of PI s12T 
-ars, 200 mm.  (a)  The species Cystobacter ferrugineus, Cystobacter minus and Polyangium fumosum were first described by Krzemieniewska & Krzemieniewski (1926, 1927, 1930) 
-he species names and type strains were included in the Approved Lists (Skerman et al., 1980) but they have never been deposited in a culture collection to the best of our knowledge 
-n 2007, we wrote a letter to the head of the microbiology laboratory of the University of Windsor with the request for subcultures of the strains Cystobacter ferrugineus M-203T, Cystobacter minus M-307T and P. fumosum M257T 
-n 2012, another attempt to contact the department at Windsor University was more successful in the respect that we received answers from two colleagues at Windsor and from H 
-olyangium spumosum. (a) Figures from Krzemieniewska & Krzemieniewski (1926), plate V; no. 19 depicts P. spumosum and from Krzemieniewska & Krzemieniewski (1930), plate XVI; nos 10–12 depict P. spumosum 
-ars, 500, 100 and 250 mm, respectively. 4358  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 63 IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:03:38  (Neo-)Type strains for species of myxobacteria  (b)  (a)  (a)  (c)  (d) (b)  Fig. 8 
-ystobacter ferrugineus. (a) Figures from McCurdy (1970). (b–d) Strain Cb fe18, (b) myxospores and (c) fruiting bodies on Escherichia coli as food bacteria and (d) on a cellulose plate 
-ars, 10 mm, 1 mm and 10 mm, respectively.  (c)  (a) (b)  (d)  (c)  Fig. 9 
-ystobacter minus. (a), Figures from McCurdy (1970). (b and c), Fruiting bodies of Cb m2 
-ars, 500 mm and 200 mm, respectively. http://ijs.sgmjournals.org  Fig. 10 
-ourtesy of the Polish Botanical Society. (b) Swarm of PI fu5 (bar, 2000 mm) and single sporangium of PI fu5 (insert; bar, 100 mm). (c) Fruiting bodies of PI fu5 
+ourtesy Bornträger-Cramer www.borntraeger-cramer.de . b and c Fruiting bodies of Me b8T 
+ars 120 and 80 mm respectively . http //ijs.sgmjournals.org Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Sat 17 Feb 2018 05:03:38 4357 E 
+eichenbach a reference to an effectively published description and a record of the permanently established culture collection s where the strain is deposited see also Note 1 to Rule 24a ’ . b 29 c 30 28 22 24 27 25 23 26 Fig . 6 
+os 22–30 depict P. sorediatum . b and c Fruiting bodies of PI s12T 
+ars 200 mm . a The species Cystobacter ferrugineus Cystobacter minus and Polyangium fumosum were first described by Krzemieniewska & Krzemieniewski 1926 1927 1930 
+he species names and type strains were included in the Approved Lists Skerman et al. 1980 but they have never been deposited in a culture collection to the best of our knowledge 
+n 2007 we wrote a letter to the head of the microbiology laboratory of the University of Windsor with the request for subcultures of the strains Cystobacter ferrugineus M-203T Cystobacter minus M-307T and P. fumosum M257T 
+n 2012 another attempt to contact the department at Windsor University was more successful in the respect that we received answers from two colleagues at Windsor and from H 
+olyangium spumosum . a Figures from Krzemieniewska & Krzemieniewski 1926 , plate V no . 19 depicts P. spumosum and from Krzemieniewska & Krzemieniewski 1930 , plate XVI nos 10–12 depict P. spumosum 
+ars 500 100 and 250 mm respectively . 4358 Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 63 IP 189.155.188.202 On Sat 17 Feb 2018 05:03:38 Neo- Type strains for species of myxobacteria b ( a ( a ( c ( d ( b Fig . 8 
+ystobacter ferrugineus . a Figures from McCurdy 1970 . b–d Strain Cb fe18 b myxospores and c fruiting bodies on Escherichia coli as food bacteria and ( d on a cellulose plate 
+ars 10 mm 1 mm and 10 mm respectively . c ( a ( b ( d ( c Fig . 9 
+ystobacter minus . a , Figures from McCurdy 1970 . b and c , Fruiting bodies of Cb m2 
+ars 500 mm and 200 mm respectively . http //ijs.sgmjournals.org Fig . 10 
+ourtesy of the Polish Botanical Society . b Swarm of PI fu5 bar 2000 mm and single sporangium of PI fu5 insert bar 100 mm . c Fruiting bodies of PI fu5 
 he deposit and availability of the neotype strains from two culture collections is achieved 
-n these chapters, the strains Cystobacter ferrugineus Cb fe18, Cystobacter minus Cb m2 and P. fumosum Pl fu5 were proposed as the type strains according to the species descriptions given in the respective chapters which rely on the original species descriptions by Krzemieniewska and Krzemieniewski and McCurdy (Reichenbach 2005b, d) 
+n these chapters the strains Cystobacter ferrugineus Cb fe18 Cystobacter minus Cb m2 and P. fumosum Pl fu5 were proposed as the type strains according to the species descriptions given in the respective chapters which rely on the original species descriptions by Krzemieniewska and Krzemieniewski and McCurdy Reichenbach 2005b d 
 oling and I 
 ewis-Gentry at the Harvard University Herbaria and H 
 olyangium and the demise of the Sporangiaceae 
 hondromyces and Stigmatella 
-hondromyces Berkeley and Curtis in Berkeley 1874, 64AL 
-yxococcales Tchan, Pochon  and Prévot 1948, 398AL 
-ew York: Springer.  Validation of the Publication of New Names and New Combinations Previously Effectively Published Outside the IJSB, List No. 31 
-n  Gaz 23, 395–411.  Validation of the Publication of New Names and New Combinations Previously Effectively Published Outside the IJSB, List No. 31 
-yst Appl Microbiol 36, 69–73.  4360  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 63 IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:03:38   
+hondromyces Berkeley and Curtis in Berkeley 1874 64AL 
+yxococcales Tchan Pochon and Prévot 1948 398AL 
+ew York Springer . Validation of the Publication of New Names and New Combinations Previously Effectively Published Outside the IJSB List No . 31 
+n Gaz 23 395–411 . Validation of the Publication of New Names and New Combinations Previously Effectively Published Outside the IJSB List No . 31 
+yst Appl Microbiol 36 69–73 . 4360 Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 63 IP 189.155.188.202 On Sat 17 Feb 2018 05:03:38 
 our species of the genus Chondromyces are represented by dead herbarium samples as the type material 
-ecause of this lack of material, the species could not be included, for example, in species-representing 16S rRNA gene sequence databases 
-he International Code of Nomenclature of Bacteria (Lapage et al., 1992) allows for the designation of type strains in cases where descriptions or dead specimens represent the type given for species with validly published species names. 3Retired 
-wo supplementary tables are available with the online version of this paper.  4354  The code also allows for the proposal of neotype strains if a specimen of the strain on which the original description was based cannot be found 
-hese measures have been installed in order to clear the way for inclusion of such species in future examinations, in particular in studies including ‘new’ methods which had not been applied at the time of the species description 
-his type strain shall then replace the description, illustration or preserved specimen as the nomenclatural type 
-oward McCurdy studied myxobacteria at the University of Windsor, Ontario, Canada during the period around 1960–1970 
-e assigned specific samples of the Thaxter collection as the types of these species (McCurdy, 1971) 
-he species names were included in the Approved Lists  (a)  (b)  Fig. 2 
-owever, it has not been formally proposed in the IJSEM until now to accept these strains as the type strains.  (b)  7  8  12 10 11  9 13  Fig. 4 
-ccording to a curator of the herbarium, the specimen for Chondromyces lanuginosus seems to be lost whereas the other three specimens are still there, dried on the original substrates, accompanied by some slides 
-nstead, the descriptions of Brockman (1989a) or simply the statement ‘not cultivated’ are given 
-ergey’s Manual of Systematic Bacteriology, second edition, includes comprehensive chapters about the members of the order Myxococcales 
-eichenbach (2005a, b, c, d, e) are the chapters relevant to the taxa mentioned in this paper 
+ecause of this lack of material the species could not be included for example in species-representing 16S rRNA gene sequence databases 
+he International Code of Nomenclature of Bacteria Lapage et al. 1992 allows for the designation of type strains in cases where descriptions or dead specimens represent the type given for species with validly published species names . 3Retired 
+wo supplementary tables are available with the online version of this paper . 4354 The code also allows for the proposal of neotype strains if a specimen of the strain on which the original description was based can not be found 
+hese measures have been installed in order to clear the way for inclusion of such species in future examinations in particular in studies including ‘ new ’ methods which had not been applied at the time of the species description 
+his type strain shall then replace the description illustration or preserved specimen as the nomenclatural type 
+oward McCurdy studied myxobacteria at the University of Windsor Ontario Canada during the period around 1960–1970 
+e assigned specific samples of the Thaxter collection as the types of these species McCurdy 1971 
+he species names were included in the Approved Lists a ( b Fig . 2 
+owever it has not been formally proposed in the IJSEM until now to accept these strains as the type strains . b 7 8 12 10 11 9 13 Fig . 4 
+ccording to a curator of the herbarium the specimen for Chondromyces lanuginosus seems to be lost whereas the other three specimens are still there dried on the original substrates accompanied by some slides 
+nstead the descriptions of Brockman 1989a or simply the statement ‘ not cultivated ’ are given 
+ergey ’ s Manual of Systematic Bacteriology second edition includes comprehensive chapters about the members of the order Myxococcales 
+eichenbach 2005a b c d e are the chapters relevant to the taxa mentioned in this paper 
 he proposed type strains listed in Table 1 shall replace the dead specimen or descriptions 
-he designation of the type strains is based on the descriptions given in the respective chapters of Bergey’s Manual (Reichenbach 2005a, c, d) 
-n order to facilitate the comparison of these recent descriptions with those of the authors who originally proposed, revived or emended the species these original descriptions are assembled in Table S1 available in IJSEM Online 
-he Bacteriological Code also allows for the proposal of neotype strains according to Rule 18c: ‘If a strain on which the original description was based cannot be found, a neotype strain may be proposed 
- neotype strain must be proposed (proposed neotype) in the IJSB, together with citation of the author(s) of the name, a description or  (b)  (c)  Fig. 5 
-nsert: crushed sporangium releasing the single sporangioles 
-cCurdy assigned three of his isolates as the type strains for the abovementioned three species (McCurdy, 1970; Table 1) 
+he designation of the type strains is based on the descriptions given in the respective chapters of Bergey ’ s Manual Reichenbach 2005a c d 
+n order to facilitate the comparison of these recent descriptions with those of the authors who originally proposed revived or emended the species these original descriptions are assembled in Table S1 available in IJSEM Online 
+he Bacteriological Code also allows for the proposal of neotype strains according to Rule 18c ‘ If a strain on which the original description was based can not be found a neotype strain may be proposed 
+neotype strain must be proposed proposed neotype in the IJSB together with citation of the author s of the name a description or b ( c Fig . 5 
+nsert crushed sporangium releasing the single sporangioles 
+cCurdy assigned three of his isolates as the type strains for the abovementioned three species McCurdy 1970 Table 1 
 ven though the importance for microbial taxonomy was stressed there was no response 
-owever, they informed us that they cannot find the samples 
-ince 1981, there have been no scientific papers originating from the  (b)  (c)  (d)  Fig. 7 
-ourtesy of the Polish Botanical Society. (b–d) Degenerated fruiting bodies of PI sm5T 
-eichenbach  University of Windsor dealing with myxobacteria (PubMed), a fact additionally suggesting that nobody at the university had a research interest to keep the cultures alive or, at least, under surveillance 
-ince the presently assigned type strains of the mentioned species are no longer available as living cultures it is formally proposed that the strains selected by Reichenbach shall be proposed as the neotype strains of the respective species in accordance with Rule 18c, as given in Table 1 
-he proposals of the neotype strains are based on the suggestions in (Reichenbach (2005b, d) 
-owever, since type strains have already been assigned these strains have to be proposed as the neotype strains of the respective species according to rule 18c.  Acknowledgements We are thankful to K 
-cCurdy for taking the effort to investigate the disposition of the type materials.  Jahn, E. (1924) 
-tudies on the taxonomy of the  Myxobacterales 
-otices of the North American  Bergey’s Manual of Systematic Bacteriology, 2nd edn, vol. 2, pp. 1110– 1118 
+owever they informed us that they can not find the samples 
+ince 1981 there have been no scientific papers originating from the b ( c ( d Fig . 7 
+ourtesy of the Polish Botanical Society . b–d Degenerated fruiting bodies of PI sm5T 
+eichenbach University of Windsor dealing with myxobacteria PubMed a fact additionally suggesting that nobody at the university had a research interest to keep the cultures alive or at least , under surveillance 
+ince the presently assigned type strains of the mentioned species are no longer available as living cultures it is formally proposed that the strains selected by Reichenbach shall be proposed as the neotype strains of the respective species in accordance with Rule 18c as given in Table 1 
+he proposals of the neotype strains are based on the suggestions in Reichenbach 2005b d 
+owever since type strains have already been assigned these strains have to be proposed as the neotype strains of the respective species according to rule 18c . Acknowledgements We are thankful to K 
+cCurdy for taking the effort to investigate the disposition of the type materials . Jahn E. 1924 
+tudies on the taxonomy of the Myxobacterales 
+otices of the North American Bergey ’ s Manual of Systematic Bacteriology 2nd edn vol . 2 pp . 1110– 1118 
 otes on the Myxobacteriaceae 
 urther observations on the Myxobacteriaceae 
- Bacteriol 193, 1930– 1942.  Sequencing orphan species initiative (SOS): Filling the gaps in the 16S rRNA gene sequence database for all species with validly published names 
-., Seeliger, H 
-cCurdy, H 
-ew York: Springer.  H 
-., Gronow, S., Pukall, R., Klenk, H 
+Bacteriol 193 1930– 1942 . Sequencing orphan species initiative SOS : Filling the gaps in the 16S rRNA gene sequence database for all species with validly published names 
+. Seeliger H 
+cCurdy H 
+ew York Springer . H 
+. Gronow S. Pukall R. Klenk H 
+n Bergey ’ s Manual of Systematic Bacteriology 2nd edn vol . 2 pp . 1121–1129 
+ystobacter Schroeter 1886 170AL . In Bergey ’ s Manual of Systematic Bacteriology 2nd edn vol . 2 pp . 1086–1096 
+ondon Bergey ’ s Manual of Systematic Bacteriology 2nd edn vol . 2 pp . 1101– 1104 
+n Bergey ’ s Manual of Systematic Bacteriology 2nd edn vol . 2 pp . 1059–1072 
 or that reasons we conclude that these cultures must have been lost 
-ar, 300 mm.  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:03:38  4359  E 
-., Lessel, E 
-rockman, E 
-pproved  Brockman, E 
+ar 300 mm . Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Sat 17 Feb 2018 05:03:38 4359 E 
+. Lessel E 
+rockman E 
+pproved Brockman E 

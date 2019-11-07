@@ -1,35 +1,46 @@
-International Journal of Systematic and Evolutionary Microbiology (2009), 59, 1867–1874  DOI 10.1099/ijs.0.006858-0  Transfer of Actinomadura spadix Nonomura and Ohara 1971 to Actinoallomurus spadix gen. nov., comb. nov., and description of Actinoallomurus amamiensis sp. nov., Actinoallomurus caesius sp. nov., Actinoallomurus coprocola sp. nov., Actinoallomurus fulvus sp. nov., Actinoallomurus iriomotensis sp. nov., Actinoallomurus luridus sp. nov., Actinoallomurus purpureus sp. nov. and Actinoallomurus yoronensis sp. nov 
-e conclude that Actinomadura spadix should be assigned the status of the type species of a new genus as Actinoallomurus spadix gen. nov., comb. nov. (type strain NBRC 14099T 5ATCC 27298T 5BCRC 13386T 5CBS 261.72T 5CIP 105479T 5DSM 43459T 5JCM 3146T 5KCTC 9252T 5NCIMB 11118T 5NRRL B-16128T) 
-urther, we conclude that the ten new isolates should be assigned to the novel species Actinoallomurus amamiensis sp. nov. (type strain TT00-28T 5NBRC 103682T 5KCTC 19537T), Actinoallomurus caesius sp. nov. (type strain A3015T 5NBRC 103678T 5KCTC 19535T), Actinoallomurus coprocola sp. nov. (type strain TT04-09T 5NBRC 103688T 5KCTC 19542T), Actinoallomurus fulvus sp. nov. (type strain TT9966T 5NBRC 103680T 5KCTC 19536T), Actinoallomurus iriomotensis sp. nov. (type strain TT02-47T 5NBRC 103685T 5KCTC 19539T), Actinoallomurus luridus sp. nov. (type strain TT0215T 5NBRC 103683T 5KCTC 19538T), Actinoallomurus purpureus sp. nov. (type strain TTN0230T 5NBRC 103687T 5KCTC 19541T) and Actinoallomurus yoronensis sp. nov. (type strain TTN02-22T 5NBRC 103686T 5KCTC 19540T) 
- 16S rRNA gene sequence-based maximum-likelihood tree, 2D TLC of the polar lipids and SEMs of growth of strain NBRC 14099T, fatty acid profiles of Actinoallomurus strains and details of growth of Actinoallomurus strains on various media are available as supplementary material with the online version of this paper.  006858 G 2009 IUMS  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Tue, 20 Feb 2018 08:08:15  Printed in Great Britain  1867  T 
-train Actinoallomurus (Actinomadura) spadix comb. nov 
-BRC 14099T Actinoallomurus amamiensis sp. nov 
-T00-28T Actinoallomurus caesius sp. nov 
-3015T Actinoallomurus coprocola sp. nov 
-T04-09T Actinoallomurus fulvus sp. nov 
-T99-66T Actinoallomurus iriomotensis sp. nov 
-T02-47T TT02-22 TT99-68 Actinoallomurus luridus sp. nov 
-T02-15T Actinoallomurus purpureus sp. nov 
-TN02-30T Actinoallomurus yoronensis sp. nov 
-TN02-22T  1868  Source, locality and year of isolation  16S rRNA gene sequence accession number  Soil, Yamanashi (Nonomura & Ohara, 1971) Grove soil, Citrus tankan, Amami Island, Kagoshima, 2000 Mangrove forest soil, Iriomote Island, Okinawa, 1998 Cow dung, Futtsu, Chiba, 2003 Sugar-cane field soil, Iriomote Island, Okinawa, 1999  AB364581 AB364583  Meadow soil, Iriomote Island, Okinawa, 2001 As above Pineapple field soil, Iriomote Island, Okinawa, 1999 Meadow soil, Iriomote Island, Okinawa, 2001 Forest soil, Yoro valley, Chiba, 2002 Forest soil, Yoro valley, Chiba, 2002  AB364586 AB364587 AB364580  AB364589 AB364579 AB364582  AB364585 AB364588 AB364584  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 59 IP: 189.155.188.202 On: Tue, 20 Feb 2018 08:08:15  Actinoallomurus gen. nov., with nine species  Fig. 1 
+International Journal of Systematic and Evolutionary Microbiology 2009 59 1867–1874 DOI 10.1099/ijs.0.006858-0 Transfer of Actinomadura spadix Nonomura and Ohara 1971 to Actinoallomurus spadix gen. nov. comb . nov. and description of Actinoallomurus amamiensis sp . nov. Actinoallomurus caesius sp . nov. Actinoallomurus coprocola sp . nov. Actinoallomurus fulvus sp . nov. Actinoallomurus iriomotensis sp . nov. Actinoallomurus luridus sp . nov. , Actinoallomurus purpureus sp . nov. and Actinoallomurus yoronensis sp . nov 
+e conclude that Actinomadura spadix should be assigned the status of the type species of a new genus as Actinoallomurus spadix gen. nov. comb . nov. type strain NBRC 14099T 5ATCC 27298T 5BCRC 13386T 5CBS 261.72T 5CIP 105479T 5DSM 43459T 5JCM 3146T 5KCTC 9252T 5NCIMB 11118T 5NRRL B-16128T 
+urther we conclude that the ten new isolates should be assigned to the novel species Actinoallomurus amamiensis sp . nov. type strain TT00-28T 5NBRC 103682T 5KCTC 19537T , Actinoallomurus caesius sp . nov. type strain A3015T 5NBRC 103678T 5KCTC 19535T , Actinoallomurus coprocola sp . nov. type strain TT04-09T 5NBRC 103688T 5KCTC 19542T , Actinoallomurus fulvus sp . nov. type strain TT9966T 5NBRC 103680T 5KCTC 19536T , Actinoallomurus iriomotensis sp . nov. type strain TT02-47T 5NBRC 103685T 5KCTC 19539T , Actinoallomurus luridus sp . nov. type strain TT0215T 5NBRC 103683T 5KCTC 19538T , Actinoallomurus purpureus sp . nov. type strain TTN0230T 5NBRC 103687T 5KCTC 19541T and Actinoallomurus yoronensis sp . nov. type strain TTN02-22T 5NBRC 103686T 5KCTC 19540T 
+16S rRNA gene sequence-based maximum-likelihood tree 2D TLC of the polar lipids and SEMs of growth of strain NBRC 14099T fatty acid profiles of Actinoallomurus strains and details of growth of Actinoallomurus strains on various media are available as supplementary material with the online version of this paper . 006858 G 2009 IUMS Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Tue 20 Feb 2018 08:08:15 Printed in Great Britain 1867 T 
+train Actinoallomurus Actinomadura spadix comb . nov 
+BRC 14099T Actinoallomurus amamiensis sp . nov 
+T00-28T Actinoallomurus caesius sp . nov 
+3015T Actinoallomurus coprocola sp . nov 
+T04-09T Actinoallomurus fulvus sp . nov 
+T99-66T Actinoallomurus iriomotensis sp . nov 
+T02-47T TT02-22 TT99-68 Actinoallomurus luridus sp . nov 
+T02-15T Actinoallomurus purpureus sp . nov 
+TN02-30T Actinoallomurus yoronensis sp . nov 
+TN02-22T 1868 Source locality and year of isolation 16S rRNA gene sequence accession number Soil Yamanashi Nonomura & Ohara 1971 Grove soil Citrus tankan Amami Island Kagoshima 2000 Mangrove forest soil Iriomote Island Okinawa 1998 Cow dung Futtsu Chiba 2003 Sugar-cane field soil Iriomote Island Okinawa 1999 AB364581 AB364583 Meadow soil Iriomote Island Okinawa 2001 As above Pineapple field soil Iriomote Island Okinawa 1999 Meadow soil Iriomote Island Okinawa 2001 Forest soil Yoro valley Chiba 2002 Forest soil Yoro valley Chiba 2002 AB364586 AB364587 AB364580 AB364589 AB364579 AB364582 AB364585 AB364588 AB364584 Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 59 IP 189.155.188.202 On Tue 20 Feb 2018 08:08:15 Actinoallomurus gen. nov. with nine species Fig . 1 
 hylogenetic tree derived from the 16S rRNA gene sequences of Actinoallomurus species and related actinomycetes belonging to the family Thermomonosporaceae 
-herefore, a new genus, Actinoallomurus gen. nov., is proposed for Actinomadura spadix and the new isolates 
-ased on DNA–DNA relatedness and certain phenotypic properties, nine species of the genus Actinoallomurus are described; discriminatory properties of these species are listed in Supplementary Table S2 and Table 2 
-he type species of the genus is Actinoallomurus spadix gen. nov., comb. nov 
-trains TT02-47T, TT02-22 and TT99-68 were identified as members of a single species, Actinoallomurus iriomotensis sp. nov 
-he other species of the genus Actinoallomurus are Actinoallomurus amamiensis sp. nov., Actinoallomurus caesius sp. nov., Actinoallomurus coprocola sp. nov., Actinoallomurus fulvus sp. nov., Actinoallomurus luridus sp. nov., Actinoallomurus purpureus sp. nov. and Actinoallomurus yoronensis sp. nov 
+herefore a new genus Actinoallomurus gen. nov. is proposed for Actinomadura spadix and the new isolates 
+ased on DNA–DNA relatedness and certain phenotypic properties nine species of the genus Actinoallomurus are described discriminatory properties of these species are listed in Supplementary Table S2 and Table 2 
+he type species of the genus is Actinoallomurus spadix gen. nov. comb . nov 
+trains TT02-47T TT02-22 and TT99-68 were identified as members of a single species Actinoallomurus iriomotensis sp . nov 
+he other species of the genus Actinoallomurus are Actinoallomurus amamiensis sp . nov. Actinoallomurus caesius sp . nov. Actinoallomurus coprocola sp . nov. Actinoallomurus fulvus sp . nov. Actinoallomurus luridus sp . nov. Actinoallomurus purpureus sp . nov. and Actinoallomurus yoronensis sp . nov 
 escription of Actinoallomurus gen. nov 
-nique  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 59 IP: 189.155.188.202 On: Tue, 20 Feb 2018 08:08:15  Actinoallomurus gen. nov., with nine species  Table 2 
+nique Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 59 IP 189.155.188.202 On Tue 20 Feb 2018 08:08:15 Actinoallomurus gen. nov. with nine species Table 2 
 ifferential characteristics of type strains of the genus Actinoallomurus gen. nov 
-trains: 1, Actinoallomurus spadix NBRC 14099T; 2, Actinoallomurus amamiensis TT00-28T; 3, Actinoallomurus caesius A3015T; 4, Actinoallomurus coprocola TT04-09T; 5, Actinoallomurus fulvus TT99-66T; 6, Actinoallomurus iriomotensis TT02-47T; 7, Actinoallomurus luridus TT02-15T; 8, Actinoallomurus purpureus TTN02-30T; 9, Actinoallomurus yoronensis TTN02-22T. +, Positive; 2, negative; V, variable; W, weakly positive 
+trains 1 Actinoallomurus spadix NBRC 14099T 2 Actinoallomurus amamiensis TT00-28T 3 Actinoallomurus caesius A3015T 4 Actinoallomurus coprocola TT04-09T 5 Actinoallomurus fulvus TT99-66T 6 Actinoallomurus iriomotensis TT02-47T 7 Actinoallomurus luridus TT02-15T 8 Actinoallomurus purpureus TTN02-30T 9 Actinoallomurus yoronensis TTN02-22T . + Positive 2 negative V variable W weakly positive 
 he type species is Actinoallomurus spadix 
-escription of Actinoallomurus spadix (Nonomura and Ohara 1971) comb. nov 
-escription of Actinoallomurus amamiensis sp. nov 
-escription of Actinoallomurus caesius sp. nov 
-escription of Actinoallomurus coprocola sp. nov 
-pores are  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 59 IP: 189.155.188.202 On: Tue, 20 Feb 2018 08:08:15  Actinoallomurus gen. nov., with nine species  wrinkled to smooth 
-trains TT99-68 (5NBRC 103681) and TT02-22 (5NBRC 103684), isolated from soil on the same island, are also strains of this species.  Description of Actinoallomurus fulvus sp. nov 
-escription of Actinoallomurus iriomotensis sp. nov 
-he substrate mycelium is long, well-developed http://ijs.sgmjournals.org  Description of Actinoallomurus luridus sp. nov 
-escription of Actinoallomurus purpureus sp. nov 
-umic acid-vitamin agar, a  Description of Actinoallomurus yoronensis sp. nov 
+escription of Actinoallomurus spadix Nonomura and Ohara 1971 comb . nov 
+escription of Actinoallomurus amamiensis sp . nov 
+escription of Actinoallomurus caesius sp . nov 
+escription of Actinoallomurus coprocola sp . nov 
+pores are Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 59 IP 189.155.188.202 On Tue 20 Feb 2018 08:08:15 Actinoallomurus gen. nov. with nine species wrinkled to smooth 
+trains TT99-68 5NBRC 103681 and TT02-22 5NBRC 103684 isolated from soil on the same island , are also strains of this species . Description of Actinoallomurus fulvus sp . nov 
+escription of Actinoallomurus iriomotensis sp . nov 
+he substrate mycelium is long well-developed http //ijs.sgmjournals.org Description of Actinoallomurus luridus sp . nov 
+escription of Actinoallomurus purpureus sp . nov 
+umic acid-vitamin agar a Description of Actinoallomurus yoronensis sp . nov 
+ctinoallomurus Ac.ti.no.al.lo.mu9rus 
+ctinoallomurus actinomycetes with a different wall 
+ctinoallomurus spadix spa9dix 
+ctinoallomurus amamiensis a.ma9mi.en9sis 
+ctinoallomurus caesius cae9si.us 
+ctinoallomurus coprocola cop.ro9co.la 
+ctinoallomurus fulvus ful9vus 
+ctinoallomurus iriomotensis i9ri.o.mo.ten9sis 
+ctinoallomurus luridus lu9ri.dus 
+ctinoallomurus purpureus pur.pu9re.us 
+ctinoallomurus yoronensis yo.ro.nen9sis 

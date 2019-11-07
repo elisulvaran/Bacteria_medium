@@ -1,192 +1,194 @@
-n S. wolinii-M. hungatii culture, in which Desulfovibrio strain Gll was present only as a contaminant, was obtained by subculturing in propionate-media without sulfate 
+ossible slow growth of S. wolinii on fumarate could not be demonstrated because of the presence of a Desulfovibrio strain which grew rapidly on fumarate in both the absence and presence of sulfate . Propionate is an important intermediate in the conversion of complex organic carbon to methane and carbon dioxide 
+n S. wolinii-M. hungatii culture in which Desulfovibrio strain Gll was present only as a contaminant was obtained by subculturing in propionate-media without sulfate 
 he Desulfo vibrio strain was able to degrade fumarate both in the presence and in the absence of sulfate 
-n the absence of sulfate, strain Gll fermented fumarate to succinate and acetate in the expected stoichiometries, whereas in the presence of sulfate (results not shown) or M. hungatii, less succinate and more acetate were formed (Table 3) 
-ultures were made in the absence (A, C, and E) or presence (B, D, and F) of M. hungatii.  trophic growth of the Desulfovibrio sp. on succinate in the absence of sulfate but the presence of M. hungatii (results not shown) 
-hus, the sulfate reducer preferred fermentative growth on fumarate above growth by fumarate reduction with reducing equivalents derived from propionate oxidation by S. wolinii 
-umarate and propionate utilization by mixed cultures of S. wolinii, Desulfovibrio strain Gll, and M. hungatii JF-1 in media without sulfate Culture0  Propionate  degraded  Substrate conversion and product formation (mmol/liter) Acetate Fumarate formed degraded  Succinate formed  Syntrophobacter + Desulfovibnio Fumarate Propionate Propionate + fumarate  1.0 2.3  7.2 0.7 9.0  18.8 18.4  18.4  10.5  17.6  10.6  15.8 18.9 31.0  18.0  1.7  16.9  2.2  6.8  16.5  10.5  12.4  16.7  4.3  Syntrophobacter + Methanospirillumb Fumarate Propionate Propionate + fumarate  Desulfovibrio, fumarate Desulfovibrio + Methanospirillum, fumarate  The initial concentrations of propionate and fumarate were about 18 mM each 
-icarbonate (50 mM) was replaced by 30 mM sodium phosphate (pH 7), and the gas phase was N2 instead of N2-CO2 
- basal bicarbonate-buffered medium contained the following (grams per liter): Na2HPO4 2H20, 0.53; KH2PO4, 0.41; NH4Cl, 0.3; CaCl2- 2H20, 0.11; MgCl2 6H20, 0.10; NaCl, 0.3; NaHCO3, 4.0; and Na2S. 9H20, 0.48 (as well as acid and alkaline trace elements [each, 1 ml/liter] and vitamins [0.2 ml/liter]) 
-he acid trace element solution contained the following (millimolar): FeCl2, 7.5; H3B04, 1; ZnCl2, 0.5; CuCl2, 0.1; MnCl2, 0.5; CoCl2, 0.5; NiCl2 0.1; and HCl, 50 
-rganic acids were measured with an LKB high-performance liquid chromatograph (HPLC) equipped with a Chrompack organic acid column (30 cm by 6.5 mm) 
+n the absence of sulfate strain Gll fermented fumarate to succinate and acetate in the expected stoichiometries whereas in the presence of sulfate results not shown or M. hungatii less succinate and more acetate were formed Table 3 
+he Desulfovibrio sp . grew only very slowly in media with succinate and sulfate whereas we did not observe syn- 1117 i 4- c as C 0 It Ui 0 10 20 10 30 0 time days 20 30 FIG . 3 
+ultures were made in the absence A C and E or presence B D and F of M. hungatii . trophic growth of the Desulfovibrio sp . on succinate in the absence of sulfate but the presence of M. hungatii results not shown 
+hus the sulfate reducer preferred fermentative growth on fumarate above growth by fumarate reduction with reducing equivalents derived from propionate oxidation by S. wolinii 
+umarate and propionate utilization by mixed cultures of S. wolinii Desulfovibrio strain Gll and M. hungatii JF-1 in media without sulfate Culture0 Propionate degraded Substrate conversion and product formation mmol/liter Acetate Fumarate formed degraded Succinate formed Syntrophobacter + Desulfovibnio Fumarate Propionate Propionate + fumarate 1.0 2.3 7.2 0.7 9.0 18.8 18.4 18.4 10.5 17.6 10.6 15.8 18.9 31.0 18.0 1.7 16.9 2.2 6.8 16.5 10.5 12.4 16.7 4.3 Syntrophobacter + Methanospirillumb Fumarate Propionate Propionate + fumarate Desulfovibrio fumarate Desulfovibrio + Methanospirillum fumarate The initial concentrations of propionate and fumarate were about 18 mM each 
+basal bicarbonate-buffered medium contained the following grams per liter : Na2HPO4 2H20 0.53 KH2PO4 0.41 NH4Cl 0.3 CaCl2- 2H20 0.11 MgCl2 6H20 0.10 NaCl 0.3 NaHCO3 4.0 and Na2S . 9H20 0.48 as well as acid and alkaline trace elements each 1 ml/liter and vitamins 0.2 ml/liter ) 
+icarbonate 50 mM was replaced by 30 mM sodium phosphate pH 7 , and the gas phase was N2 instead of N2-CO2 
+he acid trace element solution contained the following millimolar : FeCl2 7.5 H3B04 1 ZnCl2 0.5 CuCl2 0.1 MnCl2 0.5 CoCl2 0.5 NiCl2 0.1 and HCl 50 
+he vitamin solution had the following composition gram per liter : biotin 0.02 niacin 0.2 pyridoxine 0.5 riboflavin 0.1 thiamine 0.2 cyanocobalamin 0.1 p-aminobenzoic acid 0.1 and pantothenic acid 0.1 
+rganic acids were measured with an LKB high-performance liquid chromatograph HPLC equipped with a Chrompack organic acid column 30 cm by 6.5 mm 
 he carrier gas was nitrogen saturated with formic acid 
-ecause propionate oxidation to acetate and carbon dioxide is energetically very unfavorable, methanogens or sulfate-reducing bacteria are needed to make propionate oxidation feasible either by hydrogen consumption (1, 4, 9, 10) or by formate consumption (3, 25) 
-hen the different steps of syntrophic propionate oxidation are compared (Table 1), it is obvious that oxidation of succinate to fumarate coupled to hydrogen formation is the most difficult step in propionate oxidation 
-ethane and hydrogen levels were measured by GC with a Packard-Becker 417 gas chromatograph equipped with a thermal conductivity detector and molecular sieve 13 x (60/80 mesh) 
-he Methanospirillum sp. could be enriched with hydrogen plus carbon dioxide or formate as energy substrates 
+ecause propionate oxidation to acetate and carbon dioxide is energetically very unfavorable methanogens or sulfate-reducing bacteria are needed to make propionate oxidation feasible either by hydrogen consumption 1 4 9 10 or by formate consumption 3 25 
+hen the different steps of syntrophic propionate oxidation are compared Table 1 , it is obvious that oxidation of succinate to fumarate coupled to hydrogen formation is the most difficult step in propionate oxidation 
+ethane and hydrogen levels were measured by GC with a Packard-Becker 417 gas chromatograph equipped with a thermal conductivity detector and molecular sieve 13 x 60/80 mesh 
+he Methanospirillum sp . could be enriched with hydrogen plus carbon dioxide or formate as energy substrates 
 hese observations suggested that hydrogen consumption by methanogens can be replaced by addition of fumarate 
-ense hydrogen-pregrown cultures of M. hungatii JF-1 (DSM 864) and the Methanospirillum sp. were unable to reduce fumarate to succinate with hydrogen or formate as the electron donor in the presence of BrES 
-ethanogens were completely removed; even after months of incubation, methane formation from hydrogen or formate did not occur 
-he fumaratedegrading culture fermented fumarate plus propionate to succinate plus acetate in the same fashion as described above for the BrES-inhibited propionate-oxidizing culture, and in presence of hydrogen or formate, fumarate was stoichiometrically transformed to succinate 
+ense hydrogen-pregrown cultures of M. hungatii JF-1 DSM 864 and the Methanospirillum sp . were unable to reduce fumarate to succinate with hydrogen or formate as the electron donor in the presence of BrES 
+ethanogens were completely removed even after months of incubation methane formation from hydrogen or formate did not occur 
+he fumaratedegrading culture fermented fumarate plus propionate to succinate plus acetate in the same fashion as described above for the BrES-inhibited propionate-oxidizing culture and in presence of hydrogen or formate fumarate was stoichiometrically transformed to succinate 
 n the presence of hydrogen or formate fumarate was stoichiometrically converted to succinate 
-arcia (ed.), Microbiology and biochemistry of strict anaerobes involved in interspecies hydrogen transfer 
-ontrol of interspecies electron flow during anaerobic digestion: significance of formate transfer versus hydrogen transfer during syntrophic methanogenesis in flocs 
-ossible slow growth of S. wolinii on fumarate could not be demonstrated because of the presence of a Desulfovibrio strain which grew rapidly on fumarate in both the absence and presence of sulfate.  Propionate is an important intermediate in the conversion of complex organic carbon to methane and carbon dioxide 
-p to 15% of total methanogenesis is derived from the degradation of propionate to acetate and carbon dioxide (10, 19) 
-ecause reducing equivalents are needed for conversion of fumarate to succinate, part of the fumarate must have been oxidized to carbon dioxide 
+arcia ed . , Microbiology and biochemistry of strict anaerobes involved in interspecies hydrogen transfer 
+ontrol of interspecies electron flow during anaerobic digestion significance of formate transfer versus hydrogen transfer during syntrophic methanogenesis in flocs 
+p to 15 % of total methanogenesis is derived from the degradation of propionate to acetate and carbon dioxide 10 19 
+ecause reducing equivalents are needed for conversion of fumarate to succinate part of the fumarate must have been oxidized to carbon dioxide 
 ormation of carbon dioxide was confirmed by using phosphate-buffered media 
-he cultures were incubated for 4 weeks at 37°C. b In this culture, the Desulfovibrio sp. was still present as a contaminant.  propionate-oxidizing culture. (i) The difficult succinate-oxidation step is avoided. (ii) Fumarate could replace methanogens as an apparent electron acceptor in propionate oxidation. (iii) Fumarate in the absence of propionate was fermented to succinate and carbon dioxide 
+he cultures were incubated for 4 weeks at 37°C . b In this culture the Desulfovibrio sp . was still present as a contaminant . propionate-oxidizing culture . i The difficult succinate-oxidation step is avoided . ii Fumarate could replace methanogens as an apparent electron acceptor in propionate oxidation . iii Fumarate in the absence of propionate was fermented to succinate and carbon dioxide 
 umarate alone was fermented to succinate and CO2 
 xperiments to determine CO2 formation were done with phosphate-buffered media 
-icarbonate was determined by the same method as CO2; culture samples (2.5 ml) were injected into closed 18-ml Hungate tubes, and 2.5 ml of 1 M HCl was added to purge the CO2 from the liquid phase 
-n this case, we found that 25.2 mmol of fumarate was converted into 19.5 mmol of succinate and 15.5 mmol of CO2 
-rom the experiments with labelled propionate, it is evident that in media with fumarate plus propionate, the following sequence of reactions takes place in the propionate-oxidizing methanogenic culture: [3-13C]propionate + CO2 -+ [2-13C]succinate, 1 fumarate -> 1 acetate + 2CO2 + 4[H], and 2 fumarate plus 4[H] -- 2 succinate 
-his highly purified culture fermented fumarate to succinate and CO2 according to the sequence 7 fumarate -- 6 succinate + 4CO2, as was also found for some other fumarate-fermenting anaerobes (5, 18) 
-he culture carboxylated propionate to succinate, while fumarate was no longer oxidized to CO2 but to acetate 
-esides, the shift from CO2 to acetate formation from fumarate in the presence of  propionate and the simultaneous energy-dependent carboxylation of propionate can be explained satisfactorily only if one bacterial species is involved 
-or this, substrate-adapted and actively growing cultures were inoculated (the inoculum size was 10%) in fresh media 
-uccinate was the sole organic end product detected by HPLC and GC methods (the detection limit of compounds was about 0.1 mM) 
-hen the methanogens in a newly enriched propionate-oxidizing methanogenic culture were inhibited by bromoethanesulfonate, fumarate could act as an apparent terminal electron acceptor in propionate oxidation. "3C-nuclear magnetic resonance experiments showed that propionate was carboxylated to succinate while fumarate was partly oxidized to acetate and partly reduced to succinate 
+icarbonate was determined by the same method as CO2 culture samples 2.5 ml were injected into closed 18-ml Hungate tubes and 2.5 ml of 1 M HCl was added to purge the CO2 from the liquid phase 
+n this case we found that 25.2 mmol of fumarate was converted into 19.5 mmol of succinate and 15.5 mmol of CO2 
+rom the experiments with labelled propionate it is evident that in media with fumarate plus propionate the following sequence of reactions takes place in the propionate-oxidizing methanogenic culture 3-13C propionate + CO2 -+ 2-13C succinate 1 fumarate > 1 acetate + 2CO2 + 4 H , and 2 fumarate plus 4 [ H -- 2 succinate 
+his highly purified culture fermented fumarate to succinate and CO2 according to the sequence 7 fumarate -- 6 succinate + 4CO2 as was also found for some other fumarate-fermenting anaerobes 5 18 
+he culture carboxylated propionate to succinate while fumarate was no longer oxidized to CO2 but to acetate 
+esides the shift from CO2 to acetate formation from fumarate in the presence of propionate and the simultaneous energy-dependent carboxylation of propionate can be explained satisfactorily only if one bacterial species is involved 
+hen the methanogens in a newly enriched propionate-oxidizing methanogenic culture were inhibited by bromoethanesulfonate fumarate could act as an apparent terminal electron acceptor in propionate oxidation . `` 3C-nuclear magnetic resonance experiments showed that propionate was carboxylated to succinate while fumarate was partly oxidized to acetate and partly reduced to succinate 
 acteria growing on fumarate were enriched and obtained free of methanogens 
-ropionate oxidation is accomplished by obligate syntrophic consortia of proton-reducing acetogenic bacteria and methanogenic bacteria (1, 8, 10, 19) 
-ecause propionate-oxidizing bacteria cannot be grown on propionate in the absence of hydrogenotrophs, their biochemical and physiological properties are difficult to assess 
-abelling experiments with 13C- and 14C-labelled substrates and enzyme measurements in cell extracts of syntrophic cultures have shown that the methylmalonyl-coenzyme A (CoA) pathway is involved in propionate oxidation by syntrophic cultures (13-15, 17, 19, 21) 
-n this route, propionyl-CoA, methylmalonyl-CoA, succinyl-CoA, succinate, fumarate, malate, oxaloacetate, pyruvate, and acetylCoA are intermediates 
-esults with a newly enriched propionate-oxidizing methanogenic culture and with sulfidogenic and methanogenic cultures with S. wolinii are presented.  MATERIALS AND METHODS Organisms 
-he S. woliniiDesulfovibrio strain Gll coculture (DSM 2805) and Methanospirillum hungatii JF-1 (DSM 864) were obtained from the Deutsche Sammlung von Mikroorganismen (Braunschweig, Germany) 
+ropionate oxidation is accomplished by obligate syntrophic consortia of proton-reducing acetogenic bacteria and methanogenic bacteria 1 8 10 19 
+ecause propionate-oxidizing bacteria can not be grown on propionate in the absence of hydrogenotrophs their biochemical and physiological properties are difficult to assess 
+abelling experiments with 13C- and 14C-labelled substrates and enzyme measurements in cell extracts of syntrophic cultures have shown that the methylmalonyl-coenzyme A CoA pathway is involved in propionate oxidation by syntrophic cultures 13-15 17 19 21 
+n this route propionyl-CoA methylmalonyl-CoA succinyl-CoA succinate fumarate malate oxaloacetate pyruvate and acetylCoA are intermediates 
+esults with a newly enriched propionate-oxidizing methanogenic culture and with sulfidogenic and methanogenic cultures with S. wolinii are presented . MATERIALS AND METHODS Organisms 
+he S. woliniiDesulfovibrio strain Gll coculture DSM 2805 and Methanospirillum hungatii JF-1 DSM 864 were obtained from the Deutsche Sammlung von Mikroorganismen Braunschweig Germany 
 edia and cultivation 
-he alkaline trace element solution was composed of the following (millimolar): Na2SeO3, 0.1; Na2WO4, 0.1; Na2MoO4, 0.1; and NaOH, 10 
-he vitamin solution had the following composition (gram per liter): biotin, 0.02; niacin, 0.2; pyridoxine, 0.5; riboflavin, 0.1; thiamine, 0.2; cyanocobalamin, 0.1; p-aminobenzoic acid, 0.1; and pantothenic acid, 0.1 
-edia for the coculture with S. wolinii were supplemented with 0.02% BBL yeast extract (Becton Dickinson, Cockeysville, Md.) and 2.8 g of Na2SO4 per liter, and media for M. hungatii were supplemented with 0.02% BBL  Corresponding author. 1114  VOL. 59, 1993  FUMARATE UTILIZATION BY PROPIONATE-OXIDIZING BACTERIA  1115  TABLE 1 
-artial H2 pressure = 10-5 atm (1 atm = 101.29 kPa).  b  yeast extract, 0.04% bioTrypticase (bioMerieux, Charbonnieres les Bains, France), and 0.15 g of sodium acetate per liter 
-outinely, bacteria were cultured at 37°C in 120-ml serum vials with 50 ml of medium and a gas phase of 1.7 atm (172.2 kPa) N2-CO2 or H2-CO2 (80:20, vol/vol) 
-ottles were sealed with butyl rubber stoppers (Rubber BV, Hilversum, The Netherlands) and aluminum caps 
-itamins and bromoethanesulfonate (BrES) were filter sterilized; other compounds were sterilized by heat 
-n most experiments, media were inoculated with stock cultures which had been stored between 15 and 20°C 
-cetate, propionate, and other fatty acids were also measured by gas chromatography (GC) with a CP9000 gas chromatograph (Chrompack, Middelburg, The Netherlands) equipped with a glass column (inside dimensions, 180 cm by 2 mm) filled with Chromosorb 101 (80/100 mesh) 
-he temperatures of the injection port and the detector were 250 and 300°C, respectively 
+he alkaline trace element solution was composed of the following millimolar : Na2SeO3 0.1 Na2WO4 0.1 Na2MoO4 0.1 and NaOH 10 
+edia for the coculture with S. wolinii were supplemented with 0.02 % BBL yeast extract Becton Dickinson Cockeysville Md . and 2.8 g of Na2SO4 per liter and media for M. hungatii were supplemented with 0.02 % BBL Corresponding author . 1114 VOL . 59 1993 FUMARATE UTILIZATION BY PROPIONATE-OXIDIZING BACTERIA 1115 TABLE 1 
+artial H2 pressure = 10-5 atm 1 atm = 101.29 kPa . b yeast extract 0.04 % bioTrypticase bioMerieux Charbonnieres les Bains France , and 0.15 g of sodium acetate per liter 
+outinely bacteria were cultured at 37°C in 120-ml serum vials with 50 ml of medium and a gas phase of 1.7 atm 172.2 kPa N2-CO2 or H2-CO2 80:20 vol/vol 
+ottles were sealed with butyl rubber stoppers Rubber BV Hilversum The Netherlands and aluminum caps 
+itamins and bromoethanesulfonate BrES were filter sterilized other compounds were sterilized by heat 
+n most experiments media were inoculated with stock cultures which had been stored between 15 and 20°C 
+or this substrate-adapted and actively growing cultures were inoculated the inoculum size was 10 % in fresh media 
+cetate propionate and other fatty acids were also measured by gas chromatography GC with a CP9000 gas chromatograph Chrompack Middelburg The Netherlands equipped with a glass column inside dimensions 180 cm by 2 mm filled with Chromosorb 101 80/100 mesh 
+he temperatures of the injection port and the detector were 250 and 300°C respectively 
 ith both HPLC and GC the detection limit for compounds was about 0.1 mM 
-he column temperature was 50°C, and the carrier gas was argon at a flow rate of 20 ml/min 
-owever, a Poropak Q column was used, and helium was the carrier gas 
-n experiments to study the fate of propionate in the presence of fumarate, media contained 20 mM [3-13C]propionate and 10 mM BrES in the presence or absence of 40 mM fumarate. [3-'3C]propionate and [2,313C]propionate (minimum of 99 atom% 13C) were obtained from Isotec (Miamisburg, Md.) 
-ubes were inoculated (10%) with the propionate-oxidizing culture and incubated for 2 weeks at 37°C 
-ells were centrifuged, and D20 (10%, vol/vol) was added to the supernatant. 13C-labelled compounds were analyzed with a Bruker CXP-300 FourierTransform spectrometer as described previously (13) 
-ram staining was done according to standard procedures (6).  RESULTS Origin and description of the newly enriched culture 
-ethanogenic granular sludge of a bench-scale upflow anaerobic sludge blanket reactor, which had been operated for several months with a mixture of propionate and acetate as feed, was used as starting material for the enrichment of propionate-oxidizing bacteria 
+he column temperature was 50°C and the carrier gas was argon at a flow rate of 20 ml/min 
+owever a Poropak Q column was used and helium was the carrier gas 
+n experiments to study the fate of propionate in the presence of fumarate media contained 20 mM 3-13C propionate and 10 mM BrES in the presence or absence of 40 mM fumarate . 3-'3C propionate and 2,313C propionate minimum of 99 atom % 13C were obtained from Isotec Miamisburg Md . 
+ubes were inoculated 10 % with the propionate-oxidizing culture and incubated for 2 weeks at 37°C 
+ells were centrifuged and D20 10 % vol/vol was added to the supernatant . 13C-labelled compounds were analyzed with a Bruker CXP-300 FourierTransform spectrometer as described previously 13 
+ram staining was done according to standard procedures 6 . RESULTS Origin and description of the newly enriched culture 
+ethanogenic granular sludge of a bench-scale upflow anaerobic sludge blanket reactor which had been operated for several months with a mixture of propionate and acetate as feed was used as starting material for the enrichment of propionate-oxidizing bacteria 
 he culture was enriched in 1983 and regularly subcultured in media with propionate as the sole substrate 
-he propionatedegrading culture mainly consisted of gram-negative, short, rod-shaped bacteria (1.1 to 1.6 by 1.8 to 2.5 ,um) and a Methanospirillum sp. (about 0.8 ,um in width) 
-ven after repeated transfer and dilution in fresh media, small coccoid bacteria remained present in low numbers (less than 1%) 
+he propionatedegrading culture mainly consisted of gram-negative short rod-shaped bacteria 1.1 to 1.6 by 1.8 to 2.5 um and a Methanospirillum sp . about 0.8 um in width 
+ven after repeated transfer and dilution in fresh media small coccoid bacteria remained present in low numbers less than 1 % 
 hese contaminants could be enriched and isolated with yeast extract as a substrate 
-east extract was fermented by this organism to acetate, isobutyrate, butyrate, and isovalerate (or P-methylbutyrate) in a molar ratio of about 20:2:3:6 
-ffect of fumarate on propionate oxidation by a mesophilic enrichment culturea Substrate conversion and product formation  (mmol/liter)  Culture' iE .j 10-  Propionate Propionate + BrES Propionate + fumarate Propionate + fumarate + BrES Fumarate  /.  Li  0  0  5  lo  Propionate Acetate Methane Fumarate Succinate degraded formed formed degraded formed  15  20  18.4 0.0 17.6 12.0  19.2 0.7 17.6 12.4  12.3 0.0 4.8 0.0  37.3 35.4  36.9 34.6  36.0  29.9  a Similar results were obtained when L-malate instead of fumarate was used. b The initial concentrations of propionate and fumarate were about 18 and 36 mM, respectively; the BrES concentration was 10 mM 
-his methanogen morphologically and physiologically resembled M. hungatii JF-1 (DSM 864) 
-n our media, both strains had an absolute requirement for bioTrypticase, and growth was stimulated by addition of sodium acetate (2 mM) to the media 
-he propionate-oxidizing culture converted propionate in the expected stoichiometry: 24.1 + 1.0 mol of propionate yielded 23 + 1.8 mol of acetate and 17.3 + 0.7 mol of methane 
-he apparent maximum specific growth rate, estimated from the increase in acetate concentration in time, was between 0.15 and 0.17 day-1 
-abelling experiments showed that [3-13Clpropionate was converted to equal amounts of [1-13C1- and [2- 3Clacetate 
+east extract was fermented by this organism to acetate isobutyrate butyrate and isovalerate or P-methylbutyrate in a molar ratio of about 20:2:3:6 
+ffect of fumarate on propionate oxidation by a mesophilic enrichment culturea Substrate conversion and product formation mmol/liter Culture ' iE .j 10- Propionate Propionate + BrES Propionate + fumarate Propionate + fumarate + BrES Fumarate / . Li 0 0 5 lo Propionate Acetate Methane Fumarate Succinate degraded formed formed degraded formed 15 20 18.4 0.0 17.6 12.0 19.2 0.7 17.6 12.4 12.3 0.0 4.8 0.0 37.3 35.4 36.9 34.6 36.0 29.9 a Similar results were obtained when L-malate instead of fumarate was used . b The initial concentrations of propionate and fumarate were about 18 and 36 mM respectively the BrES concentration was 10 mM 
+his methanogen morphologically and physiologically resembled M. hungatii JF-1 DSM 864 
+n our media both strains had an absolute requirement for bioTrypticase and growth was stimulated by addition of sodium acetate 2 mM to the media 
+he propionate-oxidizing culture converted propionate in the expected stoichiometry 24.1 + 1.0 mol of propionate yielded 23 + 1.8 mol of acetate and 17.3 + 0.7 mol of methane 
+he apparent maximum specific growth rate estimated from the increase in acetate concentration in time was between 0.15 and 0.17 day-1 
+abelling experiments showed that 3-13Clpropionate was converted to equal amounts of 1-13C1- and 2- 3Clacetate 
 ffect of fumarate and malate on propionate oxidation 
-ddition of L-malate to the propionate-oxidizing culture led to an instantaneous and stoichiometric formation of succinate (Fig. 1) 
-uccinate formation was also observed with fumarate, whereas D-malate, malonate, and maleate were not metabolized 
-uclear magnetic resonance spectra of culture supernatants of the newly enriched propionate-oxidizing culture incubated with 20 mM [3-13C]propionate, 40 mM fumarate, and 10 mM BrES (A) or incubated with 20 mM [3-'3CJpropionate and 10 mM BrES (B).  40  VOL. 59, 1993  FUMARATE UTILIZATION BY PROPIONATE-OXIDIZING BACTERIA  absence of propionate was degraded as well (Table 2) 
-umarate degradation was coupled to growth, and compared with syntrophic growth on propionate, high cell densities were obtained 
-imilar values were found in the presence of BrES, and only minor amounts of methane were formed in the absence of BrES 
-y repeated transfer and dilution in fumarate media, a microscopically homogeneous culture was obtained 
-he estimated specific growth rate in media with propionate plus fumarate (20 and 60 mM, respectively) was about 0.16 day-1 
+ddition of L-malate to the propionate-oxidizing culture led to an instantaneous and stoichiometric formation of succinate Fig . 1 
+uccinate formation was also observed with fumarate whereas D-malate malonate and maleate were not metabolized 
+uclear magnetic resonance spectra of culture supernatants of the newly enriched propionate-oxidizing culture incubated with 20 mM 3-13C propionate 40 mM fumarate and 10 mM BrES A or incubated with 20 mM 3-'3CJpropionate and 10 mM BrES B . 40 VOL . 59 1993 FUMARATE UTILIZATION BY PROPIONATE-OXIDIZING BACTERIA absence of propionate was degraded as well Table 2 
+umarate degradation was coupled to growth and compared with syntrophic growth on propionate high cell densities were obtained 
+uccinate was the sole organic end product detected by HPLC and GC methods the detection limit of compounds was about 0.1 mM 
+imilar values were found in the presence of BrES and only minor amounts of methane were formed in the absence of BrES 
+y repeated transfer and dilution in fumarate media a microscopically homogeneous culture was obtained 
+he estimated specific growth rate in media with propionate plus fumarate 20 and 60 mM respectively was about 0.16 day-1 
 he effect of fumarate on propionate oxidation by a methanogenic and a sulfidogenic culture with S. wolinu was investigated 
-he Desulfovibrio sp. grew only very slowly in media with succinate and sulfate, whereas we did not observe syn-  1117  i 4-  c as C 0  It  Ui  0  10  20  10 30 0 time (days)  20  30  FIG. 3 
-ropionate (-) and fumarate (V) degradation and acetate (A) and succinate (A) formation by bacteria enriched with fumarate as substrate 
-owever, fumarate was fermented rapidly to acetate and succinate 
-ropionate, fumarate, and fumarate plus propionate were mainly converted to acetate by this methanogenic propionate-oxidizing culture, and methane was produced in the expected amounts (results not shown) 
-hen propionate and fumarate were both present, increased numbers of both species were found 
-his bacterium lacks an oxaloacetate decarboxylase, and therefore it can ferment fumarate only to succinate and acetate when propionate is present as a carboxyl acceptor 
+ropionate - and fumarate V degradation and acetate A and succinate A formation by bacteria enriched with fumarate as substrate 
+owever fumarate was fermented rapidly to acetate and succinate 
+ropionate fumarate and fumarate plus propionate were mainly converted to acetate by this methanogenic propionate-oxidizing culture and methane was produced in the expected amounts results not shown 
+hen propionate and fumarate were both present increased numbers of both species were found 
+his bacterium lacks an oxaloacetate decarboxylase and therefore it can ferment fumarate only to succinate and acetate when propionate is present as a carboxyl acceptor 
 e made use of this property to obtain a culture which was microscopically pure and completely free of methanogens 
-hus far, we did not succeed because the propionate-oxidizing bacteria failed to grow in solid media, and with serial dilutions in liquid media we were not able to get rid of a contaminating fermenting organism with characteristic morphology 
+hus far we did not succeed because the propionate-oxidizing bacteria failed to grow in solid media and with serial dilutions in liquid media we were not able to get rid of a contaminating fermenting organism with characteristic morphology 
 e were able to isolate this contaminant and could show that its metabolism does not interfere with the fumarate and propionate metabolism of the propionateoxidizing bacteria 
-ecause this substrate is degraded in syntrophy with hydrogenotrophic bacteria, detailed biochemical and physiological studies with these proton-reducing acetogens are not possible, the more so because attempts to grow syntrophic propionate-oxidizing bacteria in the absence of methanogens with artificial electron removal systems were not successful (16) 
-ur earlier findings (12) with a propionate-oxidizing culture enriched by Koch et al. (17) and results presented here with S. wolinii suggest that fumarate utilization is not common among syntrophic propionate-oxidizing bacteria 
-n the presence of fumarate, this thermophilic culture carboxylated propionate to succinate and oxidized fumarate to acetate in a fashion similar to the culture described here, but growth with fumarate alone or propionate oxidation coupled to fumarate reduction was not found (23) 
-., and M 
-ohnson, and Y 
+ecause this substrate is degraded in syntrophy with hydrogenotrophic bacteria detailed biochemical and physiological studies with these proton-reducing acetogens are not possible the more so because attempts to grow syntrophic propionate-oxidizing bacteria in the absence of methanogens with artificial electron removal systems were not successful 16 
+ur earlier findings 12 with a propionate-oxidizing culture enriched by Koch et al . 17 and results presented here with S. wolinii suggest that fumarate utilization is not common among syntrophic propionate-oxidizing bacteria 
+n the presence of fumarate this thermophilic culture carboxylated propionate to succinate and oxidized fumarate to acetate in a fashion similar to the culture described here but growth with fumarate alone or propionate oxidation coupled to fumarate reduction was not found 23 
+. and M 
+ohnson and Y 
 iffusion of the interspecies electron carriers H2 and formate in methanogenic ecosystems and its implications in the measurement of Km for H2 and formate uptake 
-., and L 
-ffects of pH, temperature, and nutrients on propionate degradation by a methanogenic enrichment culture 
-ehning, I., and B 
-rieg, and G 
-tams, and A 
+. and L 
+ffects of pH temperature and nutrients on propionate degradation by a methanogenic enrichment culture 
+ehning I. and B 
+rieg and G 
+tams and A 
 acteriological composition and structure of granular sludge adapted to different substrates 
-ujer, W., and A 
-utman, I., and A 
-. van der Heuvel, and C 
-yruvate and fumarate conversion by a methanogenic propionate-oxidizing coculture, p. 6270 
-rotenhuis, and L 
-ulshoff Pol (ed.), Granular anaerobic sludge: microbiology and technology 
-uhrmann, and A 
-mith, and A 
-ethanogenesis from propionate in sludge and enrichment systems, p. 99-119 
-ruschi, and J 
-ingens, and W 
+ujer W. and A 
+utman I. and A 
+. van der Heuvel and C 
+yruvate and fumarate conversion by a methanogenic propionate-oxidizing coculture p. 6270 
+rotenhuis and L 
+ulshoff Pol ed . , Granular anaerobic sludge microbiology and technology 
+uhrmann and A 
+mith and A 
+ethanogenesis from propionate in sludge and enrichment systems p. 99-119 
+ruschi and J 
+ingens and W 
 onversion of propionate to acetate and methane by syntrophic consortia 
-osner, B., and B 
-rjters, and J 
-ungermann, and K 
-., and J 
-Vol. 59, No. 4  APPLIED AND ENVIRONMENTAL MICROBIOLOGY, Apr. 1993, p. 1114-1119  0099-2240/93/041114-06$02.00/0 Copyright © 1993, American Society for Microbiology  Growth of Syntrophic Propionate-Oxidizing Bacteria with Fumarate in the Absence of Methanogenic Bacteria ALFONS J 
-LUGGE Department of Microbiology, Wageningen Agricultural University, Hesselink van Suchtelenweg 4, 6703 CT Wageningen, The Netherlands Received 2 October 1992/Accepted 28 January 1993  Oxidation of succinate to fumarate is an energetically difficult step in the biochemical pathway of propionate oxidation by syntrophic methanogenic cultures 
-herefore, the effect of fumarate on propionate oxidation by two different propionate-oxidizing cultures was investigated 
-hus far, Syntrophobacter wolinii is the only described propionate-oxidizing bacterium which was obtained in a defined coculture with a Desulfovibrio strain (2) 
-yntrophic propionate-oxidizing bacteria are highly specialized; propionate is thought to be the only substrate for this type of organism 
-he carboxylation of propionyl-CoA is coupled to the decarboxylation of oxaloacetate by means of a transcarboxylase (14, 15) 
+osner B. and B 
+rjters and J 
+ungermann and K 
+. and J 
+Vol . 59 No . 4 APPLIED AND ENVIRONMENTAL MICROBIOLOGY Apr . 1993 p. 1114-1119 0099-2240/93/041114-06 $ 02.00/0 Copyright © 1993 American Society for Microbiology Growth of Syntrophic Propionate-Oxidizing Bacteria with Fumarate in the Absence of Methanogenic Bacteria ALFONS J 
+LUGGE Department of Microbiology Wageningen Agricultural University Hesselink van Suchtelenweg 4 6703 CT Wageningen The Netherlands Received 2 October 1992/Accepted 28 January 1993 Oxidation of succinate to fumarate is an energetically difficult step in the biochemical pathway of propionate oxidation by syntrophic methanogenic cultures 
+herefore the effect of fumarate on propionate oxidation by two different propionate-oxidizing cultures was investigated 
+hus far Syntrophobacter wolinii is the only described propionate-oxidizing bacterium which was obtained in a defined coculture with a Desulfovibrio strain 2 
+yntrophic propionate-oxidizing bacteria are highly specialized propionate is thought to be the only substrate for this type of organism 
+he carboxylation of propionyl-CoA is coupled to the decarboxylation of oxaloacetate by means of a transcarboxylase 14 15 
 esearch was started to investigate the effect of fumarate on propionate oxidation by syntrophic cultures 
- newly enriched propionate-oxidizing methanogenic culture originating from the work of Jan Dolfing at our department (7) is described herein 
-eaction steps involved in propionate oxidation via the methylmalonyl-CoA pathwaya Propionate oxidation via the methylmalonyl-CoA pathway  AGO'  AG"'  Overall reaction, propionate- + 3H20 -+ acetate- + HCO3 + 3H2  +76.1  -10.9  +20.5 +86.2 -3.7 +47.7 -27.2 -47.3  +20.5 +57.2  Reaction step Propionate- + HC03-  - succinate2 + H20 Succinate2- fumarate2- + H2 Fumarate2- + H20 -* malate2Malate2- - oxaloacetate2- + H2 Oxaloacetate2- + H20 -. pyruvate- + HCO3- + H+  Pyruvate- + 2H20  -*  acetate- +  HCO3-  + H+ +  H2  -3.7 +18.7 -27.2 -76.3  a Standard Gibbs free energy changes were obtained or calculated from the data of Thauer et al. (24) 
+newly enriched propionate-oxidizing methanogenic culture originating from the work of Jan Dolfing at our department 7 is described herein 
+eaction steps involved in propionate oxidation via the methylmalonyl-CoA pathwaya Propionate oxidation via the methylmalonyl-CoA pathway AGO ' AG '' ' Overall reaction propionate- + 3H20 -+ acetate- + HCO3 + 3H2 +76.1 -10.9 +20.5 +86.2 -3.7 +47.7 -27.2 -47.3 +20.5 +57.2 Reaction step Propionate- + HC03- succinate2 + H20 Succinate2- fumarate2- + H2 Fumarate2- + H20 -* malate2Malate2- oxaloacetate2- + H2 Oxaloacetate2- + H20 . pyruvate- + HCO3- + H+ Pyruvate- + 2H20 -* acetate- + HCO3- + H+ + H2 -3.7 +18.7 -27.2 -76.3 a Standard Gibbs free energy changes were obtained or calculated from the data of Thauer et al . 24 
 rowth rates were estimated by monitoring the optical density at 600 nm or product formation of duplicate bottles 
 he temperature of the column was maintained at 160 or 180°C 
 O2 levels were measured by GC in a fashion similar to that used for the other gases 
-n experiments to demonstrate involvement of the methylmalonyl-CoA pathway, media contained 20 mM [3-13Cjpropionate or 10 mM [2,3-13C]propionate plus 10 mM unlabeled propionate 
-he propionate-oxidizing culture originated from the research of Dolfing (7) 
-hereafter, it had been stored for about 2 years at room temperature in the dark before subculturing was continued in 1987 
-owever, it was unable to grow on propionate, succinate, malate, or fumarate, neither in the absence nor in the presence of M. hungatii JF-1 (DSM 864) 
-t is possible that the coccoid bacterium is maintained in the propionate-oxidizing culture by growth on cell lysis prod-  APPL 
+n experiments to demonstrate involvement of the methylmalonyl-CoA pathway media contained 20 mM 3-13Cjpropionate or 10 mM 2,3-13C propionate plus 10 mM unlabeled propionate 
+he propionate-oxidizing culture originated from the research of Dolfing 7 
+hereafter it had been stored for about 2 years at room temperature in the dark before subculturing was continued in 1987 
+owever it was unable to grow on propionate succinate malate or fumarate neither in the absence nor in the presence of M. hungatii JF-1 DSM 864 
+t is possible that the coccoid bacterium is maintained in the propionate-oxidizing culture by growth on cell lysis prod- APPL 
 ffect of L-malate on propionate oxidation by the newly enriched syntrophic culture 
--Malate was added to the culture at day 9.  ucts 
-emarkably, the Methanospirillum sp. did not require bioTrypticase during syntrophic growth with propionate-oxidizing bacteria, which suggests the occurrence of cross-feeding 
-n addition, [2,313Cjpropionate in the presence of unlabelled propionate was solely converted to [1,2-13CJacetate (results not shown) 
-hen DL-malate was added, only the L-isomer was consumed 
-ll of the observations presented below were obtained with fumarate, but similar results were also obtained with L-malate 
+-Malate was added to the culture at day 9. ucts 
+emarkably the Methanospirillum sp . did not require bioTrypticase during syntrophic growth with propionate-oxidizing bacteria which suggests the occurrence of cross-feeding 
+n addition 2,313Cjpropionate in the presence of unlabelled propionate was solely converted to [ 1,2-13CJacetate results not shown 
+hen DL-malate was added only the L-isomer was consumed 
+ll of the observations presented below were obtained with fumarate but similar results were also obtained with L-malate 
 hese two compounds were interconverted to some extent in the culture 
-his shows that the methanogens do not shift their metabo-  lism from methane formation to fumarate reduction when methanogenesis is inhibited in the propionate-oxidizing culture 
-owever, when fumarate is present in BrES-inhibited cultures, label originating from propionate was mainly recovered in succinate, while no label in acetate above the natural occurring background level of 1.1% was recovered (Fig. 2A) 
+his shows that the methanogens do not shift their metabo- lism from methane formation to fumarate reduction when methanogenesis is inhibited in the propionate-oxidizing culture 
+owever when fumarate is present in BrES-inhibited cultures label originating from propionate was mainly recovered in succinate while no label in acetate above the natural occurring background level of 1.1 % was recovered Fig . 2A 
 his shows that the acetate must have been formed from the unlabeled fumarate 
-umarate in the A  (23-13t) succinate  a-  (2-130 acetate  B  A(3-13C) propionate  /-  a,  (2- 13Cl) propionate  J  10 0 20 Chemical shift (ppm) FIG. 2 
+umarate in the A 23-13t succinate a- 2-130 acetate B A 3-13C propionate /- a 2- 13Cl propionate J 10 0 20 Chemical shift ( ppm FIG . 2 
 he bacteria growing on fumarate resembled the propionate-oxidizing bacteria in the propionate-degrading culture 
-owever, the average size was somewhat larger (1.3 to 1.8 by 1.8 to 3.8 pm) 
+owever the average size was somewhat larger 1.3 to 1.8 by 1.8 to 3.8 pm 
 he coccoid contaminant remained present in the culture in very low numbers 
-ater experiments showed that the lag phase could be shortened considerably by adding 0.1 mM dithionite to the media, suggesting that a low redox potential is beneficial for growth 
-rowth on fumarate was relatively slow; the estimated maximum specific growth rate was about 0.20 day-' 
-he culture, which was enriched with fumarate, was unable to degrade propionate in the absence of fumarate 
-n these experiments, it was confirmed that the methanogen alone was not able to degrade propionate 
-hese attempts were not successful, because the bacteria failed to form colonies 
-ddition of yeast extract (0.1%) to the media led to colonies of the contaminant only 
-n both cultures, Desulfovibrio strain Gll was present either as the hydrogenotroph (sulfidogenic culture) or as a contaminant (methanogenic culture) 
-ike in the original description of S. wolinii, we were unable to get a defined coculture of the proton-reducing acetogen with M. hungatu (2) 
+ater experiments showed that the lag phase could be shortened considerably by adding 0.1 mM dithionite to the media suggesting that a low redox potential is beneficial for growth 
+rowth on fumarate was relatively slow the estimated maximum specific growth rate was about 0.20 day- ' 
+he culture which was enriched with fumarate was unable to degrade propionate in the absence of fumarate 
+n these experiments it was confirmed that the methanogen alone was not able to degrade propionate 
+hese attempts were not successful because the bacteria failed to form colonies 
+ddition of yeast extract 0.1 % to the media led to colonies of the contaminant only 
+n both cultures Desulfovibrio strain Gll was present either as the hydrogenotroph sulfidogenic culture or as a contaminant methanogenic culture 
+ike in the original description of S. wolinii we were unable to get a defined coculture of the proton-reducing acetogen with M. hungatu 2 
 he sulfidogenic coculture was unable to degrade propionate in the presence of fumarate in sulfate-free media 
-n the methanogenic propionate-oxidizing culture, the Desulfovibrio sp. was present only in low cell numbers (about 1%) 
+n the methanogenic propionate-oxidizing culture the Desulfovibrio sp . was present only in low cell numbers about 1 % 
 his indicates that the two substrates were both degraded to acetate via interspecies electron transfer 
-he Desulfovibrio .sp. was enriched in the media with fumarate as the substrate, whereas the numbers of S. wolinii increased with propionate as the substrate 
-ecause of the fast growth of the Desulfovibrio sp. on fumarate, a possible slow conversion of fumarate by S. wolinu could not be assessed 
-arboxylation of propionate to succinate is an energy-requiring reaction; the AG"' is +20.5 kJ/mol 
-his propionigenic bacterium contains a propionyl-CoA-oxaloacetate transcarboxylase, an enzyme which drives the endergonic carboxylation of propionyl-CoA to methylmalonyl-CoA by the exergonic decarboxylation of oxaloacetate to pyruvate 
+he Desulfovibrio .sp . was enriched in the media with fumarate as the substrate whereas the numbers of S. wolinii increased with propionate as the substrate 
+ecause of the fast growth of the Desulfovibrio sp . on fumarate a possible slow conversion of fumarate by S. wolinu could not be assessed 
+arboxylation of propionate to succinate is an energy-requiring reaction the AG '' ' is +20.5 kJ/mol 
+his propionigenic bacterium contains a propionyl-CoA-oxaloacetate transcarboxylase an enzyme which drives the endergonic carboxylation of propionyl-CoA to methylmalonyl-CoA by the exergonic decarboxylation of oxaloacetate to pyruvate 
 rowth of the propionate-oxidizing culture on fumarate alone was rather unexpected 
-n addition, the culture oxidized propionate to acetate in the presence of M. hungatii JF-1 (DSM 864), an organism which is unable to metabolize propionate 
+n addition the culture oxidized propionate to acetate in the presence of M. hungatii JF-1 DSM 864 , an organism which is unable to metabolize propionate 
 he fact that only one morphological type of bacterium was present under either growth condition may indicate that the syntrophic propionate-oxidizing bacteria are involved in all of these reactions 
 CKNOWLEDGMENTS This research was made possible by a grant from the Netherlands Royal Academy of Science 
 nzymatic evidence for involvement of the methylmalonyl-CoA pathway in propionate oxidation by Syntrophobacter wolinii 
 n H 
-ICROBIOL.  STAMS ET AL.  1116  TABLE 2 
+few syntrophic propionate-oxidizing cultures have been described 2 4 17 19-21 
+ICROBIOL . STAMS ET AL . 1116 TABLE 2 
 able 2 shows that in presence of fumarate less methane was produced per amount of propionate which had been oxidized 
-icrobiol. 43:57-64. 2 
-t might be advantageous for syntrophic propionate-oxidizing bacteria to omit succinate oxidation when *  fumarate is present 
-ropionate would then be converted to succinate, while fumarate is oxidized to acetate 
-n BrES-inhibited propionate-oxidizing cultures [3-13Cjpropionate is randomized to some extent to [2-13CJpropionate, while no net degradation of propionate occurred (Fig. 2B) 
-hus, propionate is not oxidized to acetate but is solely carboxylated to succinate 
-herefore, this conversion is possible only if it is coupled to another energy-yielding reaction 
-owever, direct evidence for this is possible only after a pure culture has been obtained 
+icrobiol . 43:57-64 . 2 
+t might be advantageous for syntrophic propionate-oxidizing bacteria to omit succinate oxidation when fumarate is present 
+ropionate would then be converted to succinate while fumarate is oxidized to acetate 
+n BrES-inhibited propionate-oxidizing cultures 3-13Cjpropionate is randomized to some extent to 2-13CJpropionate while no net degradation of propionate occurred Fig . 2B 
+hus propionate is not oxidized to acetate but is solely carboxylated to succinate 
+herefore this conversion is possible only if it is coupled to another energy-yielding reaction 
+owever direct evidence for this is possible only after a pure culture has been obtained 
 t remains to be studied in detail whether fumarate utilization by propionate-oxidizing bacteria is restricted to a few species of syntrophic propionate-oxidizing bacteria 
 he mobile phase was 0.01 N H2SO4 at a flow rate of 0.6 ml/min 
 ropionate was metabolized by these bacteria when either fumarate or Methanospirillum hungatii was added 
 his bacterium was also able to grow on glucose or pyruvate 
-hen a small inoculum (1% or less) was used, cultures had a long lag phase before growth started 
-e tried to isolate fumarate-degrading bacteria with fumarate (20 mM) or with fumarate (40 mM) plus propionate (20 mM) in agar media in roll tubes or in agar shake cultures 
+hen a small inoculum 1 % or less was used cultures had a long lag phase before growth started 
+e tried to isolate fumarate-degrading bacteria with fumarate 20 mM or with fumarate 40 mM plus propionate 20 mM in agar media in roll tubes or in agar shake cultures 
+ISCUSSION Three important observations were made when fumarate or malate was added to a newly enriched syntrophic 1118 APPL 
 nrichment of thermophilic propionate-oxidizing bacteria in syntrophy with Methanobacteium thermoautotrophicum or Methanobactenum thermoformicicum 
-nder these conditions, growth was slower than with fumarate alone 
-hus far, proton-reducing propionate-oxidizing bacteria were thought to use only propionate for growth 
-ostilow, E 
+nder these conditions growth was slower than with fumarate alone 
+hus far proton-reducing propionate-oxidizing bacteria were thought to use only propionate for growth 
+ostilow E 

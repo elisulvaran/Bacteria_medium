@@ -1,117 +1,119 @@
-ositive for hydrolysis of starch and aesculin, production of catalase and coagulation of milk but negative for decomposition of cellulose, hydrolysis of Tween 80 and urea, liquefaction of gelatin, production of H2S and reduction of nitrate 
-he isomers of diaminopimelic acid (DAP) in the whole cell hydrolysates were derivatised according to McKerrow et al. (2000) and analysed by a HPLC method using an Agilent TC-C18 Column (250 9 4.6 mm i.d. 5 lm) with a mobile phase consisting of acetonitrile: 0.05 mol l-1 phosphate buffer pH 7.2 (15:85, v/v) at a flow rate of 0.5 ml min-1 
+he utilisation of sole carbon and nitrogen sources decomposition of cellulose hydrolysis of starch and aesculin reduction of nitrate peptonization and coagulation of milk liquefaction of gelatin and production of H2S were examined as described previously Gordon et al . 1974 Yokota et al . 1993 . Isolation and maintenance of the organism Chemotaxonomic characterization Strain NEAU-TX1-15T was isolated from moss collected from Wuchang Heilongjiang province north China 44°150 N 127°540 E 
+ositive for hydrolysis of starch and aesculin production of catalase and coagulation of milk but negative for decomposition of cellulose hydrolysis of Tween 80 and urea liquefaction of gelatin production of H2S and reduction of nitrate 
+he isomers of diaminopimelic acid DAP in the whole cell hydrolysates were derivatised according to McKerrow et al . 2000 and analysed by a HPLC method using an Agilent TC-C18 Column 250 9 4.6 mm i.d . 5 lm with a mobile phase consisting of acetonitrile 0.05 mol l-1 phosphate buffer pH 7.2 15:85 v/v at a flow rate of 0.5 ml min-1 
 he cell wall peptidoglycan was found to contain lysine and meso-diaminopimelic acid 
 he major fatty acid was identified as iso-C16:0 
-he genus is characterised chemotaxonomically by the presence of meso-diaminopimelic acid and lysine in the cell wall, madurose as diagnostic sugar in the whole cell hydrolysates, phosphatidylglycerol and diphosphatidylglycerol as diagnostic phospholipids, and MK-9(H6) and MK-9(H8) as major menaquinones (Tamura et al. 2009; Thamchaipenet et al. 2010; Indananda et al. 2011) 
-he plant sample was processed as described by Wang et al. (2013) and placed on a plate of humic acid-vitamin agar (Hayakawa and Nonomura 1987) supplemented with cycloheximide (50 mg l-1) and nalidixic acid (20 mg l-1) 
-ycolic acids were checked by the acid methanolysis method as described previously (Minnikin et al. 1980) 
-o determine cellular fatty acid composition, strain NEAU-TX1-15T was cultivated in ISP 2 medium in shake flasks at 28 °C for 21 days 
-atty acid methyl esters were extracted from the biomass as described by Gao et al. (2014) and analysed by GC–MS using the method of Xiang et al. (2011) 
-etailed physiological characteristics are presented in the species description.  123  456  Antonie van Leeuwenhoek (2015) 108:453–459  Fig. 1 Scanning electron micrograph of strain NEAU-TX1-15T grown on ISP 3 agar for 5 weeks at 28 °C; bar 1 lm  The cell wall of strain NEAU-TX1-15T was found to contain lysine and meso-diaminopimelic acid as the diamino acids of peptidoglycan 
+he genus is characterised chemotaxonomically by the presence of meso-diaminopimelic acid and lysine in the cell wall madurose as diagnostic sugar in the whole cell hydrolysates phosphatidylglycerol and diphosphatidylglycerol as diagnostic phospholipids and MK-9 H6 and MK-9 H8 as major menaquinones Tamura et al . 2009 Thamchaipenet et al . 2010 Indananda et al . 2011 
+he plant sample was processed as described by Wang et al . 2013 and placed on a plate of humic acid-vitamin agar Hayakawa and Nonomura 1987 supplemented with cycloheximide 50 mg l-1 and nalidixic acid 20 mg l-1 
+ycolic acids were checked by the acid methanolysis method as described previously Minnikin et al . 1980 
+o determine cellular fatty acid composition strain NEAU-TX1-15T was cultivated in ISP 2 medium in shake flasks at 28 °C for 21 days 
+atty acid methyl esters were extracted from the biomass as described by Gao et al . 2014 and analysed by GC–MS using the method of Xiang et al . 2011 
+etailed physiological characteristics are presented in the species description . 123 456 Antonie van Leeuwenhoek 2015 108:453–459 Fig . 1 Scanning electron micrograph of strain NEAU-TX1-15T grown on ISP 3 agar for 5 weeks at 28 °C bar 1 lm The cell wall of strain NEAU-TX1-15T was found to contain lysine and meso-diaminopimelic acid as the diamino acids of peptidoglycan 
 he acyl type of the muramic acid was determined to be Nacetyl 
+-Alanine L-arginine Lglutamine proline L-serine L-threonine are utilised as sole nitrogen sources but L-asparagine L-aspartic acid creatine L-glutamic acid glycine and L-tyrosine are not 
 he diagnostic amino acids of the cell wall are lysine and meso-diaminopimelic acid 
 he acyl type of the muramic acid is N-acetyl 
-nt J Syst Evol Microbiol 62:295–298 McKerrow J, Vagg S, McKinney T, Seviour EM, Maszenan AM, Brooks P, Se-viour RJ (2000) A simple HPLC method for analysing diaminopimelic acid diastereomers in cell walls of Gram-positive bacteria 
+nt J Syst Evol Microbiol 62:295–298 McKerrow J Vagg S McKinney T Seviour EM Maszenan AM Brooks P Se-viour RJ 2000 A simple HPLC method for analysing diaminopimelic acid diastereomers in cell walls of Gram-positive bacteria 
 orphological and chemotaxonomic properties of strain NEAU-TX1-15T are consistent with the description of the genus Actinoallomurus 
-he major menaquinones were identified as MK-9(H6) and MK-9(H8) 
-oreover, strain NEAU-TX1-15T could also be differentiated from A. yoronensis NBRC 103686T and other Actinoallomurus species showing high 16S rRNA gene sequence similarity ([98.0 %) by cultural and physiological characteristics 
-herefore, the combination of phenotypic and chemotaxonomic data, and the DNA–DNA hybridization value, indicated that strain NEAU-TX1-15T represents a novel species of the genus Actinoallomurus for which the name Actinoallomurus bryophytorum sp. nov. is proposed 
-iang State Key Laboratory for Biology of Plant Diseases and Insect Pests, Institute of Plant Protection, Chinese Academy of Agricultural Sciences, Beijing, People’s Republic of China  The genus Actinoallomurus was first proposed by Tamura et al. (2009), with Actinoallomurus spadix designated as the type species of the genus 
-s part of a programme to research the diversity of endophytic actinomycetes in moss and to discover novel actinomycetes, an aerobic actinomycete, strain NEAU-TX1-15T, was isolated 
-n this study, we performed polyphasic taxonomy on this strain, and propose that strain NEAU-TX1-15T represents a new species of the genus Actinoallomurus, named Actinoallomurus bryophytorum sp. nov.  Materials and methods  Antonie van Leeuwenhoek (2015) 108:453–459  3 agar at 28 °C for 5 weeks 
-ultural characteristics were determined after 3 weeks at 28 °C using International Streptomyces Project (ISP) media 2–7 (Shirling and Gottlieb 1966), oatmeal-nitrate agar (JCM medium 52) and 1/10 yeast extract-starch (YS) agar (NBRC medium No.1053) 
-he colours of colonies and soluble pigment were determined using the ISCCNBS colour charts standard samples No 2106 (Kelly 1964) 
-rowth at different temperatures (4, 10, 15, 20, 28, 37, 40 and 45 °C) was determined on ISP 3 medium after incubation for 21 days 
-he pH range for growth (pH 4–12, at intervals of 1 pH units) was tested in ISP 2 broth using the buffer system described by Xu et al. (2005), and NaCl tolerance was determined in ISP 2 broth supplemented with 1–7 % NaCl (w/v) at 28 °C for 21 days on a rotary shaker 
-roduction of catalase, esterase and urease were tested as described by Smibert and Krieg (1994) 
-he utilisation of sole carbon and nitrogen sources, decomposition of cellulose, hydrolysis of starch and aesculin, reduction of nitrate, peptonization and coagulation of milk, liquefaction of gelatin and production of H2S were examined as described previously (Gordon et al. 1974; Yokota et al. 1993).  Isolation and maintenance of the organism Chemotaxonomic characterization Strain NEAU-TX1-15T was isolated from moss collected from Wuchang, Heilongjiang province, north China (44°150 N, 127°540 E) 
-fter 14 days of aerobic incubation at 28 °C, colonies were transferred and purified on International Streptomyces Project (ISP) 3 medium (Shirling and Gottlieb 1966) and maintained as glycerol suspensions (20 %, v/v) at -80 °C 
-he type strain of Actinoallomurus yoronensis was purchased from NITE Biological Resource Center (NBRC) and cultured under the same conditions for comparative analysis 
-orphological, cultural and physiological characteristics Morphology properties were observed by light microscopy (Nikon ECLIPSE E200) and electron microscopy (Hitachi S-3400N) using cultures grown on ISP  123  Biomass for chemical studies was prepared by growing the strain in ISP 2 broth in Erlenmeyer flasks at 28 °C for 21 days 
-ells were harvested by centrifugation, washed with distilled water and freeze-dried 
+he major menaquinones were identified as MK-9 H6 and MK-9 H8 
+oreover strain NEAU-TX1-15T could also be differentiated from A. yoronensis NBRC 103686T and other Actinoallomurus species showing high 16S rRNA gene sequence similarity [ 98.0 % by cultural and physiological characteristics 
+herefore the combination of phenotypic and chemotaxonomic data and the DNA–DNA hybridization value indicated that strain NEAU-TX1-15T represents a novel species of the genus Actinoallomurus for which the name Actinoallomurus bryophytorum sp . nov. is proposed 
+iang State Key Laboratory for Biology of Plant Diseases and Insect Pests Institute of Plant Protection Chinese Academy of Agricultural Sciences Beijing People ’ s Republic of China The genus Actinoallomurus was first proposed by Tamura et al . 2009 , with Actinoallomurus spadix designated as the type species of the genus 
+s part of a programme to research the diversity of endophytic actinomycetes in moss and to discover novel actinomycetes an aerobic actinomycete strain NEAU-TX1-15T was isolated 
+n this study we performed polyphasic taxonomy on this strain and propose that strain NEAU-TX1-15T represents a new species of the genus Actinoallomurus named Actinoallomurus bryophytorum sp . nov. Materials and methods Antonie van Leeuwenhoek 2015 108:453–459 3 agar at 28 °C for 5 weeks 
+ultural characteristics were determined after 3 weeks at 28 °C using International Streptomyces Project ISP media 2–7 Shirling and Gottlieb 1966 , oatmeal-nitrate agar JCM medium 52 and 1/10 yeast extract-starch YS agar NBRC medium No.1053 
+he colours of colonies and soluble pigment were determined using the ISCCNBS colour charts standard samples No 2106 Kelly 1964 
+rowth at different temperatures 4 10 15 20 28 37 40 and 45 °C was determined on ISP 3 medium after incubation for 21 days 
+he pH range for growth pH 4–12 at intervals of 1 pH units was tested in ISP 2 broth using the buffer system described by Xu et al . 2005 , and NaCl tolerance was determined in ISP 2 broth supplemented with 1–7 % NaCl w/v at 28 °C for 21 days on a rotary shaker 
+roduction of catalase esterase and urease were tested as described by Smibert and Krieg 1994 
+fter 14 days of aerobic incubation at 28 °C colonies were transferred and purified on International Streptomyces Project ISP 3 medium Shirling and Gottlieb 1966 and maintained as glycerol suspensions 20 % v/v at -80 °C 
+he type strain of Actinoallomurus yoronensis was purchased from NITE Biological Resource Center NBRC and cultured under the same conditions for comparative analysis 
+orphological cultural and physiological characteristics Morphology properties were observed by light microscopy Nikon ECLIPSE E200 and electron microscopy Hitachi S-3400N using cultures grown on ISP 123 Biomass for chemical studies was prepared by growing the strain in ISP 2 broth in Erlenmeyer flasks at 28 °C for 21 days 
+ells were harvested by centrifugation washed with distilled water and freeze-dried 
 n Agilent G1321A fluorescence detector was used for peak detection with a 365 nm excitation and 455 nm longpass emission filters 
-he whole cell sugars were analysed according to the procedures developed by Lechevalier and Lechevalier (1980) 
-he acyl type of muramic acids in the cell wall was analysed by using the method of Uchida and Aida (1984) 
-he phospholipids were examined by two-dimensional TLC and identified using the method of Minnikin et al. (1984) 
-enaquinones were extracted from freeze-dried biomass and purified according to Collins (1985).  Antonie van Leeuwenhoek (2015) 108:453–459  Extracts were analysed by a HPLC–UV method using an Agilent Extend-C18 Column (150 9 4.6 mm, i.d. 5 lm), typically at 270 nm 
-he mobile phase was acetonitrile: iso-propyl alcohol (60:40, v/v) and the flow rate was set to 1.0 ml min-1 and the run time was 60 min 
-he injection volume was 20 ll, and the chromatographic column was controlled at 40 °C (Wu et al. 1989) 
-NA preparation, amplification and determination of 16S rRNA gene sequence Extraction of chromosomal DNA and PCR amplification of the 16S rRNA gene sequence were carried out using a standard procedure (Kim et al. 2000) 
-he PCR product was purified and cloned into the vector pMD19-T (Takara) and sequenced by using an Applied Biosystems DNA sequencer (model 3730XL) 
-he EzTaxon server (Kim et al. 2012) was employed to identify the phylogenetic neighbours and calculate the pairwise 16S rRNA gene sequence similarities 
-hylogenetic trees were generated with the neighbourjoining (Saitou and Nei 1987) and maximum-likelihood (Felsenstein 1981) algorithms using molecular evolutionary genetics analysis (MEGA) software version 5.05 (Tamura et al. 2011) 
-ll positions containing gaps and missing data were eliminated from the dataset (complete deletion option) 
-NA base composition and DNA–DNA hybridization The G?C content of the genomic DNA was determined by the thermal denaturation method as  455  described by Mandel and Marmur (1968), and Escherichia coli JM109 was used as the reference strain 
-NA–DNA relatedness test between strain NEAU-TX1-15T and A. yoronensis NBRC 103686T was carried out as described by De Ley et al. (1970) under consideration of the modifications described by Huss et al. (1983), using a model Cary 100 Bio UV/ Vis-spectrophotometer equipped with a Peltier-thermostatted 6 9 6 multicell changer and a temperature controller with in situ temperature probe (Varian) 
-he concentration and purity of DNA samples were determined by measuring the optical density at 260, 280 and 230 nm 
-he experiments were performed with three replications and the DNA–DNA relatedness values were expressed as mean of the three values.  Results and discussion The morphological characteristics of strain NEAUTX1-15T are consistent with those of members of the genus Actinoallomurus 
+he whole cell sugars were analysed according to the procedures developed by Lechevalier and Lechevalier 1980 
+he acyl type of muramic acids in the cell wall was analysed by using the method of Uchida and Aida 1984 
+he phospholipids were examined by two-dimensional TLC and identified using the method of Minnikin et al . 1984 
+enaquinones were extracted from freeze-dried biomass and purified according to Collins 1985 . Antonie van Leeuwenhoek 2015 108:453–459 Extracts were analysed by a HPLC–UV method using an Agilent Extend-C18 Column 150 9 4.6 mm i.d . 5 lm , typically at 270 nm 
+he mobile phase was acetonitrile iso-propyl alcohol 60:40 v/v and the flow rate was set to 1.0 ml min-1 and the run time was 60 min 
+he injection volume was 20 ll and the chromatographic column was controlled at 40 °C Wu et al . 1989 
+NA preparation amplification and determination of 16S rRNA gene sequence Extraction of chromosomal DNA and PCR amplification of the 16S rRNA gene sequence were carried out using a standard procedure Kim et al . 2000 
+he PCR product was purified and cloned into the vector pMD19-T Takara and sequenced by using an Applied Biosystems DNA sequencer model 3730XL 
+he EzTaxon server Kim et al . 2012 was employed to identify the phylogenetic neighbours and calculate the pairwise 16S rRNA gene sequence similarities 
+hylogenetic trees were generated with the neighbourjoining Saitou and Nei 1987 and maximum-likelihood Felsenstein 1981 algorithms using molecular evolutionary genetics analysis MEGA software version 5.05 Tamura et al . 2011 
+ll positions containing gaps and missing data were eliminated from the dataset complete deletion option 
+NA base composition and DNA–DNA hybridization The G C content of the genomic DNA was determined by the thermal denaturation method as 455 described by Mandel and Marmur 1968 , and Escherichia coli JM109 was used as the reference strain 
+NA–DNA relatedness test between strain NEAU-TX1-15T and A. yoronensis NBRC 103686T was carried out as described by De Ley et al . 1970 under consideration of the modifications described by Huss et al . 1983 , using a model Cary 100 Bio UV/ Vis-spectrophotometer equipped with a Peltier-thermostatted 6 9 6 multicell changer and a temperature controller with in situ temperature probe Varian 
+he concentration and purity of DNA samples were determined by measuring the optical density at 260 280 and 230 nm 
+he experiments were performed with three replications and the DNA–DNA relatedness values were expressed as mean of the three values . Results and discussion The morphological characteristics of strain NEAUTX1-15T are consistent with those of members of the genus Actinoallomurus 
 train NEAU-TX1-15T was observed to produce branched and non-fragmented well-developed substrate mycelium 
-ood growth was observed on ISP 3 and oatmeal-nitrate agar; moderate growth on ISP 2, ISP 5 and ISP 7 agar; no growth on ISP 4, ISP 6 agar and 1/10 yeast extract-starch (YS) agar 
+ood growth was observed on ISP 3 and oatmeal-nitrate agar moderate growth on ISP 2 ISP 5 and ISP 7 agar no growth on ISP 4 ISP 6 agar and 1/10 yeast extract-starch YS agar 
 parce whitish aerial mycelium was found to be present on ISP 3 and oatmeal-nitrate agar 
-he growth of strain NEAU-TX1-15T was observed at 20–37 °C (optimum 28 °C), pH ranges 6–8 (optimum pH 7) and in the presence of 0–1 % NaCl (w/v) 
+he growth of strain NEAU-TX1-15T was observed at 20–37 °C optimum 28 °C , pH ranges 6–8 optimum pH 7 and in the presence of 0–1 % NaCl w/v 
 hole cell hydrolysate was found to contain galactose and madurose 
-train NEAU-TX1-15T was found to contain MK-9(H6) (53.4 %) and MK-9(H8) (40.2 %) as major menaquinones, along with a small amount of MK9(H2) (6.5 %) 
-he major fatty acids were identified as iso-C16:0 (32.8 %), C17:1x7c (14.2 %) and anteisoC17:0 (10.5 %) (Supplementary Table S2) 
-he almost-complete 16S rRNA gene sequence (1508 nt) of strain NEAU-TX1-15T was determined and deposited as KJ425409 in the GenBank/EMBL/ DDBJ databases 
-ased on analysis using EzTaxon-e, strain NEAU-TX1-15T was affiliated to the genus Actinoallomurus and to be closely related to A. yoronensis NBRC 103686T (99.2 %); lower sequence similarities (\99.0 %) were found with the type strains of all other members of the genus Actinoallomurus with validly published names 
-he phylogenetic tree based on 16S rRNA gene sequences showed that strain NEAU-TX1-15T formed a distinct branch with its closest neighbour A. yoronensis NBRC 103686T, supported by a bootstrap value of 96 % in the neighbour-joining tree (Fig. 2) and also recovered with the maximum-likelihood algorithm (Supplementary Fig 
-owever, DNA–DNA relatedness between strain NEAU-TX1-15T and A. yoronensis NBRC 103686T revealed a value of 47.2 ± 0.4 %  123  (mean value of three hybridizations), which is well below the 70 % considered to be the threshold for assigning strains to the same prokaryotic species (Wayne et al. 1987) 
+train NEAU-TX1-15T was found to contain MK-9 H6 53.4 % and MK-9 H8 ( 40.2 % as major menaquinones along with a small amount of MK9 ( H2 ( 6.5 % 
+he major fatty acids were identified as iso-C16:0 32.8 % , C17:1x7c 14.2 % and anteisoC17:0 10.5 % ( Supplementary Table S2 
+he almost-complete 16S rRNA gene sequence 1508 nt of strain NEAU-TX1-15T was determined and deposited as KJ425409 in the GenBank/EMBL/ DDBJ databases 
+ased on analysis using EzTaxon-e strain NEAU-TX1-15T was affiliated to the genus Actinoallomurus and to be closely related to A. yoronensis NBRC 103686T 99.2 % ; lower sequence similarities \99.0 % were found with the type strains of all other members of the genus Actinoallomurus with validly published names 
+he phylogenetic tree based on 16S rRNA gene sequences showed that strain NEAU-TX1-15T formed a distinct branch with its closest neighbour A. yoronensis NBRC 103686T supported by a bootstrap value of 96 % in the neighbour-joining tree Fig . 2 and also recovered with the maximum-likelihood algorithm Supplementary Fig 
+owever DNA–DNA relatedness between strain NEAU-TX1-15T and A. yoronensis NBRC 103686T revealed a value of 47.2 ± 0.4 % 123 mean value of three hybridizations , which is well below the 70 % considered to be the threshold for assigning strains to the same prokaryotic species Wayne et al . 1987 
 omparison of cultural and physiological characteristics between strain NEAUTX1-15T and A. yoronensis NBRC 103686T were performed to differentiate them 
-ifferential characteristics include their clearly different colony colours after growth on ISP 3 and ISP 7 agar at 28 °C for 21 days (Supplementary Fig 
-3), pH and temperature ranges of growth, liquefaction of gelatin, decomposition of urea and patterns of carbon and nitrogen utilisation (Table 1) 
-n addition, a comparative study between strain NEAU-TX1-15T and closely related type strains of the genus Actinoallomurus ([98.0 %) revealed that it differed from them in physiological and biochemical characteristics as summarised in Table 1 
-n conclusion, it is evident from the genotypic and phenotypic data that strain NEAU-TX1-15T represents a novel species of the genus Actinoallomurus, for which the name Actinoallomurus bryophytorum sp. nov. is proposed.  Description of Actinoallomurus bryophytorum sp. nov 
-erobic, Gram-stain positive actinomycete that produces a branched and non-fragmented well-developed substrate mycelium and forms short hooked or  Antonie van Leeuwenhoek (2015) 108:453–459  457  Fig. 2 Neighbour-joining tree based on 16S rRNA gene sequences (1306 nt) showing relationships between strain NEAU-TX1-15T and members of the genus Actinoallomurus 
-ar 0.005 nucleotide substitutions per site  Table 1 Comparison of physiological characteristics of strain NEAU-TX1-15T and closely related Actinoallomurus strains Characteristics  1  2  3a  4a  5a  6b  7a  8a  9c  10d  Growth temperature range (°C)  20–37  15–37  20–37  20–37  20–37  12–41  20–37  20–37  21–45  12–36  pH range for growth  6–8  5–6  5–6  5–7  5–7  5–8  5–7  5–6  5–9  5–7  Tolerance of NaCl (%)  1  1  3  2  2  3  3  2  4  1  Hydrolysis of starch  ?  ?  ?  ?  -  W  ?  ?  -  -  Liquefaction of gelatin  -  ?  ?  ?  ?  -  ?  ?  W  ?  Decomposition of urea  -  ?  -  -  -  ?  ?  -  ND  -  L-arabinose  -  -  ?  ?  -  -  ?  ?  -  -  Inositol  ?  -  -  ?  -  ?  ?  ?  ?  -  Lactose  ?  -  ?  ?  -  -  ?  ?  ?  ND  D-mannitol  -  ?  ?  -  ?  -  ?  ?  -  ?  Utilization of:  All of the other recorded properties were acquired in the present study Strains 1 NEAU-TX1-15T, 2 A. yoronensis NBRC 103686T, 3 A. amamiensis TT00-28T, 4 A. fulvus TT99-66T, 5 A. caesius A3015T, 6 A. acaciae GMKU 931T, 7 A. coprocola TT04-09T, 8 A. iriomotensis TT02-47T, 9 A. oryzae GMKU 370T, 10 A. radicium K080182T ? positive; - negative, W weakly positive, ND no data available a  Data was taken from Tamura et al. (2009)  b  Data was taken from Thamchaipenet et al. (2010)  c  Data was taken from Indananda et al. (2011)  d  Data was taken from Matsumoto et al. (2012)  123  458  looped spore chains with smooth surfaces on the tips of the aerial mycelium at maturity 
--Alanine, L-arginine, Lglutamine, proline, L-serine, L-threonine are utilised as sole nitrogen sources, but L-asparagine, L-aspartic acid, creatine, L-glutamic acid, glycine and L-tyrosine are not 
--Galactose, D-glucose, inositol, lactose, Dmaltose, D-sucrose, D-raffinose are utilised as sole carbon sources, but L-arabinose, D-fructose, D-mannitol, D-mannose, D-ribose, L-rhamnose, D-sorbitol and D-xylose are not 
+ifferential characteristics include their clearly different colony colours after growth on ISP 3 and ISP 7 agar at 28 °C for 21 days Supplementary Fig 
+3 pH and temperature ranges of growth liquefaction of gelatin , decomposition of urea and patterns of carbon and nitrogen utilisation Table 1 
+n addition a comparative study between strain NEAU-TX1-15T and closely related type strains of the genus Actinoallomurus [ 98.0 % revealed that it differed from them in physiological and biochemical characteristics as summarised in Table 1 
+n conclusion it is evident from the genotypic and phenotypic data that strain NEAU-TX1-15T represents a novel species of the genus Actinoallomurus for which the name Actinoallomurus bryophytorum sp . nov. is proposed . Description of Actinoallomurus bryophytorum sp . nov 
+erobic Gram-stain positive actinomycete that produces a branched and non-fragmented well-developed substrate mycelium and forms short hooked or Antonie van Leeuwenhoek 2015 108:453–459 457 Fig . 2 Neighbour-joining tree based on 16S rRNA gene sequences 1306 nt showing relationships between strain NEAU-TX1-15T and members of the genus Actinoallomurus 
+ar 0.005 nucleotide substitutions per site Table 1 Comparison of physiological characteristics of strain NEAU-TX1-15T and closely related Actinoallomurus strains Characteristics 1 2 3a 4a 5a 6b 7a 8a 9c 10d Growth temperature range °C 20–37 15–37 20–37 20–37 20–37 12–41 20–37 20–37 21–45 12–36 pH range for growth 6–8 5–6 5–6 5–7 5–7 5–8 5–7 5–6 5–9 5–7 Tolerance of NaCl % 1 1 3 2 2 3 3 2 4 1 Hydrolysis of starch W Liquefaction of gelatin W Decomposition of urea ND L-arabinose - - Inositol - - ? - ? ? ? ? - Lactose ? - ? ? - - ? ? ? ND D-mannitol - ? ? - ? - ? ? - ? Utilization of All of the other recorded properties were acquired in the present study Strains 1 NEAU-TX1-15T 2 A. yoronensis NBRC 103686T 3 A. amamiensis TT00-28T 4 A. fulvus TT99-66T 5 A. caesius A3015T 6 A. acaciae GMKU 931T 7 A. coprocola TT04-09T 8 A. iriomotensis TT02-47T 9 A. oryzae GMKU 370T 10 A. radicium K080182T ? positive - negative W weakly positive ND no data available a Data was taken from Tamura et al . 2009 b Data was taken from Thamchaipenet et al . 2010 c Data was taken from Indananda et al . 2011 d Data was taken from Matsumoto et al . 2012 123 458 looped spore chains with smooth surfaces on the tips of the aerial mycelium at maturity 
+-Galactose D-glucose inositol lactose Dmaltose D-sucrose D-raffinose are utilised as sole carbon sources but L-arabinose D-fructose D-mannitol D-mannose D-ribose L-rhamnose D-sorbitol and D-xylose are not 
 he whole cell sugars are galactose and madurose 
-he major menaquinones are MK-9(H6) and MK-9(H8) 
-he major fatty acids found are iso-C16:0, C17:1x7c and anteiso-C17:0 ([10 %) 
-cknowledgments This work was supported in part by grants from the National Outstanding Youth Foundation (No. 31225024), the National Natural Science Foundation of China (No. 31471832, 31171913 and 31372006), the National Key Technology R&D Program (No. 2012BAD19B06), Chang Jiang Scholar Candidates Program for Provincial Universities in Heilongjiang (CSCP), the China Postdoctoral Science Foundation (2014M561319) and the Heilongjiang Postdoctoral Fund (LBH-Z14027).  References Collins MD (1985) Isoprenoid quinone analyses in bacterial classification and identification 
-volution 39:783–791 Gao RX, Liu CX, Zhao JW, Jia FY, Yu C, Yang LY, Wang XJ, Xiang WS (2014) Micromonospora jinlongensis sp. nov., isolated from muddy soil in China and emended description of the genus Micromonospora 
-ntonie Van Leeuwenhoek 105:307–315 Gordon RE, Barnett DA, Handerhan JE, Pang C (1974) Nocardia coeliaca, Nocardia autotrophica, and the nocardin strain 
- Chromatogr 188: 221–233 Minnikin DE, O’Donnell AG, Goodfellow M, Alderson G, Athalye M, Schaal K, Parlett JH (1984) An integrated procedure for the extraction of bacterial isoprenoid quinones and polar lipids 
-n: Gerhardt P, Murray RGE, Wood WA, Krieg NR (eds) Methods for general and molecular bacteriology 
-merican Society for Microbiology, Washington DC, pp 607–654 Tamura T, Ishida Y, Nozawa Y, Otogturo M, Suzuki K (2009) Transfer of Actinomadura spadix Nonomura and Ohara 1971 to Actinoallomurus spadix gen. nov., comb. nov., and description of Actinoallomurus amamiensis sp. nov., Actinoallomurus caesius sp. nov., Actinoallomurus coprocola sp. nov., Actinoallomurus fulvus sp. nov., Actinoallomurus iriomotensis sp. nov., Actinoallomurus luridus sp. nov., Actinoallomurus purpureus sp. nov. and Actinoallomurus yoronensis sp. nov 
-nt J Syst Evol Microbiol 59:1867–1874 Tamura K, Peterson D, Peterson N, Stecher G, Nei M, Kumar S (2011) MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods 
- polyphasic taxonomic study was carried out to establish the status of strain NEAU-TX1-15T 
-nalysis of the 16S rRNA gene sequence supports the assignment of the novel strain to the genus Actinoallomurus, as it exhibits 99.2 % gene sequence similarity to that of Actinoallomurus yoronensis NBRC 103686T 
-owever, the low level of DNA–DNA relatedness allowed the strain to be differentiated from its close relative 
-embers of the genus Actinoallomurus produce chains of  123  454  hooked or looped spores on aerial hyphae 
-t the time of writing, the genus Actinoallomurus comprises 15 species with validly published names (http://www.bacterio.net/ actinoallomurus.html) 
+he major menaquinones are MK-9 H6 and MK-9 H8 
+he major fatty acids found are iso-C16:0 C17:1x7c and anteiso-C17:0 [ 10 % 
+cknowledgments This work was supported in part by grants from the National Outstanding Youth Foundation No . 31225024 the National Natural Science Foundation of China No . 31471832 , 31171913 and 31372006 , the National Key Technology R & D Program No . 2012BAD19B06 , Chang Jiang Scholar Candidates Program for Provincial Universities in Heilongjiang CSCP , the China Postdoctoral Science Foundation 2014M561319 and the Heilongjiang Postdoctoral Fund LBH-Z14027 . References Collins MD 1985 Isoprenoid quinone analyses in bacterial classification and identification 
+volution 39:783–791 Gao RX Liu CX Zhao JW Jia FY Yu C Yang LY Wang XJ Xiang WS 2014 Micromonospora jinlongensis sp . nov. isolated from muddy soil in China and emended description of the genus Micromonospora 
+ntonie Van Leeuwenhoek 105:307–315 Gordon RE Barnett DA Handerhan JE Pang C 1974 Nocardia coeliaca Nocardia autotrophica and the nocardin strain 
+Chromatogr 188 221–233 Minnikin DE O ’ Donnell AG Goodfellow M Alderson G Athalye M Schaal K Parlett JH 1984 An integrated procedure for the extraction of bacterial isoprenoid quinones and polar lipids 
+n Gerhardt P Murray RGE Wood WA Krieg NR eds Methods for general and molecular bacteriology 
+merican Society for Microbiology Washington DC pp 607–654 Tamura T Ishida Y Nozawa Y Otogturo M Suzuki K 2009 Transfer of Actinomadura spadix Nonomura and Ohara 1971 to Actinoallomurus spadix gen. nov. comb . nov. and description of Actinoallomurus amamiensis sp . nov. Actinoallomurus caesius sp . nov. Actinoallomurus coprocola sp . nov. Actinoallomurus fulvus sp . nov. Actinoallomurus iriomotensis sp . nov. Actinoallomurus luridus sp . nov. Actinoallomurus purpureus sp . nov. and Actinoallomurus yoronensis sp . nov 
+nt J Syst Evol Microbiol 59:1867–1874 Tamura K Peterson D Peterson N Stecher G Nei M Kumar S 2011 MEGA5 molecular evolutionary genetics analysis using maximum likelihood evolutionary distance and maximum parsimony methods 
+polyphasic taxonomic study was carried out to establish the status of strain NEAU-TX1-15T 
+nalysis of the 16S rRNA gene sequence supports the assignment of the novel strain to the genus Actinoallomurus as it exhibits 99.2 % gene sequence similarity to that of Actinoallomurus yoronensis NBRC 103686T 
+owever the low level of DNA–DNA relatedness allowed the strain to be differentiated from its close relative 
+embers of the genus Actinoallomurus produce chains of 123 454 hooked or looped spores on aerial hyphae 
+t the time of writing the genus Actinoallomurus comprises 15 species with validly published names http //www.bacterio.net/ actinoallomurus.html 
 he 16S rRNA gene sequence was aligned with multiple sequences obtained from the GenBank/ EMBL/DDBJ databases using Clustal X 1.83 software 
-he stability of the clades in the trees was appraised using a bootstrap value of 1000 (Felsenstein 1985) 
- distance matrix was generated using the Kimura’s two-parameter model (Kimura 1980) 
-he tips of the aerial mycelium divide into short hooked or looped spore chains with smooth surfaces at maturity (Fig. 1) 
+he stability of the clades in the trees was appraised using a bootstrap value of 1000 Felsenstein 1985 
+distance matrix was generated using the Kimura ’ s two-parameter model Kimura 1980 
+he tips of the aerial mycelium divide into short hooked or looped spore chains with smooth surfaces at maturity Fig . 1 
 he colour of the substrate mycelium on the media tested was observed to vary from yellowish white to olive black 
 t is evident that the chemotaxonomic characteristics of strain NEAU-TX1-15T also support its classification as a member of the genus Actinoallomurus 
-.L. gen. pl. n. bryophytorum of Bryophyta, referring to the isolation of the type strain from a member of the phylum Bryophyta) 
+.L . gen. pl . n. bryophytorum of Bryophyta referring to the isolation of the type strain from a member of the phylum Bryophyta 
 sterisks indicate branches also recovered in the maximum-likelihood tree 
 rowth occurs in the pH range 6–8 with optimum growth at pH 7 
-he temperature range for growth is 20–37 °C, with the optimum temperature being 28 °C 
-he DNA G ? C content of the DNA of the type strain is 70.8 ± 0.3 mol% 
+he temperature range for growth is 20–37 °C with the optimum temperature being 28 °C 
+he DNA G C content of the DNA of the type strain is 70.8 ± 0.3 mol % 
 he GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain NEAU-TX1-15T is KJ425409 
- Mol Evol 17:368–376 Felsenstein J (1985) Confidence limits on phylogenies: an approach using the bootstrap 
-nt J Syst Bacteriol 24:54–63 Hayakawa M, Nonomura H (1987) Humic acid-vitamin agar, a new medium for the selective isolation of soil actinomycetes 
- Ferment Technol 65:501–509 Huss VAR, Festl H, Schleifer KH (1983) Studies on the spectrometric determination of DNA hybridization from renaturation rates 
-ociety of Industrial Microbiology, Arlington, pp 227–291 Mandel M, Marmur J (1968) Use of ultraviolet absorbance temperature profile for determining the guanine plus cytosine content of DNA 
-ethods Enzymol 12B:195–206 Matsumoto A, Fukuda A, Inahashi Y, Ōmura S, Takahashi Y (2012) Actinoallomurus radicium sp. nov., isolated from the roots of two plant species 
-nt J Syst Evol Microbiol 60:554–559 Uchida K, Aida K (1984) An improved method for the glycolate test for simple identification of acyl type of bacterial cell walls 
+Mol Evol 17:368–376 Felsenstein J 1985 Confidence limits on phylogenies an approach using the bootstrap 
+nt J Syst Bacteriol 24:54–63 Hayakawa M Nonomura H 1987 Humic acid-vitamin agar a new medium for the selective isolation of soil actinomycetes 
+Ferment Technol 65:501–509 Huss VAR Festl H Schleifer KH 1983 Studies on the spectrometric determination of DNA hybridization from renaturation rates 
+ociety of Industrial Microbiology Arlington pp 227–291 Mandel M Marmur J 1968 Use of ultraviolet absorbance temperature profile for determining the guanine plus cytosine content of DNA 
+ethods Enzymol 12B:195–206 Matsumoto A Fukuda A Inahashi Y Ōmura S Takahashi Y 2012 Actinoallomurus radicium sp . nov. isolated from the roots of two plant species 
+nt J Syst Evol Microbiol 60:554–559 Uchida K Aida K 1984 An improved method for the glycolate test for simple identification of acyl type of bacterial cell walls 
 eport of the ad hoc committee on reconciliation of approaches to bacterial systematics 
-icrobiol [Engl Transl Microbiol (Beijing)] 16:176–178 Xiang WS, Liu CX, Wang XJ, Du J, Xi LJ, Huang Y (2011) Actinoalloteichus nanshanensis sp. nov., isolated from the rhizosphere of a fig tree (Ficus religiosa) 
-nt J Syst Evol Microbiol 61:1165–1169 Xu P, Li WJ, Tang SK, Zhang YQ, Chen GZ, Chen HH, Xu LH, Jiang CL (2005) Naxibacter alkalitolerans gen. nov., sp. nov., a novel member of the family ‘Oxalobacteraceae’ isolated from China 
-nt J Syst Evol Microbiol 55: 1149–1153 Yokota A, Tamura T, Hasegawa T, Huang LH (1993) Catenuloplanes japonicas gen. nov., sp. nov., nom. rev., a new genus of the order Actinomycetales 
-ang e-mail: wangneau2013@163.com  Introduction  H 
+icrobiol Engl Transl Microbiol Beijing ] 16:176–178 Xiang WS Liu CX Wang XJ Du J Xi LJ Huang Y 2011 Actinoalloteichus nanshanensis sp . nov. isolated from the rhizosphere of a fig tree Ficus religiosa 
+nt J Syst Evol Microbiol 61:1165–1169 Xu P Li WJ Tang SK Zhang YQ Chen GZ Chen HH Xu LH Jiang CL 2005 Naxibacter alkalitolerans gen. nov. sp . nov. a novel member of the family ‘ Oxalobacteraceae ’ isolated from China 
+nt J Syst Evol Microbiol 55 1149–1153 Yokota A Tamura T Hasegawa T Huang LH 1993 Catenuloplanes japonicas gen. nov. sp . nov. nom . rev. a new genus of the order Actinomycetales 
+ang e-mail wangneau2013 @ 163.com Introduction H 
+cademic Press London pp 267–284 123 Antonie van Leeuwenhoek 2015 108:453–459 De Ley J Cattoir H Reynaerts A 1970 The quantitative measurement of DNA hybridization from renaturation rates 
+nt J Syst Evol Microbiol 50:2031–2036 Kim OS Cho YJ Lee K Yoon SH Kim M Na H Park SC Jeon YS Lee JH Yi H Won S Chun J 2012 Introducing EzTaxon-e a prokaryotic 16S rRNA gene sequence database with phylotypes that represent uncultured species 
 he DNA renaturation rates were determined in 2 9 SSC at 70 °C 
-he type strain is NEAU-TX1-15T (=CGMCC 4.7200T = JCM 30340T) 
-he type strain, NEAU-TX1-15T (=CGMCC 4.7200T = JCM 30340T), was isolated from moss collected from Wuchang, Heilongjiang province, north China 
-he only phospholipid Electronic supplementary material The online version of this article (doi:10.1007/s10482-015-0498-z) contains supplementary material, which is available to authorized users 
+2 
+he type strain is NEAU-TX1-15T =CGMCC 4.7200T = JCM 30340T 
+he type strain NEAU-TX1-15T =CGMCC 4.7200T = JCM 30340T was isolated from moss collected from Wuchang Heilongjiang province , north China 
+he only phospholipid Electronic supplementary material The online version of this article doi:10.1007/s10482-015-0498-z contains supplementary material which is available to authorized users 
 he sole phospholipid is phosphatidylglycerol 
-he DNA samples used for hybridization were diluted to OD260 around 1.0 using 0.1 9 SSC (saline sodium citrate buffer), then sheared using a JY92-II ultrasonic cell disruptor (ultrasonic time 3 s, interval time 4 s, 90 times) 
-nt J Syst Evol Microbiol 50:2031–2036 Kim OS, Cho YJ, Lee K, Yoon SH, Kim M, Na H, Park SC, Jeon YS, Lee JH, Yi H, Won S, Chun J (2012) Introducing EzTaxon-e: a prokaryotic 16S rRNA gene sequence database with phylotypes that represent uncultured species 
-olerates up to 1 % NaCl (w/v) 
+he DNA samples used for hybridization were diluted to OD260 around 1.0 using 0.1 9 SSC saline sodium citrate buffer then sheared using a JY92-II ultrasonic cell disruptor ultrasonic time 3 s interval time 4 s , 90 times 
+olerates up to 1 % NaCl w/v 
 train NEAU-TX1-15T was observed to form short spiral or looped spore chains on aerial hyphae 
 oluble or melanoid pigments were not observed to be produced on all tested media 
-cademic Press, London, pp 267–284  123  Antonie van Leeuwenhoek (2015) 108:453–459 De Ley J, Cattoir H, Reynaerts A (1970) The quantitative measurement of DNA hybridization from renaturation rates 
-ur J Biochem 12:133–142 Felsenstein J (1981) Evolutionary trees from DNA sequences: a maximum likelihood approach 
+ur J Biochem 12:133–142 Felsenstein J 1981 Evolutionary trees from DNA sequences a maximum likelihood approach 
+nt J Syst Evol Microbiol 63:2418–2423 Wayne LG Brenner DJ Colwell RR Grimont PAD Kandler O Krichevsky MI Moore LH Moore WEC Murray RGE et al 1987 International Committee on Systematic Bacteriology 

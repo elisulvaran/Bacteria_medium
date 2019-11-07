@@ -1,14 +1,19 @@
-TY medium was prepared by addition of 0?05 % yeast extract and removal of sodium hydrogen carbonate from  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Thu, 15 Feb 2018 23:53:23  Printed in Great Britain  1111  D 
- hiamin and vitamin B12, but not biotin, were required for growth and 0?05 % yeast extract stimulated growth 
- fter 1 week cultivation, the pink-reddish colonies were picked and streaked onto agar plates 
- ells grown under illumination were  harvested by centrifugation and resuspended in 60 % sucrose solution 
- he absorption spectrum was recorded with spectrophotometers HP1050 (Hewlett Packard) for 300–820 nm, and Hitachi model 557 for 800–1200 nm 
- hiamin and vitamin B12 are required for growth and 0?05 % yeast extract stimulates growth 
- train 3-pT was iso-  lated from the Gao-Bei-Dian municipal wastewater treatment plant in Beijing, which is the main facility for the treatment of sewage from Beijing (a city with more than 10 million inhabitants) 
- gar plates were prepared by addition of 1?5 % agar to the medium 
- oft agar was made by reducing the amount of agar to 0?7 % 
- mong the phototrophic bacteria, strain 3-pT was most closely related to Rhodocista centenaria (97 % similarity) 
- train 3-pT showed 56 % DNA–DNA hybridization to Rhodocista centenaria, which is lower than 70 %, a level generally accepted to distinguish species 
+TY medium was prepared by addition of 0 05 % yeast extract and removal of sodium hydrogen carbonate from Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Thu 15 Feb 2018 23:53:23 Printed in Great Britain 1111 D 
+ hiamin and vitamin B12 but not biotin were required for growth and 0 05 % yeast extract stimulated growth 
+ fter 1 week cultivation the pink-reddish colonies were picked and streaked onto agar plates 
+ ells grown under illumination were harvested by centrifugation and resuspended in 60 % sucrose solution 
+ he absorption spectrum was recorded with spectrophotometers HP1050 Hewlett Packard for 300–820 nm and Hitachi model 557 for 800–1200 nm 
+ bsorbance maxima of phototrophically grown cells were 378 516 548 594 798 and 885 nm which is indicative of the presence of bacteriochlorophyll a and pigments of the spirilloxanthin series 
+ haracteristic Optimum growth temperature uC Cell size mm R-body occurrence DNA G+C content mol % Thiamin vitamin B1 Biotin Succinate Strain 3-pT Rhodocista centenaria 31–42 39–45 0 6–0 860 8–1 5 2 68 8 Required Not required + 1 0–2 063 0 + 69 9 ND Required 2 available from the RDP n=15 , including 11 of purple non-sulfur bacteria and four of closely related nonphototrophs of the a-subclass of the Proteobacteria 
+ NA G+C content DNA–DNA hybridization and phylogenetic relationships The G+C content of the genomic DNA for strain 3-pT was 68 8 mol % 
+ hiamin and vitamin B12 are required for growth and 0 05 % yeast extract stimulates growth 
+ train 3-pT was iso- lated from the Gao-Bei-Dian municipal wastewater treatment plant in Beijing which is the main facility for the treatment of sewage from Beijing a city with more than 10 million inhabitants 
+ gar plates were prepared by addition of 1 5 % agar to the medium 
+ oft agar was made by reducing the amount of agar to 0 7 % 
+ mong the phototrophic bacteria strain 3-pT was most closely related to Rhodocista centenaria 97 % similarity 
+ train 3-pT showed 56 % DNA–DNA hybridization to Rhodocista centenaria which is lower than 70 % a level generally accepted to distinguish species 
+ NA G+C content is 68 8 mol % 
  o growth was observed in medium with 3 % NaCl 
- he pH range for growth was 6?5–8?0, with an optimum of 7?0 
+ he DNA G+C content of cells was 68 8 mol % 
+ he pH range for growth was 6 5–8 0 with an optimum of 7 0 
  

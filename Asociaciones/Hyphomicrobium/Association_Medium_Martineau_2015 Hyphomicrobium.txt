@@ -1,289 +1,301 @@
-our sequential reactions are essential for the reduction of nitrate to gaseous nitrogen via nitrite, nitric oxide, and nitrous oxide intermediates, and each of these reactions is catalyzed by different enzymes, namely, nitrate reductases (Nar and Nap), nitrite reductase (Nir), nitric oxide reductase (Nor), and nitrous oxide reductase (Nos) (12–14) 
-his bacterium has the capacity to denitrify (2), and its nitrite and nitrous oxide reductases were previously characterized (15–18) 
-n order to assess the capacity of the three Hyphomicrobium species to achieve complete denitrification, the N2O concentrations in the headspace of cultures incubated with and without 10% (vol/ vol) acetylene, an inhibitor of the nitrous oxide reductase, were compared (33) 
-ene clusters encoding the nitric oxide (Nor) and nitrous oxide (Nos) reductases and with similar gene organizations were also detected in the three genomes 
-t regular intervals, the nitrous oxide concentration in the headspace was measured.  Effect of nitrate, NaCl, and oxygen on relative gene expression levels of the nitrate and nitrite reductase genes 
+our sequential reactions are essential for the reduction of nitrate to gaseous nitrogen via nitrite nitric oxide and nitrous oxide intermediates and each of these reactions is catalyzed by different enzymes namely nitrate reductases Nar and Nap , nitrite reductase Nir , nitric oxide reductase Nor , and nitrous oxide reductase Nos ( 12–14 
+his bacterium has the capacity to denitrify 2 , and its nitrite and nitrous oxide reductases were previously characterized 15–18 
+n order to assess the capacity of the three Hyphomicrobium species to achieve complete denitrification the N2O concentrations in the headspace of cultures incubated with and without 10 % vol/ vol acetylene an inhibitor of the nitrous oxide reductase were compared 33 
+ene clusters encoding the nitric oxide Nor and nitrous oxide Nos reductases and with similar gene organizations were also detected in the three genomes 
+t regular intervals the nitrous oxide concentration in the headspace was measured . Effect of nitrate NaCl and oxygen on relative gene expression levels of the nitrate and nitrite reductase genes 
 cetylene inhibition of nitrous oxide reduction by denitrifying bacteria 
-haracterization of nitrous oxide reductase from a methylotrophic denitrifying bacterium, Hyphomicrobium denitrificans A3151 
+haracterization of nitrous oxide reductase from a methylotrophic denitrifying bacterium Hyphomicrobium denitrificans A3151 
 xpression of nitrite and nitric oxide reductases in free-living and plant-associated Agrobacterium tumefaciens C58 cells 
-ite-directed mutagenesis of NnrR: a transcriptional regulator of nitrite and nitric oxide reductase in Rhodobacter sphaeroides 
-. nitrativorans was one of the most abundant bacterial species in the denitrifying biofilm, along with Methylophaga nitratireducenticrescens JAM1T, which was also isolated from this biofilm and which can reduce nitrate into nitrite (23, 24) 
-hole-genome sequence analyses revealed that although they share numerous orthologous genes, these three species differ greatly in their nitrate reductases, with gene clusters encoding a periplasmic nitrate reductase (Nap) in H. nitrativorans, a membrane-bound nitrate reductase (Nar) in H. denitrificans, and one Nap and two Nar enzymes in H. zavarzinii 
-. nitrativorans grew and denitrified at higher nitrate and NaCl concentrations than did the two other species, without significant nitrite accumulation 
-ignificant increases in the relative gene expression levels of the nitrate (napA) and nitrite (nirK) reductase genes were also noted for H. nitrativorans at higher nitrate and NaCl concentrations 
+ite-directed mutagenesis of NnrR a transcriptional regulator of nitrite and nitric oxide reductase in Rhodobacter sphaeroides 
+. nitrativorans was one of the most abundant bacterial species in the denitrifying biofilm along with Methylophaga nitratireducenticrescens JAM1T which was also isolated from this biofilm and which can reduce nitrate into nitrite 23 24 
+hole-genome sequence analyses revealed that although they share numerous orthologous genes these three species differ greatly in their nitrate reductases with gene clusters encoding a periplasmic nitrate reductase Nap in H. nitrativorans a membrane-bound nitrate reductase Nar in H. denitrificans and one Nap and two Nar enzymes in H. zavarzinii 
+. nitrativorans grew and denitrified at higher nitrate and NaCl concentrations than did the two other species without significant nitrite accumulation 
+ignificant increases in the relative gene expression levels of the nitrate napA and nitrite nirK reductase genes were also noted for H. nitrativorans at higher nitrate and NaCl concentrations 
 mong the major differences found between their genomes was the type of nitrate reductase that they encode 
 ur results showed that H. nitrativorans sustained better denitrifying activity than the other two species and had a better tolerance to higher nitrate and NaCl concentrations 
 he effect of variations in the nitrate and NaCl concentrations on the relative expression levels of the nitrate and nitrite reductase genes was also assessed 
-hen required, nitrate was added to the growth medium as sodium nitrate (NaNO3) at a concentration of 14.3 mM (200 mg NO3-N liter⫺1, unless otherwise specified) 
-or cultures under denitrifying conditions, 30 ml of growth medium supplemented with nitrate was dispensed into 70-ml serum vials 
-he nitrate and nitrite concentrations in the cultures were determined by ion chromatography using an 850 Professional IC instrument (Metrohm, Herisau, Switzerland) with a Metrosep A Supp 5 analytical column (250 by 4.0 mm), while N2O was analyzed by injecting 250 ␮l of the headspace into an Agilent 6890 gas chromatograph equipped with a microelectron capture detector 
-he effects of nitrate and NaCl concentrations on growth and denitrification rates were tested by using factorial analysis of variance (ANOVA) 
-ll three Hyphomicrobium species studied here possess gene clusters encoding the full set of enzymes necessary to achieve complete denitrification, although they differ greatly in their nitrate reductases (Table 3) 
-he genome of H. nitrativorans contains a gene cluster encoding the periplasmic nitrate reductase Nap, the genome of H. denitrificans contains a gene cluster encoding the membrane-  Martineau et al.  three species 
-n the shared zones, only genes that resulted from reciprocal analysis (e.g., H. nitrativorans versus H. denitrificans and H. denitrificans versus H. nitrativorans) were considered.  bound nitrate reductase Nar, and the genome of H. zavarzinii contains gene clusters encoding one Nap and two Nar enzymes 
-enes associated with nitrate transport were de-  TABLE 3 Gene clusters associated with the dissimilatory pathway of denitrification Associated gene cluster(s) (locus tags) Reductase  H. nitrativorans (GenBank accession no 
-ost of these genes belong to the CRP (cyclic AMP receptor protein)/FNR (fumarate and nitrate reductase regulation) family; some of them are located close to the denitrification gene clusters (Table 3) 
+hen required nitrate was added to the growth medium as sodium nitrate NaNO3 at a concentration of 14.3 mM 200 mg NO3-N liter⫺1 unless otherwise specified 
+or cultures under denitrifying conditions 30 ml of growth medium supplemented with nitrate was dispensed into 70-ml serum vials 
+he nitrate and nitrite concentrations in the cultures were determined by ion chromatography using an 850 Professional IC instrument Metrohm Herisau Switzerland with a Metrosep A Supp 5 analytical column 250 by 4.0 mm , while N2O was analyzed by injecting 250 ␮l of the headspace into an Agilent 6890 gas chromatograph equipped with a microelectron capture detector 
+he effects of nitrate and NaCl concentrations on growth and denitrification rates were tested by using factorial analysis of variance ANOVA 
+ll three Hyphomicrobium species studied here possess gene clusters encoding the full set of enzymes necessary to achieve complete denitrification although they differ greatly in their nitrate reductases Table 3 
+he genome of H. nitrativorans contains a gene cluster encoding the periplasmic nitrate reductase Nap the genome of H. denitrificans contains a gene cluster encoding the membrane- Martineau et al . three species 
+n the shared zones only genes that resulted from reciprocal analysis e.g. H. nitrativorans versus H. denitrificans and H. denitrificans versus H. nitrativorans were considered . bound nitrate reductase Nar and the genome of H. zavarzinii contains gene clusters encoding one Nap and two Nar enzymes 
+enes associated with nitrate transport were de- TABLE 3 Gene clusters associated with the dissimilatory pathway of denitrification Associated gene cluster s locus tags Reductase H. nitrativorans ( GenBank accession no 
+ost of these genes belong to the CRP cyclic AMP receptor protein /FNR fumarate and nitrate reductase regulation family some of them are located close to the denitrification gene clusters Table 3 
 ffect of nitrate and NaCl on bacterial growth and denitrification activity 
-o nitrate reduction or nitrite production was detected under these conditions (data not shown) 
-hen incubated under denitrifying conditions at the same nitrate concentration, the three Hyphomicrobium species had the capacity to grow and to completely eliminate nitrate without nitrite accumulation, although growth was much slower than that under aerobic conditions (Fig. 2) 
-t regular intervals, growth (A to C) and nitrate and nitrite concentrations (D to F) were measured 
-n panels D to F, full lines indicate nitrate concentrations, and dotted lines indicate nitrite (NOx) concentrations 
-he effect of increasing nitrate concentrations on the growth and denitrification kinetics of the three Hyphomicrobium species was assessed under denitrifying conditions, with the NaNO3 concentration ranging from 14.3 to 107 mM (200 to 1,500 mg NO3N/liter) (Fig. 2) 
-ecause H. nitrativorans was isolated from a marine environ-  Applied and Environmental Microbiology  aem.asm.org  5007  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  FIG 2 Effect of nitrate concentration on growth and denitrification 
-o further evaluate whether the interaction between nitrate and NaCl could lead to significant differences in growth and denitrification rates in the three Hyphomicrobium species, we carried out a factorial experiment using two different concentrations of each of the two factors in question 
+o nitrate reduction or nitrite production was detected under these conditions data not shown 
+hen incubated under denitrifying conditions at the same nitrate concentration the three Hyphomicrobium species had the capacity to grow and to completely eliminate nitrate without nitrite accumulation although growth was much slower than that under aerobic conditions Fig . 2 
+t regular intervals growth A to C and nitrate and nitrite concentrations D to F were measured 
+n panels D to F full lines indicate nitrate concentrations and dotted lines indicate nitrite NOx concentrations 
+he effect of increasing nitrate concentrations on the growth and denitrification kinetics of the three Hyphomicrobium species was assessed under denitrifying conditions with the NaNO3 concentration ranging from 14.3 to 107 mM 200 to 1,500 mg NO3N/liter ( Fig . 2 
+ecause H. nitrativorans was isolated from a marine environ- Applied and Environmental Microbiology aem.asm.org 5007 Downloaded from http //aem.asm.org/ on February 15 2018 by guest FIG 2 Effect of nitrate concentration on growth and denitrification 
+o further evaluate whether the interaction between nitrate and NaCl could lead to significant differences in growth and denitrification rates in the three Hyphomicrobium species we carried out a factorial experiment using two different concentrations of each of the two factors in question 
 he results showed that the three species responded differently to variations of nitrate and NaCl levels 
-hile no significant interactions between the nitrate and NaCl concentrations were detected for H. nitrativorans and H. denitrificans, significant interactions between these two factors were detected for the growth rate and the denitrification rate in H. zavarzinii (Table 4) 
-ingle-factor analysis of the data subsets showed that growth and denitrification rates in H. zavarzinii were negatively affected by higher nitrate and NaCl concentrations, with the lowest rates being detected at 71.4 mM NaNO3 and 0.5% NaCl (Tables 5 and 6) 
-n H. nitrativorans, while nitrate and NaCl had no significant effect on the growth rate, a significant effect of both factors on the denitrification rate was detected, with higher values being observed at higher nitrate and NaCl concentrations (Tables 5 and 6) 
-n contrast, neither of the two factors had a significant effect on the denitrification rate in H. denitrificans (Table 6), but the nitrate concentration had a significant effect on the growth rate, with a considerably lower value at 71.4 mM NaNO3 than at 14.3 mM NaNO3 (Table 5).  5008  aem.asm.org  DISCUSSION  H. nitrativorans, H. denitrificans, and H. zavarzinii possess genes encoding the full set of enzymes required to perform complete denitrification, and they were able to achieve this process 
+hile no significant interactions between the nitrate and NaCl concentrations were detected for H. nitrativorans and H. denitrificans significant interactions between these two factors were detected for the growth rate and the denitrification rate in H. zavarzinii Table 4 
+ingle-factor analysis of the data subsets showed that growth and denitrification rates in H. zavarzinii were negatively affected by higher nitrate and NaCl concentrations with the lowest rates being detected at 71.4 mM NaNO3 and 0.5 % NaCl Tables 5 and 6 
+n H. nitrativorans while nitrate and NaCl had no significant effect on the growth rate a significant effect of both factors on the denitrification rate was detected with higher values being observed at higher nitrate and NaCl concentrations Tables 5 and 6 
+n contrast neither of the two factors had a significant effect on the denitrification rate in H. denitrificans Table 6 but the nitrate concentration had a significant effect on the growth rate with a considerably lower value at 71.4 mM NaNO3 than at 14.3 mM NaNO3 Table 5 . 5008 aem.asm.org DISCUSSION H. nitrativorans H. denitrificans and H. zavarzinii possess genes encoding the full set of enzymes required to perform complete denitrification , and they were able to achieve this process 
 ur results showed the influence of nitrate and NaCl on the growth and denitrification of the three Hyphomicrobium species 
 he effects of these parameters were also assessed at the nitrate and nitrite reductase gene expression levels 
-e focused our analysis on these genes because the three species differ greatly in their nitrate reductases; H. denitrificans also harbors a very distinct nitrite reductase, while NO and N2O reductases found in the three species are more similar 
-n H. nitrativorans, higher nitrate and NaCl concentrations led to a small (1.4- to 3.4-fold) but significant increase in the relative gene expression levels of napA and nirK (Fig. 5A) 
-n H. zavarzinii, the nitrate and NaCl concentrations affected the three nitrate reductase genes to different degrees 
-imilar to narG1, the relative gene expression level of nirK in H. zavarzinii was negatively affected by higher nitrate and NaCl concentrations 
-n H. nitrativorans, the addition of nitrate to aerobic cultures led to small but significant increases in the relative gene expression levels of napA and nirK (1.8- and 3.2-fold, respectively), while incubation under denitrifying conditions led to much higher relative gene expression levels for both genes (7.1and 35.1-fold, respectively) (Fig. 5D) 
-n H. denitrificans, the only difference observed was for the relative gene expression level of narG, which was significantly higher in the presence of nitrate under aerobic conditions (Fig. 5E) 
-n H. zavarzinii, none of the genes tested was significantly affected by the addition of nitrate to aerobic cultures (Fig. 5F) 
-t regular intervals, growth (A to C) and nitrate and nitrite (NOx) concentrations (D to F) were measured 
-n panels D to F, full lines indicate nitrate concentrations, and dotted lines indicate nitrite concentrations 
-tandard deviations of the means for each time point are presented.  at high nitrate concentrations, without nitrite accumulation 
-onsistent with this observation, an increase in the nitrate concentration in the growth medium induced significant increases in narG and nirK relative gene expression levels in H. nitrativorans 
-n contrast, an increase of the initial nitrate concentration in the growth medium led to nitrite accumulation in H. denitrificans cultures despite a significant increase in the nirK relative gene  August 2015 Volume 81 Number 15  expression level at a higher nitrate concentration 
-itrate inhibition of nitrite reduction was previously reported for several bacteria (42–44) and has been associated with a phenomenon of competition between nitrate and nitrite reductases for electron donors 
-hese results suggest that in H. denitrificans, the nitrate reductase might have a higher affinity for electrons than the nitrite reductase 
-. denitrificans is characterized by its unique nitrite re-  Applied and Environmental Microbiology  aem.asm.org  5009  Martineau et al.  TABLE 4 Factorial ANOVA of the effects of nitrate and NaCl concentrations on growth and denitrification ratesa P value H. nitrativorans  H. denitrificans  H. zavarzinii  Source of variation  Growth rate  Denitrification rate  Growth rate  Denitrification rate  Growth rate  Denitrification rate  Nitrate NaCl Nitrate ⫹ NaCl  NS NS NS  0.0041 0.0178 NS  0.0042 NS NS  NS NS NS  ⬍0.001 ⬍0.001 0.0145  ⬍0.001 ⬍0.001 0.0087  The nitrate concentrations tested were 14.3 and 71.4 mM NaNO3; the NaCl concentrations tested were 0 and 0.5% 
-rom this perspective, the fact that the three species differ greatly in their nitrate reductases is noteworthy, and it can be hypothesized that the differences observed in their denitrification capacities reflect these variations observed at the genetic level 
+e focused our analysis on these genes because the three species differ greatly in their nitrate reductases H. denitrificans also harbors a very distinct nitrite reductase while NO and N2O reductases found in the three species are more similar 
+n H. nitrativorans higher nitrate and NaCl concentrations led to a small 1.4- to 3.4-fold but significant increase in the relative gene expression levels of napA and nirK Fig . 5A 
+n H. zavarzinii the nitrate and NaCl concentrations affected the three nitrate reductase genes to different degrees 
+imilar to narG1 the relative gene expression level of nirK in H. zavarzinii was negatively affected by higher nitrate and NaCl concentrations 
+n H. nitrativorans the addition of nitrate to aerobic cultures led to small but significant increases in the relative gene expression levels of napA and nirK 1.8- and 3.2-fold respectively while incubation under denitrifying conditions led to much higher relative gene expression levels for both genes 7.1and 35.1-fold , respectively ( Fig . 5D 
+n H. denitrificans the only difference observed was for the relative gene expression level of narG which was significantly higher in the presence of nitrate under aerobic conditions Fig . 5E 
+n H. zavarzinii none of the genes tested was significantly affected by the addition of nitrate to aerobic cultures Fig . 5F 
+t regular intervals growth A to C and nitrate and nitrite NOx concentrations D to F were measured 
+n panels D to F full lines indicate nitrate concentrations and dotted lines indicate nitrite concentrations 
+tandard deviations of the means for each time point are presented . at high nitrate concentrations without nitrite accumulation 
+onsistent with this observation an increase in the nitrate concentration in the growth medium induced significant increases in narG and nirK relative gene expression levels in H. nitrativorans 
+n contrast an increase of the initial nitrate concentration in the growth medium led to nitrite accumulation in H. denitrificans cultures despite a significant increase in the nirK relative gene August 2015 Volume 81 Number 15 expression level at a higher nitrate concentration 
+itrate inhibition of nitrite reduction was previously reported for several bacteria 42–44 and has been associated with a phenomenon of competition between nitrate and nitrite reductases for electron donors 
+hese results suggest that in H. denitrificans the nitrate reductase might have a higher affinity for electrons than the nitrite reductase 
+. denitrificans is characterized by its unique nitrite re- Applied and Environmental Microbiology aem.asm.org 5009 Martineau et al . TABLE 4 Factorial ANOVA of the effects of nitrate and NaCl concentrations on growth and denitrification ratesa P value H. nitrativorans H. denitrificans H. zavarzinii Source of variation Growth rate Denitrification rate Growth rate Denitrification rate Growth rate Denitrification rate Nitrate NaCl Nitrate ⫹ NaCl NS NS NS 0.0041 0.0178 NS 0.0042 NS NS NS NS NS ⬍0.001 ⬍0.001 0.0145 ⬍0.001 ⬍0.001 0.0087 The nitrate concentrations tested were 14.3 and 71.4 mM NaNO3 the NaCl concentrations tested were 0 and 0.5 % 
+rom this perspective the fact that the three species differ greatly in their nitrate reductases is noteworthy and it can be hypothesized that the differences observed in their denitrification capacities reflect these variations observed at the genetic level 
 uch an occurrence of multiple operons encoding nitrate reductases has previously been reported for other microorganisms 
-ne well-characterized example is E. coli K-12, which also expresses two different cytoplasmic membrane nitrate reductases (NRA and NRZ), encoded by narGHJI and narZYWV, respectively, and one periplasmic nitrate reductase, encoded by napFDAGHBC (48–50) 
-ene deletions in E. coli K-12 indicate that Nap can support anaerobic growth when it is the only nitrate reductase available, although NRA is clearly the main enzyme responsible for nitrate reduction when all enzymes are present (48) 
-hile Nap in E. coli is expressed under anaerobic conditions (50) and is specifically involved in nitrate reduction at low nitrate concentrations (48, 51), different functions have been proposed for the Nap system in other bacteria 
-n Paracoccus spp., in which both the Nar and Nap systems are present, Nar is expressed under anaerobic conditions, while Nap is expressed during aerobic  TABLE 5 Effect of nitrate and NaCl concentrations on growth rates of three Hyphomicrobium speciesa Growth rate (OD units h⫺1) H. nitrativorans  H. denitrificans  H. zavarzinii  NaNO3 concn (mM)  0% NaCl  0.5% NaCl  Mean  0% NaCl  0.5% NaCl  Mean  0% NaCl  0.5% NaCl  Mean  14.3 71.4  0.00206 0.00220  0.00249 0.00225  0.00228 0.00223  0.00325 0.00234  0.00277 0.00228  0.00301a 0.00231b  0.00357Aa 0.00291Ab  0.00287Ba 0.00138Bb  NA NA  Mean  0.00213  0.00237  0.00280  0.00253  NA  NA  a  Uppercase letters indicate significant differences between columns according to Tukey’s test; lowercase letters indicate significant differences between rows according to Tukey’s test 
+ne well-characterized example is E. coli K-12 which also expresses two different cytoplasmic membrane nitrate reductases NRA and NRZ encoded by narGHJI and narZYWV respectively and one periplasmic nitrate reductase , encoded by napFDAGHBC 48–50 
+ene deletions in E. coli K-12 indicate that Nap can support anaerobic growth when it is the only nitrate reductase available although NRA is clearly the main enzyme responsible for nitrate reduction when all enzymes are present 48 
+hile Nap in E. coli is expressed under anaerobic conditions 50 and is specifically involved in nitrate reduction at low nitrate concentrations 48 51 , different functions have been proposed for the Nap system in other bacteria 
+n Paracoccus spp. in which both the Nar and Nap systems are present Nar is expressed under anaerobic conditions while Nap is expressed during aerobic TABLE 5 Effect of nitrate and NaCl concentrations on growth rates of three Hyphomicrobium speciesa Growth rate OD units h⫺1 H. nitrativorans H. denitrificans H. zavarzinii NaNO3 concn mM 0 % NaCl 0.5 % NaCl Mean 0 % NaCl 0.5 % NaCl Mean 0 % NaCl 0.5 % NaCl Mean 14.3 71.4 0.00206 0.00220 0.00249 0.00225 0.00228 0.00223 0.00325 0.00234 0.00277 0.00228 0.00301a 0.00231b 0.00357Aa 0.00291Ab 0.00287Ba 0.00138Bb NA NA Mean 0.00213 0.00237 0.00280 0.00253 NA NA a Uppercase letters indicate significant differences between columns according to Tukey ’ s test lowercase letters indicate significant differences between rows according to Tukey ’ s test 
 rowth of H. denitrificans and H. zavarzinii was totally inhibited at the highest nitrate concentration tested 
-ecause nitrate was supplied as NaNO3, it is possible that this growth inhibition was exacerbated by the input of sodium in the growth medium, as previously observed for Shewanella oneidensis cultures (46) 
-espite having better NaCl tolerance than the other Hyphomicrobium species, H. nitrativorans remains quite sensitive to NaCl compared to other bacteria isolated from denitrifying biofilms, such as Methyl-  Denitriﬁcation in Three Hyphomicrobium Species  TABLE 6 Effect of nitrate and NaCl concentrations on denitrification rates of three Hyphomicrobium speciesa Denitrification rate (mM h⫺1) H. nitrativorans  H. denitrificans  H. zavarzinii  NaNO3 concn (mM)  0% NaCl  0.5% NaCl  Mean  0% NaCl  0.5% NaCl  Mean  0% NaCl  0.5% NaCl  Mean  14.3 71.4  0.121 0.186  0.174 0.204  0.148b 0.196a  0.126 0.117  0.114 0.140  0.120 0.129  0.280Aa 0.166Ab  0.220Ba 0.123Bb  NA NA  Mean  0.154A  0.189A  0.122  0.127  NA  NA  a  Uppercase letters indicate significant differences between columns according to Tukey’s test; lowercase letters indicate significant differences between rows according to Tukey’s test 
-n Paracoccus spp., Nap is responsible for aerobic nitrate reduction, and it has been suggested that this activity might help dissipate excess reductant, which is further supported by the fact that Nap is induced by growth on highly reduced carbon sub-  FIG 5 Relative expression levels of the nitrate and nitrite reductase genes in the three species cultured under different conditions. (A to C) Effects of nitrate and NaCl concentrations 
-erobic precultures for this assay were prepared without adding nitrate to the growth medium. ***, P ⬍ 0.001; **, 0.01 ⬎ P ⬎ 0.001; *, 0.05 ⬎ P ⬎ 0.01.  August 2015 Volume 81 Number 15  Applied and Environmental Microbiology  aem.asm.org  5011  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  growth, in the presence or absence of nitrate (13, 52, 53) 
+ecause nitrate was supplied as NaNO3 it is possible that this growth inhibition was exacerbated by the input of sodium in the growth medium as previously observed for Shewanella oneidensis cultures 46 
+espite having better NaCl tolerance than the other Hyphomicrobium species H. nitrativorans remains quite sensitive to NaCl compared to other bacteria isolated from denitrifying biofilms such as Methyl- Denitriﬁcation in Three Hyphomicrobium Species TABLE 6 Effect of nitrate and NaCl concentrations on denitrification rates of three Hyphomicrobium speciesa Denitrification rate mM h⫺1 H. nitrativorans H. denitrificans H. zavarzinii NaNO3 concn mM 0 % NaCl 0.5 % NaCl Mean 0 % NaCl 0.5 % NaCl Mean 0 % NaCl 0.5 % NaCl Mean 14.3 71.4 0.121 0.186 0.174 0.204 0.148b 0.196a 0.126 0.117 0.114 0.140 0.120 0.129 0.280Aa 0.166Ab 0.220Ba 0.123Bb NA NA Mean 0.154A 0.189A 0.122 0.127 NA NA a Uppercase letters indicate significant differences between columns according to Tukey ’ s test lowercase letters indicate significant differences between rows according to Tukey ’ s test 
+n Paracoccus spp. Nap is responsible for aerobic nitrate reduction and it has been suggested that this activity might help dissipate excess reductant which is further supported by the fact that Nap is induced by growth on highly reduced carbon sub- FIG 5 Relative expression levels of the nitrate and nitrite reductase genes in the three species cultured under different conditions . A to C Effects of nitrate and NaCl concentrations 
+erobic precultures for this assay were prepared without adding nitrate to the growth medium . *** P ⬍ 0.001 ** 0.01 ⬎ P ⬎ 0.001 * 0.05 ⬎ P ⬎ 0.01 . August 2015 Volume 81 Number 15 Applied and Environmental Microbiology aem.asm.org 5011 Downloaded from http //aem.asm.org/ on February 15 2018 by guest growth in the presence or absence of nitrate 13 52 53 
 olecular and biokinetic characterization of methylotrophic denitrification using nitrate and nitrite as terminal electron acceptors 
-espite higher levels of Nap expression under aerobic conditions than under denitrifying conditions, we did not detect significant nitrate reduction in aerobic liquid cultures of H. zavarzinii 
-imilarly, the expression level of the Nap-␣ operon in Rhodobacter sphaeroides 2.4.3 was higher in aerobic liquid cultures than in anaerobic cultures, without any detectable nitrate reduction (54) 
-owever, aerobic reduction of nitrate into nitrite occurred when R. sphaeroides 2.4.3 was cultivated on solid medium, indicating a role of Nap-␣ in redox homeostasis specific for these culture conditions 
-hile it is not uncommon to find multiple nitrate reductases in a single bacterium, the presence of multiple nitrate reductases of the same type has been reported only rarely in previous studies 
-ecently, we also described the new bacterial species Methylophaga nitratireducenticrescens JAM1 (Gammaproteobacteria), which expresses two distinct Nar nitrate reductases (Nar1 and Nar2) encoded by two narGHJI operons (23, 24, 57) 
-urther work, including the production of gene knockout mutants for the different nitrate reductases in H. zavarzinii, is necessary to completely elucidate the physiological roles played by these enzymes 
-n H. nitrativorans, napA gene expression levels were significantly higher in the presence of nitrate and under denitrifying conditions than in the absence of nitrate and under aerobic conditions 
-imilar results have been reported for Bradyrhizobium japonicum, which also possesses a single periplasmic nitrate reductase of the ␣ isoform (58) 
-lthough results from studies on Paracoccus pantotrophus and Rhodobacter sphaeroides point toward a specific role of the Nap-␣ isoform in aerobic denitrification and redox balancing, both the ␣ and ␤ isoforms have been associated with anaerobic nitrate respiration in Shewanella spp. (55, 56) 
-erobic and anaerobic nitrate and nitrite reduction in free-living cells of Bradyrhizobium sp. (Lupinus) 
+espite higher levels of Nap expression under aerobic conditions than under denitrifying conditions we did not detect significant nitrate reduction in aerobic liquid cultures of H. zavarzinii 
+imilarly the expression level of the Nap-␣ operon in Rhodobacter sphaeroides 2.4.3 was higher in aerobic liquid cultures than in anaerobic cultures without any detectable nitrate reduction 54 
+owever aerobic reduction of nitrate into nitrite occurred when R. sphaeroides 2.4.3 was cultivated on solid medium indicating a role of Nap-␣ in redox homeostasis specific for these culture conditions 
+hile it is not uncommon to find multiple nitrate reductases in a single bacterium the presence of multiple nitrate reductases of the same type has been reported only rarely in previous studies 
+ecently we also described the new bacterial species Methylophaga nitratireducenticrescens JAM1 Gammaproteobacteria which expresses two distinct Nar nitrate reductases Nar1 and Nar2 encoded by two narGHJI operons 23 24 , 57 
+urther work including the production of gene knockout mutants for the different nitrate reductases in H. zavarzinii is necessary to completely elucidate the physiological roles played by these enzymes 
+n H. nitrativorans napA gene expression levels were significantly higher in the presence of nitrate and under denitrifying conditions than in the absence of nitrate and under aerobic conditions 
+imilar results have been reported for Bradyrhizobium japonicum which also possesses a single periplasmic nitrate reductase of the ␣ isoform 58 
+lthough results from studies on Paracoccus pantotrophus and Rhodobacter sphaeroides point toward a specific role of the Nap-␣ isoform in aerobic denitrification and redox balancing both the ␣ and ␤ isoforms have been associated with anaerobic nitrate respiration in Shewanella spp . 55 56 
+erobic and anaerobic nitrate and nitrite reduction in free-living cells of Bradyrhizobium sp . Lupinus 
 ompetition between nitrate and nitrite reduction in denitrification by Pseudomonas fluorescens 
 inetics of denitrification by Pseudomonas denitrificans under growth conditions limited by carbon and/or nitrate or nitrite 
 mpacts of nitrate and nitrite on physiology of Shewanella oneidensis 
-eriplasmic nitrate reductase (NapABC enzyme) supports anaerobic respiration by Escherichia coli K-12 
-unctional, biochemical and genetic diversity of prokaryotic nitrate reductases 
-icrobial nitrate respiration— genes, enzymes and environmental distribution 
+eriplasmic nitrate reductase NapABC enzyme supports anaerobic respiration by Escherichia coli K-12 
+unctional biochemical and genetic diversity of prokaryotic nitrate reductases 
+icrobial nitrate respiration— genes enzymes and environmental distribution 
 issimilatory reduction of nitrate in seawater by a Methylophaga strain containing two highly divergent narG sequences 
 he Bradyrhizobium japonicum napEDABC genes encoding the periplasmic nitrate reductase are essential for nitrate respiration 
-EMS Microbiol Lett 229:173–178. http://dx.doi.org/10 .1016/S0378-1097(03)00821-8.  Applied and Environmental Microbiology  August 2015 Volume 81 Number 15  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  54.  Competition between Escherichia coli strains expressing either a periplasmic or a membrane-bound nitrate reductase: does Nap confer a selective advantage during nitrate-limited growth? Biochem J 344:77– 84. http://dx .doi.org/10.1042/0264-6021:3440077 
-nr, NarP, and NarL regulation of Escherichia coli K-12 napF (periplasmic nitrate reductase) operon transcription in vitro 
+EMS Microbiol Lett 229:173–178 . http //dx.doi.org/10 .1016/S0378-1097 03 00821-8 . Applied and Environmental Microbiology August 2015 Volume 81 Number 15 Downloaded from http //aem.asm.org/ on February 15 2018 by guest 54 . Competition between Escherichia coli strains expressing either a periplasmic or a membrane-bound nitrate reductase does Nap confer a selective advantage during nitrate-limited growth Biochem J 344:77– 84. http //dx .doi.org/10.1042/0264-6021:3440077 
+nr NarP and NarL regulation of Escherichia coli K-12 napF periplasmic nitrate reductase operon transcription in vitro 
 he napF and narG nitrate reductase operons in Escherichia coli are differentially expressed in response to submicromolar concentrations of nitrate but not nitrite 
-eriplasmic and membranebound respiratory nitrate reductases in Thiosphaera pantotropha: the periplasmic enzyme catalyzes the first step in aerobic denitrification 
-ontrol of periplasmic nitrate reductase gene expression (napEDABC) from Paracoccus pantotrophus in response to oxygen and carbon substrates 
-hysiological roles for two periplasmic nitrate reductases in Rhodobacter sphaeroides 2.4.3 (ATCC 17025) 
-he periplasmic nitrate reductase in Shewanella: the resolution, distribution and functional implications of two NAP isoforms, NapEDABC and NapDAGHB 
+eriplasmic and membranebound respiratory nitrate reductases in Thiosphaera pantotropha the periplasmic enzyme catalyzes the first step in aerobic denitrification 
+ontrol of periplasmic nitrate reductase gene expression napEDABC from Paracoccus pantotrophus in response to oxygen and carbon substrates 
+hysiological roles for two periplasmic nitrate reductases in Rhodobacter sphaeroides 2.4.3 ATCC 17025 
+he periplasmic nitrate reductase in Shewanella the resolution distribution and functional implications of two NAP isoforms NapEDABC and NapDAGHB 
 rea is degraded into CO2 and NH3 by urease in H. denitrificans and by urea carboxylase and allophanate hydrolase in H. zavarzinii 
-riefly, the deduced amino acid sequences for all the annotated genes of one genome were compared to those of the other two genomes by BLAST (automated process in SEED viewer) 
-educed amino acid sequences derived from the napA, narG, nirK, cnorB, and nosZ genes that were retrieved from the genomes of the three Hyphomicrobium species, as well as sequences of their closest relatives and representative sequences of the Proteobacteria, were aligned by using ClustalW, and phylogenetic trees were constructed by using the neighbor-joining algorithm (30) with the Poisson correction method in MEGA version 6.06 (31) 
-he statistical significance of the ⌬⌬CT values was tested by Student’s t test (two tailed, heteroscedastic).  TABLE 2 Comparative analysis of the genomes of the Hyphomicrobium species H. nitrativorans  H. zavarzinii a  b  Species  No. of orthologs  Ortholog identity (%)  ANI (%)  No. of orthologsa  Ortholog identity (%)b  ANI (%)  H. zavarzinii H. denitrificans  2,687 2,150  73.90 60.60  82.50 80.80  2,355  61.80  81.00  a  Number of orthologous genes in common between the respective species. b Average percent deduced amino acid sequence identity between orthologous genes.  August 2015 Volume 81 Number 15  Applied and Environmental Microbiology  aem.asm.org  5005  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  Characteristic  Genome comparison 
-hen the genomes were compared for the average deduced amino acid sequence identity between orthologous genes and for the average nucleotide identity (ANI) between whole-genome sequences, H. nitrativorans and H. zavarzinii showed a higher level of identity with each other than with H. denitrificans (Table 2) 
-hylogenetic analyses were performed on the deduced amino acid sequences of genes encoding the catalytic subunits of the different reductases (NapA, NarG, NirK, cNorB, and NosZ) found in the three Hyphomicrobium species 
-Comparative Analysis of Denitrifying Activities of Hyphomicrobium nitrativorans, Hyphomicrobium denitrificans, and Hyphomicrobium zavarzinii Christine Martineau,* Florian Mauffrey, Richard Villemur INRS-Institut Armand-Frappier, Laval, QC, Canada  H  yphomicrobium spp. are restricted facultative methylotrophs that reproduce by budding at the tip of a polar prostheca 
-hey are ubiquitous in water and soil but can also be found in sewage treatment plants (1) 
-hey have often been identified as major players in denitrification systems supplemented with methanol (4, 6–8), and their presence has been associated with high denitrification rates (9, 10) 
-revious studies using DNA hybridization with probes targeting genes encoding the catalytic subunit of denitrification reductases (narG, nirK, nirS, and nosZ) detected denitrification genes in several members of the genus Hyphomicrobium, including H. denitrificans and H. zavarzinii (2, 3) 
-. denitrificans (5) is commonly found in soils, freshwater environments, and activated sludge 
-iven that pure cultures of H. nitrativorans grow poorly in seawater (21), we believe that M. nitratireducenticrescens JAM1 and H. nitrativorans NL23 work together in syntrophy in the biofilm to achieve the complete denitrification pathway 
-espite the presence of denitrifying Hyphomicrobium spp. in many environments or denitrification processes, genetic and physiological information regarding their denitrification capacities is poorly documented 
-omparative analysis of denitrifying activities of Hyphomicrobium nitrativorans, Hyphomicrobium denitrificans, and Hyphomicrobium zavarzinii 
-ll Rights Reserved. doi:10.1128/AEM.00848-15  Applied and Environmental Microbiology  aem.asm.org  5003  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  Hyphomicrobium spp. are commonly identified as major players in denitrification systems supplied with methanol as a carbon source 
-owever, denitrifying Hyphomicrobium species are poorly characterized, and very few studies have provided information on the genetic and physiological aspects of denitrification in pure cultures of these bacteria 
-his is a comparative study of three denitrifying Hyphomicrobium species, H. denitrificans ATCC 51888, H. zavarzinii ZV622, and a newly described species, H. nitrativorans NL23, which was isolated from a denitrification system treating seawater 
-xygen was also found to be a strong regulator of denitrification gene expression in both H. nitrativorans and H. zavarzinii, although individual genes responded differently in these two species 
-aken together, the results presented in this study highlight the potential of H. nitrativorans as an efficient and adaptable bacterium that is able to perform complete denitrification under various conditions.  Martineau et al.  crobium species, H. nitrativorans, H. denitrificans, and H. zavarzinii, were compared at the genetic and physiological levels 
-ATERIALS AND METHODS  5004  aem.asm.org  Applied and Environmental Microbiology  August 2015 Volume 81 Number 15  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  Genome sequence analyses 
-yphomicrobium nitrativorans strain NL23T (ATCC BAA-2476), Hyphomicrobium denitrificans strain XT (ATCC 51888), and Hyphomicrobium zavarzinii strain ZV622T (ATCC 27496) were used in this study 
-ublicly available genome sequences of H. nitrativorans NL23 (GenBank accession number NC_022997) (22), H. denitrificans ATCC 51888 (GenBank accession number NC_014313) (25), and H. zavarzinii ATCC 27496 (GenBank accession numbers KB911255 to KB911269 for 15 scaffolds) were retrieved from GenBank, imported into RAST (Rapid Annotation Using Subsystem Technology) (26) for annotation, and processed in SEED viewer (27) to identify denitrification gene clusters and associated regulatory genes 
-rthologous genes were determined with the “sequence-based comparison” tool in SEED viewer and refined by hand 
+riefly the deduced amino acid sequences for all the annotated genes of one genome were compared to those of the other two genomes by BLAST automated process in SEED viewer 
+educed amino acid sequences derived from the napA narG nirK cnorB and nosZ genes that were retrieved from the genomes of the three Hyphomicrobium species as well as sequences of their closest relatives and representative sequences of the Proteobacteria were aligned by using ClustalW and phylogenetic trees were constructed by using the neighbor-joining algorithm 30 with the Poisson correction method in MEGA version 6.06 31 
+he statistical significance of the ⌬⌬CT values was tested by Student ’ s t test two tailed heteroscedastic . TABLE 2 Comparative analysis of the genomes of the Hyphomicrobium species H. nitrativorans H. zavarzinii a b Species No . of orthologs Ortholog identity % ANI % No . of orthologsa Ortholog identity % b ANI % H. zavarzinii H. denitrificans 2,687 2,150 73.90 60.60 82.50 80.80 2,355 61.80 81.00 a Number of orthologous genes in common between the respective species . b Average percent deduced amino acid sequence identity between orthologous genes . August 2015 Volume 81 Number 15 Applied and Environmental Microbiology aem.asm.org 5005 Downloaded from http //aem.asm.org/ on February 15 2018 by guest Characteristic Genome comparison 
+hen the genomes were compared for the average deduced amino acid sequence identity between orthologous genes and for the average nucleotide identity ANI between whole-genome sequences H. nitrativorans and H. zavarzinii showed a higher level of identity with each other than with H. denitrificans Table 2 
+hylogenetic analyses were performed on the deduced amino acid sequences of genes encoding the catalytic subunits of the different reductases NapA NarG NirK cNorB and NosZ found in the three Hyphomicrobium species 
+Comparative Analysis of Denitrifying Activities of Hyphomicrobium nitrativorans Hyphomicrobium denitrificans and Hyphomicrobium zavarzinii Christine Martineau * Florian Mauffrey Richard Villemur INRS-Institut Armand-Frappier Laval QC Canada H yphomicrobium spp . are restricted facultative methylotrophs that reproduce by budding at the tip of a polar prostheca 
+hey are ubiquitous in water and soil but can also be found in sewage treatment plants 1 
+hey have often been identified as major players in denitrification systems supplemented with methanol 4 6–8 and their presence has been associated with high denitrification rates 9 , 10 
+revious studies using DNA hybridization with probes targeting genes encoding the catalytic subunit of denitrification reductases narG nirK nirS and nosZ detected denitrification genes in several members of the genus Hyphomicrobium including H. denitrificans and H. zavarzinii 2 3 
+. denitrificans 5 is commonly found in soils freshwater environments and activated sludge 
+iven that pure cultures of H. nitrativorans grow poorly in seawater 21 , we believe that M. nitratireducenticrescens JAM1 and H. nitrativorans NL23 work together in syntrophy in the biofilm to achieve the complete denitrification pathway 
+espite the presence of denitrifying Hyphomicrobium spp . in many environments or denitrification processes genetic and physiological information regarding their denitrification capacities is poorly documented 
+omparative analysis of denitrifying activities of Hyphomicrobium nitrativorans Hyphomicrobium denitrificans and Hyphomicrobium zavarzinii 
+ll Rights Reserved . doi:10.1128/AEM.00848-15 Applied and Environmental Microbiology aem.asm.org 5003 Downloaded from http //aem.asm.org/ on February 15 2018 by guest Hyphomicrobium spp . are commonly identified as major players in denitrification systems supplied with methanol as a carbon source 
+owever denitrifying Hyphomicrobium species are poorly characterized and very few studies have provided information on the genetic and physiological aspects of denitrification in pure cultures of these bacteria 
+his is a comparative study of three denitrifying Hyphomicrobium species H. denitrificans ATCC 51888 H. zavarzinii ZV622 and a newly described species H. nitrativorans NL23 which was isolated from a denitrification system treating seawater 
+xygen was also found to be a strong regulator of denitrification gene expression in both H. nitrativorans and H. zavarzinii although individual genes responded differently in these two species 
+aken together the results presented in this study highlight the potential of H. nitrativorans as an efficient and adaptable bacterium that is able to perform complete denitrification under various conditions . Martineau et al . crobium species H. nitrativorans H. denitrificans and H. zavarzinii were compared at the genetic and physiological levels 
+ATERIALS AND METHODS 5004 aem.asm.org Applied and Environmental Microbiology August 2015 Volume 81 Number 15 Downloaded from http //aem.asm.org/ on February 15 2018 by guest Genome sequence analyses 
+yphomicrobium nitrativorans strain NL23T ATCC BAA-2476 , Hyphomicrobium denitrificans strain XT ATCC 51888 , and Hyphomicrobium zavarzinii strain ZV622T ATCC 27496 were used in this study 
+ublicly available genome sequences of H. nitrativorans NL23 GenBank accession number NC_022997 22 H. denitrificans ATCC 51888 GenBank accession number NC_014313 25 and H. zavarzinii ATCC 27496 GenBank accession numbers KB911255 to KB911269 for 15 scaffolds were retrieved from GenBank , imported into RAST ( Rapid Annotation Using Subsystem Technology ( 26 for annotation , and processed in SEED viewer ( 27 to identify denitrification gene clusters and associated regulatory genes 
+rthologous genes were determined with the “ sequence-based comparison ” tool in SEED viewer and refined by hand 
 he majority of the differences in annotations between RAST and IMG were in genes encoding hypothetical proteins with unknown functions 
 acterial strains and growth conditions 
-acteria were cultured in modified Hyphomicrobium medium 337a (32) [composition (per liter), 1.3 g KH2PO4, 1.13 g Na2HPO4, 0.5 g (NH4)2SO4, 0.2 g MgSO4·7H2O, 3.09 mg CaCl2·2H2O, 2.0 mg FeSO4·7H2O, 1.0 mg Na2MoO4·2H2O, 0.88 mg MnSO4·4H2O, and 10 ␮g CuCl2·2H2O (pH 7.5)] at 30°C 
+acteria were cultured in modified Hyphomicrobium medium 337a 32 [ composition per liter 1.3 g KH2PO4 1.13 g Na2HPO4 0.5 g NH4 2SO4 0.2 g MgSO4·7H2O 3.09 mg CaCl2·2H2O 2.0 mg FeSO4·7H2O 1.0 mg Na2MoO4·2H2O 0.88 mg MnSO4·4H2O , and 10 ␮g CuCl2·2H2O pH 7.5 ] at 30°C 
 he NaCl concentrations were variable depending on the assay and are specified below 
 itamin B12 was also added at a concentration of 0.1 mg liter⫺1 prior to inoculation to stimulate bacterial growth on solid medium and in liquid medium to start cultures from bacterial colonies 
-acterial cells were pelleted, dispersed in a 0.85%  NaCl solution, and homogenized prior to inoculation 
-he vials were sealed with rubber stoppers and metal seals, flushed for 10 min with N2 to remove oxygen from the headspace, and autoclaved 
-ubstrate addition, inoculation, and sampling of these vials were performed through the rubber stopper using a syringe and a needle 
-acterial cells were centrifuged, transferred into 2-ml tubes containing 500 mg of 0.1-mm zirconiasilica beads (Biospec Products, Bartlesville, OK, USA), and dispersed in 700 ␮l of a solution containing precooled TPM buffer (50 mM Tris-HCl [pH 7.0], 1.7% [wt/vol] polyvinylpyrrolidone K25, 20 mM MgCl2), 35 ␮l of 20% SDS, and 500 ␮l of phenol 
+acterial cells were pelleted dispersed in a 0.85 % NaCl solution and homogenized prior to inoculation 
+he vials were sealed with rubber stoppers and metal seals flushed for 10 min with N2 to remove oxygen from the headspace and autoclaved 
+ubstrate addition inoculation and sampling of these vials were performed through the rubber stopper using a syringe and a needle 
+acterial cells were centrifuged transferred into 2-ml tubes containing 500 mg of 0.1-mm zirconiasilica beads Biospec Products Bartlesville OK USA and dispersed in 700 ␮l of a solution containing precooled TPM buffer 50 mM Tris-HCl pH 7.0 1.7 % wt/vol polyvinylpyrrolidone K25 , 20 mM MgCl2 , 35 ␮l of 20 % SDS , and 500 ␮l of phenol 
 he samples were flash frozen with liquid nitrogen and stored at ⫺80°C until RNA extraction was performed 
-he tubes were then centrifuged at 20,000 ⫻ g for 5 min at 4°C, and the upper phase was transferred into a new tube 
-he bead beating and centrifugation steps were repeated following the addition of 700 ␮l of PBB buffer (5 mM Tris-HCl [pH 7.0], 5 mM Na2 EDTA, 1% [wt/vol] SDS, 6% [vol/vol] water-saturated phenol) to the tubes containing the bacterial cells 
-oth upper phases were further extracted with phenol-chloroform-isoamyl alcohol (25:24:1 [vol/vol/vol]) and chloroformisoamyl alcohol (24:1 [vol/vol]) 
-NA was recovered by precipitation with a 1/10 volume of 3 M sodium acetate (pH 5.2) and 2 volumes of 100% ethanol at ⫺20°C overnight 
-fter centrifugation at 20,000 ⫻ g for 45 min at 4°C, the supernatant was discarded, and the pellets were washed with 70% ethanol (13,000 ⫻ g for 10 min at 4°C), dried at room temperature for 15 min, dissolved in diethyl pyrocarbonate (DEPC)-treated water, and treated with Turbo DNase (Ambion; Life Technologies Inc., Burlington, ON, Canada) for 30 min to remove all contaminating DNA 
-NA integrity was verified by gel electrophoresis, and RNA quantification was performed by using a NanoDrop ND-1000 spectrophotometer (NanoDrop Products, Wilmington, DE, USA) 
-everse transcription and quantitative PCR assays. cDNAs were generated from RNA by using hexameric primers and the reverse transcription system from Promega (Madison, WI, USA) with 1 ␮g of extracted RNA, according to the manufacturer’s protocols 
-he final volume of all of the reaction mixtures was 20 ␮l, and the amplification mix was composed of 10 ␮l of PerfeCTa SYBR green SuperMix, 0.4 ␮l of each primer (40 pmol), 4.2 ␮l of RNA-free water, and 5 ␮l of cDNA (50 ng) 
-CR started with an initial denaturation step for 10 min at 95°C followed by 40 cycles of 30 s at 95°C, 30 s at 55°C, and 30 s at 72°C 
+he tubes were then centrifuged at 20,000 ⫻ g for 5 min at 4°C and the upper phase was transferred into a new tube 
+he bead beating and centrifugation steps were repeated following the addition of 700 ␮l of PBB buffer 5 mM Tris-HCl pH 7.0 5 mM Na2 EDTA 1 % wt/vol SDS , 6 % vol/vol water-saturated phenol to the tubes containing the bacterial cells 
+oth upper phases were further extracted with phenol-chloroform-isoamyl alcohol 25:24:1 vol/vol/vol ) and chloroformisoamyl alcohol 24:1 vol/vol ) 
+NA was recovered by precipitation with a 1/10 volume of 3 M sodium acetate pH 5.2 and 2 volumes of 100 % ethanol at ⫺20°C overnight 
+fter centrifugation at 20,000 ⫻ g for 45 min at 4°C the supernatant was discarded and the pellets were washed with 70 % ethanol 13,000 ⫻ g for 10 min at 4°C dried at room temperature for 15 min dissolved in diethyl pyrocarbonate DEPC -treated water and treated with Turbo DNase Ambion Life Technologies Inc. Burlington ON , Canada for 30 min to remove all contaminating DNA 
+NA integrity was verified by gel electrophoresis and RNA quantification was performed by using a NanoDrop ND-1000 spectrophotometer NanoDrop Products Wilmington DE USA 
+everse transcription and quantitative PCR assays . cDNAs were generated from RNA by using hexameric primers and the reverse transcription system from Promega Madison WI USA with 1 ␮g of extracted RNA according to the manufacturer ’ s protocols 
+he final volume of all of the reaction mixtures was 20 ␮l and the amplification mix was composed of 10 ␮l of PerfeCTa SYBR green SuperMix 0.4 ␮l of each primer 40 pmol 4.2 ␮l of RNA-free water , and 5 ␮l of cDNA 50 ng 
+CR started with an initial denaturation step for 10 min at 95°C followed by 40 cycles of 30 s at 95°C 30 s at 55°C and 30 s at 72°C 
 he fluorescence signal was acquired at the end of the 72°C step and at the end of a 15-s reading step at 80°C that was added to the end of each cycle to avoid fluorescence from primer dimers 
-rimers were designed with Primer3web version 4.0.0 (34, 35) to target the napA, narG, nirK, cnorB, and nosZ denitrification genes and the rpoB and dnaG reference genes of the three Hyphomicrobium species (see Table S2 in the supplemental material) 
-ach of the primer sets was tested for specificity and efficiency of amplification by qPCR with serial dilutions of purified PCR fragments (efficiencies of between 0.92 and 1.05) 
+rimers were designed with Primer3web version 4.0.0 34 35 to target the napA narG nirK cnorB and nosZ denitrification genes and the rpoB and dnaG reference genes of the three Hyphomicrobium species see Table S2 in the supplemental material 
+ach of the primer sets was tested for specificity and efficiency of amplification by qPCR with serial dilutions of purified PCR fragments efficiencies of between 0.92 and 1.05 
 alculations and statistical analyses 
-rowth and denitrification rates were obtained by calculating the slope of the linear portion of the growth and denitrification curves, respectively 
-or each Hyphomicrobium species, the control gene was chosen from among the two genes tested (rpoB and dnaG) by using RefFinder (http://www.leonxie.com /referencegene.php), an online tool that allows the selection of the appropriate control gene based on the lowest variability according to geNorm (37), Normfinder (38), BestKeeper (39), and the comparative ⌬⌬CT method (40) 
-NOVA and post hoc Tukey honestly significant difference (HSD) tests were then carried out by using the “aov” and “TukeyHSD” functions, respectively 
-he general characteristics of the three genomes are presented in Tables 1 and 2 and Fig. 1 
- total of 1,961 orthologous genes are shared among the three species (Fig. 1), with 2,150 orthologous genes shared between H. nitrativorans and H. denitrificans, 2,687 shared between H. nitrativorans and H. zavarzinii, and 2,355 shared between H. denitrificans and H. zavarzinii (Table 2) 
-he number of unique genes (found in one species but not in the other two) constitutes between 16.3 and 25.7% of the total genes, with the highest number of unique genes being found in H. denitrificans (Fig. 1) 
-enes encoding the Na⫹/H⫹ multisubunit antiporter were found in H. nitrativorans, and NhaA-type and NhaD-type Na⫹/H⫹ antiporter genes were found in the other 2 species 
+rowth and denitrification rates were obtained by calculating the slope of the linear portion of the growth and denitrification curves respectively 
+or each Hyphomicrobium species the control gene was chosen from among the two genes tested rpoB and dnaG by using RefFinder http //www.leonxie.com /referencegene.php , an online tool that allows the selection of the appropriate control gene based on the lowest variability according to geNorm 37 , Normfinder 38 , BestKeeper 39 , and the comparative ⌬⌬CT method 40 
+NOVA and post hoc Tukey honestly significant difference HSD tests were then carried out by using the “ aov ” and “ TukeyHSD ” functions respectively 
+he general characteristics of the three genomes are presented in Tables 1 and 2 and Fig . 1 
+total of 1,961 orthologous genes are shared among the three species Fig . 1 with 2,150 orthologous genes shared between H. nitrativorans and H. denitrificans 2,687 shared between H. nitrativorans and H. zavarzinii , and 2,355 shared between H. denitrificans and H. zavarzinii Table 2 
+he number of unique genes found in one species but not in the other two constitutes between 16.3 and 25.7 % of the total genes with the highest number of unique genes being found in H. denitrificans Fig . 1 
+enes encoding the Na⫹/H⫹ multisubunit antiporter were found in H. nitrativorans and NhaA-type and NhaD-type Na⫹/H⫹ antiporter genes were found in the other 2 species 
 . nitrativorans and H. zavarzinii carry genes encoding methylamine dehydrogenase and associated proteins 
-hese genes were not found in H. denitrificans, which is surprising because this bacterium can utilize monomethylamine, dimethylamine, and trimethylamine as sole carbon sources (5) 
-lustered regularly interspaced short palindromic repeats (CRISPRs) and CRISPR-associated proteins were found in H. nitrativorans, whereas only CRISPR-associated proteins were found in H. zavarzinii 
-he three species also have a nirK gene encoding the copper-containing nitrite reductase, along with the nirV gene encoding an accessory protein in H. nitrativorans and H. zavarzinii 
-P002083)  Nar  NP  narK12f-narGHJI (Hden0925 to Hden0929)  Nap  napEFDABC-napGH (W91113865 to W91113890, W91102520 to W91102525)  Nir  nirK-nirV-nnrR (W91113050 to W91113060)  Nor  nnrS-cnorCBQDE (W91107415 to W91107440)  Nos  nosRZDFYLX (W91108030 to W91108060)  narK12f-narGHJI (nar-1) (F812RS0121405 to F812RS0121425) narK1-narK2-narGHJI (nar-2) (F812RS24645, F812RS24650, F812RS0118690 to F812RS0118710) napDABC-napGH (F812RS0114960 to F812RS0114975, F812RS0108875 to F812RS0108880) nirK-nirV-nnrR (F812RS0115595 to F812RS0115605) cnorCBQDE (F812RS0108785 to F812RS0108805) nnrS-nosRZDFYLX (F812RS24275 to F812RS24285, F812RS0116365 to F812RS0116390)  a  NPa  nirK-nnrS (Hden0590 and Hden0591) cnorE-cnorCBQD (Hden0580 to Hden0584) nosRZDFYLX (Hden1877 to Hden1883)  NP, not present.  5006  aem.asm.org  Applied and Environmental Microbiology  August 2015 Volume 81 Number 15  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  FIG 1 Venn diagram illustrating the number of orthologs found across the  tected upstream of the nar gene clusters in H. denitrificans and H. zavarzinii 
-wo distinct genes encoding NarK transporters, a NarK1-type symporter and a NarK2-type nitrate/nitrite antiporter, are located upstream of the nar-2 gene cluster in H. zavarzinii 
-ne gene encoding a fused NarK1-NarK2-type transporter (here named narK12f) (41) is located upstream of the nar-1 gene cluster in H. zavarzinii and the nar gene cluster in H. denitrificans 
-enes commonly associated with the regulation of denitrification gene expression, such as nnrS and nrrR, were detected in the three genomes 
+hese genes were not found in H. denitrificans which is surprising because this bacterium can utilize monomethylamine dimethylamine and trimethylamine as sole carbon sources 5 
+lustered regularly interspaced short palindromic repeats CRISPRs and CRISPR-associated proteins were found in H. nitrativorans whereas only CRISPR-associated proteins were found in H. zavarzinii 
+he three species also have a nirK gene encoding the copper-containing nitrite reductase along with the nirV gene encoding an accessory protein in H. nitrativorans and H. zavarzinii 
+P002083 Nar NP narK12f-narGHJI Hden0925 to Hden0929 Nap napEFDABC-napGH W91113865 to W91113890 W91102520 to W91102525 Nir nirK-nirV-nnrR W91113050 to W91113060 Nor nnrS-cnorCBQDE W91107415 to W91107440 Nos nosRZDFYLX W91108030 to W91108060 narK12f-narGHJI nar-1 F812RS0121405 to F812RS0121425 narK1-narK2-narGHJI nar-2 F812RS24645 F812RS24650 F812RS0118690 to F812RS0118710 napDABC-napGH F812RS0114960 to F812RS0114975 F812RS0108875 to F812RS0108880 nirK-nirV-nnrR F812RS0115595 to F812RS0115605 cnorCBQDE F812RS0108785 to F812RS0108805 nnrS-nosRZDFYLX F812RS24275 to F812RS24285 F812RS0116365 to F812RS0116390 a NPa nirK-nnrS Hden0590 and Hden0591 cnorE-cnorCBQD ( Hden0580 to Hden0584 nosRZDFYLX ( Hden1877 to Hden1883 NP not present . 5006 aem.asm.org Applied and Environmental Microbiology August 2015 Volume 81 Number 15 Downloaded from http //aem.asm.org/ on February 15 2018 by guest FIG 1 Venn diagram illustrating the number of orthologs found across the tected upstream of the nar gene clusters in H. denitrificans and H. zavarzinii 
+wo distinct genes encoding NarK transporters a NarK1-type symporter and a NarK2-type nitrate/nitrite antiporter are located upstream of the nar-2 gene cluster in H. zavarzinii 
+ne gene encoding a fused NarK1-NarK2-type transporter here named narK12f ( 41 is located upstream of the nar-1 gene cluster in H. zavarzinii and the nar gene cluster in H. denitrificans 
+enes commonly associated with the regulation of denitrification gene expression such as nnrS and nrrR were detected in the three genomes 
 he narXL two-component transcription regulatory system was found in H. denitrificans and H. zavarzinii 
-ll these reductases are phylogenetically related to known denitrification reductases found in other Alphaproteobacteria, with sequence identities generally above 80%, except for NarG2 and NosZ of H. zavarzinii (maximum of 69% identity in both cases) (see Fig 
-he addition of acetylene led to the accumulation of N2O in the headspace of the vials, while no (H. nitrativorans) or less (H. denitrificans and H. zavarzinii) N2O accumulation was observed in cultures incubated without  Denitriﬁcation in Three Hyphomicrobium Species  cultured in triplicate under denitrifying conditions with an initial concentration of 14.3 mM (diamonds), 42.8 mM (squares), 71.4 mM (triangles), or 107 mM (crosses) NaNO3 
-. nitrativorans had the capacity to grow (Fig. 2A) and denitrify without significant nitrite accumulation (Fig. 2D) at all of the concentrations of NaNO3 tested, with optimal growth at 71.4 mM NaNO3 
-n contrast, growth and denitrification by H.  August 2015 Volume 81 Number 15  denitrificans and H. zavarzinii were almost completely inhibited at 107 mM NaNO3 (Fig. 2B, C, E, and F) 
-or H. denitrificans and H. zavarzinii, optimal growth and denitrification were observed at 42.8 mM NaNO3, although higher levels of nitrite were constantly detected in cultures of H. denitrificans 
-hile these higher levels of nitrite were transient at initial concentrations of 14.3 and 42.8 mM NaNO3 in H. denitrificans, nitrite accumulation leading to incomplete denitrification was detected at 71.4 mM NaNO3 (Fig. 2E) 
-. nitrativorans (A and D), H. denitrificans (B and E), and H. zavarzinii (C and F) were  Martineau et al.  ment, tolerance to increasing NaCl concentrations ranging from 0 to 2% NaCl was assessed under denitrifying conditions for the three species 
-rowth of and denitrification by H. nitrativorans were detected at all of the NaCl concentrations tested, without nitrite accumulation, although a concentration of 2% led to slower growth and denitrification (Fig. 4A and D) 
-ncreasing NaCl concentrations ranging from 0 to 1% led to delayed growth and denitrification in H. denitrificans (Fig. 4B and E) and slower growth and denitrification in H. zavarzinii (Fig. 4C and F) 
-t 2% NaCl, these two species showed poor or no growth and no denitrifying activity 
-rowth and denitrification were assessed at 14.3 and 71.4 mM NaNO3 and at 0 and 0.5% NaCl (Table 4) 
-ompared to the two other species, it has the capacity to denitrify  Applied and Environmental Microbiology  August 2015 Volume 81 Number 15  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  FIG 3 Effect of acetylene on the production of N2O 
-. nitrativorans (triangles), H. denitrificans (squares), and H. zavarzinii (circles) were cultured in triplicate under denitrifying conditions with (full lines) or without (dotted lines) acetylene at an initial concentration of 14.3 mM NaNO3 
-he three Hyphomicrobium species were cultured under the following denitrifying conditions: (i) 14.3 mM NaNO3 and 0% NaCl, (ii) 71.4 mM NaNO3 and 0% NaCl, (iii) 14.3 mM NaNO3 and 0.5% NaCl, and (iv) 71.4 mM NaNO3 and 0.5% NaCl 
-elative expression levels of the napA, narG, and nirK genes were measured during the mid-exponential growth phase, with cultures grown in 14.3 mM NaNO3 and 0% NaCl as the reference culture (Fig. 5A to C) 
-n H. denitrificans, a significant effect was observed exclusively for relative gene expression levels of nirK in cultures grown with 71.4 mM NaNO3 and 0% NaCl (5.8-fold increase) (Fig. 5B) 
+ll these reductases are phylogenetically related to known denitrification reductases found in other Alphaproteobacteria with sequence identities generally above 80 % except for NarG2 and NosZ of H. zavarzinii maximum of 69 % identity in both cases ( see Fig 
+he addition of acetylene led to the accumulation of N2O in the headspace of the vials while no H. nitrativorans or less H. denitrificans and H. zavarzinii N2O accumulation was observed in cultures incubated without Denitriﬁcation in Three Hyphomicrobium Species cultured in triplicate under denitrifying conditions with an initial concentration of 14.3 mM diamonds , 42.8 mM squares , 71.4 mM triangles , or 107 mM crosses NaNO3 
+. nitrativorans had the capacity to grow Fig . 2A and denitrify without significant nitrite accumulation Fig . 2D at all of the concentrations of NaNO3 tested with optimal growth at 71.4 mM NaNO3 
+n contrast growth and denitrification by H. August 2015 Volume 81 Number 15 denitrificans and H. zavarzinii were almost completely inhibited at 107 mM NaNO3 Fig . 2B C E and F 
+or H. denitrificans and H. zavarzinii optimal growth and denitrification were observed at 42.8 mM NaNO3 although higher levels of nitrite were constantly detected in cultures of H. denitrificans 
+hile these higher levels of nitrite were transient at initial concentrations of 14.3 and 42.8 mM NaNO3 in H. denitrificans nitrite accumulation leading to incomplete denitrification was detected at 71.4 mM NaNO3 Fig . 2E 
+. nitrativorans A and D H. denitrificans B and E , and H. zavarzinii C and F were Martineau et al . ment , tolerance to increasing NaCl concentrations ranging from 0 to 2 % NaCl was assessed under denitrifying conditions for the three species 
+rowth of and denitrification by H. nitrativorans were detected at all of the NaCl concentrations tested without nitrite accumulation although a concentration of 2 % led to slower growth and denitrification Fig . 4A and D 
+ncreasing NaCl concentrations ranging from 0 to 1 % led to delayed growth and denitrification in H. denitrificans Fig . 4B and E and slower growth and denitrification in H. zavarzinii Fig . 4C and F 
+t 2 % NaCl these two species showed poor or no growth and no denitrifying activity 
+rowth and denitrification were assessed at 14.3 and 71.4 mM NaNO3 and at 0 and 0.5 % NaCl Table 4 
+ompared to the two other species it has the capacity to denitrify Applied and Environmental Microbiology August 2015 Volume 81 Number 15 Downloaded from http //aem.asm.org/ on February 15 2018 by guest FIG 3 Effect of acetylene on the production of N2O 
+. nitrativorans triangles , H. denitrificans squares , and H. zavarzinii circles were cultured in triplicate under denitrifying conditions with full lines or without dotted lines acetylene at an initial concentration of 14.3 mM NaNO3 
+he three Hyphomicrobium species were cultured under the following denitrifying conditions i 14.3 mM NaNO3 and 0 % NaCl ( ii 71.4 mM NaNO3 and 0 % NaCl ( iii 14.3 mM NaNO3 and 0.5 % NaCl and ( iv 71.4 mM NaNO3 and 0.5 % NaCl 
+elative expression levels of the napA narG and nirK genes were measured during the mid-exponential growth phase with cultures grown in 14.3 mM NaNO3 and 0 % NaCl as the reference culture Fig . 5A to C 
+n H. denitrificans a significant effect was observed exclusively for relative gene expression levels of nirK in cultures grown with 71.4 mM NaNO3 and 0 % NaCl 5.8-fold increase ( Fig . 5B 
 xygen is also known to have a major effect on denitrification and the denitrification reductases 
-he relative expression levels of the napA, narG, and nirK genes were measured as described above, with the culture grown aerobic conditions set as the reference culture (Fig. 5D and E) 
-owever, the incubation of this bacterial species under denitrifying conditions led to a strong increase in the relative gene expression level of narG1 (36.4-fold), a slight but significant increase in the level of narG2 (1.8-fold), and a significant decrease in the level of napA (⫺8.3-fold) (Fig. 5F).  Denitriﬁcation in Three Hyphomicrobium Species  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest FIG 4 Effect of NaCl concentration on growth and denitrification 
-. nitrativorans (A and D), H. denitrificans (B and E), and H. zavarzinii (C and F) were cultured in triplicate under denitrifying conditions with 0% (diamonds), 0.5% (squares), 1% (triangles), and 2% (crosses) NaCl 
-he detailed comparison of the H. nitrativorans, H. denitrificans, and H. zavarzinii genomes has highlighted the facts that a large number of orthologous genes are shared among these three species and that very few genes with known functions are unique to a single species 
-ndeed, while H. nitrativorans and H. denitrificans are characterized by the presence of a single Nap or Nar gene cluster, respectively, one Nap and two Nar gene clusters have been identified in the genome of H. zavarzinii 
-A, not applicable.  5010  aem.asm.org  Applied and Environmental Microbiology  August 2015 Volume 81 Number 15  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  ductase, which is clearly distinct from the nitrite reductases found in other Hyphomicrobium species 
-s expected, H. nitrativorans also demonstrated better tolerance to NaCl than the two other Hyphomicrobium species tested and showed small but significant increases in the napA and nirK relative gene expression levels when NaCl was added to the growth medium 
-ndeed, while total growth inhibition at NaCl concentrations of ⬎1% was previously reported for H. nitrativorans under aerobic conditions (21), our results demonstrate growth and complete denitrification by this bacterium at NaCl concentrations of up to 2% 
-he three species were cultured in triplicate under denitrifying conditions with 14.3 mM NaNO3 and 0% NaCl (reference cultures are represented by the dashed line set at 1 in each panel), with 71.4 mM NaNO3 and 0% NaCl, with 14.3 mM NaNO3 and 0.5% NaCl, or with 71.4 mM NaNO3 and 0.5% NaCl. (D and E) Effects of oxygen 
-his expression pattern is similar to our results for H. zavarzinii, with growth under denitrifying conditions leading to the repression of napA and the overexpression of narG1 and, to a lesser extent,  Martineau et al.  5012  aem.asm.org  that other factors, such as the presence of distinct enzymes with similar functions, might also play an important role 
-owever, such an effect was not observed for H. denitrificans and H. zavarzinii 
-n fact, H. zavarzinii and H. nitrativorans have the same gene arrangement in the nirK locus (Table 3), and both showed a potential NnrR binding site (data not shown) 
-his project was financially supported by a grant to R.V. from the Natural Sciences and Engineering Research Council of Canada and by scholarships to C.M. from the Fondation Universitaire Armand-Frappier and the Fonds de Recherche du Québec Nature et Technologies.  REFERENCES 1 
-enus Hyphomicrobium Stutzer and Hartleb 1898, 76AL, p 476 – 494 
-istribution of denitrification and nitrogen fixation genes in Hyphomicrobium spp. and other budding bacteria 
+he relative expression levels of the napA narG and nirK genes were measured as described above with the culture grown aerobic conditions set as the reference culture Fig . 5D and E 
+owever the incubation of this bacterial species under denitrifying conditions led to a strong increase in the relative gene expression level of narG1 36.4-fold a slight but significant increase in the level of narG2 1.8-fold , and a significant decrease in the level of napA ⫺8.3-fold ( Fig . 5F . Denitriﬁcation in Three Hyphomicrobium Species Downloaded from http //aem.asm.org/ on February 15 , 2018 by guest FIG 4 Effect of NaCl concentration on growth and denitrification 
+. nitrativorans A and D , H. denitrificans B and E , and H. zavarzinii C and F were cultured in triplicate under denitrifying conditions with 0 % diamonds , 0.5 % squares , 1 % triangles , and 2 % crosses NaCl 
+he detailed comparison of the H. nitrativorans H. denitrificans and H. zavarzinii genomes has highlighted the facts that a large number of orthologous genes are shared among these three species and that very few genes with known functions are unique to a single species 
+ndeed while H. nitrativorans and H. denitrificans are characterized by the presence of a single Nap or Nar gene cluster respectively one Nap and two Nar gene clusters have been identified in the genome of H. zavarzinii 
+A not applicable . 5010 aem.asm.org Applied and Environmental Microbiology August 2015 Volume 81 Number 15 Downloaded from http //aem.asm.org/ on February 15 2018 by guest ductase which is clearly distinct from the nitrite reductases found in other Hyphomicrobium species 
+s expected H. nitrativorans also demonstrated better tolerance to NaCl than the two other Hyphomicrobium species tested and showed small but significant increases in the napA and nirK relative gene expression levels when NaCl was added to the growth medium 
+ndeed while total growth inhibition at NaCl concentrations of ⬎1 % was previously reported for H. nitrativorans under aerobic conditions 21 , our results demonstrate growth and complete denitrification by this bacterium at NaCl concentrations of up to 2 % 
+he three species were cultured in triplicate under denitrifying conditions with 14.3 mM NaNO3 and 0 % NaCl reference cultures are represented by the dashed line set at 1 in each panel with 71.4 mM NaNO3 and 0 % NaCl with 14.3 mM NaNO3 and 0.5 % NaCl , or with 71.4 mM NaNO3 and 0.5 % NaCl . D and E Effects of oxygen 
+his expression pattern is similar to our results for H. zavarzinii with growth under denitrifying conditions leading to the repression of napA and the overexpression of narG1 and to a lesser extent Martineau et al . 5012 aem.asm.org that other factors such as the presence of distinct enzymes with similar functions might also play an important role 
+owever such an effect was not observed for H. denitrificans and H. zavarzinii 
+n fact H. zavarzinii and H. nitrativorans have the same gene arrangement in the nirK locus Table 3 , and both showed a potential NnrR binding site data not shown 
+his project was financially supported by a grant to R.V . from the Natural Sciences and Engineering Research Council of Canada and by scholarships to C.M . from the Fondation Universitaire Armand-Frappier and the Fonds de Recherche du Québec Nature et Technologies . REFERENCES 1 
+enus Hyphomicrobium Stutzer and Hartleb 1898 76AL p 476 – 494 
+istribution of denitrification and nitrogen fixation genes in Hyphomicrobium spp . and other budding bacteria 
 NA-probing indicates the occurrence of denitrification and nitrogen fixation genes in Hyphomicrobium 
 istribution of denitrifying and nitrogen fixing isolates of Hyphomicrobium in a sewage treatment plant 
-enitrification with methanol: fundamental study of the growth and denitrification capacity of Hyphomicrobium sp 
-haracterization and description of Hyphomicrobium denitrificans sp. nov 
-iology, physiology and biochemistry of Hyphomicrobia 
+enitrification with methanol fundamental study of the growth and denitrification capacity of Hyphomicrobium sp 
+haracterization and description of Hyphomicrobium denitrificans sp . nov 
+iology physiology and biochemistry of Hyphomicrobia 
 mpact of varying electron donors on the molecular microbial ecology and biokinetics of methylotrophic denitrifying bacteria 
 ommunity structures and activities of nitrifying and denitrifying bacteria in industrial wastewater-treating biofilms 
-ater Sci Technol 58(2):359 – 365. http://dx.doi.org/10.2166/wst.2008.391.  Applied and Environmental Microbiology  August 2015 Volume 81 Number 15  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  strates (13, 52) 
-hodobacter sphaeroides 2.4.3 possesses two Nap operons, one, identified as Nap-␣, being similar to Nap operons found in other Alphaproteobacteria (napKEFDABC) and the other, identified as Nap-␤, being similar to the Nap operons found in Gammaproteobacteria (napFDAGHBC) such as Shewanella spp. and E. coli (54) 
-t is important to note that the highest denitrification efficiencies were observed for a Shewanella strain lacking the nap-␤ operon (55) and for a nap-␤ mutant Shewanella strain (56), indicating that the ␣ isoform plays a major role in anaerobic respiration in this bacterial genus 
-aken together, these results further illustrate that there is no clear association between the isoform and the physiological role of Nap and  Denitriﬁcation in Three Hyphomicrobium Species  August 2015 Volume 81 Number 15  29. 30. 31. 32. 33. 34.  35. 36. 37.  38.  39.  40. 41.  42.  43. 44.  45.  46. 47. 48.  49.  system 
-arling AE, Mau B, Perna NT. 2010. progressiveMauve: multiple genome alignment with gene gain, loss and rearrangement 
-rimer3 on the WWW for general users and for biologist programmers, p 365–386 
-n Misener S, Krawetz S (ed), Bioinformatics methods and protocols, vol 132 
+ater Sci Technol 58 2 :359 – 365. http //dx.doi.org/10.2166/wst.2008.391 . Applied and Environmental Microbiology August 2015 Volume 81 Number 15 Downloaded from http //aem.asm.org/ on February 15 2018 by guest strates 13 52 
+hodobacter sphaeroides 2.4.3 possesses two Nap operons one identified as Nap-␣ being similar to Nap operons found in other Alphaproteobacteria napKEFDABC and the other identified as Nap-␤ being similar to the Nap operons found in Gammaproteobacteria napFDAGHBC such as Shewanella spp . and E. coli 54 
+t is important to note that the highest denitrification efficiencies were observed for a Shewanella strain lacking the nap-␤ operon 55 and for a nap-␤ mutant Shewanella strain 56 , indicating that the ␣ isoform plays a major role in anaerobic respiration in this bacterial genus 
+aken together these results further illustrate that there is no clear association between the isoform and the physiological role of Nap and Denitriﬁcation in Three Hyphomicrobium Species August 2015 Volume 81 Number 15 29 . 30 . 31 . 32 . 33 . 34 . 35 . 36 . 37 . 38 . 39 . 40 . 41 . 42 . 43 . 44 . 45 . 46 . 47 . 48 . 49. system 
+arling AE Mau B Perna NT . 2010. progressiveMauve multiple genome alignment with gene gain loss and rearrangement 
+rimer3 on the WWW for general users and for biologist programmers p 365–386 
+n Misener S Krawetz S ed Bioinformatics methods and protocols , vol 132 
 nalysis of relative gene expression data using real-time quantitative PCR and the 2-⌬⌬Ct method 
-ormalization of real-time quantitative reverse transcription-PCR data: a model-based variance estimation approach to identify genes suited for normalization, applied to bladder and colon cancer data sets 
-etermination of stable housekeeping genes, differentially regulated target genes and sample integrity: BestKeeper—Excel-based tool using pair-wise correlations 
-otter LC, Millington P, Griffiths L, Thomas GH, Cole JA. 1999.  Applied and Environmental Microbiology  aem.asm.org  5013  Downloaded from http://aem.asm.org/ on February 15, 2018 by guest  11 
+ormalization of real-time quantitative reverse transcription-PCR data a model-based variance estimation approach to identify genes suited for normalization applied to bladder and colon cancer data sets 
+etermination of stable housekeeping genes differentially regulated target genes and sample integrity BestKeeper—Excel-based tool using pair-wise correlations 
+otter LC Millington P Griffiths L Thomas GH Cole JA . 1999 . Applied and Environmental Microbiology aem.asm.org 5013 Downloaded from http //aem.asm.org/ on February 15 2018 by guest 11 
 enitrifying genes in bacterial and archaeal genomes 
 pectroscopic and functional characterization of Cu-containing nitrite reductase from Hyphomicrobium denitrificans A3151 
 tructure and function of a hexameric copper-containing nitrite reductase 
-ethylophaga nitratireducenticrescens sp. nov. and Methylophaga frappieri sp. nov., isolated from the biofilm of the methanol-fed denitrification system treating the seawater at the Montreal Biodome 
-he SEED and the Rapid Annotation of Microbial Genomes Using Subsystems Technology (RAST) 
+ethylophaga nitratireducenticrescens sp . nov. and Methylophaga frappieri sp . nov. isolated from the biofilm of the methanol-fed denitrification system treating the seawater at the Montreal Biodome 
+he SEED and the Rapid Annotation of Microbial Genomes Using Subsystems Technology RAST 
 hysiological and evolutionary studies of NAP systems in Shewanella piezotolerans WP3 
-omplete genome sequences of Methylophaga sp. strain JAM1 and Methylophaga sp. strain JAM7 
+omplete genome sequences of Methylophaga sp . strain JAM1 and Methylophaga sp . strain JAM7 
 haracterization and regulation of the gene encoding nitrite reductase in Rhodobacter sphaeroides 2.4.3 
-enitrification takes place in bacterial cells where N-oxides and/or N-oxyanions serve as the terminal electron acceptor instead of oxygen (O2) for energy production when oxygen depletion occurs, leading to the production of gaseous nitrogen (N2) (11) 
-. zavarzinii is a soil bacterium that has been studied mainly for the biotechnological potential of the exceptional formaldehyde dehydrogenase found in strain ZV580 (19, 20) 
-ecently, we described a new denitrifying species of the genus Hyphomicrobium, H. nitrativorans NL23T (21, 22) 
-his bacterium was isolated  August 2015 Volume 81 Number 15  from a methanol-fed denitrification system treating seawater at the Montreal Biodome in Canada 
-his could be related to the fact that Hyphomicrobium spp. can be hard to culture, especially under denitrifying conditions 
-oncurrently with these differences observed at the genetic level, important differences in the denitrification capacities of these Hyphomicrobium species were determined 
-ecause H. nitrativorans was isolated from a marine environment, we focused on the effect of salt on denitrification 
+enitrification takes place in bacterial cells where N-oxides and/or N-oxyanions serve as the terminal electron acceptor instead of oxygen O2 for energy production when oxygen depletion occurs leading to the production of gaseous nitrogen N2 ( 11 
+. zavarzinii is a soil bacterium that has been studied mainly for the biotechnological potential of the exceptional formaldehyde dehydrogenase found in strain ZV580 19 20 
+ecently we described a new denitrifying species of the genus Hyphomicrobium H. nitrativorans NL23T 21 22 
+his bacterium was isolated August 2015 Volume 81 Number 15 from a methanol-fed denitrification system treating seawater at the Montreal Biodome in Canada 
+his could be related to the fact that Hyphomicrobium spp . can be hard to culture especially under denitrifying conditions 
+oncurrently with these differences observed at the genetic level important differences in the denitrification capacities of these Hyphomicrobium species were determined 
+ecause H. nitrativorans was isolated from a marine environment we focused on the effect of salt on denitrification 
 he general characteristics of the three bacterial species are presented in Table S1 in the supplemental material 
 his comparison was performed three times with a different genome set as the reference each time 
-he three genomes were also annotated by the Integrated Microbial Genomes (IMG) comparative analysis system of the Joint Genome Institute (http: //img.jgi.doe.gov/) (28) 
- genome comparison of the three species was further performed with MAUVE (29) 
-itrate was added to the precultures for all of the assays conducted under denitrifying conditions (unless otherwise specified) 
-ethanol was added to the growth medium as a carbon source at a concentration of 0.3% (vol/vol) prior to inoculation 
-he initial optical density of the cultures was adjusted to reach an optical density at 600 nm (OD600) close to 0.1 
+he three genomes were also annotated by the Integrated Microbial Genomes IMG comparative analysis system of the Joint Genome Institute http //img.jgi.doe.gov/ ( 28 
+genome comparison of the three species was further performed with MAUVE 29 
+itrate was added to the precultures for all of the assays conducted under denitrifying conditions unless otherwise specified 
+ethanol was added to the growth medium as a carbon source at a concentration of 0.3 % vol/vol prior to inoculation 
+he initial optical density of the cultures was adjusted to reach an optical density at 600 nm OD600 close to 0.1 
 ll cultures were incubated in the dark 
 NA was extracted from 15 to 30 ml of bacterial culture in the mid-exponential growth phase 
-fter thawing, RNA was extracted by bead beating twice with a FastPrep-24 instrument (MP Biomedicals, Solon, OH, USA), with the power set at 6.5 for 45 s 
-inally, RNA extracts were purified by using the RNeasy MinElute Cleanup kit according to the manufacturer’s instructions (Qiagen, Toronto, ON, Canada) 
-ll of the reactions were performed with a Corbett  Denitriﬁcation in Three Hyphomicrobium Species  RESULTS  TABLE 1 General characteristics of the genomes of the three Hyphomicrobium speciesa Value for species H. nitrativorans  H. zavarzinii  H. denitrificans  Size (bp) GC content (%) No. of scaffolds No. of genes  3,653,837 63.9 1 3,599  4,651,795 63.7 15 4,399  3,638,969 60.8 1 3,702  No. of CDSs rRNA operons tRNA  3,548 3 48  4,348 3 48  3,653 3 46  No. of CDSs with predicted function No. of CDSs without predicted function  2,182  2,764  2,293  1,366  1,584  1,360  a  Sequence analyses were performed in RAST 
-elative gene expression was calculated according to the ⌬⌬CT method (36) 
-rior to factorial ANOVA, normality was tested by using the “shapiro.test” function 
-f significant interactions were detected between the two factors, ANOVA was performed on a subset of data that were generated for each factor 
-hese results are consistent with the results of phylogenetic analysis of the 16S rRNA gene sequences (21) 
-utative unique pathways were found in each species or in two out of three species (see Table S3 in the supplemental material) 
- long cluster of genes associated with photosynthesis is present in H. zavarzinii, although there is no indication in the literature of photosynthesis-related activities in this bacterial species 
+fter thawing RNA was extracted by bead beating twice with a FastPrep-24 instrument MP Biomedicals Solon OH USA , with the power set at 6.5 for 45 s 
+inally RNA extracts were purified by using the RNeasy MinElute Cleanup kit according to the manufacturer ’ s instructions Qiagen Toronto ON Canada 
+ll of the reactions were performed with a Corbett Denitriﬁcation in Three Hyphomicrobium Species RESULTS TABLE 1 General characteristics of the genomes of the three Hyphomicrobium speciesa Value for species H. nitrativorans H. zavarzinii H. denitrificans Size bp GC content % No . of scaffolds No . of genes 3,653,837 63.9 1 3,599 4,651,795 63.7 15 4,399 3,638,969 60.8 1 3,702 No . of CDSs rRNA operons tRNA 3,548 3 48 4,348 3 48 3,653 3 46 No . of CDSs with predicted function No . of CDSs without predicted function 2,182 2,764 2,293 1,366 1,584 1,360 a Sequence analyses were performed in RAST 
+elative gene expression was calculated according to the ⌬⌬CT method 36 
+rior to factorial ANOVA normality was tested by using the “ shapiro.test ” function 
+f significant interactions were detected between the two factors ANOVA was performed on a subset of data that were generated for each factor 
+hese results are consistent with the results of phylogenetic analysis of the 16S rRNA gene sequences 21 
+utative unique pathways were found in each species or in two out of three species see Table S3 in the supplemental material 
+long cluster of genes associated with photosynthesis is present in H. zavarzinii although there is no indication in the literature of photosynthesis-related activities in this bacterial species 
 he urea decomposition pathways differ among the three species 
-owever, the draft genome showed an ⬃3,000-bp gap flanking the chromosomal region of the genome, suggesting a repeated region that could not be assembled properly 
+owever the draft genome showed an ⬃3,000-bp gap flanking the chromosomal region of the genome suggesting a repeated region that could not be assembled properly 
 enes associated with the denitrification pathway 
 umbers in the nonsharing zones represent unique genes with no homology to sequences in the other two species 
-owever, it is not located in the vicinity of the denitrification gene clusters in either species 
-1 in the supplemental material) 
+owever it is not located in the vicinity of the denitrification gene clusters in either species 
+1 in the supplemental material 
 he three Hyphomicrobium species cultivated under aerobic conditions with or without the addition of 14.3 mM NaNO3 showed similar growth curves 
-ssays were performed with an NaCl concentration of 0.5% in the growth medium 
-he standard deviations of the means for each time point are presented.  acetylene (Fig. 3), indicating that the three species can achieve complete denitrification 
-nder the culture conditions tested, H. nitrativorans was found to be the most efficient of the three Hyphomicrobium species evaluated 
+ssays were performed with an NaCl concentration of 0.5 % in the growth medium 
+he standard deviations of the means for each time point are presented . acetylene Fig . 3 , indicating that the three species can achieve complete denitrification 
+nder the culture conditions tested H. nitrativorans was found to be the most efficient of the three Hyphomicrobium species evaluated 
 he relative gene expression level of napA did not change under any of the conditions tested 
-e hypothesize that H. nitrativorans benefits from the osmoprotection of other bacteria, such as M. nitratireducenticrescens JAM1, to thrive in the artificial seawater of the Biodome aquarium (NaCl concentration of 2.4%) 
-t is characterized by the presence of two type I Cu sites, as opposed to the single type I Cu site found in the nitrite reductases of most bacteria (16, 17, 45) 
-urrently, the role of this distinct nitrite reductase in the denitrifying capacity of H. denitrificans is unknown, but it might be linked to the nitrite accumulation observed in H. denitrificans cultures 
+e hypothesize that H. nitrativorans benefits from the osmoprotection of other bacteria such as M. nitratireducenticrescens JAM1 to thrive in the artificial seawater of the Biodome aquarium NaCl concentration of 2.4 % 
+t is characterized by the presence of two type I Cu sites as opposed to the single type I Cu site found in the nitrite reductases of most bacteria 16 17 45 
+urrently the role of this distinct nitrite reductase in the denitrifying capacity of H. denitrificans is unknown but it might be linked to the nitrite accumulation observed in H. denitrificans cultures 
 he mechanisms of this enhanced tolerance to NaCl could be associated with the multisubunit Na⫹/H⫹ antiporter 
- gene cluster encoding this type of antiporter was found in the H. nitrativorans genome, whereas genes encoding an NhaA-type Na⫹/H⫹ antiporter were found in the genomes of the two other species 
-he three species were cultured in triplicate under aerobic conditions (reference cultures are represented by the dashed line set at 1 in each panel), aerobic conditions with 14.3 mM NaNO3, or denitrifying conditions with 14.3 mM NaNO3 
+gene cluster encoding this type of antiporter was found in the H. nitrativorans genome whereas genes encoding an NhaA-type Na⫹/H⫹ antiporter were found in the genomes of the two other species 
+he three species were cultured in triplicate under aerobic conditions reference cultures are represented by the dashed line set at 1 in each panel aerobic conditions with 14.3 mM NaNO3 , or denitrifying conditions with 14.3 mM NaNO3 
 enitrifying conditions were shown to increase the relative gene expression level of nirK in H. nitrativorans 
 o previous studies assessed quantitatively the expression of nirK under different culture conditions in Hyphomicrobium spp 
-n Rhodobacter sphaeroides 2.4.3, nirK expression is regulated by NnrR, a transcriptional activator of the CRP/FNR family (60, 62) 
-ene annotation of the H. denitrificans genome did not reveal sequences closely related to nnrR, which could explain the absence of regulation of nirK expression 
-reliminary assays performed in our laboratory indicated that this is not the case for H. zavarzinii, but more extensive work will have to be performed to rule out this hypothesis 
-or this bacterium, phylogenetic analyses revealed that Nar1 is more closely related to the Nar system of Betaproteobacteria, whereas Nar2 is more closely related to the Nar system found in other Gammaproteobacteria, suggesting that the Nar1 system was acquired by horizontal gene transfer (23) 
-he expression patterns of these two genes were also slightly different, with a much stronger effect of anaerobic conditions on the expression of narG1 than on the expression of narG2 
-lthough the napA gene product in H. nitrativorans is more related to Nap-␣ than to Nap-␤ of Rhodobacter sphaeroides 2.4.3, a distinct napA expression pattern was observed 
+n Rhodobacter sphaeroides 2.4.3 nirK expression is regulated by NnrR a transcriptional activator of the CRP/FNR family 60 62 
+ene annotation of the H. denitrificans genome did not reveal sequences closely related to nnrR which could explain the absence of regulation of nirK expression 
+reliminary assays performed in our laboratory indicated that this is not the case for H. zavarzinii but more extensive work will have to be performed to rule out this hypothesis 
+or this bacterium phylogenetic analyses revealed that Nar1 is more closely related to the Nar system of Betaproteobacteria whereas Nar2 is more closely related to the Nar system found in other Gammaproteobacteria suggesting that the Nar1 system was acquired by horizontal gene transfer 23 
+he expression patterns of these two genes were also slightly different with a much stronger effect of anaerobic conditions on the expression of narG1 than on the expression of narG2 
+lthough the napA gene product in H. nitrativorans is more related to Nap-␣ than to Nap-␤ of Rhodobacter sphaeroides 2.4.3 a distinct napA expression pattern was observed 
 evelopment of a fed-batch process for the production of a dye-linked formaldehyde dehydrogenase in Hyphomicrobium zavarzinii ZV 580 
- novel dye-linked formaldehyde dehydrogenase with some properties indicating the presence of a protein-bound redox-active quinone cofactor 
-yphomicrobium nitrativorans sp. nov., isolated from the biofilm of a methanol-fed denitrification system treating seawater at the Montreal Biodome (Canada) 
-omplete genome sequence of Hyphomicrobium nitrativorans strain NL23, a denitrifying bacterium isolated from biofilm of a methanol-fed denitrification system treating seawater at the Montreal Biodome 
-MG 4 version of the integrated microbial genomes comparative analysis  Martineau et al.  50. 51.  52.  53.  55.  5014  aem.asm.org  56 
-haracterization of the nirK gene encoding the respiratory, Cu-containing nitrite reductase of Bradyrhizobium japonicum 
-illiams & Wilkins, Baltimore, MD. 2 
-he only exception is norE, which is located upstream in a direction opposite that of cnorCBQD in H. denitrificans (Table 3) 
+novel dye-linked formaldehyde dehydrogenase with some properties indicating the presence of a protein-bound redox-active quinone cofactor 
+yphomicrobium nitrativorans sp . nov. isolated from the biofilm of a methanol-fed denitrification system treating seawater at the Montreal Biodome Canada 
+omplete genome sequence of Hyphomicrobium nitrativorans strain NL23 a denitrifying bacterium isolated from biofilm of a methanol-fed denitrification system treating seawater at the Montreal Biodome 
+MG 4 version of the integrated microbial genomes comparative analysis Martineau et al . 50 . 51 . 52 . 53 . 55 . 5014 aem.asm.org 56 
+haracterization of the nirK gene encoding the respiratory Cu-containing nitrite reductase of Bradyrhizobium japonicum 
+esefeldt A Kloos K Bothe H Lemmer H Gliesche CG . 1998 
+aytshtok V Lu H Park H Kim S Yu R Chandran K. 2009 
+atoh H Yamakawa T Kindaichi T Ito T Okabe S. 2006 
+aytshtok V Kim S Yu R Park H Chandran K. 2008 
+ntergasser A Nijveen H Rao X Bisseling T Geurts R Leunissen JAM . 2007 
+hang H Fu H Wang J Sun L Jiang Y Zhang L Gao H. 2013 
+ojiri M Xie Y Inoue T Yamamoto T Matsumura H Kataoka K Deligeer Yamaguchi K Kai Y Suzuki S. 2007 
+amaguchi K Kawamura A Ogawa H Suzuki S. 2003 
+ang H Tseng C-P Gunsalus RP . 1999 
+illiams & Wilkins Baltimore MD . 2 
+enome Announc 2 1 e01165-13 http : //dx.doi.org/10.1128/genomeA.01165-13 . 23 
+he only exception is norE which is located upstream in a direction opposite that of cnorCBQD in H. denitrificans Table 3 
 his hypothesis is currently being studied in our laboratory 
-he lack of an effect of denitrifying conditions on H. zavarzinii is surprising, as nnrR was found downstream of nirK 
-n H. zavarzinii, while narG1 is closely related to narG sequences found in other Alphaproteobacteria, narG2 is only distantly related to any known narG sequence 
+he lack of an effect of denitrifying conditions on H. zavarzinii is surprising as nnrR was found downstream of nirK 
+n H. zavarzinii while narG1 is closely related to narG sequences found in other Alphaproteobacteria narG2 is only distantly related to any known narG sequence 
 igh-rate denitrification using polyethylene glycol gel carriers entrapping heterotrophic denitrifying bacteria 
-S, not significant.  a  ophaga nitratireducenticrescens JAM1, which can tolerate NaCl concentrations of up to 8% (24) 
-ore surprisingly, H. nitrativorans showed better tolerance to NaCl when cultured under denitrifying conditions than previously reported for aerobic growth 
-he three Hyphomicrobium species were cultured under aerobic conditions, under aerobic conditions with 14.3 mM NaNO3, or under denitrifying conditions with 14.3 mM NaNO3 
- transient accumulation of nitrite was also observed in H. denitrificans cultures 
+S not significant . a ophaga nitratireducenticrescens JAM1 which can tolerate NaCl concentrations of up to 8 % 24 
+ore surprisingly H. nitrativorans showed better tolerance to NaCl when cultured under denitrifying conditions than previously reported for aerobic growth 
+he three Hyphomicrobium species were cultured under aerobic conditions under aerobic conditions with 14.3 mM NaNO3 or under denitrifying conditions with 14.3 mM NaNO3 
+transient accumulation of nitrite was also observed in H. denitrificans cultures 
 enomic analysis reveals widespread occurrence of new classes of copper nitrite reductases 
-haracterization of two type 1 Cu sites of Hyphomicrobium denitrificans nitrite reductase: a new class of copper-containing nitrite reductases 
-or each extraction step, centrifugation was performed at 20,000 ⫻ g for 5 min at 4°C 
-or each calculation, only one housekeeping gene was used as a control 
-icroaerobic or anaerobic conditions are known to regulate nirK expression in many bacterial species (59–61) 
+haracterization of two type 1 Cu sites of Hyphomicrobium denitrificans nitrite reductase a new class of copper-containing nitrite reductases 
+or each extraction step centrifugation was performed at 20,000 ⫻ g for 5 min at 4°C 
+or each calculation only one housekeeping gene was used as a control 
+icroaerobic or anaerobic conditions are known to regulate nirK expression in many bacterial species 59–61 
 he absence of DNA was confirmed by endpoint PCR analysis using 16S rRNA gene universal primers 
-DSs, coding DNA sequences.  Rotor-Gene 6000 real-time PCR machine (Qiagen) 
-ercentages of unique genes that were identified as encoding a HP (hypothetical protein with unknown function) are illustrated 
+DSs coding DNA sequences . Rotor-Gene 6000 real-time PCR machine Qiagen 
+ercentages of unique genes that were identified as encoding a HP hypothetical protein with unknown function are illustrated 
 election of housekeeping genes for gene expression studies in human reticulocytes using real-time PCR 
-erobic cultures used for RNA extraction were incubated with constant shaking (250 rpm) in 200-ml Erlenmeyer flasks containing 30 ml of growth medium 
-acterial growth was monitored by spectrophotometry (OD600) 
+erobic cultures used for RNA extraction were incubated with constant shaking 250 rpm in 200-ml Erlenmeyer flasks containing 30 ml of growth medium 
+acterial growth was monitored by spectrophotometry OD600 
+ziz R Bartels D Best A DeJongh M Disz T Edwards R Formsma K Gerdes S Glass E Kubal M Meyer F Olsen G Olson R Osterman A Overbeek R McNeil L Paarmann D Paczian T Parrello B Pusch G Reich C Stevens R Vassieva O Vonstein V Wilke A Zagnitko O . 2008 
+arkowitz VM Chen I-MA Palaniappan K Chu K Szeto E Pillay M Ratner A Huang J Woyke T Huntemann M Anderson I Billis K Varghese N Mavromatis K Pati A Ivanova NN Kyrpides NC . 2014 

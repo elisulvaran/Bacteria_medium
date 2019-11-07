@@ -1,30 +1,37 @@
 he integrity and size of the nucleic acids were determined visually after electrophoresis on a 1n2 % agarose gel containing ethidium bromide in the presence of markers and compared with the 16S rDNA of strain TGOT 
- he pH optimum was tested in medium by adding 0n15 g KH PO l−" # % instead of sodium bicarbonate 
-  bicarbonate-buffered medium with the following composition was used (l−") : 0n4 g KH PO , # %; 0n53 g Na HPO , 0n3 g NH Cl, 0n3 g NaCl, 0n1 g MgCl # g CaCl % % 1 ml alkaline trace element # 6H O, 0n11 ; 2H O, # # # solution, 1 ml acid trace element solution, 1 ml vitamin solution, 0n5 mg resazurin, 4 g NaHCO , 0n25 g Na S ; $ elements and # 7–9H O and 0n5 g yeast extract 
- yruvate was converted by strain TGOT to acetate, propionate, succinate (traces), H and CO . # # Glycerol was utilized slowly by the pure culture but, in co-culture, glycerol was converted rapidly to acetate, traces of propionate and CH . % Other substrates that could be used by the pure culture of TGOT were lactate, arabinose, fructose, galactose, glucose, maltose, mannitol, rhamnose and sucrose 
- n the original enrichment culture, glutamate was degraded to acetate, CH , NH+ and CO , with the intermediate % propionate % # 2a) 
- ugars are converted # % CO and# H as main products. to acetate, propionate, Growth occurs between 37# and 60# mC with optimum growth at 50–55 mC and at pH 5n5–8 (optimum pH 7) 
- International Journal of Systematic and Evolutionary Microbiology (2002), 52, 401–407  DOI : 10.1099/ijs.0.01949-0  Gelria glutamica gen. nov., sp. nov., a thermophilic, obligately syntrophic, glutamate-degrading anaerobe 1  2  Laboratory of Microbiology, Wageningen University, H. van Suchtelenweg 4, 6703 CT Wageningen, The Netherlands Wageningen Centre for Food Science, PO Box 557, 6700 AL Wageningen, The Netherlands  Caroline M 
- alues of ∆Gh were calculated under standard conditions : pH 7, 1 M solutes, 1 atmosphere gases and 55 mC (328 K). ∆Gh (kJ)  Reaction  Glutamate−j2H O 4 acetate−jHCO−j"H+jNH+j"butyrate− # $ # % # Glutamate−j3H O 4 2acetate−jHCO−jH+jNH+jH # $ % # − − − + Glutamate j2H O 4 2"acetate j"HCO j$H jNH+ # % # $ % % Glutamate−j2H O 4 1#acetate−j"propionate−j#HCO−j#H+jNH+ # $ $ $ $ $ % Glutamate−j4H O 4 propionate−j2HCO−jNH+j2H # $ % #  standard conditions, these reactions yield small amounts of energy 
- or the reconstitution experiments with axenic cultures of strain TGOT (0n5 %, v\v), strain TPO (2 %, v\v) and Methanobacterium thermautotrophicum Z-245 (2 %, v\v) were inoculated in medium with 20 mM glutamate 
+ he pH optimum was tested in medium by adding 0n15 g KH PO l− '' % instead of sodium bicarbonate 
+ bicarbonate-buffered medium with the following composition was used l− '' : 0n4 g KH PO % 0n53 g Na HPO 0n3 g NH Cl 0n3 g NaCl 0n1 g MgCl g CaCl % % 1 ml alkaline trace element 6H O 0n11 2H O # # solution 1 ml acid trace element solution 1 ml vitamin solution 0n5 mg resazurin 4 g NaHCO 0n25 g Na S $ elements and # 7–9H O and 0n5 g yeast extract 
+ owever in a methanogenic consortium the hydrogen formed is consumed via interspecies hydrogen transfer and the energy that becomes available from this reaction increases to k79n0 kJ mol glutamate − '' 
+ roline 18n6 mM was degraded to propionate 17n3 mM , NH+ 18n2 mM and H 27n2 mM and the calculated from the amount of % hydrogen formed was amount of methane measured 
+ yruvate was converted by strain TGOT to acetate propionate succinate traces H and CO . # Glycerol was utilized slowly by the pure culture but in co-culture glycerol was converted rapidly to acetate traces of propionate and CH . % Other substrates that could be used by the pure culture of TGOT were lactate arabinose fructose galactose glucose maltose mannitol , rhamnose and sucrose 
+ n the original enrichment culture glutamate was degraded to acetate CH NH+ and CO with the intermediate % propionate % 2a 
+ ugars are converted % CO and H as main products . to acetate propionate Growth occurs between 37 and 60 mC with optimum growth at 50–55 mC and at pH 5n5–8 optimum pH 7 
+ International Journal of Systematic and Evolutionary Microbiology 2002 52 401–407 DOI 10.1099/ijs.0.01949-0 Gelria glutamica gen. nov. sp . nov. a thermophilic obligately syntrophic glutamate-degrading anaerobe 1 2 Laboratory of Microbiology Wageningen University H. van Suchtelenweg 4 6703 CT Wageningen The Netherlands Wageningen Centre for Food Science PO Box 557 6700 AL Wageningen , The Netherlands Caroline M 
+ ts closest relations were Moorella glycerini 92 % and Moorella thermoacetica 90 % 
+ alues of ∆Gh were calculated under standard conditions pH 7 1 M solutes 1 atmosphere gases and 55 mC 328 K . ∆Gh kJ Reaction Glutamate−j2H O 4 acetate−jHCO−j '' H+jNH+j '' butyrate− $ % Glutamate−j3H O 4 2acetate−jHCO−jH+jNH+jH $ % − − − + Glutamate j2H O 4 2 '' acetate j '' HCO j $ H jNH+ % $ % % Glutamate−j2H O 4 1 acetate−j '' propionate−j HCO−j H+jNH+ $ $ $ $ $ % Glutamate−j4H O 4 propionate−j2HCO−jNH+j2H $ % standard conditions these reactions yield small amounts of energy 
+ or the reconstitution experiments with axenic cultures of strain TGOT 0n5 % v\v strain TPO 2 % v\v and Methanobacterium thermautotrophicum Z-245 2 % , v\v were inoculated in medium with 20 mM glutamate 
  emperature and pH 
  he temperature optimum was determined in bicarbonate-buffered medium containing 20 mM pyruvate at pH 7 and duplicate bottles were incubated at temperatures ranging from 30 to 75 mC 
- or incubated at 55 mC at determinations of the temperature and pH optimum, OD '!! and acetate production were measured as indicators for growth 
-  single colony picked from the agar grew in medium containing pyruvate and with 0n05 % yeast extract 
- lutamate (15 mM) was converted to propionate (12n9 mM), succinate (1n0 mM), NH+ (14n9 mM) and CH (8n9 % remM) 
- he carbon and %electron recovery were spectively 93 and 98 % (excluding the biomass formed) 
- tilization of glutamate (4) and production of propionate (>), acetate ( ), succinate (#) and CH4 ($) by a consortium of strain TGOT, strain TPO and Methanobacterium thermautotrophicum Z-245. (a) Original enrichment culture as described by Stams et al. (1992). (b) Co-culture inoculated with 0n5, 2 and 0n5 % (v/v) of pure cultures of strain TGOT, strain TPO and Methanobacterium thermautotrophicum strain Z-245.  .................................................................................................................................................  Fig. 3 
- equence analysis showed that strain TGOT is only distantly related to Moorella glycerini and Moorella thermoacetica (Slobodkin et al., 1997 ; Collins et al., 1994), with respective levels of similarity of 92 and 90 % 
- rganic after growth, the gas phase substrates were added from anaerobic sterile#stock#solutions to final concentrations of 20 mM (unless otherwise stated) 
- o obtain an axenic culture, soft agar (0n7–0n8 % agar noble ; Difco) was added to the medium described above, supplemented with 20 mM pyruvate as the carbon source 
+ or incubated at 55 mC at determinations of the temperature and pH optimum OD ' ! and acetate production were measured as indicators for growth 
+ single colony picked from the agar grew in medium containing pyruvate and with 0n05 % yeast extract 
+ lutamate 15 mM was converted to propionate 12n9 mM , succinate 1n0 mM , NH+ 14n9 mM and CH 8n9 % remM 
+ he carbon and % electron recovery were spectively 93 and 98 % excluding the biomass formed 
+ tilization of glutamate 4 and production of propionate > acetate succinate # and CH4 $ by a consortium of strain TGOT strain TPO and Methanobacterium thermautotrophicum Z-245 . a Original enrichment culture as described by Stams et al . 1992 . b Co-culture inoculated with 0n5 2 and 0n5 % v/v ) of pure cultures of strain TGOT , strain TPO and Methanobacterium thermautotrophicum strain Z-245 . ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . Fig . 3 
+ garose gel 1n2 % showing size and integrity of reamplified 16S rDNA lane 3 and rRNA lane 4 of strain TGOT and 16S rRNA of Moorella glycerini lane 5 and Moorella thermoacetica lane 6 
+ equence analysis showed that strain TGOT is only distantly related to Moorella glycerini and Moorella thermoacetica Slobodkin et al. 1997 Collins et al. 1994 , with respective levels of similarity of 92 and 90 % 
+ n particular the exclusive formation of propionate from glutamate is very difficult since the free energy at 55 mC is only k16n0 kJ mol glutamate − '' Table 1 
+ rganic after growth the gas phase substrates were added from anaerobic sterile stock solutions to final concentrations of 20 mM unless otherwise stated 
+ o obtain an axenic culture soft agar 0n7–0n8 % agar noble Difco was added to the medium described above supplemented with 20 mM pyruvate as the carbon source 
  he pH value of the medium containing 20 mM pyruvate was adjusted with NaOH or HCl under the N atmosphere 
  he effect of electron acceptors on the growth of strain TGOT was tested in medium with 20 mM glutamate 
- hen the enrichment culture was% growing % glutamate, a small, rod-shaped bacterium became predominant 
- he stoichiometry production of (Fig. of glutamate conversion was : Glutamate−j3"H O 4 acetate−j1"CH j1$HCO− % # % % % $ j$ H+jNH+ % % In the reconstitution experiments, glutamate was consumed according to the stoichiometry described above (Fig. 2b) 
- train TGOT is phylogenetically most similar to the genus Moorella (90–92 % similarity), but  http://ijs.sgmjournals.org  405 Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 07:24:21  C 
+ hen the enrichment culture was % growing % glutamate a small rod-shaped bacterium became predominant 
+ he bacterium could be purified by serial dilution in media containing agar 0n7–0n8 % with pyruvate as the organic substrate 
+ he stoichiometry production of Fig . of glutamate conversion was Glutamate−j3 '' H O 4 acetate−j1 '' CH j1 $ HCO− % % % % $ j $ H+jNH+ % % In the reconstitution experiments glutamate was consumed according to the stoichiometry described above Fig . 2b 
+ train TGOT is phylogenetically most similar to the genus Moorella 90–92 % similarity but http //ijs.sgmjournals.org 405 Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Sat , 17 Feb 2018 07:24:21 C 
  he DNA GjC content is 33n8 mol % 
- he type strain is TGOT (l DSM 14054T l ATCC BAA-262T) 
+ he type strain is TGOT l DSM 14054T l ATCC BAA-262T 
  etermination of DNA base composition from melting profiles in dilute buffers 
  he pH range for growth was 55–8 with optimum growth at pH 7 
- he pH range for growth was 5n5–8, with optimum growth at pH 7 
+ east extract minimum 0n02 % was required for growth 
+ he pH range for growth was 5n5–8 with optimum growth at pH 7 
  

@@ -1,25 +1,26 @@
-nder 0.8 mol/l NaCl concentration, MpAFP was activated at the temperatures much lower than comparing to the MpAFP in 0.6 mol/l NaCl concentration (the temperatures equal or larger 270 K) 
- dditionally, MpAFP was inhibited by ice crystal network from 268 to 274 K and solid–liquid hybrid from 276 to 282 K at 0.3 mol/l concentration 
- his protein has five non-ice-binding regions, in which on icebinding region II or RII constitutes approximately 90 % of its content and includes around 120 tandem repeats of 104-residue sequence 
- ince NaCl dissociate the ice crystal by positively charged Na+ ion and negatively charged Cl− ion, the NaCl concentration then will keep the water under liquid form when temperature reaches lower than freezing point of °C 
+dditionally MpAFP was inhibited by ice crystal network from 268 to 274 K and solid–liquid hybrid from 276 to 282 K at 0.3 mol/l concentration 
+ his protein has five non-ice-binding regions in which on icebinding region II or RII constitutes approximately 90 % of its content and includes around 120 tandem repeats of 104-residue sequence 
+ ince NaCl dissociate the ice crystal by positively charged Na+ ion and negatively charged Cl− ion the NaCl concentration then will keep the water under liquid form when temperature reaches lower than freezing point of °C 
  nd NaCl concentration may vary dependent on chronological and geographical condition and distribution 
- rom the thermodynamic point of view, the increase in NaCl concentration and anti-freezing mechanism of AFPs reduce ice crystallization process, respectively, as such was found in AFPs 
+ rom the thermodynamic point of view the increase in NaCl concentration and anti-freezing mechanism of AFPs reduce ice crystallization process respectively as such was found in AFPs 
  his leads to the assumption that the change in NaCl concentration may have a certain degree of impact on the behavior and activity of MpAFP 
- he periodic boundary conditions were used throughout the simulation process; the electrostatic potential was shifted from 0.0 to 1.2 nm and the Lennard Jones (LJ) potential was shifted from 0.9 to 1.2 nm on all three axes (x, y, and z) [42] 
- he complexes were positioned inside a cubic box at a distance of 1.2 nm from the solute to the box surface and water model was used specifically in coarse-grained water model [43]: –  The melting point of water models used in MD simulation was not near to real water molecules [44, 45] 
+ he periodic boundary conditions were used throughout the simulation process the electrostatic potential was shifted from 0.0 to 1.2 nm and the Lennard Jones LJ potential was shifted from 0.9 to 1.2 nm on all three axes x y and z [ 42 
+ he complexes were positioned inside a cubic box at a distance of 1.2 nm from the solute to the box surface and water model was used specifically in coarse-grained water model 43 : – The melting point of water models used in MD simulation was not near to real water molecules 44 45 
  he bonds WWP and W-WM are constrained to a particular distance and are symbolized as character l 
  e used the variation in total energy of MpAFPs systems at subfreezing temperatures to determine their dependence on temperature and NaCl concentration 
- rom 270 to 274 K, we found that water molecules surrounding MpAFP were frozen in both 0.3 and 0.6 mol/l concentrations; liquid form was observed at this temperature range in the case where NaCl concentration was 0.8 mol/l 
- n addition, Etot value has a tendency to increase as NaCl concentration increased because of the effect of higher temperature conditions and ions are contributed to the change of kinetic energy lead to Etot value is increased when NaCl concentration increased 
- hus, the freezing process and energy states of the complexes were dependent upon NaCl concentration in marine environment 
- t 268 K, the gww(r) fluctuated around 5 (r) for first peak, 2.3 (r) for second peak, 1.85 (r) for third peak, and 1(r) for fourth peak for all of three NaCl concentrations 
- rom 270 to 274 K, the gww(r) value of water molecules surrounding MpAFP in 0.8 mol/l fluctuated around the first peak (3.9 (r)), the second peak (1.5 (r)), and the third peak (1.3 (r)) while the gww(r) values of water molecules surrounding MpAFP in 0.3 and 0.6 mol/l were not changed comparing to the complex simulated at 268 K 
- nd the neighboring atoms of a given atom as those atoms which have an interatomic distance less than a cutoff radius of 3.5 Å, equal to the distance to the minimum between the first and the second peaks of the pair correlation function [53] 
- he free energy landscapes of MpAFPs under NaCl concentrations of 0.3, 0.6, and 0.8 mol/ l from 276 to 282 K were shown in the Fig. 5 
- e explored three important findings as follows: (1) the MpAFP could not be active under low NaCl concentration (in 0.3 mol/l) and low temperatures 
- nder 0.6 mol/l NaCl concentration and the temperatures of equal or greater than 278 K, the MpAFP obtained its active conformation at these subfreezing temperatures 
- herefore, active temperature region of MpAFP was extended to lower temperatures when NaCl concentration increased. (2) In three cases, the phase transformation of water was found to be dependent on NaCl concentrations, the MpAFP systems allowed us to search for phase space and to locate active conformation in consistent direction than standard single temperature setup. (3) With coarse-grained simulation, the computing expenses were reduced a significant way 
+ rom 270 to 274 K we found that water molecules surrounding MpAFP were frozen in both 0.3 and 0.6 mol/l concentrations liquid form was observed at this temperature range in the case where NaCl concentration was 0.8 mol/l 
+ n addition Etot value has a tendency to increase as NaCl concentration increased because of the effect of higher temperature conditions and ions are contributed to the change of kinetic energy lead to Etot value is increased when NaCl concentration increased 
+ hus the freezing process and energy states of the complexes were dependent upon NaCl concentration in marine environment 
+ t 268 K the gww r fluctuated around 5 r for first peak 2.3 r for second peak 1.85 r for third peak and 1 r for fourth peak for all of three NaCl concentrations 
+ rom 270 to 274 K the gww r value of water molecules surrounding MpAFP in 0.8 mol/l fluctuated around the first peak 3.9 r the second peak 1.5 r and the third peak 1.3 r ) ) while the gww r ) values of water molecules surrounding MpAFP in 0.3 and 0.6 mol/l were not changed comparing to the complex simulated at 268 K 
+ nd the neighboring atoms of a given atom as those atoms which have an interatomic distance less than a cutoff radius of 3.5 Å equal to the distance to the minimum between the first and the second peaks of the pair correlation function 53 
+ he free energy landscapes of MpAFPs under NaCl concentrations of 0.3 0.6 and 0.8 mol/ l from 276 to 282 K were shown in the Fig . 5 
+ e explored three important findings as follows 1 the MpAFP could not be active under low NaCl concentration ( in 0.3 mol/l and low temperatures 
+ nder 0.6 mol/l NaCl concentration and the temperatures of equal or greater than 278 K the MpAFP obtained its active conformation at these subfreezing temperatures 
+ herefore active temperature region of MpAFP was extended to lower temperatures when NaCl concentration increased . 2 In three cases the phase transformation of water was found to be dependent on NaCl concentrations the MpAFP systems allowed us to search for phase space and to locate active conformation in consistent direction than standard single temperature setup . 3 With coarse-grained simulation the computing expenses were reduced a significant way 
  he concentration of NaCl greatly affects the crystallization process of sea water 
+ inally for the simulated complexes with 0.8 mol/ l only the complex at 268 K was completely frozen while the remaining complexes existed in liquid state 
+ nder 0.8 mol/l NaCl concentration MpAFP was activated at the temperatures much lower than comparing to the MpAFP in 0.6 mol/l NaCl concentration the temperatures equal or larger 270 K 
  ur result indicates that activating temperature region of MpAFPs reduced as NaCl concentration increased 
  his means water solvent treated with low NaCl concentration environment can be frozen at higher temperature comparing to solvent treated with higher NaCl concentrations 
  

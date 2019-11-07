@@ -1,0 +1,37 @@
+ulfate 20 mM , thiosulfate 20 mM , elemental sulfur 0.1 % , sulfite 2 mM , nitrate 20 mM nitrite 2 mM and oxygen were not used as electron acceptors 
+ he basal medium contained l21 : 0.3 g KH2PO4 0.3 g K2HPO4 1.0 g NH4Cl 50 g NaCl 0.1 g KCl 0.1 g CaCl2 . 2H2O 10 ml trace mineral element solution Balch et al. 1979 and 1 ml 0.1 % w/v resazurin 
+ ulfate thiosulfate sulfite and elemental sulfur were separately added to the growth medium at final concentrations of 20 mM 20 mM 2 mM and 0.1 % w/v respectively , for potential use as an electron sink 
+ ajor fatty acid components were iso-C17 1v10c or anteiso-C17 1v3c 19.3 % , C14 0 14.3 % , C16 1v7c 9.9 % , C16 1v7c DMA 8.5 % and C16 0 7.6 % 
+ ellular fatty acid content of strain 37HS60T Fatty acids Unknown 9.730 iso-C13 0 2-OH FAME C14 0 FAME iso-C15 1v7c FAME iso-C13 0 3-OH FAME iso-C15 0 FAME anteiso-C15 0 FAME Unknown 14.776 Unknown 14.949 C16 1v9c FAME C16 1v7c FAME C16 0 FAME C16 1v9c dimethyl acetyl C16 1v7c dimethyl acetyl anteiso-C17 1v9c FAME C17 1 v10c or anteiso-C17 1v3c FAME C17cyc FAME C17cyc dimethyl acetyl Percentage w/w of total fatty acids 7.0 3.2 14.3 2.2 1.3 6.6 1.5 3.8 4.5 2.5 9.9 7.6 1.8 8.5 2.2 19.3 2.2 1.6 strains were Caloranaerobacter azorensis DSM 13643T 92.0 % similarity isolated from a deep-sea hydrothermal vent Wery et al. 2001 , and Clostridium purinilyticum DSM 1384T , isolated from soils exposed to chicken manure and from sewage sludge enriched with adenine 90.6 % similarity 
+ train 37HS60T grew from 20 to 50 6C with an optimum at 40–45 6C and growth was observed from pH 5.5 to 8.5 with an optimum of 6.8 
+ train 37HS60T exhibited highest 16S rRNA gene sequence similarity of 92.0 % with Caloranaerobacter azorensis and 90.6 % with Clostridium purinilyticum 
+ yruvate fumarate and succinate were the best substrates for 37HS60T growth with 1.0 g yeast extract l ” 1 
+ he mud was transferred i into 50 ml serum vials closed with butyl rubber stoppers then stored at 4 uC and ii into 1.8 ml cryotubes containing 2 % glycerol v/v added as a cryoprotectant , then stored at 220 uC until processing 
+ he basal medium was boiled under a stream of O2-free N2 gas cooled to room temperature and 5 ml aliquots were distributed into Hungate tubes under a stream of O2-free N2 gas 
+ rior to inoculation 0.05 ml Na2S . 9H2O 2 % w/v 0.1 ml NaHCO3 10 % , w/v and 0.1 ml MgCl2 . 6H2O 150 g l21 were added 
+ ositive enrichment cultures were obtained after 7 days incubation at 37 uC and microscopic examination revealed the presence of motile rod-shaped bacteria 
+ he fatty acids detected were iso-C17 1v10c or anteiso-C17 1v3c 19.3 % , C14 0 14.3 % , C16 1v7c 9.9 % , C16 1v7c DMA 8.5 % , C16 0 7.6 % and a weak proportion of diverse fatty acids Table 1 
+ nly three organic acids 20 mM were used as carbon and energy sources succinate fumarate and pyruvate 
+ itrate and nitrite utilization tests were carried out in triplicate in butyl-capped Hungate tubes filled with 5 ml pre-reduced medium without resazurin and Na2S distributed under a nitrogen atmosphere 
+ rowth of strain 37HS60T was inhibited by the addition of three different classes of antibiotic compounds chloramphenicol 25 mg ml21 penicillin G 300 mg ml21 and streptomycin 150 mg ml21 . Fig . 1 . a Electron micrograph of a negatively stained culture of strain 37HS60T , showing peritrichous flagella 
+ ar 0.2 mm . The DNA G+C content determined by the Identification Service of the DSMZ Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH Braunschweig Germany using the method of Mesbah et al . 1989 , was 33.0 mol % . totally transformed into propionate and fumarate was slowly reduced to succinate 
+ ther related species that exhibited ,90 % similarity were Clostridium acidurici ATCC 7906T and Thermohalobacter berrensis CNCM 105955T 89.7 and 89.1 % respectively 
+ ccording to its phylogenetic position and the value accepted as the criterion for the delineation of different species Stackebrandt & Goebel 1994 our novel isolate probably represents a novel species and a novel genus in cluster XII of the Clostridiales , since its phylogenetic distance was equal to or lower than 92.0 % from Caloranaerobacter azorensis DSM 13643T and Clostridium purinilyticum DSM 1384T 
+ qually strain 37HS60T differs physiologically from Caloranaerobacter azorensis in terms of carbohydrates used temperature and NaCl concentration ranges for growth 
+ econdly strain 37HS60T differed from Clostridium purinilyticum Dürre et al. 1981 in terms of purine use temperature range and NaCl concentration for growth 
+ he major cellular fatty acids are iso-C17 1v10c or anteisoC17 1v3c 19.3 % , C14 0 14.3 % and C16 1v7c 9.9 % 
+ he fatty acids detected were isoC17 1v10c or anteiso-C17 1v3c 19.3 % , C14 0 14.3 % , C16 1v7c 9.9 % , C16 1v7c DMA 8.5 % , C16 0 7.6 % and a weak proportion of diverse fatty acids 
+ he optimum pH for growth is 6.8 but growth occurs between pH 5.5 and 8.5 
+ or pH studies the medium was adjusted to the desired pH using anaerobically prepared stock solutions of NaHCO3 10 % or Na2CO3 8 % 
+ aNO3 10 mM or NaNO2 10 mM were added to the tubes immediately before inoculation 10 % v/v 
+ he Stickland reaction was negative but four amino acids 20 mM were used acetate was formed from cystein The most closely related sequences were found in members of cluster XII within the order Clostridiales Collins et al. 1994 
+ n addition the DNA G+C content of Caloranaerobacter azorensis 27.0 mol % is 6 mol % lower than strain 37HS60T 
+ n addition the DNA G+C content of Clostridium purinilyticum 29.0 % is 4 mol % lower than strain 37HS60T 
+ he DNA G+C content is 33.0 mol % . 16S rDNA sequence comparisons locate Clostridiisalibacter in the lineage of the low-G+C content Gram-positive bacteria within cluster XII of the Clostridium subphylum 
+ he DNA G+C content of the type strain is 33.0 mol % 
+ ar 2 % sequence divergence 
+ haracter Width6length mm Gram type Temperature for growth 6C Range Optimum pH growth Range Optimum NaCl concentration for growth g l ” 1 : Range Optimum G+C content of DNA mol % Reduction of Su Substrates used : Purine Glycine Fructose Galactose Glucose Mannose Ribose Xylose Glycerol Starch Xylan Fumarate Succinate 1 2 3 0.563.0–8.0 Positive 0.3–0.560.5–2.0 Negative 1.466.2 Positive 20–50 42 45–65 65 20–45 36 5.5–8.5 6.8 5.5–9.0 7.0 6.5–9.0 7.5 10–100 50 33.0 2 6.5-65 20 27.0 + ND 2 2 2 2 2 2 2 2 2 2 2 + + ND new genus namely Clostridiisalibacter paucivorans gen. nov. sp . nov 
+ he pH was adjusted to 7.2 with 10 M KOH 
+ he salinity range for growth was 10–100 g NaCl l ” 1 with an optimum at 50 g NaCl l ” 1 
+ he DNA G+C content was 33.0 mol % 
+ 

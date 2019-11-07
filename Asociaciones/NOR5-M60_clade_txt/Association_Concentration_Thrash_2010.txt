@@ -1,2 +1,6 @@
-onsistent with this distribution, HTCC2148 and HTCC2080 were isolated from Oregon coastal water collected at hydrostation NH5 from a depth of 10 m (2) 
+⫹C mol % measurements were computed using the genome sequence and calculated using Practical Extraction and Reporting Language PERL 
+ he draft genomes of HTCC2148 and HTCC2080 comprised 4,310,225 and 3,576,081 bases 3,866 and 3,229 predicted open reading frames ORFs and 52.96 % and 51.82 % G⫹C contents , respectively 
+ rganisms from this clade are detected globally throughout the euphotic zone 1 5 14 and can make up a significant portion ⱕ11 % of bacterial cells in some locations 1 6 12 14 
+ onsistent with this distribution HTCC2148 and HTCC2080 were isolated from Oregon coastal water collected at hydrostation NH5 from a depth of 10 m 2 
+ olyphyletic pho- 3842 Downloaded from http //jb.asm.org/ on February 15 2018 by guest Organisms in the OM60/NOR5 clade of the Gammaproteobacteria are ubiquitous in the world ’ s oceans and can make up as much as 11 % of bacterial cells in certain areas 
  

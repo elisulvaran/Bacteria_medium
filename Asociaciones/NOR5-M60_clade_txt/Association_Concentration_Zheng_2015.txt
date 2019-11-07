@@ -1,9 +1,24 @@
-oblı́žek M (2011) Role of Photoheterotrophic Bacteria in the Marine Carbon Cycle 
- igments were separated on a heated (35uC) Phenomenex Luna 3 m C8(2) 100 Å column with binary solvent system (0 min 100% A, 20 min 100% B, 25 min 100% B, 27 min 100% A, 30 min 100% A; A: 70% methanol+28 mM ammonium acetate, B: methanol) and detected by a UV-VIS diode-array detector (Agilent DAD 61315B).  Methods  Supporting Information  Photosynthetic superoperon sequences and phylogenetic analysis  Figure S1 Photosynthetic gene cluster structure and arrangement in other phototrophs 
- n Roseobacter clade and Sphingomonadales, there are two regulators (ppsR and ppaA) which are sensitive to light intensity and oxygen concentration [24] 
- ohmer M (1999) The discovery of a mevalonate-independent pathway for isoprenoid biosynthesis in bacteria, algae and higher plants 
- oguchi T, Hayashi H, Shimada K, Takaichi S, Tasumi M (1992) In vivo states and functions of carotenoids in an aerobic photosynthetic bacterium, Erythrobacter longus 
- umar S, Tamura K, Nei M (2004) MEGA3: Integrated software for molecular evolutionary genetics analysis and sequence alignment 
- aidner LA, Kirchman DL (2005) Aerobic anoxygenic photosynthesis genes and operons in uncultured bacteria in the Delaware River 
- GC/Genome = PGC as % of genome size. doi:10.1371/journal.pone.0025050.t001  PLoS ONE | www.plosone.org  2  September 2011 | Volume 6 | Issue 9 | e25050  Diverse Arrangement of Photosynthetic Gene Cluster  (Table 1) 
+oblı́žek M 2011 Role of Photoheterotrophic Bacteria in the Marine Carbon Cycle 
+ igments were separated on a heated 35uC Phenomenex Luna 3 m C8 2 100 Å column with binary solvent system 0 min 100 % A 20 min 100 % B 25 min 100 % B 27 min 100 % A 30 min 100 % A A 70 % methanol+28 mM ammonium acetate B methanol and detected by a UV-VIS diode-array detector Agilent DAD 61315B . Methods Supporting Information Photosynthetic superoperon sequences and phylogenetic analysis Figure S1 Photosynthetic gene cluster structure and arrangement in other phototrophs 
+ ain characteristics of genomes and PGCs of studied species . Clade Organism Genome size kb PGC size kb Genome GC % PGC GC % PGC/Genome Rhodobacterales D. shibae DFL 12 4,417.8 48.1 65 67 1.09 % Rsb . denitrificans OCh 114 4,331.2 44.6 58 60 1.03 % Rsb . litoralis Och 149 4,678.9 48.3 57 59 1.03 % Roseovarius sp . 217 4,762.6 45.1 60 64 0.95 % Jannaschia sp 
+ AP1 3,265.3 38.9 61 62 1.19 % Cb . litoralis KT71 4,328.1 44.7 58 59 1.03 % Gamma-HTCC2080 3,576.1 43.6 51 53 1.22 % Sphingomonadales NOR5/OM60 clade GC % = relative percentage of guanine and cytosine nucleotides 
+ n Roseobacter clade and Sphingomonadales there are two regulators ppsR and ppaA which are sensitive to light intensity and oxygen concentration 24 
+ he grown cells were harvested by centrifugation and extracted using 100 % methanol in the case of Sphingomonadales species or 7:2 vol vol acetone-methanol in the case of Roseobacter species 
+ ohmer M 1999 The discovery of a mevalonate-independent pathway for isoprenoid biosynthesis in bacteria algae and higher plants 
+ oblı́žek M Falkowski PG Kolber ZS 2006 Diversity and distribution of photosynthetic bacteria in the Black Sea 
+ oguchi T Hayashi H Shimada K Takaichi S Tasumi M 1992 In vivo states and functions of carotenoids in an aerobic photosynthetic bacterium Erythrobacter longus 
+ umar S Tamura K Nei M 2004 MEGA3 Integrated software for molecular evolutionary genetics analysis and sequence alignment 
+ utin N Suzuki MT Teeling H Weber M Venter JC et al . 2007 Assessing diversity and biogeography of aerobic anoxygenic phototrophic bacteria in surface waters of the Atlantic and Pacific Oceans using the Global Ocean Sampling expedition metagenomes 
+ oblı́žek M Béjà O Bidigare RR Christensen S Benitez-Nelson B et al . 2003 Isolation and characterization of Erythrobacter sp . strains from the upper ocean 
+ iotenberg S Steunou AS Picaud M Reiss-Husson F Astier C et al . 2008 Organization and expression of photosynthesis genes and operons in anoxygenic photosynthetic proteobacteria 
+ aidner LA Kirchman DL 2005 Aerobic anoxygenic photosynthesis genes and operons in uncultured bacteria in the Delaware River 
+ radella S Allgaier M Hoch C Pauker O Stackebrandt E et al . 2004 Genome organization and localization of the pufLM genes of the photosynthesis reaction center in phylogenetically diverse marine Alphaproteobacteria 
+ he GC content in the PGCs varied from 52.9 % to 66.7 % which was similar to the total GC contents of corresponding genomes Table 1 
+ he PGCs represented roughly 1 % of the genomes Table 1 
+ ang LY Elliott M Elliott T 1999 Conditional stability of the HemA protein glutamyl-tRNA reductase regulates heme biosynthesis in Salmonella typhimurium 
+ utz M Agalides I Hervo G Cogdell RJ Reiss-Husson F 1978 On the state of carotenoids bound to reaction centers of photosynthetic bacteria a resonance Raman study 
+ oblı́žek M Mlčoušková J Kolber Z Kopecký J 2010 On the photosynthetic properties of marine bacterium COL2P belonging to Roseobacter clade 
+ agner-Döbler I Ballhausen B Berger M Brinkhoff T Buchholz I et al . 2010 The complete genome sequence of the algal symbiont Dinoroseobacter shibae a hitchhiker ’ s guide to life in the sea 
+ GC/Genome = PGC as % of genome size . doi:10.1371/journal.pone.0025050.t001 PLoS ONE | www.plosone.org 2 September 2011 | Volume 6 | Issue 9 | e25050 Diverse Arrangement of Photosynthetic Gene Cluster Table 1 
+ sebo KM Hearst JE 1984 Genetic-physical mapping of a photosynthetic gene cluster from R. capsulata 
  

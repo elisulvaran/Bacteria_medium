@@ -1,33 +1,46 @@
-nterestingly, met-T18-2 was 6.5 times more efficient at reducing CO2 in a MES system equipped with a graphite cathode poised at a potential of − 690 mV versus SHE than the wild type with an average acetate production rate of 866.7 ±  373.5 mM m−2 day−1 compared to 133.5 ±  43.2 mM m−2 day−1 (Fig. 2) 
- . ovata DSM-2662 wild type and met-T18-2 were grown in triplicate in 100 ml  of 311 medium with H2 as the electron donor and CO2 as the electron acceptor and source of carbon 
-  representative clone from the adapted culture #2 (met-T18-2) (Fig. 1A) with a doubling time of 13.2 ±  0.4 hours was further characterized.  Growth of methanol-adapted S. ovata on H2-CO2, 0.5% methanol, and betaine 
- o establish if the adapted strain develops a greater tolerance to methanol toxicity, the wild type and the adapted strain were grown with methanol at a lower concentration of 0.5% 
- s expected, a higher concentration of methanol was more toxic for S. ovata since the wild type, despite a long lag phase, was growing 3.2-fold faster on 0.5% methanol with a doubling time of 20.9 ±  0.5 hours and 4-fold increase in Scientific Reports | 5:16168 | DOI: 10.1038/srep16168  2  www.nature.com/scientificreports/  Figure 2 
- n the case of met-T18-2, a slightly better doubling time of 12.2 ±  0.2 hours and a comparable final OD545 were observed with 0.5% methanol versus 2% methanol 
- ith betaine, the adapted strain had a doubling time of 12.4 ±  0.3 hours and was growing slower than the wild type which had a doubling time of 8.4 ±  0.1 hours 
-  clone isolated from the 4th transfer had a longer lag phase and a doubling time of 23.5 ±  1.0 hours which is 2.7 times better than the wild type, but still significantly slower than transfer 18 (Fig. 3B) 
-  clone isolated from the 9th transfer had a lag phase and a doubling time of 16.3 ±  0.5 hours closer to the doubling time observed at transfer 18 
- mong the 33 mutations found in the 2 independent adapted cultures sequenced from the transfer 18, 18 mutations were involved in the first jump observed before transfer 4 and 13 mutations appeared in the second jump before transfer 9 
- arbon conversion efficiency was established experimentally from three culture replicates on 0.5% methanol.  domain of SOV_2c05090 could impact on the intracellular level of cyclic di-GMP, a second messenger involved in the transcriptional regulation of many cellular processes including biofilm formation and motility39 
- he acetate production rate was 6.1 ±  0.4 mM day−1 for the adapted strain with a methanol consumption of 9.5 ±  1.1 mM day−1 compared to the wild type producing 2.6 ±  0.2 mM day−1 of acetate and consuming 4.4 ±  0.8 mM day−1 of methanol 
- enomic DNA was extracted with Easy-DNA gDNA purification Kit (Life Technologies, Carlsbad, CA) from 6 ml of 311 betaine cultures of methanol-adapted S. ovata strains met-T4-2, met-T9-1, met-T18-2, and met-T18-3 
- he graphite stick cathode (36 cm2) and anode (36 cm2) were suspended in 250 ml of 311 medium in two chambers separated by a Nafion 115 ion-exchange membrane (Ion Power, Inc., New Castle, DE, USA) 
- uring the MES experiment, both the cathode and anode chamber were continually bubbled with N2-CO2 (80:20).  High-performance liquid chromatography (HPLC).  Methanol and acetate concentrations in S. ovata cultures were measured with an HPLC apparatus equipped with a HPX-87H anion exchange column (Bio-Rad Laboratories Inc., California, USA) at a temperature of 30 °C, with 5 mM H2SO4 as the mobile phase, and a flow rate of 0.6 ml/min 
- hen,the bacterial cells were centrifuged, washed, and concentrated 10 times in 50 mM Tris-HCl pH 7.4 with 1 mM DTT before being sonicated 
- riefly, the reaction contained 100 mM Tris-Cl pH 7.4, 5 mM ADP, 10 mM MgCl2, 5.5 mM glucose, 1 mM NADP+, 2 mM DTT, 6 U of hexokinase, 3 U of glucose-6-phosphate dehydrogenase, and whole-cell lysate 
+nterestingly met-T18-2 was 6.5 times more efficient at reducing CO2 in a MES system equipped with a graphite cathode poised at a potential of − 690 mV versus SHE than the wild type with an average acetate production rate of 866.7 ± 373.5 mM m−2 day−1 compared to 133.5 ± 43.2 mM m−2 day−1 Fig . 2 
+ he predicted carbon conversion efficiency to acetate of the anaerobic methanol oxidation pathway is 150 % with 2 moles of reduced CO2 coming from the environment for every 4 moles of methanol consumed 
+ . ovata DSM-2662 wild type and met-T18-2 were grown in triplicate in 100 ml of 311 medium with H2 as the electron donor and CO2 as the electron acceptor and source of carbon 
+ utotrophic growth and heterotrophic growth of the methanol-adapted S. ovata . A Growth on 2 % methanol with S. ovata wild type wt a representative methanol-adapted culture after 18 transfers met-T18 in the presence or in the absence of methanol , and a clone isolated from the adapted culture 2 met-T18-2 . B Growth on H2-CO2 
+ fter a lag phase of 105.7 ± 7.2 hours growth began and a 10 % inoculum was transferred into fresh methanol medium 
+ representative clone from the adapted culture 2 met-T18-2 ( Fig . 1A with a doubling time of 13.2 ± 0.4 hours was further characterized . Growth of methanol-adapted S. ovata on H2-CO2 0.5 % methanol and betaine 
+ o establish if the adapted strain develops a greater tolerance to methanol toxicity the wild type and the adapted strain were grown with methanol at a lower concentration of 0.5 % 
+ s expected a higher concentration of methanol was more toxic for S. ovata since the wild type despite a long lag phase was growing 3.2-fold faster on 0.5 % methanol with a doubling time of 20.9 ± 0.5 hours and 4-fold increase in Scientific Reports | 5:16168 | DOI 10.1038/srep16168 2 www.nature.com/scientificreports/ Figure 2 
+ n the case of met-T18-2 a slightly better doubling time of 12.2 ± 0.2 hours and a comparable final OD545 were observed with 0.5 % methanol versus 2 % methanol 
+ ith betaine the adapted strain had a doubling time of 12.4 ± 0.3 hours and was growing slower than the wild type which had a doubling time of 8.4 ± 0.1 hours 
+ he ALE experiment . A Growth rate at different transfers on 2 % methanol and mutations detected after jump in the growth rate at transfer 4 and 9 and at the final transfer 18 . B Growth curves on 2 % methanol with clones isolated from transfer 4 9 18 and the wild type 
+ solated clones from two independent S. ovata adapted cultures after the 18th transfer on 2 % methanol were sequenced and had 33 mutations in common Fig . 3A Table S1 
+ clone isolated from the 4th transfer had a longer lag phase and a doubling time of 23.5 ± 1.0 hours which is 2.7 times better than the wild type but still significantly slower than transfer 18 Fig . 3B 
+ clone isolated from the 9th transfer had a lag phase and a doubling time of 16.3 ± 0.5 hours closer to the doubling time observed at transfer 18 
+ mong the 33 mutations found in the 2 independent adapted cultures sequenced from the transfer 18 18 mutations were involved in the first jump observed before transfer 4 and 13 mutations appeared in the second jump before transfer 9 
+ arbon conversion efficiency was established experimentally from three culture replicates on 0.5 % methanol . domain of SOV_2c05090 could impact on the intracellular level of cyclic di-GMP a second messenger involved in the transcriptional regulation of many cellular processes including biofilm formation and motility39 
+ ith 0.5 % methanol as the substrate carbon conversion efficiencies were 129 ± 11 % for the adapted strain and 118 ± 16 % for the wild type 
+ he acetate production rate was 6.1 ± 0.4 mM day−1 for the adapted strain with a methanol consumption of 9.5 ± 1.1 mM day−1 compared to the wild type producing 2.6 ± 0.2 mM day−1 of acetate and consuming 4.4 ± 0.8 mM day−1 of methanol 
+ enomic DNA was extracted with Easy-DNA gDNA purification Kit Life Technologies Carlsbad CA from 6 ml of 311 betaine cultures of methanol-adapted S. ovata strains met-T4-2 met-T9-1 met-T18-2 and met-T18-3 
+ he graphite stick cathode 36 cm2 and anode 36 cm2 were suspended in 250 ml of 311 medium in two chambers separated by a Nafion 115 ion-exchange membrane Ion Power Inc. New Castle DE USA 
+ uring the MES experiment both the cathode and anode chamber were continually bubbled with N2-CO2 80:20 . High-performance liquid chromatography HPLC . Methanol and acetate concentrations in S. ovata cultures were measured with an HPLC apparatus equipped with a HPX-87H anion exchange column Bio-Rad Laboratories Inc. California USA at a temperature of 30 °C with 5 mM H2SO4 as the mobile phase and a flow rate of 0.6 ml/min 
+ hen the bacterial cells were centrifuged washed and concentrated 10 times in 50 mM Tris-HCl pH 7.4 with 1 mM DTT before being sonicated 
+ riefly the reaction contained 100 mM Tris-Cl pH 7.4 5 mM ADP 10 mM MgCl2 5.5 mM glucose 1 mM NADP+ 2 mM DTT 6 U of hexokinase 3 U of glucose-6-phosphate dehydrogenase and whole-cell lysate 
  he reaction was conducted at room temperature and was started by the addition of 10 mM acetyl-P 
- rotein concentration in whole-cell lysates was measured with the Pierce Coomassie Plus Assay Kit (Life Technologies).  LPS extraction and SDS-PAGE.  LPS from 20 ml of H2-CO2-grown S. ovata cultures at an OD545 of ca. 0.24 were extracted with the LPS extraction kit from iNtRON Biotechnologies (Korea). 5 μ l of LPS from S. ovata wild type and from S. ovata met-T18-2 were loaded on a 12.5% SDS-PAGE 
+ rotein concentration in whole-cell lysates was measured with the Pierce Coomassie Plus Assay Kit Life Technologies . LPS extraction and SDS-PAGE . LPS from 20 ml of H2-CO2-grown S. ovata cultures at an OD545 of ca . 0.24 were extracted with the LPS extraction kit from iNtRON Biotechnologies Korea . 5 μ l of LPS from S. ovata wild type and from S. ovata met-T18-2 were loaded on a 12.5 % SDS-PAGE 
  nfluence of Acidic pH on Hydrogen and Acetate Production by an Electrosynthetic Microbiome 
- he black arrows indicate repressurization at 1.7 atm of the H2-CO2 atmosphere. (C) Growth on different concentration of methanol. (D) Growth with 40 mM betaine 
-  resulting representative adapted culture was growing 5 times faster than the wild type with a doubling time of 13.0 ±  1.1 hours compared to 64.6 ±  19.4 hours 
+ he black arrows indicate repressurization at 1.7 atm of the H2-CO2 atmosphere . C Growth on different concentration of methanol . D Growth with 40 mM betaine 
+ resulting representative adapted culture was growing 5 times faster than the wild type with a doubling time of 13.0 ± 1.1 hours compared to 64.6 ± 19.4 hours 
  lectron transferred curves correspond to the acetate concentration in mM if all the electrons transferred were converted to acetate 
  cetate production curves in mM correspond to the real progression of acetate concentration in the MES reactor detected by high-pressure liquid chromatography 
- isser et al., 2015 also suggested that the second step of methanol oxidation was catalyzed by a methyl-H4folate-methyltransferase that transfers the methyl group from methyl-MtaC to H4folate 
- he acetate kinase activity was 1.5 times higher in the adapted strain with 204.5 ±  29.4 nmol of NADP+ reduced min−1 mg protein−1 compared to 137.5 ±  19.3 for the wild type 
- . ovata strains were routinely maintained in the DSM 311 medium with 40 mM betaine under a N2-CO2 (80:20) atmosphere 
- yclic di-GMP: the first 25 years of a universal bacterial second messenger 
+ lectron recovery in acetate was also slightly higher in the adapted strain 94.7 ± 2.1 % compared to the wild type 85.3 ± 8.3 % 
+ ome of the 33 common mutations identified may not be specifically related to faster growth on 2 % methanol 
+ isser et al. 2015 also suggested that the second step of methanol oxidation was catalyzed by a methyl-H4folate-methyltransferase that transfers the methyl group from methyl-MtaC to H4folate 
+ he acetate kinase activity was 1.5 times higher in the adapted strain with 204.5 ± 29.4 nmol of NADP+ reduced min−1 mg protein−1 compared to 137.5 ± 19.3 for the wild type 
+ n the laboratory S. ovata is maintained heterotrophically in a medium amended with 0.1 % yeast extract which is known to contain substantial amount of pyrimidine46 
+ . ovata strains were routinely maintained in the DSM 311 medium with 40 mM betaine under a N2-CO2 80:20 atmosphere 
+ . ovata DSM 2662 was cultivated in two independent ALE experiments in 311 medium with 2 % methanol as the substrate 
+ yclic di-GMP the first 25 years of a universal bacterial second messenger 
+ he wild type S. ovata was initially cultivated for two independent adaptation experiments in defined minimal medium with 2 % methanol 
+ esults shown are from a representative example of three replicate MES reactors . maximum OD545 compared to 2 % methanol Fig . 2C 
  he extinction coefficient at 340 nm for NADP+ is 6.22 mM−1 cm−1 
  he cathode chamber was inoculated with 100 ml of hydrogen-grown culture of S. ovata wild type or met-T18-2 
  cetate kinase activity was measured as nmol of NADP+ reduced min−1 mg protein−1 
- riefly, 100 ng of genomic DNA diluted in 52.5 μ l TE buffer was fragmented with a Covaris E220 ultrasonicator (Woburn, MA) 
+ riefly 100 ng of genomic DNA diluted in 52.5 μ l TE buffer was fragmented with a Covaris E220 ultrasonicator Woburn MA 
+ fter growth began a 10 % inoculum was transferred to a fresh medium 
  

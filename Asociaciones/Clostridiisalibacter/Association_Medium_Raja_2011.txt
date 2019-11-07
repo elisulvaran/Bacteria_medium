@@ -1,138 +1,141 @@
-ulfate, thiosulfate, sulfite, elemental sulfur, fumarate, nitrate and nitrite were not reduced 
-ulfate (20 mM), thiosulfate (20 mM), elemental sulfur (0.1 %), nitrate (20 mM) and nitrite (2 mM) were not used as electron acceptors 
-ulfur, sulfate, thiosulfate, nitrate and nitrite are not necessary for growth. 16S rRNA gene sequence comparisons place Sporosalibacterium in the lineage of the low-G+C-content Gram-positive bacteria, in the family Clostridiaceae of the order Clostridiales 
-ar, 1 mm.  Fatty acid methyl esters were extracted from fresh biomass by the CCUG using the standard Microbial Identification System procedure (Microbial ID) 
+ulfate thiosulfate sulfite elemental sulfur fumarate nitrate and nitrite were not reduced 
+ulfate 20 mM , thiosulfate 20 mM , elemental sulfur 0.1 % , nitrate 20 mM and nitrite 2 mM were not used as electron acceptors 
+ulfur sulfate thiosulfate nitrate and nitrite are not necessary for growth . 16S rRNA gene sequence comparisons place Sporosalibacterium in the lineage of the low-G+C-content Gram-positive bacteria in the family Clostridiaceae of the order Clostridiales 
+oes not use elemental sulfur sulfate thiosulfate sulfite nitrate nitrite or oxygen as electron acceptors 
+one of the four strains was able to reduce thiosulfate or sulfate but they all used pyruvate as a substrate 
+nrichment and isolation were performed using an anaerobic enrichment medium which contained per litre distilled water 0.3 g KH2PO4 0.3 g K2HPO4 1.0 g NH4Cl 40 g NaCl 0.5 g KCl 0.2 g CaCl2 0.5 g cysteine hydrochloride 2 g yeast extract Difco 5 g bio-Trypticase 3 g glucose 1 ml mineral element solution Widdel & Pfennig , 1981 and 1 ml 0.1 % w/v resazurin 
+ubstrate utilization was studied using anaerobic basal medium containing per litre distilled water 0.3 g KH2PO4 0.3 g K2HPO4 1.0 g NH4Cl 40.0 g NaCl 0.5 g KCl 0.2 g CaCl2 and 0.5 g cysteine hydrochloride 
+ar 1 mm . Fatty acid methyl esters were extracted from fresh biomass by the CCUG using the standard Microbial Identification System procedure Microbial ID 
 he Microbial ID system was used to compare the fatty acid methyl esters of strain SOL3f37T with fatty acid patterns stored in the fatty acid database 
-ix fatty acid components were found at levels greater than 2 % (Table 1), with an exceptionally high percentage of the fatty acid component iso-C15 : 0 (41 %) 
-ellular fatty acid contents of strain SOL3f37T and its closest relative, Clostridiisalibacter paucivorans 37HS60T Strains: 1, Sporosalibacterium faouarense gen. nov., sp. nov 
-AME, fatty acid methyl ester; DMA, dimethyl acetal; c, cis; cyc, cyclopropyl fatty acid; ND, no detected 
-atty acid  1  2  iso-C11 : 0 FAME 0.3 ND iso-C13 : 0 FAME 4.4 ND anteiso-C13 : 0 FAME 0.4 ND iso-C13 : 0 2-OH FAME ND 3.2 iso-C13 : 0 3-OH FAME and/or iso-C15 : 1 I/H FAME 0.9 1.3 0.9 14.3 C14 : 0 FAME 1.5 ND iso-C14 : 0 2-OH FAME iso-C14 : 0 3-OH FAME and/or iso-C15 : 0 DMA 21.6 ND iso-C14 : 1 FAME 0.6 ND iso-C15 : 1v7c FAME ND 2.2 iso-C15 : 1 F FAME 2.8 ND iso-C15 : 0 FAME 41.0 6.6 3.9 1.5 anteiso-C15 : 0 FAME 0.8 ND C15 : 1v5c FAME C16 : 0 FAME 1.2 7.6 0.3 ND C16 : 1v7c alcohol iso-C16 : 1 I and/or C14 : 0 3-OH FAME 0.3 ND C16 : 1v9c FAME ND 2.5 ND 9.9 C16 : 1v7c FAME ND 1.8 C16 : 1v9c DMA ND 8.5 C16 : 1v7c DMA iso-C17 : 0 FAME 0.4 ND C17 : 0 cyc FAME 0.6 2.2 ND 1.6 C17 : 0 cyc DMA anteiso-C17 : 1v9c FAME ND 2.2 1.5 ND anteiso-C17 : 1 B FAME and/or iso-C16 : 1 C17 : 1v10c and/or anteiso-C17 : 1v3c FAME ND 19.3 C18 : 0 FAME 1.3 ND iso-C19 : 1 FAME 1.0 ND  fumarate, fructose, glucose and mannitol (all at 20 mM) 
-solate SOL3f37T was metabolically distinct from these species, which grew on purines such as uric acid and adenine and on amino acids such as glycine 
+ix fatty acid components were found at levels greater than 2 % Table 1 , with an exceptionally high percentage of the fatty acid component iso-C15 0 41 % 
+ellular fatty acid contents of strain SOL3f37T and its closest relative Clostridiisalibacter paucivorans 37HS60T Strains 1 Sporosalibacterium faouarense gen. nov. sp . nov 
+AME fatty acid methyl ester DMA dimethyl acetal c cis cyc cyclopropyl fatty acid ND no detected 
+atty acid 1 2 iso-C11 0 FAME 0.3 ND iso-C13 0 FAME 4.4 ND anteiso-C13 0 FAME 0.4 ND iso-C13 0 2-OH FAME ND 3.2 iso-C13 0 3-OH FAME and/or iso-C15 1 I/H FAME 0.9 1.3 0.9 14.3 C14 0 FAME 1.5 ND iso-C14 0 2-OH FAME iso-C14 0 3-OH FAME and/or iso-C15 0 DMA 21.6 ND iso-C14 1 FAME 0.6 ND iso-C15 1v7c FAME ND 2.2 iso-C15 1 F FAME 2.8 ND iso-C15 0 FAME 41.0 6.6 3.9 1.5 anteiso-C15 0 FAME 0.8 ND C15 1v5c FAME C16 0 FAME 1.2 7.6 0.3 ND C16 1v7c alcohol iso-C16 1 I and/or C14 0 3-OH FAME 0.3 ND C16 1v9c FAME ND 2.5 ND 9.9 C16 1v7c FAME ND 1.8 C16 1v9c DMA ND 8.5 C16 1v7c DMA iso-C17 0 FAME 0.4 ND C17 0 cyc FAME 0.6 2.2 ND 1.6 C17 0 cyc DMA anteiso-C17 1v9c FAME ND 2.2 1.5 ND anteiso-C17 1 B FAME and/or iso-C16 1 C17 1v10c and/or anteiso-C17 1v3c FAME ND 19.3 C18 0 FAME 1.3 ND iso-C19 1 FAME 1.0 ND fumarate fructose glucose and mannitol all at 20 mM 
+one of the amino acids tested at 20 mM including threonine glycine proline tyrosine phenylalanine leucine isoleucine cysteine lysine serine valine alanine arginine tryptophan asparagine aspartic acid glutamine glutamic acid methionine and histidine , supported growth 
+solate SOL3f37T was metabolically distinct from these species which grew on purines such as uric acid and adenine and on amino acids such as glycine 
 he decomposition of uric acid by bacteria 
-recise  measurement of the G+C content of deoxyribonucleic acid by highperformance liquid chromatography 
-ubstrate utilization was studied using anaerobic basal medium containing (per litre distilled water) 0.3 g KH2PO4, 0.3 g K2HPO4, 1.0 g NH4Cl, 40.0 g NaCl, 0.5 g KCl, 0.2 g CaCl2 and 0.5 g cysteine hydrochloride 
-nd products from pyruvate utilization were acetate, H2 and CO2 
-nd products from pyruvate fermentation were acetate, H2 and CO2 
-International Journal of Systematic and Evolutionary Microbiology (2011), 61, 99–104  DOI 10.1099/ijs.0.017715-0  Sporosalibacterium faouarense gen. nov., sp. nov., a moderately halophilic bacterium isolated from oil-contaminated soil Raja Rezgui,1,2 Zouhaier Ben Ali Gam,1 Said Ben Hamed,1,2 Marie-Laure Fardeau,1 Jean-Luc Cayol,1 Abderrazak Maaroufi2 and Marc Labat1 1  Correspondence  Microbiologie et Biotechnologie des Environnements Chauds, UMR D180, IRD, Universités de Provence et de la Méditerranée, 163 avenue de Luminy, case 925, F-13288 Marseille cedex 9, France  Marc Labat marc.labat@esil.univmed.fr  2  Laboratoire de Microbiologie, Groupe des Bioprocédés, Institut Pasteur de Tunis, BP 74, Place Pasteur, Belvédère, Tunis 1002, Tunisia  A novel strictly anaerobic, moderately halophilic and mesophilic bacterium, designated strain SOL3f37T, was isolated from a hydrocarbon-polluted soil surrounding a deep petroleum environment located in south Tunisia 
-ells of strain SOL3f37T stained Gram-positive and were motile, straight and spore-forming 
-he major fatty acids were iso-C15 : 0 (41 %), iso-C14 : 0 3-OH and/or iso-C15 : 0 dimethyl acetal (21.6 %), iso-C13 : 0 (4.4 %), anteiso-C15 : 0 (3.9 %) and iso-C15 : 1 (2.8 %) 
-train SOL3f37T grew between 20 and 48 6C (optimum 40 6C) and at pH 6.2–8.1 (optimum pH 6.9) 
-train SOL3f37T required at least 0.5 g NaCl l”1 and grew in the presence of NaCl concentrations up to 150 g l”1 (optimum 40 g l”1) 
-east extract (2 g l”1) was required for degradation of pyruvate, fumarate, fructose, glucose and mannitol 
-lso, strain SOL3f37T grew heterotrophically on yeast extract, peptone and bio-Trypticase, but was unable to grow on Casamino acids 
-t exhibited highest 16S rRNA gene sequence similarity (93.4 %) with Clostridiisalibacter paucivorans 37HS60T, 91.8 % with Thermohalobacter berrensis CTT3T and 91.7 % with Caloranaerobacter azorensis MV1087T 
-n the basis of genotypic, phenotypic and phylogenetic data, it is suggested that strain SOL3f37T represents a novel species in a new genus 
-t encompasses a complex range of bacteria that may be Gram-negative or Gram-positive, psychrophilic, mesophilic or thermophilic, spore-forming or non-spore-forming, chemo-organoheterotrophic or chemolithotrophic and have been found in a variety of habitats, and it includes a large number of eukaryotic pathogens (Cato et al., 1986) 
-he family Clostridiaceae was the first of the 19 families within the order Clostridiales to be described, and it contains the type Abbreviation: DMA, dimethyl acetal 
-everal of the species that were not in the radiation of the genus Clostridium sensu stricto have been transferred to new genera and other families, in some cases even in different orders 
-lthough most of the species are neutrophiles, several alkaliphilic, alkalithermophilic, moderately halophilic, haloalkaliphilic and slightly acidophilic species have been described (Wiegel, 2009).  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:49:08  Printed in Great Britain  99  R 
-ezgui and others  Here, the isolation and characterization are reported of a novel strictly anaerobic, moderately halophilic, heterotrophic, spore-forming bacterium, belonging to the family Clostridiaceae, which originated from a hydrocarbonpolluted soil surrounding a deep petroleum environment located in the El Faouar area in south Tunisia 
-amples were collected in sterile tubes from a hydrocarbonpolluted soil surrounding a deep petroleum environment located in the El Faouar area in south Tunisia, transported to our laboratory and stored at 4 uC until analysis 
-amples were collected at the surface of the soil (0–2 cm deep) and the pH of the soil was 6.8 
-nrichment and isolation were performed using an anaerobic enrichment medium, which contained (per litre distilled water) 0.3 g KH2PO4, 0.3 g K2HPO4, 1.0 g NH4Cl, 40 g NaCl, 0.5 g KCl, 0.2 g CaCl2, 0.5 g cysteine hydrochloride, 2 g yeast extract (Difco), 5 g bio-Trypticase, 3 g glucose, 1 ml mineral element solution (Widdel & Pfennig, 1981) and 1 ml 0.1 % (w/v) resazurin 
+recise measurement of the G+C content of deoxyribonucleic acid by highperformance liquid chromatography 
+nd products from pyruvate utilization were acetate H2 and CO2 
+nd products from pyruvate fermentation were acetate H2 and CO2 
+International Journal of Systematic and Evolutionary Microbiology 2011 61 99–104 DOI 10.1099/ijs.0.017715-0 Sporosalibacterium faouarense gen. nov. sp . nov. a moderately halophilic bacterium isolated from oil-contaminated soil Raja Rezgui,1,2 Zouhaier Ben Ali Gam,1 Said Ben Hamed,1,2 Marie-Laure Fardeau,1 Jean-Luc Cayol,1 Abderrazak Maaroufi2 and Marc Labat1 1 Correspondence Microbiologie et Biotechnologie des Environnements Chauds UMR D180 IRD Universités de Provence et de la Méditerranée 163 avenue de Luminy case 925 F-13288 Marseille cedex 9 France Marc Labat marc.labat @ esil.univmed.fr 2 Laboratoire de Microbiologie Groupe des Bioprocédés Institut Pasteur de Tunis BP 74 Place Pasteur Belvédère Tunis 1002 Tunisia A novel strictly anaerobic moderately halophilic and mesophilic bacterium designated strain SOL3f37T , was isolated from a hydrocarbon-polluted soil surrounding a deep petroleum environment located in south Tunisia 
+ells of strain SOL3f37T stained Gram-positive and were motile straight and spore-forming 
+he major fatty acids were iso-C15 0 41 % , iso-C14 0 3-OH and/or iso-C15 0 dimethyl acetal 21.6 % , iso-C13 0 4.4 % , anteiso-C15 0 3.9 % and iso-C15 1 2.8 % 
+train SOL3f37T grew between 20 and 48 6C optimum 40 6C and at pH 6.2–8.1 optimum pH 6.9 
+train SOL3f37T required at least 0.5 g NaCl l ” 1 and grew in the presence of NaCl concentrations up to 150 g l ” 1 optimum 40 g l ” 1 
+east extract 2 g l ” 1 was required for degradation of pyruvate fumarate fructose glucose and mannitol 
+lso strain SOL3f37T grew heterotrophically on yeast extract peptone and bio-Trypticase but was unable to grow on Casamino acids 
+t exhibited highest 16S rRNA gene sequence similarity 93.4 % with Clostridiisalibacter paucivorans 37HS60T 91.8 % with Thermohalobacter berrensis CTT3T and 91.7 % with Caloranaerobacter azorensis MV1087T 
+n the basis of genotypic phenotypic and phylogenetic data it is suggested that strain SOL3f37T represents a novel species in a new genus 
+t encompasses a complex range of bacteria that may be Gram-negative or Gram-positive psychrophilic mesophilic or thermophilic spore-forming or non-spore-forming chemo-organoheterotrophic or chemolithotrophic and have been found in a variety of habitats and it includes a large number of eukaryotic pathogens Cato et al. 1986 
+he family Clostridiaceae was the first of the 19 families within the order Clostridiales to be described and it contains the type Abbreviation DMA dimethyl acetal 
+everal of the species that were not in the radiation of the genus Clostridium sensu stricto have been transferred to new genera and other families in some cases even in different orders 
+lthough most of the species are neutrophiles several alkaliphilic alkalithermophilic moderately halophilic haloalkaliphilic and slightly acidophilic species have been described Wiegel 2009 . Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Sat 17 Feb 2018 05:49:08 Printed in Great Britain 99 R 
+ezgui and others Here the isolation and characterization are reported of a novel strictly anaerobic moderately halophilic heterotrophic spore-forming bacterium belonging to the family Clostridiaceae which originated from a hydrocarbonpolluted soil surrounding a deep petroleum environment located in the El Faouar area in south Tunisia 
+amples were collected in sterile tubes from a hydrocarbonpolluted soil surrounding a deep petroleum environment located in the El Faouar area in south Tunisia transported to our laboratory and stored at 4 uC until analysis 
+amples were collected at the surface of the soil 0–2 cm deep and the pH of the soil was 6.8 
 his enrichment medium was boiled under a stream of O2-free N2 gas and cooled to room temperature and 5 ml aliquots were then distributed into Hungate tubes under a stream of O2-free N2 gas 
-he N2 gas phase was replaced with N2/CO2 (80 : 20) and the tubes were autoclaved 
-o initiate enrichment cultures, a small portion of the soil sample was inoculated into the growth medium and incubated at 37 uC without agitation 
+he N2 gas phase was replaced with N2/CO2 80 20 and the tubes were autoclaved 
+o initiate enrichment cultures a small portion of the soil sample was inoculated into the growth medium and incubated at 37 uC without agitation 
 he Hungate technique was then used throughout isolation and study for physiological and metabolic characterization 
 nrichment cultures showed growth after 24 h incubation at 37 uC and microscopic examination revealed the presence of motile rod-shaped bacteria 
-rowth was determined by inserting culture tubes directly into a model Cary 50 Scan spectrophotometer (Varian) and measuring the OD580 
-ultures were purified by repeating the Hungate roll-tube method (Hungate, 1969) and using enrichment medium solidified with 2 % (w/v) agar (Difco) 
+rowth was determined by inserting culture tubes directly into a model Cary 50 Scan spectrophotometer Varian and measuring the OD580 
+ultures were purified by repeating the Hungate roll-tube method Hungate 1969 and using enrichment medium solidified with 2 % w/v agar Difco 
 everal colonies were picked and cultured in the corresponding culture medium 
-everal axenic cultures were obtained using this process and one strain, named SOL3f37T, was used for further characterization 
-ells of strain SOL3f37T were straight, thin and long rods (0.565.0–10.0 mm) that grew singly or in pairs 
-pherical and terminal spores were observed, mainly in old cultures 
-he other major components were identified as iso-C14 : 0 3-OH and/or iso-C15 : 0 dimethyl acetal (DMA) (21.6 %), iso-C13 : 0 (4.4 %), anteiso-C15 : 0 (3.9 %), iso-C15 : 1 (2.8 %) and one major component that remained unidentified (12.5 %) 
-train SOL3f37T did not grow in anaerobic enrichment medium containing traces of oxygen (as indicated by the pink-coloured resazurin in the growth medium) and was therefore described as a strict anaerobe 
-rowth occurred between pH 6.2 and 8.1; the optimum pH was 6.9 
-east extract (2 g l21) was required for degradation of the carbon substrates pyruvate,  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:49:08  Sporosalibacterium faouarense gen. nov., sp. nov.  Table 1 
-urthermore, strain SOL3f37T grew heterotrophically on yeast extract, peptone and bio-Trypticase, but was unable to grow on Casamino acids 
-cetate was produced after growth on glucose, fructose and mannitol 
-one of the amino acids tested (at 20 mM), including threonine, glycine, proline, tyrosine, phenylalanine, leucine, isoleucine, cysteine, lysine, serine, valine, alanine, arginine, tryptophan, asparagine, aspartic acid, glutamine, glutamic acid, methionine and histidine, supported growth 
-ulfate, thiosulfate and elemental sulfur were added separately to the anaerobic basal medium at final concentrations of http://ijs.sgmjournals.org  20 mM, 20 mM and 0.1 % (w/v), respectively, for potential use as an electron sink 
-itrate and nitrite utilization tests were carried out in triplicate in butyl-capped Hungate tubes filled with 5 ml pre-reduced medium (without resazurin and Na2S) distributed under a nitrogen atmosphere 
+everal axenic cultures were obtained using this process and one strain named SOL3f37T was used for further characterization 
+ells of strain SOL3f37T were straight thin and long rods 0.565.0–10.0 mm that grew singly or in pairs 
+pherical and terminal spores were observed mainly in old cultures 
+he other major components were identified as iso-C14 0 3-OH and/or iso-C15 0 dimethyl acetal DMA 21.6 % , iso-C13 0 4.4 % , anteiso-C15 0 3.9 % , iso-C15 1 2.8 % and one major component that remained unidentified ( 12.5 % 
+train SOL3f37T did not grow in anaerobic enrichment medium containing traces of oxygen as indicated by the pink-coloured resazurin in the growth medium and was therefore described as a strict anaerobe 
+rowth occurred between pH 6.2 and 8.1 the optimum pH was 6.9 
+east extract 2 g l21 was required for degradation of the carbon substrates pyruvate Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP 189.155.188.202 On Sat 17 Feb 2018 05:49:08 Sporosalibacterium faouarense gen. nov. sp . nov. Table 1 
+urthermore strain SOL3f37T grew heterotrophically on yeast extract peptone and bio-Trypticase but was unable to grow on Casamino acids 
+cetate was produced after growth on glucose fructose and mannitol 
+ulfate thiosulfate and elemental sulfur were added separately to the anaerobic basal medium at final concentrations of http //ijs.sgmjournals.org 20 mM 20 mM and 0.1 % w/v respectively , for potential use as an electron sink 
+itrate and nitrite utilization tests were carried out in triplicate in butyl-capped Hungate tubes filled with 5 ml pre-reduced medium without resazurin and Na2S distributed under a nitrogen atmosphere 
 hese tests were carried out under similar conditions without pre-reducing the medium and without a nitrogen atmosphere for oxygen utilization 
-he sulfur test was carried out photometrically as colloidal CuS (Fardeau et al., 1997) and nitrate/nitrite reduction was assayed using specific sticks (Quantofix; Macherey-Nagel) 
-he universal primers Fd1 (59-AGAGTTTGATCCTGGCTCAG-39) and Rd1 (59AAGGAGGTGATCCAGCC-39) were used to amplify the 16S rRNA gene 
-eference sequences were obtained from the Ribosomal Database Project II (Maidak et al., 2001) and GenBank (Benson et al., 1999) 
-he phylogenetic tree obtained by the neighbour-joining method (Saitou & Nei, 1987) is shown in Fig. 2; its topology was supported by the maximumparsimony and maximum-likelihood algorithms (not shown). 16S rRNA gene sequence analysis of strain SOL3f37T revealed that it was a member of the family Clostridiaceae of the order Clostridiales, as defined in the currently proposed taxonomy in Bergey’s Manual of Systematic Bacteriology (Wiegel, 2009) 
-he three most closely related strains with validly published names were Clostridiisalibacter paucivorans 37HS60T, Caloranaerobacter azorensis MV1087T and Thermohalobacter berrensis CTT3T, with sequence similarity of 93.4, 91.7 and 91.8 %, respectively 
-ther closely related type strains with validly published names include Clostridium purinilyticum ATCC 33906T, Clostridium acidurici ATCC 7906T and Eubacterium angustum ATCC 43737T, which showed sequence similarities with strain SOL3f37T below 92 % (91.9, 91.6 and 88.8 %, respectively; Fig. 2) 
-ezgui and others  Fig. 2 
-ar, 5 % sequence divergence.  phylogenetically closely related type strains, including Clostridium purinilyticum ATCC 33906T (Dürre et al., 1981) and Clostridium acidurici ATCC 7906T (Liebert, 1909) 
-owever, none of them grew on sugars (Wery et al., 2001), whereas strain SOL3f37T grew on two sugars (glucose and fructose), but not on amino acids, including glycine 
-train SOL3f37T stained Gram-positive and was spore-forming, whereas Thermohalobacter berrensis CTT3T stained Gram-negative and was a non-sporulating rod (Cayol et al., 2000) 
-trains SOL3f37T and Thermohalobacter berrensis CTT3T also differed in their growth conditions; strain SOL3f37T, a slightly thermotolerant bacterium, grew between 20 and 48 uC (optimum 40 uC), whereas Thermohalobacter berrensis CTT3T, a strict thermophile, grew at up to 70 uC (optimum 65 uC), but not below 45 uC 
-train SOL3f37T stained Gram-positive, whereas Caloranaerobacter azorensis MV1087T was Gram-negative and had a characteristic Gram-negative cell wall 
-urthermore, Caloranaerobacter azorensis MV1087T and strain SOL3f37T did not use the same carbohydrates; in contrast to Caloranaerobacter azorensis MV1087T, strain SOL3f37T was able to use glucose, fructose and mannitol but not arabinose, ribose, xylose, galactose or sorbose 
-inally, strain SOL3f37T could be distinguished unambiguously from Clostridiisalibacter paucivorans 37HS60T in terms of marked differences in their morphological, genetic and physiological traits 
-lostridiisalibacter paucivorans 37HS60T (Liebgott et al., 2008) was able to utilize the organic acids succinate, fumarate and pyruvate (all at 20 mM), whereas strain SOL3f37T was unable to use succinate, but could use fumarate and pyruvate, as well as glucose, fructose and mannitol (Table 2) 
+he sulfur test was carried out photometrically as colloidal CuS Fardeau et al. 1997 and nitrate/nitrite reduction was assayed using specific sticks Quantofix Macherey-Nagel 
+he universal primers Fd1 59-AGAGTTTGATCCTGGCTCAG-39 and Rd1 59AAGGAGGTGATCCAGCC-39 were used to amplify the 16S rRNA gene 
+eference sequences were obtained from the Ribosomal Database Project II Maidak et al. 2001 and GenBank Benson et al. 1999 
+he phylogenetic tree obtained by the neighbour-joining method Saitou & Nei 1987 is shown in Fig . 2 its topology was supported by the maximumparsimony and maximum-likelihood algorithms not shown . 16S rRNA gene sequence analysis of strain SOL3f37T revealed that it was a member of the family Clostridiaceae of the order Clostridiales as defined in the currently proposed taxonomy in Bergey ’ s Manual of Systematic Bacteriology Wiegel 2009 
+he three most closely related strains with validly published names were Clostridiisalibacter paucivorans 37HS60T Caloranaerobacter azorensis MV1087T and Thermohalobacter berrensis CTT3T with sequence similarity of 93.4 91.7 and 91.8 % respectively 
+ther closely related type strains with validly published names include Clostridium purinilyticum ATCC 33906T Clostridium acidurici ATCC 7906T and Eubacterium angustum ATCC 43737T which showed sequence similarities with strain SOL3f37T below 92 % 91.9 91.6 and 88.8 % respectively Fig . 2 
+ezgui and others Fig . 2 
+ar 5 % sequence divergence . phylogenetically closely related type strains including Clostridium purinilyticum ATCC 33906T Dürre et al. 1981 and Clostridium acidurici ATCC 7906T Liebert 1909 
+owever none of them grew on sugars Wery et al. 2001 whereas strain SOL3f37T grew on two sugars glucose and fructose , but not on amino acids , including glycine 
+train SOL3f37T stained Gram-positive and was spore-forming whereas Thermohalobacter berrensis CTT3T stained Gram-negative and was a non-sporulating rod Cayol et al. 2000 
+trains SOL3f37T and Thermohalobacter berrensis CTT3T also differed in their growth conditions strain SOL3f37T a slightly thermotolerant bacterium grew between 20 and 48 uC optimum 40 uC whereas Thermohalobacter berrensis CTT3T a strict thermophile , grew at up to 70 uC optimum 65 uC , but not below 45 uC 
+train SOL3f37T stained Gram-positive whereas Caloranaerobacter azorensis MV1087T was Gram-negative and had a characteristic Gram-negative cell wall 
+urthermore Caloranaerobacter azorensis MV1087T and strain SOL3f37T did not use the same carbohydrates in contrast to Caloranaerobacter azorensis MV1087T strain SOL3f37T was able to use glucose fructose and mannitol but not arabinose ribose xylose galactose or sorbose 
+inally strain SOL3f37T could be distinguished unambiguously from Clostridiisalibacter paucivorans 37HS60T in terms of marked differences in their morphological genetic and physiological traits 
+lostridiisalibacter paucivorans 37HS60T Liebgott et al. 2008 was able to utilize the organic acids succinate fumarate and pyruvate all at 20 mM whereas strain SOL3f37T was unable to use succinate but could use fumarate and pyruvate as well as glucose , fructose and mannitol Table 2 
 train SOL3f37T and Clostridiisalibacter paucivorans 37HS60T both reduced fumarate slowly to succinate 
-nlike Clostridiisalibacter paucivorans 37HS60T, which was unable to use sugars as carbon sources, strain SOL3f37T produced acetate after growth on glucose, fructose and mannitol 
-owever, the 16S rRNA gene sequence similarity between strain SOL3f37T and Clostridiisalibacter paucivorans 37HS60T was less than 93.4 %, and numerous phenotypic characteristics of isolate SOL3f37T were completely distinct 
+nlike Clostridiisalibacter paucivorans 37HS60T which was unable to use sugars as carbon sources strain SOL3f37T produced acetate after growth on glucose fructose and mannitol 
+owever the 16S rRNA gene sequence similarity between strain SOL3f37T and Clostridiisalibacter paucivorans 37HS60T was less than 93.4 % and numerous phenotypic characteristics of isolate SOL3f37T were completely distinct 
 train SOL3f37T differed from Clostridiisalibacter paucivorans 37HS60T in its inability to use Casamino acids and amino acids 
-lostridiisalibacter paucivorans 37HS60T was able to use cysteine, lysine, serine and valine for growth, whereas strain SOL3f37T was unable to grow on any of the 20 amino acids tested 
-train SOL3f37T and Clostridiisalibacter paucivorans 37HS60T were both mesophilic and slightly thermotolerant, with a similar temperature range for growth, but Clostridiisalibacter paucivorans 37HS60T grew at up to 50 uC (optimum 42 uC), whereas SOL3f37T only grew at up to 48 uC (optimum 40 uC) 
-hus, in contrast to Clostridiisalibacter paucivorans 37HS60T, which was able to grow at pH 5.5, strain SOL3f37T did not grow  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:49:08  Sporosalibacterium faouarense gen. nov., sp. nov.  Table 2 
-ifferential phenotypic characteristics of strain SOL3f37T and type strains of phylogenetically related species Strains: 1, Sporosalibacterium faouarense gen. nov., sp. nov 
-inally, Clostridiisalibacter paucivorans 37HS60T showed an atypical thick Gram-positive http://ijs.sgmjournals.org  cell-wall structure composed of dense and stratified multiple layers, which is restricted to date within these closely related genera to the genus Clostridiisalibacter, whereas strain SOL3f37T showed a typical Gram-positive-type cell-wall structure 
-his proposal is strongly supported by significant differences in genetic, metabolic and physiological traits and cell-wall structure.  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:49:08  103  R 
-ezgui and others  Description of Sporosalibacterium gen. nov 
-od-shaped, motile, Gram-positive bacteria, forming ovoid to spherical and subterminal to terminal spores 
+lostridiisalibacter paucivorans 37HS60T was able to use cysteine lysine serine and valine for growth whereas strain SOL3f37T was unable to grow on any of the 20 amino acids tested 
+train SOL3f37T and Clostridiisalibacter paucivorans 37HS60T were both mesophilic and slightly thermotolerant with a similar temperature range for growth but Clostridiisalibacter paucivorans 37HS60T grew at up to 50 uC optimum 42 uC , whereas SOL3f37T only grew at up to 48 uC optimum 40 uC 
+hus in contrast to Clostridiisalibacter paucivorans 37HS60T which was able to grow at pH 5.5 strain SOL3f37T did not grow Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP 189.155.188.202 On Sat 17 Feb 2018 05:49:08 Sporosalibacterium faouarense gen. nov. sp . nov. Table 2 
+ifferential phenotypic characteristics of strain SOL3f37T and type strains of phylogenetically related species Strains 1 Sporosalibacterium faouarense gen. nov. sp . nov 
+inally Clostridiisalibacter paucivorans 37HS60T showed an atypical thick Gram-positive http //ijs.sgmjournals.org cell-wall structure composed of dense and stratified multiple layers which is restricted to date within these closely related genera to the genus Clostridiisalibacter whereas strain SOL3f37T showed a typical Gram-positive-type cell-wall structure 
+his proposal is strongly supported by significant differences in genetic metabolic and physiological traits and cell-wall structure . Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Sat 17 Feb 2018 05:49:08 103 R 
+ezgui and others Description of Sporosalibacterium gen. nov 
+r. n. spora a seed and in bacteriology a spore L. n. sal salis salt L. neut . n. bacterium a rod N.L . neut . n 
+od-shaped motile Gram-positive bacteria forming ovoid to spherical and subterminal to terminal spores 
 oderately halophilic and slightly thermotolerant 
-ble to grow on yeast extract, peptone, bio-Trypticase, pyruvate, fumarate, glucose, fructose and mannitol, but unable to grow on Casamino acids 
-solation and  characterization of an adenine-utilizing, anaerobic sporeformer, Clostridium purinolyticum sp. nov 
-ioEdit: a user-friendly biological sequence  alignment editor and analysis program for Windows 95/98/NT 
-he major fatty acids detected are iso-C15 : 0, iso-C14 : 0 3-OH and/or iso-C15 : 0 DMA, iso-C13 : 0, anteiso-C15 : 0 and isoC15 : 1 and one major component that remains unidentified, with small proportions of various other fatty acids 
-equires yeast extract in order to degrade pyruvate, fumarate, fructose, glucose and mannitol 
-n  We gratefully acknowledge Olfa Houari for valuable advice and Pierre-Pol Liebgott for technical assistance 
-any thanks to Pierre Thomas and Manon Joseph for electronic microscopy and Faten Trakhna for assistance with drafting.  Bergey’s Manual of Systematic Bacteriology, 2nd edn, vol. 3, pp. 736– 738 
-ew York: Springer.  104  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:49:08   
-train SOL3f37T had a typical Gram-positive-type cell-wall structure, unlike the thick, multilayered cell wall of its closest relative Clostridiisalibacter paucivorans 
-hylogenetic analysis based on 16S rRNA gene sequences revealed that strain SOL3f37T was a member of the family Clostridiaceae in the order Clostridiales; strain SOL3f37T was related to members of various genera of the family Clostridiaceae 
-he name Sporosalibacterium faouarense gen. nov., sp. nov. is proposed, with SOL3f37T (5DSM 21485T 5JCM 15487T) as the type strain of Sporosalibacterium faouarense.  The Clostridiales constitutes one of the largest of the eubacterial orders 
-he GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain SOL3f37T is EU567322.  017715 G 2011 IUMS  genus of the order 
-t contains 13 recognized genera, of which the type genus, Clostridium, contains about 190 recognized species at the time of writing 
-ecently, the systematics of the Clostridiaceae have been found to differ significantly from previous descriptions (Wiegel, 2009) 
+ble to grow on yeast extract peptone bio-Trypticase pyruvate fumarate glucose fructose and mannitol but unable to grow on Casamino acids 
+solation and characterization of an adenine-utilizing anaerobic sporeformer Clostridium purinolyticum sp . nov 
+ioEdit a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT 
+he major fatty acids detected are iso-C15 0 iso-C14 0 3-OH and/or iso-C15 0 DMA iso-C13 0 anteiso-C15 0 and isoC15 1 and one major component that remains unidentified with small proportions of various other fatty acids 
+equires yeast extract in order to degrade pyruvate fumarate fructose glucose and mannitol 
+n We gratefully acknowledge Olfa Houari for valuable advice and Pierre-Pol Liebgott for technical assistance 
+any thanks to Pierre Thomas and Manon Joseph for electronic microscopy and Faten Trakhna for assistance with drafting . Bergey ’ s Manual of Systematic Bacteriology 2nd edn vol . 3 pp . 736– 738 
+ew York Springer . 104 Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP 189.155.188.202 On Sat 17 Feb 2018 05:49:08 
+train SOL3f37T had a typical Gram-positive-type cell-wall structure unlike the thick multilayered cell wall of its closest relative Clostridiisalibacter paucivorans 
+hylogenetic analysis based on 16S rRNA gene sequences revealed that strain SOL3f37T was a member of the family Clostridiaceae in the order Clostridiales strain SOL3f37T was related to members of various genera of the family Clostridiaceae 
+he name Sporosalibacterium faouarense gen. nov. sp . nov. is proposed with SOL3f37T 5DSM 21485T 5JCM 15487T as the type strain of Sporosalibacterium faouarense . The Clostridiales constitutes one of the largest of the eubacterial orders 
+he GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain SOL3f37T is EU567322 . 017715 G 2011 IUMS genus of the order 
+t contains 13 recognized genera of which the type genus Clostridium contains about 190 recognized species at the time of writing 
+ecently the systematics of the Clostridiaceae have been found to differ significantly from previous descriptions Wiegel 2009 
 he taxa presently placed into the Clostridiaceae are generally obligately anaerobic rods 
-t is suggested that this strain, SOL3f37T, represents a novel species in a new genus of the order Clostridiales 
+t is suggested that this strain SOL3f37T represents a novel species in a new genus of the order Clostridiales 
 he NaCl concentration of the samples was 36 g l21 
 he temperature of the soil at the sampling site was 35–39 uC during the day 
-train SOL3f37T showed a typical Gram-positivetype cell-wall structure, unlike the thick, multilayered cell wall of its closest relative Clostridiisalibacter paucivorans. 100  Fig. 1 
+train SOL3f37T showed a typical Gram-positivetype cell-wall structure unlike the thick multilayered cell wall of its closest relative Clostridiisalibacter paucivorans . 100 Fig . 1 
 he strain did not grow when NaCl was omitted from the basal medium 
-or pH studies, the same medium was adjusted to the desired pH using anaerobically prepared stock solutions of NaHCO3 (10 %) or Na2CO3 (8 %) 
-aNO3 (10 mM) or NaNO2 (10 mM) was added to the tubes immediately before inoculation (10 %, v/v) 
-he DNA G+C content, determined by the Identification Service of the DSMZ (Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH, Braunschweig, Germany) using the method of Mesbah et al. (1989), was 30.7 mol% 
-enomic DNA of strain SOL3f37T was extracted using the Wizard Genomic DNA Purification kit following the manufacturer’s protocol (Promega) 
-he nucleotide sequence (1497 bases) was aligned manually using the sequence alignment editor BioEdit (Hall, 1999) 
-airwise evolutionary distances based on 1246 unambiguous nucleotides were computed by the method of Jukes & Cantor (1969) 
-hylogenetic dendrogram based on 16S rRNA gene sequence data (1315 unambiguous alignment positions) showing the position of strain SOL3f37T 
-n addition, the DNA G+C content of Caloranaerobacter azorensis MV1087T (27.0 mol%) was significantly lower than the value calculated for strain SOL3f37T (30.7 mol%) 
-train SOL3f37T also differed from Caloranaerobacter azorensis MV1087T in terms of physiological growth conditions; the optimum growth temperature of strain SOL3f37T was 40 uC, whereas Caloranaerobacter azorensis MV1087T was able to grow at up to 70 uC, with optimum growth at 102  65 uC 
-OL3f37T (data from the present study); 2, Clostridiisalibacter paucivorans 37HS60T (Liebgott et al., 2008); 3, Caloranaerobacter azorensis MV1087T (Wery et al., 2001); 4, Thermohalobacter berrensis CTT3T (Cayol et al., 2000) 
-one of the four strains was able to reduce thiosulfate or sulfate, but they all used pyruvate as a substrate 
-lso, the DNA G+C content of Clostridiisalibacter paucivorans 37HS60T (33.0 mol%) was significantly higher than the value calculated for strain SOL3f37T (30.7 mol%) 
-aking into account the important differences in phylogenetic distances, strain SOL3f37T represents a novel species in a new genus in the family Clostridiaceae in the order Clostridiales, for which the name Sporosalibacterium faouarense gen. nov., sp. nov. is proposed 
-xhibit a typical Gram-positive-type cell-wall ultrastructure, unlike the thick, multilayered cell wall of the closest relative Clostridiisalibacter paucivorans 
-.L. neut. adj. faouarense from the El Faouar area in south Tunisia, where the type strain was isolated).  Liebert, F. (1909) 
-roc  Displays the following properties in addition to those described for the genus 
-ptimum NaCl concentration for growth is 40 g l21; grows in the presence of NaCl concentrations up to 150 g l21 
-he type strain is SOL3f37T (5DSM 21485T 5JCM 15487T), isolated from a hydrocarbon-polluted soil surrounding a deep petroleum environment located in the El Faouar area in south Tunisia 
-he G+C content of DNA of the type strain is 30.7 mol% (HPLC).  Mammalian Protein Metabolism, vol. 3, pp. 21–132 
+or pH studies the same medium was adjusted to the desired pH using anaerobically prepared stock solutions of NaHCO3 10 % or Na2CO3 8 % 
+aNO3 10 mM or NaNO2 10 mM was added to the tubes immediately before inoculation 10 % v/v 
+he DNA G+C content determined by the Identification Service of the DSMZ Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH Braunschweig Germany using the method of Mesbah et al . 1989 , was 30.7 mol % 
+enomic DNA of strain SOL3f37T was extracted using the Wizard Genomic DNA Purification kit following the manufacturer ’ s protocol Promega 
+he nucleotide sequence 1497 bases was aligned manually using the sequence alignment editor BioEdit Hall 1999 
+airwise evolutionary distances based on 1246 unambiguous nucleotides were computed by the method of Jukes & Cantor 1969 
+hylogenetic dendrogram based on 16S rRNA gene sequence data 1315 unambiguous alignment positions showing the position of strain SOL3f37T 
+n addition the DNA G+C content of Caloranaerobacter azorensis MV1087T 27.0 mol % was significantly lower than the value calculated for strain SOL3f37T 30.7 mol % 
+train SOL3f37T also differed from Caloranaerobacter azorensis MV1087T in terms of physiological growth conditions the optimum growth temperature of strain SOL3f37T was 40 uC whereas Caloranaerobacter azorensis MV1087T was able to grow at up to 70 uC with optimum growth at 102 65 uC 
+OL3f37T data from the present study ; 2 Clostridiisalibacter paucivorans 37HS60T Liebgott et al. 2008 ; 3 Caloranaerobacter azorensis MV1087T Wery et al. 2001 ; 4 Thermohalobacter berrensis CTT3T Cayol et al. 2000 
+lso the DNA G+C content of Clostridiisalibacter paucivorans 37HS60T 33.0 mol % was significantly higher than the value calculated for strain SOL3f37T 30.7 mol % 
+aking into account the important differences in phylogenetic distances strain SOL3f37T represents a novel species in a new genus in the family Clostridiaceae in the order Clostridiales for which the name Sporosalibacterium faouarense gen. nov. sp . nov. is proposed 
+xhibit a typical Gram-positive-type cell-wall ultrastructure unlike the thick multilayered cell wall of the closest relative Clostridiisalibacter paucivorans 
+.L . neut . adj . faouarense from the El Faouar area in south Tunisia where the type strain was isolated . Liebert F. 1909 
+roc Displays the following properties in addition to those described for the genus 
+ptimum NaCl concentration for growth is 40 g l21 grows in the presence of NaCl concentrations up to 150 g l21 
+he type strain is SOL3f37T 5DSM 21485T 5JCM 15487T , isolated from a hydrocarbon-polluted soil surrounding a deep petroleum environment located in the El Faouar area in south Tunisia 
+he G+C content of DNA of the type strain is 30.7 mol % HPLC . Mammalian Protein Metabolism vol . 3 pp . 21–132 
 dited by H 
-haracteristic Cell width (mm) Cell length (mm) Gram type Type of flagella* Temperature for growth (uC) Range Optimum pH for growth Range Optimum NaCl concentration for growth (g l21) Range Optimum DNA G+C content (mol%) Growth on Casamino acids S0 reduction Utilization of: Arginine Cysteine Serine Lysine Valine Fructose Galactose Glucose Mannose Ribose Xylose Glycerol Starch Mannitol Fumarate Succinate  1  2  3  4  0.5 5.0–10.0 Positive  0.5 3.0–8.0 Atypical positive  0.3–0.5 0.5–2.0 Negative  0.5 3.0–8.0 Negative  ML  P  P  ML  20–48 40  20–50 42  45–65 65  45–70 65  6.2–8.1 6.9  5.5–8.5 6.8  5.5–9.0 7.0  5.2–8.8 7.0  0.5–150 40 30.7 2 2  10–100 50 33.0 + 2  6.5–65 20 27.0 + +  20–150 50 33.0 2 2  2 2 2 2 2 + 2 + 2 2 2 2 2 + + 2  2 + + + + 2 2 2 2 2 2 2 2 2 + +  +  2 2 2 2 2 + 2 + + 2 2 + + + 2  ND ND ND ND  + + + ND  + + ND  + + 2 2  ND  *ML, Monotrichous, laterally inserted; P, peritrichous.  below pH 6.2 
-ence, unlike Caloranaerobacter azorensis MV1087T, which is thermophilic, strain SOL3f37T was only slightly thermotolerant 
+OL3f37T 2 Clostridiisalibacter paucivorans 37HS60T data from Liebgott et al. 2008 
+haracteristic Cell width mm Cell length mm Gram type Type of flagella* Temperature for growth uC Range Optimum pH for growth Range Optimum NaCl concentration for growth g l21 Range Optimum DNA G+C content mol % Growth on Casamino acids S0 reduction Utilization of Arginine Cysteine Serine Lysine Valine Fructose Galactose Glucose Mannose Ribose Xylose Glycerol Starch Mannitol Fumarate Succinate 1 2 3 4 0.5 5.0–10.0 Positive 0.5 3.0–8.0 Atypical positive 0.3–0.5 0.5–2.0 Negative 0.5 3.0–8.0 Negative ML P P ML 20–48 40 20–50 42 45–65 65 45–70 65 6.2–8.1 6.9 5.5–8.5 6.8 5.5–9.0 7.0 5.2–8.8 7.0 0.5–150 40 30.7 2 2 10–100 50 33.0 + 2 6.5–65 20 27.0 + + 20–150 50 33.0 2 2 2 2 2 2 2 + 2 + 2 2 2 2 2 + + 2 2 + + + + 2 2 2 2 2 2 2 2 2 + + + 2 2 2 2 2 + 2 + + 2 2 + + + 2 ND ND ND ND + + + ND + + ND + + 2 2 ND *ML Monotrichous laterally inserted P peritrichous . below pH 6.2 
+n Bergey ’ s Manual of Systematic Bacteriology vol . 2 pp . 1141–1200 
+ence unlike Caloranaerobacter azorensis MV1087T which is thermophilic strain SOL3f37T was only slightly thermotolerant 
 east extract is required for growth 
-he type species is Sporosalibacterium faouarense.  References Benson, D 
-he optimum pH for growth is 6.9; growth occurs at pH 6.2–8.1 
+he type species is Sporosalibacterium faouarense . References Benson D 
+he optimum pH for growth is 6.9 growth occurs at pH 6.2–8.1 
+train SOL3f37T did not use cellobiose cellulose galactose lactose maltose mannose ribose sucrose xylose melibiose arabinose glycerol ethanol methanol acetate propionate butyrate lactate citrate xylan or starch 
 he medium was adjusted to pH 7.1 with 10 M KOH 
-or determination of NaCl requirements, NaCl was weighed directly into tubes at concentrations up to 200 g l21 before dispensing basal medium without NaCl 
-t grew in NaCl concentrations ranging from 0.5 to 150 g l21 (optimum 40 g l21) 
-lso, unlike SOL3f37T, Clostridiisalibacter paucivorans 37HS60T was unable to grow in media containing less than 10 g NaCl l21 
-he maximum NaCl concentration for growth of Clostridiisalibacter paucivorans 37HS60T was 100 g l21, whereas strain SOL3f37T was able to grow in NaCl concentrations up to 150 g l21 
-oes not use elemental sulfur, sulfate, thiosulfate, sulfite, nitrate, nitrite or oxygen as electron acceptors 
-east extract (0.2 g or 2.0 g l21) was added to this basal medium 
-train SOL3f37T did not use cellobiose, cellulose, galactose, lactose, maltose, mannose, ribose, sucrose, xylose, melibiose, arabinose, glycerol, ethanol, methanol, acetate, propionate, butyrate, lactate, citrate, xylan or starch 
-ells are monotrichously flagellated, 0.565.0–10.0 mm, occurring singly or in pairs 
-he DNA G+C content was 30.7 mol% 
+or determination of NaCl requirements NaCl was weighed directly into tubes at concentrations up to 200 g l21 before dispensing basal medium without NaCl 
+t grew in NaCl concentrations ranging from 0.5 to 150 g l21 optimum 40 g l21 
+lso unlike SOL3f37T Clostridiisalibacter paucivorans 37HS60T was unable to grow in media containing less than 10 g NaCl l21 
+he maximum NaCl concentration for growth of Clostridiisalibacter paucivorans 37HS60T was 100 g l21 whereas strain SOL3f37T was able to grow in NaCl concentrations up to 150 g l21 
+east extract 0.2 g or 2.0 g l21 was added to this basal medium 
+ells are monotrichously flagellated 0.565.0–10.0 mm occurring singly or in pairs 
+he DNA G+C content was 30.7 mol % 
 volution of protein molecules 
-ato, E 
+ato E 

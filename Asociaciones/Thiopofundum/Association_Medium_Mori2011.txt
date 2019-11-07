@@ -1,167 +1,168 @@
-he following electron acceptors (mM) were not used, even in the presence of thiosulfate or elemental sulfur: nitrite (2.5 and 5), fumarate (10), iron(III) citrate (5) (Heising et al., 1999), manganese (5), selenate (2.5 and 5), selenite (2.5 and 5) and arsenate (2.5 and 5) 
-ither oxygen or nitrate is used as an electron acceptor but nitrite, fumarate, iron(III) citrate, manganese, selenate, selenite and arsenate are not 
-n a 20 % CO2 atmosphere, strain gps61T grew using thiosulfate, sulfur or tetrathionate as electron donors and oxygen or nitrate as electron acceptors 
-nder anaerobic conditions (N2/CO2, 80 : 20, v/v; 150 kPa), strain gps61T was able to use nitrate (10 mM) as an electron acceptor in the presence of thiosulfate or elemental sulfur 
-itrite was not detected in the culture on nitrate using a colorimetric assay (Hewitt & Nicholas, 1964) 
-owever, the following substrates did not support growth (mM): sulfide (2 and 5), CH4, H2, H2+acetate (10), methanol (2 and 5), formate (10 and 30), acetate (10 and 30), butyrate (10), citrate (10), fumarate (10), glutamate (10), lactate (10), pyruvate (10), malate (10), succinate (10), L-arginine (10), L-asparagine (10), Lcysteine (10), L-histidine (10), L-leucine (10), L-methionine (10), arabinose (5), fructose (5), galactose (5), glucose (5), inositol (5), mannose (5), raffinose (5), sucrose (5) and xylose (10) 
-tilization of electron acceptors and donors was determined by measuring OD660 (spectrophotometer model U2800; Hitachi), thiosulfate and sulfate concentration (HPLC model 2695 with conductivity detector model 432 and IC-Pak Anion column; Waters) (Mori et al., 2008) and cell density via microscopic observation 
-ell density and concentration of thiosulfate and sulfate over time on either thiosulfate or elemental sulfur were determined (Supplementary Fig 
+he following electron acceptors mM were not used even in the presence of thiosulfate or elemental sulfur nitrite 2.5 and 5 fumarate 10 , iron III citrate 5 Heising et al. , 1999 , manganese 5 , selenate 2.5 and 5 , selenite 2.5 and 5 and arsenate ( 2.5 and 5 
+ither oxygen or nitrate is used as an electron acceptor but nitrite fumarate iron III citrate manganese selenate selenite and arsenate are not 
+n a 20 % CO2 atmosphere strain gps61T grew using thiosulfate sulfur or tetrathionate as electron donors and oxygen or nitrate as electron acceptors 
+nder anaerobic conditions N2/CO2 80 20 v/v 150 kPa , strain gps61T was able to use nitrate 10 mM as an electron acceptor in the presence of thiosulfate or elemental sulfur 
+itrite was not detected in the culture on nitrate using a colorimetric assay Hewitt & Nicholas 1964 
+owever the following substrates did not support growth mM : sulfide 2 and 5 CH4 H2 , H2+acetate 10 , methanol 2 and 5 , formate 10 and 30 , acetate 10 and 30 , butyrate 10 , citrate 10 , fumarate 10 , glutamate 10 , lactate 10 , pyruvate 10 , malate 10 , succinate 10 , L-arginine 10 , L-asparagine 10 , Lcysteine 10 , L-histidine 10 , L-leucine 10 , L-methionine 10 , arabinose 5 , fructose 5 , galactose 5 , glucose 5 , inositol 5 , mannose 5 , raffinose 5 , sucrose 5 and xylose 10 
+tilization of electron acceptors and donors was determined by measuring OD660 spectrophotometer model U2800 Hitachi thiosulfate and sulfate concentration HPLC model 2695 with conductivity detector model 432 and IC-Pak Anion column Waters ( Mori et al. , 2008 and cell density via microscopic observation 
+ell density and concentration of thiosulfate and sulfate over time on either thiosulfate or elemental sulfur were determined Supplementary Fig 
 ells grown on thiosulfate converted 13.3 mM thiosulfate into 19.2 mM sulfate and an undetermined amount of elemental sulfur 
-hioprofundum lithotrophicum used sulfite as an electron donor, unlike strain gps61T 
-haracteristic Morphology Intracellular deposit Requirement for oxygen Photosynthesis Electron acceptor(s) Electron donors Optimum temperature for growth (uC) Optimum pH for growth Optimum NaCl concentration for growth DNA G+C content (mol%)  1  2  3  4  Rod 2 Facultatively anaerobic and microaerobic 2 O2, NO32 S0, S2O32-, S4O62-  Short or spiral rod  Spiral rod + Microaerobic  Rod  O2, NO32 0 S , S2O32-, S4O62-, SO32-*  2 O2 S2-, S82-, S0, S2O32-, S4O62-  39 7 2% 62.9  50 7 3% 66  30D 10 3% 58.9  ND  Facultatively anaerobic ND  ND  Facultatively anaerobic ND  O2, NO22 S2-, S2O32-, thiocyanate 30D 7.5 9% 58.2  *Thioprofundum lithotrophicum was not able to use sulfite as an electron donor in our analysis 
-enitrification in a binary culture and thiocyanate metabolism  Marteinsson, V 
-atty acid methyl ester analysis was performed using the GC/MS method (Hanada et al., 2002) and the MIDI microbial identification system 
-he strain also contained C16 : 1v7c (16 %), C18 : 1v7c (6 %), C15 : 0 (5 %) and C14 : 0 (2 %) as minor fatty acid components 
-luorometric  deoxyribonucleic acid-deoxyribonucleic acid hybridization in microdilution wells as an alternative to membrane filter hybridization in which radioisotopes are used to determine genetic relatedness among bacterial strains 
-mproved dating of the human/  Hattori, S., Kamagata, Y., Hanada, S. & Shoun, H. (2000).  chimpanzee separation in the mitochondrial DNA tree: heterogeneity among amino acid sites 
-he basal medium was composed of (l21) 0.60 g KH2PO4, 0.11 g K2HPO4, 3.05 g MgCl2 . 6H2O, 0.15 g CaCl2 . 2H2O, 0.66 g (NH4)2SO4, 30 g NaCl, 2.52 g NaHCO3, and 2 ml each of trace element and vitamin solutions of NBRC medium 377 (NBRC, 2010) 
-ecause strain gps61T was unable to use electron donors other than thiosulfate, elemental sulfur and tetrathionate, strain gps61T was considered to be an obligate chemolithoautotroph that uses sulfur oxidation and carbon dioxide fixation.  Fig. 1 
+hioprofundum lithotrophicum used sulfite as an electron donor unlike strain gps61T 
+haracteristic Morphology Intracellular deposit Requirement for oxygen Photosynthesis Electron acceptor s Electron donors Optimum temperature for growth uC Optimum pH for growth Optimum NaCl concentration for growth DNA G+C content mol % 1 2 3 4 Rod 2 Facultatively anaerobic and microaerobic 2 O2 NO32 S0 S2O32- S4O62- Short or spiral rod Spiral rod + Microaerobic Rod O2 NO32 0 S S2O32- S4O62- SO32-* 2 O2 S2- S82- S0 S2O32- S4O62- 39 7 2 % 62.9 50 7 3 % 66 30D 10 3 % 58.9 ND Facultatively anaerobic ND ND Facultatively anaerobic ND O2 NO22 S2- S2O32- thiocyanate 30D 7.5 9 % 58.2 *Thioprofundum lithotrophicum was not able to use sulfite as an electron donor in our analysis 
+enitrification in a binary culture and thiocyanate metabolism Marteinsson V 
+atty acid methyl ester analysis was performed using the GC/MS method Hanada et al. 2002 and the MIDI microbial identification system 
+he strain also contained C16 1v7c 16 % , C18 1v7c 6 % , C15 0 5 % and C14 0 2 % as minor fatty acid components 
+luorometric deoxyribonucleic acid-deoxyribonucleic acid hybridization in microdilution wells as an alternative to membrane filter hybridization in which radioisotopes are used to determine genetic relatedness among bacterial strains 
+mproved dating of the human/ Hattori S. Kamagata Y. Hanada S. & Shoun H. 2000 . chimpanzee separation in the mitochondrial DNA tree heterogeneity among amino acid sites 
+he basal medium was composed of l21 0.60 g KH2PO4 0.11 g K2HPO4 3.05 g MgCl2 . 6H2O 0.15 g CaCl2 . 2H2O 0.66 g NH4 2SO4 30 g NaCl 2.52 g NaHCO3 and 2 ml each of trace element and vitamin solutions of NBRC medium 377 NBRC 2010 
+ecause strain gps61T was unable to use electron donors other than thiosulfate elemental sulfur and tetrathionate strain gps61T was considered to be an obligate chemolithoautotroph that uses sulfur oxidation and carbon dioxide fixation . Fig . 1 
 rowth occurs by sulfur oxidation and carbon dioxide fixation 
-arbon dioxide is used as a sole carbon source; organic compounds are not used for growth 
-or the enrichment of sulfuroxidizing micro-organisms, AP8SO1 medium, comprising basal medium supplemented with 5 mM Na2S2O3, was used under an atmosphere of N2/CO2/O2 (75 : 20 : 5, v/v/v; 150 kPa) in a vial sealed with a butyl rubber stopper and an aluminium cap; the enrichment was performed at 50 uC 
-International Journal of Systematic and Evolutionary Microbiology (2011), 61, 2412–2418  DOI 10.1099/ijs.0.026963-0  Thioprofundum hispidum sp. nov., an obligately chemolithoautotrophic sulfur-oxidizing gammaproteobacterium isolated from the hydrothermal field on Suiyo Seamount, and proposal of Thioalkalispiraceae fam. nov. in the order Chromatiales Koji Mori,1,2 Ken-ichiro Suzuki,1 Tetsuro Urabe,3 Maki Sugihara,2 Kenji Tanaka,1 Moriyuki Hamada1 and Satoshi Hanada2 Correspondence Koji Mori mori-koji@nite.go.jp  1  Biological Resource Center (NBRC), National Institute of Technology and Evaluation (NITE), 2-5-8 Kazusakamatari, Kisarazu, Chiba 292-0818, Japan  2  Institute for Biological Resources and Functions, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba Central 6, 1-1-1 Higashi, Tsukuba, Ibaraki 305-8566, Japan  3  Department of Earth and Planetary Science, University of Tokyo, Bunkyo-ku, Tokyo 113-0033, Japan  A novel mesophilic, facultatively anaerobic, sulfur-oxidizing bacterial strain, designated gps61T, was isolated from a surface rock sample collected from the hydrothermal field of Suiyo Seamount on the Izu-Bonin Arc in the Western Pacific Ocean 
-ther substrates, including organic acids and sugars, did not support growth, indicating that strain gps61T was an obligate chemolithoautotroph. 16S rRNA gene sequence analysis revealed that strain gps61T was closely related to Thioprofundum lithotrophicum 106T (98.5 % sequence similarity) in the order Chromatiales 
-hylogenetic trees grouped strain gps61T and Thioprofundum lithotrophicum in the same cluster along with Thioalkalispira microaerophila and Thiohalophilus thiocyanoxidans, but it was apparent from the analysis that the novel strain had definitely departed from the family lineage 
-n the basis of its phylogenetic position along with its morphological and physiological characteristics, strain gps61T (5NBRC 101261T 5DSM 18546T) represents a novel species of the genus Thioprofundum, for which the name Thioprofundum hispidum sp. nov. is proposed 
-n addition, we propose a novel family name, Thioalkalispiraceae, in the order Chromatiales, to accommodate the genera Thioalkalispira, Thiohalophilus and Thioprofundum.  Hydrothermal vents have been discovered worldwide and host peculiar ecosystems that include chemolithoautotrophs as primary producers 
-wo supplementary figures are available with the online version of this paper.  2412  Aquificae and Proteobacteria have been found in hydrothermal vent systems 
+arbon dioxide is used as a sole carbon source organic compounds are not used for growth 
+or the enrichment of sulfuroxidizing micro-organisms AP8SO1 medium comprising basal medium supplemented with 5 mM Na2S2O3 was used under an atmosphere of N2/CO2/O2 75 20 5 v/v/v 150 kPa in a vial sealed with a butyl rubber stopper and an aluminium cap the enrichment was performed at 50 uC 
+International Journal of Systematic and Evolutionary Microbiology 2011 61 2412–2418 DOI 10.1099/ijs.0.026963-0 Thioprofundum hispidum sp . nov. an obligately chemolithoautotrophic sulfur-oxidizing gammaproteobacterium isolated from the hydrothermal field on Suiyo Seamount and proposal of Thioalkalispiraceae fam . nov. in the order Chromatiales Koji Mori,1,2 Ken-ichiro Suzuki,1 Tetsuro Urabe,3 Maki Sugihara,2 Kenji Tanaka,1 Moriyuki Hamada1 and Satoshi Hanada2 Correspondence Koji Mori mori-koji @ nite.go.jp 1 Biological Resource Center NBRC National Institute of Technology and Evaluation NITE 2-5-8 Kazusakamatari Kisarazu Chiba 292-0818 Japan 2 Institute for Biological Resources and Functions National Institute of Advanced Industrial Science and Technology AIST Tsukuba Central 6 1-1-1 Higashi Tsukuba Ibaraki 305-8566 Japan 3 Department of Earth and Planetary Science University of Tokyo Bunkyo-ku Tokyo 113-0033 Japan A novel mesophilic , facultatively anaerobic , sulfur-oxidizing bacterial strain , designated gps61T , was isolated from a surface rock sample collected from the hydrothermal field of Suiyo Seamount on the Izu-Bonin Arc in the Western Pacific Ocean 
+ther substrates including organic acids and sugars did not support growth indicating that strain gps61T was an obligate chemolithoautotroph . 16S rRNA gene sequence analysis revealed that strain gps61T was closely related to Thioprofundum lithotrophicum 106T 98.5 % sequence similarity in the order Chromatiales 
+hylogenetic trees grouped strain gps61T and Thioprofundum lithotrophicum in the same cluster along with Thioalkalispira microaerophila and Thiohalophilus thiocyanoxidans but it was apparent from the analysis that the novel strain had definitely departed from the family lineage 
+n the basis of its phylogenetic position along with its morphological and physiological characteristics strain gps61T 5NBRC 101261T 5DSM 18546T represents a novel species of the genus Thioprofundum for which the name Thioprofundum hispidum sp . nov. is proposed 
+n addition we propose a novel family name Thioalkalispiraceae in the order Chromatiales to accommodate the genera Thioalkalispira Thiohalophilus and Thioprofundum . Hydrothermal vents have been discovered worldwide and host peculiar ecosystems that include chemolithoautotrophs as primary producers 
+wo supplementary figures are available with the online version of this paper . 2412 Aquificae and Proteobacteria have been found in hydrothermal vent systems 
 he class Gammaproteobacteria contains many environmental strains derived from symbiotic bacteria associated with invertebrates living in hydrothermal vents and cold-seep systems 
-n addition, several environmental strains belonging to the class Gammaproteobacteria have been retrieved from hydrothermal fields, cold-seep sediments and marine crusts (Arakawa et al., 2006; Inagaki et al., 2004; Li et al., 1999; Santelli et al., 2008), some of which have been  Downloaded from www.microbiologyresearch.org by 026963 G 2011 IUMS IP: 132.247.101.80 On: Tue, 03 Apr 2018 22:58:20  Printed in Great Britain  Thioprofundum hispidum sp. nov.  suggested as having sulfur-oxidizing metabolism (Hirayama et al., 2007; Sunamura et al., 2004) 
-s for cultivated Gammaproteobacteria, some species of the genera Halothiobacillus and Thiomicrospira have been isolated from these environments (Brinkhoff et al., 1999; Sievert et al., 2000; Takai et al., 2004) 
-t the time of writing, the order Chromatiales included three families, namely, Chromatiaceae, Ectothiorhodospiraceae and Halothiobacillaceae 
-pecies belonging to the families Chromatiaceae and Ectothiorhodospiraceae are mainly anoxygenic photolithoautotrophic bacteria, which are able to oxidize sulfur compounds under anaerobic conditions by using light (Imhoff, 2005a, b) 
-n the other hand, the family Halothiobacillaceae contains non-photosynthetic, chemolithoautotrophic, sulfur-oxidizing bacteria isolated from hypersaline, marine and terrestrial environments containing hydrothermal vent systems; its members can oxidize sulfur compounds under aerobic conditions (Durand et al., 1993; Ito et al., 2005; Mori & Suzuki, 2008; Sievert et al., 2000) 
-n this study, a group of previously uncharacterized bacterial strains found in hydrothermal fields and cold-seep sediments were found to be phylogenetically distant from the above families but formed a distinct clade within the order Chromatiales 
+n addition several environmental strains belonging to the class Gammaproteobacteria have been retrieved from hydrothermal fields cold-seep sediments and marine crusts Arakawa et al. 2006 Inagaki et al. 2004 Li et al. 1999 Santelli et al. 2008 some of which have been Downloaded from www.microbiologyresearch.org by 026963 G 2011 IUMS IP 132.247.101.80 On Tue 03 Apr 2018 22:58:20 Printed in Great Britain Thioprofundum hispidum sp . nov. suggested as having sulfur-oxidizing metabolism Hirayama et al. 2007 Sunamura et al. , 2004 
+s for cultivated Gammaproteobacteria some species of the genera Halothiobacillus and Thiomicrospira have been isolated from these environments Brinkhoff et al. 1999 Sievert et al. 2000 Takai et al. 2004 
+t the time of writing the order Chromatiales included three families namely Chromatiaceae Ectothiorhodospiraceae and Halothiobacillaceae 
+pecies belonging to the families Chromatiaceae and Ectothiorhodospiraceae are mainly anoxygenic photolithoautotrophic bacteria which are able to oxidize sulfur compounds under anaerobic conditions by using light Imhoff 2005a b 
+n the other hand the family Halothiobacillaceae contains non-photosynthetic chemolithoautotrophic sulfur-oxidizing bacteria isolated from hypersaline marine and terrestrial environments containing hydrothermal vent systems its members can oxidize sulfur compounds under aerobic conditions Durand et al. 1993 Ito et al. 2005 Mori & Suzuki 2008 Sievert et al. 2000 
+n this study a group of previously uncharacterized bacterial strains found in hydrothermal fields and cold-seep sediments were found to be phylogenetically distant from the above families but formed a distinct clade within the order Chromatiales 
 ata from phylogenetic and phenotypic analyses suggested that strain gps61T warrants classification as a novel species 
-n the basis of our phylogenetic analysis, it is also proposed that a new family be created to encompass the novel strain and its closest relatives 
-or microbial cultivation, surface layers of the rock core were selected, crushed immediately with a vice in an anaerobic chamber (COY Laboratory Products) and resuspended in basal medium under an N2/CO2 (4 : 1, v/v) atmosphere 
-he presence of elemental sulfur was determined during each transfer to fresh AP8SO1 medium and rod-shaped micro-organisms were observed in the culture using a light microscope (Olympus model AX70) 
-fter multiple dilutions, incubation and transfer of the culture, a micro-organism exhibiting oxidation of sulfur compounds was successfully isolated as a pure culture and was designated strain gps61T 
-he purity of the isolate was verified by microscopic observation, inoculation into media containing various heterotrophic substrates and determination of the 16S rRNA gene sequence, which was amplified using various primer sets (Mori & Suzuki, 2008) 
-ells of strain gps61T were rod-shaped, ~0.361.5–2.0 mm, and had single sheathed polar flagella (Fig. 1); however, motility was not observed under any growth conditions tested 
-ram-staining was negative and oxidase and catalase activities (Tamaki et al., 2003) were positive and negative, respectively 
-he major cellular fatty acids were C16 : 0 (50 % of the total fatty acids) and branched C17 : 0 (29 %) 
-he branched C17 : 0 could be distinguished from both the iso- and anteiso-branched fatty acids, although the binding position of the methyl group could not be precisely determined 
-ori and others  substitute for oxygen was tested by microscopic observation after 1 week of cultivation at 37 uC 
-hase-contrast micrograph (a) and negatively stained cells (b, c) of strain gps61T and ultrathin section of strain gps61T observed with a transmission electron microscope (model H-7600; Hitachi) (d) 
-he cells have a single thick polar flagellum (~20 nm in diameter) and a concealing core was observed at the tip 
-ars, 5 mm (a), 0.5 mm (b, d) and 100 nm (c).  genomic DNA G+C content (Mori et al., 2000) of strain gps61T was 62.9 mol% 
-n isoprenoid quinone was extracted from the cells according to the protocol outlined by Nakagawa & Yamasato (1993) and analysed using an LCMS-QP 8000 alpha spectrometer (Shimadzu) 
-train gps61T grew using thiosulfate, elemental sulfur and tetrathionate as sole electron donors 
-he utilization of electron acceptors as a 2414  Temperature and pH ranges for growth were determined using a temperature gradient incubator (model TN-2612; ADVANTEC) 
-he maximum cell numbers of strain gps61T grown on thiosulfate and elemental sulfur were almost identical (8.706106 and 7.776106 cells ml21, respectively) 
-he doubling times on thiosulfate and elemental sulfur were 14.9 and 26.2 h, respectively 
-fter alignment of sequences using the ARB program (Ludwig et al., 2004), phylogenetic trees were reconstructed using three methods: the neighbour-joining method using the CLUSTAL_X program (Saitou & Nei, 1987; Thompson et al., 1997), the maximum-likelihood method with the NucML program in the MOLPHY software package (Adachi & Hasegawa, 1995; Hasegawa et al., 1985; Mori et al., 2003) and the maximum-parsimony method in PAUP version 4 using parameters as described previously (Mori et al., 2003) 
-he phylogenetic analyses  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP: 132.247.101.80 On: Tue, 03 Apr 2018 22:58:20  Thioprofundum hispidum sp. nov.  indicated that strain gps61T was a member of the genus Thioprofundum (Takai et al., 2009) in the order Chromatiales in the class Gammaproteobacteria (Fig. 2 and Supplementary Fig 
-he sequence similarity between strain gps61T and its closest neighbour, Thioprofundum lithotrophicum, was 98.5 % 
-urthermore, the isolate was closely related to environmental clone sequences (92.1–95.6 %) and uncharacterized marine denitrifying sulfur-oxidizing isolates found in hydrothermal systems such as strains OAII2 and NDII.1 (96.3 % and 93.6 %, respectively) (Meyer et al., 2007) 
-hioalkalispira microaerophila and Thiohalophilus thiocyanoxidans were members of the same cluster albeit with somewhat lower similarity to the Thioprofundum strains (~93–94 %) 
-he genera Nitrosococcus and Rheinheimera were obviously separated from the families of the order  Chromatiales in our analyses (Supplementary Fig 
+n the basis of our phylogenetic analysis it is also proposed that a new family be created to encompass the novel strain and its closest relatives 
+or microbial cultivation surface layers of the rock core were selected crushed immediately with a vice in an anaerobic chamber COY Laboratory Products and resuspended in basal medium under an N2/CO2 4 1 v/v atmosphere 
+he presence of elemental sulfur was determined during each transfer to fresh AP8SO1 medium and rod-shaped micro-organisms were observed in the culture using a light microscope Olympus model AX70 
+fter multiple dilutions incubation and transfer of the culture a micro-organism exhibiting oxidation of sulfur compounds was successfully isolated as a pure culture and was designated strain gps61T 
+he purity of the isolate was verified by microscopic observation inoculation into media containing various heterotrophic substrates and determination of the 16S rRNA gene sequence which was amplified using various primer sets Mori & Suzuki 2008 
+ells of strain gps61T were rod-shaped ~0.361.5–2.0 mm and had single sheathed polar flagella Fig . 1 ; however motility was not observed under any growth conditions tested 
+ram-staining was negative and oxidase and catalase activities Tamaki et al. 2003 were positive and negative respectively 
+he major cellular fatty acids were C16 0 50 % of the total fatty acids and branched C17 0 29 % 
+he branched C17 0 could be distinguished from both the iso- and anteiso-branched fatty acids although the binding position of the methyl group could not be precisely determined 
+ori and others substitute for oxygen was tested by microscopic observation after 1 week of cultivation at 37 uC 
+hase-contrast micrograph a and negatively stained cells b c of strain gps61T and ultrathin section of strain gps61T observed with a transmission electron microscope model H-7600 Hitachi ( d 
+he cells have a single thick polar flagellum ~20 nm in diameter and a concealing core was observed at the tip 
+ars 5 mm a 0.5 mm b d and 100 nm c . genomic DNA G+C content Mori et al. , 2000 of strain gps61T was 62.9 mol % 
+n isoprenoid quinone was extracted from the cells according to the protocol outlined by Nakagawa & Yamasato 1993 and analysed using an LCMS-QP 8000 alpha spectrometer Shimadzu 
+train gps61T grew using thiosulfate elemental sulfur and tetrathionate as sole electron donors 
+he utilization of electron acceptors as a 2414 Temperature and pH ranges for growth were determined using a temperature gradient incubator model TN-2612 ADVANTEC 
+he maximum cell numbers of strain gps61T grown on thiosulfate and elemental sulfur were almost identical 8.706106 and 7.776106 cells ml21 respectively 
+he doubling times on thiosulfate and elemental sulfur were 14.9 and 26.2 h respectively 
+fter alignment of sequences using the ARB program Ludwig et al. 2004 phylogenetic trees were reconstructed using three methods the neighbour-joining method using the CLUSTAL_X program Saitou & Nei 1987 Thompson et al. 1997 the maximum-likelihood method with the NucML program in the MOLPHY software package Adachi & Hasegawa 1995 Hasegawa et al. 1985 Mori et al. , 2003 and the maximum-parsimony method in PAUP version 4 using parameters as described previously Mori et al. , 2003 
+he phylogenetic analyses Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP 132.247.101.80 On Tue 03 Apr 2018 22:58:20 Thioprofundum hispidum sp . nov. indicated that strain gps61T was a member of the genus Thioprofundum Takai et al. 2009 in the order Chromatiales in the class Gammaproteobacteria Fig . 2 and Supplementary Fig 
+he sequence similarity between strain gps61T and its closest neighbour Thioprofundum lithotrophicum was 98.5 % 
+urthermore the isolate was closely related to environmental clone sequences 92.1–95.6 % and uncharacterized marine denitrifying sulfur-oxidizing isolates found in hydrothermal systems such as strains OAII2 and NDII.1 96.3 % and 93.6 % respectively ( Meyer et al. 2007 
+hioalkalispira microaerophila and Thiohalophilus thiocyanoxidans were members of the same cluster albeit with somewhat lower similarity to the Thioprofundum strains ~93–94 % 
+he genera Nitrosococcus and Rheinheimera were obviously separated from the families of the order Chromatiales in our analyses Supplementary Fig 
 haracteristics of strain gps61T and Thioprofundum lithotrophicum are summarized in Table 1 
-ptimum growth of Thioprofundum lithotrophicum was observed at 50 uC, whereas strain gps61T grew optimally at 39 uC and could not grow at 50 uC 
-he genomic DNA G+C content differed between strain gps61T (63 mol%) and Thioprofundum lithotrophicum (66 mol%) 
-hylogenetic tree based on 16S rRNA gene sequences of strain gps61T, type species in the orders Chromatiales (excluding members of the genera Nitrosococcus and Rheinheimera) and Acidithiobacillales and uncharacterized environmental clones, inferred using the neighbour-joining method after alignment with the ARB program 
-he alignment dataset was extracted using the ARB default filter (gamma_2_rr5_dec4), and 1438 positions were used for reconstructing phylogenetic trees 
-robability scores at branching points obtained with three analysis methods are indicated by solid circles (.95 % by all methods) and open circles (.90 % by two methods) 
-ori and others  Table 1 
-haracteristics of strain gps61T, Thioprofundum lithotrophicum, Thioalkalispira microaerophila and Thiohalophilus thiocyanoxidans Taxa: 1, gps61T; 2, Thioprofundum lithotrophicum 106T; 3, Thioalkalispira microaerophila ALEN 1T; 4, Thiohalophilus thiocyanoxidans HRhD 2T 
-eference data are from Sorokin et al. (2002, 2007) and Takai et al. (2009). +, Positive; 2, negative; ND, not determined 
-Growth temperature only, not optimum, was reported.  between strain gps61T and Thioprofundum lithotrophicum showed relatedness values of only 11–21 %, strongly suggesting that they should be classified as different species 
-ased on its phylogenetic position as well as its phenotypic and chemotaxonomic properties, strain gps61T represents a novel species, for which the name Thioprofundum hispidum sp. nov. is proposed 
-hylogenetic analyses based on 16S rRNA gene sequences revealed that strain gps61T and Thioprofundum lithotrophicum could be clearly distinguished from the families Chromatiaceae, Ectothiorhodospiraceae and Halothiobacillaceae of the order Chromatiales in the class Gammaproteobacteria (Fig. 2) 
-urthermore, this lineage contained Thioalkalispira microaerophila and Thiohalophilus thiocyanoxidans 
-orokin et al. (2002) reported that Thioalkalispira microaerophila is an alkaliphilic sulfur-oxidizing bacterium and the phylogenetic position was deeply branched and obscured in the class Gammaproteobacteria; subsequently, it was tentatively classed as a member of the family Ectothiorhodospiraceae based on the taxonomic outlines of Bergey’s Manual of Systematic Bacteriology (http://www.bergeys.org/outlines.html) 
-n our phylogenetic analyses, however, Thioalkalispira microaerophila and Thiohalophilus thiocyanoxidans were part of the same lineage, along with strain gps61T and Thioprofundum lithotrophicum 
-ome phenotypic features of Thioalkalispira microaerophila and Thiohalophilus thiocyanoxidans, such as chemolithoautotrophy, sulfur-oxidation and moderately halophily, were similar to those of strain gps61T and Thioprofundum lithotrophicum (Table 1) 
-ccordingly, we propose the new family name Thioalkalispiraceae fam. nov. 2416  in the order Chromatiales to accommodate the genera Thioalkalispira, Thiohalophilus and Thioprofundum 
-n the order Chromatiales, the phylogenetic distances of members of the novel family and those of the families Chromatiaceae, Ectothiorhodospiraceae and Halothiobacillaceae, based on 16S rRNA gene sequences, were 93.1 %, 92.9 % and 90.2 %, respectively 
+ptimum growth of Thioprofundum lithotrophicum was observed at 50 uC whereas strain gps61T grew optimally at 39 uC and could not grow at 50 uC 
+he genomic DNA G+C content differed between strain gps61T 63 mol % and Thioprofundum lithotrophicum 66 mol % 
+hylogenetic tree based on 16S rRNA gene sequences of strain gps61T type species in the orders Chromatiales excluding members of the genera Nitrosococcus and Rheinheimera and Acidithiobacillales and uncharacterized environmental clones inferred using the neighbour-joining method after alignment with the ARB program 
+he alignment dataset was extracted using the ARB default filter gamma_2_rr5_dec4 , and 1438 positions were used for reconstructing phylogenetic trees 
+robability scores at branching points obtained with three analysis methods are indicated by solid circles .95 % by all methods and open circles .90 % by two methods 
+ori and others Table 1 
+haracteristics of strain gps61T Thioprofundum lithotrophicum Thioalkalispira microaerophila and Thiohalophilus thiocyanoxidans Taxa 1 gps61T 2 Thioprofundum lithotrophicum 106T 3 Thioalkalispira microaerophila ALEN 1T 4 Thiohalophilus thiocyanoxidans HRhD 2T 
+eference data are from Sorokin et al . 2002 2007 and Takai et al . 2009 . + Positive 2 negative ND not determined 
+Growth temperature only not optimum was reported . between strain gps61T and Thioprofundum lithotrophicum showed relatedness values of only 11–21 % strongly suggesting that they should be classified as different species 
+ased on its phylogenetic position as well as its phenotypic and chemotaxonomic properties strain gps61T represents a novel species for which the name Thioprofundum hispidum sp . nov. is proposed 
+hylogenetic analyses based on 16S rRNA gene sequences revealed that strain gps61T and Thioprofundum lithotrophicum could be clearly distinguished from the families Chromatiaceae Ectothiorhodospiraceae and Halothiobacillaceae of the order Chromatiales in the class Gammaproteobacteria Fig . 2 
+urthermore this lineage contained Thioalkalispira microaerophila and Thiohalophilus thiocyanoxidans 
+orokin et al . 2002 reported that Thioalkalispira microaerophila is an alkaliphilic sulfur-oxidizing bacterium and the phylogenetic position was deeply branched and obscured in the class Gammaproteobacteria subsequently it was tentatively classed as a member of the family Ectothiorhodospiraceae based on the taxonomic outlines of Bergey ’ s Manual of Systematic Bacteriology http //www.bergeys.org/outlines.html 
+n our phylogenetic analyses however Thioalkalispira microaerophila and Thiohalophilus thiocyanoxidans were part of the same lineage along with strain gps61T and Thioprofundum lithotrophicum 
+ome phenotypic features of Thioalkalispira microaerophila and Thiohalophilus thiocyanoxidans such as chemolithoautotrophy sulfur-oxidation and moderately halophily were similar to those of strain gps61T and Thioprofundum lithotrophicum Table 1 
+ccordingly we propose the new family name Thioalkalispiraceae fam . nov. 2416 in the order Chromatiales to accommodate the genera Thioalkalispira Thiohalophilus and Thioprofundum 
+n the order Chromatiales the phylogenetic distances of members of the novel family and those of the families Chromatiaceae Ectothiorhodospiraceae and Halothiobacillaceae based on 16S rRNA gene sequences were 93.1 % 92.9 % and 90.2 % respectively 
 embers of the family are moderately halophilic and are isolated from marine and saline environments 
-ells are Gram-reaction-negative, straight, non-motile rods, ~0.361.5–2.0 mm and have a single thick polar flagellum 
+ells are Gram-reaction-negative straight non-motile rods ~0.361.5–2.0 mm and have a single thick polar flagellum 
 xidase-positive and catalase-negative 
 acultatively anaerobic and obligately chemolithoautotrophic 
-rows at 29 and 43 uC (optimum 39 uC). pH range for  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP: 132.247.101.80 On: Tue, 03 Apr 2018 22:58:20  Thioprofundum hispidum sp. nov.  growth is 6–8 (optimum pH 7) 
-hiosulfate, elemental sulfur and tetrathionate are used as electron donors 
-ajor cellular fatty acids are C16 : 0 and branched C17 : 0 
-inor components are C16 : 1v7c, C18 : 1v7c, C15 : 0 and C14 : 0 
-solation  and characterization of Thiobacillus hydrothermalis sp. nov., a mesophilic obligately chemolithotrophic bacterium isolated from a deep-sea hydrothermal vent in Fiji Basin 
-imple genetic method to  identify viridans group streptococci by colorimetric dot hybridization and fluorometric hybridization in microdilution wells 
-olecular phylogenetics of bacterial endosymbionts and  Acknowledgements  their vestimentiferan hosts 
-ol Mar Biol Biotechnol 6, 268–277.  We thank the operation team of BMS and the crew of work boat Dainihakureimaru for collecting samples 
-he Ministry of Education, Science & Technology (MEST) of Japan funded part of this research through the Special Coordination Fund ‘Archaean Park Project’: International Research Project on Interaction Between SubVent Biosphere and Geo-Environments.  Glasby, G 
-olecular  phylogenetic and chemical analyses of the microbial mats in deep-sea cold seep sediments at the northeastern Japan Sea 
-ulture-dependent and -independent characterization of  microbial communities associated with a shallow submarine hydrothermal system occurring within a coral reef off Taketomi Island, Japan 
-vidence for  phylogenetic congruence among sulfur-oxidizing chemoautotrophic bacterial endosymbionts and their bivalve hosts 
- Mol Evol 38, 533– 542. http://ijs.sgmjournals.org  Characterization of C1-metabolizing prokaryotic communities in methane seep habitats at the Kuroshima Knoll, southern Ryukyu Arc, by analyzing pmoA, mmoX, mxaF, mcrA, and 16S rRNA genes 
-ori and others  Ito, T., Sugita, K., Yumoto, I., Nodasaka, Y. & Okabe, S. (2005).  Sievert, S 
-icrobial diversity in  sp. nov., a mesophilic, obligately chemolithoautotrophic, sulfuroxidizing bacterium isolated from a shallow-water hydrothermal vent in the Aegean Sea, and emended description of the genus Halothiobacillus 
-olecular analysis of the  distribution and phylogeny of the soxB gene among sulfur-oxidizing bacteria – evolution of the Sox sulfur oxidation enzyme system 
-solation and phylogenetic diversity of members of previously uncultivated e-Proteobacteria  methanogen isolated from a waste-disposal site 
-solation and physiological characterization of  Nakagawa, Y. & Yamasato, K. (1993) 
+rows at 29 and 43 uC optimum 39 uC . pH range for Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP 132.247.101.80 On Tue 03 Apr 2018 22:58:20 Thioprofundum hispidum sp . nov. growth is 6–8 optimum pH 7 
+hiosulfate elemental sulfur and tetrathionate are used as electron donors 
+ajor cellular fatty acids are C16 0 and branched C17 0 
+inor components are C16 1v7c C18 1v7c C15 0 and C14 0 
+solation and characterization of Thiobacillus hydrothermalis sp . nov. a mesophilic obligately chemolithotrophic bacterium isolated from a deep-sea hydrothermal vent in Fiji Basin 
+imple genetic method to identify viridans group streptococci by colorimetric dot hybridization and fluorometric hybridization in microdilution wells 
+olecular phylogenetics of bacterial endosymbionts and Acknowledgements their vestimentiferan hosts 
+ol Mar Biol Biotechnol 6 268–277 . We thank the operation team of BMS and the crew of work boat Dainihakureimaru for collecting samples 
+he Ministry of Education Science & Technology MEST of Japan funded part of this research through the Special Coordination Fund ‘ Archaean Park Project ’ International Research Project on Interaction Between SubVent Biosphere and Geo-Environments . Glasby G 
+olecular phylogenetic and chemical analyses of the microbial mats in deep-sea cold seep sediments at the northeastern Japan Sea 
+ulture-dependent and -independent characterization of microbial communities associated with a shallow submarine hydrothermal system occurring within a coral reef off Taketomi Island Japan 
+vidence for phylogenetic congruence among sulfur-oxidizing chemoautotrophic bacterial endosymbionts and their bivalve hosts 
+Mol Evol 38 533– 542. http //ijs.sgmjournals.org Characterization of C1-metabolizing prokaryotic communities in methane seep habitats at the Kuroshima Knoll southern Ryukyu Arc by analyzing pmoA mmoX mxaF mcrA and 16S rRNA genes 
+ori and others Ito T. Sugita K. Yumoto I. Nodasaka Y . & Okabe S. 2005 . Sievert S 
+icrobial diversity in sp . nov. a mesophilic obligately chemolithoautotrophic sulfuroxidizing bacterium isolated from a shallow-water hydrothermal vent in the Aegean Sea and emended description of the genus Halothiobacillus 
+olecular analysis of the distribution and phylogeny of the soxB gene among sulfur-oxidizing bacteria – evolution of the Sox sulfur oxidation enzyme system 
+solation and phylogenetic diversity of members of previously uncultivated e-Proteobacteria methanogen isolated from a waste-disposal site 
+solation and physiological characterization of Nakagawa Y . & Yamasato K. 1993 
 hylogenetic diversity of the genus Cytophaga revealed by 16S rRNA sequencing and menaquinone analysis 
-lavobacterium limicola sp. nov.,  Microorganism-Related DNA Resources, and Human-Related DNA Resources. 2nd edn 
-hiba, Japan: National Institute of Technology and Evaluation (NITE) 
-bundance and  diversity of microbial life in ocean crust 
-ucleic Acids Res 25, 4876–4882.  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP: 132.247.101.80 On: Tue, 03 Apr 2018 22:58:20   
+lavobacterium limicola sp . nov. Microorganism-Related DNA Resources and Human-Related DNA Resources . 2nd edn 
+hiba Japan National Institute of Technology and Evaluation NITE 
+bundance and diversity of microbial life in ocean crust 
+ucleic Acids Res 25 4876–4882 . Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP 132.247.101.80 On Tue 03 Apr 2018 22:58:20 
 ells of the isolate were rod-shaped with a single sheathed polar flagellum 
 either extensive internal membranes nor storage materials were present in the cells 
-o date, novel chemolithoautotrophic sulfur-oxidizing bacteria belonging to the phyla The GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain gps61T is AB266389 
+o date novel chemolithoautotrophic sulfur-oxidizing bacteria belonging to the phyla The GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of strain gps61T is AB266389 
 ome previously uncharacterized bacterial strains from culture-independent analyses have been identified as possible sulfur-oxidizers belonging to the order Chromatiales of the class Gammaproteobacteria 
 his suggested that the creation of a new family was necessary to encompass these strains 
-o our knowledge, no such taxon has previously been proposed despite the fact that these isolates are clearly separate from recognized families (Sorokin et al., 2007; Takai et al., 2009) 
+o our knowledge no such taxon has previously been proposed despite the fact that these isolates are clearly separate from recognized families Sorokin et al. 2007 Takai et al. 2009 
 his is likely to be because of the highly complex nature of higher taxa in the class Gammaproteobacteria 
-n this study, an obligately chemolithoautotrophic, sulfuroxidizing bacterium, designated strain gps61T, was isolated from a rock sample collected from the hydrothermal field on Suiyo Seamount 
-ased on 16S rRNA gene sequence analysis, the isolate belonged to the genus Thioprofundum of the order Chromatiales 
-train gps61T was isolated from Suiyo Seamount, located in the Izu-Bonin Arc in the Western Pacific Ocean (28u 349 N 140u 399 E) 
-ock samples were collected from the site, from July 19–23, 2002, using the benthic multicoring system (BMS; Metal Mining Agency of Japan), a tethered marine rock drill, to obtain cores from under the http://ijs.sgmjournals.org  seafloor 
-he rock core samples were collected near the black smoker hydrothermal vents (~300 uC) 
-fter incubation for 1 week, thiosulfate was partly converted into elemental sulfur in the enrichment culture 
-hese phenomena suggested that the small, but significant, production of elemental sulfur was due to biotic oxidation of thiosulfate by the rod-shaped micro-organisms present in the vials 
+n this study an obligately chemolithoautotrophic sulfuroxidizing bacterium designated strain gps61T was isolated from a rock sample collected from the hydrothermal field on Suiyo Seamount 
+ased on 16S rRNA gene sequence analysis the isolate belonged to the genus Thioprofundum of the order Chromatiales 
+train gps61T was isolated from Suiyo Seamount located in the Izu-Bonin Arc in the Western Pacific Ocean 28u 349 N 140u 399 E 
+ock samples were collected from the site from July 19–23 2002 using the benthic multicoring system BMS Metal Mining Agency of Japan a tethered marine rock drill , to obtain cores from under the http //ijs.sgmjournals.org seafloor 
+he rock core samples were collected near the black smoker hydrothermal vents ~300 uC 
+fter incubation for 1 week thiosulfate was partly converted into elemental sulfur in the enrichment culture 
+hese phenomena suggested that the small but significant production of elemental sulfur was due to biotic oxidation of thiosulfate by the rod-shaped micro-organisms present in the vials 
 hese culture conditions were used for the isolation of the thiosulfate-oxidizer by serial dilution 
 bservation using electron microscopy revealed that the cells had neither storage compounds nor extensive internal membranes 
-n the presence of thiosulfate under an atmosphere of N2/CO2 (80 : 20, v/v; 150 kPa), exposure to light from a halogen lamp did not induce growth of strain gps61T; therefore, the isolate was not capable of anoxygenic photosynthesis 
+n the presence of thiosulfate under an atmosphere of N2/CO2 80 20 v/v 150 kPa exposure to light from a halogen lamp did not induce growth of strain gps61T therefore , the isolate was not capable of anoxygenic photosynthesis 
 he isolate contained menaquinone but we were unable to determine the isoprenoid side chain length due to the low extraction amount 
-he pH of the AP8SO2 medium was adjusted by the addition of 10 % (w/v) Na2CO3 or 0.2 M HCl 
-lthough slight growth was observed at 50 uC during the first enrichment process, microbial activity was not detected at that temperature 
-he nearly complete sequence of the 16S rRNA gene of strain gps61T was determined following methods described previously (Hattori et al., 2000) 
-nvironmental clone sequences were used for analysis after screens for chimeras were performed using the Mallard program (Ashelford et al., 2006) 
-his cluster was recovered in all phylogenetic trees reconstructed using different analytical methods, despite the fact that the bootstrap score at the node obtained from the neighbour-joining method was not particularly high 
-he phylogenetic analyses also suggested that the cluster, which included gps61T, should be separated from the environmental clone cluster that included invertebrate symbionts 
-2), which suggests the need for reclassification of this group 
-hioprofundum lithotrophicum is a moderately thermophilic, piezophilic, sulfur-oxidizing bacterium isolated from a black smoker chimney in the Mid Atlantic Ridge (Takai et al., 2009) whose 16S rRNA gene sequence was very similar to that of strain gps61T, as were some of its phenotypic features 
-owever, strain gps61T clearly differed from Thioprofundum lithotrophicum in the following characteristics 
-train gps61T was able to grow in the presence of 20 % oxygen, whereas Thioprofundum lithotrophicum was unable to grow at oxygen concentrations .5 % 
+he pH of the AP8SO2 medium was adjusted by the addition of 10 % w/v Na2CO3 or 0.2 M HCl 
+lthough slight growth was observed at 50 uC during the first enrichment process microbial activity was not detected at that temperature 
+he nearly complete sequence of the 16S rRNA gene of strain gps61T was determined following methods described previously Hattori et al. 2000 
+nvironmental clone sequences were used for analysis after screens for chimeras were performed using the Mallard program Ashelford et al. 2006 
+his cluster was recovered in all phylogenetic trees reconstructed using different analytical methods despite the fact that the bootstrap score at the node obtained from the neighbour-joining method was not particularly high 
+he phylogenetic analyses also suggested that the cluster which included gps61T should be separated from the environmental clone cluster that included invertebrate symbionts 
+2 , which suggests the need for reclassification of this group 
+hioprofundum lithotrophicum is a moderately thermophilic piezophilic sulfur-oxidizing bacterium isolated from a black smoker chimney in the Mid Atlantic Ridge Takai et al. 2009 whose 16S rRNA gene sequence was very similar to that of strain gps61T as were some of its phenotypic features 
+owever strain gps61T clearly differed from Thioprofundum lithotrophicum in the following characteristics 
+train gps61T was able to grow in the presence of 20 % oxygen whereas Thioprofundum lithotrophicum was unable to grow at oxygen concentrations .5 % 
 eference sequences used for the analysis but not shown in collapsed branches are shown in Supplementary Fig 
 ootstrap values of neighbour-joining/maximum-likelihood/ maximum-parsimony trees are indicated at the corresponding nodes 
-he phylogenetic position of Thiohalophilus thiocyanoxidans, a halophilic sulfur-oxidizing bacterium, was only indicated as a member of the class Gammaproteobacteria (Sorokin et al., 2007) 
-hioalkalispira the type genus of family; suff. -aceae ending to denote a family; N.L. fem. pl. n 
-hioalkalispiraceae the family of the genus Thioalkalispira) 
+he phylogenetic position of Thiohalophilus thiocyanoxidans a halophilic sulfur-oxidizing bacterium was only indicated as a member of the class Gammaproteobacteria Sorokin et al. 2007 
+hioalkalispira the type genus of family suff . -aceae ending to denote a family N.L . fem . pl . n 
+hioalkalispiraceae the family of the genus Thioalkalispira 
 he cell wall is of the Gram-negative type 
 he type genus of the family is Thioalkalispira 
-  T  T  The type strain, gps61 (5NBRC 101261 5DSM 18546 ), was isolated from a rock sample collected from the hydrothermal field on Suiyo Seamount, Izu-Bornin Arc, Western Pacific Ocean 
-he genomic DNA G+C content of the type strain is 62.9 mol% (determined by HPLC).  Durand, P., Reysenbach, A.-L., Prieur, D. & Pace, N. (1993) 
-hemoautotrophic potential of the hydrothermal vent tube worm, Riftia pachyptila Jones (Vestimentifera) 
-ubmarine  hydrothermal mineralization on the Izu-Bonin Arc, south of Japan: an overview 
-ating of the  References  human-ape splitting by a molecular clock of mitochondrial DNA 
-rokaryotic cells in the hydrothermal vent  tube worm Riftia pachyptila Jones: possible chemoautotrophic symbionts 
-. & Prieur, D. (2001). e-Proteobacterial  diversity from a deep-sea hydrothermal vent on the Mid-Atlantic Ridge 
-nt J Syst Evol Microbiol 50, 1229–1237.  sediments collected from the deepest cold-seep area, the Japan Trench 
-wo bacteria phylotypes are predominant in the Suiyo  seamount hydrothermal plume 
-enetics 152, 1285–1297.  nov., a novel obligately chemolithoautotrophic, sulfur-oxidizing bacterium of the Gammaproteobacteria isolated from a hot spring 
-hiomicrospira thermophila sp. nov., a novel  microaerobic, thermotolerant, sulfur-oxidizing chemolithomixotroph isolated from a deep-sea hydrothermal fumarole in the TOTO caldera, Mariana Arc, Western Pacific 
-., Jannasch, H 
+T T The type strain gps61 5NBRC 101261 5DSM 18546 was isolated from a rock sample collected from the hydrothermal field on Suiyo Seamount Izu-Bornin Arc , Western Pacific Ocean 
+he genomic DNA G+C content of the type strain is 62.9 mol % determined by HPLC . Durand P. Reysenbach A.-L. Prieur D. & Pace N. 1993 
+hemoautotrophic potential of the hydrothermal vent tube worm Riftia pachyptila Jones Vestimentifera 
+ubmarine hydrothermal mineralization on the Izu-Bonin Arc south of Japan an overview 
+ating of the References human-ape splitting by a molecular clock of mitochondrial DNA 
+rokaryotic cells in the hydrothermal vent tube worm Riftia pachyptila Jones possible chemoautotrophic symbionts 
+. & Prieur D. 2001 . e-Proteobacterial diversity from a deep-sea hydrothermal vent on the Mid-Atlantic Ridge 
+nt J Syst Evol Microbiol 50 1229–1237 . sediments collected from the deepest cold-seep area the Japan Trench 
+wo bacteria phylotypes are predominant in the Suiyo seamount hydrothermal plume 
+enetics 152 1285–1297 . nov. a novel obligately chemolithoautotrophic sulfur-oxidizing bacterium of the Gammaproteobacteria isolated from a hot spring 
+hiomicrospira thermophila sp . nov. a novel microaerobic thermotolerant sulfur-oxidizing chemolithomixotroph isolated from a deep-sea hydrothermal fumarole in the TOTO caldera Mariana Arc Western Pacific 
+. Jannasch H 
 dited by H 
-he NaCl concentration for growth ranged from 1–4 % (w/v) NaCl (optimum 2 %) 
-urthermore, DNA–DNA hybridization studies (Ezaki et al., 1988, 1989)  Fig. 2 
+he NaCl concentration for growth ranged from 1–4 % w/v NaCl optimum 2 % 
+2 
+urthermore DNA–DNA hybridization studies Ezaki et al. 1988 1989 Fig . 2 
 2 along with their accession numbers 
-he NaCl concentration for growth ranges from 1 to 4 % (optimum 2 %) 
-he genomic DNA G+C content is 59–66 mol% 
+he NaCl concentration for growth ranges from 1 to 4 % optimum 2 % 
+he genomic DNA G+C content is 59–66 mol % 
 he phylogenetic position is in order Chromatiales in class Gammaproteobacteria of phylum Proteobacteria 
-hlorobium  ferrooxidans sp. nov., a phototrophic green sulfur bacterium that oxidizes ferrous iron in coculture with a ‘‘Geospirillum’’ sp. strain 
-ulfur precipitation was observed in an enrichment culture incubated at 37 uC using AP8SO1 medium supplemented with 20 mM Na2S2O3 (AP8SO2) under an atmosphere of N2/CO2/O2 (60 : 20 : 20, 150 kPa) 
-uch symbionts are considered to be sulfur- or methane-oxidizing bacteria that supply energy to their host invertebrates (Cavanaugh et al., 1981; Di Meo et al., 2000; Distel et al., 1994; Felbeck, 1981; Feldman et al., 1997) 
+hlorobium ferrooxidans sp . nov. a phototrophic green sulfur bacterium that oxidizes ferrous iron in coculture with a ‘ ‘ Geospirillum ’ ’ sp . strain 
+ulfur precipitation was observed in an enrichment culture incubated at 37 uC using AP8SO1 medium supplemented with 20 mM Na2S2O3 AP8SO2 under an atmosphere of N2/CO2/O2 60 20 20 150 kPa 
+uch symbionts are considered to be sulfur- or methane-oxidizing bacteria that supply energy to their host invertebrates Cavanaugh et al. 1981 Di Meo et al. 2000 Distel et al. 1994 Felbeck 1981 Feldman et al. 1997 
 esophilic or moderately thermophilic 
-he temperature range for growth of strain gps61T was 29–43 uC (optimum 39 uC) 
-he initial pH range for growth at 37 uC was pH 6–8 (optimum pH 7) 
-n Modern Methods of Plant Analysis, pp. 167– 172 
-ewitt, E 
-., Bezsoudnova, E 
+he temperature range for growth of strain gps61T was 29–43 uC optimum 39 uC 
+he initial pH range for growth at 37 uC was pH 6–8 optimum pH 7 
+n Modern Methods of Plant Analysis pp . 167– 172 
+ewitt E 
+. Bezsoudnova E 

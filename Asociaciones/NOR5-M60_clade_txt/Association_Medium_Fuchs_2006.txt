@@ -1,223 +1,238 @@
-t did not grow with nitrate as sole electron acceptor, nor was it able to ferment 
+t did not grow with nitrate as sole electron acceptor nor was it able to ferment 
 o gene encoding a dissimilatory nitrate reductase was found in the genome 
- putative sulfite/nitrite reductase-like enzyme (KT71㛭15541) was annotated but is most likely involved in the assimilatory nitrate or sulfate reduction 
-hree genes coding for the key enzymes of that pathway were annotated in KT71, a sulfate adenylyltransferase (KT71㛭10572), an adenylylsulfate kinase (KT71㛭10567), and a phosphoadenosine phosphosulfate reductase (KT71㛭06329) 
+putative sulfite/nitrite reductase-like enzyme KT71㛭15541 was annotated but is most likely involved in the assimilatory nitrate or sulfate reduction 
+hree genes coding for the key enzymes of that pathway were annotated in KT71 a sulfate adenylyltransferase KT71㛭10572 , an adenylylsulfate kinase KT71㛭10567 , and a phosphoadenosine phosphosulfate reductase KT71㛭06329 
+tilization of substrates was tested in a mineral medium containing per liter 35.0 g of sea salts 0.1 g of NH4Cl 0.05 g of K2HPO4 and 10 ml of a vitamin solution see DSMZ medium 141 www.dsmz.de 
 nnotation identified all genes necessary to perform the complete pentose phosphate pathway 
- gene-by-gene comparison of the BAC clones EBAC65D09, EBAC29C02, and EBAC69B03 with KT71 showed a high average sequence identity on the amino acid level of 56%, 55%, and 62%, respectively (Fig. 2; SI Table 1) 
-t is further fed by two glutamate dehydrogenases into the trichloroacetic acid cycle (KT71㛭16246 and KT71㛭18661) or into the proline synthesis pathway (glutamate-5-kinase, KT71㛭02697) 
-yruvate is presumably being metabolized by a pyruvate-dehydrogenase (KT71㛭00115) and further metabolized by the citric acid cycle 
-oth genes have high similarity to the cphA genes in the Gammaproteobacteria Colwellia psychoerythraea 34H and Francisella tularensis (59% and 56% identity for the long CphA and 33% and 30% amino acid identity for the short CphA⬘, respectively) 
+gene-by-gene comparison of the BAC clones EBAC65D09 EBAC29C02 and EBAC69B03 with KT71 showed a high average sequence identity on the amino acid level of 56 % 55 % and 62 % respectively Fig . 2 SI Table 1 
+t is further fed by two glutamate dehydrogenases into the trichloroacetic acid cycle KT71㛭16246 and KT71㛭18661 or into the proline synthesis pathway glutamate-5-kinase KT71㛭02697 
+yruvate is presumably being metabolized by a pyruvate-dehydrogenase KT71㛭00115 and further metabolized by the citric acid cycle 
+oth genes have high similarity to the cphA genes in the Gammaproteobacteria Colwellia psychoerythraea 34H and Francisella tularensis 59 % and 56 % identity for the long CphA and 33 % and 30 % amino acid identity for the short CphA⬘ respectively 
 yanophycin is a polymer of aspartic acid and arginine 
-t is known that low-redox potentials and the degradation of complex organic matter in upper sediment layers lead to the mobilization of active mercury species in the form of inorganic ions (Hg2⫹) or weak inorganic complexes (see, e.g., ref. 42) 
-n a recent study, depth profiles of reactive mercury species were determined in North Sea sediment, and it was found that peak values are reached at the sediment water interface (43) 
-ence, genes that confer resistance to toxic mercury ions may be much more important for bacteria Fuchs et al.  Significance of the NOR5/OM60 Clade Represented by KT71 
-uchs*†, Stefan Spring‡, Hanno Teeling*, Christian Quast*, Jörg Wulf*, Martha Schattenhofer*, Shi Yan*, Steve Ferriera§, Justin Johnson§, Frank Oliver Glöckner*¶, and Rudolf Amann*† *Max Planck Institute for Marine Microbiology, Celsiusstrasse 1, D-28359 Bremen, Germany; ‡Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH (DSMZ), Inhoffenstrasse 7 B, D-38124 Braunschweig, Germany; §J 
-raig Venter Institute, 9704 Medical Center Drive, Rockville, MD 20850; and ¶International University Bremen, Campusring 1, D-28759 Bremen, Germany  Members of the gammaproteobacterial clade NOR5/OM60 regularly form an abundant part, up to 11%, of the bacterioplankton community in coastal systems during the summer months 
-lthough cultures of KT71 show no obvious pigmentation, bacteriochlorophyll a and spirilloxanthin-like carotenoids could be detected by HPLC analysis in cell extracts 
-he presence of two potential BLUF (blue light using flavin adenine dinucleotide sensors), one of which was found adjacent to the photosynthesis operon in the genome, indicates a light- and redox-dependent regulation of gene expression 
-ultivation experiments and genomic evidence show that KT71 needs organic substrates like carboxylic acids, oligopeptides, or fatty acids for growth 
-he strain grows optimally under microaerobic conditions and actively places itself in a zone of ⬇10% oxygen saturation 
-he first indication for this clade dates back to 1997, when Rappe et al. retrieved two 16S rRNA clones, OM60 and OM241, from the continental shelf off Cape Hatteras, NC (2) 
-y the end of 2005, ⬎180 partial and full length 16S rRNA sequences available within the public databases were related to KT71 and OM60 
-T71 is a Gram-negative, pleomorphic, strictly aerobic, and motile bacterium 
-t is of an average size of 2 ⫻ 0.5 ␮m, has a generation time of 4.5 h, and often grows in flocs 
-ased on this conspicuous trait and the site of isolation, the name Congregibacter litoralis has been proposed 
- full taxonomic description of strain KT71 is currently ongoing (B.M.F., S.S., and R.A., unpublished work) 
-eanwhile, representatives of the NOR5/OM60 clade were also isolated from Arctic sea ice (11) and coastal sediments (12, 13) 
-ctive DNA synthesis could be detected in August but not in May 2002, even though NOR5/OM60 was present in high numbers in both samples (6% and 11% of total bacterioplankton cell, respectively) (14) 
-n 2004, KT71 was selected for whole-genome sequencing as part of the Gordon and Betty Moore Foundation (GBMF) Marine Microbiology Initiative 
-ere, we present data derived from the analysis of the genome of strain KT71 and from ecophysiological experiments addressing some of the predictions derived from genome annotation 
-esults and Discussion Structure and Phylogenetic Analysis of the Photosynthesis (PS) Operon 
-oth a smooth tetranucleotide signature (SI Fig. 5) (16) and the absence of transposons in the vicinity make it highly unlikely that the PS operon has been obtained by a recent lateral gene transfer 
-he operon consists of the typical subclusters crtEF-bchCXYZ-puf and bchFNBHLM (Fig. 2) but differs in the global and local arrangement from cultured alpha- and betaproteobacterial anoxygenic phototrophs (17) 
-n these, the puf gene cluster coding for the light-harvesting complex I (LHC I) and the photosynthetic reaction center are usually arranged in the order of pufBA-LMC (18) 
-n Author contributions: B.M.F. and R.A. designed research; B.M.F., S.S., H.T., J.W., M.S., S.Y., S.F., J.J., F.O.G., and R.A. performed research; S.S., H.T., C.Q., J.W., M.S., S.Y., S.F., J.J., and F.O.G. contributed new reagents/analytic tools; B.M.F., S.S., H.T., C.Q., J.W., M.S., S.Y., S.F., J.J., and R.A. analyzed data; and B.M.F., S.S., F.O.G., and R.A. wrote the paper 
-bbreviations: PS, photosynthesis; LHC, light-harvesting complex; Bchla, bacteriochlorophyll a; AAnP, aerobic anoxygenic phototroph; GBMF, Gordon and Betty Moore Foundation 
-iedje, Michigan State University, East Lansing, MI, and approved December 19, 2006 (received for review September 13, 2006)  Further analysis also revealed identical arrangement for the crt and bch genes on both the BAC clones and KT71 
-e conclude that the three BAC clones 65D09, 69B03, and 29C02 indeed originate from Gammaproteobacteria, more precisely from members of the NOR5/OM60 clade 
-enes coding for a LHC II and a pucC-like transcriptional regulator were found clustered together on scaffold 1 (pucBAC: KT71㛭03072, KT71㛭03077, and KT71㛭03082) 
-he LHC II complex proteins were most closely related to those of Rhodopseudomonas palustris (65% and 69% sequence identity in amino acids; best blast hit).  Fig. 1 
+t is known that low-redox potentials and the degradation of complex organic matter in upper sediment layers lead to the mobilization of active mercury species in the form of inorganic ions Hg2⫹ or weak inorganic complexes see e.g. ref . 42 
+n a recent study depth profiles of reactive mercury species were determined in North Sea sediment and it was found that peak values are reached at the sediment water interface 43 
+ence genes that confer resistance to toxic mercury ions may be much more important for bacteria Fuchs et al . Significance of the NOR5/OM60 Clade Represented by KT71 
+uchs*† Stefan Spring‡ Hanno Teeling* Christian Quast* Jörg Wulf* Martha Schattenhofer* Shi Yan* Steve Ferriera§ Justin Johnson§ Frank Oliver Glöckner*¶ and Rudolf Amann*† *Max Planck Institute for Marine Microbiology Celsiusstrasse 1 D-28359 Bremen Germany ‡Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH DSMZ Inhoffenstrasse 7 B D-38124 Braunschweig , Germany §J 
+raig Venter Institute 9704 Medical Center Drive Rockville MD 20850 and ¶International University Bremen Campusring 1 D-28759 Bremen Germany Members of the gammaproteobacterial clade NOR5/OM60 regularly form an abundant part up to 11 % of the bacterioplankton community in coastal systems during the summer months 
+lthough cultures of KT71 show no obvious pigmentation bacteriochlorophyll a and spirilloxanthin-like carotenoids could be detected by HPLC analysis in cell extracts 
+he presence of two potential BLUF blue light using flavin adenine dinucleotide sensors one of which was found adjacent to the photosynthesis operon in the genome , indicates a light- and redox-dependent regulation of gene expression 
+ultivation experiments and genomic evidence show that KT71 needs organic substrates like carboxylic acids oligopeptides or fatty acids for growth 
+he strain grows optimally under microaerobic conditions and actively places itself in a zone of ⬇10 % oxygen saturation 
+he first indication for this clade dates back to 1997 when Rappe et al . retrieved two 16S rRNA clones OM60 and OM241 from the continental shelf off Cape Hatteras NC 2 
+y the end of 2005 ⬎180 partial and full length 16S rRNA sequences available within the public databases were related to KT71 and OM60 
+T71 is a Gram-negative pleomorphic strictly aerobic and motile bacterium 
+t is of an average size of 2 ⫻ 0.5 ␮m has a generation time of 4.5 h and often grows in flocs 
+ased on this conspicuous trait and the site of isolation the name Congregibacter litoralis has been proposed 
+full taxonomic description of strain KT71 is currently ongoing B.M.F. S.S. and R.A. unpublished work 
+eanwhile representatives of the NOR5/OM60 clade were also isolated from Arctic sea ice 11 and coastal sediments 12 13 
+ctive DNA synthesis could be detected in August but not in May 2002 even though NOR5/OM60 was present in high numbers in both samples 6 % and 11 % of total bacterioplankton cell respectively ( 14 
+n 2004 KT71 was selected for whole-genome sequencing as part of the Gordon and Betty Moore Foundation GBMF Marine Microbiology Initiative 
+ere we present data derived from the analysis of the genome of strain KT71 and from ecophysiological experiments addressing some of the predictions derived from genome annotation 
+esults and Discussion Structure and Phylogenetic Analysis of the Photosynthesis PS Operon 
+oth a smooth tetranucleotide signature SI Fig . 5 ( 16 and the absence of transposons in the vicinity make it highly unlikely that the PS operon has been obtained by a recent lateral gene transfer 
+he operon consists of the typical subclusters crtEF-bchCXYZ-puf and bchFNBHLM Fig . 2 but differs in the global and local arrangement from cultured alpha- and betaproteobacterial anoxygenic phototrophs 17 
+n these the puf gene cluster coding for the light-harvesting complex I LHC I and the photosynthetic reaction center are usually arranged in the order of pufBA-LMC 18 
+n Author contributions B.M.F . and R.A. designed research B.M.F. S.S. H.T. J.W. M.S. S.Y. S.F. J.J. F.O.G. and R.A. performed research S.S. H.T. C.Q. J.W. M.S. S.Y. S.F. J.J. and F.O.G . contributed new reagents/analytic tools B.M.F. S.S. H.T. C.Q. J.W. M.S. S.Y. S.F. J.J. and R.A. analyzed data and B.M.F. S.S. F.O.G. and R.A. wrote the paper 
+bbreviations PS photosynthesis LHC light-harvesting complex Bchla bacteriochlorophyll a AAnP aerobic anoxygenic phototroph GBMF Gordon and Betty Moore Foundation 
+iedje Michigan State University East Lansing MI and approved December 19 2006 received for review September 13 2006 Further analysis also revealed identical arrangement for the crt and bch genes on both the BAC clones and KT71 
+e conclude that the three BAC clones 65D09 69B03 and 29C02 indeed originate from Gammaproteobacteria more precisely from members of the NOR5/OM60 clade 
+enes coding for a LHC II and a pucC-like transcriptional regulator were found clustered together on scaffold 1 pucBAC KT71㛭03072 KT71㛭03077 and KT71㛭03082 
+he LHC II complex proteins were most closely related to those of Rhodopseudomonas palustris 65 % and 69 % sequence identity in amino acids best blast hit . Fig . 1 
 ll treeing methods and filters resolved a stable branching order for the NOR5/OM60 clade within the Gammaproteobacteria 
-ithin the NOR5/OM60 clade, the branching order could not be unambiguously resolved based on the currently available dataset, which is indicated by a multifurcation (73). (*), AY212565, DQ015838, DQ015860, DQ015829, DQ015807, DQ015840, AY135664, AY135666, and AY135673; (**), AY212617, AY212664, AY693815, and AY212676.  KT71, it is switched to pufLMC-BA 
-nterestingly, this gene arrangement is identical to that in two BAC clones, EBAC65D09 (AE008919) and EBAC29C02 (AE008920), retrieved from coastal bacterioplankton sampled at Moss Landing, CA (Fig. 2) (17).  Pigment Analysis 
-igments found after consecutive acetone and methanol extractions followed by HPLC analysis showed the typical profiles for bacteriochlorophyll a (Bchla) with the main peaks at 360, 580, and 776 nm (Fig. 3A) and a carotenoid-like compound with absorption maxima at 470, 494, and 532 nm, respectively (Fig. 3B) 
-hey are clustered together in the PS operon (crtJ and cluster crtFECBI), except for the crtD gene coding for a methoxyneurosporene dehydrogenase, which is found 300 kb separated on the first scaffold (KT71㛭07854) 
-T71 has all the components necessary for a fully functional photosystem typical of anoxygenic phototrophs: the LHC I and II, a reaction center, and carotenoid pigments 
-ost likely, KT71 is able to gain energy from light by a light-dependent cyclic electron transport through the photosystem and the generation of a proton  Fig. 2 
-omparison of PS operons. (A) KT71. (B–D) BAC clones EBAC65D09 (B), EBAC29C02 (C), and EBAC69B03 (D) 
-lternatively, the proton gradient might be converted into a sodium gradient by proton/sodium antiporters, five of which have been found in the KT71 genome (e.g., KT71㛭06212 and KT71㛭09322) 
+ithin the NOR5/OM60 clade the branching order could not be unambiguously resolved based on the currently available dataset which is indicated by a multifurcation 73 . * AY212565 DQ015838 DQ015860 DQ015829 DQ015807 DQ015840 AY135664 AY135666 and AY135673 ( ** AY212617 AY212664 AY693815 , and AY212676 . KT71 , it is switched to pufLMC-BA 
+nterestingly this gene arrangement is identical to that in two BAC clones EBAC65D09 AE008919 and EBAC29C02 AE008920 retrieved from coastal bacterioplankton sampled at Moss Landing , CA Fig . 2 ( 17 . Pigment Analysis 
+igments found after consecutive acetone and methanol extractions followed by HPLC analysis showed the typical profiles for bacteriochlorophyll a Bchla with the main peaks at 360 580 and 776 nm Fig . 3A and a carotenoid-like compound with absorption maxima at 470 494 and 532 nm respectively Fig . 3B 
+hey are clustered together in the PS operon crtJ and cluster crtFECBI except for the crtD gene coding for a methoxyneurosporene dehydrogenase , which is found 300 kb separated on the first scaffold KT71㛭07854 
+T71 has all the components necessary for a fully functional photosystem typical of anoxygenic phototrophs the LHC I and II a reaction center and carotenoid pigments 
+ost likely KT71 is able to gain energy from light by a light-dependent cyclic electron transport through the photosystem and the generation of a proton Fig . 2 
+omparison of PS operons . A KT71 . B–D BAC clones EBAC65D09 B , EBAC29C02 C , and EBAC69B03 D 
+lternatively the proton gradient might be converted into a sodium gradient by proton/sodium antiporters five of which have been found in the KT71 genome e.g. KT71㛭06212 and KT71㛭09322 
 wo flasks containing 960 ml of minimal MPM-m medium were inoculated with 4 ml of a stationary-phase culture and incubated for 4 wk at room temperature 
-n Rhodobacter sphaeroides BLUF forms part of the AppA protein, which regulates the expression of the PS cluster by sensing and integrating both the light and redox regimes (22) 
-ypical enzymes necessary for the detoxification of oxygen, a bifunctional catalase-peroxidase (KT71㛭02962) and a superoxide dismutase (KT71㛭19732), could be annotated in the genome 
+n Rhodobacter sphaeroides BLUF forms part of the AppA protein which regulates the expression of the PS cluster by sensing and integrating both the light and redox regimes 22 
+ypical enzymes necessary for the detoxification of oxygen a bifunctional catalase-peroxidase KT71㛭02962 and a superoxide dismutase KT71㛭19732 , could be annotated in the genome 
 he position of the visible cell layer depended on the substrate concentration in the medium and was closer to the surface at higher substrate concentrations 
-T71 is motile and possesses a complete flagellum operon (gene loci KT71㛭00565–00780) 
-n R. sphaeroides, the same enzyme complex was shown to be involved in the signal transduction and functions as a redox sensor (24) (SI Table 2), which might be also the case in KT71 
-ubstrate utilization tests indicate that KT71  prefers complex substrate mixture for growth (e.g., yeast extract or Trypticase peptone), whereas many monomeric substrates given as sole source of carbon and energy are used a little or not at all 
-s an exception, KT71 can grow well with carbon sources such as glutamate, pyruvate, and fatty acids, most likely due to the fact they play central roles in the metabolism of this organism 
-lutamate is a central metabolite and is presumably taken up by a proton/ sodium-glutamate symport protein (KT71㛭01885) 
+T71 is motile and possesses a complete flagellum operon gene loci KT71㛭00565–00780 
+n R. sphaeroides the same enzyme complex was shown to be involved in the signal transduction and functions as a redox sensor 24 ( SI Table 2 , which might be also the case in KT71 
+ubstrate utilization tests indicate that KT71 prefers complex substrate mixture for growth e.g. yeast extract or Trypticase peptone , whereas many monomeric substrates given as sole source of carbon and energy are used a little or not at all 
+s an exception KT71 can grow well with carbon sources such as glutamate pyruvate and fatty acids most likely due to the fact they play central roles in the metabolism of this organism 
+lutamate is a central metabolite and is presumably taken up by a proton/ sodium-glutamate symport protein KT71㛭01885 
 his pathway plays a central role in the anabolism of nucleotides and amino acids as well as the generation of reducing power by NADPH synthesis 
 aboratory experiments have shown that KT71 is not able to use glucose as sole source of carbon and energy 
-lonso and Pernthaler (25) could not detect any glucose uptake of NOR5/OM60 in situ under both oxic and anoxic conditions in the North Sea for the entire NOR5/OM60 clade 
-or the latter, only the specific phosphorcarrier HPr (KT71㛭10197) and a single-chain EIIA of the PTS could be annotated (KT71㛭10207) 
+lonso and Pernthaler 25 could not detect any glucose uptake of NOR5/OM60 in situ under both oxic and anoxic conditions in the North Sea for the entire NOR5/OM60 clade 
+or the latter only the specific phosphorcarrier HPr KT71㛭10197 and a single-chain EIIA of the PTS could be annotated KT71㛭10207 
 he genome contains several genes coding for putative lipase/ esterases and proteases/peptidases that might be involved in the breakdown of lipids and peptides 
-ote: This curve was fitted (thick line) to better visualize the characteristic peaks.  artificial substrates Tween 80 (Polyoxyethylenesorbitan monooleate) and Tween 20 (Polyoxyethylenesorbitan monolaurate) 
+ote This curve was fitted thick line to better visualize the characteristic peaks . artificial substrates Tween 80 Polyoxyethylenesorbitan monooleate and Tween 20 Polyoxyethylenesorbitan monolaurate 
 elatin and casein were tested negatively as potential substrates for proteases and peptidases 
-wo transporters for oligopeptides with up to five amino acids were found, oppABC (KT71㛭06839–06854) and oppF (KT71㛭00435) 
-ulture experiments show that KT71 is able to synthesize all essential amino acids and most of the vitamins, except for biotin, thiamin, and vitamin B12 
-wo TonB-dependent vitamin B12 sensors (KT71㛭17391 and KT71㛭18621) and an ABC vitamin B12 transporter system btuCDF (KT71㛭17396–17411) were found in the genome 
-he annotation is consistent with this auxotrophy and the inability to use many substrates (e.g., glucose) as single sources of carbon and energy 
-wo highly similar genes coding for cyanophy-  cin synthetases were found in tandem (KT71㛭18591 and KT71㛭18596; 38% identical amino acids) 
-yanophycin synthetase is described as a homodimer but was also considered to form heterodimers of the type CphA and CphA⬘ (26) 
+wo transporters for oligopeptides with up to five amino acids were found oppABC KT71㛭06839–06854 and oppF KT71㛭00435 
+ulture experiments show that KT71 is able to synthesize all essential amino acids and most of the vitamins except for biotin thiamin and vitamin B12 
+wo TonB-dependent vitamin B12 sensors KT71㛭17391 and KT71㛭18621 and an ABC vitamin B12 transporter system btuCDF KT71㛭17396–17411 were found in the genome 
+he annotation is consistent with this auxotrophy and the inability to use many substrates e.g. glucose as single sources of carbon and energy 
+wo highly similar genes coding for cyanophy- cin synthetases were found in tandem KT71㛭18591 and KT71㛭18596 38 % identical amino acids 
+yanophycin synthetase is described as a homodimer but was also considered to form heterodimers of the type CphA and CphA⬘ 26 
 t was first found as a storage compound in cyanobacteria and subsequently detected in many heterotrophic bacteria 
-yanophycin was identified in these granula by a negative reaction with the lipophilic stain, Nile blue A, and dissolution in diluted HCl (see SI Fig. 7) 
-he formation of polyphosphate is not yet confirmed by physiological tests but two enzymes, an inorganic polyphosphate/ATP-NAD kinase (KT71㛭14354) and a polyphosphate kinase (KT71㛭16696), were found in the genome 
+yanophycin was identified in these granula by a negative reaction with the lipophilic stain Nile blue A and dissolution in diluted HCl see SI Fig . 7 
+he formation of polyphosphate is not yet confirmed by physiological tests but two enzymes an inorganic polyphosphate/ATP-NAD kinase KT71㛭14354 and a polyphosphate kinase KT71㛭16696 , were found in the genome 
 ormation of Aggregates and Polysaccharide Production 
-he formation of pili seems to be regulated by a sensory mechanism encoded by the genes pilS (KT71㛭19657) and pilR (KT71㛭19662; SI Table 2) 
-n addition, two operons were found containing exopolymer producing proteins (KT71㛭09752–09807 and KT71㛭06404–06469) 
-hese operons comprised genes for polysaccharide length-determinant proteins [KT71㛭09767 and KT71㛭06439), (exo)-polysaccharide biosynthesis protein (KT71㛭09772 and KT㛭066454), polysaccharide polymerases (KT71㛭009807), polysaccharide export proteins (KT71㛭09762 and KT71㛭06444)], and some glycosyltransferases (e.g., KT71㛭06459, KT71㛭06434, KT71㛭09787, and KT71㛭06429) 
-enome annotation revealed that the gene cluster 2894 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0608046104  soxH-RCDXYZA-B is potentially involved in the oxidation of reduced sulfur compounds (KT71㛭03447–03482 and KT71㛭03497) 
- comparison with other sulfur-oxidizing organisms shows that the gene arrangement soxH-RCDXYZA-B is unique to KT71 and has not been found in any of the species described to date 
-t was shown that inactivation of SoxV in P. pantotrophus and the phototrophic bacterium Rhodovulum sulfidophilum leads to a phenotype that is unable to use thiosulfate for energy conservation (32, 33) 
-hese compounds are present in high amounts after algal blooms and are metabolized by Roseobacter species (34, 35) 
+he formation of pili seems to be regulated by a sensory mechanism encoded by the genes pilS KT71㛭19657 and pilR KT71㛭19662 SI Table 2 
+n addition two operons were found containing exopolymer producing proteins KT71㛭09752–09807 and KT71㛭06404–06469 
+hese operons comprised genes for polysaccharide length-determinant proteins KT71㛭09767 and KT71㛭06439 exo -polysaccharide biosynthesis protein KT71㛭09772 and KT㛭066454 polysaccharide polymerases KT71㛭009807 polysaccharide export proteins KT71㛭09762 and KT71㛭06444 ] and some glycosyltransferases e.g. KT71㛭06459 , KT71㛭06434 , KT71㛭09787 , and KT71㛭06429 
+enome annotation revealed that the gene cluster 2894 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0608046104 soxH-RCDXYZA-B is potentially involved in the oxidation of reduced sulfur compounds KT71㛭03447–03482 and KT71㛭03497 
+comparison with other sulfur-oxidizing organisms shows that the gene arrangement soxH-RCDXYZA-B is unique to KT71 and has not been found in any of the species described to date 
+t was shown that inactivation of SoxV in P. pantotrophus and the phototrophic bacterium Rhodovulum sulfidophilum leads to a phenotype that is unable to use thiosulfate for energy conservation 32 33 
+hese compounds are present in high amounts after algal blooms and are metabolized by Roseobacter species 34 35 
 t came as a surprise that KT71 avoids sites with oxygen saturation and grows optimally under microaerobic conditions 
-n coastal areas, suboxic conditions are found, temporarily, in large macroscopic aggregates (36), and permanently a few millimeters below the sediment surface (37) 
-herefore, we hypothesize that the habitat range of KT71 includes particles and sediment surfaces 
-hereby, in temperate coastal systems like the German Bight, marine microorganisms are faced with pronounced fluctuations of multiple parameters such as substrate, nutrient, and oxygen concentrations, as well as light levels on a daily and seasonal scale 
-ased on our genomic and ecophysiological data, KT71 seems well adapted to such a dynamic shallow shelf environment 
-y attaching to their surfaces, KT71 may directly use mono- and oligomeric substrates or may benefit, as a commensal, from the exoenzymatic activities of polymer-degrading bacteria such as Rhodopirellula baltica (39) and Gramella forsetii (40) 
-ore recent studies have shown that AAnPs may be less important in the open ocean (⬇1%) (48) but can reach up to 15% abundance in eutrophic and mesotrophic coastal areas (49, 50) 
+n coastal areas suboxic conditions are found temporarily in large macroscopic aggregates 36 , and permanently a few millimeters below the sediment surface 37 
+herefore we hypothesize that the habitat range of KT71 includes particles and sediment surfaces 
+hereby in temperate coastal systems like the German Bight marine microorganisms are faced with pronounced fluctuations of multiple parameters such as substrate nutrient and oxygen concentrations as well as light levels on a daily and seasonal scale 
+ased on our genomic and ecophysiological data KT71 seems well adapted to such a dynamic shallow shelf environment 
+y attaching to their surfaces KT71 may directly use mono- and oligomeric substrates or may benefit as a commensal from the exoenzymatic activities of polymer-degrading bacteria such as Rhodopirellula baltica 39 and Gramella forsetii 40 
+ore recent studies have shown that AAnPs may be less important in the open ocean ⬇1 % 48 but can reach up to 15 % abundance in eutrophic and mesotrophic coastal areas ( 49 50 
 aterials and Methods Sequencing and Assembly 
-wo genomic libraries with insert sizes of 4 and 40 kb were made as described in Goldberg et al. (53) 
+wo genomic libraries with insert sizes of 4 and 40 kb were made as described in Goldberg et al . 53 
 he prepared plasmid and fosmid clones were sequenced from both ends to provide paired-end reads at the J 
-he genome of KT71 contains ⬇4.36 Mb with an average GC content of 57.7% and is deposited under GenBank accession no 
-ata are released to the GBMF Marine Microbial Genome Sequencing Project web site (https://research.venterinstitute.org/moore) and GenBank 
-enome-wide fluctuations of the GC-skew, AT-skew, GC-content, DNA curvature and DNA bending, (SI Fig. 4) were computed with custom PERL scripts and the programs banana and btwisted from the EMBOSS suite (55), respectively, and visualized with GeneWiz (56) 
-he positions of all genes and subsets of related Fuchs et al.  SEE COMMENTARY  genes (SI Fig. 4) were visualized with the program GenomePlot (57) 
-enome-wide fluctuations in tetranucleotide composition (SI Fig. 5) were calculated and plotted with the program TETRA (16) 
+he genome of KT71 contains ⬇4.36 Mb with an average GC content of 57.7 % and is deposited under GenBank accession no 
+ata are released to the GBMF Marine Microbial Genome Sequencing Project web site https //research.venterinstitute.org/moore and GenBank 
+enome-wide fluctuations of the GC-skew AT-skew GC-content DNA curvature and DNA bending SI Fig . 4 were computed with custom PERL scripts and the programs banana and btwisted from the EMBOSS suite 55 respectively , and visualized with GeneWiz ( 56 
+he positions of all genes and subsets of related Fuchs et al . SEE COMMENTARY genes SI Fig . 4 were visualized with the program GenomePlot 57 
+enome-wide fluctuations in tetranucleotide composition SI Fig . 5 were calculated and plotted with the program TETRA 16 
 ene Prediction and Annotation of the Genome Sequence 
-GAAP combines three distinct gene finders, GenMark (58), GenMark.hmm (59), and Glimmer2 (60), and parses the individual results using a conflict-resolving strategy 
-ransfer RNA genes were identified by using tRNAScan-SE (61), and ribosomal RNA genes were detected by standard BLAST similarity searches (62) against public nucleotide databases 
-or each ORF, similarity searches against various sequence databases (NCBI nr, NCBI nt, and SwissProt) and protein family databases (Pfam, Prosite, InterPro, and COG) were performed 
-n addition, potential signal peptides were predicted with SignalP Ver. 2.0 (64), and potential transmembrane helices were predicted with TMHMM Ver. 2.0 (65) 
+GAAP combines three distinct gene finders GenMark 58 , GenMark.hmm 59 , and Glimmer2 60 , and parses the individual results using a conflict-resolving strategy 
+ransfer RNA genes were identified by using tRNAScan-SE 61 , and ribosomal RNA genes were detected by standard BLAST similarity searches 62 against public nucleotide databases 
+or each ORF similarity searches against various sequence databases NCBI nr NCBI nt and SwissProt and protein family databases Pfam Prosite InterPro and COG were performed 
+n addition potential signal peptides were predicted with SignalP Ver . 2.0 64 , and potential transmembrane helices were predicted with TMHMM Ver . 2.0 65 
 his automatic annotation was extensively manually checked and refined for each ORF 
-omparative Sequence Analyses. 16S rRNA gene sequences related to KT71 were downloaded from the National Center for Biotechnology Information and imported into a 16S rRNA database 
-hylogenetic reconstructions were done with the ARB package (www.arb-home.de) (68) by using maximum parsimony, maximum likelihood, and neighbor-joining methods with different filters and matrices (see SI Text) 
-T71 was routinely grown and maintained either in the oligotrophic MPM-m medium described by ref. 1 (see SI Tables 3–7 for details) or in the complex medium SYPG containing the following compounds per liter of distilled water: 35.0 g of sea salts, 0.5 g of yeast extract, 0.25 g of Trypticase peptone, and 0.1 g of sodium L-glutamate 
-tilization of substrates was tested in a mineral medium containing (per liter) 35.0 g of sea salts, 0.1 g of NH4Cl, 0.05 g of K2HPO4, and 10 ml of a vitamin solution (see DSMZ medium 141, www.dsmz.de) 
-tandard tests for the detection of enzymes like catalase, oxidase, lipase/esterase, and proteases were done according to the protocols given in ref. 69 
-igments from cell pellets  of KT71 were obtained by freeze drying and consecutive acetone and methanol extraction with sonication 
-PLC analyses of cell extracts were done on a Waters 2690 Separation Modul (Waters, Eschborn, Germany) with a 250 ⫻ 4.6-mm vortex column packed with Eurospher-100 C 18 (particle size, 5 ␮m; Knauer, Berlin, Germany) and a Waters 996 Photodiode Array Detector 
-he mobile phase was chosen after Wright and Jeffrey (71) 
-chla was identified by retention-time coinjection of a Bchla standard from Rhodopseudomonas sphaeroides (Sigma–Aldrich, Taufkirchen, Germany) and spectrography at 384 nm 
+omparative Sequence Analyses . 16S rRNA gene sequences related to KT71 were downloaded from the National Center for Biotechnology Information and imported into a 16S rRNA database 
+hylogenetic reconstructions were done with the ARB package www.arb-home.de 68 by using maximum parsimony maximum likelihood and neighbor-joining methods with different filters and matrices ( see SI Text 
+T71 was routinely grown and maintained either in the oligotrophic MPM-m medium described by ref . 1 see SI Tables 3–7 for details or in the complex medium SYPG containing the following compounds per liter of distilled water 35.0 g of sea salts 0.5 g of yeast extract 0.25 g of Trypticase peptone and 0.1 g of sodium L-glutamate 
+tandard tests for the detection of enzymes like catalase oxidase lipase/esterase and proteases were done according to the protocols given in ref . 69 
+igments from cell pellets of KT71 were obtained by freeze drying and consecutive acetone and methanol extraction with sonication 
+PLC analyses of cell extracts were done on a Waters 2690 Separation Modul Waters Eschborn Germany with a 250 ⫻ 4.6-mm vortex column packed with Eurospher-100 C 18 particle size 5 ␮m Knauer Berlin Germany and a Waters 996 Photodiode Array Detector 
+he mobile phase was chosen after Wright and Jeffrey 71 
+chla was identified by retention-time coinjection of a Bchla standard from Rhodopseudomonas sphaeroides Sigma–Aldrich Taufkirchen Germany and spectrography at 384 nm 
 he storage compounds cyanophycin and polyphosphate are yet another adaptation to famine situations 
-nterestingly, in contrast to all other AAnPs known to date, KT71 produces only trace amounts of carotenoids and shows no obvious pigmentation (SI Fig. 8c) 
-equencing, assembly, and annotation efforts were supported by the GBMF as part of its Marine Microbial Sequencing Project (www.moore.org/marinemicro) 
+nterestingly in contrast to all other AAnPs known to date KT71 produces only trace amounts of carotenoids and shows no obvious pigmentation SI Fig . 8c 
+equencing assembly and annotation efforts were supported by the GBMF as part of its Marine Microbial Sequencing Project www.moore.org/marinemicro 
 e thank Granger Sutton and his team for the ongoing development and maintenance of the Celera Assembler and related tools and Aaron Sutton for help with specific analysis issues 
-ravitz, manages assembly, annotation, and Web delivery of data for the GBMF-funded project (http://research.venterinstitute.org/ moore) 
+ravitz manages assembly annotation and Web delivery of data for the GBMF-funded project http //research.venterinstitute.org/ moore 
 any thanks for help with pigment extraction and HPLC analysis to Gabriele Klockgether and Raphaela Shoon 
 e are indebted to Gunnar Gerdts and Antje Wichels from the Alfred Wegener Institute for Polar and Marine Research for constant support for field work on Helgoland 
-e thank Oded Beja, Margarete Schüler, Marcel Kuypers, and Anke Meyerdierks for helpful suggestions and discussions 
-raig Venter Institute (JCVI) Joint Technology Center, under the leadership of Yu-Hui Rogers, for producing the genomic libraries and the sequence data 
-his project was funded by the GBMF, the Max Planck Society, and the FP6-EU Network of Excellence Marine Genomics Europe (Grant GOCE-CT-2004-505403).  1 
-erhardt P (1994) Methods for General and Molecular Bacteriology (Am Soc Microbiol, Washington, DC). 70 
-ere, we report the nearly complete genome sequence of one cultured representative, Congregibacter litoralis strain KT71, isolated from North Sea surface water 
-he genome analysis of C. litoralis strain KT71 identifies the gammaproteobacterial marine AAnPs, postulated based on BAC sequences, as members of the NOR5/OM60 clade 
-T71 enables future experiments investigating the importance of this group of gammaproteobacterial AAnPs in coastal environments. marine bacteria 兩 NOR5/OM60 clade 兩 whole genome analysis 兩 Congregibacter litoralis 兩 bacteriochlorophyll a  I  n 1999, Eilers et al. (1) isolated a bacterial strain designated KT71 from a surface water sample taken near the North Sea island Helgoland, by direct plating on complex low-nutrient media 
-hylogenetic analysis showed that KT71 was the first cultured representative of a cosmopolitan gammaproteobacterial lineage, which we in the following refer to as the NOR5/OM60 clade (Fig. 1) 
-n the following years, many sequences have been retrieved that were related to the clone OM60 (e.g., refs. 3–8) 
-everal more strains belonging to the NOR5/ OM60 clade were isolated off the coast of Oregon, in sterilized seawater, using a high-throughput dilution-to-extinction techwww.pnas.org兾cgi兾doi兾10.1073兾pnas.0608046104  nique (9, 10) 
-ISH with rRNA-targeted oligonucleotide probes for NOR5/ OM60 confirmed this clade as an abundant component of the bacterioplankton community in the North Sea around the island Helgoland (1) 
-y the end of July 1998, up to 8% of the total bacterioplankton community comprised members of the NOR5/ OM60 clade (1) 
-owever, NOR5/OM60 was not detected by FISH during the winter months, October to March, suggesting a marked seasonality 
-he genome annotation of KT71 revealed the presence of  a full PS superoperon (15) (KT71㛭19323–19518) on the smaller of the two large scaffolds [supporting information (SI) Fig. 4] 
-ata deposition: The sequence reported in this paper has been deposited in the GenBank database (accession no 
--mail: bfuchs@mpi-bremen.de or ramann@mpi-bremen.de.  This article contains supporting information online at www.pnas.org/cgi/content/full/ 0608046104/DC1. © 2007 by The National Academy of Sciences of the USA  PNAS 兩 February 20, 2007 兩 vol. 104 兩 no. 8 兩 2891–2896  MICROBIOLOGY  Edited by James M 
-Y458648) shares an identical arrangement of the bchP-pucC-bchG-crtJ-bchFNBHLM-pucCpuhH region with KT71 
-hylogenetic affiliation of KT71. (A) Parsimony tree of the NOR5/ OM60 clade including representative neighboring clades within the Gammaproteobacteria. (B) Consensus tree of the NOR5/OM60 clade reconstructed with 86 almost-full-length sequences (⬎1,350 nt) 
-ignificant amounts of Bchla were detected only in cultures of KT71 growing with light on the oligotrophic MPM-m (1) medium for an extended time (bacteriochlorophyll concentration of 680 ␮g䡠liter⫺1 after 4 mo) 
-n contrast, Bchla was never found in cultures grown to stationary phase in the nutrient-rich SYPG medium or in MPM-m medium without illumination 
+e thank Oded Beja Margarete Schüler Marcel Kuypers and Anke Meyerdierks for helpful suggestions and discussions 
+raig Venter Institute JCVI Joint Technology Center under the leadership of Yu-Hui Rogers for producing the genomic libraries and the sequence data 
+his project was funded by the GBMF the Max Planck Society and the FP6-EU Network of Excellence Marine Genomics Europe Grant GOCE-CT-2004-505403 . 1 
+erhardt P 1994 Methods for General and Molecular Bacteriology Am Soc Microbiol Washington DC . 70 
+ere we report the nearly complete genome sequence of one cultured representative Congregibacter litoralis strain KT71 isolated from North Sea surface water 
+he genome analysis of C. litoralis strain KT71 identifies the gammaproteobacterial marine AAnPs postulated based on BAC sequences as members of the NOR5/OM60 clade 
+T71 enables future experiments investigating the importance of this group of gammaproteobacterial AAnPs in coastal environments . marine bacteria 兩 NOR5/OM60 clade 兩 whole genome analysis 兩 Congregibacter litoralis 兩 bacteriochlorophyll a I n 1999 Eilers et al . 1 isolated a bacterial strain designated KT71 from a surface water sample taken near the North Sea island Helgoland by direct plating on complex low-nutrient media 
+hylogenetic analysis showed that KT71 was the first cultured representative of a cosmopolitan gammaproteobacterial lineage which we in the following refer to as the NOR5/OM60 clade Fig . 1 
+n the following years many sequences have been retrieved that were related to the clone OM60 e.g. refs . 3–8 
+everal more strains belonging to the NOR5/ OM60 clade were isolated off the coast of Oregon in sterilized seawater using a high-throughput dilution-to-extinction techwww.pnas.org兾cgi兾doi兾10.1073兾pnas.0608046104 nique 9 10 
+ISH with rRNA-targeted oligonucleotide probes for NOR5/ OM60 confirmed this clade as an abundant component of the bacterioplankton community in the North Sea around the island Helgoland 1 
+y the end of July 1998 up to 8 % of the total bacterioplankton community comprised members of the NOR5/ OM60 clade 1 
+owever NOR5/OM60 was not detected by FISH during the winter months October to March suggesting a marked seasonality 
+he genome annotation of KT71 revealed the presence of a full PS superoperon 15 KT71㛭19323–19518 on the smaller of the two large scaffolds supporting information ( SI Fig . 4 
+ata deposition The sequence reported in this paper has been deposited in the GenBank database accession no 
+-mail bfuchs @ mpi-bremen.de or ramann @ mpi-bremen.de . This article contains supporting information online at www.pnas.org/cgi/content/full/ 0608046104/DC1 . © 2007 by The National Academy of Sciences of the USA PNAS 兩 February 20 2007 兩 vol . 104 兩 no . 8 兩 2891–2896 MICROBIOLOGY Edited by James M 
+Y458648 shares an identical arrangement of the bchP-pucC-bchG-crtJ-bchFNBHLM-pucCpuhH region with KT71 
+hylogenetic affiliation of KT71 . A Parsimony tree of the NOR5/ OM60 clade including representative neighboring clades within the Gammaproteobacteria . B Consensus tree of the NOR5/OM60 clade reconstructed with 86 almost-full-length sequences ⬎1,350 nt 
+ignificant amounts of Bchla were detected only in cultures of KT71 growing with light on the oligotrophic MPM-m 1 medium for an extended time bacteriochlorophyll concentration of 680 ␮g䡠liter⫺1 after 4 mo 
+n contrast Bchla was never found in cultures grown to stationary phase in the nutrient-rich SYPG medium or in MPM-m medium without illumination 
 enomic analysis showed that indeed all genes for the synthesis of spirilloxanthin are present 
-one of the key genes for autotropic carbon fixation, like ribulose-1,5-bisphosphate-carboxylase/ oxygenase (Calvin-cycle), ATP-citrate-lyase (reductive citrate cycle), or CO-dehydrogenase/acetyl-CoA-synthase (reductive acetylCoA pathway), were found in the genome, which is typical for aerobic anoxygenic phototrophs (AAnPs) (20) 
-ots indicate the presence of genes not belonging to the PS operon. 2892 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0608046104  Fuchs et al.  SEE COMMENTARY  gradient (20) 
-he sodium gradient in turn may drive a sodium-dependent ATPase (KT71㛭09367) or may be directly used by the flagella motor (KT71㛭00645) 
-rom the culture grown with light from a 60-W light bulb, 32.4 mg of cell mass (dry weight) could be harvested, whereas from the parallel culture grown in the dark, only 17.6 mg of cell mass (dry weight) could be obtained 
-uture experiments should also address starvation survival, because Breznak et al. (21) could show that the survival half-time of the facultative anaerobic anoxygenic phototroph Rhodospirillum rubrum (Alphaproteobacteria) was ⬇29fold longer if grown with ambient-light intensities than without light 
-nnotation identified two genes containing a member of the sensor family BLUF (blue light using flavin adenine dinucleotide) 
+one of the key genes for autotropic carbon fixation like ribulose-1,5-bisphosphate-carboxylase/ oxygenase Calvin-cycle ATP-citrate-lyase reductive citrate cycle , or CO-dehydrogenase/acetyl-CoA-synthase reductive acetylCoA pathway , were found in the genome , which is typical for aerobic anoxygenic phototrophs AAnPs ( 20 
+ots indicate the presence of genes not belonging to the PS operon . 2892 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0608046104 Fuchs et al . SEE COMMENTARY gradient 20 
+he sodium gradient in turn may drive a sodium-dependent ATPase KT71㛭09367 or may be directly used by the flagella motor KT71㛭00645 
+rom the culture grown with light from a 60-W light bulb 32.4 mg of cell mass dry weight could be harvested whereas from the parallel culture grown in the dark only 17.6 mg of cell mass dry weight could be obtained 
+uture experiments should also address starvation survival because Breznak et al . 21 could show that the survival half-time of the facultative anaerobic anoxygenic phototroph Rhodospirillum rubrum Alphaproteobacteria was ⬇29fold longer if grown with ambient-light intensities than without light 
+nnotation identified two genes containing a member of the sensor family BLUF blue light using flavin adenine dinucleotide 
 ne of the BLUF sensors was detected directly upstream of the PS superoperon 
 t contains the BLUF domain at the N terminus of the ORF KT71㛭19323 
 AC clone EBAC29C02 also contains a BLUF sensor with a similar structure directly upstream of the PS operon suggesting an involvement of the BLUF sensor in the light regulation of the PS operon 
-nterestingly, in direct vicinity to the second BLUF sensor (KT71㛭09447), a two component response regulator (KT71㛭09452) could be found, suggesting, that this BLUF sensor forms part of a two component system (SI Table 2) 
-n deep-agar cultures, KT71 forms distinct bands several millimeters below the surface 
-o determine the exact oxygen concentration for optimal growth Fuchs et al.  of KT71, oxygen profiles were measured in cultures grown in SYPG medium with 0.15% (wt/vol) agar (soft agar) 
-n oxygen profile measured with microsensors from the surface of the soft agar down to a depth of 8 mm is shown in SI Fig. 6 
-ext to the aa3-type terminal cytochrome c oxidase (KT71㛭04625–04640), KT71 harbors a cbb3-type cytochrome c oxidase (fixNOQP, KT71㛭16991– 17006) 
-n the genome, all genes for glycolysis are present, except for the initial activating enzymes 
-n the laboratory, no hydrolysis of the polysaccharides starch, cellulose, or chitin by KT71 could be detected, in line with the annotation of the genome 
- lipase/ esterase activity could be confirmed by the hydrolysis of the PNAS 兩 February 20, 2007 兩 vol. 104 兩 no. 8 兩 2893  MICROBIOLOGY  Fig. 3 
-he polymer forms insoluble granula inside the cell that can be extracted with diluted acids (27) 
- cyanophycinase was not annotated, but most likely the polypeptide is degraded by an unknown peptidase 
-n pure  cultures of KT71, the formation of large flocs was observed (SI Fig. 8A) 
-here is microscopic evidence that members of the NOR5/ OM60 clade attaches also in nature to macroscopic particles (SI Fig. 8B) 
-everal loci in the KT71 genome code for the synthesis of type IV pili or fimbriae (28) 
-nterestingly, each of the operons contains a two-component sensor kinases/response regulator (SI Table 2) 
-ased on the current annotation, it is not clear to which stimuli they respond 
+nterestingly in direct vicinity to the second BLUF sensor KT71㛭09447 a two component response regulator KT71㛭09452 could be found suggesting , that this BLUF sensor forms part of a two component system SI Table 2 
+n deep-agar cultures KT71 forms distinct bands several millimeters below the surface 
+o determine the exact oxygen concentration for optimal growth Fuchs et al . of KT71 oxygen profiles were measured in cultures grown in SYPG medium with 0.15 % wt/vol agar soft agar 
+n oxygen profile measured with microsensors from the surface of the soft agar down to a depth of 8 mm is shown in SI Fig . 6 
+ext to the aa3-type terminal cytochrome c oxidase KT71㛭04625–04640 KT71 harbors a cbb3-type cytochrome c oxidase fixNOQP , KT71㛭16991– 17006 
+n the genome all genes for glycolysis are present except for the initial activating enzymes 
+n the laboratory no hydrolysis of the polysaccharides starch cellulose or chitin by KT71 could be detected in line with the annotation of the genome 
+lipase/ esterase activity could be confirmed by the hydrolysis of the PNAS 兩 February 20 2007 兩 vol . 104 兩 no . 8 兩 2893 MICROBIOLOGY Fig . 3 
+he polymer forms insoluble granula inside the cell that can be extracted with diluted acids 27 
+cyanophycinase was not annotated but most likely the polypeptide is degraded by an unknown peptidase 
+n pure cultures of KT71 the formation of large flocs was observed SI Fig . 8A 
+here is microscopic evidence that members of the NOR5/ OM60 clade attaches also in nature to macroscopic particles SI Fig . 8B 
+everal loci in the KT71 genome code for the synthesis of type IV pili or fimbriae 28 
+nterestingly each of the operons contains a two-component sensor kinases/response regulator SI Table 2 
+ased on the current annotation it is not clear to which stimuli they respond 
 T71 most likely uses the APS/PAPS pathway to obtain reduced sulfur compounds 
-his cluster contains the core gene set soxXYZAB, which is found in many species capable of oxidizing reduced sulfur compounds (29) 
-nlike in Silicibacter pomeryoi (30), the supplementation of media with the inorganic sulfur compounds thiosulfate or sulfur did not significantly promote growth of KT71 in cultivation experiments using different carbon sources 
-he inability to gain additional energy by the oxidation of reduced inorganic sulfur compounds may be due to the lack of several sox genes compared with the exemplary cluster of sox genes found in the genome of Paracoccus pantotrophus or S. pomeroyi (30) 
-f special interest is the lack of the gene soxV that codes in P. pantotrophus GB17 for a membrane protein that is predicted to transfer electrons from the cytoplasma to the periplasmic thioredoxin soxW (31) 
-espite this finding, the possibility exists that KT71 can use alternative sulfur compounds like dimethylsulfoniopropionate or dimethylsulfide that were not tested yet 
-. litoralis: A Typical Shelf Bacterium? KT71 was isolated from  coastal surface water in the rather shallow German Bight 
-here, the water column is close to oxygen saturation during most of the year 
-hallow shelf areas are characterized by extensive mixing of the water, sediment interface by tides, or wind stress 
+his cluster contains the core gene set soxXYZAB which is found in many species capable of oxidizing reduced sulfur compounds 29 
+nlike in Silicibacter pomeryoi 30 , the supplementation of media with the inorganic sulfur compounds thiosulfate or sulfur did not significantly promote growth of KT71 in cultivation experiments using different carbon sources 
+he inability to gain additional energy by the oxidation of reduced inorganic sulfur compounds may be due to the lack of several sox genes compared with the exemplary cluster of sox genes found in the genome of Paracoccus pantotrophus or S. pomeroyi 30 
+f special interest is the lack of the gene soxV that codes in P. pantotrophus GB17 for a membrane protein that is predicted to transfer electrons from the cytoplasma to the periplasmic thioredoxin soxW 31 
+espite this finding the possibility exists that KT71 can use alternative sulfur compounds like dimethylsulfoniopropionate or dimethylsulfide that were not tested yet 
+. litoralis A Typical Shelf Bacterium KT71 was isolated from coastal surface water in the rather shallow German Bight 
+here the water column is close to oxygen saturation during most of the year 
+hallow shelf areas are characterized by extensive mixing of the water sediment interface by tides or wind stress 
 esuspension of sediment particles into the water column is followed by periods of sedimentation 
-rganic particles are nutrient-rich hotspots in the otherwise oligotrophic water column (38) 
-he possibility that KT71 is actively shaping its environment by facilitating the formation of ‘‘marine snow’’ by polysaccharide production needs to be addressed in future studies 
+rganic particles are nutrient-rich hotspots in the otherwise oligotrophic water column 38 
+he possibility that KT71 is actively shaping its environment by facilitating the formation of ‘ ‘ marine snow ’ ’ by polysaccharide production needs to be addressed in future studies 
 article association also serves as a transport mechanism to the sediment surface 
-here, KT71 may thrive on low-molecular-weight substrates like peptides or lipids that accumulate on the sea floor (41) 
-he presence of a complete mercury-resistance operon (KT71㛭16196–16226) in the genome of KT71 is consistent with a prevalence of this strain in the suboxic zone of sediments 
-t has  been estimated that AAnPs account for ⱖ10% of the bacterioplankton community in the oligotrophic open ocean (45–47) 
-urrently, the alphaproteobacterial Roseobacter clade is considered to be the dominant group of marine AAnPs (35, 51, 52) 
-he discovery of BAC clones with PS operons showing best BLAST hits to Gammaproteobacteria (17) clearly suggested the existence of a second group of AAnPs 
-he genome analysis of C. litoralis strain KT71 identifies this microorganism as a cultured representative of the gammaproteobacterial marine AAnPs, enabling future experiments investigating the importance of gammaproteobacterial AAnPs in coastal environments by using KT71 as a model organism 
-uccessful reads for each organism were used as input for the Celera Assembler (54) 
- genome report compliant with the ‘‘Minimum Information about a Genome Sequence specification’’ is available from the Genome Catalog at www.genomics.ceh.ac.uk/genomecatalogue 
+here KT71 may thrive on low-molecular-weight substrates like peptides or lipids that accumulate on the sea floor 41 
+he presence of a complete mercury-resistance operon KT71㛭16196–16226 in the genome of KT71 is consistent with a prevalence of this strain in the suboxic zone of sediments 
+t has been estimated that AAnPs account for ⱖ10 % of the bacterioplankton community in the oligotrophic open ocean 45–47 
+urrently the alphaproteobacterial Roseobacter clade is considered to be the dominant group of marine AAnPs 35 51 52 
+he discovery of BAC clones with PS operons showing best BLAST hits to Gammaproteobacteria 17 clearly suggested the existence of a second group of AAnPs 
+he genome analysis of C. litoralis strain KT71 identifies this microorganism as a cultured representative of the gammaproteobacterial marine AAnPs enabling future experiments investigating the importance of gammaproteobacterial AAnPs in coastal environments by using KT71 as a model organism 
+uccessful reads for each organism were used as input for the Celera Assembler 54 
+genome report compliant with the ‘ ‘ Minimum Information about a Genome Sequence specification ’ ’ is available from the Genome Catalog at www.genomics.ceh.ac.uk/genomecatalogue 
 nalysis of the Genome Architecture 
-otential  protein-coding genes were identified by the Prokaryotic Genomes Automatic Annotation Pipeline (PGAAP) of the National Center for Biotechnology Information 
-LAST analysis of the intergenic regions resulted in finding one additional short ORF (pufB, KT71㛭19424) 
-nnotation of the genome sequence was performed with the GenDB v2.2 annotation system (63) 
-he quantity of Bchla was estimated from the areas under the peaks, which were calibrated with the Bchla standard 
-o standard was available for the spirilloxanthin-like compound, but the carotenoid was identified by comparison with similar spectra at similar retention times from, e.g., ref. 72 
-NAS 兩 February 20, 2007 兩 vol. 104 兩 no. 8 兩 2895  MICROBIOLOGY  dwelling in the surface sediment than for bacteria indigenous to the water column 
- specific highlight of KT71 is the presence of a PS superoperon 
-y the light-driven generation of a proton gradient, KT71 might be able to survive extended periods of starvation, e.g., during the winter period 
-ecause a major function of carotenoids is the protection of cells from damage by UV radiation, this may reflect an adaptation to low-light zones, i.e., depths of several meters in the water column or subsurface sediment layers in shallow water 
-ecently, strongly pigmented strains closely related to KT71 were isolated from surface sediments in the Wadden Sea, suggesting the ability of members of the NOR5/OM60 clade to adapt also to high light conditions (J 
-hese strains will also allow us to determine whether PS is a general feature of the NOR5/OM60 clade.  Jakob Pernthaler initially suggested sequencing KT71 in the framework of the Marine Microbiology Sequencing Initiative of the GBMF 
-he JCVI software team, under the leadership of Saul A 
+otential protein-coding genes were identified by the Prokaryotic Genomes Automatic Annotation Pipeline PGAAP of the National Center for Biotechnology Information 
+LAST analysis of the intergenic regions resulted in finding one additional short ORF pufB KT71㛭19424 
+nnotation of the genome sequence was performed with the GenDB v2.2 annotation system 63 
+he quantity of Bchla was estimated from the areas under the peaks which were calibrated with the Bchla standard 
+o standard was available for the spirilloxanthin-like compound but the carotenoid was identified by comparison with similar spectra at similar retention times from e.g. ref . 72 
+NAS 兩 February 20 2007 兩 vol . 104 兩 no . 8 兩 2895 MICROBIOLOGY dwelling in the surface sediment than for bacteria indigenous to the water column 
+specific highlight of KT71 is the presence of a PS superoperon 
+y the light-driven generation of a proton gradient KT71 might be able to survive extended periods of starvation e.g. during the winter period 
+ecause a major function of carotenoids is the protection of cells from damage by UV radiation this may reflect an adaptation to low-light zones i.e. depths of several meters in the water column or subsurface sediment layers in shallow water 
+ecently strongly pigmented strains closely related to KT71 were isolated from surface sediments in the Wadden Sea suggesting the ability of members of the NOR5/OM60 clade to adapt also to high light conditions J 
+hese strains will also allow us to determine whether PS is a general feature of the NOR5/OM60 clade . Jakob Pernthaler initially suggested sequencing KT71 in the framework of the Marine Microbiology Sequencing Initiative of the GBMF 
+he JCVI software team under the leadership of Saul A 
 e thank Robert Friedman for his leadership of the GBMFfunded project 
-rmin  Gieseke is acknowledged for help with the microsensor measurements 
+rmin Gieseke is acknowledged for help with the microsensor measurements 
 e acknowledge the J 
-reisig O, Anthamatten D, Hennecke H (1993) Proc Natl Acad Sci USA 90:3309–3313. 24 
-loug H (2001) Limnol Oceanogr 46:1624–1631. 37. de Beer D, Wenzhoefer F, Ferdelman TG, Boehme SE, Huettel M, van Beusekom JEE, Boettcher ME, Musat N, Dubilier N (2005) Limnol Oceanogr 50:113–127. 38 
-nexpectedly, a complete photosynthesis superoperon, including genes for accessory pigments, was discovered 
-ilers H, Pernthaler J, Peplies J, Glöckner FO, Gerdts G, Amann R (2001) Appl Environ Microbiol 67:5134–5142. 2 
-ike other aerobic anoxygenic phototrophs (AAnPs), KT71 is able to grow neither anaerobically nor photoautotrophically 
+ilers H Pernthaler J Peplies J Glöckner FO Gerdts G Amann R 2001 Appl Environ Microbiol 67:5134–5142 . 2 
+ilers H Pernthaler J Glöckner FO Amann R 2000 Appl Environ Microbiol 66:3044–3051 . 4 
+chäfer H Bernard L Courties C Lebaron P Servais P Pukall R Stackebrandt E Troussellier M Guindulain T Vives-Rego J Muyzer G 2001 FEMS Microbiol Ecol 34:243–253 . 9 
+rinkmeyer R Knittel K Jürgens J Weyland H Amann R Helmke E 2003 Appl Environ Microbiol 69:6610–6619 . 12 
+gogue H Casamayor EO Bourrain M Obernosterer I Joux F Herndl GJ Lebaron P 2005 FEMS Microbiol Ecol 54:269–280 . 13 
+eeling H Waldmann J Lombardot T Bauer M Glöckner FO 2004 BMC Bioinformatics 5:163 . 17 
+uyama T Shigematsu T Takaichi S Nodasaka Y Fujikawa S Hosoya H Tokiwa Y Kanagawa T Hanada S 1999 Int J Syst Bacteriol 49:449–457 . 20 
+reisig O Anthamatten D Hennecke H 1993 Proc Natl Acad Sci USA 90:3309–3313 . 24 
+ardischewsky F Fischer J Bettina H Friedrich CG 2006 Microbiology 152:465–472 . 32 
+loug H 2001 Limnol Oceanogr 46:1624–1631 . 37. de Beer D Wenzhoefer F Ferdelman TG Boehme SE Huettel M van Beusekom JEE Boettcher ME Musat N Dubilier N 2005 Limnol Oceanogr 50:113–127 . 38 
+löckner FO Kube M Bauer M Teeling H Lombardot T Ludwig W Gade D Beck A Borzym K Heitmann K et al . 2003 Proc Natl Acad Sci USA 100:8298–8303 . 40 
+auer M Kube M Teeling H Richter M Lombardot T Allers E Würdemann CA Quast C Kuhl H Knaust F et al . 2006 Environ Microbiol 8:2201–2213 . 41 
+ivis P Leermakers M Docekalová H Gao Y 2005 Anal Bioanal Chem 382:1715–1719 . 44 
+oldberg SMD Johnson J Busam D Feldblyum T Ferriera S Friedman R Halpern A Khouri H Kravitz SA Lauro FM et al . 2006 Proc Natl Acad Sci USA 103:11240–11245 . 54 
+ielsen H Brunak S von Heijne G 1999 Protein Eng 12:3–9 . 65 
+udwig W Strunk O Westram R Richter L Meier H Yadhukumar Buchner A Lai T Steppi S Jobb G et al . 2004 Nucleic Acids Res 32:1363–1371 . 69 
+iraishi A Kuraishi H Kawahara K 2000 Int J Syst Evol Microbiol 50:1113– 1118 . 73 
+nexpectedly a complete photosynthesis superoperon including genes for accessory pigments was discovered 
+reen bch genes red puf gene orange crt genes blue hem genes 1 similar to 23.7-kDa protein KT71㛭19398 ; 2 similar to 17.4-kDa protein KT71㛭19403 ; 3 similar to 30.4-kDa protein KT71㛭19408 
+ike other aerobic anoxygenic phototrophs AAnPs , KT71 is able to grow neither anaerobically nor photoautotrophically 
 his article is a PNAS direct submission 
 hysiological tests indicated that KT71 is not able to grow autotrophically 
-T71 is a strictly aerobic organism with a clear  preference for low-oxygen niches 
-t is becoming more clear that photoheterotrophy is widespread among marine microorganisms (17, 44) 
-etention time, 15.16 min. (B) Absorption spectrum of spirilloxanthin-like carotenoid from KT71 
-lthough proteases can have a high specificity for distinct substrates, this finding points to a preferred utilization of oligopeptides or partly degraded proteins by KT71 
-amalhosa E, Segade SR, Pereira E, Vale C, Duarte A (2006) Water Res 40:2893–2900. 43 
-raig Venter Science Foundation Joint Technology Center on Applied Biosystems 3730XL DNA sequencers (Applied Biosystems, Foster City, CA) 
-hole-genome random shotgun sequencing produced 38,544 good reads averaging 892 bp in length, for a total of ⬇34.38 Mbp of microbial DNA sequence (⫽7.53 ⫻ coverage) 
-reen, bch genes; red, puf gene; orange, crt genes; blue, hem genes; 1, similar to 23.7-kDa protein (KT71㛭19398); 2, similar to 17.4-kDa protein (KT71㛭19403); 3, similar to 30.4-kDa protein (KT71㛭19408) 
-he highest cell density was visible at an oxygen saturation of ⬇10% (30 ␮M O2) 
-ukashin A, Borodovsky M (1998) Nucleic Acids Res 26:1107–1115. 60 
-elcher A, Harmon D, Kasif S, White O, Salzberg S (1999) Nucleic Acids Res 27:4636–4641. 61 
-owe T, Eddy S (1997) Nucleic Acids Res 25:955–964. 62 
-eyer F, Goesmann A, McHardy AC, Bartels D, Bekel T, Clausen J, Kalinowski J, Linke B, Rupp O, Giegerich R, Pühler A (2003) Nucleic Acids Res 31:2187–2195. 64 
-udwig W, Strunk O, Westram R, Richter L, Meier H, Yadhukumar, Buchner A, Lai T, Steppi S, Jobb G, et al. (2004) Nucleic Acids Res 32:1363–1371. 69 
-ielsen H, Brunak S, von Heijne G (1999) Protein Eng 12:3–9. 65 
-rinkmeyer R, Knittel K, Jürgens J, Weyland H, Amann R, Helmke E (2003) Appl Environ Microbiol 69:6610–6619. 12 
+T71 is a strictly aerobic organism with a clear preference for low-oxygen niches 
+t is becoming more clear that photoheterotrophy is widespread among marine microorganisms 17 44 
+redicted protein-coding genes were functionally classified according to COG Ver . 3 67 ( see SI Text 
+t has a high sequence similarity to BAC clones from Monterey Bay Beja O Suzuki MT Heidelberg JF Nelson WC Preston CM et al . 2002 Nature 415:630 – 633 , which also share a nearly identical gene arrangement 
+eja O Suzuki MT Heidelberg JF Nelson WC Preston CM Hamada T Eisen JA Fraser CM DeLong EF 2002 Nature 415:630–633 . 18 
+lthough proteases can have a high specificity for distinct substrates this finding points to a preferred utilization of oligopeptides or partly degraded proteins by KT71 
+amalhosa E Segade SR Pereira E Vale C Duarte A 2006 Water Res 40:2893–2900 . 43 
+raig Venter Science Foundation Joint Technology Center on Applied Biosystems 3730XL DNA sequencers Applied Biosystems Foster City CA 
+hole-genome random shotgun sequencing produced 38,544 good reads averaging 892 bp in length for a total of ⬇34.38 Mbp of microbial DNA sequence ⫽7.53 ⫻ coverage 
+he highest cell density was visible at an oxygen saturation of ⬇10 % 30 ␮M O2 
+ukashin A Borodovsky M 1998 Nucleic Acids Res 26:1107–1115 . 60 
+elcher A Harmon D Kasif S White O Salzberg S 1999 Nucleic Acids Res 27:4636–4641 . 61 
+owe T Eddy S 1997 Nucleic Acids Res 25:955–964 . 62 
+eyer F Goesmann A McHardy AC Bartels D Bekel T Clausen J Kalinowski J Linke B Rupp O Giegerich R Pühler A 2003 Nucleic Acids Res 31:2187–2195 . 64 
+rump B Armbrust E Baross J 1999 Appl Environ Microbiol 65:3192–3204 . 6 
+atusov R Fedorova N Jackson J Jacobs A Kiryutin B Koonin E Krylov D Mazumder R Mekhedov S Nikolskaya A et al . 2003 BMC Bioinformatics 4:41 . 68 

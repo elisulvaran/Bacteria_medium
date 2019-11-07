@@ -1,79 +1,79 @@
-he control was grown in enhanced MYE broth containing ammonium chloride (NH4Cl) 0.5 g; magnesium sulfate heptahydrate (MgSO4.7 H2O) 0.4 g; calcium chloride di-hydrate (CaCl.2.H2O) 0.05 g, sodium chloride (NaCl) 0.4 g, malic acid or sodium hydrogen malate 1.5 g, yeast extract 1.0 g in 1000mL of distilled H2O. 2.3 Biomass, bacteriocarotenoid extraction and measurement The determination of whole cell optical density (OD0.5), inclusive cellular bacteriochlorophyll (Bchl) type together with the extraction of pigments and detection of absorption maxima (λ-max) of raw bacteriocarotenoid of bacterial cells were done as described [8] and slightly modified [4] 
-asaki, K., Simultaneous removal of chemical oxygen demand (COD), phosphate, nitrate and hydrogen sulphide in the synthetic sewage wastewater using porous ceramic immobilized photosynthetic bacteria 
-ydrogenobacter subterraneus sp. nov., an extremely thermophilic, heterotrophic bacterium unable to grow on hydrogen gas, from deep subsurface geothermal water 
-ey words: Bacteriocarotenoid, Toxic-mopping, Bioremediation, Carbon emission, Rhodocista  I.  Introduction  With the increase in greenhouse emission and high amount of toxic chemical wastes, the world is becoming a more dangerous place to live in 
-IOSR Journal of Environmental Science, Toxicology and Food Technology (IOSR-JESTFT) e-ISSN: 2319-2402,p- ISSN: 2319-2399.Volume 9, Issue 1 Ver 
- (Jan. 2015), PP 01-04 www.iosrjournals.org  Inductive Toxic-Mopping (IT-m) and Carotenogenic Bioconversion Properties of Thermotolerant Rhodocista pekingensis Sp 
-ov Akinnuoye Olawale Faith-Anthony1,2,*, Nazlina Ibrahim3, Akinnuoye Modupe Agnes4,5, Ainon Hamzah3 1  Academic Research and Administration, MFM Group Sdn Bhd, Kuala Lumpur, Malaysia Formerly in School of Biosciences and Biotechnology, Faculty of Science, UKM 43600 Bangi, Malaysia 3 School of Biosciences and Biotechnology, FST, National University of Malaysia, 43600 Bangi, Selangor, Malaysia 4 Faculty of Social Sciences and Humanity, National University of Malaysia, 43600 Bangi, Selangor, Malaysia 5 Faculty of Education, University of Waikato, New Zealand *faithanthony.ukm@gmail.com 2  Abstract: Environmental impurities and degrading substances are major causes of pollution 
-ecause of the importance of some photosynthetic bacteria, viable, efficient and environment-friendly biological remediation researches have therefore become inevitably important 
-n search of these criteria, there was the need for the logical merger of efficacy of the mop-up capability of the biological agents and productive beneficial end-results 
-esults showed a positive response to four of the toxic chemical compounds with the production of 65±5 mg/L, 63±3 mg/L, 59±3 mg/L and 53±6 mg/L yields of raw bacteriocarotenoid in DMSO, Methanol, Isopropyl alcohol and Dubai crude respectively when compared with 65±3 mg/l of raw bacteriocarotenoid produced in the Control experiment 
-our of the toxic compounds were efficient to trigger carotenogenic processes needed in the production of beneficial bacteriocarotenoids, two were mild and two others were inadequate to trigger a substantial process 
+he control was grown in enhanced MYE broth containing ammonium chloride NH4Cl 0.5 g magnesium sulfate heptahydrate MgSO4.7 H2O 0.4 g calcium chloride di-hydrate CaCl.2.H2O 0.05 g sodium chloride NaCl 0.4 g malic acid or sodium hydrogen malate 1.5 g yeast extract 1.0 g in 1000mL of distilled H2O . 2.3 Biomass bacteriocarotenoid extraction and measurement The determination of whole cell optical density OD0.5 , inclusive cellular bacteriochlorophyll Bchl type together with the extraction of pigments and detection of absorption maxima λ-max of raw bacteriocarotenoid of bacterial cells were done as described 8 and slightly modified 4 
+asaki K. Simultaneous removal of chemical oxygen demand COD phosphate , nitrate and hydrogen sulphide in the synthetic sewage wastewater using porous ceramic immobilized photosynthetic bacteria 
+ydrogenobacter subterraneus sp . nov. an extremely thermophilic heterotrophic bacterium unable to grow on hydrogen gas from deep subsurface geothermal water 
+ey words Bacteriocarotenoid Toxic-mopping Bioremediation Carbon emission Rhodocista I . Introduction With the increase in greenhouse emission and high amount of toxic chemical wastes the world is becoming a more dangerous place to live in 
+IOSR Journal of Environmental Science Toxicology and Food Technology IOSR-JESTFT e-ISSN 2319-2402 p- ISSN 2319-2399.Volume 9 Issue 1 Ver 
+Jan. 2015 , PP 01-04 www.iosrjournals.org Inductive Toxic-Mopping IT-m and Carotenogenic Bioconversion Properties of Thermotolerant Rhodocista pekingensis Sp 
+ov Akinnuoye Olawale Faith-Anthony1,2 * Nazlina Ibrahim3 Akinnuoye Modupe Agnes4,5 Ainon Hamzah3 1 Academic Research and Administration MFM Group Sdn Bhd Kuala Lumpur Malaysia Formerly in School of Biosciences and Biotechnology Faculty of Science UKM 43600 Bangi Malaysia 3 School of Biosciences and Biotechnology FST National University of Malaysia 43600 Bangi Selangor Malaysia 4 Faculty of Social Sciences and Humanity National University of Malaysia 43600 Bangi Selangor Malaysia 5 Faculty of Education University of Waikato New Zealand *faithanthony.ukm @ gmail.com 2 Abstract Environmental impurities and degrading substances are major causes of pollution 
+ecause of the importance of some photosynthetic bacteria viable efficient and environment-friendly biological remediation researches have therefore become inevitably important 
+n search of these criteria there was the need for the logical merger of efficacy of the mop-up capability of the biological agents and productive beneficial end-results 
+esults showed a positive response to four of the toxic chemical compounds with the production of 65±5 mg/L 63±3 mg/L 59±3 mg/L and 53±6 mg/L yields of raw bacteriocarotenoid in DMSO Methanol Isopropyl alcohol and Dubai crude respectively when compared with 65±3 mg/l of raw bacteriocarotenoid produced in the Control experiment 
+our of the toxic compounds were efficient to trigger carotenogenic processes needed in the production of beneficial bacteriocarotenoids two were mild and two others were inadequate to trigger a substantial process 
 he improvement in carotenoid production with the assimilated toxic chemicals corroborated the efficiency of the Inductive Toxic-mopping Bioremediation pattern and beneficial convertibility of chemical wastes by Rhodocista pekingensis 
 otential man-made disasters may be looming over the continent as more of the dangerous chemicals and their derivatives are dumped in wrong places with impunity 
-he oxidation-reduction or “Redox” of pollutant chemicals with their component elements therefore, have become a focal point for Clinical Researchers, Biologists and Environmental Scientists in which phototrophic bacteria play important roles 
-herefore, the bio-cycling of dangerous compounds and bioconversion of other organic matters by this group of bacteria in a manner that favors the eco-systems and the coexistence of all biological beings that share the planet Earth become more logical 
-iologically, bacteria are very important in environmental bioremediation and rehabilitation especially in cheap treatment of waste water and other waste treatment systems [1][2] 
-he non-sulfur phototrophic bacterium Rhodocista pekingensis and many bacteria species in this group are facultative and grow either as anaerobic phototrophic under appropriate lighting condition or aerobic chemotrophic in the dark [3][4][5] 
+he oxidation-reduction or “ Redox ” of pollutant chemicals with their component elements therefore have become a focal point for Clinical Researchers Biologists and Environmental Scientists in which phototrophic bacteria play important roles 
+herefore the bio-cycling of dangerous compounds and bioconversion of other organic matters by this group of bacteria in a manner that favors the eco-systems and the coexistence of all biological beings that share the planet Earth become more logical 
+iologically bacteria are very important in environmental bioremediation and rehabilitation especially in cheap treatment of waste water and other waste treatment systems 1 [ 2 
+he non-sulfur phototrophic bacterium Rhodocista pekingensis and many bacteria species in this group are facultative and grow either as anaerobic phototrophic under appropriate lighting condition or aerobic chemotrophic in the dark 3 [ 4 [ 5 
 he anaerobic productions of bacteriocarotenoids through microbial oxidation-reduction processes have placed some bacterial species in unique positions in medical and health research 
-esults of direct enzymatic activities of Rhodocista pekingensis were confirmation of the ability to transform toxic chemicals in beneficial ways either anaerobically or otherwise under appropriate growth environment and conditions.  II.  Materials And Methods  2.1 Bacterial culture and maintenance This thermophilic strain of Rhodocista pekingensis (UKMP-WA) was cultured in malate yeast extract (MYE) broth as previously described [1][6][4] 
-he bacterial cells were observed by light and phase-contrast microscopes DOI: 10.9790/2402-09110104  www.iosrjournals.org  1 | Page  Inductive toxic-mopping (it-m) and carotenogenic bioconversion properties of thermotolerant (BX60 Olympus microscope), scanning electron microscopy (SEM) and ultrathin observations of bacterial cells were carried out as described and previously reported [4][1][7]. 2.2 Toxic-mopping and assimilation trial Toxic-mopping was carried out as outline by Akinnuoye et al [4] and minor modifications briefly described below: Fifteen milliliter volume of MYE broth was dispensed into 50mL-sized bottles with screw caps 
-ive milliliters of culture was inoculated into the broth medium and incubated as previously cited (2.1) 
-eak-specific detection of bacteriochlorophylls in living cells and carotenoid extraction was done by spectrophotometric scanning of 1 mL of 14-day old broth culture at 600 nm for bacteriochlorophyll and at 480 nm wavelengths for carotenoid extract using Cary 50® spectrophotometer (Cary Australia) 
-rude oil (Dubai) and 9 
-ram’s test was negative and cells were motile when observed by hanging-drop method under a light microscope as previously reported [1] 
-ltrathin cell observations revealed intracytoplasmic inclusions (Fig. 1)  a b c Figure 1: Metabolic assimilation by Rhodocista pekingensis showing (a) reddish pigmented growth (b) Gram negative cells and (c) flagellated negatively-stained cell 
-he growth of Rhodocista pekingensis as tabulated (Table 1) was equally normal with Dimethyl sulfoxide, Isopropyl alcohol, Methanol and Dubai crude (heavy crude oil) 
+esults of direct enzymatic activities of Rhodocista pekingensis were confirmation of the ability to transform toxic chemicals in beneficial ways either anaerobically or otherwise under appropriate growth environment and conditions . II . Materials And Methods 2.1 Bacterial culture and maintenance This thermophilic strain of Rhodocista pekingensis UKMP-WA was cultured in malate yeast extract MYE broth as previously described 1 [ 6 [ 4 
+he bacterial cells were observed by light and phase-contrast microscopes DOI 10.9790/2402-09110104 www.iosrjournals.org 1 | Page Inductive toxic-mopping it-m and carotenogenic bioconversion properties of thermotolerant BX60 Olympus microscope , scanning electron microscopy SEM and ultrathin observations of bacterial cells were carried out as described and previously reported 4 1 [ 7 . 2.2 Toxic-mopping and assimilation trial Toxic-mopping was carried out as outline by Akinnuoye et al [ 4 and minor modifications briefly described below Fifteen milliliter volume of MYE broth was dispensed into 50mL-sized bottles with screw caps 
+ive milliliters of culture was inoculated into the broth medium and incubated as previously cited 2.1 
+eak-specific detection of bacteriochlorophylls in living cells and carotenoid extraction was done by spectrophotometric scanning of 1 mL of 14-day old broth culture at 600 nm for bacteriochlorophyll and at 480 nm wavelengths for carotenoid extract using Cary 50® spectrophotometer Cary Australia 
+rude oil Dubai and 9 
+ram ’ s test was negative and cells were motile when observed by hanging-drop method under a light microscope as previously reported 1 
+ltrathin cell observations revealed intracytoplasmic inclusions Fig . 1 a b c Figure 1 Metabolic assimilation by Rhodocista pekingensis showing a reddish pigmented growth b Gram negative cells and c flagellated negatively-stained cell 
+he growth of Rhodocista pekingensis as tabulated Table 1 was equally normal with Dimethyl sulfoxide Isopropyl alcohol Methanol and Dubai crude heavy crude oil 
 he growth with Amine and Ethyl benzene was mildly supported while Cumime and Isoamyl alcohol were less supportive to the growth of Rhodocista pekingensis and cellular bacteriocarotenoid production 
-able 1: Bioconversion endpoints of Toxic-mopping inductive patterns showing Bchl, bacteriocarotenoid λmax and yields of induced and normal (controlled) propagations Cum OD0.5 Cells Bulk Caro Bcaro.Yields mg/L  0.42 0.62 25±2  Dimethyl sulfoxide 1.93 2.19 65±5  DOI: 10.9790/2402-09110104  Ethylbenzene 0.59 0.86 34±2  Isoamyl alcohol 0.49 0.74 32±7  Methanol  Amine  1.66 1.99 63±3  0.76 1.10 42±1  www.iosrjournals.org  Isopropyl Alcohol 1.59 1.98 59±3  Dubai Crude 1.25 1.79 53±6  Control 1.63 1.95 65±3  2 | Page  Inductive toxic-mopping (it-m) and carotenogenic bioconversion properties of thermotolerant Results of Bchl with λ-max and yields of bacteriocarotenoid of normal and induced propagations did show the OD0.5 of live cells at 1.93, 1.66, 1.59 and 1.79 with respective bacteriocarotenoid densities of 2.19, 1.99, 1.98 and 1.79 
-ubsequent yields were 65±5 mg/L, 63±3 mg/L, 59±3 mg/L and 53±6 mg/L of raw bacteriocarotenoids in DMSO, Methanol, Isopropyl alcohol and Dubai crude respectively (Table 1) 
-he multiple peak detections were in the regions of 350 and 374; others were detected between 442 and 453, 461 and 478, while some were between 495 and 503 nm wavelengths in the spectral range of 300 to 700 nm while the wavelength range for Bchl was between 400 to 1200nm (Fig. 2).  Figure 2: (a) Raw extracts of bacteriocarotenoid from Rhodocista pekingensis, (b) Spectrophotometric graphs of bacteriochlorophylls (top) and bacteriocarotenoids (bottom) 
-he results of chemical convertibility tests showed proportional increase in biomass production and resultant reciprocal high carotenoid yield (Table 1, Fig. 2) 
-t was apparent from the OD0.5 measurements, bacteriochlorophyll analysis and yields of bacteriocarotenoids, that there was a synchronized sequence of the pigment densities with bacteriocarotenoid yields of the bacterium 
-n other word, Rhodocista pekingensis efficaciously metabolized and/or degraded dimethyl sulfoxide, isopropyl alcohol, crude oil, and methanol with increase in biomass and subsequently increase in beneficial carotenoid production by the phototrophic bacterium 
-hese assertions were corroborated by previous findings in which phototrophic bacteria were used in water treatment and in other bioremediation processes [9][10][11] 
-edical use of Rhodocista pekingensis was discovered in the ability of carotenoids of bacteria origins which have been known to be of immense advantage especially in antioxidant and anticarcinoma studies [11][12] 
-owever, there was no significantly detectable change in both the external and the ultrathin structures of the bacterium as all the composite features were intact and appeared normal as in the controls of the trials 
+able 1 Bioconversion endpoints of Toxic-mopping inductive patterns showing Bchl bacteriocarotenoid λmax and yields of induced and normal controlled propagations Cum OD0.5 Cells Bulk Caro Bcaro.Yields mg/L 0.42 0.62 25±2 Dimethyl sulfoxide 1.93 2.19 65±5 DOI 10.9790/2402-09110104 Ethylbenzene 0.59 0.86 34±2 Isoamyl alcohol 0.49 0.74 32±7 Methanol Amine 1.66 1.99 63±3 0.76 1.10 42±1 www.iosrjournals.org Isopropyl Alcohol 1.59 1.98 59±3 Dubai Crude 1.25 1.79 53±6 Control 1.63 1.95 65±3 2 | Page Inductive toxic-mopping it-m and carotenogenic bioconversion properties of thermotolerant Results of Bchl with λ-max and yields of bacteriocarotenoid of normal and induced propagations did show the OD0.5 of live cells at 1.93 1.66 1.59 and 1.79 with respective bacteriocarotenoid densities of 2.19 1.99 1.98 and 1.79 
+ubsequent yields were 65±5 mg/L 63±3 mg/L 59±3 mg/L and 53±6 mg/L of raw bacteriocarotenoids in DMSO Methanol Isopropyl alcohol and Dubai crude respectively Table 1 
+he multiple peak detections were in the regions of 350 and 374 others were detected between 442 and 453 461 and 478 while some were between 495 and 503 nm wavelengths in the spectral range of 300 to 700 nm while the wavelength range for Bchl was between 400 to 1200nm Fig . 2 . Figure 2 a Raw extracts of bacteriocarotenoid from Rhodocista pekingensis b Spectrophotometric graphs of bacteriochlorophylls ( top and bacteriocarotenoids ( bottom 
+he results of chemical convertibility tests showed proportional increase in biomass production and resultant reciprocal high carotenoid yield Table 1 Fig . 2 
+t was apparent from the OD0.5 measurements bacteriochlorophyll analysis and yields of bacteriocarotenoids that there was a synchronized sequence of the pigment densities with bacteriocarotenoid yields of the bacterium 
+n other word Rhodocista pekingensis efficaciously metabolized and/or degraded dimethyl sulfoxide isopropyl alcohol crude oil and methanol with increase in biomass and subsequently increase in beneficial carotenoid production by the phototrophic bacterium 
+hese assertions were corroborated by previous findings in which phototrophic bacteria were used in water treatment and in other bioremediation processes 9 [ 10 [ 11 
+edical use of Rhodocista pekingensis was discovered in the ability of carotenoids of bacteria origins which have been known to be of immense advantage especially in antioxidant and anticarcinoma studies 11 [ 12 
+owever there was no significantly detectable change in both the external and the ultrathin structures of the bacterium as all the composite features were intact and appeared normal as in the controls of the trials 
 he photosynthetic materials and other intracellular materials did not display any physiological distortion 
-n other word, the possibility of the organism to remain active till most or all recovery is done is certain.  IV.  Conclusions  The prospects and the benefits of the bacteriocarotenoid produced by Rhodocista pekingensis through metabolic bioconversion are still being explored 
-owever, it could be concluded that the convertibility of toxic chemical compounds and wastes cannot be overemphasized 
+n other word the possibility of the organism to remain active till most or all recovery is done is certain . IV . Conclusions The prospects and the benefits of the bacteriocarotenoid produced by Rhodocista pekingensis through metabolic bioconversion are still being explored 
+owever it could be concluded that the convertibility of toxic chemical compounds and wastes can not be overemphasized 
 he use of Rhodocista pekingensis in environmentally related cleansing and remediation coupled with the ability of the bacterium to translate the clean-up capability into medically beneficial bye-products such as carotenoids was overwhelmingly plausible 
-inally, the use of this bacterium in the treatment of environmental pollution attributable to lethal chemicals pollutants and their derivatives were evident and could be adopted in future studies on environmental bioremediation and rehabilitation 
-OI: 10.9790/2402-09110104  www.iosrjournals.org  3 | Page  Inductive toxic-mopping (it-m) and carotenogenic bioconversion properties of thermotolerant Acknowledgements The Authors express their appreciation to the Mountain of Fire Group, Malaysia and the National University of Malaysia for their support for this research.  References [1]. [2].  [3]. [4]. [5]. [6]. [7].  [8]. [9].  [10].  [11]. [12].  O.F.A 
+inally the use of this bacterium in the treatment of environmental pollution attributable to lethal chemicals pollutants and their derivatives were evident and could be adopted in future studies on environmental bioremediation and rehabilitation 
+OI 10.9790/2402-09110104 www.iosrjournals.org 3 | Page Inductive toxic-mopping it-m and carotenogenic bioconversion properties of thermotolerant Acknowledgements The Authors express their appreciation to the Mountain of Fire Group Malaysia and the National University of Malaysia for their support for this research . References 1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9 . 10 . 11 . 12 . O.F.A 
 azlina and H 
 ltramicrotomy and structural analyses of two thermophilic non-sulphur photosynthetic bacteria 
 hiyong and S.J 
-nternational Journal of Systematic and Evolutionary Microbiology 53, 2003,1111– 1114 
+nternational Journal of Systematic and Evolutionary Microbiology 53 2003,1111– 1114 
 pplication of Electron Microscopy and Energy Dispersive X-Ray Spectroscopy in The Characterization of Rhodomicrobium vannielii 
 an and S 
 mhoff and H.G 
 he genus Rhodospirillum and related genera 
 arder and K 
 omatsu and K 
-nternational Journal of Systematic and Evolutionary Microbiology, 51, 2001, 1425–1435 H.J 
+nternational Journal of Systematic and Evolutionary Microbiology 51 2001 1425–1435 H.J 
 elis and A.P 
 rofiling and quantitation of bacterial carotenoids by LC and PAD 
 pplied and environ 
 anaka and S 
-agai, Use of photosynthetic bacteria for production of SCP and chemicals from organic wastes 
-lackie Academic and Professionals, New York, p. 247–291, 1998 
+agai Use of photosynthetic bacteria for production of SCP and chemicals from organic wastes 
+lackie Academic and Professionals New York p. 247–291 1998 
 atanabe and K 
 shizuka and N 
-ournal of Bioscience and Bioengineering 100 (5), 2005, 481-488 
-inon, Preliminary Evaluation of the Antioxidative and Anticarcinoma Activities of Bacteriocarotenoids from Bacterium Rhodopseudomonas palustris (UKM 2-5A) 
-n-going efforts to cut the world’s carbon emission have been an uphill battle with the unknown 
-e studied the previously identified thermophilic species of photosynthetic bacterium, Rhodocista pekingensis isolated from a local hot spring in Malaysia 
-nductive Toxic-mopping (IT-m) technique was used to assess the production of bacteriocarotenoids by metabolic bioconversion process of eight toxic chemical compounds by Rhodocista pekingensis 
-he toxic chemicals were added to the medium after sterilization in ratio of 1% (v/v) of test bacterium 
+ournal of Bioscience and Bioengineering 100 5 2005 , 481-488 
+inon Preliminary Evaluation of the Antioxidative and Anticarcinoma Activities of Bacteriocarotenoids from Bacterium Rhodopseudomonas palustris UKM 2-5A 
+n-going efforts to cut the world ’ s carbon emission have been an uphill battle with the unknown 
+e studied the previously identified thermophilic species of photosynthetic bacterium Rhodocista pekingensis isolated from a local hot spring in Malaysia 
+nductive Toxic-mopping IT-m technique was used to assess the production of bacteriocarotenoids by metabolic bioconversion process of eight toxic chemical compounds by Rhodocista pekingensis 
+he toxic chemicals were added to the medium after sterilization in ratio of 1 % v/v of test bacterium 
 egatively-stained cells were mostly singly flagellated with flagella attached to polar ends of the cells 
 he yields of raw bacteriocarotenoid varied slightly from the sequence of pigmentation as shown in Table 1 
-he absorption maxima (λ-Max) from spectral analyses of the bulk bacteriocarotenoids did show multiple point-specific peaks of specific carotenoids 
-n other word, these toxic chemicals were used as energy sources for growth by the bacterial cells resulting in the production of multiple bacteriocarotenoids, most of which could be of immense medical benefits 
-oreover, the chemicals acted as enhancers for this organism in the production of bulk of raw carotenoids, the effects of which could be seen 
+he absorption maxima λ-Max from spectral analyses of the bulk bacteriocarotenoids did show multiple point-specific peaks of specific carotenoids 
+n other word these toxic chemicals were used as energy sources for growth by the bacterial cells resulting in the production of multiple bacteriocarotenoids most of which could be of immense medical benefits 
+oreover the chemicals acted as enhancers for this organism in the production of bulk of raw carotenoids the effects of which could be seen 
 his showed the resilience of the bacterium in the face of damaging effects of toxic chemical compounds 
-omparison of ultrastructure of four thermophilic photosynthetic bacteria isolated from Malaysian hot springs. 10th Symposium of the Malaysian Society of Applied Biology, 2008 
+omparison of ultrastructure of four thermophilic photosynthetic bacteria isolated from Malaysian hot springs . 10th Symposium of the Malaysian Society of Applied Biology 2008 
 hang H 
-alows, H 
-umene, 2 
-alaysian Journal of Microbiology 2 (1), 2006, 15-21 
+alows H 
+umene 2 
+alaysian Journal of Microbiology 2 1 2006 , 15-21 
 he shape was spiral or vibriod with length ranging between 0.6-0.8 µm 

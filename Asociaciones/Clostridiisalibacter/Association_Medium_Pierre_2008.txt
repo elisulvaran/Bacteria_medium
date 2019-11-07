@@ -1,151 +1,154 @@
-ulfate (20 mM), thiosulfate (20 mM), elemental sulfur (0.1 %), sulfite (2 mM), nitrate (20 mM) nitrite (2 mM) and oxygen were not used as electron acceptors 
-he sulfur test was realized photometrically as collodial CuS (Fardeau et al., 1997), and the nitrate or nitrite reduction were assayed by using specific sticks (Quantofix; Machelez Nagel) 
-ulfur, sulfate, thiosulfate, nitrate and nitrite are not necessary for growth 
-his genus has been defined as containing Gram-positive, anaerobic, rod-shaped and spore-forming bacteria unable to carry out dissimilatory sulfate reduction (Cato et al., 1986; Hippe et al., 1992) 
-ulfate, thiosulfate, sulfite and elemental sulfur were separately added to the growth medium at final concentrations of 20 mM, 20 mM, 2 mM and 0.1 % (w/v), respectively, for potential use as an electron sink 
-ajor fatty acid components were iso-C17 : 1v10c or anteiso-C17 : 1v3c (19.3 %), C14 : 0 (14.3 %), C16 : 1v7c (9.9 %), C16 : 1v7c DMA (8.5 %) and C16 : 0 (7.6 %) 
-atty acid methyl esters (FAMEs) were analysed at the CCUG (Göteborg, Sweden) using the Microbial Identification System (Microbial ID), and strain 37HS60T was compared to the available fatty acid database 
-or FAME analysis, bacteria were grown on marine agar at 37 uC. 37HS60T has an original cellular fatty acid profile, containing large amounts of saturated and unsatured fatty acids 
-ellular fatty acid content of strain 37HS60T Fatty acids Unknown 9.730 iso-C13 : 0 2-OH FAME C14 : 0 FAME iso-C15 : 1v7c FAME iso-C13 : 0 3-OH FAME iso-C15 : 0 FAME anteiso-C15 : 0 FAME Unknown 14.776 Unknown 14.949 C16 : 1v9c FAME C16 : 1v7c FAME C16 : 0 FAME C16 : 1v9c dimethyl acetyl C16 : 1v7c dimethyl acetyl anteiso-C17 : 1v9c FAME C17 : 1 v10c or anteiso-C17 : 1v3c FAME C17cyc FAME C17cyc dimethyl acetyl  Percentage (w/w) of total fatty acids 7.0 3.2 14.3 2.2 1.3 6.6 1.5 3.8 4.5 2.5 9.9 7.6 1.8 8.5 2.2 19.3 2.2 1.6  strains were Caloranaerobacter azorensis DSM 13643T (92.0 % similarity), isolated from a deep-sea hydrothermal vent (Wery et al., 2001), and Clostridium purinilyticum DSM 1384T, isolated from soils exposed to chicken manure and from sewage sludge enriched with adenine (90.6 % similarity) 
-naerobe 4, 283–291.  Isolation of Clostridium bifermentans from oil mill wastewaters converting cinnamic acid to 3-phenylpropionic acid and emendation of the species 
-nt J Syst Bacteriol 44, 846–849.  measurement of the G+C content of deoxyribonucleic acid by high-performance liquid chromatography 
-he basal medium contained (l21): 0.3 g KH2PO4, 0.3 g K2HPO4, 1.0 g NH4Cl, 50 g NaCl, 0.1 g KCl, 0.1 g CaCl2 . 2H2O, 10 ml trace mineral element solution (Balch et al., 1979) and 1 ml 0.1 % (w/v) resazurin 
-nd products from pyruvate fermentation were acetate, H2 and CO2 
-International Journal of Systematic and Evolutionary Microbiology (2008), 58, 61–67  DOI 10.1099/ijs.0.65182-0  Clostridiisalibacter paucivorans gen. nov., sp. nov., a novel moderately halophilic bacterium isolated from olive mill wastewater Pierre-Pol Liebgott,1 Manon Joseph,1 Marie-Laure Fardeau,1 Jean-Luc Cayol,1 Enevold Falsen,2 Fatima Chamkh,3 Abdel-Illah Qatibi3 and Marc Labat1 1  Correspondence Marc Labat marc.labat@esil.univmed.fr  Microbiologie et Biotechnologie des Environnements Chauds, UMR D180, IRD, Universités de Provence et de la Méditerranée, 163 Avenue de Luminy, Case 925, F-13288 Marseille Cedex 9, France  2  CCUG, Culture Collection, University of Göteborg, Guldhedsgatan 10, SE-413 46 Göteborg, Sweden  3  Laboratoire de Génie Microbiologique, B.P. 549, Faculté des Sciences et Techniques, Université Cadi Ayyad, 40000 Marrakech, Morocco  A moderately halophilic, strictly anaerobic bacterium, designated 37HS60T, was isolated from an olive mill wastewater in southern Morocco (Marrakesh) 
-he cells were straight, motile and stained Gram-positive, forming spherical and terminal spores and with an atypical thick and stratified multilayered cell wall 
-train 37HS60T grew from 20 to 50 6C with an optimum at 40–45 6C, and growth was observed from pH 5.5 to 8.5 with an optimum of 6.8 
+ulfate 20 mM , thiosulfate 20 mM , elemental sulfur 0.1 % , sulfite 2 mM , nitrate 20 mM nitrite 2 mM and oxygen were not used as electron acceptors 
+he sulfur test was realized photometrically as collodial CuS Fardeau et al. 1997 , and the nitrate or nitrite reduction were assayed by using specific sticks Quantofix Machelez Nagel 
+ulfur sulfate thiosulfate nitrate and nitrite are not necessary for growth 
+oes not use elemental sulfur sulfate thiosulfate sulfite nitrate nitrite or oxygen as electron acceptors 
+his genus has been defined as containing Gram-positive anaerobic rod-shaped and spore-forming bacteria unable to carry out dissimilatory sulfate reduction Cato et al. 1986 Hippe et al. 1992 
+he basal medium contained l21 : 0.3 g KH2PO4 0.3 g K2HPO4 1.0 g NH4Cl 50 g NaCl 0.1 g KCl 0.1 g CaCl2 . 2H2O 10 ml trace mineral element solution Balch et al. 1979 and 1 ml 0.1 % w/v resazurin 
+ulfate thiosulfate sulfite and elemental sulfur were separately added to the growth medium at final concentrations of 20 mM 20 mM 2 mM and 0.1 % w/v respectively , for potential use as an electron sink 
+ajor fatty acid components were iso-C17 1v10c or anteiso-C17 1v3c 19.3 % , C14 0 14.3 % , C16 1v7c 9.9 % , C16 1v7c DMA 8.5 % and C16 0 7.6 % 
+atty acid methyl esters FAMEs were analysed at the CCUG Göteborg Sweden using the Microbial Identification System Microbial ID , and strain 37HS60T was compared to the available fatty acid database 
+or FAME analysis bacteria were grown on marine agar at 37 uC . 37HS60T has an original cellular fatty acid profile containing large amounts of saturated and unsatured fatty acids 
+ther amino acids such as threonine glycine proline tyrosine phenylalanine leucine isoleucine alanine arginine tryptophan asparagine aspartic acid glutamine glutamic acid methionine and histidine did not support growth 
+ellular fatty acid content of strain 37HS60T Fatty acids Unknown 9.730 iso-C13 0 2-OH FAME C14 0 FAME iso-C15 1v7c FAME iso-C13 0 3-OH FAME iso-C15 0 FAME anteiso-C15 0 FAME Unknown 14.776 Unknown 14.949 C16 1v9c FAME C16 1v7c FAME C16 0 FAME C16 1v9c dimethyl acetyl C16 1v7c dimethyl acetyl anteiso-C17 1v9c FAME C17 1 v10c or anteiso-C17 1v3c FAME C17cyc FAME C17cyc dimethyl acetyl Percentage w/w of total fatty acids 7.0 3.2 14.3 2.2 1.3 6.6 1.5 3.8 4.5 2.5 9.9 7.6 1.8 8.5 2.2 19.3 2.2 1.6 strains were Caloranaerobacter azorensis DSM 13643T 92.0 % similarity isolated from a deep-sea hydrothermal vent Wery et al. 2001 , and Clostridium purinilyticum DSM 1384T , isolated from soils exposed to chicken manure and from sewage sludge enriched with adenine 90.6 % similarity 
+naerobe 4 283–291 . Isolation of Clostridium bifermentans from oil mill wastewaters converting cinnamic acid to 3-phenylpropionic acid and emendation of the species 
+nt J Syst Bacteriol 44 846–849 . measurement of the G+C content of deoxyribonucleic acid by high-performance liquid chromatography 
+nd products from pyruvate fermentation were acetate H2 and CO2 
+International Journal of Systematic and Evolutionary Microbiology 2008 58 61–67 DOI 10.1099/ijs.0.65182-0 Clostridiisalibacter paucivorans gen. nov. sp . nov. a novel moderately halophilic bacterium isolated from olive mill wastewater Pierre-Pol Liebgott,1 Manon Joseph,1 Marie-Laure Fardeau,1 Jean-Luc Cayol,1 Enevold Falsen,2 Fatima Chamkh,3 Abdel-Illah Qatibi3 and Marc Labat1 1 Correspondence Marc Labat marc.labat @ esil.univmed.fr Microbiologie et Biotechnologie des Environnements Chauds UMR D180 IRD Universités de Provence et de la Méditerranée 163 Avenue de Luminy Case 925 F-13288 Marseille Cedex 9 France 2 CCUG Culture Collection University of Göteborg Guldhedsgatan 10 SE-413 46 Göteborg Sweden 3 Laboratoire de Génie Microbiologique B.P . 549 Faculté des Sciences et Techniques Université Cadi Ayyad 40000 Marrakech Morocco A moderately halophilic strictly anaerobic bacterium designated 37HS60T , was isolated from an olive mill wastewater in southern Morocco Marrakesh 
+he cells were straight motile and stained Gram-positive forming spherical and terminal spores and with an atypical thick and stratified multilayered cell wall 
+train 37HS60T grew from 20 to 50 6C with an optimum at 40–45 6C and growth was observed from pH 5.5 to 8.5 with an optimum of 6.8 
 train 37HS60T exhibited highest 16S rRNA gene sequence similarity of 92.0 % with Caloranaerobacter azorensis and 90.6 % with Clostridium purinilyticum 
-oreover, 37HS60T did not grow on basal medium with hexose or pentose sugars as carbon and energy sources 
-yruvate, fumarate and succinate were the best substrates for 37HS60T growth with 1.0 g yeast extract l”1 
-ue to its phenotypic and genotypic characteristics, isolate 37HS60T is proposed as a novel species of a new genus, Clostridiisalibacter paucivorans gen. nov., sp. nov 
-MW presents a high organic load, including sugars, tannins, polyphenols, polyalcohols, pectins, lipids and a wide variety of simple aromatic compounds resulting from olive cell-wall degradation during the oil extraction process (Balice & Cera, 1984; Hamdi, 1993; Labat et al., 2000; Lesage-Meesen et al., 2001) 
-his effluent is discharged directly into sewage systems and water streams, despite the fact that such disposal methods are prohibited in many Mediterranean countries 
-icrobiological studies on OMW or digesters treating these wastes have revealed the presence of metabolically diverse anaerobic bacteria (Mechichi et al., 1998, 1999a, b, 2000; Chamkha et al., 2001a, b; Thabet et al., 2004), all of which are anaerobic species belonging to the order Clostridiales and affiliated to the genus Clostridium 
-ollins et al. (1994) used rDNA phylogenetic analysis to define 15 clusters within the genus Clostridium, and they subsequently proposed five new  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:39:14  Printed in Great Britain  61  P.-P 
-iebgott and others  genera: Caloramator, Filifactor, Moorella, Oxobacter and Oxalophagus 
-luster XII, for example, recognized as being phenotypically incoherent, contains four Clostridium species, closely related to other genera such as Tissierella (Farrow et al., 1995), Thermohalobacter (Cayol et al., 2000), Caloranaerobacter (Wery et al., 2001), Sporanaerobacter (HernandezEugenio et al., 2002), Sedimentibacter (Breitenstein et al., 2002), Soehngenia (Parshina et al., 2003) and Garciella (Miranda-Tello et al., 2003) 
-hese genera, isolated from diverse environments, include non-spore-forming, Gramnegative and -positive bacteria 
-n cluster XII, the species are either mesophilic or thermophilic, and even halophilic 
-he mud was transferred (i) into 50 ml serum vials closed with butyl rubber stoppers then stored at 4 uC, and (ii) into 1.8 ml cryotubes containing 2 % glycerol (v/v), added as a cryoprotectant, then stored at 220 uC until processing 
-he Hungate technique (Hungate, 1969) was used throughout the isolation procedure and the physiological and metabolic characterization 
-he basal medium was boiled under a stream of O2-free N2 gas, cooled to room temperature, and 5 ml aliquots were distributed into Hungate tubes under a stream of O2-free N2 gas 
-he N2 gas phase was replaced with N2/CO2 (80 : 20) and the tubes were autoclaved 
-rior to inoculation, 0.05 ml Na2S . 9H2O (2 %, w/v), 0.1 ml NaHCO3 (10 %, w/v) and 0.1 ml MgCl2 . 6H2O (150 g l21) were added 
-ositive enrichment cultures were obtained after 7 days incubation at 37 uC, and microscopic examination revealed the presence of motile, rod-shaped bacteria 
-ingle colonies (0.8–1.0 mm diam.), which developed in the roll tubes after 96 h incubation at 37 uC, were picked up and tenfold serial dilutions were performed in the roll tubes at least twice before the culture was considered to be pure 
-everal axenic cultures were obtained using this procedure, and one strain, named 37HS60T, was used for further characterization 
-train 37HS60T was a straight, thin, long rod (0.5 mm63.0–8.0 mm), motile by means of peritrichous flagella (Fig. 1a), that stained Gram-positive and formed spherical and terminal spores (Fig. 1b) which appeared mainly in old cultures 
-t exhibited a thick and stratified cell wall composed of dense multilayers, including a cytoplasmic membrane and an atypical thick and multilayered peptidoglycan, covered by an S-layer (Fig. 1c) 
-he fatty acids detected were iso-C17 : 1v10c or anteiso-C17 : 1v3c (19.3 %), C14 : 0 (14.3 %), C16 : 1v7c (9.9 %), C16 : 1v7c DMA (8.5 %), C16 : 0 (7.6 %) and a weak proportion of diverse fatty acids (Table 1) 
- large proportion of both the major and weak fatty acids, as well as unknown fatty acids which are listed in Table 1, are rarely encountered and this atypical profile was unexpected for a Gram-positive bacterium 
-nly three organic acids (20 mM) were used as carbon and energy sources: succinate, fumarate and pyruvate 
-uccinate was  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 58 IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:39:14  Clostridiisalibacter paucivorans gen. nov., sp. nov.  lysine and serine, and isobutyrate was formed from valine 
-ther amino acids, such as threonine, glycine, proline, tyrosine, phenylalanine, leucine, isoleucine, alanine, arginine, tryptophan, asparagine, aspartic acid, glutamine glutamic acid, methionine and histidine did not support growth 
-itrate and nitrite utilization tests were carried out in triplicate, in butyl-capped Hungate tubes filled with 5 ml pre-reduced medium (without resazurin and Na2S) distributed under a nitrogen atmosphere 
+oreover 37HS60T did not grow on basal medium with hexose or pentose sugars as carbon and energy sources 
+yruvate fumarate and succinate were the best substrates for 37HS60T growth with 1.0 g yeast extract l ” 1 
+ue to its phenotypic and genotypic characteristics isolate 37HS60T is proposed as a novel species of a new genus Clostridiisalibacter paucivorans gen. nov. sp . nov 
+MW presents a high organic load including sugars tannins polyphenols polyalcohols pectins lipids and a wide variety of simple aromatic compounds resulting from olive cell-wall degradation during the oil extraction process Balice & Cera 1984 Hamdi 1993 Labat et al. 2000 Lesage-Meesen et al. 2001 
+his effluent is discharged directly into sewage systems and water streams despite the fact that such disposal methods are prohibited in many Mediterranean countries 
+icrobiological studies on OMW or digesters treating these wastes have revealed the presence of metabolically diverse anaerobic bacteria Mechichi et al. 1998 1999a b 2000 Chamkha et al. 2001a b Thabet et al. 2004 , all of which are anaerobic species belonging to the order Clostridiales and affiliated to the genus Clostridium 
+ollins et al . 1994 used rDNA phylogenetic analysis to define 15 clusters within the genus Clostridium and they subsequently proposed five new Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Sat 17 Feb 2018 05:39:14 Printed in Great Britain 61 P.-P 
+iebgott and others genera Caloramator Filifactor Moorella Oxobacter and Oxalophagus 
+luster XII for example recognized as being phenotypically incoherent contains four Clostridium species closely related to other genera such as Tissierella Farrow et al. 1995 Thermohalobacter Cayol et al. 2000 Caloranaerobacter Wery et al. 2001 Sporanaerobacter HernandezEugenio et al. 2002 , Sedimentibacter Breitenstein et al. , 2002 , Soehngenia Parshina et al. , 2003 and Garciella Miranda-Tello et al. , 2003 
+hese genera isolated from diverse environments include non-spore-forming Gramnegative and -positive bacteria 
+n cluster XII the species are either mesophilic or thermophilic and even halophilic 
+he mud was transferred i into 50 ml serum vials closed with butyl rubber stoppers then stored at 4 uC and ii into 1.8 ml cryotubes containing 2 % glycerol v/v added as a cryoprotectant , then stored at 220 uC until processing 
+he Hungate technique Hungate 1969 was used throughout the isolation procedure and the physiological and metabolic characterization 
+he basal medium was boiled under a stream of O2-free N2 gas cooled to room temperature and 5 ml aliquots were distributed into Hungate tubes under a stream of O2-free N2 gas 
+he N2 gas phase was replaced with N2/CO2 80 20 and the tubes were autoclaved 
+rior to inoculation 0.05 ml Na2S . 9H2O 2 % w/v 0.1 ml NaHCO3 10 % , w/v and 0.1 ml MgCl2 . 6H2O 150 g l21 were added 
+ositive enrichment cultures were obtained after 7 days incubation at 37 uC and microscopic examination revealed the presence of motile rod-shaped bacteria 
+ingle colonies 0.8–1.0 mm diam . which developed in the roll tubes after 96 h incubation at 37 uC , were picked up and tenfold serial dilutions were performed in the roll tubes at least twice before the culture was considered to be pure 
+everal axenic cultures were obtained using this procedure and one strain named 37HS60T was used for further characterization 
+train 37HS60T was a straight thin long rod 0.5 mm63.0–8.0 mm , motile by means of peritrichous flagella Fig . 1a , that stained Gram-positive and formed spherical and terminal spores Fig . 1b which appeared mainly in old cultures 
+t exhibited a thick and stratified cell wall composed of dense multilayers including a cytoplasmic membrane and an atypical thick and multilayered peptidoglycan covered by an S-layer Fig . 1c 
+he fatty acids detected were iso-C17 1v10c or anteiso-C17 1v3c 19.3 % , C14 0 14.3 % , C16 1v7c 9.9 % , C16 1v7c DMA 8.5 % , C16 0 7.6 % and a weak proportion of diverse fatty acids Table 1 
+large proportion of both the major and weak fatty acids as well as unknown fatty acids which are listed in Table 1 are rarely encountered and this atypical profile was unexpected for a Gram-positive bacterium 
+nly three organic acids 20 mM were used as carbon and energy sources succinate fumarate and pyruvate 
+uccinate was Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 58 IP 189.155.188.202 On Sat 17 Feb 2018 05:39:14 Clostridiisalibacter paucivorans gen. nov. sp . nov. lysine and serine and isobutyrate was formed from valine 
+itrate and nitrite utilization tests were carried out in triplicate in butyl-capped Hungate tubes filled with 5 ml pre-reduced medium without resazurin and Na2S distributed under a nitrogen atmosphere 
 hese tests were realized under similar conditions without pre-reducing the medium and without a nitrogen atmosphere to measure oxygen utilization 
-rowth of strain 37HS60T was inhibited by the addition of three different classes of antibiotic compounds: chloramphenicol (25 mg ml21), penicillin G (300 mg ml21) and streptomycin (150 mg ml21).  Fig. 1. (a) Electron micrograph of a negatively stained culture of strain 37HS60T, showing peritrichous flagella 
-ar, 5 mm. (c) Electron micrograph of an ultrathin section of strain 37HS60T, showing the atypical Gram-positive cell wall structure composed of dense and stratified multiple layers 
-ar, 0.2 mm.  The DNA G+C content, determined by the Identification Service of the DSMZ (Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH, Braunschweig, Germany) using the method of Mesbah et al. (1989), was 33.0 mol%.  totally transformed into propionate and fumarate was slowly reduced to succinate 
-ellobiose, cellulose, fructose, galactose, glucose, lactose, maltose, mannose, ribose, sucrose, xylose, glycerol, mannitol, ethanol, methanol, acetate, propionate, lactate, citrate, xylan and starch were not used.  Genomic DNA of 37HS60T was extracted using the Wizard Genomic DNA Purification kit, according to the manufacturer’s protocol (Promega) 
-he universal primers Fd1 (59CAGAGTTTGATCCTGGCTCAG-39) and R6 (59TACGGTTACCTTGTTACGAC-39) were used to amplify the SSU rRNA gene 
-eference sequences were obtained from the Ribosomal Database Project II (Maidak et al., 2001) and GenBank databases (Benson et al., 1999) 
-ts topology was also supported by using the maximumparsimony and maximum-likelihood algorithms.  Strain 37HS60T grew heterotrophically on peptone, biotrypticase, and Casamino acids (1.0 g l21) 
-iebgott and others  Table 1 
-ther related species that exhibited ,90 % similarity were Clostridium acidurici ATCC 7906T and Thermohalobacter berrensis CNCM 105955T (89.7 and 89.1 %, respectively) 
-ccording to its phylogenetic position and the value accepted as the criterion for the delineation of different species (Stackebrandt & Goebel, 1994), our novel isolate probably represents a novel species and a novel genus in cluster XII of the Clostridiales, since its  phylogenetic distance was equal to or lower than 92.0 % from Caloranaerobacter azorensis DSM 13643T and Clostridium purinilyticum DSM 1384T 
-his is strongly supported by important differences in genetic and physiological traits (Table 2) 
-qually, strain 37HS60T differs physiologically from Caloranaerobacter azorensis in terms of carbohydrates used, temperature and NaCl concentration ranges for growth 
-train 37HS60T was able to grow at temperatures up to 50 uC and is thermotolerant (optimum 42 uC), although it was unable to grow at 55 uC, while C. azorensis has an optimal temperature for growth of 65 uC 
-n addition, unlike Caloranaerobacter azorensis, strain 37HS60T was unable to grow on starch or any other sugar and unable to produce H2S from sulfur 
-econdly, strain 37HS60T differed from Clostridium purinilyticum (Dürre et al., 1981) in terms of purine use, temperature range and NaCl concentration for growth 
-ence, Clostridium purinilyticum is a mesophilic, non-halophilic species, whereas strain 37HS60T is thermotolerant and moderately halophilic 
-y contrast, strain 37HS60T is not purinolytic and degrades some amino acids, unlike Clostridium purinilyticum which degrades only glycine 
-hylogenetic dendrogram based on 1281 unambiguous base pairs of the 16S rRNA gene sequence, showing the position of the novel genus and species Clostridiisalibacter paucivorans 37HS60T 
-umbers in parentheses are GenBank/EMBL/DDBJ accession numbers for the 16S rRNA gene sequences. 64  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 58 IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:39:14  Clostridiisalibacter paucivorans gen. nov., sp. nov.  Table 2 
-ll three strains were negative for the Stickland reaction, reduction of S2 O2{ and utilization of acetate 
-od-shaped, Gram-positive bacterium, forming spherical and terminal spores 
+rowth of strain 37HS60T was inhibited by the addition of three different classes of antibiotic compounds chloramphenicol 25 mg ml21 penicillin G 300 mg ml21 and streptomycin 150 mg ml21 . Fig . 1 . a Electron micrograph of a negatively stained culture of strain 37HS60T , showing peritrichous flagella 
+ar 5 mm . c Electron micrograph of an ultrathin section of strain 37HS60T showing the atypical Gram-positive cell wall structure composed of dense and stratified multiple layers 
+ar 0.2 mm . The DNA G+C content determined by the Identification Service of the DSMZ Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH Braunschweig Germany using the method of Mesbah et al . 1989 , was 33.0 mol % . totally transformed into propionate and fumarate was slowly reduced to succinate 
+ellobiose cellulose fructose galactose glucose lactose maltose mannose ribose sucrose xylose glycerol mannitol ethanol methanol acetate propionate lactate citrate xylan and starch were not used . Genomic DNA of 37HS60T was extracted using the Wizard Genomic DNA Purification kit according to the manufacturer ’ s protocol Promega 
+he universal primers Fd1 59CAGAGTTTGATCCTGGCTCAG-39 and R6 59TACGGTTACCTTGTTACGAC-39 were used to amplify the SSU rRNA gene 
+eference sequences were obtained from the Ribosomal Database Project II Maidak et al. 2001 and GenBank databases Benson et al. 1999 
+ts topology was also supported by using the maximumparsimony and maximum-likelihood algorithms . Strain 37HS60T grew heterotrophically on peptone biotrypticase and Casamino acids 1.0 g l21 
+iebgott and others Table 1 
+ther related species that exhibited ,90 % similarity were Clostridium acidurici ATCC 7906T and Thermohalobacter berrensis CNCM 105955T 89.7 and 89.1 % respectively 
+ccording to its phylogenetic position and the value accepted as the criterion for the delineation of different species Stackebrandt & Goebel 1994 our novel isolate probably represents a novel species and a novel genus in cluster XII of the Clostridiales , since its phylogenetic distance was equal to or lower than 92.0 % from Caloranaerobacter azorensis DSM 13643T and Clostridium purinilyticum DSM 1384T 
+his is strongly supported by important differences in genetic and physiological traits Table 2 
+qually strain 37HS60T differs physiologically from Caloranaerobacter azorensis in terms of carbohydrates used temperature and NaCl concentration ranges for growth 
+train 37HS60T was able to grow at temperatures up to 50 uC and is thermotolerant optimum 42 uC although it was unable to grow at 55 uC , while C. azorensis has an optimal temperature for growth of 65 uC 
+n addition unlike Caloranaerobacter azorensis strain 37HS60T was unable to grow on starch or any other sugar and unable to produce H2S from sulfur 
+econdly strain 37HS60T differed from Clostridium purinilyticum Dürre et al. 1981 in terms of purine use temperature range and NaCl concentration for growth 
+ence Clostridium purinilyticum is a mesophilic non-halophilic species whereas strain 37HS60T is thermotolerant and moderately halophilic 
+y contrast strain 37HS60T is not purinolytic and degrades some amino acids unlike Clostridium purinilyticum which degrades only glycine 
+hylogenetic dendrogram based on 1281 unambiguous base pairs of the 16S rRNA gene sequence showing the position of the novel genus and species Clostridiisalibacter paucivorans 37HS60T 
+umbers in parentheses are GenBank/EMBL/DDBJ accession numbers for the 16S rRNA gene sequences . 64 Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 58 IP 189.155.188.202 On Sat 17 Feb 2018 05:39:14 Clostridiisalibacter paucivorans gen. nov. sp . nov. Table 2 
+ll three strains were negative for the Stickland reaction reduction of S2 O2 and utilization of acetate 
+od-shaped Gram-positive bacterium forming spherical and terminal spores 
 oderate halophilic and thermotolerant 
-naerobic, chemo-organotroph able to grow on yeast extract, peptone and Casamino acids 
-he major cellular fatty acids are iso-C17 : 1v10c or anteisoC17 : 1v3c (19.3 %), C14 : 0 (14.3 %) and C16 : 1v7c (9.9 %) 
-. adj. paucus little; L. v. vorare to eat; N.L. part. adj. paucivorans eating little, relating to the observation that the organism utilizes few fatty acids and few amino acids) 
+naerobic chemo-organotroph able to grow on yeast extract peptone and Casamino acids 
+he major cellular fatty acids are iso-C17 1v10c or anteisoC17 1v3c 19.3 % , C14 0 14.3 % and C16 1v7c 9.9 % 
+. adj . paucus little L. v. vorare to eat N.L . part . adj . paucivorans eating little relating to the observation that the organism utilizes few fatty acids and few amino acids 
 otile and peritrichous 
-he fatty acids detected were isoC17 : 1v10c or anteiso-C17 : 1v3c (19.3 %), C14 : 0 (14.3 %), C16 : 1v7c (9.9 %), C16 : 1v7c DMA (8.5 %), C16 : 0 (7.6 %) and a weak proportion of diverse fatty acids 
-rowth occurs between 25 and 50 uC (optimum 42 uC) 
-he optimum pH for growth is 6.8, but growth occurs between pH 5.5 and 8.5 
-rows on yeast extract, peptone, Bio-trypticase and Casamino acids 
-iebgott and others  extract (0.1 g l21): pyruvate, succinate, fumarate 
-he following amino acids are used in the presence of yeast extract (0.1 g l21): cysteine, serine, lysine (oxidized to acetate) and valine (oxidized to isobutyrate) 
-he following tests are negative: b-galactosidase, arginine dihydrolase, lysine and ornithine decarboxylases, Simmons’ citrate, H2S production, urease, tryptophan deaminase, and indole and acetoin production (Voges–Proskauer reaction) 
-  T  T  The type strain, 37HS60 (5JCM 14354 5CCUG 53849 ), was isolated from OMW stored in an evaporation pond in southern Morocco (Marrakesh).  Acknowledgements We gratefully acknowledge Laurence Casalot and Jean Lorquin for valuable advice and Olfa Haouari for technical assistance 
+he fatty acids detected were isoC17 1v10c or anteiso-C17 1v3c 19.3 % , C14 0 14.3 % , C16 1v7c 9.9 % , C16 1v7c DMA 8.5 % , C16 0 7.6 % and a weak proportion of diverse fatty acids 
+rowth occurs between 25 and 50 uC optimum 42 uC 
+he optimum pH for growth is 6.8 but growth occurs between pH 5.5 and 8.5 
+rows on yeast extract peptone Bio-trypticase and Casamino acids 
+iebgott and others extract 0.1 g l21 : pyruvate succinate fumarate 
+he following amino acids are used in the presence of yeast extract 0.1 g l21 : cysteine serine lysine oxidized to acetate and valine oxidized to isobutyrate 
+he following tests are negative b-galactosidase arginine dihydrolase lysine and ornithine decarboxylases Simmons ’ citrate H2S production urease tryptophan deaminase and indole and acetoin production Voges–Proskauer reaction 
+T T The type strain 37HS60 5JCM 14354 5CCUG 53849 , was isolated from OMW stored in an evaporation pond in southern Morocco Marrakesh . Acknowledgements We gratefully acknowledge Laurence Casalot and Jean Lorquin for valuable advice and Olfa Haouari for technical assistance 
 homas for electron microscopy and J.-L 
-holozan for improving the manuscript.  The phylogeny of the genus Clostridium: proposal of five new genera and eleven new species combinations 
-solation and  characterization of an adenine-utilizing, anaerobic sporeformer, Clostridium purinolyticum sp. nov 
-hylogenetic evidence that the Gram-negative nonsporulating  bacterium Tissierella (Bacteroides) praeacuta is a member of the Clostridium subphylum of the Gram-positive bacteria and description of Tissierella creatini sp. nov 
-ioEdit: a user-friendly biological sequence  alignment editor and analysis program for Windows 95/98/NT 
-uture prospects and constraints of olive mill wastewaters use and treatment: a review 
-eclassification of Clostridium hydroxybenzoicum  as Sedimentibacter hydroxybenzoicus gen. nov., comb. nov., and description of Sedimentibacter saalensis sp. nov 
+holozan for improving the manuscript . The phylogeny of the genus Clostridium proposal of five new genera and eleven new species combinations 
+solation and characterization of an adenine-utilizing anaerobic sporeformer Clostridium purinolyticum sp . nov 
+hylogenetic evidence that the Gram-negative nonsporulating bacterium Tissierella Bacteroides praeacuta is a member of the Clostridium subphylum of the Gram-positive bacteria and description of Tissierella creatini sp . nov 
+ioEdit a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT 
+uture prospects and constraints of olive mill wastewaters use and treatment a review 
+eclassification of Clostridium hydroxybenzoicum as Sedimentibacter hydroxybenzoicus gen. nov. comb . nov. and description of Sedimentibacter saalensis sp . nov 
 axonomy and phylogeny 
-n  coffee and comparison with olive 
-n Coffee Biotechnology and Quality, pp. 517–531 
-. & Garcia, J.-L. (2001a).  29, 173–174.  Isolation of a cinnamic acid-metabolizing Clostridium glycolicum strain from oil mill wastewaters and emendation of the species description 
-yst Appl Microbiol 22, 366–371.  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 58 IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:39:14  Clostridiisalibacter paucivorans gen. nov., sp. nov. aromatic o-demethylating homoacetogen from an olive mill wastewater treatment digester 
-axonomic note: a place  for DNA–DNA reassociation and 16S rRNA sequence analysis in the present species definition in bacteriology 
+n coffee and comparison with olive 
+n Coffee Biotechnology and Quality pp . 517–531 
+. & Garcia J.-L. 2001a . 29 173–174 . Isolation of a cinnamic acid-metabolizing Clostridium glycolicum strain from oil mill wastewaters and emendation of the species description 
+yst Appl Microbiol 22 366–371 . Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 58 IP 189.155.188.202 On Sat 17 Feb 2018 05:39:14 Clostridiisalibacter paucivorans gen. nov. sp . nov. aromatic o-demethylating homoacetogen from an olive mill wastewater treatment digester 
+axonomic note a place for DNA–DNA reassociation and 16S rRNA sequence analysis in the present species definition in bacteriology 
 axonomy and systematics 
-hylogenetic relationships.  gen. nov., sp. nov., an anaerobic, thermophilic, nitrate- and thiosulfate-reducing bacterium isolated from oilfield separator in the Gulf of Mexico 
-oehngenia saccharolytica gen. nov., sp. nov., and  Clostridium amygdalinum sp. nov., two novel anaerobic, benzaldehyde-converting bacteria 
-nt J Syst Evol Microbiol 53, 1791–1799.  Clostridia, Biotechnology and Medical Applications, pp. 19–48 
-n The Clostridia: Molecular Biology and Pathogenesis, pp. 3–19 
+hylogenetic relationships . gen. nov. sp . nov. an anaerobic thermophilic nitrate- and thiosulfate-reducing bacterium isolated from oilfield separator in the Gulf of Mexico 
+oehngenia saccharolytica gen. nov. sp . nov. and Clostridium amygdalinum sp . nov. two novel anaerobic benzaldehyde-converting bacteria 
+nt J Syst Evol Microbiol 53 1791–1799 . Clostridia Biotechnology and Medical Applications pp . 19–48 
+n The Clostridia Molecular Biology and Pathogenesis pp . 3–19 
 hylogenetic analysis based on 16S rRNA gene sequences revealed that strain 37HS60T fell within the evolutionary radiation enclosed by cluster XII of the Clostridium subphylum 
-he type strain is 37HS60T (5JCM 14354T5CCUG 53849T).  Olive mill wastewater (OMW) is a major environmental problem in the Mediterranean region, where more than 36107 m3 of this residue is produced annually 
-his is due to the current lack of Abbreviation: OMW, olive mill wastewater 
-he GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of 37HS60T is EF026082.  65182 G 2008 IUMS  appropriate alternative technologies to treat OMW properly, mainly in the south of the region 
-hylogenetically, however, the genus still embraces a high number of organisms from many different genera that are not defined by Clostridium-specific phenotypes (Cato & Stackebrandt, 1989; Lawson et al., 1993; Rainey & Stackebrandt, 1993; Rainey et al., 1993; Collins et al., 1994; Stackebrandt & Rainey, 1997; Stackebrandt et al., 1999; Stackebrandt & Hippe, 2001) 
-espite some reclassification, the genus Clostridium remains a phylogenetically heterogeneous entity, containing a core cluster (I) of more than 60 species, while the remaining species form several independent phylogenetic lineages, in which species are sometimes closely related to organisms which are classified in different genera 
-ere, we describe a novel species of a novel genus belonging to the order Clostridiales, cluster XII, which is an anaerobic, mesophilic, halophilic, heterotrophic, sporeforming bacterium, isolated from an OMW evaporation pond located in Marrakesh, Morocco 
-ormerly, these ponds were old underground galleries, called khettaras, which brought water for irrigation of the desert 
-o initiate enrichment cultures, a small part of 62  the sediment sample was inoculated into the growth medium, followed by incubation at 37 uC without agitation 
-he culture was then purified by repeated use of the Hungate roll tube method (Hungate, 1969) 
-or pH studies, the medium was adjusted to the desired pH using anaerobically prepared stock solutions of NaHCO3 (10 %) or Na2CO3 (8 %) 
-or studies of NaCl requirements, NaCl was weighed directly into the tubes for concentrations ranging from 0 to 200 g NaCl l21 before dispensing basal medium without NaCl 
+he type strain is 37HS60T 5JCM 14354T5CCUG 53849T . Olive mill wastewater OMW is a major environmental problem in the Mediterranean region where more than 36107 m3 of this residue is produced annually 
+his is due to the current lack of Abbreviation OMW olive mill wastewater 
+he GenBank/EMBL/DDBJ accession number for the 16S rRNA gene sequence of 37HS60T is EF026082 . 65182 G 2008 IUMS appropriate alternative technologies to treat OMW properly mainly in the south of the region 
+hylogenetically however the genus still embraces a high number of organisms from many different genera that are not defined by Clostridium-specific phenotypes Cato & Stackebrandt 1989 Lawson et al. 1993 Rainey & Stackebrandt 1993 Rainey et al. 1993 Collins et al. 1994 Stackebrandt & Rainey 1997 Stackebrandt et al. 1999 Stackebrandt & Hippe 2001 
+espite some reclassification the genus Clostridium remains a phylogenetically heterogeneous entity containing a core cluster I of more than 60 species while the remaining species form several independent phylogenetic lineages in which species are sometimes closely related to organisms which are classified in different genera 
+ere we describe a novel species of a novel genus belonging to the order Clostridiales cluster XII which is an anaerobic mesophilic halophilic heterotrophic sporeforming bacterium isolated from an OMW evaporation pond located in Marrakesh Morocco 
+ormerly these ponds were old underground galleries called khettaras which brought water for irrigation of the desert 
+o initiate enrichment cultures a small part of 62 the sediment sample was inoculated into the growth medium followed by incubation at 37 uC without agitation 
+he culture was then purified by repeated use of the Hungate roll tube method Hungate 1969 
+or pH studies the medium was adjusted to the desired pH using anaerobically prepared stock solutions of NaHCO3 10 % or Na2CO3 8 % 
+or studies of NaCl requirements NaCl was weighed directly into the tubes for concentrations ranging from 0 to 200 g NaCl l21 before dispensing basal medium without NaCl 
 ubstrate utilization was studied in the presence of 0.1 g yeast extract l21 added to the basal medium 
-aNO3 (10 mM) or NaNO2 (10 mM) were added to the tubes immediately before inoculation (10 %, v/v) 
-ar, 1 mm. (b) Phase-contrast microphotograph of cells of strain 37HS60T, showing terminal spherical spores swelling the sporangia 
-he nucleotide sequence (1430 bases) was manually aligned, using the sequence alignment editor BioEdit (Hall, 1999) 
-he pairwise evolutionary distances based on 1281 unambiguous nucleotides were computed by the Jukes & Cantor (1969) method 
-he phylogenetic tree obtained by the neighbourjoining method (Saitou & Nei, 1987) is shown in Fig. 2 
-he Stickland reaction was negative, but four amino acids (20 mM) were used: acetate was formed from cystein,  The most closely related sequences were found in members of cluster XII within the order Clostridiales (Collins et al., 1994) 
+aNO3 10 mM or NaNO2 10 mM were added to the tubes immediately before inoculation 10 % v/v 
+ar 1 mm . b Phase-contrast microphotograph of cells of strain 37HS60T showing terminal spherical spores swelling the sporangia 
+he nucleotide sequence 1430 bases was manually aligned using the sequence alignment editor BioEdit Hall 1999 
+he pairwise evolutionary distances based on 1281 unambiguous nucleotides were computed by the Jukes & Cantor 1969 method 
+he phylogenetic tree obtained by the neighbourjoining method Saitou & Nei 1987 is shown in Fig . 2 
+he Stickland reaction was negative but four amino acids 20 mM were used acetate was formed from cystein The most closely related sequences were found in members of cluster XII within the order Clostridiales Collins et al. 1994 
 ost of the related species originated from different environments 
-irst, strain 37HS60T is an atypical Gram-positive bacterium, whereas Caloranaerobacter azorensis has a characteristic Gramnegative cell wall, demonstrating a specific difference between the structure of their respective envelopes 
-n addition, the DNA G+C content of Caloranaerobacter azorensis (27.0 mol%) is 6 mol% lower than strain 37HS60T 
-oreover, the optimum growth temperature of 37HS60T (42 uC) is the maximal temperature for Clostridium purinilyticum 
-n addition, the DNA G+C content of Clostridium purinilyticum (29.0 %) is 4 mol% lower than strain 37HS60T 
-herefore, on the basis of the data reported here, we propose that strain 37HS60T represents a novel species of a  Fig. 2 
-lostridiisalibacter, a halophilic rod, belonging to the Clostridium subphylum) 
-he DNA G+C content is 33.0 mol%. 16S rDNA sequence comparisons locate Clostridiisalibacter in the lineage of the low-G+C content Gram-positive bacteria, within cluster XII of the Clostridium subphylum 
-rowth occurs in the presence of NaCl at 10–100 g l21 (optimum 50 g l21) 
-nly the following substrates are fermented in the presence of yeast  Downloaded from www.microbiologyresearch.org by IP: 189.155.188.202 On: Sat, 17 Feb 2018 05:39:14  65  P.-P 
-he DNA G+C content of the type strain is 33.0 mol% 
-cidic phenolic fraction of the juice of  bacter acetigenes gen. nov., sp. nov., a novel acetogenic, facultatively sulfur-reducing bacterium 
- roll tube method for the cultivation of strict  Benson, D 
-owards a phylogeny of the clostridia based on 16S rRNA  Cato, E 
-tackebrandt, E., Kramer, I., Swiderski, J. & Hippe, H. (1999).  Phylogenetic basis for a taxonomic dissection of the genus Clostridium 
-naerobe 10, 185–190.  phylogenetic diversity among the polysaccharolytic Clostridia 
-alows, H 
+irst strain 37HS60T is an atypical Gram-positive bacterium whereas Caloranaerobacter azorensis has a characteristic Gramnegative cell wall demonstrating a specific difference between the structure of their respective envelopes 
+n addition the DNA G+C content of Caloranaerobacter azorensis 27.0 mol % is 6 mol % lower than strain 37HS60T 
+oreover the optimum growth temperature of 37HS60T 42 uC is the maximal temperature for Clostridium purinilyticum 
+n addition the DNA G+C content of Clostridium purinilyticum 29.0 % is 4 mol % lower than strain 37HS60T 
+herefore on the basis of the data reported here we propose that strain 37HS60T represents a novel species of a Fig . 2 
+lostridiisalibacter a halophilic rod belonging to the Clostridium subphylum 
+he DNA G+C content is 33.0 mol % . 16S rDNA sequence comparisons locate Clostridiisalibacter in the lineage of the low-G+C content Gram-positive bacteria within cluster XII of the Clostridium subphylum 
+rowth occurs in the presence of NaCl at 10–100 g l21 optimum 50 g l21 
+nly the following substrates are fermented in the presence of yeast Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Sat 17 Feb 2018 05:39:14 65 P.-P 
+he DNA G+C content of the type strain is 33.0 mol % 
+cidic phenolic fraction of the juice of bacter acetigenes gen. nov. sp . nov. a novel acetogenic facultatively sulfur-reducing bacterium 
+roll tube method for the cultivation of strict Benson D 
+owards a phylogeny of the clostridia based on 16S rRNA Cato E 
+tackebrandt E. Kramer I. Swiderski J . & Hippe H. 1999 . Phylogenetic basis for a taxonomic dissection of the genus Clostridium 
+naerobe 10 185–190 . phylogenetic diversity among the polysaccharolytic Clostridia 
+alows H 
 dited by H 
-., Morgan, H 
-ar, 2 % sequence divergence 
-haracter Width6length (mm) Gram type Temperature for growth (6C): Range Optimum pH growth: Range Optimum NaCl concentration for growth (g l”1): Range Optimum G+C content of DNA (mol%) Reduction of Su Substrates used: Purine Glycine Fructose Galactose Glucose Mannose Ribose Xylose Glycerol Starch Xylan Fumarate Succinate  1  2  3  0.563.0–8.0 Positive  0.3–0.560.5–2.0 Negative  1.466.2 Positive  20–50 42  45–65 65  20–45 36  5.5–8.5 6.8  5.5–9.0 7.0  6.5–9.0 7.5  10–100 50 33.0 2  6.5-65 20 27.0 +  ND  2 2 2 2 2 2 2 2 2 2 2 + +  ND  new genus, namely Clostridiisalibacter paucivorans gen. nov., sp. nov 
-he type species is Clostridiisalibacter paucivorans. http://ijs.sgmjournals.org  ND  + + + ND  + + ND  + + 2 2  0 29.0 2 + + 2 2 2 2 2 2 2 2 2 2 2  Description of Clostridiisalibacter paucivorans sp. nov 
-n many countries, such as Morocco, OMW is directly rejected into evaporation ponds without any complementary treatment 
-train 37HS60T was unable to grow without NaCl, whereas Clostridium purinilyticum is not known to require sea salt or NaCl 
+. Morgan H 
+ar 2 % sequence divergence 
+ifferential phenotypic characteristics of strain Clostridiisalibacter paucivorans from phylogenetically related species Taxa 1 Strain 37HS60T present study ; 2 Caloranaerobacter azorensis DSM 13643T Wery et al. 2001 ; 3 Clostridium purinolyticum DSM 1384T Dürre et al. 1981 ; ND not determined 
+haracter Width6length mm Gram type Temperature for growth 6C Range Optimum pH growth Range Optimum NaCl concentration for growth g l ” 1 : Range Optimum G+C content of DNA mol % Reduction of Su Substrates used : Purine Glycine Fructose Galactose Glucose Mannose Ribose Xylose Glycerol Starch Xylan Fumarate Succinate 1 2 3 0.563.0–8.0 Positive 0.3–0.560.5–2.0 Negative 1.466.2 Positive 20–50 42 45–65 65 20–45 36 5.5–8.5 6.8 5.5–9.0 7.0 6.5–9.0 7.5 10–100 50 33.0 2 6.5-65 20 27.0 + ND 2 2 2 2 2 2 2 2 2 2 2 + + ND new genus namely Clostridiisalibacter paucivorans gen. nov. sp . nov 
+he type species is Clostridiisalibacter paucivorans . http //ijs.sgmjournals.org ND + + + ND + + ND + + 2 2 0 29.0 2 + + 2 2 2 2 2 2 2 2 2 2 2 Description of Clostridiisalibacter paucivorans sp . nov 
+n Bergey ’ s Manual of Systematic Bacteriology vol . 2 pp . 1141–1200 
+n many countries such as Morocco OMW is directly rejected into evaporation ponds without any complementary treatment 
+train 37HS60T was unable to grow without NaCl whereas Clostridium purinilyticum is not known to require sea salt or NaCl 
 tickland reaction is negative 
 he pH was adjusted to 7.2 with 10 M KOH 
-he salinity range for growth was 10–100 g NaCl l”1 with an optimum at 50 g NaCl l”1 
-train 37HS60T required salt for growth (range 10–100 g NaCl l21), with an optimum of 50 g l21 
-oes not use elemental sulfur, sulfate, thiosulfate, sulfite, nitrate, nitrite or oxygen as electron acceptors 
-he optimal temperature for growth was 42 uC (range 25–50 uC); growth was not observed at 20 or 55 uC 
-he DNA G+C content was 33.0 mol% 
+he salinity range for growth was 10–100 g NaCl l ” 1 with an optimum at 50 g NaCl l ” 1 
+train 37HS60T required salt for growth range 10–100 g NaCl l21 , with an optimum of 50 g l21 
+he optimal temperature for growth was 42 uC range 25–50 uC ; growth was not observed at 20 or 55 uC 
+he DNA G+C content was 33.0 mol % 
 volution of protein molecules 
-ptimal growth conditions for strain 37HS60T were determined in duplicate experiments performed in basal medium containing yeast extract (0.1 g l21) as described by Fardeau et al. (2000) 
-ammalian Protein Metabolism, vol. 3, pp. 21–132 
-iotechnological potentialities of polyphenolic compounds of  Cato, E 
+ptimal growth conditions for strain 37HS60T were determined in duplicate experiments performed in basal medium containing yeast extract 0.1 g l21 as described by Fardeau et al . 2000 
+Cytoplasmic membrane P peptidoglycan layer S S-layer 
+ammalian Protein Metabolism vol . 3 pp . 21–132 
+iotechnological potentialities of polyphenolic compounds of Cato E 

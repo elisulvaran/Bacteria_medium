@@ -1,27 +1,31 @@
-International Journal of Systematic and Evolutionary Microbiology (2011), 61, 2439–2444  DOI 10.1099/ijs.0.025353-0  Hoeflea anabaenae sp. nov., an epiphytic symbiont that attaches to the heterocysts of a strain of Anabaena Bradley S 
-nalysis of its 16S rRNA gene sequence demonstrated that the symbiont was most closely related to the type strain of Hoeflea marina (96.9 % similarity), which belongs to the family Phyllobacteriaceae within the order Rhizobiales of the class Alphaproteobacteria 
-ased on phylogenetic and phenotypic evidence, it is proposed that strain WH2KT be classified within a novel species of the genus Hoeflea, for which the name Hoeflea anabaenae sp. nov. is proposed 
-ased on this polyphasic study, incorporating phylogenetic, chemotaxonomic and phenotypic methods, it is proposed that strain WH2KT represents a novel species of Hoeflea 
-ells of isolate WH2KT were irregular, club-shaped rods, 2–5 mm long and 0.2 mm wide (Fig. 1b), and able to form star-shaped aggregates (Fig. 1c) like those of the marine Agrobacterium species later reclassified as Hoeflea marina (Ahrens, 1968; Peix et al., 2005; Rüger & Höfle, 1992) 
-o obvious motility was observed for WH2KT, which is in contrast to the rapid motility observed directly for Hoeflea species reported previously (Biebl et al., 2006; Palacios et al., 2006; Peix et al., 2005) 
-canning and transmission electron micrographs showing the cell morphology of Hoeflea anabaenae sp. nov 
-n this paper, we 2440  PY medium was chosen for most of the comparative studies between WH2KT and other Hoeflea species, as it supported the best growth of all organisms 
-tilization of carbon sources was determined in experiments modelled after those used for the characterization of Hoeflea phototrophica, using a minimal seawater medium containing 20 g sea salts l21 and 0.1 g yeast extract l21 for required growth factors (Biebl et al., 2006) 
-ubstrate utilization profiles were also determined in this manner for H. phototrophica DSM 17068T, Hoeflea alexandrii DSM 16655T and H. marina DSM 16791T to allow direct comparison (Table 1) 
-H2KT was  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:33:36  Hoeflea anabaenae sp. nov.  Table 1 
-ubstrate utilization patterns for strain WH2KT and type strains of the genus Hoeflea  Table 2 
-ellular fatty acid profiles of strain WH2KT and type strains of the genus Hoeflea  Strains: 1, WH2KT; 2, H. phototrophica DSM 17068T; 3, H. alexandrii DSM 16655T; 4, H. marina DSM 16791T 
-he other Hoeflea type strains were also able to utilize glucose, fructose, sucrose, glutamate and L-arabinose 
-xtracellular enzyme activities were characterized using the API ZYM kit for strain WH2KT and the other Hoeflea type strains, which were sampled from cultures in midexponential phase (OD600 0.4–0.5) in 16 PY medium 
-mong the Hoeflea strains, strain WH2KT was unique in that it possessed trypsin but lacked esterase lipase 
-verall, strain WH2KT had a fatty acid profile that was similar to those of the other Hoeflea type strains, but differences were observed in the presence/absence of several components (Table 2) 
-train WH2KT was unique among the Hoeflea strains in that it contained the saturated fatty acid C18 : 0 and the unsaturated fatty acid C18 : 1v9c, but lacked C16 : 1v9c 
+International Journal of Systematic and Evolutionary Microbiology 2011 61 2439–2444 DOI 10.1099/ijs.0.025353-0 Hoeflea anabaenae sp . nov. , an epiphytic symbiont that attaches to the heterocysts of a strain of Anabaena Bradley S 
+nalysis of its 16S rRNA gene sequence demonstrated that the symbiont was most closely related to the type strain of Hoeflea marina 96.9 % similarity , which belongs to the family Phyllobacteriaceae within the order Rhizobiales of the class Alphaproteobacteria 
+ased on phylogenetic and phenotypic evidence it is proposed that strain WH2KT be classified within a novel species of the genus Hoeflea for which the name Hoeflea anabaenae sp . nov. is proposed 
+ased on this polyphasic study incorporating phylogenetic chemotaxonomic and phenotypic methods it is proposed that strain WH2KT represents a novel species of Hoeflea 
+ells of isolate WH2KT were irregular club-shaped rods 2–5 mm long and 0.2 mm wide Fig . 1b and able to form star-shaped aggregates Fig . 1c like those of the marine Agrobacterium species later reclassified as Hoeflea marina Ahrens 1968 Peix et al. 2005 Rüger & Höfle , 1992 
+o obvious motility was observed for WH2KT which is in contrast to the rapid motility observed directly for Hoeflea species reported previously Biebl et al. 2006 Palacios et al. 2006 Peix et al. 2005 
+canning and transmission electron micrographs showing the cell morphology of Hoeflea anabaenae sp . nov 
+n this paper we 2440 PY medium was chosen for most of the comparative studies between WH2KT and other Hoeflea species as it supported the best growth of all organisms 
+tilization of carbon sources was determined in experiments modelled after those used for the characterization of Hoeflea phototrophica using a minimal seawater medium containing 20 g sea salts l21 and 0.1 g yeast extract l21 for required growth factors Biebl et al. 2006 
+ubstrate utilization profiles were also determined in this manner for H. phototrophica DSM 17068T Hoeflea alexandrii DSM 16655T and H. marina DSM 16791T to allow direct comparison Table 1 
+H2KT was Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP 189.155.188.202 On Thu 15 Feb 2018 22:33:36 Hoeflea anabaenae sp . nov. Table 1 
+ubstrate utilization patterns for strain WH2KT and type strains of the genus Hoeflea Table 2 
+ellular fatty acid profiles of strain WH2KT and type strains of the genus Hoeflea Strains 1 WH2KT 2 H. phototrophica DSM 17068T 3 H. alexandrii DSM 16655T 4 H. marina DSM 16791T 
+he other Hoeflea type strains were also able to utilize glucose fructose sucrose glutamate and L-arabinose 
+xtracellular enzyme activities were characterized using the API ZYM kit for strain WH2KT and the other Hoeflea type strains which were sampled from cultures in midexponential phase OD600 0.4–0.5 in 16 PY medium 
+mong the Hoeflea strains strain WH2KT was unique in that it possessed trypsin but lacked esterase lipase 
+verall strain WH2KT had a fatty acid profile that was similar to those of the other Hoeflea type strains but differences were observed in the presence/absence of several components Table 2 
+train WH2KT was unique among the Hoeflea strains in that it contained the saturated fatty acid C18 0 and the unsaturated fatty acid C18 1v9c but lacked C16 1v9c 
 train WH2KT was unique among the Hoeflea strains in that it possessed two unidentified phospholipids and did not contain sulfoquinovosyl diacylglycerol 
 SM-00 was compared between WH2KT and the Hoeflea type strains in a series of attachment experiments 
 ells from WH2KT and each Hoeflea type strain were harvested from mid-exponential phase cultures growing in PY medium 
-train WH2KT has a more limited repertoire of utilizable carbon substrates than the other Hoeflea type strains, apparently being able to use only acetate, pyruvate and intermediates of the tricarboxylic acid cycle 
-mong Hoeflea species, only H. phototrophica possesses bacteriochlorophyll a and carotenoids, which is explained by evidence that this trait was obtained by horizontal gene transfer (Klassen, 2009) 
+wo of the three described species of the genus Hoeflea H. phototrophica and H. alexandrii have been isolated from cultures of the marine dinoflagellates Alexandrium lusitanicum Prorocentrum lima and Alexandrium minutum Biebl et al. 2006 Palacios et al. 2006 Peix et al. 2005 
+train WH2KT has a more limited repertoire of utilizable carbon substrates than the other Hoeflea type strains apparently being able to use only acetate pyruvate and intermediates of the tricarboxylic acid cycle 
+mong Hoeflea species only H. phototrophica possesses bacteriochlorophyll a and carotenoids which is explained by evidence that this trait was obtained by horizontal gene transfer Klassen 2009 
 he production of photopigments would therefore not be a trait that defines the genus Hoeflea 
-escription of Hoeflea anabaenae sp. nov 
-egative for the following enzyme activities (API ZYM): esterase lipase, lipase, valine aminopeptidase, cystine aminopeptidase, chymotrypsin, acid phosphatase, phosphohydrolase, a-glucosidase, b-glucuronidase, N-acetyl-b-glucosaminidase, a-mannosidase and a-fucosidase.  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP: 189.155.188.202 On: Thu, 15 Feb 2018 22:33:36  Hoeflea anabaenae sp. nov.  Table 3 
-ppl Environ Microbiol 72, 5069–5072.  LMG 128 as Hoeflea marina gen. nov., sp. nov 
+escription of Hoeflea anabaenae sp . nov 
+egative for the following enzyme activities API ZYM esterase lipase lipase valine aminopeptidase cystine aminopeptidase chymotrypsin acid phosphatase phosphohydrolase a-glucosidase b-glucuronidase N-acetyl-b-glucosaminidase a-mannosidase and a-fucosidase . Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP 189.155.188.202 On : Thu 15 Feb 2018 22:33:36 Hoeflea anabaenae sp . nov. Table 3 
+ppl Environ Microbiol 72 5069–5072 . LMG 128 as Hoeflea marina gen. nov. sp . nov 
+oeflea anabaenae a.na.bae9nae 
+oeflea phototrophica sp . nov. a novel Paerl H 
+oeflea sequence alignment server for comparative analysis of 16S rRNA genes 

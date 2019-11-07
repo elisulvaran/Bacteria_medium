@@ -1,214 +1,221 @@
 odium chloride toxicity and the cellular basis of salt tolerance in halophytes 
-he soil tightly adhered to the roots was also collected and the samples were immediately transferred to the  Mora-Ruiz et al.  laboratory for bacterial DNA extraction following an existing protocol (Nogales et al. 1999).  3  (OM), total nitrogen, carbonates (CO3 2− ), available phosphorus and changeable potassium (K+ ), sodium (Na+ ) and magnesium (Mg2+ ).  PCR amplification and 454-pyrosequencing PCR amplification with the bacterial primers GM3 and S (Table S1, Supporting Information) was performed as previously described (Lane et al. 1986) 
-hese were not isolated  Downloaded from https://academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018  cases, as other organisms (not observed as ubiquitous), such as Marinomonas sp. (also endophytes of marine plants; Espinosa et al. 2010) or Sphingomonas sp., were not detected in the soils 
-ora-Ruiz1,∗ , Francisca Font-Verdera1 , Alejandro Orfila2 , Joan Rita3 and Ramon Rosselló-Móra1 1  Department of Ecology and Marine Resources, Mediterranean Institute for Advanced Studies (IMEDEA UIB-CSIC), E-07190 Esporles, Spain, 2 Department of Marine Technologies, Operational and Coastal Oceanography, Mediterranean Institute for Advanced Studies (IMEDEA UIB-CSIC), E-07190 Esporles, Spain and 3 Department of Biology, University of Balearic Islands, E-07122, Palma de Mallorca, Spain ∗  Corresponding author: Department of Ecology and Marine Resources, Mediterranean Institute for Advanced Studies (IMEDEA UIB-CSIC), Miquel Marqué, 21, E-07190 Esporles, Illes Balears, Spain 
-el: 971611827; E-mail: mrmora@imedea.uib-csic.es One sentence summary: We present the microbial characterization of the endosphere of the halophyte Arthrocnemum macrostachyum in three different compartments (roots, green and red stems) detecting a reduction of diversity from root to the more mature stems 
-ditor: Angela Sessitsch  ABSTRACT In this study, the microbial community structures of the endosphere of the halophyte Arthrocnemum macrostachyum were evaluated from two locations in Mallorca, Spain, focusing on three plant compartments (roots, green and red stems) compared to the rhizospheric soil where the plants grew 
-he physicochemical parameters of the rhizospheric soils differed between locations, and the soils were characterized by different microbial community structures 
-ccordingly, the endophytic community composition, mainly composed of putatively halophilic organisms, was highly influenced by the rhizospheric soil microbiota, as revealed by the co-occurrence of the major endophytic taxa in the endosphere and the rizospheric soils 
-oreover, the reduction of diversity from the endorhizosphere towards the red leaves may support the fact that part of colonization of the plant by bacteria could have an origin in the rhizospheric soils through the roots and subsequent migration to the aerial parts of the plant 
-inally, there were certain relevant ubiquitous taxa, such as Chromohalobacter canadensis, Rudaea cellulosilytica (never reported before as endophytic), Psychrobacter sp., Bradyrhizobium sp. and Halomonas sp., that, due their moderate halophilic nature, seemed to find an optimal environment inside the plants 
-ome of these relevant endophytes were not always detectable in their respective soils, and were probably part of the soils’ rare biosphere, which would gain preponderance in a favorable endophytic environment 
-eywords: halophytes; endophytes; roots; green and red stems; rhizospheric soil  INTRODUCTION Coastal salt marshes are inhospitable environments for the majority of plants; nevertheless, a few highly salt-tolerant  plants (halophytes) are able to survive and flourish under such conditions 
-alophilic plants are common in coastal ecosystems around the world and present diverse adaptations to  Received: 14 April 2016; Accepted: 22 June 2016  C FEMS 2016 
-urthermore, some of them show no evidence of inhibition in response to salinity stress, and normally exhibit a pronounced salt requirement for optimal growth (Qiu and Lu 2003; Parida and Das 2005; Redondo-Gómez et al. 2010) 
-hese are known to represent important and complex communities associated with halophytes (Ruppel, Franken and Witzel 2013) and, as in other plants, they might affect (positive or negatively) the fitness of A. macrostachyum 
-he colonization of bacteria in the internal tissues of the plants occurs in both phyllospheric and root compartments, but both differ importantly in the environmental conditions that may influence the structure of the colonizing microbial communities 
-n this regard, the phyllosphere and rhizosphere have rather different environmental fluctuations 
-he first is under constant fluctuations of temperature, humidity, UV radiation and wind, whereas the rhizosphere can suffer strong fluctuations of water soil content and salinity 
-owever, not much is known about the microbial communities associated with halophytes (Simon, Abeliovich and Belkin 1994) 
-n general, studies have focused on Arabidopsis thaliana (Bulgarelli et al. 2012; Bodenhausen, Horton and Bergelson 2013) or plants with commercial interest (Wulff, van Vuurde and Hockenhull 2003) and a description of the community structure with no information about the presence or absence of spatial patterns of species diversity 
-dditionally, in comparison with rhizosphere and green leaf habitats, little is known about microbial colonization in other plant areas (Bulgarelli et al. 2013; Jin et al. 2014), and even less on specific endophytic microorganisms and their biogeography at this microscale (Hoffman and Arnold 2010) 
-rthrocnemum macrostachyum has very small, scale-shaped leaves and the phyllosphere is in fact composed of succulent and articulate stems 
-n addition, besides the roots and green stems, during the dry hot seasons stems exhibit large areas with a red-colored pigmentation 
-his color is generated by production of photopigments, such as anthocyanin and betacyanin (Chang-Quan et al. 2006) among others, which protect the integrity of the photosynthetic apparatus by acting as an osmotic buffer against the osmotic and ionic challenges of the saline environment (Kaya et al. 2001; Renault et al. 2001; Parida and Das 2005; Song et al. 2011; Flowers, Munns and Colmer 2015) 
-he anthocyanin helps in the elimination of oxygen radicals and inhibits the peroxidation of lipids (Chalker-Scott 1999; KhavariNejad, Najafi and Khavari-Nejad 2008) 
-e hypothesized that the endophytic community in the halophyte A. macrostachyum could exhibit variations related to different compartments of its plant structures (endorhizosphere, green and red stems) and it would be different from the rhizospheric soil microbial communities 
-herefore, in this study, we aimed to determine whether the three different compartments contained distinct microbial communities, and whether two different locations shared the same community structures 
+he soil tightly adhered to the roots was also collected and the samples were immediately transferred to the Mora-Ruiz et al . laboratory for bacterial DNA extraction following an existing protocol Nogales et al . 1999 . 3 OM total nitrogen carbonates CO3 2− , available phosphorus and changeable potassium K+ , sodium Na+ and magnesium Mg2+ . PCR amplification and 454-pyrosequencing PCR amplification with the bacterial primers GM3 and S Table S1 , Supporting Information was performed as previously described Lane et al . 1986 
+ora-Ruiz1 ∗ Francisca Font-Verdera1 Alejandro Orfila2 Joan Rita3 and Ramon Rosselló-Móra1 1 Department of Ecology and Marine Resources Mediterranean Institute for Advanced Studies IMEDEA UIB-CSIC E-07190 Esporles Spain 2 Department of Marine Technologies Operational and Coastal Oceanography Mediterranean Institute for Advanced Studies IMEDEA UIB-CSIC E-07190 Esporles Spain and 3 Department of Biology University of Balearic Islands E-07122 Palma de Mallorca Spain ∗ Corresponding author Department of Ecology and Marine Resources Mediterranean Institute for Advanced Studies IMEDEA UIB-CSIC Miquel Marqué 21 , E-07190 Esporles , Illes Balears , Spain 
+el 971611827 E-mail mrmora @ imedea.uib-csic.es One sentence summary We present the microbial characterization of the endosphere of the halophyte Arthrocnemum macrostachyum in three different compartments roots green and red stems detecting a reduction of diversity from root to the more mature stems 
+ditor Angela Sessitsch ABSTRACT In this study the microbial community structures of the endosphere of the halophyte Arthrocnemum macrostachyum were evaluated from two locations in Mallorca Spain focusing on three plant compartments roots green and red stems compared to the rhizospheric soil where the plants grew 
+he physicochemical parameters of the rhizospheric soils differed between locations and the soils were characterized by different microbial community structures 
+ccordingly the endophytic community composition mainly composed of putatively halophilic organisms was highly influenced by the rhizospheric soil microbiota as revealed by the co-occurrence of the major endophytic taxa in the endosphere and the rizospheric soils 
+oreover the reduction of diversity from the endorhizosphere towards the red leaves may support the fact that part of colonization of the plant by bacteria could have an origin in the rhizospheric soils through the roots and subsequent migration to the aerial parts of the plant 
+inally there were certain relevant ubiquitous taxa such as Chromohalobacter canadensis Rudaea cellulosilytica never reported before as endophytic Psychrobacter sp. Bradyrhizobium sp . and Halomonas sp. that due their moderate halophilic nature , seemed to find an optimal environment inside the plants 
+ome of these relevant endophytes were not always detectable in their respective soils and were probably part of the soils ’ rare biosphere which would gain preponderance in a favorable endophytic environment 
+eywords halophytes endophytes roots green and red stems rhizospheric soil INTRODUCTION Coastal salt marshes are inhospitable environments for the majority of plants nevertheless a few highly salt-tolerant plants halophytes are able to survive and flourish under such conditions 
+alophilic plants are common in coastal ecosystems around the world and present diverse adaptations to Received 14 April 2016 Accepted 22 June 2016  C FEMS 2016 
+urthermore some of them show no evidence of inhibition in response to salinity stress and normally exhibit a pronounced salt requirement for optimal growth Qiu and Lu 2003 Parida and Das 2005 Redondo-Gómez et al . 2010 
+hese are known to represent important and complex communities associated with halophytes Ruppel Franken and Witzel 2013 and as in other plants they might affect positive or negatively the fitness of A. macrostachyum 
+he colonization of bacteria in the internal tissues of the plants occurs in both phyllospheric and root compartments but both differ importantly in the environmental conditions that may influence the structure of the colonizing microbial communities 
+n this regard the phyllosphere and rhizosphere have rather different environmental fluctuations 
+he first is under constant fluctuations of temperature humidity UV radiation and wind whereas the rhizosphere can suffer strong fluctuations of water soil content and salinity 
+owever not much is known about the microbial communities associated with halophytes Simon Abeliovich and Belkin 1994 
+n general studies have focused on Arabidopsis thaliana Bulgarelli et al . 2012 Bodenhausen Horton and Bergelson 2013 or plants with commercial interest Wulff van Vuurde and Hockenhull 2003 and a description of the community structure with no information about the presence or absence of spatial patterns of species diversity 
+dditionally in comparison with rhizosphere and green leaf habitats little is known about microbial colonization in other plant areas Bulgarelli et al . 2013 Jin et al . 2014 , and even less on specific endophytic microorganisms and their biogeography at this microscale Hoffman and Arnold 2010 
+rthrocnemum macrostachyum has very small scale-shaped leaves and the phyllosphere is in fact composed of succulent and articulate stems 
+n addition besides the roots and green stems during the dry hot seasons stems exhibit large areas with a red-colored pigmentation 
+his color is generated by production of photopigments such as anthocyanin and betacyanin Chang-Quan et al . 2006 among others which protect the integrity of the photosynthetic apparatus by acting as an osmotic buffer against the osmotic and ionic challenges of the saline environment Kaya et al . 2001 Renault et al . 2001 Parida and Das 2005 Song et al . 2011 Flowers Munns and Colmer 2015 
+he anthocyanin helps in the elimination of oxygen radicals and inhibits the peroxidation of lipids Chalker-Scott 1999 KhavariNejad Najafi and Khavari-Nejad 2008 
+e hypothesized that the endophytic community in the halophyte A. macrostachyum could exhibit variations related to different compartments of its plant structures endorhizosphere green and red stems and it would be different from the rhizospheric soil microbial communities 
+herefore in this study we aimed to determine whether the three different compartments contained distinct microbial communities and whether two different locations shared the same community structures 
 he OPU approach allows the comparison of sequences from different length and 16S rRNA gene regions due to the nature of phylogenetic inference algorithm 
-he physicochemical characteristics of the soil from where the samples were collected were also recorded in order to evaluate possible environmental factors that would determine the structure of the internal bacterial communities and identify how these environmental variables could help predict the microbial community.  MATERIALS AND METHODS Plant sample collection and surface sterilization Six halophytes, identified as Arthrocnemum macrostachyum, were collected from Campos (39◦ 21 03.3 N, 3◦ 00 44.3 E, Spain) and Albufera d’Alcúdia (39◦ 47 49 N, 3◦ 6 24 E, Spain) in April 2014 
+he physicochemical characteristics of the soil from where the samples were collected were also recorded in order to evaluate possible environmental factors that would determine the structure of the internal bacterial communities and identify how these environmental variables could help predict the microbial community . MATERIALS AND METHODS Plant sample collection and surface sterilization Six halophytes identified as Arthrocnemum macrostachyum were collected from Campos 39◦ 21 03.3 N 3◦ 00 44.3 E Spain and Albufera d ’ Alcúdia 39◦ 47 49 N 3◦ 6 24 E Spain in April 2014 
 oth locations are in Mallorca and are separated by a distance of approximately 60 km 
-hree plants were chosen from each location and all plants exhibited green and red (mature) stems (Fig 
+hree plants were chosen from each location and all plants exhibited green and red mature stems Fig 
 ndividual plants were collected whole and stored in zip-lock plastic bags using sterile gloves for immediate processing on arrival at the laboratory 
-reen and red fractions and roots were excised from each halophyte, obtaining three samples in triplicate for each location 
-nce the plant material had been excised and removed, it was sterilized and macerated 
-lant material surfaces were washed with the following sequential steps: initial incubation for 5 min in 0.2% Triton X-100 with sterile distilled water, followed by 5 min in sterile distilled water alone, 5 min in 2% bleach (NaClO) and finally 5 min in sterile distilled water 
-o disaggregate the plant tissues, 5–25 mL of PBS 1X were added to the plant material and the mixture was macerated using a sterile mortar and pestle (MoraRuiz et al. 2015).  Separation of the microbial fraction from vegetal debris, and microbial DNA extraction Fifteen milliliters of macerated biomass were subjected to differential centrifugation and sucrose density gradient centrifugation, as previously reported (Mora-Ruiz et al. 2015) 
+reen and red fractions and roots were excised from each halophyte obtaining three samples in triplicate for each location 
+nce the plant material had been excised and removed it was sterilized and macerated 
+lant material surfaces were washed with the following sequential steps initial incubation for 5 min in 0.2 % Triton X-100 with sterile distilled water followed by 5 min in sterile distilled water alone 5 min in 2 % bleach NaClO and finally 5 min in sterile distilled water 
+o disaggregate the plant tissues 5–25 mL of PBS 1X were added to the plant material and the mixture was macerated using a sterile mortar and pestle MoraRuiz et al . 2015 . Separation of the microbial fraction from vegetal debris and microbial DNA extraction Fifteen milliliters of macerated biomass were subjected to differential centrifugation and sucrose density gradient centrifugation as previously reported Mora-Ruiz et al . 2015 
 ll layers recovered from the centrifugation gradient were numbered according to their density and stored at −20◦ C 
-he layers with higher density were used for DNA extraction, which was performed as previously reported (Mora-Ruiz et al. 2015).  Soil collection and microbial DNA extraction For each plant, its respective rhizospheric soil was collected by shaking the roots vigorously in order to separate the loosely adhered soil 
- second PCR was performed using 5 µL of the product as template, in triplicates of 25 µL, using the primers GM3-PS and a variant of 907-PS (from position 8 to 907: V1–V4 regions of 16S rRNA; Table S1, Supporting Information) to tag and link the amplicon, with the same annealing temperature 
-he band with a size of ∼960 bp was excised and eluted using the Zymoclean Gel DNA Recovery Kit (Zymo Research, California, USA) following the manufacturer’s instructions 
-he NanoDrop Spectrophotometer (Thermo Fisher Scientific Inc., Massachusetts, USA) and MassRuler Express Forward DNA Ladder Mix (Thermo Scientific) were used to measure the concentration of the barcoded amplicons 
-rimmed sequences have been deposited in the ENA sequence repository under the study accession number SAMEA3928333–SAMEA3928356.  Sequence trimming, OTU grouping, phylogenetic affiliation and OPU design Sequence data were processed using Mothur (Schloss et al. 2009) software to trim and remove chimeras 
-ow-quality and short sequences were discarded (<300 nucleotides) 
-rimming was performed with a window size of 25, and average quality score of 25, and no mismatches or ambiguities between primer pairs and barcodes were allowed 
-himeras were removed using Chimera Uchime (Mothur) and sequences were clustered in OTUs at 99% using the UCLUST tool included in QIIME (Caporaso et al. 2010) 
-he longest read of each OTU was selected as representative and was added to the non-redundant SILVA REF115 database using the ARB software package (Ludwig et al. 2004) 
-equences were initially aligned with SINA (Pruesse, Peplies and Glöckner 2012) and inserted using the parsimony tool (ARB package) in a default tree 
+he layers with higher density were used for DNA extraction which was performed as previously reported Mora-Ruiz et al . 2015 . Soil collection and microbial DNA extraction For each plant its respective rhizospheric soil was collected by shaking the roots vigorously in order to separate the loosely adhered soil 
+second PCR was performed using 5 µL of the product as template in triplicates of 25 µL using the primers GM3-PS and a variant of 907-PS from position 8 to 907 V1–V4 regions of 16S rRNA Table S1 Supporting Information to tag and link the amplicon with the same annealing temperature 
+he band with a size of ∼960 bp was excised and eluted using the Zymoclean Gel DNA Recovery Kit Zymo Research California USA following the manufacturer ’ s instructions 
+he NanoDrop Spectrophotometer Thermo Fisher Scientific Inc. Massachusetts USA and MassRuler Express Forward DNA Ladder Mix Thermo Scientific were used to measure the concentration of the barcoded amplicons 
+rimmed sequences have been deposited in the ENA sequence repository under the study accession number SAMEA3928333–SAMEA3928356 . Sequence trimming OTU grouping phylogenetic affiliation and OPU design Sequence data were processed using Mothur Schloss et al . 2009 software to trim and remove chimeras 
+ow-quality and short sequences were discarded < 300 nucleotides 
+rimming was performed with a window size of 25 and average quality score of 25 and no mismatches or ambiguities between primer pairs and barcodes were allowed 
+himeras were removed using Chimera Uchime Mothur and sequences were clustered in OTUs at 99 % using the UCLUST tool included in QIIME Caporaso et al . 2010 
+he longest read of each OTU was selected as representative and was added to the non-redundant SILVA REF115 database using the ARB software package Ludwig et al . 2004 
+equences were initially aligned with SINA Pruesse Peplies and Glöckner 2012 and inserted using the parsimony tool ARB package in a default tree 
 hloroplast and mitochondrial sequences were discarded 
-he closest relative sequences of adequate quality were selected and merged with the LTPs115 database (Yarza et al. 2010) 
- phylogenetic reconstruction was performed using the neighbor-joining algorithm and the Jukes–Cantor correction with the selected closest relative sequences and type strain representatives 
-inally, the OTU representatives were inserted into the final reconstruction using the parsimony tool, and then clustered in OPUs (França et al. 2015) based on the visual inspection of the final tree 
-n OPU is the smallest monophyletic group of sequences containing OTU representatives together with the closest reference sequence, including the sequence of a type strain when possible.  Ecological indices and statistical analysis Rarefaction curves and equitability-J index were calculated from OPUs using PAST v 3.01 software (Hammer, Harper and Ryan 2001) 
-on-parametric Kruskal–Wallis tests were performed in order to compare ecological indices and soil physicochemical parameters in each location and internal fraction, as they did not satisfy assumptions of normality and homogeneity of variances 
-he multivariate community structure in relation to sampling location, plant compartment and interindividual variability of OPUs was statistically analyzed using non-metric multidimensional scaling (NMDS; Kruskal and Wish 1978) 
-he goodness of the NMDS was evaluated according to a stress value smaller than 0.263, which is considered acceptable for 18 samples (Sturrock and Rocha 2000) 
-dditionally, a permutational multivariate analysis of variance (Anderson 2001) was used to test the statistical significance of the differences between bacterial communities and the environmental parameters, in order to determine their influence on the variability in the microbial communities 
-ierarchical cluster analysis was performed using the Sørensen distance (Sørensen 1948) and Ward’s linkage (Ward 1963) 
-n indicator species analysis (ISA) (De Cáceres and Legendre 2009) was used to identify the indicator taxa responsible for the differences between groups identified with the cluster analyses 
+he closest relative sequences of adequate quality were selected and merged with the LTPs115 database Yarza et al . 2010 
+phylogenetic reconstruction was performed using the neighbor-joining algorithm and the Jukes–Cantor correction with the selected closest relative sequences and type strain representatives 
+inally the OTU representatives were inserted into the final reconstruction using the parsimony tool and then clustered in OPUs França et al . 2015 based on the visual inspection of the final tree 
+n OPU is the smallest monophyletic group of sequences containing OTU representatives together with the closest reference sequence including the sequence of a type strain when possible . Ecological indices and statistical analysis Rarefaction curves and equitability-J index were calculated from OPUs using PAST v 3.01 software Hammer Harper and Ryan 2001 
+on-parametric Kruskal–Wallis tests were performed in order to compare ecological indices and soil physicochemical parameters in each location and internal fraction as they did not satisfy assumptions of normality and homogeneity of variances 
+he multivariate community structure in relation to sampling location plant compartment and interindividual variability of OPUs was statistically analyzed using non-metric multidimensional scaling NMDS Kruskal and Wish 1978 
+he goodness of the NMDS was evaluated according to a stress value smaller than 0.263 which is considered acceptable for 18 samples Sturrock and Rocha 2000 
+dditionally a permutational multivariate analysis of variance Anderson 2001 was used to test the statistical significance of the differences between bacterial communities and the environmental parameters in order to determine their influence on the variability in the microbial communities 
+ierarchical cluster analysis was performed using the Sørensen distance Sørensen 1948 and Ward ’ s linkage Ward 1963 
+n indicator species analysis ISA ( De Cáceres and Legendre 2009 was used to identify the indicator taxa responsible for the differences between groups identified with the cluster analyses 
 he correlation matrixes were obtained by comparing the diversity at the phylum level in the endophytic and rhizospheric community with their respective soil 
-nalyses were performed with the packages vegan (Oksanen 2016) and indicspecies in R v 3.1.1. (www.r-project.org).  RESULTS Analysis of 454-pyrosequencing data This study included plant biomass in triplicate and their respective rhizospheric soil collected in Campos and Alcúdia, both located in Mallorca, Spain 
- total of 97 872 sequences were generated that, after trimming and removing short, bad or chimera sequences, resulted in a dataset of 58 517 sequences with a mean of 2438 ± 1825 per sample (Table S1, Supporting Information) 
-rom these, 249 OPUs were present in the endosphere of the plants studied, and 408 were exclusive to soils.  Soil sample collection and physicochemical parameters  Soil characterization  Six soil samples were collected from locations Campos and Alcúdia where the sampled plants were growing 
-he analyzed physicochemical parameters were pH, electrical conductivity (at 25◦ C), oxidizable organic matter  Soil physicochemical parameters indicated that the pH was alkaline and nearly the same in both locations (8.28 ± 0.39 and 8.29 ± 0.18; P > 0.05) 
-n addition, carbonates (%), exchangeable Na+ and Mg2+ (%) displayed similar values (P > 0.05) in both places 
-owever, the values of salinity (%), exchangeable K+ , oxidizable OM (%), total N (%) and available P (%) (Figs 1 and  Downloaded from https://academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018  4  FEMS Microbiology Ecology, 2016, Vol. 92, No. 9  Table 1 
+nalyses were performed with the packages vegan Oksanen 2016 and indicspecies in R v 3.1.1 . www.r-project.org . RESULTS Analysis of 454-pyrosequencing data This study included plant biomass in triplicate and their respective rhizospheric soil collected in Campos and Alcúdia both located in Mallorca Spain 
+total of 97 872 sequences were generated that after trimming and removing short bad or chimera sequences resulted in a dataset of 58 517 sequences with a mean of 2438 ± 1825 per sample Table S1 Supporting Information 
+rom these 249 OPUs were present in the endosphere of the plants studied and 408 were exclusive to soils . Soil sample collection and physicochemical parameters Soil characterization Six soil samples were collected from locations Campos and Alcúdia where the sampled plants were growing 
+he analyzed physicochemical parameters were pH electrical conductivity at 25◦ C , oxidizable organic matter Soil physicochemical parameters indicated that the pH was alkaline and nearly the same in both locations 8.28 ± 0.39 and 8.29 ± 0.18 P > 0.05 
+n addition carbonates % , exchangeable Na+ and Mg2+ % displayed similar values P > 0.05 in both places 
+owever the values of salinity % exchangeable K+ oxidizable OM % total N % and available P % ( Figs 1 and Downloaded from https //academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018 4 FEMS Microbiology Ecology 2016 , Vol . 92 , No . 9 Table 1 
 aw data and sequence distribution in OTUs and OPUs from pyrosequencing 
 ost indices in q = 0 and q = 1 are shown per sample 
-aw seqs  Removed seqs  Final seqs  OTUs  q=0 (OPUs) q = 1 Eqt.  Endosphere Alcúdia Green Green Green Red Red Red Root Root Root Campos Green Green Green Red Red Red Root Root Root  2656 2304 1704 2120 1672 1740 2240 1600 1966  320 64 288 44 40 24 32 8 30  2336 2240 1416 2076 1632 1716 2208 1592 1936  31 27 34 63 54 68 114 70 115  23 18 22 27 29 27 56 39 57  14.9 10.8 8.9 5.0 7.2 6.2 19.3 12.1 14.5  0.86 0.83 0.72 0.49 0.59 0.56 0.73 0.69 0.67  1224 2035 3251 18 679 14 878 12 898 3027 4993 8659  15 34 2245 15 266 12 330 5916 75 835 85  1209 2001 1006 3413 2548 6982 2952 4158 8574  31 269 58 187 175 211 237 187 358  22 79 40 72 84 74 93 94 90  9.4 8.1 14.4 10.6 11.0 4.2 16.3 19.0 10.0  0.73 0.49 0.72 0.55 0.55 0.34 0.62 0.66 0.51  778 1286 683 120 97 140  218 300 212 82 60 70  81.8 127.1 114.1 18.5 34.1 11.7  0.81 0.85 0.87 0.66 0.86 0.56  Rizospheric soil Alcúdia Alcúdia Alcúdia Campos Campos Campos  1654 2506 1358 2022 1429 2048  275 499 368 490 415 448  Total Mean SD  98 663 4110.96 4729.69  40 146 1672.75 3955.98  1379 2007 990 1532 1014 1600  58 517 5393 2,438.21 224.71 1825.03 295.52  657 78 70  2) showed differences depending on the location, with salinity and K+ being higher in C (P < 0.05), whereas an inverse pattern (P < 0.05) was observed for the remaining measured parameters (Figs 1 and 2).  Analysis of the total bacterial endophytic community structures The majority of sequences in the endosphere represented 249 OPUs affiliated with Proteobacteria (86.7% of the total sequences integrated in 151 OPUs) 
-he major proteobacterial taxa affiliated with the classes Alphaproteobacteria (48 OPUs = 7.7% sequences) and Gammaproteobacteria (74 OPUs = 76.3% sequences) 
-irmicutes (35 OPUs = 8.8% sequences) and Bacteroidetes (28 OPUs = 1.8% sequences) followed Proteobacteria in abundance 
-PUs 1 (Rudaea cellulosilytica), 6 (Psychrobacter spp.), 12 (Chromohalobacter canadensis), 13 (Halomonas spp.) and 109 (Bradyrhizobium spp.) were present in all fractions of all plants (Fig. 3; Table 2), and in high sequence numbers 
-owever, a high number of OPUs were exclusively detected in single compartments (green = 10, red = 26 and root = 79), all of which, except OPU  Downloaded from https://academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018  163 (Bhargavaea spp 
-he results were similar for the beta-diversity analyses where the Campos compartments did not show differences (F-statistic = 1.034, P = 0.413) and the Alcúdia compartments showed results very close to the significance level α = 0.05 (F-statistic = 1.78, P = 0.049; Table S2, Supporting Information) 
-n the same way, richness estimations (P > 0.05; q = 0) and rarefaction curves (Table 1 and Fig 
-owever, the Jost q = 1 and equitability-J indices were different between compartments, and were always lower in the red fraction (Fig. 3) 
-n the other hand, when comparing the betadiversity between both locations the differences were significant (F-statistic = 1.91, P < 0.001; Table S2, Supporting Information) and similar to the richness estimations (P < 0.05) 
-egarding the community structures in relation to the soil physicochemical properties, salinity and OM were the parameters that better correlated with the endophytic differences between locations (Fig. 1) 
-dditionally, it was notable that the correlation analyses (data not shown) indicated that none of the soil chemical parameters measured were good predictors of the bacterial diversity indices.  Description of the bacterial communities by plant compartment and location The most abundant OPUs 1 (R. cellulosilytica), 6 (Psychrobacter sp.), 12 (C. canadensis), 13 (Halomonas spp.) and 109 (Bradyrhizobium sp.) were present in all fractions (Table 2) 
-sychrobacter sp. (OPU 6; up to 37.5%) was especially abundant in red and R. cellulosilytica (OPU 1; up to 12.1%) was remarkably abundant in green and root (Fig. 3) 
-n addition, there were compartmentexclusive OPUs, especially noticeable in the root fraction dominated principally by Enterobacter species, and uncultured Sodalis sp. in red 
-he 10 OPUs exclusive to green were homogeneously distributed between Bacteroidetes (Hymenobacter sp.) and Actinobacteria (Corynebacterium sp.) (Table 2) 
+aw seqs Removed seqs Final seqs OTUs q=0 OPUs q = 1 Eqt . Endosphere Alcúdia Green Green Green Red Red Red Root Root Root Campos Green Green Green Red Red Red Root Root Root 2656 2304 1704 2120 1672 1740 2240 1600 1966 320 64 288 44 40 24 32 8 30 2336 2240 1416 2076 1632 1716 2208 1592 1936 31 27 34 63 54 68 114 70 115 23 18 22 27 29 27 56 39 57 14.9 10.8 8.9 5.0 7.2 6.2 19.3 12.1 14.5 0.86 0.83 0.72 0.49 0.59 0.56 0.73 0.69 0.67 1224 2035 3251 18 679 14 878 12 898 3027 4993 8659 15 34 2245 15 266 12 330 5916 75 835 85 1209 2001 1006 3413 2548 6982 2952 4158 8574 31 269 58 187 175 211 237 187 358 22 79 40 72 84 74 93 94 90 9.4 8.1 14.4 10.6 11.0 4.2 16.3 19.0 10.0 0.73 0.49 0.72 0.55 0.55 0.34 0.62 0.66 0.51 778 1286 683 120 97 140 218 300 212 82 60 70 81.8 127.1 114.1 18.5 34.1 11.7 0.81 0.85 0.87 0.66 0.86 0.56 Rizospheric soil Alcúdia Alcúdia Alcúdia Campos Campos Campos 1654 2506 1358 2022 1429 2048 275 499 368 490 415 448 Total Mean SD 98 663 4110.96 4729.69 40 146 1672.75 3955.98 1379 2007 990 1532 1014 1600 58 517 5393 2,438.21 224.71 1825.03 295.52 657 78 70 2 showed differences depending on the location with salinity and K+ being higher in C P < 0.05 , whereas an inverse pattern P < 0.05 was observed for the remaining measured parameters Figs 1 and 2 . Analysis of the total bacterial endophytic community structures The majority of sequences in the endosphere represented 249 OPUs affiliated with Proteobacteria 86.7 % of the total sequences integrated in 151 OPUs 
+he major proteobacterial taxa affiliated with the classes Alphaproteobacteria 48 OPUs = 7.7 % sequences and Gammaproteobacteria 74 OPUs = 76.3 % sequences 
+irmicutes 35 OPUs = 8.8 % sequences and Bacteroidetes 28 OPUs = 1.8 % sequences followed Proteobacteria in abundance 
+PUs 1 Rudaea cellulosilytica , 6 Psychrobacter spp . , 12 Chromohalobacter canadensis , 13 Halomonas spp . and 109 Bradyrhizobium spp . were present in all fractions of all plants Fig . 3 Table 2 , and in high sequence numbers 
+owever a high number of OPUs were exclusively detected in single compartments green = 10 red = 26 and root = 79 all of which , except OPU Downloaded from https //academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018 163 Bhargavaea spp 
+he results were similar for the beta-diversity analyses where the Campos compartments did not show differences F-statistic = 1.034 P = 0.413 and the Alcúdia compartments showed results very close to the significance level α = 0.05 F-statistic = 1.78 P = 0.049 Table S2 Supporting Information 
+n the same way richness estimations P > 0.05 q = 0 and rarefaction curves Table 1 and Fig 
+owever the Jost q = 1 and equitability-J indices were different between compartments and were always lower in the red fraction Fig . 3 
+n the other hand when comparing the betadiversity between both locations the differences were significant F-statistic = 1.91 P < 0.001 Table S2 Supporting Information and similar to the richness estimations P < 0.05 
+egarding the community structures in relation to the soil physicochemical properties salinity and OM were the parameters that better correlated with the endophytic differences between locations Fig . 1 
+dditionally it was notable that the correlation analyses data not shown indicated that none of the soil chemical parameters measured were good predictors of the bacterial diversity indices . Description of the bacterial communities by plant compartment and location The most abundant OPUs 1 R. cellulosilytica , 6 Psychrobacter sp . , 12 C. canadensis , 13 Halomonas spp . and 109 Bradyrhizobium sp . were present in all fractions Table 2 
+sychrobacter sp . OPU 6 up to 37.5 % was especially abundant in red and R. cellulosilytica OPU 1 up to 12.1 % was remarkably abundant in green and root Fig . 3 
+n addition there were compartmentexclusive OPUs especially noticeable in the root fraction dominated principally by Enterobacter species and uncultured Sodalis sp . in red 
+he 10 OPUs exclusive to green were homogeneously distributed between Bacteroidetes Hymenobacter sp . and Actinobacteria Corynebacterium sp . ( Table 2 
 he differences between locations were marked by 45 exclusive OPUs in Alcúdia and 120 in Campos 
-n general, the abundances of the exclusive OPUs were low and ranged between 0.01% and 1.70%, with the exception of Enterobacter amnigenus (OPU 57) that accounted for 8.67% of the total sequences in Alcúdia roots (Fig. 3) 
-n the Campos location, the most common families were Moraxellaceae, Bradyrhizobiaceae, Sphingomonadaceae and Flavobacteriaceae, whereas in Alcúdia they were Enterobacteriaceae and Planococcaceae 
-mong these, according to the ISA, there were 27 indicator species for Campos and 3 for Alcúdia (P < 0.05; Table S3, Supporting Information) 
-dditionally, all the representatives of Epsilonproteobacteria (OPUs 101 and 102), Tenericutes (OPUs 180 and 181) and Gemmatimonadetes (OPU 229) were only detected in Alcúdia, with all Planctomycetes (OPUs 224 and 225), Armatimonadetes (OPU 244) and Chloroflexi (OPU 249) only in Campos.  Rhizospheric soil microbial community structures Alcúdia samples exhibited higher richness than those in Campos, contrary to that observed for the endophytic community (Table 1), and both locations showed different community  Mora-Ruiz et al.  5  Figure 1 
- = Alcúdia and C = Campos.  structures (Fig 
-4 and Table S2, Supporting Information) 
-hizospheric soils from Alcúdia and Campos shared 17 (4.8 ± 2.5% of the total sequences) and 39 (20.2 ± 3.3% of the total sequences) OPUs with the respective endospheres 
-n the other hand, these shared OPUs represented approximately 8.9 ± 5.0% and 53.5 ± 17.3% in Campos of the sequences belonging to the endophytic communities (Fig. 4) 
-alomonas sp. and Pseudomonas sp. (OPUs 13 and 16) were the most important OPUs shared between rhizospheric soil and endosphere in both locations 
-espite the fact that the rhizospheric communities were distinct in both locations, they were both principally represented  Downloaded from https://academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018  by Proteobacteria (52.7% of the total sequences for Alcúdia, and 33.9% for Campos), with Gammaproteobacteria being the most abundant class 
-nother 21 phyla were additionally detected but, of these, only Acidobacteria, Actinobacteria, Bacteroidetes, Gemmatimonadetes, Firmicutes, Planctomycetes and Saccharibacteria exhibited abundances higher than 2% in Alcúdia or Campos (Table 2) 
-he most abundant OPUs in Alcúdia soil were Rhodovibrio salinarum (OPU 145; representing up to 3%–18% of the sequences), Halomonas sp. (OPU 13), uncultured Ruminococcaceae sp. (OPU 190), Acidobacteria Subgroup 6 sp. (OPU 254), Draconibacteriaceae sp. (OPU 408) and uncultured Azospira sp. (OPU 432) (these latter five clades together represented between 10% and 16% of  6  FEMS Microbiology Ecology, 2016, Vol. 92, No. 9  Table 2 
+n general the abundances of the exclusive OPUs were low and ranged between 0.01 % and 1.70 % with the exception of Enterobacter amnigenus OPU 57 that accounted for 8.67 % of the total sequences in Alcúdia roots Fig . 3 
+n the Campos location the most common families were Moraxellaceae Bradyrhizobiaceae Sphingomonadaceae and Flavobacteriaceae whereas in Alcúdia they were Enterobacteriaceae and Planococcaceae 
+mong these according to the ISA there were 27 indicator species for Campos and 3 for Alcúdia P < 0.05 Table S3 Supporting Information 
+dditionally all the representatives of Epsilonproteobacteria OPUs 101 and 102 Tenericutes OPUs 180 and 181 and Gemmatimonadetes OPU 229 were only detected in Alcúdia with all Planctomycetes OPUs 224 and 225 , Armatimonadetes OPU 244 and Chloroflexi OPU 249 only in Campos . Rhizospheric soil microbial community structures Alcúdia samples exhibited higher richness than those in Campos , contrary to that observed for the endophytic community Table 1 , and both locations showed different community Mora-Ruiz et al . 5 Figure 1 
+= Alcúdia and C = Campos . structures Fig 
+4 and Table S2 Supporting Information 
+hizospheric soils from Alcúdia and Campos shared 17 4.8 ± 2.5 % of the total sequences and 39 20.2 ± 3.3 % of the total sequences OPUs with the respective endospheres 
+n the other hand these shared OPUs represented approximately 8.9 ± 5.0 % and 53.5 ± 17.3 % in Campos of the sequences belonging to the endophytic communities Fig . 4 
+alomonas sp . and Pseudomonas sp . OPUs 13 and 16 were the most important OPUs shared between rhizospheric soil and endosphere in both locations 
+espite the fact that the rhizospheric communities were distinct in both locations they were both principally represented Downloaded from https //academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018 by Proteobacteria 52.7 % of the total sequences for Alcúdia and 33.9 % for Campos , with Gammaproteobacteria being the most abundant class 
+nother 21 phyla were additionally detected but of these only Acidobacteria Actinobacteria Bacteroidetes Gemmatimonadetes Firmicutes Planctomycetes and Saccharibacteria exhibited abundances higher than 2 % in Alcúdia or Campos Table 2 
+he most abundant OPUs in Alcúdia soil were Rhodovibrio salinarum OPU 145 representing up to 3 % –18 % of the sequences Halomonas sp . OPU 13 uncultured Ruminococcaceae sp . OPU 190 Acidobacteria Subgroup 6 sp . OPU 254 , Draconibacteriaceae sp . OPU 408 and uncultured Azospira sp . OPU 432 ( these latter five clades together represented between 10 % and 16 % of 6 FEMS Microbiology Ecology , 2016 , Vol . 92 , No . 9 Table 2 
 ost relevant OPUs of the endosphere and the rizospheric soil 
-irst column (from left to right): OPU number; second column: information about the affiliation with the closest relative sequence and the accession number 
+irst column from left to right OPU number second column : information about the affiliation with the closest relative sequence and the accession number 
 hizospheric soils included Alcúdia and Campos 
-he Y axis and black squares represent the relationship of the values for the Jost diversity index q = 1 per group of samples.  the total sequences; Table 2) 
-nly the first OPUs co-occurred in their respective endophytic fraction, and Halomonas sp. (OPU 13) occurred in all fractions 
-n the other hand, Campos soils were characterized by high abundances of OM1 clade sp. (OPU 278; between 11% and 48% of the total sequences), C. canadensis (OPU 12), E. amnigenus (OPU 57), Rh. salinarum (OPU 145; uncultured Ruminococcaceae sp. (OPU 190) and ABS-19 (OPU 251) (these latter five clades together represented between 10% and 19% of the total sequences) 
-rom these, only C. canadensis and Rh. salinarum co-occurred in some of their respective endophytic fractions (Table 2; Fig. 3) 
-n addition, R. cellulosilytica also co-occurred but with abundances lower than 1.4%, whereas C. canadensis occurred in all fractions from plants and soil, which was similar to Halomonas sp. for the Alcúdia location.  DISCUSSION To our knowledge, this is the first report where compartmentalization of endophytic bacterial communities from the phyllosphere and rhizosphere of halophytes has been analyzed at a microscale and mesoscale 
-PUs could be identified as taxa at the species and genus levels because the sequences were of higher quality (lengths of over 800 bp) compared to other similar studies (Gottel et al. 2011; Bodenhausen, Horton and Bergelson 2013), and also because the OPU approach by means of phylogenetic inferences produced more accurate identifications (92.8% of the OPUs could be affiliated at the genus level; Vidal et al. 2015) 
-he presence of Chromohalobacter canadensis was previously reported in Arthrocnemum macrostachyum and the other halophyte Allenrolfea vaginata (Mora-Ruiz et al. 2015).  Downloaded from https://academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018  The differences detected between the locations may respond to the combination of the soil physicochemical properties and microbial composition, and the host genotype (Bulgarelli et al. 2012) 
-n this regard, the soils studied here exhibited considerable physicochemical differences that could condition their bacterial diversity (Fierer and Jackson 2006), despite the fact that pH was alkaline and similar to other reported values (Pereira, Vicentini and Ottoboni 2014; Gao et al. 2015) 
-egional Salinity Laboratory Staff 1947) and differences in other parameters depending on the location were observed 
-hese physicochemical parameters might directly influence the microbial composition of soils (Gao et al. 2015), and the rhizospheric soil of Alcúdia (more mesophilic environment and organic rich) showed nearly 3-fold more OPUs than Campos 
-n addition, a direct correlation was detected between CO3 2− and salinity concentrations with the presence of Bacteroidetes, Deltaproteobacteria and Chlorobi (higher in Alcúdia), and K+ concentrations with Actinobacteria (higher in Campos) 
-+ has been considered as one of the principal chemical parameters influencing distinct abundances of phyla in soil bacterial communities (Pereira, Vicentini and Ottoboni 2014) 
-owever, there may be other environmental traits (e.g. aeration, pore size, temperature and water) not registered in this study that could control microbial diversity patterns (Nemergut et al. 2011; Bokulich et al. 2014) 
-or both locations, only Rhodovibrio salinarum and uncultured Ruminococcaceae sp. were part of the most abundant OPUs in Campos and Alcúdia 
-n the same way, Bradyrhizobium sp. was abundant in the endosphere from the two locations and not detected in their corresponding soils, contrary to previously reported in Populus deltoides, where it was principally detected in rhizosphere (Gottel et al. 2011).  8  FEMS Microbiology Ecology, 2016, Vol. 92, No. 9  Figure 4 
+he Y axis and black squares represent the relationship of the values for the Jost diversity index q = 1 per group of samples . the total sequences Table 2 
+nly the first OPUs co-occurred in their respective endophytic fraction and Halomonas sp . OPU 13 occurred in all fractions 
+n the other hand Campos soils were characterized by high abundances of OM1 clade sp . OPU 278 between 11 % and 48 % of the total sequences , C. canadensis OPU 12 , E. amnigenus OPU 57 , Rh . salinarum OPU 145 uncultured Ruminococcaceae sp . OPU 190 and ABS-19 OPU 251 ( these latter five clades together represented between 10 % and 19 % of the total sequences 
+rom these only C. canadensis and Rh . salinarum co-occurred in some of their respective endophytic fractions Table 2 Fig . 3 
+n addition R. cellulosilytica also co-occurred but with abundances lower than 1.4 % whereas C. canadensis occurred in all fractions from plants and soil which was similar to Halomonas sp . for the Alcúdia location . DISCUSSION To our knowledge this is the first report where compartmentalization of endophytic bacterial communities from the phyllosphere and rhizosphere of halophytes has been analyzed at a microscale and mesoscale 
+PUs could be identified as taxa at the species and genus levels because the sequences were of higher quality lengths of over 800 bp compared to other similar studies Gottel et al . 2011 Bodenhausen Horton and Bergelson 2013 , and also because the OPU approach by means of phylogenetic inferences produced more accurate identifications 92.8 % of the OPUs could be affiliated at the genus level Vidal et al . 2015 
+he presence of Chromohalobacter canadensis was previously reported in Arthrocnemum macrostachyum and the other halophyte Allenrolfea vaginata Mora-Ruiz et al . 2015 . Downloaded from https //academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018 The differences detected between the locations may respond to the combination of the soil physicochemical properties and microbial composition and the host genotype Bulgarelli et al . 2012 
+n this regard the soils studied here exhibited considerable physicochemical differences that could condition their bacterial diversity Fierer and Jackson 2006 despite the fact that pH was alkaline and similar to other reported values Pereira , Vicentini and Ottoboni 2014 Gao et al . 2015 
+egional Salinity Laboratory Staff 1947 and differences in other parameters depending on the location were observed 
+hese physicochemical parameters might directly influence the microbial composition of soils Gao et al . 2015 , and the rhizospheric soil of Alcúdia more mesophilic environment and organic rich showed nearly 3-fold more OPUs than Campos 
+n addition a direct correlation was detected between CO3 2− and salinity concentrations with the presence of Bacteroidetes Deltaproteobacteria and Chlorobi higher in Alcúdia , and K+ concentrations with Actinobacteria higher in Campos 
++ has been considered as one of the principal chemical parameters influencing distinct abundances of phyla in soil bacterial communities Pereira Vicentini and Ottoboni 2014 
+owever there may be other environmental traits e.g . aeration pore size temperature and water not registered in this study that could control microbial diversity patterns Nemergut et al . 2011 Bokulich et al . 2014 
+or both locations only Rhodovibrio salinarum and uncultured Ruminococcaceae sp . were part of the most abundant OPUs in Campos and Alcúdia 
+n the same way Bradyrhizobium sp . was abundant in the endosphere from the two locations and not detected in their corresponding soils contrary to previously reported in Populus deltoides where it was principally detected in rhizosphere Gottel et al . 2011 . 8 FEMS Microbiology Ecology 2016 Vol . 92 No . 9 Figure 4 
 iagram showing the comparisons between the bacterial communities of the rizhospheric soils and the endospheres of the halophytes in Alcúdia y Campos 
-he percentages of abundances of the most relevant OPUs in each group of samples (rhizospheric soil and endosphere) and shared OPUs are given below.  The soil salinity also influences the halophytes colonizing them 
-here were some major ubiquitous organisms in the endosphere, and some were also detected in the soils of both locations, such as Halomonas sp., or only in the Campos soils 
-heir presence in the endosphere could originate after root colonization due to chemotaxis (Bulgarelli et al. 2013) from the soil communities (Wulff, van Vuurde and Hockenhull 2003; Chi et al. 2005), followed by migration to the aerial parts 
-owever, some relevant taxa were undetectable in Alcúdia soils, although they probably formed part of the seed bank or rare biosphere of these soils (Pedro-Aliós 2006), and would gain preponderance in a favorable endophytic environment 
-owever, the fact that between 9% (for Alcúdia) and 53% (for Campos) of the total endospheric taxonomic composition was shared with their corresponding rhizospheric soil communities led us to believe that root colonization may be the major contributor to the endosphere composition (Bulgarelli et al. 2013) 
-he lower salinity of the Alcúdia soils may explain the low abundances of the ubiquitous and relevant endophytic, halophilic bacteria, such as C. canadensis that would gain preponderance once colonizing the plant with higher saline levels in its endosphere 
- clear diversity gradient was observed between the three compartments in each plant, being higher in the rhizosphere (as already reported for Arabidopsis thaliana; Bodenhausen,  Mora-Ruiz et al.  Horton and Bergelson 2013) and decreasing towards the more mature aerial parts, with the latter having less equitability 
-dditionally, two of the most important OPUs, Psychrobacter sp. and Rudaea cellulosilytica, had notable abundance variations in the red fractions, being higher and lower (respectively) in these more mature parts of the plant in comparison with other areas of the endosphere 
-he reduction of diversity from the roots towards the more mature parts of the plant, apart from reinforcing a rhizospheric origin of the endogenous microbiota, may respond to factors such as passive mobility following water fluxes (Taghavi et al. 2010); specific selection due to plant–microbe interaction, such as chemotaxis (Bulgarelli et al. 2013) or plant defensive systems (Jones and Dangl 2006); and specialization in niche colonization (Bulgarelli et al. 2013) 
-n summary, the results presented here indicated that the endosphere of the halophyte A. macrostachyum may be strongly influenced by the microbial composition of the soils where this plant grows, and the soils themselves by their environmental physicochemical parameters 
-he influence of the soil on plant microbial colonization was supported by its sharing of taxa with the plant compartments, and with reduction of diversity from the roots towards the mature aerial parts 
-n the other hand, there were several ubiquitous major microbial components, moderately halophilic in their metabolism, which seemed to be plant related and not always detectable in the rhizospheric soils 
-heir presence may indicate a probable relevant role in the plant– microbe interaction, and the absence of detection in some soil samples could point to other alternative origins (e.g. presence in plant seeds prior to germination) 
-he study provides an insight into understanding the possible mechanisms of dispersion and colonization in different plant lifecycle stages (seeds, seedlings and adults) and the endosphere microbial community dynamics associated with halophytes.  SUPPLEMENTARY DATA Supplementary data are available at FEMSEC online.  FUNDING This study was funded by the Spanish Ministry of Economy projects CGL2012-39627-C03-03 and CLG2015˙66686-C3-1-P, which were also both supported with European Regional Development Fund (FEDER) funds, and the preparatory phase of the Microbial Resource Research Infrastructure (MIRRI) funded by the EU (grant number 312251) 
-MR’s PhD was supported by fel-  Downloaded from https://academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018  9  lowship CVU 265934 from the National Council of Science and Technology (CONACyT), Mexico 
+he percentages of abundances of the most relevant OPUs in each group of samples rhizospheric soil and endosphere and shared OPUs are given below . The soil salinity also influences the halophytes colonizing them 
+here were some major ubiquitous organisms in the endosphere and some were also detected in the soils of both locations such as Halomonas sp. or only in the Campos soils 
+heir presence in the endosphere could originate after root colonization due to chemotaxis Bulgarelli et al . 2013 from the soil communities Wulff van Vuurde and Hockenhull 2003 Chi et al . 2005 , followed by migration to the aerial parts 
+owever some relevant taxa were undetectable in Alcúdia soils although they probably formed part of the seed bank or rare biosphere of these soils Pedro-Aliós 2006 , and would gain preponderance in a favorable endophytic environment 
+owever the fact that between 9 % for Alcúdia and 53 % for Campos of the total endospheric taxonomic composition was shared with their corresponding rhizospheric soil communities led us to believe that root colonization may be the major contributor to the endosphere composition Bulgarelli et al . 2013 
+he lower salinity of the Alcúdia soils may explain the low abundances of the ubiquitous and relevant endophytic halophilic bacteria such as C. canadensis that would gain preponderance once colonizing the plant with higher saline levels in its endosphere 
+clear diversity gradient was observed between the three compartments in each plant being higher in the rhizosphere as already reported for Arabidopsis thaliana Bodenhausen Mora-Ruiz et al . Horton and Bergelson 2013 and decreasing towards the more mature aerial parts with the latter having less equitability 
+dditionally two of the most important OPUs Psychrobacter sp . and Rudaea cellulosilytica had notable abundance variations in the red fractions being higher and lower respectively in these more mature parts of the plant in comparison with other areas of the endosphere 
+he reduction of diversity from the roots towards the more mature parts of the plant apart from reinforcing a rhizospheric origin of the endogenous microbiota may respond to factors such as passive mobility following water fluxes Taghavi et al . 2010 ; specific selection due to plant–microbe interaction such as chemotaxis Bulgarelli et al . 2013 or plant defensive systems Jones and Dangl 2006 ; and specialization in niche colonization Bulgarelli et al . 2013 
+n summary the results presented here indicated that the endosphere of the halophyte A. macrostachyum may be strongly influenced by the microbial composition of the soils where this plant grows and the soils themselves by their environmental physicochemical parameters 
+he influence of the soil on plant microbial colonization was supported by its sharing of taxa with the plant compartments and with reduction of diversity from the roots towards the mature aerial parts 
+n the other hand there were several ubiquitous major microbial components moderately halophilic in their metabolism which seemed to be plant related and not always detectable in the rhizospheric soils 
+heir presence may indicate a probable relevant role in the plant– microbe interaction and the absence of detection in some soil samples could point to other alternative origins e.g . presence in plant seeds prior to germination 
+he study provides an insight into understanding the possible mechanisms of dispersion and colonization in different plant lifecycle stages seeds seedlings and adults and the endosphere microbial community dynamics associated with halophytes . SUPPLEMENTARY DATA Supplementary data are available at FEMSEC online . FUNDING This study was funded by the Spanish Ministry of Economy projects CGL2012-39627-C03-03 and CLG2015˙66686-C3-1-P which were also both supported with European Regional Development Fund FEDER funds and the preparatory phase of the Microbial Resource Research Infrastructure MIRRI funded by the EU grant number 312251 
+MR ’ s PhD was supported by fel- Downloaded from https //academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018 9 lowship CVU 265934 from the National Council of Science and Technology CONACyT , Mexico 
 acterial communities associated with the leaves and the roots of Arabidopsis thaliana 
-icrobial biogeography of wine grapes is conditioned by cultivar, vintage, and climate 
+icrobial biogeography of wine grapes is conditioned by cultivar vintage and climate 
 evealing structure and assembly cues for Arabidopsis root-inhabiting bacterial microbiota 
 tructure and functions of the bacterial microbiota of plants 
 dentification of betacyanin and effects of environmental factos on its accumulation in halophyte Suaeda salsa 
-scending migration of endophytic rhizobia, from roots to leaves, inside rice plants and assessment of benefits to rice growth physiology 
-ssociations between species and groups of sites:indices and statistical inference 
-patio-temporal composition and dynamics of zooplankton in the Kalmar Sound (western Baltic Sea) in 2009–2010 
-axonomic study of Marinomonas strains isolated from the seagrass Posidonia oceanica, with descriptions of Marinomonas balearica sp. nov. and Marinomonas pollencensis sp. nov 
-nnual variations in the diversity, viability, and origin of airborne bacteria 
+scending migration of endophytic rhizobia from roots to leaves inside rice plants and assessment of benefits to rice growth physiology 
+ssociations between species and groups of sites indices and statistical inference 
+patio-temporal composition and dynamics of zooplankton in the Kalmar Sound western Baltic Sea in 2009–2010 
+axonomic study of Marinomonas strains isolated from the seagrass Posidonia oceanica with descriptions of Marinomonas balearica sp . nov. and Marinomonas pollencensis sp . nov 
+nnual variations in the diversity viability and origin of airborne bacteria 
 he diversity and biogeography of soil bacterial communities 
 icrobial diversity and dynamics of a groundwater and a still bottled natural mineral water 
-ffects of salinization and crude oil contamination on soil bacterial community structure in the Yellow River Delta region, China 
+ffects of salinization and crude oil contamination on soil bacterial community structure in the Yellow River Delta region China 
 istinct microbial communities within the endosphere and rhizosphere of Populus deltoides roots across contrasting soil types 
 aleontological statistics software package for education and data analysis 
 hifts in microbial community structure along an ecological gradient of hypersaline soils and sediments 
-haracterization of rhizosphere and endophytic bacterial communities from leaves, stems and roots of medicinal Stellera chamaejasme L 
-rowth and some physiological parameters of four sugar beet (Beta vulgaris l.) cultivars as affected by salinity 
-alt tolerance and salinity effects on plants: A review 
-alt stimulation of growth and photosynthesis in an extreme halophyte, Arthrocnemum macrostachyum 
-ffects of NaCl and Na2 SO4 on red-osier dogwood (Cornus stolonifera Michx) seedlings 
+haracterization of rhizosphere and endophytic bacterial communities from leaves stems and roots of medicinal Stellera chamaejasme L 
+rowth and some physiological parameters of four sugar beet Beta vulgaris l. cultivars as affected by salinity 
+alt tolerance and salinity effects on plants A review 
+alt stimulation of growth and photosynthesis in an extreme halophyte Arthrocnemum macrostachyum 
+ffects of NaCl and Na2 SO4 on red-osier dogwood Cornus stolonifera Michx seedlings 
 roperties of the halophyte microbiome and their implications for plant salt tolerance 
-ntroducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities 
- method of stabilizing groups of equivalent amplitude in plant sociology based on the similarity of species content and its application to analyses of the vegetation on Danish commons 
-acterial seed endophytes: genera, vertical transmission and interaction with plants 
-iagnosis and Improvement of Saline and Alkali Soils. 157 edn 
+ntroducing mothur open-source platform-independent community-supported software for describing and comparing microbial communities 
+method of stabilizing groups of equivalent amplitude in plant sociology based on the similarity of species content and its application to analyses of the vegetation on Danish commons 
+acterial seed endophytes genera vertical transmission and interaction with plants 
+iagnosis and Improvement of Saline and Alkali Soils . 157 edn 
 icrobial interactions and biocontrol in the rhizosphere 
 pdate of the all-species living tree project based on 16S and 23S rRNA sequence analyses 
-FEMS Microbiology Ecology, 92, 2016, fiw145 doi: 10.1093/femsec/fiw145 Advance Access Publication Date: 27 June 2016 Research Article  RESEARCH ARTICLE  Endophytic microbial diversity of the halophyte Arthrocnemum macrostachyum across plant compartments Merit del R 
-he halophyte Arthrocnemum macrostachyum is particularly interesting because it is one of the few species proven to be extremely well adapted to hypersaline conditions (RedondoGómez et al. 2010) 
-ven though the optimum salinity in the substrate ranges from 171 to 540 mM NaCl, this species can grow on substrates with salinities up to 1030 mM NaCl (RedondoGómez et al. 2010) 
-s we have already reported (Mora-Ruiz et al. 2015), the internal tissues of this plant can serve as a suitable environment for the colonization of moderately halophilic bacteria 
-or this purpose, 454-pyrosequencing of 16S rRNA amplicons was applied following the operational phylogenetic unit (OPU) approach (Mora-Ruiz et al. 2015; Fig 
-oreover, it minimizes the overestimation of richness measures calculated with OTUs as one OPU may group distinct OTUs that would not be recognized of being of the same unit due to differences in length or slight sequence dissimilarities (Vidal et al. 2015) 
+FEMS Microbiology Ecology 92 2016 fiw145 doi 10.1093/femsec/fiw145 Advance Access Publication Date 27 June 2016 Research Article RESEARCH ARTICLE Endophytic microbial diversity of the halophyte Arthrocnemum macrostachyum across plant compartments Merit del R 
+he halophyte Arthrocnemum macrostachyum is particularly interesting because it is one of the few species proven to be extremely well adapted to hypersaline conditions RedondoGómez et al . 2010 
+ven though the optimum salinity in the substrate ranges from 171 to 540 mM NaCl this species can grow on substrates with salinities up to 1030 mM NaCl RedondoGómez et al . 2010 
+s we have already reported Mora-Ruiz et al . 2015 , the internal tissues of this plant can serve as a suitable environment for the colonization of moderately halophilic bacteria 
+or this purpose 454-pyrosequencing of 16S rRNA amplicons was applied following the operational phylogenetic unit OPU approach Mora-Ruiz et al . 2015 Fig 
+oreover it minimizes the overestimation of richness measures calculated with OTUs as one OPU may group distinct OTUs that would not be recognized of being of the same unit due to differences in length or slight sequence dissimilarities Vidal et al . 2015 
 xcision areas were first hot cauterized using an incandescent metal loop to avoid the loss of sap 
-he root samples were rinsed six times with sterile water (5 min each step) in order to completely remove the soil attached to their surfaces 
-fter the last wash, the plant material was dried using sterile paper towels 
-n equimolar mix of the amplicons was sent to Macrogen Inc. (Seoul, Korea) for sequencing using 454 GS-FLX+ Titanium technology 
-ost index (q = 1) was computed by a Monte Carlo resampling (1000 simulations) the OPU matrix to the minimum sequences 
-itted vectors were represented as arrows pointing in the direction of the most rapid change in the environmental variables (Dı́az-Gil et al. 2014; Oksanen 2016) 
-hysicochemical parameters were analyzed at the Conselleria d’Agricultura, Medi Ambient i Territori (Govern de les Illes Balears, Mallorca, Spain) 
-owever, only OM showed a significant value (P < 0.05) for the effect of discriminating the communities by location 
-he latter showed the highest richness values, which were principally observed in the root compartments (Table 1) 
-otted lines show the gradient for the soil environmental parameters.  Figure 2 
+he root samples were rinsed six times with sterile water 5 min each step in order to completely remove the soil attached to their surfaces 
+fter the last wash the plant material was dried using sterile paper towels 
+n equimolar mix of the amplicons was sent to Macrogen Inc. Seoul Korea for sequencing using 454 GS-FLX+ Titanium technology 
+ost index q = 1 was computed by a Monte Carlo resampling 1000 simulations the OPU matrix to the minimum sequences 
+itted vectors were represented as arrows pointing in the direction of the most rapid change in the environmental variables Dı́az-Gil et al . 2014 Oksanen 2016 
+hysicochemical parameters were analyzed at the Conselleria d ’ Agricultura Medi Ambient i Territori Govern de les Illes Balears Mallorca Spain 
+owever only OM showed a significant value P < 0.05 for the effect of discriminating the communities by location 
+he latter showed the highest richness values which were principally observed in the root compartments Table 1 
+otted lines show the gradient for the soil environmental parameters . Figure 2 
 o special abundance of the shared OPUs was detected in any specific fraction of the plant 
-ther columns contain the percentage mean of relative abundance of each OPU referenced to the total sequences for each kind of sample.  Downloaded from https://academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018  Mora-Ruiz et al.  7  Figure 3 
-umbers inside the bar charts are the average percentages of sequences detected in each OPU per sample; abundances under 0.5% are not represented 
-e are aware that the sample number may be low, but our results appear consistent with our previous studies (Mora-Ruiz et al. 2015), where differences in endosphere composition were dependent on the location, but the major key players were common in all plants 
+ther columns contain the percentage mean of relative abundance of each OPU referenced to the total sequences for each kind of sample . Downloaded from https //academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018 Mora-Ruiz et al . 7 Figure 3 
+umbers inside the bar charts are the average percentages of sequences detected in each OPU per sample abundances under 0.5 % are not represented 
+e are aware that the sample number may be low but our results appear consistent with our previous studies Mora-Ruiz et al . 2015 where differences in endosphere composition were dependent on the location , but the major key players were common in all plants 
 ost of the principal elements in the endosphere were moderate halophiles 
-owever, relevant host genotype differences were discarded as the plants were only 60 km apart 
-owever, the soil in Campos exhibited 10-fold higher salinity (considered to be a strongly saline soil ≥ 2%; U.S 
-ccordingly, the soils from the two locations were different in their taxa compositions 
-owever, it was remarkable that C. canadensis remained undetectable in the Alcúdia soils, this OPU being one of the most abundant in endosphere 
+owever relevant host genotype differences were discarded as the plants were only 60 km apart 
+owever the soil in Campos exhibited 10-fold higher salinity considered to be a strongly saline soil ≥ 2 % U.S 
+ccordingly the soils from the two locations were different in their taxa compositions 
+owever it was remarkable that C. canadensis remained undetectable in the Alcúdia soils this OPU being one of the most abundant in endosphere 
 he size of the ellipses represents their total number of OPUs 
-s other halophytes, A. macrostachyum accumulates distinct ion concentrations in its vacuoles in amounts directly correlated with the increase of external (soil) salt concentrations due to increased uptake by osmoregulation (Redondo-Gómez et al. 2010) 
-s Campos soil was more saline than Alcúdia soil, the plants may have had different saline contents in their endospheres, which would influence the composition of each endosphere 
-n alternative origin could also be related to aerosol transmission through the aerial parts (Fahlgren et al. 2010), or by vertical transmission (bacteria already occurring in the seeds; Truyens et al. 2015) 
-n general, the diversity values detected were very similar to previous studies of leaves (Emiliani et al. 2014; Jin et al. 2014) 
-o clear trend could be detected in the distinct occurrence of specific OPUs in the different compartments, some of which (generally a minority) seemed to be specifically associated with one fraction of the plant 
-thers, like most of the representatives of the Enterobacteriaceae (especially Enterobacter amnigenus), were notably abundant in the root’s endosphere, some of which have been reported as having plant growth-promoting effects principally associated with roots (Whipps 2001) 
-n this regard, the higher saline conditions of the Campos soil led to reduced taxa richness in accordance with what occurs in extreme saline environments (Hollister et al. 2010) 
-inally, the endophytic lifestyle of some taxa is reported here for the first time, such as the known cellulose-degrading microorganism R. cellulosilytica, which although present in some soils has not yet been reported as part of the endomicrobiota of plants (Weon et al. 2009) 
-FV was supported by a Javier Benedı́ from the Mediterranean Institute for Advanced Studies. (IMEDEA UIB-CSIC) fellowship 
+s other halophytes A. macrostachyum accumulates distinct ion concentrations in its vacuoles in amounts directly correlated with the increase of external soil salt concentrations due to increased uptake by osmoregulation Redondo-Gómez et al . 2010 
+s Campos soil was more saline than Alcúdia soil the plants may have had different saline contents in their endospheres which would influence the composition of each endosphere 
+hese were not isolated Downloaded from https //academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018 cases as other organisms not observed as ubiquitous such as Marinomonas sp . also endophytes of marine plants Espinosa et al . 2010 or Sphingomonas sp. , were not detected in the soils 
+n alternative origin could also be related to aerosol transmission through the aerial parts Fahlgren et al . 2010 , or by vertical transmission bacteria already occurring in the seeds Truyens et al . 2015 
+n general the diversity values detected were very similar to previous studies of leaves Emiliani et al . 2014 Jin et al . 2014 
+o clear trend could be detected in the distinct occurrence of specific OPUs in the different compartments some of which generally a minority seemed to be specifically associated with one fraction of the plant 
+thers like most of the representatives of the Enterobacteriaceae especially Enterobacter amnigenus were notably abundant in the root ’ s endosphere , some of which have been reported as having plant growth-promoting effects principally associated with roots Whipps 2001 
+n this regard the higher saline conditions of the Campos soil led to reduced taxa richness in accordance with what occurs in extreme saline environments Hollister et al . 2010 
+inally the endophytic lifestyle of some taxa is reported here for the first time such as the known cellulose-degrading microorganism R. cellulosilytica which although present in some soils has not yet been reported as part of the endomicrobiota of plants Weon et al . 2009 
+FV was supported by a Javier Benedı́ from the Mediterranean Institute for Advanced Studies . IMEDEA UIB-CSIC fellowship 
 ASCIATA genes for chromatin assembly factor-1 in Arabidopsis maintain the cellular organization of apical meristems 
-ultidimensional Scaling: Sage University Paper Series on 779 Quantitative Applications in the Social Sciences, 11th edn 
-oderate halophilic bacteria colonizing the phylloplane of halophytes of the subfamily Salicornioideae (Amaranthaceae) 
+ultidimensional Scaling Sage University Paper Series on 779 Quantitative Applications in the Social Sciences 11th edn 
+oderate halophilic bacteria colonizing the phylloplane of halophytes of the subfamily Salicornioideae Amaranthaceae 
 lobal patterns in the biogeography of bacterial taxa 
 dentification of the metabolically active members of a bacterial community in a polychlorinated biphenyl-polluted moorland soil 
 hanges in the bacterial community of soil from a neutral mine drainage channel 
- novel terrestrial halophilic environment: the phylloplane of Atriplex halimus, a saltexcreting plant 
-enome sequence of the plant growth promoting endophytic bacterium Enterobacter sp. 638 
+novel terrestrial halophilic environment the phylloplane of Atriplex halimus a saltexcreting plant 
+enome sequence of the plant growth promoting endophytic bacterium Enterobacter sp . 638 
 rohn associated microbial communities associated to colonic mucosal biopsies in patients of the western Mediterranean 
-he ability of the biological control agent Bacillus subtilis, strain BB, to colonise vegetable brassicas endophytically following seed inoculation 
-hi F, Shen S, Cheng H et al 
-or permissions, please e-mail: journals.permissions@oup.com  1 Downloaded from https://academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018  2  FEMS Microbiology Ecology, 2016, Vol. 92, No. 9  hypersaline environments 
+he ability of the biological control agent Bacillus subtilis strain BB to colonise vegetable brassicas endophytically following seed inoculation 
+hi F Shen S Cheng H et al 
+in H Yang XY Yan ZQ et al 
+aya H Shibahara KI Taoka KI et al 
+ottel NR Castro HF Kerley M et al 
+or permissions please e-mail journals.permissions @ oup.com 1 Downloaded from https //academic.oup.com/femsec/article-abstract/92/9/fiw145/2197980 by guest on 18 February 2018 2 FEMS Microbiology Ecology 2016 Vol . 92 No . 9 hypersaline environments 
+2 Supporting Information 
+inor taxa were detected in 11 additional phyla 35 OPUs = 2.6 % sequences Table 2 
+ig . 3 Table 2 , were detected in very low abundances of less than 0.48 % 
 D = standard deviation 
 qt = Equitability-J 
-inor taxa were detected in 11 additional phyla (35 OPUs = 2.6% sequences; Table 2) 
- = Campos, A = Albufera d’Alcúdia 
-aya H, Shibahara KI, Taoka KI et al 
-he products were observed in 1% agarose gel electrophoresis run in 1X TAE buffer (at 25 V for 50 min) 
-nnu Rev Plant Biol 2013;64:807–38 
- Plant Physiol Mol Biol 2006;32:195–201 
-unct Plant Biol 2013;40:940–51 
+= Campos A = Albufera d ’ Alcúdia 
+he products were observed in 1 % agarose gel electrophoresis run in 1X TAE buffer at 25 V for 50 min 
+nnu Rev Plant Biol 2013 64:807–38 
+Plant Physiol Mol Biol 2006 32:195–201 
+unct Plant Biol 2013 40:940–51 
 apid determination of 16S ribosomal RNA sequences for phylogenetic analyses 
-INA: Accurate highthroughput multiple sequence alignment of ribosomal RNA genes 
+INA Accurate highthroughput multiple sequence alignment of ribosomal RNA genes 
+spinosa E Marco-Noales E Gómez D et al 
+ruesse E Peplies J Glöckner FO 
+edondo-Gómez S Mateos-Naranjo E Figueroa ME et al 

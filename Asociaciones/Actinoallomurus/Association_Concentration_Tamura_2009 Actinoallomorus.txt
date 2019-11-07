@@ -1,16 +1,29 @@
-he 16S rRNA gene sequence analysis revealed that the isolated strains formed a monophyletic cluster with Actinomadura spadix NBRC 14099T in which the branch was supported by a bootstrap value of 100 % (Fig. 1 and Supplementary Fig 
+hey contained D- and L-lysine meso-diaminopimelic acid A2pm Dglutamic acid and D- and L-alanine in the cell-wall peptidoglycan madurose as a characteristic whole-cell sugar , MK-9 H6 and MK-9 H8 as the major isoprenoid quinones and iso-C16 0 as the major cellular fatty acid and showed genomic DNA G+C contents of 69–74 mol % 
+ ctinomadura spadix Nonomura and Ohara 1971 is known as a distinct species having low 16S rRNA gene similarity with the other species of the genus the highest 16S rRNA gene sequence similarity of the type strain 95.9 % is shown by the type strain of Actinomadura alba Wang et al. 2007 
+ he 16S rRNA gene sequence analysis revealed that the isolated strains formed a monophyletic cluster with Actinomadura spadix NBRC 14099T in which the branch was supported by a bootstrap value of 100 % Fig . 1 and Supplementary Fig 
  inary 16S rRNA gene sequence similarities among the isolates and Actinomadura spadix NBRC 14099T were not less than 96.7 % 
- trains TT02-47T, TT02-22, and TT99-68 shared high 16S rRNA gene sequence similarities, ranging from 99.8 to 100 % 
- ll of the isolates and Actinomadura spadix NBRC 14099T showed similarity of 96.2 % or less with other Actinomadura strains, such as the type strains of Actinomadura nitritigenes (96.2 %), Actinomadura echinospora (96.0 %), Actinomadura alba (95.9 %) and Actinomadura fulvescens (95.8 %) 
+ trains TT02-47T TT02-22 and TT99-68 shared high 16S rRNA gene sequence similarities ranging from 99.8 to 100 % 
+ ll of the isolates and Actinomadura spadix NBRC 14099T showed similarity of 96.2 % or less with other Actinomadura strains such as the type strains of Actinomadura nitritigenes 96.2 % , Actinomadura echinospora 96.0 % , Actinomadura alba 95.9 % and Actinomadura fulvescens 95.8 % 
+ K-9 H6 17–73 % and MK-9 ( H8 Downloaded from www.microbiologyresearch.org by IP 189.155.188.202 On Tue 20 Feb 2018 08:08:15 1869 T 
+ amura and others 18–83 % were the predominant menaquinones present in these strains 
+ n addition MK-9 H4 and MK-9 H2 19 and 16 % respectively were present in strain A3015T and MK9 H4 was present in strains TT02-15T and TT04-09T ( 12 and 13 % respectively 
+ he DNA G+C contents of Actinomadura spadix NBRC 14099T and the new isolates ranged from 69.0 to 74.2 mol % 
  he isolates and Actinomadura spadix NBRC 14099T grew optimally at pH 5.5–6.0 
- he DNA–DNA relatedness among strains TT02-47T, TT02-22 and TT99-68 ranged from 61 to 90 % 
- n contrast, the relatedness among Actinomadura spadix NBRC 14099T and strains TTN02-30T, TT02-15T, TT0247T, TT04-09T, TTN02-22T, A3015T, TT00-28T and TT9966T ranged from 6 to 55 % 
- rows at 20–45 uC, at pH 5.0–7.0 and at up to 2 % NaCl 
- rows at 20–37 uC, at pH 5.0–6.0 and at up to 2 % NaCl 
- rows at 20–37 uC, at pH 5.0– 7.0 and at up to 2 % NaCl 
- rows at 20–37 uC, at pH 5.0–7.0 and at up to 3 % NaCl 
- rows at 20–37 uC, at pH 5.0–7.0 and at up to 2 % NaCl 
- rows at 15–30 uC, at pH 5.0–7.0 and at up to 5 % NaCl 
- rows at 15–37 uC, at pH 5.0–6.0 and at up to 1 % NaCl 
-  new genus of the order Actinomycetales,  Brosius, J., Palmer, M 
+ he DNA–DNA relatedness among strains TT02-47T TT02-22 and TT99-68 ranged from 61 to 90 % 
+ n contrast the relatedness among Actinomadura spadix NBRC 14099T and strains TTN02-30T TT02-15T TT0247T TT04-09T TTN02-22T A3015T TT00-28T and TT9966T ranged from 6 to 55 % 
+ rows at 20–45 uC at pH 5.0–7.0 and at up to 2 % NaCl 
+ rows at 20–37 uC at pH 5.0–6.0 and at up to 2 % NaCl 
+ rows at 20–37 uC at pH 5.0– 7.0 and at up to 2 % NaCl 
+ rows at 20–37 uC at pH 5.0–7.0 and at up to 3 % NaCl 
+ rows at 20–37 uC at pH 5.0–7.0 and at up to 2 % NaCl 
+ rows at 15–30 uC at pH 5.0–7.0 and at up to 5 % NaCl 
+ rows at 15–37 uC at pH 5.0–6.0 and at up to 1 % NaCl 
+ he G+C content of the DNA of the type strain is 74 mol % 
+ he G+C content of the DNA of the type strain is 72 mol % 
+ he G+C content of the DNA of the type strain is 71 mol % 
+ he G+C content of the DNA of the three known strains is 71–73 mol % 
+ he G+C content of the DNA of the type strain is 70 mol % 
+ he G+C content of the DNA of the type strain is 69 mol % 
+ new genus of the order Actinomycetales Brosius J. Palmer M 
+ he G+C content of DNA is 69–74 mol % 
  

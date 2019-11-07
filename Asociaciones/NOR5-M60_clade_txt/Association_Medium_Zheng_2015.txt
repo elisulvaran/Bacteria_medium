@@ -1,168 +1,176 @@
-n most studied Erythrobacter species, erythroxanthin sulfate was shown to be the main carotenoid [7,39] (Table S1), however, it does not participate in the photosynthetic processes [39] 
-oblı́žek M (2011) Role of Photoheterotrophic Bacteria in the Marine Carbon Cycle 
-n: Microbial Carbon Pump in the Ocean N 
-CS2 (NZ_AAYB00000000), Roseobacter sp 
-igments were separated on a heated (35uC) Phenomenex Luna 3 m C8(2) 100 Å column with binary solvent system (0 min 100% A, 20 min 100% B, 25 min 100% B, 27 min 100% A, 30 min 100% A; A: 70% methanol+28 mM ammonium acetate, B: methanol) and detected by a UV-VIS diode-array detector (Agilent DAD 61315B).  Methods  Supporting Information  Photosynthetic superoperon sequences and phylogenetic analysis  Figure S1 Photosynthetic gene cluster structure and arrangement in other phototrophs 
-hey harvest light using bacteriochlorophyll (BChl) a and are thought to be important players in carbon cycling in the ocean 
-n this study, the organization of PGCs was analyzed in ten AAP species belonging to the orders Rhodobacterales, Sphingomonadales and the NOR5/OM60 clade 
+n most studied Erythrobacter species erythroxanthin sulfate was shown to be the main carotenoid 7,39 ( Table S1 however , it does not participate in the photosynthetic processes 39 
+oblı́žek M 2011 Role of Photoheterotrophic Bacteria in the Marine Carbon Cycle 
+n Microbial Carbon Pump in the Ocean N 
+CS2 NZ_AAYB00000000 , Roseobacter sp 
+igments were separated on a heated 35uC Phenomenex Luna 3 m C8 2 100 Å column with binary solvent system 0 min 100 % A 20 min 100 % B 25 min 100 % B 27 min 100 % A 30 min 100 % A A 70 % methanol+28 mM ammonium acetate B methanol and detected by a UV-VIS diode-array detector Agilent DAD 61315B . Methods Supporting Information Photosynthetic superoperon sequences and phylogenetic analysis Figure S1 Photosynthetic gene cluster structure and arrangement in other phototrophs 
+hey harvest light using bacteriochlorophyll BChl a and are thought to be important players in carbon cycling in the ocean 
+n this study the organization of PGCs was analyzed in ten AAP species belonging to the orders Rhodobacterales Sphingomonadales and the NOR5/OM60 clade 
 phingomonadales contained comparatively smaller PGCs with an approximately size of 39 kb whereas the average size of PGCs in Rhodobacterales and NOR5/OM60 clade was about 45 kb 
-he distribution of four arrangements, based on the permutation and combination of the two conserved regions bchFNBHLM-LhaA-puhABC and crtF-bchCXYZ, does not correspond to the phylogenetic affiliation of individual AAP bacterial species 
-hile PGCs of all analyzed species contained the same set of genes for bacteriochlorophyll synthesis and assembly of photosynthetic centers, they differed largely in the carotenoid biosynthetic genes 
-pheroidenone, spirilloxanthin, and zeaxanthin biosynthetic pathways were found in each clade respectively 
-ll of the carotenoid biosynthetic genes were found in the PGCs of Rhodobacterales, however Sphingomonadales and NOR5/OM60 strains contained some of the carotenoid biosynthetic pathway genes outside of the PGC 
-onclusions/Significance: Our investigations shed light on the evolution and functional implications in PGCs of marine aerobic anoxygenic phototrophs, and support the notion that AAP are a heterogenous physiological group phylogenetically scattered among Proteobacteria 
-his is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited 
-unding: This work was supported by the NSFC project (91028001), the MOST project (2007CB815904), the NSFC project (41076063), and the SOA project (201105021) 
-ichal Koblı́žek was supported by Czech projects GAČR P501/10/0221, Algatech CZ.1.05/2.1.00/03.0110 and the Inst. research concept AV0Z50200510 
-he funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript 
-oth aerobic and anaerobic anoxygenic phototrophs have most of the photosynthetic genes organized in a so-called photosynthesis gene cluster (PGC) [13] 
-he PGC contains genes for the photosynthetic reaction center, light harvesting complexes, BChl and carotenoid biosynthesis, as well as some regulatory factors 
-wo conserved subclusters, crt-bchCXYZ-puf (about 10 kb) and bchFNBHLM-IhaA-puh (about 12–15 kb) were identified in PGCs of different phototrophic Proteobacteria [14–16] 
-he orientation of the genes in each subcluster was the same, although the gene order could vary slightly (e.g. pufBA and pufLM) 
-hey harvest light using bacteriochlorophyll (BChl) a and various carotenoids serving as auxiliary pigments 
-ultureindependent studies have shown that marine AAP bacterial communities are mostly represented by Alpha- and Gammaproteobacteria [4,5] 
-ost cultured marine Alphaproteobacterial AAPs belong to Roseobacter clade and the order Sphingomonadales, which includes members of the genera Erythrobacter and Citromicrobium [6–8] 
-AP bacterial isolates related to Gammaproteobacteria belong to the clade NOR5/OM60 which contains Congregibacter litoralis KT71 [9,10] and strain HTCC2080 [11] 
-ootstrap percentages from both neighbor joining (above nodes) and maximum parsimony (below nodes) are shown 
-he presence/absence of pufC and pufQ, as well as various gene orders of puf genes, were observed [5,15–17] 
-ain characteristics of genomes and PGCs of studied species.  Clade  Organism  Genome size (kb)  PGC size (kb)  Genome GC%  PGC GC%  PGC/Genome  Rhodobacterales  D. shibae DFL 12  4,417.8  48.1  65  67  1.09%  Rsb. denitrificans OCh 114  4,331.2  44.6  58  60  1.03%  Rsb. litoralis Och 149  4,678.9  48.3  57  59  1.03%  Roseovarius sp. 217  4,762.6  45.1  60  64  0.95%  Jannaschia sp 
-AP1  3,265.3  38.9  61  62  1.19%  Cb. litoralis KT71  4,328.1  44.7  58  59  1.03%  Gamma-HTCC2080  3,576.1  43.6  51  53  1.22%  Sphingomonadales  NOR5/OM60 clade  GC% = relative percentage of guanine and cytosine nucleotides 
-he fact that the PGC is a stable part of the phototrophs genome is also indicated also by the fact that the phylogenetic trees constructed for 16S rRNA, pufM gene and concatenated PGC core genes show basically the same topology (Fig. 1 and Fig 
-2).  Despite its diversity, complexity and functional importance for AAP bacteria, a detailed investigation of the gene and operon arrangement of PGC has not been performed in their entirety 
-n this study, we analyzed the structure and arrangement of PGC in the AAP bacterial genomes available to date, with the aim of addressing the frequency of homologous gene recombination as well as the differences in carotenoid gene composition and biosynthetic pathways.  Results and Discussion  The structure and arrangement of PGC  Ten fully sequenced AAP species were analyzed for their photosynthetic genes and PGC composition 
-ccording to phylogenetic analysis using both 16S rRNA and pufM genes, the ten strains were classified into three main groups: Roseobacter clade (order Rhodobacterales), Erythrobacter-Citromicrobium clade (order Sphingomonadales) and NOR5/OM60 clade (Gammaproteobacteria) (Fig. 1) 
-oseobacter clade contained six strains belonging to five genera: Roseobacter (Rsb.) denitrificans OCh 114 [18] and Rsb. litoralis Och 149 [19], Loktanella vestfoldensis SKA53, Dinoroseobacter shibae DFL12 [20], Jannaschia sp 
-CS1, and Roseovarius sp. 217 [21] 
-AP1 [7] and Citromicrobium sp 
-wo species were members of Gammaproteobacteria: Congregibacter (Cb.) litoralis KT71 [9,10] and marine Gammaproteobacterium HTCC2080 [11] 
-phingomonadales contained comparatively smaller PGCs (,39 kb) whereas the average size of PGCs in Rhodobacterales and NOR5/OM60 clades was about 45 kb  The PGCs have a mosaic structure and consist of five main sets of genes: bch genes encoding enzymes of BChla biosynthetic pathways, puf operons encoding proteins forming the reaction centers, puh operons involved in the RC assembly, crt genes responsible for biosynthesis of carotenoids and various regulatory genes 
-he genes bchBCDFGHILMNOPXYZ and ascF, with exception of 8-vinyl reductase, represent the complete biosynthetic pathway from protoporphyrin XI to BChl a 
+he distribution of four arrangements based on the permutation and combination of the two conserved regions bchFNBHLM-LhaA-puhABC and crtF-bchCXYZ does not correspond to the phylogenetic affiliation of individual AAP bacterial species 
+hile PGCs of all analyzed species contained the same set of genes for bacteriochlorophyll synthesis and assembly of photosynthetic centers they differed largely in the carotenoid biosynthetic genes 
+pheroidenone spirilloxanthin and zeaxanthin biosynthetic pathways were found in each clade respectively 
+ll of the carotenoid biosynthetic genes were found in the PGCs of Rhodobacterales however Sphingomonadales and NOR5/OM60 strains contained some of the carotenoid biosynthetic pathway genes outside of the PGC 
+onclusions/Significance Our investigations shed light on the evolution and functional implications in PGCs of marine aerobic anoxygenic phototrophs and support the notion that AAP are a heterogenous physiological group phylogenetically scattered among Proteobacteria 
+his is an open-access article distributed under the terms of the Creative Commons Attribution License which permits unrestricted use distribution and reproduction in any medium provided the original author and source are credited 
+unding This work was supported by the NSFC project 91028001 , the MOST project 2007CB815904 , the NSFC project 41076063 , and the SOA project 201105021 
+ichal Koblı́žek was supported by Czech projects GAČR P501/10/0221 Algatech CZ.1.05/2.1.00/03.0110 and the Inst . research concept AV0Z50200510 
+he funders had no role in study design data collection and analysis decision to publish or preparation of the manuscript 
+oth aerobic and anaerobic anoxygenic phototrophs have most of the photosynthetic genes organized in a so-called photosynthesis gene cluster PGC [ 13 
+he PGC contains genes for the photosynthetic reaction center light harvesting complexes BChl and carotenoid biosynthesis as well as some regulatory factors 
+wo conserved subclusters crt-bchCXYZ-puf about 10 kb and bchFNBHLM-IhaA-puh about 12–15 kb were identified in PGCs of different phototrophic Proteobacteria 14–16 
+he orientation of the genes in each subcluster was the same although the gene order could vary slightly e.g . pufBA and pufLM 
+hey harvest light using bacteriochlorophyll BChl a and various carotenoids serving as auxiliary pigments 
+ultureindependent studies have shown that marine AAP bacterial communities are mostly represented by Alpha- and Gammaproteobacteria 4,5 
+ost cultured marine Alphaproteobacterial AAPs belong to Roseobacter clade and the order Sphingomonadales which includes members of the genera Erythrobacter and Citromicrobium 6–8 
+AP bacterial isolates related to Gammaproteobacteria belong to the clade NOR5/OM60 which contains Congregibacter litoralis KT71 9,10 and strain HTCC2080 11 
+ootstrap percentages from both neighbor joining above nodes and maximum parsimony below nodes are shown 
+he presence/absence of pufC and pufQ as well as various gene orders of puf genes were observed 5,15–17 
+ain characteristics of genomes and PGCs of studied species . Clade Organism Genome size kb PGC size kb Genome GC % PGC GC % PGC/Genome Rhodobacterales D. shibae DFL 12 4,417.8 48.1 65 67 1.09 % Rsb . denitrificans OCh 114 4,331.2 44.6 58 60 1.03 % Rsb . litoralis Och 149 4,678.9 48.3 57 59 1.03 % Roseovarius sp . 217 4,762.6 45.1 60 64 0.95 % Jannaschia sp 
+AP1 3,265.3 38.9 61 62 1.19 % Cb . litoralis KT71 4,328.1 44.7 58 59 1.03 % Gamma-HTCC2080 3,576.1 43.6 51 53 1.22 % Sphingomonadales NOR5/OM60 clade GC % = relative percentage of guanine and cytosine nucleotides 
+he fact that the PGC is a stable part of the phototrophs genome is also indicated also by the fact that the phylogenetic trees constructed for 16S rRNA pufM gene and concatenated PGC core genes show basically the same topology Fig . 1 and Fig 
+2 . Despite its diversity complexity and functional importance for AAP bacteria a detailed investigation of the gene and operon arrangement of PGC has not been performed in their entirety 
+n this study we analyzed the structure and arrangement of PGC in the AAP bacterial genomes available to date with the aim of addressing the frequency of homologous gene recombination as well as the differences in carotenoid gene composition and biosynthetic pathways . Results and Discussion The structure and arrangement of PGC Ten fully sequenced AAP species were analyzed for their photosynthetic genes and PGC composition 
+ccording to phylogenetic analysis using both 16S rRNA and pufM genes the ten strains were classified into three main groups Roseobacter clade order Rhodobacterales , Erythrobacter-Citromicrobium clade order Sphingomonadales and NOR5/OM60 clade Gammaproteobacteria ( Fig . 1 
+oseobacter clade contained six strains belonging to five genera Roseobacter Rsb . denitrificans OCh 114 18 and Rsb . litoralis Och 149 19 Loktanella vestfoldensis SKA53 , Dinoroseobacter shibae DFL12 20 , Jannaschia sp 
+CS1 and Roseovarius sp . 217 21 
+AP1 7 and Citromicrobium sp 
+wo species were members of Gammaproteobacteria Congregibacter Cb . litoralis KT71 9,10 and marine Gammaproteobacterium HTCC2080 11 
+phingomonadales contained comparatively smaller PGCs ,39 kb whereas the average size of PGCs in Rhodobacterales and NOR5/OM60 clades was about 45 kb The PGCs have a mosaic structure and consist of five main sets of genes bch genes encoding enzymes of BChla biosynthetic pathways puf operons encoding proteins forming the reaction centers puh operons involved in the RC assembly crt genes responsible for biosynthesis of carotenoids and various regulatory genes 
+he genes bchBCDFGHILMNOPXYZ and ascF with exception of 8-vinyl reductase represent the complete biosynthetic pathway from protoporphyrin XI to BChl a 
 ther shared core genes encode proteins pufABLM and assembly factors puhABCE and lhaA of the bacterial photosynthetic units 
 hotosynthetic gene cluster structure and arrangement in AAP species 
-reen, bch genes; red, puf and regulators genes; pink, puh genes; orange, crt genes; blue, hem and cyc gene; yellow, LhaA gene; blank, uncertain or unrelated genes; grey, hypothetical protein 
-he horizontal arrows represent putative transcripts. doi:10.1371/journal.pone.0025050.g002  PLoS ONE | www.plosone.org  3  September 2011 | Volume 6 | Issue 9 | e25050  Diverse Arrangement of Photosynthetic Gene Cluster  The structure of puhABC-hyp-ascF-puhE is conserved in Roseobacter and Sphingomonadales clades 
-owever in NOR5/OM60 clade, puhABC and puhE are located together and ascF is at a site near BLUF 
-n downstream puh genes, there are hemN (NOR5/OM60 clade) or hemA (Roseobacter and Sphingomonadales clade) [29,30].  exception was L. vestfoldensis SKA53, in which some photosynthetic genes are located outside the PGC and spread throughout the genome 
-reviously it was reported that the PGC in Rsb. litoralis Och 149 is located on a linear plasmid, with two RPA genes between bchFNBHLM-LhaA-puh and crtF-bchCXYZ-puf, which act as a centromere-like anchor when plasmids replicate [19,23] 
+reen bch genes red puf and regulators genes pink puh genes orange crt genes blue hem and cyc gene yellow LhaA gene blank uncertain or unrelated genes grey hypothetical protein 
+he horizontal arrows represent putative transcripts . doi:10.1371/journal.pone.0025050.g002 PLoS ONE | www.plosone.org 3 September 2011 | Volume 6 | Issue 9 | e25050 Diverse Arrangement of Photosynthetic Gene Cluster The structure of puhABC-hyp-ascF-puhE is conserved in Roseobacter and Sphingomonadales clades 
+owever in NOR5/OM60 clade puhABC and puhE are located together and ascF is at a site near BLUF 
+n downstream puh genes there are hemN NOR5/OM60 clade or hemA Roseobacter and Sphingomonadales clade [ 29,30 . exception was L. vestfoldensis SKA53 in which some photosynthetic genes are located outside the PGC and spread throughout the genome 
+reviously it was reported that the PGC in Rsb . litoralis Och 149 is located on a linear plasmid with two RPA genes between bchFNBHLM-LhaA-puh and crtF-bchCXYZ-puf which act as a centromere-like anchor when plasmids replicate 19,23 
 AP1 and Citromicrobium sp 
-L354 (order Sphingomonadales) is almost identical in terms of gene arrangement and composition 
-hen compared to Roseobacters, this group contains less carotenoid genes and no light-harvesting 2 (LH2) genes 
-imilarly, PGCs of two NOR5/OM60 strains have very comparable gene composition and organization 
-wo conserved gene arrangements are found in all analyzed PGCs: bchFNBHLM-LhaA-puhABC and crtF-bchCXYZ (Fig. 2) 
-ccording to their direction and order, the ten PGCs can be divided into three groups: Type I (forward bchFNBHLM-LhaA-puh plus forward crtF-bchCXYZ-puf) includes Rsb. denitrificans OCh 114 and Rsb. litoralis Och 149 
-b. litoralis KT71, Gammaproteobacterium HTCC2080 and Roseovarius sp. 217 belong to type II (forward bchFNBHLM-LhaA-puh plus reverse crtF-bchCXYZ-puf), and the last five organisms form type III (forward crtF-bchCXYZ-puf plus forward bchFNBHLM-LhaA-puh) 
-1), however it is present in the purple non-sulfur anaerobic bacteria Rba. sphaeroides and Rba. capsulatus (Fig. 2 and Fig 
-here are four conserved regions in PGCs for BChl a expressing of AAP bacteria: bchFNBHLM, bchCXYZ, bchIDO and bchOP 
-here are carotenoid genes between bchCXYZ and bchIDO, except in D. shibae DLF 12 and Jannaschia sp 
+L354 order Sphingomonadales is almost identical in terms of gene arrangement and composition 
+hen compared to Roseobacters this group contains less carotenoid genes and no light-harvesting 2 LH2 genes 
+imilarly PGCs of two NOR5/OM60 strains have very comparable gene composition and organization 
+wo conserved gene arrangements are found in all analyzed PGCs bchFNBHLM-LhaA-puhABC and crtF-bchCXYZ Fig . 2 
+ccording to their direction and order the ten PGCs can be divided into three groups Type I forward bchFNBHLM-LhaA-puh plus forward crtF-bchCXYZ-puf includes Rsb . denitrificans OCh 114 and Rsb . litoralis Och 149 
+b. litoralis KT71 Gammaproteobacterium HTCC2080 and Roseovarius sp . 217 belong to type II forward bchFNBHLM-LhaA-puh plus reverse crtF-bchCXYZ-puf , and the last five organisms form type III forward crtF-bchCXYZ-puf plus forward bchFNBHLM-LhaA-puh 
+1 , however it is present in the purple non-sulfur anaerobic bacteria Rba . sphaeroides and Rba . capsulatus Fig . 2 and Fig 
+here are four conserved regions in PGCs for BChl a expressing of AAP bacteria bchFNBHLM bchCXYZ bchIDO and bchOP 
+here are carotenoid genes between bchCXYZ and bchIDO except in D. shibae DLF 12 and Jannaschia sp 
 he region between bchOP and bchFNBHLM is of variable sequences in different AAP bacteria clades 
-n Roseobacter clade and Sphingomonadales, there are two regulators (ppsR and ppaA) which are sensitive to light intensity and oxygen concentration [24] 
-n NOR5/OM60 clade, a crtJ gene was found, which controls aerobic repression of BChl, carotenoid, and LH2 gene expression [25,26] 
-our structural types of puf gene organization were observed in the ten PGCs: pufQBALMC, pufQBALM, pufBALM and pufLMCBA 
-nlike the purple non-sulfur species Rba. sphaeroides and Rba. capsulatus, all the AAP strains studied lack the pufX gene in the PGC 
-he pufQ gene, is absent in the puf operon of NOR5/OM60 and Sphingomonadales clades 
-n addition, Sphingomonadales and L. vestfoldensis SKA53 do not have a pufC gene 
-XPS is part of a mevalonate-independent pathway for isopentenylpyrophosphate (iPP) biosynthesis, a precursor for carotenoid and bacteriochlorophyll biosynthesis [27] 
-nterestingly, a switch of order in the puf gene cluster is observed in NOR5/OM60 clade (pufLMC-BA) compared to the other two AAP clades (pufBA-LMC).  PLoS ONE | www.plosone.org  The composition and organization of carotenoid genes in PGC The main difference among analyzed PGCs was found in the genes encoding the carotenoid biosynthetic pathway 
-he almost complete structure crtAIBK-hyp-crtCDEF is present in the genera Roseobacter and Dinoroseobacter (Fig. 2), while in D. shibae, crtA and crtIBK are separated 
-CS1, Roseovarius sp. 217 included). 2, Rhodobacter genus (Rhodobacter sphaeroides 2.4.1 and Rhodobacter capsulatus BEC404) 
-he crtJ gene was found only in Rhodobacter capsulatus BEC404 and NOR5/OM60 gamma-proteobacteria. 3, Erythrobacter sp 
-AP1. 4, C. bathyomarinum JL354. 5, NOR5 clade (Cb. litoralis KT71 and Gammaproteobacterium HTCC2080 included) 
-he gene CrtK is not included in the Table as it does not participate in any known carotenoid biosynthetic pathway. doi:10.1371/journal.pone.0025050.t002  N  4  September 2011 | Volume 6 | Issue 9 | e25050  Diverse Arrangement of Photosynthetic Gene Cluster  and crtCDEF in Jannaschia sp 
-omparably, crtICDEF and crtCDF are missing in NOR5/OM60 clade and order Sphingomonadales, respectively 
-he re-arrangement of crt genes may result from events of gene duplication and loss, accounting for the absence of crtA gene in Sphingomonadales and NOR5 clade (Table 2), and duplication of some of the crt genes, such as the crtE and crtIB found outside the PGC in Bradyrhizobium sp 
-his is consistent with the closer phylogenetic relationship of these two organisms to Roseobacter related photoheterotrophic species (Fig. 1 and Fig 
-he central biosynthetic pathway for carotenoids in the Roseobacter clade is the spheroidene pathway (Fig. 3, Table S1), and all the necessary genes (crtAIBCDF) for it are located in the PGCs (Fig. 2 and Table 2) 
-ight is harvested by other pigments such as bacteriorubixanthinal, zeaxanthin and b-carotene [39] 
-nterestingly, the key genes (crtY and crtZ) for zeaxanthin pathway are not organized in the PGCs, but are spread throughout the chromosome (Table 2) 
-eaxanthin is then a starting intermediade for synthesis of both nostoxanthin (in genus Citromicrobium) and erythroxanthin (in genus Erythrobacter) (Fig. 3) 
-here are two possible options for spirilloxanthin biosynthesis: typical-spirilloxanthin biosynthestic pathway and unusual-spirilloxanthin pathway (Fig. 3) 
-wo conserved regions bchFNBHLM-LhaA-puhABC and crtF-bchCXYZ, were identified in all studied PGC 
-he composition of bch, puf and puh genes in the analyzed PGCs was relatively similar, and the main difference was found among crt genes 
-uch variability was mainly connected with different carotenoid biosynthetic pathways present in AAP groups: spheroidenone biosynthetic pathway in Roseobacters, zeaxanthin pathway in Sphingomonadales and spirilloxanthin pathway in gammaproteobacterial NOR5/OM60 clade 
-ur investigation shed light on the evolution and functional implications of PGCs of marine aerobic anoxygenic phototrophs.  Six strains were used for pigment analyses: Rsb. denitrificans OCh 114 (DSM 7001), Rsb. litoralis Och 149 (DSM 6996) and Erb. longus DSM 6997 were purchased from the DSMZ culture collections 
-. shibae JL1447, Cmi. bathyomarinum JL354 and Erythrobacter sp 
-L475 were isolated and maintained in the laboratory [22] 
-he grown cells were harvested by centrifugation and extracted using 100% methanol (in the case of Sphingomonadales species) or 7:2 (vol:vol) acetone-methanol (in the case of Roseobacter species) 
-he pigment extract and analysis were done by high performance liquid chromatography (HPLC) as described previously [41] 
-reen, bch genes; red, puf and regulator genes; pink, puh genes; orange, crt genes; blue, hem and cyc gene; yellow, LhaA gene; blank, uncertain or unrelated genes; grey, hypothetical protein. (PPT)  gene sequences collected from NCBI database were aligned using Clustal X and phylogenetic trees were constructed using the neighbour-joining and maximum-parsimony algorithms of MEGA software 3.0 [40] 
-he phylogenetic trees were supported by bootstrap for resampling test with 1000 replicates.  Pigment analyses  Ten full-length PGC sequences and gene locations were obtained from the GenBank genome database 
-or comparison two anaerobic anoxygenic phototroph Rhodobacter sphaeroides strain 2.4.1 (NC_007493) and Rhodobacter capsulatus SB 1003 (NC_014034) also were included in the analysis 
-nother three green sulfur bacteria genome information used to outgroup of phylogenetic tree, and their Genbank accession numbers are Chloroflexus aggregans DSM 9485 (NC_011831), Chloroflexus aurantiacus J-10-fl (NC_010175) and Roseiflexus castenholzii DSM 13941 (NC_009767) 
-early complete pufM (.900 bps) genes and 27 core proteins in PGCs were used to construct phylogenetic trees [17] 
-onghui Zeng for his helpful suggestions.  Author Contributions Conceived and designed the experiments: QZ RZ MK NJ 
-iao N, Zhang Y, Zeng Y, Hong N, Liu R, et al. (2007) Distinct distribution pattern of abundance and diversity of aerobic anoxygenic phototrophic bacteria in the global ocean 
-etersen J, Brinkmann H, Pradella S (2009) Diversity and evolution of repABC type plasmids in Rhodobacterales 
-omiya H, Yeates TO, Rees DC, Allen JP, Feher G (1988) Structure of the reaction center from Rhodobacter sphaeroides R-26 and 2.4.1: symmetry relations and sequence comparisons between different species 
-lsen S, Ponnampalam SN, Bauer CE (1998) CrtJ found to distant binding sites interacts cooperatively to aerobically repress photopigment biosynthesis and light harvesting II gene expression in Rhodobacter capsulatus 
-onnampalam SN, Bauer CE (1997) DNA binding characteristics of CrtJ - A redox-responding repressor of bacteriochlorophyll, carotenoid, and light harvesting-II gene expression in Rhodobacter capsulatus 
-ohmer M (1999) The discovery of a mevalonate-independent pathway for isoprenoid biosynthesis in bacteria, algae and higher plants 
-wingley WD, Blankenship RE, Raymond J (2009) Evolutionary Relationships Among Purple Photosynthetic Bacteria and the Origin of Proteobacterial Photosynthetic Systems 
-oblı́žek M, Falkowski PG, Kolber ZS (2006) Diversity and distribution of photosynthetic bacteria in the Black Sea 
-akaichi S (2009) Distribution and Biosynthesis of Carotenoids 
-oguchi T, Hayashi H, Shimada K, Takaichi S, Tasumi M (1992) In vivo states and functions of carotenoids in an aerobic photosynthetic bacterium, Erythrobacter longus 
-umar S, Tamura K, Nei M (2004) MEGA3: Integrated software for molecular evolutionary genetics analysis and sequence alignment 
-utin N, Suzuki MT, Teeling H, Weber M, Venter JC, et al. (2007) Assessing diversity and biogeography of aerobic anoxygenic phototrophic bacteria in surface waters of the Atlantic and Pacific Oceans using the Global Ocean Sampling expedition metagenomes 
-oblı́žek M, Béjà O, Bidigare RR, Christensen S, Benitez-Nelson B, et al. (2003) Isolation and characterization of Erythrobacter sp. strains from the upper ocean 
-pring S, Lunsdorf H, Fuchs BM, Tindall BJ (2009) The Photosynthetic Apparatus and Its Regulation in the Aerobic Gammaproteobacterium Congregibacter litoralis gen. nov., sp nov. 
-iotenberg S, Steunou AS, Picaud M, Reiss-Husson F, Astier C, et al. (2008) Organization and expression of photosynthesis genes and operons in anoxygenic photosynthetic proteobacteria 
-aidner LA, Kirchman DL (2005) Aerobic anoxygenic photosynthesis genes and operons in uncultured bacteria in the Delaware River 
-uschak C, Leung MM, Beatty JT, Overmann J (2005) The puf operon of the purple sulfur bacterium Amoebobacter purpureus: structure, transcription and phylogenetic analysis 
-utin N, Béjà O (2005) Putative novel photosynthetic reaction centre organizations in marine aerobic anoxygenic photosynthetic bacteria: insights from metagenomics and environmental genomics 
-radella S, Allgaier M, Hoch C, Pauker O, Stackebrandt E, et al. (2004) Genome organization and localization of the pufLM genes of the photosynthesis reaction center in phylogenetically diverse marine Alphaproteobacteria 
-aldock MI, Denger K, Smits THM, Cook AM (2007) Roseovarius sp. strain 217: aerobic taurine dissimilation via acetate kinase and acetate-CoA ligase 
-oldareva2, Vladimir Yurkov3, Shi Yan4, Nianzhi Jiao1* 1 State Key Laboratory of Marine Environmental Science, Xiamen University, Xiamen, China, 2 Institute of Microbiology CAS, Opatovický mlýn, Třeboň, Czech Republic, 3 Department of Microbiology, University of Manitoba, Winnipeg, Canada, 4 Department of Molecular Ecology, Max Planck Institute for Marine Microbiology, Bremen, Germany  Abstract Background: Aerobic anoxygenic photototrophic (AAP) bacteria represent an important group of marine microorganisms inhabiting the euphotic zone of the ocean 
-ompeting Interests: The authors have declared that no competing interests exist. * E-mail: jiao@xmu.edu.cn  Compared to the oxygenic phototrophs, the anoxygenic species contain a relatively simple photosynthetic apparatus, which consists of a reaction center surrounded by one to three types of antenna complexes [12] 
-espite the fact that the basic set of genes in PGC is conserved, the gene organization of operons in PGC largely varies among different AAP bacterial lineages 
-nterestingly, the  Introduction Aerobic anoxygenic photototrophic (AAP) bacteria represent an important group of marine microorganisms inhabiting the euphotic zone of the ocean 
-ymbols ‘‘w’’ represents the pufM sequences from whole genome sequence 
-he whole PGC’s of the ten strains highlighted in boxes were also analyzed (Fig. 2) 
-urther investigation indicated that such gene organization is crucial for environmental adaptation [14].  regulatory elements such as the transcriptional regulator ppsR gene were conserved as well, suggesting that the operons in the PGCs are co-expressed 
-he GC content in the PGCs varied from 52.9% to 66.7%, which was similar to the total GC contents of corresponding genomes (Table 1) 
-wo species belonged to the order Shingomonadales: Erythrobacter sp 
-he PGCs represented roughly 1% of the genomes (Table 1) 
+n Roseobacter clade and Sphingomonadales there are two regulators ppsR and ppaA which are sensitive to light intensity and oxygen concentration 24 
+n NOR5/OM60 clade a crtJ gene was found which controls aerobic repression of BChl carotenoid and LH2 gene expression 25,26 
+our structural types of puf gene organization were observed in the ten PGCs pufQBALMC pufQBALM pufBALM and pufLMCBA 
+nlike the purple non-sulfur species Rba . sphaeroides and Rba . capsulatus all the AAP strains studied lack the pufX gene in the PGC 
+he pufQ gene is absent in the puf operon of NOR5/OM60 and Sphingomonadales clades 
+n addition Sphingomonadales and L. vestfoldensis SKA53 do not have a pufC gene 
+XPS is part of a mevalonate-independent pathway for isopentenylpyrophosphate iPP biosynthesis a precursor for carotenoid and bacteriochlorophyll biosynthesis 27 
+nterestingly a switch of order in the puf gene cluster is observed in NOR5/OM60 clade pufLMC-BA compared to the other two AAP clades pufBA-LMC . PLoS ONE | www.plosone.org The composition and organization of carotenoid genes in PGC The main difference among analyzed PGCs was found in the genes encoding the carotenoid biosynthetic pathway 
+he almost complete structure crtAIBK-hyp-crtCDEF is present in the genera Roseobacter and Dinoroseobacter Fig . 2 while in D. shibae , crtA and crtIBK are separated 
+CS1 Roseovarius sp . 217 included . 2 Rhodobacter genus Rhodobacter sphaeroides 2.4.1 and Rhodobacter capsulatus BEC404 
+he crtJ gene was found only in Rhodobacter capsulatus BEC404 and NOR5/OM60 gamma-proteobacteria . 3 Erythrobacter sp 
+AP1 . 4 C. bathyomarinum JL354 . 5 NOR5 clade Cb . litoralis KT71 and Gammaproteobacterium HTCC2080 included 
+he gene CrtK is not included in the Table as it does not participate in any known carotenoid biosynthetic pathway . doi:10.1371/journal.pone.0025050.t002 N 4 September 2011 | Volume 6 | Issue 9 | e25050 Diverse Arrangement of Photosynthetic Gene Cluster and crtCDEF in Jannaschia sp 
+omparably crtICDEF and crtCDF are missing in NOR5/OM60 clade and order Sphingomonadales respectively 
+he re-arrangement of crt genes may result from events of gene duplication and loss accounting for the absence of crtA gene in Sphingomonadales and NOR5 clade Table 2 and duplication of some of the crt genes , such as the crtE and crtIB found outside the PGC in Bradyrhizobium sp 
+his is consistent with the closer phylogenetic relationship of these two organisms to Roseobacter related photoheterotrophic species Fig . 1 and Fig 
+he central biosynthetic pathway for carotenoids in the Roseobacter clade is the spheroidene pathway Fig . 3 Table S1 , and all the necessary genes crtAIBCDF for it are located in the PGCs Fig . 2 and Table 2 
+ight is harvested by other pigments such as bacteriorubixanthinal zeaxanthin and b-carotene 39 
+nterestingly the key genes crtY and crtZ for zeaxanthin pathway are not organized in the PGCs but are spread throughout the chromosome Table 2 
+eaxanthin is then a starting intermediade for synthesis of both nostoxanthin in genus Citromicrobium and erythroxanthin in genus Erythrobacter ( Fig . 3 
+here are two possible options for spirilloxanthin biosynthesis typical-spirilloxanthin biosynthestic pathway and unusual-spirilloxanthin pathway Fig . 3 
+wo conserved regions bchFNBHLM-LhaA-puhABC and crtF-bchCXYZ were identified in all studied PGC 
+he composition of bch puf and puh genes in the analyzed PGCs was relatively similar and the main difference was found among crt genes 
+uch variability was mainly connected with different carotenoid biosynthetic pathways present in AAP groups spheroidenone biosynthetic pathway in Roseobacters zeaxanthin pathway in Sphingomonadales and spirilloxanthin pathway in gammaproteobacterial NOR5/OM60 clade 
+ur investigation shed light on the evolution and functional implications of PGCs of marine aerobic anoxygenic phototrophs . Six strains were used for pigment analyses Rsb . denitrificans OCh 114 DSM 7001 , Rsb . litoralis Och 149 DSM 6996 and Erb . longus DSM 6997 were purchased from the DSMZ culture collections 
+. shibae JL1447 Cmi . bathyomarinum JL354 and Erythrobacter sp 
+L475 were isolated and maintained in the laboratory 22 
+he grown cells were harvested by centrifugation and extracted using 100 % methanol in the case of Sphingomonadales species or 7:2 vol vol acetone-methanol in the case of Roseobacter species 
+he pigment extract and analysis were done by high performance liquid chromatography HPLC as described previously 41 
+reen bch genes red puf and regulator genes pink puh genes orange crt genes blue hem and cyc gene yellow LhaA gene blank uncertain or unrelated genes grey hypothetical protein . PPT gene sequences collected from NCBI database were aligned using Clustal X and phylogenetic trees were constructed using the neighbour-joining and maximum-parsimony algorithms of MEGA software 3.0 40 
+he phylogenetic trees were supported by bootstrap for resampling test with 1000 replicates . Pigment analyses Ten full-length PGC sequences and gene locations were obtained from the GenBank genome database 
+or comparison two anaerobic anoxygenic phototroph Rhodobacter sphaeroides strain 2.4.1 NC_007493 and Rhodobacter capsulatus SB 1003 NC_014034 also were included in the analysis 
+nother three green sulfur bacteria genome information used to outgroup of phylogenetic tree and their Genbank accession numbers are Chloroflexus aggregans DSM 9485 NC_011831 , Chloroflexus aurantiacus J-10-fl NC_010175 and Roseiflexus castenholzii DSM 13941 NC_009767 
+early complete pufM .900 bps genes and 27 core proteins in PGCs were used to construct phylogenetic trees 17 
+onghui Zeng for his helpful suggestions . Author Contributions Conceived and designed the experiments QZ RZ MK NJ 
+iao N Zhang Y Zeng Y Hong N Liu R et al . 2007 Distinct distribution pattern of abundance and diversity of aerobic anoxygenic phototrophic bacteria in the global ocean 
+etersen J Brinkmann H Pradella S 2009 Diversity and evolution of repABC type plasmids in Rhodobacterales 
+omiya H Yeates TO Rees DC Allen JP Feher G 1988 Structure of the reaction center from Rhodobacter sphaeroides R-26 and 2.4.1 symmetry relations and sequence comparisons between different species 
+lsen S Ponnampalam SN Bauer CE 1998 CrtJ found to distant binding sites interacts cooperatively to aerobically repress photopigment biosynthesis and light harvesting II gene expression in Rhodobacter capsulatus 
+onnampalam SN Bauer CE 1997 DNA binding characteristics of CrtJ A redox-responding repressor of bacteriochlorophyll carotenoid and light harvesting-II gene expression in Rhodobacter capsulatus 
+ohmer M 1999 The discovery of a mevalonate-independent pathway for isoprenoid biosynthesis in bacteria algae and higher plants 
+wingley WD Blankenship RE Raymond J 2009 Evolutionary Relationships Among Purple Photosynthetic Bacteria and the Origin of Proteobacterial Photosynthetic Systems 
+oblı́žek M Falkowski PG Kolber ZS 2006 Diversity and distribution of photosynthetic bacteria in the Black Sea 
+akaichi S 2009 Distribution and Biosynthesis of Carotenoids 
+oguchi T Hayashi H Shimada K Takaichi S Tasumi M 1992 In vivo states and functions of carotenoids in an aerobic photosynthetic bacterium Erythrobacter longus 
+umar S Tamura K Nei M 2004 MEGA3 Integrated software for molecular evolutionary genetics analysis and sequence alignment 
+utin N Suzuki MT Teeling H Weber M Venter JC et al . 2007 Assessing diversity and biogeography of aerobic anoxygenic phototrophic bacteria in surface waters of the Atlantic and Pacific Oceans using the Global Ocean Sampling expedition metagenomes 
+oblı́žek M Béjà O Bidigare RR Christensen S Benitez-Nelson B et al . 2003 Isolation and characterization of Erythrobacter sp . strains from the upper ocean 
+pring S Lunsdorf H Fuchs BM Tindall BJ 2009 The Photosynthetic Apparatus and Its Regulation in the Aerobic Gammaproteobacterium Congregibacter litoralis gen. nov. sp nov . 
+iotenberg S Steunou AS Picaud M Reiss-Husson F Astier C et al . 2008 Organization and expression of photosynthesis genes and operons in anoxygenic photosynthetic proteobacteria 
+aidner LA Kirchman DL 2005 Aerobic anoxygenic photosynthesis genes and operons in uncultured bacteria in the Delaware River 
+uschak C Leung MM Beatty JT Overmann J 2005 The puf operon of the purple sulfur bacterium Amoebobacter purpureus structure transcription and phylogenetic analysis 
+utin N Béjà O 2005 Putative novel photosynthetic reaction centre organizations in marine aerobic anoxygenic photosynthetic bacteria insights from metagenomics and environmental genomics 
+radella S Allgaier M Hoch C Pauker O Stackebrandt E et al . 2004 Genome organization and localization of the pufLM genes of the photosynthesis reaction center in phylogenetically diverse marine Alphaproteobacteria 
+aldock MI Denger K Smits THM Cook AM 2007 Roseovarius sp . strain 217 aerobic taurine dissimilation via acetate kinase and acetate-CoA ligase 
+oldareva2 Vladimir Yurkov3 Shi Yan4 Nianzhi Jiao1* 1 State Key Laboratory of Marine Environmental Science Xiamen University Xiamen China 2 Institute of Microbiology CAS Opatovický mlýn Třeboň Czech Republic 3 Department of Microbiology University of Manitoba Winnipeg Canada 4 Department of Molecular Ecology Max Planck Institute for Marine Microbiology Bremen Germany Abstract Background Aerobic anoxygenic photototrophic AAP bacteria represent an important group of marine microorganisms inhabiting the euphotic zone of the ocean 
+ompeting Interests The authors have declared that no competing interests exist . E-mail jiao @ xmu.edu.cn Compared to the oxygenic phototrophs the anoxygenic species contain a relatively simple photosynthetic apparatus which consists of a reaction center surrounded by one to three types of antenna complexes 12 
+espite the fact that the basic set of genes in PGC is conserved the gene organization of operons in PGC largely varies among different AAP bacterial lineages 
+nterestingly the Introduction Aerobic anoxygenic photototrophic AAP bacteria represent an important group of marine microorganisms inhabiting the euphotic zone of the ocean 
+ymbols ‘ ‘ w ’ ’ represents the pufM sequences from whole genome sequence 
+he whole PGC ’ s of the ten strains highlighted in boxes were also analyzed Fig . 2 
+urther investigation indicated that such gene organization is crucial for environmental adaptation 14 . regulatory elements such as the transcriptional regulator ppsR gene were conserved as well suggesting that the operons in the PGCs are co-expressed 
+he GC content in the PGCs varied from 52.9 % to 66.7 % which was similar to the total GC contents of corresponding genomes Table 1 
+wo species belonged to the order Shingomonadales Erythrobacter sp 
+he PGCs represented roughly 1 % of the genomes Table 1 
 ost of them came from the BChl a biosynthetic pathway 
-he majority of Roseobacter-related species contained all the puf genes organized in pufQBALMC operon, which is involved in the assembly of the photosynthetic units 
-haA, encoding a possible LHI assembly protein [28], occupies the upstream region of puh genes 
-he presence of a smaller number of photosynthetic genes in Sphingomonadales is consistent with the smaller size of their PGCs (Table 1) 
+he majority of Roseobacter-related species contained all the puf genes organized in pufQBALMC operon which is involved in the assembly of the photosynthetic units 
+haA encoding a possible LHI assembly protein 28 , occupies the upstream region of puh genes 
+he presence of a smaller number of photosynthetic genes in Sphingomonadales is consistent with the smaller size of their PGCs Table 1 
 t contains less transcriptional regulators compared to the other groups 
-or example, the Roseobacter clade shows all three PGC arrangement types observed in AAP genomes 
-he gene encoding 1deoxy-D-xylulose-5-phosphate synthase (DXPS) is always located downstream of puf genes in the Roseobacter clade 
-owever, the organization of the crt operon in Roseobacter clade is most variable among PGCs (Fig. 2) 
-he genes located in the PGC are marked by ‘‘ ’’; the genes outside PGC are marked by ‘‘#’’ 
+or example the Roseobacter clade shows all three PGC arrangement types observed in AAP genomes 
+he gene encoding 1deoxy-D-xylulose-5-phosphate synthase DXPS is always located downstream of puf genes in the Roseobacter clade 
+owever the organization of the crt operon in Roseobacter clade is most variable among PGCs Fig . 2 
+he genes located in the PGC are marked by ‘ ‘ ’ ’ the genes outside PGC are marked by ‘ ‘ ’ ’ 
 his indicates the presence of the same carotenoid biosynthetic pathway in all Rhodobacterales 
-irst, b-carotene is produced from lycopene by the action of lycopene cyclase (crtY gene product) 
-hile some of the carotenoids serve as harvesting pigments, most of them do not participate in the light harvesting likely having a photoprotection function [32,33] 
-s suggested earlier, spheroidenone is the main light harvesting carotenoid in Roseobacters [34–36] (Table S1) 
-he biosynthetic pathways are proposed based on the identification of respective genes in the analyzed genomes. doi:10.1371/journal.pone.0025050.g003  PLoS ONE | www.plosone.org  5  September 2011 | Volume 6 | Issue 9 | e25050  Diverse Arrangement of Photosynthetic Gene Cluster  step hydroxylation of b-carotene catalyzed by b-carotene hydroxylase (crtZ gene product) 
-he major carotenoids in Cb. litoralis KT71 is spirilloxanthin, the same as in Rhodospirillum rubrum DSM 467T [10] (Table S1) 
-nterestingly, the gene crtD was found to be out of PGC in Cb. litoralis KT71 (Table 2), indicating that Cb. litoralis KT71 might use the shorter unusual-spirilloxanthin pathway 
-n summary, this study showed that most of the photosynthetic genes in AAP species were organized in the PGC 
+irst b-carotene is produced from lycopene by the action of lycopene cyclase crtY gene product 
+hile some of the carotenoids serve as harvesting pigments most of them do not participate in the light harvesting likely having a photoprotection function 32,33 
+s suggested earlier spheroidenone is the main light harvesting carotenoid in Roseobacters 34–36 ( Table S1 
+he biosynthetic pathways are proposed based on the identification of respective genes in the analyzed genomes . doi:10.1371/journal.pone.0025050.g003 PLoS ONE | www.plosone.org 5 September 2011 | Volume 6 | Issue 9 | e25050 Diverse Arrangement of Photosynthetic Gene Cluster step hydroxylation of b-carotene catalyzed by b-carotene hydroxylase crtZ gene product 
+he major carotenoids in Cb . litoralis KT71 is spirilloxanthin the same as in Rhodospirillum rubrum DSM 467T 10 ( Table S1 
+nterestingly the gene crtD was found to be out of PGC in Cb . litoralis KT71 Table 2 , indicating that Cb . litoralis KT71 might use the shorter unusual-spirilloxanthin pathway 
+n summary this study showed that most of the photosynthetic genes in AAP species were organized in the PGC 
 ased on their orientation we can divide the studied strains into four different groups 
-riefly, the chromatography was performed using the Agilent 1100 Series system (Agilent Technologies Inc., Palo Alto, CA, USA) 
+riefly the chromatography was performed using the Agilent 1100 Series system Agilent Technologies Inc. Palo Alto CA USA 
 n some cases the automatic gene annotation was corrected manually 
-erformed the experiments: QZ MK ENB 
-nalyzed the data: QZ RZ MK VY SY 
-rote the paper: QZ RZ MK VY NJ.  References 3 
-olber ZS, Plumley FG, Lang AS, Beatty JT, Blankenship RE, et al. (2001) Contribution of aerobic photoheterotrophic bacteria to the carbon cycle in the ocean 
-oung CS, Beatty JT (1998) Topological model of the Rhodobacter capsulatus lightharvesting complex I assembly protein LhaA (Previously known as ORF1696) 
-ang LY, Elliott M, Elliott T (1999) Conditional stability of the HemA protein (glutamyl-tRNA reductase) regulates heme biosynthesis in Salmonella typhimurium 
-agner-Döbler I, Biebl H (2006) Environmental Biology of the Marine Roseobacter Lineage 
-oyama Y, Takii T, Saiki K, Tsukida K, Yamashita KJ (1982) Configuration of the carotenoid in the reaction centers of photosynthetic bacteria 
+erformed the experiments QZ MK ENB 
+nalyzed the data QZ RZ MK VY SY 
+rote the paper QZ RZ MK VY NJ . References 3 
+olber ZS Plumley FG Lang AS Beatty JT Blankenship RE et al . 2001 Contribution of aerobic photoheterotrophic bacteria to the carbon cycle in the ocean 
+oung CS Beatty JT 1998 Topological model of the Rhodobacter capsulatus lightharvesting complex I assembly protein LhaA Previously known as ORF1696 
+ang LY Elliott M Elliott T 1999 Conditional stability of the HemA protein glutamyl-tRNA reductase regulates heme biosynthesis in Salmonella typhimurium 
+agner-Döbler I Biebl H 2006 Environmental Biology of the Marine Roseobacter Lineage 
+oyama Y Takii T Saiki K Tsukida K Yamashita KJ 1982 Configuration of the carotenoid in the reaction centers of photosynthetic bacteria 
 omparison of the resonance Raman spectrum of the reaction centers of Rhodopseudomonas sphaeroides G1C with those of cis-trans isomers from b-carotene 
-utz M, Agalides I, Hervo G, Cogdell RJ, Reiss-Husson F (1978) On the state of carotenoids bound to reaction centers of photosynthetic bacteria: a resonance Raman study 
-oblı́žek M, Mlčoušková J, Kolber Z, Kopecký J (2010) On the photosynthetic properties of marine bacterium COL2P belonging to Roseobacter clade 
-otiadis D, Qian P, Philippsen A, Bullough PA, Engel A, Hunter CN (2004) Structural analysis of the reaction center light-harvesting complex I photosynthetic core complex of Rhodospirillum rubrum using atomic force microscopy 
-agner-Döbler I, Ballhausen B, Berger M, Brinkhoff T, Buchholz I, et al. (2010) The complete genome sequence of the algal symbiont Dinoroseobacter shibae: a hitchhiker’s guide to life in the sea 
-GC/Genome = PGC as % of genome size. doi:10.1371/journal.pone.0025050.t001  PLoS ONE | www.plosone.org  2  September 2011 | Volume 6 | Issue 9 | e25050  Diverse Arrangement of Photosynthetic Gene Cluster  (Table 1) 
-he only  Figure 2 
+utz M Agalides I Hervo G Cogdell RJ Reiss-Husson F 1978 On the state of carotenoids bound to reaction centers of photosynthetic bacteria a resonance Raman study 
+oblı́žek M Mlčoušková J Kolber Z Kopecký J 2010 On the photosynthetic properties of marine bacterium COL2P belonging to Roseobacter clade 
+otiadis D Qian P Philippsen A Bullough PA Engel A Hunter CN 2004 Structural analysis of the reaction center light-harvesting complex I photosynthetic core complex of Rhodospirillum rubrum using atomic force microscopy 
+agner-Döbler I Ballhausen B Berger M Brinkhoff T Buchholz I et al . 2010 The complete genome sequence of the algal symbiont Dinoroseobacter shibae a hitchhiker ’ s guide to life in the sea 
+uchs BM Spring S Teeling H Quast C Wulf J et al . 2007 Characterization of a marine gammaproteobacterium capable of aerobic anoxygenic photosynthesis 
+onversely a BLUF blue light using flavin adenine dinucleotide sensors was usually observed in upstream regions of PGCs of NOR5/OM60 clade 9 
+GC/Genome = PGC as % of genome size . doi:10.1371/journal.pone.0025050.t001 PLoS ONE | www.plosone.org 2 September 2011 | Volume 6 | Issue 9 | e25050 Diverse Arrangement of Photosynthetic Gene Cluster Table 1 
+he only Figure 2 
+2 
+ene bchEJ which exists in most Rhodobacter was found in Cb . litoralis KT71 Fig . 2 
+he standard set of crt genes identified in Rba . capsulatus contains crtAIBKCDEFJ Table 2 
+slightly reduced set of genes crtAIBCDEF was also found in some Roseobacter species Table 2 
 omologous recombination occurred between crtAIB Table 2 
-he composition of carotenoid genes in AAP bacteria.  Alpha  crtA  crtI  crtB  crtC  crtD  crtE  crtF  crtJ  Gamma  Rhodobacterales  Sphingomonadales  NOR5  1  2  3  4  5  N N N N N N N  N N N N N N N N  #  #  #  #  N N #  #  #  N  crtY  #  #  crtZ  #  #  crtW  N N N N N N  #  1, Roseobacter clade (R. denitrificans Och114, R. litoralis OCh149, D. shibae DLF 12, L. vestfoldensis SKA53, Jannaschia sp 
-cience 292: 2492–2495. 2 
-heir photosynthetic apparatus is encoded by a number of genes organized in a so-called photosynthetic gene cluster (PGC) 
-ladimir Yurkov is funded by NSERC, Canada 
-eaxanthin is obtained by two  The biosynthetic pathway for carotenoids in AAP bacterial strains A typical feature of AAP bacteria is their pigmentation due to abundant carotenoids, which spans from yellow/orange to brown or from pink/red to purple 
-pheroidenone is also produced by anaerobic purple non-sulfur photoautotrophic  Figure 3 
+he composition of carotenoid genes in AAP bacteria . Alpha crtA crtI crtB crtC crtD crtE crtF crtJ Gamma Rhodobacterales Sphingomonadales NOR5 1 2 3 4 5 N N N N N N N N N N N N N N N N N N crtY # # crtZ # # crtW N N N N N N # 1 Roseobacter clade R. denitrificans Och114 R. litoralis OCh149 D. shibae DLF 12 L. vestfoldensis SKA53 Jannaschia sp 
+cience 292 2492–2495 . 2 
+heir photosynthetic apparatus is encoded by a number of genes organized in a so-called photosynthetic gene cluster PGC 
+ladimir Yurkov is funded by NSERC Canada 
+eaxanthin is obtained by two The biosynthetic pathway for carotenoids in AAP bacterial strains A typical feature of AAP bacteria is their pigmentation due to abundant carotenoids which spans from yellow/orange to brown or from pink/red to purple 
+pheroidenone is also produced by anaerobic purple non-sulfur photoautotrophic Figure 3 
+éjà O Suzuki MT Heidelberg JF Nelson WC Preston CM et al . 2002 Unsuspected diversity among marine aerobic anoxygenic phototrophs 
 ore complete PGC structures are observed in AAP of Roseobacter clade compared to Sphingomonadales or NOR5/ OM60 clades 
-RS278 [31].  organisms such as Rba. sphaeroides or Rhodovulum. marinum when grown under aerobic conditions [37,38] 
-sebo KM, Hearst JE (1984) Genetic-physical mapping of a photosynthetic gene cluster from R. capsulata 
-onversely, a BLUF (blue light using flavin adenine dinucleotide sensors) was usually observed in upstream regions of PGCs of NOR5/OM60 clade [9] 
+he last possible arrangement type IV reverse bchFNBHLM-LhaA-puh plus forward crtF-bchCXYZ-puf has not been yet found in AAP or AAP candidates bacterial genomes Fig 
+RS278 31 . organisms such as Rba . sphaeroides or Rhodovulum . marinum when grown under aerobic conditions 37,38 
+sebo KM Hearst JE 1984 Genetic-physical mapping of a photosynthetic gene cluster from R. capsulata 
+urkov VV Krieger S Stackebrandt E Beatty JT 1999 Citromicrobium bathyomarinum a novel aerobic bacterium isolated from deep-sea hydrothermal vent plume waters that contains photosynthetic pigment-protein complexes 

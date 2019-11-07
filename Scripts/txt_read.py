@@ -1,6 +1,7 @@
 import argparse
 import os
 import re
+from nltk.tokenize import word_tokenize
 
 
 def funcion_busqueda(mystr,comp_dict):
@@ -8,8 +9,15 @@ def funcion_busqueda(mystr,comp_dict):
 	paper=[]
 	string=re.split('\. [A-Z]',mystr)
 	for i in string:
-		sentence=i.split(" ")
+		sentence=word_tokenize(i)
 		paper.append(sentence)
+		
+	for sent in paper:
+		for word in sent:
+			for s in sym:
+				if(s==word):
+					sent.remove(word)
+
 
 	asociaciones=[]
 	for word in comp_dict:
@@ -19,7 +27,8 @@ def funcion_busqueda(mystr,comp_dict):
 					if sentence not in asociaciones:
 						asociaciones.append(sentence)
 
-	with open(os.path.join(args.outputPath,"Association_Bacteria_"+file), mode="w") as oFile:
+
+	with open(os.path.join(args.outputPath,"Association_Medium_"+file), mode="w") as oFile:
 		for oracion in asociaciones:
 			for palabra in oracion:
 				oFile.write("{} ".format(palabra))
@@ -38,6 +47,7 @@ if __name__ == '__main__':
 	args=parser.parse_args()
 	#Ejemplo: python3 txt_read.py --path ruta_entrada/nombre_bacteria --outputpath ruta_salida/nombre_bactera --dict nombre_diccionario (bacteria o medio).
 
+	sym=[",","*",";",":","?","!","_","-","(",")","[","]","{","}","#"]
 
 	with open(args.dictionary) as Dict:
 		comp_dict=Dict.readlines()

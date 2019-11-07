@@ -1,26 +1,34 @@
-fter 4 days growth in peptone medium to which 0?05–1 g l21 potassium tellurite had been added, cultures turned jet-black and refractile inclusions were visible in the cells 
- ellular fatty acid content (%) of strain DFL-43T in comparison with those of H. marina DSM 16791T and A. kielensis DSM 5980T Fatty acid values of less than 1 % are not shown 
- he 16S rRNA gene sequence data suggested that the strains belonged to the order Rhizobiales and were closest (98?5 % sequence similarity) to the recently described species Hoeflea marina 
- ood growth occurred in complex media with 0?5–7?0 % sea salts, at 25–33 6C (optimum, 31 6C) and at pH values in the range 6–9 
- n the basis of smaller cell size, different substrate utilization profile and photosynthetic pigment content, the novel strains can be classified as representatives of a second species of Hoeflea, for which the name Hoeflea phototrophica sp. nov. is proposed 
- n a recent survey, Schwalbach & Fuhrman (2005) quantified aerobic anoxygenic phototrophs (AAPs) by means of epifluorescence microscopy and quantitative PCR and found them to constitute 1–2 % of all bacteria in the euphotic zone off the coast of Southern California 
- he phylogenetic position of strains DFL-43T and DFL-44 within the a2 subgroup of the Alphaproteobacteria is shown in a supplementary figure available in IJSEM Online.  63958 G 2006 IUMS  >10 % of total bacteria 
- he novel strains were able to grow at pH values between 5?8 and 9?5 
- etween pH 6?0 and 9?0, initial culture development was almost the same 
- ea salts were required at a concentration of at least 0?5 %; concentrations up to 7 % were tolerated.  Colonies of surface cultures were light-beige on full-strength marine broth 2216 (Difco) and wine-red on 10-fold-diluted marine broth 
- ars: 500 nm (a), 100 nm (b) and 10 mm (c). 822  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 56 IP: 189.155.188.202 On: Thu, 15 Feb 2018 21:53:06  Hoeflea phototrophica sp. nov.  The utilization of carbon sources was checked in a mineral sea-water medium containing 0?1 g yeast extract l21 to provide the required growth factors 
- he following carbon sources were tested at a concentration of 1 g l21 (acids as sodium salts): acetate, butyrate, succinate, fumarate, malate, lactate, citrate, glutamate, pyruvate, glucose, fructose, ethanol, methanol, glycerol and yeast extract 
- he other substrates tested allowed only limited growth, with OD600 values ranging from 20 (glucose) to 60 % (fumarate, citrate) of that of the acetate culture; methanol and ethanol did not allow any growth at all 
- rowth and specific bacteriochlorophyll a content of strains of Hoeflea phototrophica sp. nov. in cultures grown at different concentrations of sea salts Sea salts (g l”1)  3 6 9 35  Bacteriochlorophyll a (nmol mg protein”1)  OD600 DFL-43T  DFL-44  DFL-43T  DFL-44  0?31 0?65 0?66 0?53  0?36 0?48 0?54 0?59  0?26 0?89 0?70 0?00  0?24 0?61 0?53 tr  Table 1 
- iquid cultures containing (l21) 3 g peptone and 0?5 g yeast extract and varied amounts of sea salts revealed that pigment production was dependent on the salt concentration 
- ultures containing 3, 6 and 9 g sea salts l21 appeared  very pink, while cultures at the salt concentration of natural sea water were colourless 
- he cell mass from 30 ml culture grown at 6 g sea salts l21 was extracted with 3 ml acetone/ methanol (7 : 2) and the absorption spectrum of the extract was recorded (Fig. 2) 
- t showed the typical maxima of bacteriochlorophyll a at 367 and 775 nm and a high peak at 482 nm, indicating the presence of a carotenoid 
- he in vivo absorption spectrum obtained by suspension of cells in 75 % glycerol showed only weak absorption in the infrared region because of the low pigment content, but peaks at around 800 and 865 nm were recognizable (not shown) 
- ar, 10 substitutions per 100 nt. 824  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 56 IP: 189.155.188.202 On: Thu, 15 Feb 2018 21:53:06  Hoeflea phototrophica sp. nov.  Table 3 
- lthough the 16S rRNA gene sequence comparisons indicate that the novel strains are very close to H. marina (98?5 % similarity) and more distant to A. kielensis (94?4 % similarity), there are marked phenotypic differences between the novel strains and both of these recognized species and these are also reflected in the wide range of DNA G+C contents 
- rowth occurs at concentrations of sea salts from 0?5–7?0 %, at temperatures of up to 33 uC (optimum, 31 uC) and at pH values in the range 6–9 
- hotosynthetic pigments were formed at low to medium salt concentrations, but not at the salt concentration of sea water (3?5 %) 
- olber et al. (2001) calculated, by extrapolation from measurements of bacteriochlorophyll a in tropical seas, that up to 10 % of the bacterioplankton were potentially capable of photosynthesis 
- ootstrap values with greater than 60 % confidence (percentage of 1000 resamplings) are shown at the branching points 
+fter 4 days growth in peptone medium to which 0 05–1 g l21 potassium tellurite had been added cultures turned jet-black and refractile inclusions were visible in the cells 
+ ellular fatty acid content % of strain DFL-43T in comparison with those of H. marina DSM 16791T and A. kielensis DSM 5980T Fatty acid values of less than 1 % are not shown 
+ s is usually the case for the Alphaproteobacteria the mono-unsaturated straight chain acid 18 1v7 was the major component 63–85 % replaced in part by the methylated form , particularly in strain DFL-43T 21 % 
+ he 16S rRNA gene sequence data suggested that the strains belonged to the order Rhizobiales and were closest 98 5 % sequence similarity to the recently described species Hoeflea marina 
+ ood growth occurred in complex media with 0 5–7 0 % sea salts at 25–33 6C optimum 31 6C and at pH values in the range 6–9 
+ n the basis of smaller cell size different substrate utilization profile and photosynthetic pigment content the novel strains can be classified as representatives of a second species of Hoeflea for which the name Hoeflea phototrophica sp . nov. is proposed 
+ n a recent survey Schwalbach & Fuhrman 2005 quantified aerobic anoxygenic phototrophs AAPs by means of epifluorescence microscopy and quantitative PCR and found them to constitute 1–2 % of all bacteria in the euphotic zone off the coast of Southern California 
+ he phylogenetic position of strains DFL-43T and DFL-44 within the a2 subgroup of the Alphaproteobacteria is shown in a supplementary figure available in IJSEM Online . 63958 G 2006 IUMS > 10 % of total bacteria 
+ he temperature range for growth was determined by using a temperature-gradient shaking incubator Toyo Kogaku Sangyo that allowed growth to be followed between 15 and 45 uC at increments of 3 uC through periodic measurement of the optical density 600 nm 
+ he novel strains were able to grow at pH values between 5 8 and 9 5 
+ etween pH 6 0 and 9 0 initial culture development was almost the same 
+ ea salts were required at a concentration of at least 0 5 % concentrations up to 7 % were tolerated . Colonies of surface cultures were light-beige on full-strength marine broth 2216 Difco and wine-red on 10-fold-diluted marine broth 
+ he arrowhead indicates the shadowing direction . b The Gram-negative cell wall shows an outer membrane OM and peptidoglycan as a thin line M 
+ ars 500 nm a 100 nm b and 10 mm c . 822 Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 56 IP 189.155.188.202 On Thu , 15 Feb 2018 21:53:06 Hoeflea phototrophica sp . nov . The utilization of carbon sources was checked in a mineral sea-water medium containing 0 1 g yeast extract l21 to provide the required growth factors 
+ he following carbon sources were tested at a concentration of 1 g l21 acids as sodium salts : acetate butyrate succinate fumarate malate lactate citrate glutamate pyruvate glucose fructose ethanol methanol glycerol and yeast extract 
+ he other substrates tested allowed only limited growth with OD600 values ranging from 20 glucose to 60 % fumarate citrate of that of the acetate culture methanol and ethanol did not allow any growth at all 
+ bsorption spectrum of the acetone/methanol 7 2 extract of strain DFL-43T showing the maxima for bacteriochlorophyll a 367 and 775 nm and a carotenoid probably spheroidenone . growth occurred under anaerobic conditions in the light when acetate was the substrate 
+ rowth and specific bacteriochlorophyll a content of strains of Hoeflea phototrophica sp . nov. in cultures grown at different concentrations of sea salts Sea salts g l ” 1 3 6 9 35 Bacteriochlorophyll a nmol mg protein ” 1 OD600 DFL-43T DFL-44 DFL-43T DFL-44 0 31 0 65 0 66 0 53 0 36 0 48 0 54 0 59 0 26 0 89 0 70 0 00 0 24 0 61 0 53 tr Table 1 
+ iquid cultures containing l21 3 g peptone and 0 5 g yeast extract and varied amounts of sea salts revealed that pigment production was dependent on the salt concentration 
+ ultures containing 3 6 and 9 g sea salts l21 appeared very pink while cultures at the salt concentration of natural sea water were colourless 
+ he cell mass from 30 ml culture grown at 6 g sea salts l21 was extracted with 3 ml acetone/ methanol 7 2 and the absorption spectrum of the extract was recorded Fig . 2 
+ t showed the typical maxima of bacteriochlorophyll a at 367 and 775 nm and a high peak at 482 nm indicating the presence of a carotenoid 
+ he in vivo absorption spectrum obtained by suspension of cells in 75 % glycerol showed only weak absorption in the infrared region because of the low pigment content but peaks at around 800 and 865 nm were recognizable not shown 
+ ar 10 substitutions per 100 nt . 824 Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 56 IP 189.155.188.202 On Thu 15 Feb 2018 21:53:06 Hoeflea phototrophica sp . nov. Table 3 
+ haracteristic Mean cell size mm Flagellation Bacteriochlorophyll a Sea salts required for growth Use of single organic compounds Use of glucose Presence of phosphatidylcholine DNA G+C content mol % 1 2 3 0 461 3 Monotrichous + + + 2 + 59 3 0 861 2 0 662 0 Peritrichous 2 + 2 2 + 48 Even though the first variable region of the 16S rRNA gene sequences of strains DFL-43T and DFL-44 was more closely related to that of A. kielensis the almost-complete 16S rRNA gene sequences of the novel strains revealed them to be most closely related to H. marina 
+ lthough the 16S rRNA gene sequence comparisons indicate that the novel strains are very close to H. marina 98 5 % similarity and more distant to A. kielensis 94 4 % similarity , there are marked phenotypic differences between the novel strains and both of these recognized species and these are also reflected in the wide range of DNA G+C contents 
+ rowth occurs at concentrations of sea salts from 0 5–7 0 % at temperatures of up to 33 uC optimum 31 uC and at pH values in the range 6–9 
+ hotosynthetic pigments were formed at low to medium salt concentrations but not at the salt concentration of sea water 3 5 % 
+ olber et al . 2001 calculated by extrapolation from measurements of bacteriochlorophyll a in tropical seas that up to 10 % of the bacterioplankton were potentially capable of photosynthesis 
+ t can be inferred that the carotenoid peak at 482 nm of the solvent extract originates from spheroidenone 
+ ootstrap values with greater than 60 % confidence percentage of 1000 resamplings are shown at the branching points 
+ he DNA G+C content of the type strain is 59 3 mol % 
+ M cytoplasmic membrane . c Phase-contrast photomicrograph of cells mounted on an agar surface 
  

@@ -1,25 +1,36 @@
-n a 20 % CO2 atmosphere, strain gps61T grew using thiosulfate, sulfur or tetrathionate as electron donors and oxygen or nitrate as electron acceptors 
- tilization of electron acceptors and donors was determined by measuring OD660 (spectrophotometer model U2800; Hitachi), thiosulfate and sulfate concentration (HPLC model 2695 with conductivity detector model 432 and IC-Pak Anion column; Waters) (Mori et al., 2008) and cell density via microscopic observation 
- ell density and concentration of thiosulfate and sulfate over time on either thiosulfate or elemental sulfur were determined (Supplementary Fig 
+he following electron acceptors mM were not used even in the presence of thiosulfate or elemental sulfur nitrite 2.5 and 5 fumarate 10 , iron III citrate 5 Heising et al. , 1999 , manganese 5 , selenate 2.5 and 5 , selenite 2.5 and 5 and arsenate ( 2.5 and 5 
+ n a 20 % CO2 atmosphere strain gps61T grew using thiosulfate sulfur or tetrathionate as electron donors and oxygen or nitrate as electron acceptors 
+ nder anaerobic conditions N2/CO2 80 20 v/v 150 kPa , strain gps61T was able to use nitrate 10 mM as an electron acceptor in the presence of thiosulfate or elemental sulfur 
+ owever the following substrates did not support growth mM : sulfide 2 and 5 CH4 H2 , H2+acetate 10 , methanol 2 and 5 , formate 10 and 30 , acetate 10 and 30 , butyrate 10 , citrate 10 , fumarate 10 , glutamate 10 , lactate 10 , pyruvate 10 , malate 10 , succinate 10 , L-arginine 10 , L-asparagine 10 , Lcysteine 10 , L-histidine 10 , L-leucine 10 , L-methionine 10 , arabinose 5 , fructose 5 , galactose 5 , glucose 5 , inositol 5 , mannose 5 , raffinose 5 , sucrose 5 and xylose 10 
+ tilization of electron acceptors and donors was determined by measuring OD660 spectrophotometer model U2800 Hitachi thiosulfate and sulfate concentration HPLC model 2695 with conductivity detector model 432 and IC-Pak Anion column Waters ( Mori et al. , 2008 and cell density via microscopic observation 
+ ell density and concentration of thiosulfate and sulfate over time on either thiosulfate or elemental sulfur were determined Supplementary Fig 
  ells grown on thiosulfate converted 13.3 mM thiosulfate into 19.2 mM sulfate and an undetermined amount of elemental sulfur 
- haracteristic Morphology Intracellular deposit Requirement for oxygen Photosynthesis Electron acceptor(s) Electron donors Optimum temperature for growth (uC) Optimum pH for growth Optimum NaCl concentration for growth DNA G+C content (mol%)  1  2  3  4  Rod 2 Facultatively anaerobic and microaerobic 2 O2, NO32 S0, S2O32-, S4O62-  Short or spiral rod  Spiral rod + Microaerobic  Rod  O2, NO32 0 S , S2O32-, S4O62-, SO32-*  2 O2 S2-, S82-, S0, S2O32-, S4O62-  39 7 2% 62.9  50 7 3% 66  30D 10 3% 58.9  ND  Facultatively anaerobic ND  ND  Facultatively anaerobic ND  O2, NO22 S2-, S2O32-, thiocyanate 30D 7.5 9% 58.2  *Thioprofundum lithotrophicum was not able to use sulfite as an electron donor in our analysis 
- he basal medium was composed of (l21) 0.60 g KH2PO4, 0.11 g K2HPO4, 3.05 g MgCl2 . 6H2O, 0.15 g CaCl2 . 2H2O, 0.66 g (NH4)2SO4, 30 g NaCl, 2.52 g NaHCO3, and 2 ml each of trace element and vitamin solutions of NBRC medium 377 (NBRC, 2010) 
- or the enrichment of sulfuroxidizing micro-organisms, AP8SO1 medium, comprising basal medium supplemented with 5 mM Na2S2O3, was used under an atmosphere of N2/CO2/O2 (75 : 20 : 5, v/v/v; 150 kPa) in a vial sealed with a butyl rubber stopper and an aluminium cap; the enrichment was performed at 50 uC 
- ther substrates, including organic acids and sugars, did not support growth, indicating that strain gps61T was an obligate chemolithoautotroph. 16S rRNA gene sequence analysis revealed that strain gps61T was closely related to Thioprofundum lithotrophicum 106T (98.5 % sequence similarity) in the order Chromatiales 
- he major cellular fatty acids were C16 : 0 (50 % of the total fatty acids) and branched C17 : 0 (29 %) 
- ori and others  substitute for oxygen was tested by microscopic observation after 1 week of cultivation at 37 uC 
- he cells have a single thick polar flagellum (~20 nm in diameter) and a concealing core was observed at the tip 
- ars, 5 mm (a), 0.5 mm (b, d) and 100 nm (c).  genomic DNA G+C content (Mori et al., 2000) of strain gps61T was 62.9 mol% 
- he utilization of electron acceptors as a 2414  Temperature and pH ranges for growth were determined using a temperature gradient incubator (model TN-2612; ADVANTEC) 
- he sequence similarity between strain gps61T and its closest neighbour, Thioprofundum lithotrophicum, was 98.5 % 
- urthermore, the isolate was closely related to environmental clone sequences (92.1–95.6 %) and uncharacterized marine denitrifying sulfur-oxidizing isolates found in hydrothermal systems such as strains OAII2 and NDII.1 (96.3 % and 93.6 %, respectively) (Meyer et al., 2007) 
- robability scores at branching points obtained with three analysis methods are indicated by solid circles (.95 % by all methods) and open circles (.90 % by two methods) 
- n the order Chromatiales, the phylogenetic distances of members of the novel family and those of the families Chromatiaceae, Ectothiorhodospiraceae and Halothiobacillaceae, based on 16S rRNA gene sequences, were 93.1 %, 92.9 % and 90.2 %, respectively 
- rows at 29 and 43 uC (optimum 39 uC). pH range for  Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP: 132.247.101.80 On: Tue, 03 Apr 2018 22:58:20  Thioprofundum hispidum sp. nov.  growth is 6–8 (optimum pH 7) 
- he pH of the AP8SO2 medium was adjusted by the addition of 10 % (w/v) Na2CO3 or 0.2 M HCl 
- train gps61T was able to grow in the presence of 20 % oxygen, whereas Thioprofundum lithotrophicum was unable to grow at oxygen concentrations .5 % 
- he NaCl concentration for growth ranged from 1–4 % (w/v) NaCl (optimum 2 %) 
- he NaCl concentration for growth ranges from 1 to 4 % (optimum 2 %) 
- ulfur precipitation was observed in an enrichment culture incubated at 37 uC using AP8SO1 medium supplemented with 20 mM Na2S2O3 (AP8SO2) under an atmosphere of N2/CO2/O2 (60 : 20 : 20, 150 kPa) 
- he initial pH range for growth at 37 uC was pH 6–8 (optimum pH 7) 
+ haracteristic Morphology Intracellular deposit Requirement for oxygen Photosynthesis Electron acceptor s Electron donors Optimum temperature for growth uC Optimum pH for growth Optimum NaCl concentration for growth DNA G+C content mol % 1 2 3 4 Rod 2 Facultatively anaerobic and microaerobic 2 O2 NO32 S0 S2O32- S4O62- Short or spiral rod Spiral rod + Microaerobic Rod O2 NO32 0 S S2O32- S4O62- SO32-* 2 O2 S2- S82- S0 S2O32- S4O62- 39 7 2 % 62.9 50 7 3 % 66 30D 10 3 % 58.9 ND Facultatively anaerobic ND ND Facultatively anaerobic ND O2 NO22 S2- S2O32- thiocyanate 30D 7.5 9 % 58.2 *Thioprofundum lithotrophicum was not able to use sulfite as an electron donor in our analysis 
+ he strain also contained C16 1v7c 16 % , C18 1v7c 6 % , C15 0 5 % and C14 0 2 % as minor fatty acid components 
+ he basal medium was composed of l21 0.60 g KH2PO4 0.11 g K2HPO4 3.05 g MgCl2 . 6H2O 0.15 g CaCl2 . 2H2O 0.66 g NH4 2SO4 30 g NaCl 2.52 g NaHCO3 and 2 ml each of trace element and vitamin solutions of NBRC medium 377 NBRC 2010 
+ or the enrichment of sulfuroxidizing micro-organisms AP8SO1 medium comprising basal medium supplemented with 5 mM Na2S2O3 was used under an atmosphere of N2/CO2/O2 75 20 5 v/v/v 150 kPa in a vial sealed with a butyl rubber stopper and an aluminium cap the enrichment was performed at 50 uC 
+ ther substrates including organic acids and sugars did not support growth indicating that strain gps61T was an obligate chemolithoautotroph . 16S rRNA gene sequence analysis revealed that strain gps61T was closely related to Thioprofundum lithotrophicum 106T 98.5 % sequence similarity in the order Chromatiales 
+ he major cellular fatty acids were C16 0 50 % of the total fatty acids and branched C17 0 29 % 
+ ori and others substitute for oxygen was tested by microscopic observation after 1 week of cultivation at 37 uC 
+ he cells have a single thick polar flagellum ~20 nm in diameter and a concealing core was observed at the tip 
+ ars 5 mm a 0.5 mm b d and 100 nm c . genomic DNA G+C content Mori et al. , 2000 of strain gps61T was 62.9 mol % 
+ he utilization of electron acceptors as a 2414 Temperature and pH ranges for growth were determined using a temperature gradient incubator model TN-2612 ADVANTEC 
+ he sequence similarity between strain gps61T and its closest neighbour Thioprofundum lithotrophicum was 98.5 % 
+ urthermore the isolate was closely related to environmental clone sequences 92.1–95.6 % and uncharacterized marine denitrifying sulfur-oxidizing isolates found in hydrothermal systems such as strains OAII2 and NDII.1 96.3 % and 93.6 % respectively ( Meyer et al. 2007 
+ hioalkalispira microaerophila and Thiohalophilus thiocyanoxidans were members of the same cluster albeit with somewhat lower similarity to the Thioprofundum strains ~93–94 % 
+ he genomic DNA G+C content differed between strain gps61T 63 mol % and Thioprofundum lithotrophicum 66 mol % 
+ robability scores at branching points obtained with three analysis methods are indicated by solid circles .95 % by all methods and open circles .90 % by two methods 
+ Growth temperature only not optimum was reported . between strain gps61T and Thioprofundum lithotrophicum showed relatedness values of only 11–21 % strongly suggesting that they should be classified as different species 
+ n the order Chromatiales the phylogenetic distances of members of the novel family and those of the families Chromatiaceae Ectothiorhodospiraceae and Halothiobacillaceae based on 16S rRNA gene sequences were 93.1 % 92.9 % and 90.2 % respectively 
+ rows at 29 and 43 uC optimum 39 uC . pH range for Downloaded from www.microbiologyresearch.org by International Journal of Systematic and Evolutionary Microbiology 61 IP 132.247.101.80 On Tue 03 Apr 2018 22:58:20 Thioprofundum hispidum sp . nov. growth is 6–8 optimum pH 7 
+ fter incubation for 1 week thiosulfate was partly converted into elemental sulfur in the enrichment culture 
+ he pH of the AP8SO2 medium was adjusted by the addition of 10 % w/v Na2CO3 or 0.2 M HCl 
+ train gps61T was able to grow in the presence of 20 % oxygen whereas Thioprofundum lithotrophicum was unable to grow at oxygen concentrations .5 % 
+ hioalkalispira the type genus of family suff . -aceae ending to denote a family N.L . fem . pl . n 
+ he genomic DNA G+C content of the type strain is 62.9 mol % determined by HPLC . Durand P. Reysenbach A.-L. Prieur D. & Pace N. 1993 
+ he NaCl concentration for growth ranged from 1–4 % w/v NaCl optimum 2 % 
+ he NaCl concentration for growth ranges from 1 to 4 % optimum 2 % 
+ he genomic DNA G+C content is 59–66 mol % 
+ ulfur precipitation was observed in an enrichment culture incubated at 37 uC using AP8SO1 medium supplemented with 20 mM Na2S2O3 AP8SO2 under an atmosphere of N2/CO2/O2 60 20 20 150 kPa 
+ he initial pH range for growth at 37 uC was pH 6–8 optimum pH 7 
  
