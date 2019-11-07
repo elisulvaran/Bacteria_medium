@@ -1,0 +1,666 @@
+Journal of Microbiology (2016) Vol. 54, No. 5, pp. 347–352
+DOI 10.1007/s12275-016-6048-1
+
+eISSN 1976-3794
+pISSN 1225-8873
+
+Abyssisolibacter fermentans gen. nov. sp. nov., isolated from deep
+sub-seafloor sediment§
+Wonduck Kim, Jung-Hyun Lee,
+and Kae Kyoung Kwon*
+Marine Biotechnology Research Center, Korea Institute of Ocean Science
+and Technology, Ansan, 15627, Republic of Korea
+(Received Jan 29, 2016 / Revised Mar 8, 2016 / Accepted Mar 11, 2016)
+
+A Gram-staining-negative, thin rod-shaped, anaerobic bacterium designated MCWD3T was isolated from sediment of
+the deep sea in Ulleung Basin, East Sea, Korea. The ranges of
+temperature, pH and NaCl for growth of this strain were 15–
+40°C (optimum 29°C), 5.0–10.0 (optimum pH 6.5), and 1–5%,
+respectively. The major fatty acids were iso-C15:0 (30%) and
+iso-C15:0 dimethyl acetal (17%). The major polar lipids were
+diphosphatidylglycerol, phosphatidylglycerol, phosphatidylethanolamine, and unidentified aminophospholipids, phospholipids, and aminolipids. The fermentation product from
+yeast extract was acetate. Phylogenetic analysis based on 16S
+rRNA genes indicated that the isolate was related to Sporosalibacterium faouarense (92.8% sequence identity), Clostridiisalibacter paucivorans (92.6%), and Brassicibacter mesophilus
+(92.4%). However, the isolate was differentiated from these
+genera by both physiological and chemotaxonomical properties. On the basis of a polyphasic taxonomic analysis, we
+propose that MCWD3T represents a novel taxon with the
+name Abyssisolibacter fermentans gen. nov. sp. nov.
+Keywords: polyphasic taxonomy, Clostridiaceae, deep marine
+sediment, Abyssisolibacter fermentans gen. nov. sp. nov.
+Introduction
+Diverse microbes are present in the various deep seabed environments despite the extreme conditions of low temperature, high pressure and low nutrient availability (Jørgensen
+and Boetius, 2007). Recent ocean drilling projects have provided more insights into the microbial systems in the deepsea sediments. Analyses based on 16S rRNA gene sequences
+have uncovered specific microbiomes (Zhu et al., 2013; Polymenakou et al., 2015) as well prokaryotes phylogenetically
+distant from those in other habitats (Marchesi et al., 2001;
+Reed et al,. 2002). While these investigations have provided
+*For correspondence. E-mail: kkkwon@kiost.ac.kr; Tel.: +82-31-400-6242;
+Fax: +82-31-406-2495
+§
+Supplemental material for this article may be found at
+http://www.springerlink.com/content/120956
+Copyright G2016, The Microbiological Society of Korea
+
+more information about the deep-sea microbiome, full understanding for deep sea microbes is still limited by the scarcity of cultivated strains and information about their properties (Teske, 2006; Da Silva et al., 2013).
+The order Clostridiales, is a large and diverse phylogenetic
+group that includes species with a wide range of morphologies, habitats and physiologies (Cato et al., 1986). The family
+Clostridiaceae belongs to this order and contains 37 genera as
+well as a number of unclassified species (http://www.ncbi.nlm.
+nih.gov/Taxonomy/). In the last decade, a number of isolates
+have been described that represent novel genera in this family
+(Liebgott et al., 2008; Rezgui et al., 2011; Fang et al., 2012;
+Hania et al., 2015a). We isolated another member of the family Clostridiaceae from deep-sea sediment in Ulleung Basin,
+East Sea, Korea. A polyphasic analysis of its growth properties,
+chemotaxonomy, and phylogeny demonstrated that this
+isolate represents a novel species and genus in the family.
+Materials and Methods
+T
+
+Isolation and growth of strain MCWD3
+
+Strain MCWD3T was isolated from the deep sea sediment
+(water depth 2,150 m) located in the Ulleung Basin (37°00���N,
+131°00���E). The samples were acquired by a 4 m long piston
+core sampler with polycarbonate liner (ϕ=13 cm). Subsamples
+were obtained from 0.5, 50, 100, 150, and 200 cm depths by
+a modified 3 ml plastic syringe. The subsamples, 0.5 cm3,
+were mixed with 10 ml of anaerobic medium (DSMZ No. 135)
+on shipboard. Following transportation to the laboratory,
+0.5 ml of culture broth was transferred into a new medium
+(10 ml) composed of (g/L): K2HPO4 0.14, NH4Cl 0.5, FeSO4
+0.017, KCl 0.34, MgCl2·6H2O 2.8, MgSO4·7H2O 3.45, CaCl2·
+2H2O 0.14, NaCl 22, trace mineral solution (Balch, 1979) 1 ml,
+vitamin solution (Balch, 1979) 1 ml, resazurin 1 mg, yeast extract 2, glucose 5, sodium acetate 1.4, cysteine·H2O·HCl 0.5,
+NaHCO3 5.0, Na2S·9H20 0.5. The sample was diluted and the
+enrichment was performed at 30°C for 7 days. The highest
+dilution showing growth was streaked into a slant of the same
+medium with 1.5% agar. A resulting colony was selected for
+further characterization. It was preserved as a glycerol suspension (15%, w/v) at –80°C and deposited at KCTC (Korean
+Collection for Type Cultures, No. KCTC 15524) and CCTCC
+(under deposit). All of media for this study were prepared by
+the Hungate anaerobic techniques (Hungate, 1969). Unless
+otherwise stated, strain MCWD3T was cultivated at 30°C.
+Phylogenetic analysis
+Extraction of genomic DNA from strain MCWD3T was con-
+
+348
+
+Kim et al.
+
+ducted using a commercial Exgene cell SV kit (GeneAll
+Biotechnology), and the 16S rRNA gene was amplified with
+bacterial primers 27F and 1492R. The PCR product was sequenced at Cosmogentech Inc. The GenBank accession number is KU510224. To ascertain the phylogenetic position of
+strain MCWD3T, the 16S rRNA gene sequence was compared
+with those obtained from EzTaxon (http://eztaxon-e.ezbiocloud.net/). A total of 1,343 unambiguously aligned sequences
+were compared. Phylogenetic tree using the Jukes-Cantor
+model and neighbor-joining (NJ) method was constructed
+by the MEGA ver. 5.2 (Tamura et al., 2011). The resulting
+tree topologies were evaluated using bootstrap analyses based
+on 1,000 resamplings. Phylogenetic analysis based on maximum-likelihood (ML) and maximum-parsimony (MP) methods were also conducted in MEGA.
+Morphological, physiological, and biochemical characterization
+Gram type was examined by utilizing Gram staining kit (YD
+diagnostics). Morphology and motility were observed by light
+microscopy at × 1,000 (Nikon). The oxygen resistance was
+assessed by cultivation with air in the absence of Na2S and
+cysteine. To examine growth temperature ranges, cultures
+were incubated at 4, 10, 15, 20, 25, 29, 33, 37, 40, and 44°C.
+The pH range for was determined at pH values of 4.0, 5.0,
+6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, and 10.0 by the addition of 10
+mM of buffer. The buffers and pH ranges use were by MES
+(pH 4.0–6.0), HEPES (pH 6.0–8.0) and AMPSO (pH 8.0–
+10.0) (Yang et al., 2013) instead of bicarbonate buffer. Salinity
+range for growth was examined by the addition of NaCl to
+final concentrations of 0, 0.5, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0 and
+10.0%. The effect of yeast extract on growth was tested at 0,
+0.05, 0.1, and 0.2%. Endospore formation was checked by
+the pasteurization test, and the strains were treated at 80°C,
+90°C and 100°C for 10 or 20 minutes before being transferred
+into fresh medium (Hania et al., 2015b).
+Type strain Sporosalibacterium faouarense SOL3f37T (Rezgui
+et al., 2011) was obtained from KCTC (No. 15135) and cultivated with the medium (No. 987) recommended by the
+
+institute.
+The basal medium for the substrate utilization tests for strain
+MCWD3T was prepared with (g/L): K2HPO4 0.3, KH2PO4
+0.3, NH4Cl 1.0, MgCl2·6H2O 2.0, KCl 0.1, CaCl2·2H2O 0.1,
+NaCl 10.0, trace mineral solution 10 ml, yeast extract 0.5,
+resazurin 0.1% (w/v), NaHCO3 0.2, cysteine-HCl 0.5 (pH
+6.5). The organic acids (20 mM) tested were sodium formate,
+sodium acetate, sodium propionate, sodium butyrate, sodium
+fumarate, sodium malate, sodium succinate, sodium lactate,
+and sodium citrate. The amino acids (20 mM) tested were alanine, arginine, asparagine, aspartic acid, cysteine, glutamine,
+glutamic acid, glycine, histidine, isoleucine, leucine, lysine,
+methionine, phenylalanine, proline, serine, threonine, tryptophan, tyrosine, and valine. The carbohydrates (20 mM) tested
+were arabinose, cellobiose, fructose, glucose, glycerol, lactose,
+maltose, mannose, and mannitol. In addition, H2+CO2 gas
+(80:20 v:v, 1 bar), peptone (0.1%), and casamino acids (0.1%)
+were tested. The basal medium for Sporosalibacterium faouaT
+rense SOL3f37 was prepared with the previous composition (Rezgui et al., 2011) containing 0.05% yeast extract.
+To examine if sulfur compounds can be served as electron
+acceptors, potassium sulfate (20 mM), sodium thiosulfate (20
+mM), and elemental sulfur (0.1%) were added into each yeast
+extract (0.05%) containing medium prepared in the absence
+of Na2S. Hydrogen sulfide concentration of each sample was
+photometrically estimated from colloidal CuS (Cord-Ruwisch,
+1985). The reduction of nitrate and nitrite was inspected by
+utilizing Durham tubes (Ogg and Patel, 2009) and color changes
+with the Griess reagents (Conn and Breed, 1919; MacFaddin,
+2000). The end product from the metabolism was confirmed
+by high pressure liquid chromatography (HPLC) with an ion
+exclusion coloumn (Shodex RSpak KC81), which was operated at a flow rate of 1.0 ml/min and 40°C.
+Chemotaxonomy
+T
+
+The cellular fatty acids from strain MCWD3 and Sporosalibacterium faouarense SOL3f37T were analyzed by the MIDI/
+Hewlett Packard Microbial Identification System (MIS: Sasser,
+1990) with Sherlock ver. 6.1 and ANAER6 database accord-
+
+T
+
+Fig. 1. Phylogenetic tree based on nearly complete 16S rRNA gene sequences showing the relationship between strain MCWD39 and related members of
+the family Clostridiaceae. The tree is based on the Juke & Cantor distances model and the neighbour-joining algorithm. Bootstrap values (>50% from 1,000
+replicates) from NJ, ML, and MP are placed on left of the node. Scale bar, 0.01 nucleotide substitutions per nucleotide position. Filled circles represents
+nodes recovered in 3 different treeing methods, and hollow circles represent node recovered in 2 methods.
+
+Abyssisolibacter fermentans gen. nov. sp. nov.
+
+ing to the manufacturer’s instruction with cells cultivated for
+7 days. Polar lipids were extracted as described by Minnikin
+et al. (1984) and analyzed by 2-dimensional thin-layer chromatography (TLC; Minnikin et al.,1984; Komagata and Suzuki, 1987). To stain the total lipids, phospholipid, aminolipid, glycolipid and complex lipid, molybdophosphoric acid,
+molybdenum blue, ninhydrin, and α-naphthol and sulfuric
+acid were sprayed, respectively. Detailed procedure was described in Yang et al. (2013).
+Results and Discussion
+Phylogenetic analysis
+T
+
+The 16S rRNA gene sequence of strain MCWD3 revealed that
+it was affiliated with the family Clostridiaceae of the order
+Clostridiales. The most closely related strains were SporosaliT
+bacterium faouarense SOL3F37 (92.7% sequence identity;
+Rezgui et al., 2011), Clostridiisalibacter paucivorans 37HS60T
+(92.6%; Liebgott et al., 2008), and Brassicibacter mesophilus
+T
+BM (92.4%; Fang et al., 2012). In the phylogenetic tree con-
+
+349
+T
+
+structed by the neighbor-joining (NJ) method, strain MCWD3
+grouped within the clade containing the genera Sporosalibacterium, Clostridiisalibacter, Brassicibacter, Caloranaerobacter, and Caldisalinibacter (Fig 1). The analysis also indicated that strain MCWD3T was not closely affiliated with any
+other previously described genus.
+Morphology and physiological characteristics
+T
+
+Strain MCWD3 stained Gram-negative and formed thin,
+long rods (0.7 μm × 5-23 μm). Under the microscope, cells
+were motile. The colonies were yellow, circular and smooth.
+No growth was observed in air, indication that it was a strict
+anaerobe. Growth occurred at 15–40°C (optimum 29°C) and
+pH 4.0–10.0 (optimum pH 6.5). NaCl was required at range
+of 1–5% NaCl (w/v, optimum 2%) for growth (Table 1). The
+pasteurization test resulted in successful re-growth even after
+incubation at 100°C for 20 min, indicating thermoresistant
+endospores were formed.
+Yeast extract was required for growth even in the presence
+of other carbon sources. Casamino acids and peptone did
+not stimulate growth. The colorimetric test indicated that
+
+Table 1. Differential characteristics of strain MCWD3 T and phylogenetically closely related species. Strains 1. MCWD3T, 2. Sporosalibacterium faouarense
+T
+T
+T
+SOL3f37 (Rezgui et al., 2011), 3. Brassicibacter mesophilus BM (Fang et al., 2012), 4. Clostridiisalibacter paucivorans 37HS60 (Liebgott et al., 2008), 5.
+T
+T
+Caloranaerobacter azorensis MV1087 (Wery et al., 2001), 6. Caldisalinibacter kiririmariensis L21-TH-D2 (Hania et al., 2015a). All microbes in the table
+are motile. Substrate utilization assays for strains 1 and 2 were from this study. The characteristics of Cab. azorensis MV1087T were obtained from Wery et
+al. (2001) and Hania et al.(2015a). +; positive result, -; negative result, ND; not determined.
+Characteristics
+1
+2
+3
+4
+5
+6
+Cell Morphology
+Cell width
+0.7
+0.5
+0.3–0.6
+0.5
+0.3–0.5
+0.4–0.6
+Cell length
+5.0–23.0
+5.0–10.0
+2.0–6.8
+3.0–8.0
+0.5–2.0
+5.0–10.0
+Gram stain
++
++
++
+Spore formation
++
++
++
+ND
++
+Yeast extract dependence
++
++
++
++
+Growth range (optimum)
+Temperature (°C)
+15–40 (29)
+20–48 (40)
+16–44 (37)
+20–50 (42)
+45–65 (45)
+40–65 (55)
+NaCl (%, w/v)
+1–5 (2)
+0.5–15 (4)
+0–8 (1.5)
+1–10 (5)
+0.65–6.5(2)
+2–15 (5)
+pH
+5.0–9.0 (6.5)
+6.2–8.1 (6.9)
+6.0–9.0 (7.5)
+5.5–8.5 (6.8)
+5.5–9.0 (7.0)
+5.0–9.0 (7.0)
+DNA G+C content (mol%)
+28.8
+30.7
+28.2
+33.0
+27.0
+30.7
+Reduction of sulfur compounds
+Sulfur
+Thiosulfate
+Substrates used
+Casamino acids
++
++
++
+Arginine, Starch, Xylose, Mannitol
++
+Cystein, Serine, Lysine, Succinate
++
+Valine
++
++
+Glutamic acid
++
+Methionine
++
++
+Glycine
++
+Fumarate
++
+Fructose
++
++
++
++
++
+Glucose
++
++
++
++
+Galactose
++
+(+)
+Mannose
++
++
++
+Ribose
++
++
+Glycerol
+ND
+Cellobiose
++
++
+Mannitol
++
++
+Acetate
++
+-
+
+350
+
+Kim et al.
+
+elemental sulfur, sulfate and thiosulfate were not reduced
+by the strain. The nitrate/nitrite reduction assay showed nitrogen compounds were not reduced by strain MCWD3T.
+Fructose, cellobiose, mannose, and methionine stimulated
+growth in the presence of yeast extract, but none of the other
+organic acids, amino acids or carbohydrates tested were stimulatory, which are different characteristics from other closely related species including S. faouarense SOL3f3T (Table 1).
+The HPLC assay confirmed acetate was a fermentation product from the yeast extract, and other organic acids such as
+formate, propionate, and butyrate were not detected.
+These physiological properties distinguished strain MCWD3T
+from other members of this clade. It stains Gram negative
+while C. paucivorans 37HS60T, S. faouarense SOL3f37T and
+Csb. kiririmariensis L21-TH-D2, stain Gram positive. It is
+mesophilic and fails to grow at temperatures > 40°C, distinguishing it from Cab. azorensis MV1087T (Wery et al.,
+2001) and Csb. kiririmariensis L21-TH-D2T (Hania et al.,
+T
+2015a). Unlike S. faouarense SOL3f37 (Rezgui et al., 2011)
+T
+and Csb. kiririmariensis L21-TH-D2 , strain MCWD3T does
+not tolerate high concentrations of NaCl. In addition, the
+T
+pattern of substrates utilized by strain MCWD3 differs from
+that of all the other species.
+
+Chemotaxonomy
+According to the draft genome sequence of strain MCWD3T
+(LOHE00000000.1), the DNA G+C content is 28.8 mol%.
+The predominant fatty acid components (> 5%) are iso-C13:0
+(5.4%), iso-C15:0 (30%), antesio-C15:0 (7.6%), C15:0 (5.0%), isoC15:0 DMA (16.9%), summed feature 5 (C15:0 DMA and/or
+C14:0 3OH, 9.7%), and C16:0 DMA (5.2%) (Table 2). The dominance of the iso-C15:0 and iso-C15:0 DMA are also reported
+for other genera in the clade. The polar lipid profiles of strain
+MCWD3T included diphosphatidylglycerol (DPG), phosphatidylglycerol (PG), phosphatidylethanolamine (PE), and
+an unidentified lipid, two unidentified phospholipids (PL)
+and aminolipids (AL), and five unidentified aminophospholipids (APL) (Supplementary data Fig. S1). In the Cts. pauT
+civorans 37HS60 (Liebgott et al., 2008), PG and PE were
+detected, but DPG was not. The presence of DPG, PG and
+PE is also reported for S. faouarense SOL3F37T (Rezgui et al.,
+T
+2011) and B. mesophilus BM (Fang et al., 2012), but amount
+of DPG appears to be higher than the PG and PE, which is
+different from MCWD3T.
+Taxonomic conclusion
+The morphological, phylogenetic, biochemical, and chemo-
+
+T
+
+T
+
+Table 2. Cellular fatty acid composition (%) of strain MCWD3 and phylogenetically closely related species. Strains 1. MCWD3 , 2. Sporosalibacterium
+T
+T
+T
+T
+faouarense SOL3f37 , 3. Brassicibacter mesophilus BM , 4. Clostridiisalibacter paucivorans 37HS60 , 5. Caloranaerobacter azorensis MV1087 , 6.
+Caldisalinibacter kiririmariensis L21-TH-D2T. Fatty acids patterns of strain MCWD3T and Sporosalibacterium faouarense SOL3f37T are obtained from this
+study and all others are from Hanai et al. (2015b). Fatty acids lower than 1% in all strains were not reported.
+Fatty acids
+1
+2
+3
+4
+5
+6
+Saturated
+2.6
+3.7
+6.1
+16.1
+1.0
+1.0
+C14:0
+C15:0
+5.0
+C16:0
+1.6
+2.1
+1.1
+2.7
+0.8
+4.2
+C18:0
+0.6
+1.1
+4.2
+Saturated & branched
+6.0
+6.7
+1.5
+0.7
+0.7
+iso-C13:0
+iso-C14:0
+1.4
+iso-C15:0
+30.0
+47.3
+41.1
+20.4
+57.5
+49.5
+anteiso-C15:0
+7.6
+5.2
+3.1
+4.3
+3.7
+3.5
+iso-C17:0
+1.5
+3.2
+Acetal/Aldehyde form
+3.9
+2.4
+2.8
+7.4
+C14:0 DMA
+2.4
+C16:0 ALDE
+1.2
+4.7
+1.0
+C16:0 DMA
+5.3
+1.9
+1.6
+9.4
+C18:0 DMA
+0.8
+0.8
+2.4
+iso-C15:0 ALDE
+3.9
+4.9
+4.4
+10.3
+7.2
+3.1
+iso-C15:0 DMA
+21.4
+15.3
+16.9
+12.9
+20.3
+5.2
+ante-C15:0 DMA
+1.3
+1.0
+2.7
+2.1
+0.6
+Unsaturated
+0.8
+1.2
+C16:1 cis9
+C16:1 cis9 DMA
+0.9
+3.8
+1.6
+C17:1 cis11
+Others
+2.4
+1.2
+4.7
+Summed feature 1*
+4.9
+3.1
+Summed feature 4 *
+9.8
+Summed feature 5 *
+2.2
+C17:0 cyclo
+4.4
+2.5
+ECL 17.103
+1.4
+ALDE: aldehyde, DMA: dimethyl acetal, cyclo: cyclopropyl fatty acid, C: cis isomer, iso: iso-branched fatty acid, ante: anteiso-branched fatty acid
+Summed feature 1 =C13:1 cis12 and/or C11:1 2OH, Summed feature 4 =C15:2 and/or C15:1 cis7, Summed feature 5 =C15:0 DMA and/or C14:0 3OH
+
+Abyssisolibacter fermentans gen. nov. sp. nov.
+T
+
+taxonomic analyses indicate that strain MCWD3 is distinct
+from members of other genera in the family Clostridiaceae.
+Thus, we propose that strain MCWD3T is a novel species in
+a new genus with the name Abyssisolibacter fermentans.
+Description of Abyssisolibacter gen. nov.
+Abyssisolibacter (A.bys’si.so.li.bac’ter. L. gen. n. Abyss deep,
+L. n. solum soil, N.L. masc. n. bacter a rod, Abyssisolibacter
+deep-sea sediment (dwelling) bacteria).
+Cells are anaerobic, Gram-stain-negative, mesophilic, thin
+rod-shaped. Yeast extract and NaCl are required for growth.
+Ferment a few carbohydrates and amino acids. The major
+cellular fatty acids are iso-C15:0 and iso-C15:0 DMA and polar
+lipids are diphosphatidylglycerol, phosphatidylglycerol, phosphatidylethanolamine and several unidentified species. The
+DNA G+C content is approx. 29 mol%. Phylogenetic analysis
+suggests that this genus belongs to the family Clostridiaceae.
+The type species is Abyssisolibacter fermentans.
+Description of Abyssisolibacter fermentans sp. nov. fermentans (fer.men’tans. L. part. adj. fermentans fermenting)
+Cells are long thin rods, size of 0.7 × 5.0–23.0 μm. Colonies
+were bright yellow, circular and smooth. The temperature
+for growth is 15–40°C (optimum 29°C), and the pH range
+is 6.0–9.0 (optimum pH 6.5). Requires 1–5% (w/v) NaCl for
+growth, with an optimum at 2.0%. The fermentation product
+from yeast extract broth is acetate. It is heterotrophic, CO2
+was not used as carbon source. Cells are not capable of reducing elemental sulfur, sulfate and thiosulfate. Cells metabolize fructose, mannose, cellobiose and methionine in
+the presence of yeast extract (0.5 g/L). The major fatty acids
+identified were C15:0, iso-C15:0, anteiso-C15:0, C16:0 DMA, isoC15:0 DMA, anteiso-C15:0 DMA, Summed feature 4 (comprised
+with C15:2 and/or C15:1 cis7) and Summed feature 5 (C15:0 DMA
+and/or C14:0 3OH). In addition to the genus description, two
+unknown phospholipids, two unknown aminolipids, and five
+unknown aminophospholipids were present. The type strain,
+T
+T
+MCWD3 (= KCTC 15524 ), was isolated from Ulleung Basin
+sediment in the East Sea, Korea.
+Acknowledgements
+This work was supported by KIOST in-house program
+(PE98413), C1 Gas Refinery Program through the National
+Research Foundation of Korea (NRF) funded by the Ministry
+of Science, ICT & Future Planning (2015M3D3A1A01064884),
+and a grant from Marine Biotechnology Program (PJT200620)
+Funded by Ministry of Oceans and Fisheries, Korea. We
+gratefully acknowledge Dr. Kyung Sook Bae for the analyses
+of fatty acids and polar lipids. We thank for Dr. William B.
+Whitman, Mr. Sung-Hyun Yang for advice and technical
+assistance.
+References
+Balch, W.E., Fox, G.E., Magrum, L.J., Woese, C.R., and Wolfe, R.S.
+1979. Methanogens: reevaluation of a unique biological group.
+
+351
+
+Microbiol. Rev. 43, 260–296.
+Cato, E.P., George, W.L., and Finegold, S.M. 1986. Genus Clostridium Prazmowski 1880, 23AL. pp. 1141-1200. In Sneath, P.H.A.,
+Mair, N.S., Sharpe, M.E., and Holt, J.G. (eds.), Bergey’s Manual
+of Systematic Bacteriology, vol. 2., The Williams & Wilkins Co.,
+Baltimore, Maryland, USA.
+Conn, H.J. and Breed, R.S. 1919. The use of the nitrate-reduction
+test in characterizing bacteria. J. Bacteriol. 4, 267–290.
+Cord-Ruwisch, R. 1985. A quick method for the determination of
+dissolved and precipitated sulfides in cultures of sulfate-reducing bacteria. J. Microbiol. Methods 4, 33–36.
+Da Silva, M.A.C., Cavalett, A., Spinner, A., Rosa, D.C., Jasper, R.B.,
+Quecine, M.C., Bonatelli, M.L., Pizzirani-Kleiner, A., Corcao, G.,
+and de Souza Lima, A.O. 2013. Phylogenetic identification of
+marine bacteria isolated from deep-sea sediments of the eastern
+South Atlantic Ocean. SpringerPlus. 2, 127.
+Fang, M.X., Zhang, W.W., Zhang, Y.Z., Tan, H.Q., Zhang, X.Q., Wu,
+M., and Zhu, X.F. 2012. Brassicibacter mesophilus gen. nov., sp.
+nov., a strictly anaerobic bacterium isolated from food industry
+wastewater. Int. J. Syst. Evol. Microbiol. 62, 3018–3023.
+Hania, W.B., Joseph, M., Fiebig, A., Bunk, B., Klenk, H.P., Fardeau,
+M.L., and Spring, S. 2015a. Caldisalinibacter kiritimatiensis gen.
+nov., sp. nov., a moderately thermohalophilic thiosulfate-reducing
+bacterium from a hypersaline microbial mat. Geomicrobiol. J.
+32, 347–354.
+Hania, W.B., Joseph, M., Schumann, P., Bunk, B., Fiebig, A., Spröer,
+C., Klenk, H.P., Fardeau, M.L., and Spring, S. 2015b. Complete
+genome sequence and description of Salinispira pacifica gen. nov.,
+sp. nov., a novel spirochaete isolated form a hypersaline microbial mat. Stand. Genomic. Sci. 10, 7.
+Hungate, R.E. 1969. Chapter IV. A roll tube method for cultivation
+of strict anaerobes. 1969. Method. Microbiol. Part B. 3, 117–132.
+Jørgensen, B.B. and Boetius, A. 2007. Feast and famine – microbial life in the deep-sea bed. Nat. Rev. Microbiol. 5, 770–781.
+Komagata, K. and Suzuki, K. 1987. Lipid and cell-wall analysis in
+bacterial systematics. Method Microbiol. 19, 161–207.
+Liebgott, P.P., Joseph, M., Fardeau, M.L., Cayol, J.L., Falsen, E.,
+Chamkh, F., Qatibi, A.I., and Labat, M. 2008. Clostridiisalibacter
+paucivorans gen. nov., sp. nov., a novel moderately halophilic
+bacterium isolated from olive mill wastewater. Int. J. Syst. Evol.
+Microbiol. 58, 61–67.
+MacFaddin, J.F. 2000. Nitrate/nitrite reduction tests. pp. 348-362.
+In MacFaddin, J.F. (ed.), Biochemical tests for identification of
+medical bacteria, 3rd ed. Lippincott Williams & Wilkins, Philadelphia, USA.
+Marchesi, J.R., Weightman, A.J., Cragg, B.A., Parkes, J.R., and Fry,
+J.C. 2001. Methanogen and bacterial biodiversity and distribution in deep gas hydrate sediments from the Cascadia Margin as
+revealed by16S rRNA molecular analysis. FEMS Microbiol. Ecol.
+34, 221–228.
+Minnikin, D.E., O’Donnell, A.G., Goodfellow, M., Alderson, G.,
+Athalye, M., Schaal, A., and Parlett, J.H. 1984. An integrated
+procedure for the extraction of bacterial isoprenoid quinones and
+polar lipids. J. Microbiol. Methods 2, 233–241.
+Ogg, C.D. and Patel, B.K. 2009. Thermotalea metallivorans gen.
+nov., sp. nov., a thermophilic, anaerobic bacterium from the Great
+Artesian Basin of Australia aquifer. Int. J. Syst. Evol. Microbiol.
+59, 964–971.
+Polymenakou, P.N., Christos, A., Christakis, C.A., Mandalakis, M.,
+and Oulas, A. 2015. Pyrosequencing analysis of microbial communities reveals dominant cosmopolitan phylotypes in deep-sea
+sediments of the eastern Mediterranean Sea. Res. Microbiol. 166,
+448–457.
+Reed, D.W., Fujita, Y., Delwiche, M.E., Blackwelder, D.B., Sheridan,
+P.P., Uchida, T., and Colwell, F.S. 2002. Microbial communities
+from methane hydrate-bearing deep marine sediments in a Forearc
+basin. Appl. Environ. Microbiol. 68, 3759–3770.
+
+352
+
+Kim et al.
+
+Rezgui, R., Gam, Z.B.A., Hamed, S.B., Fardeau, M.L., Cayol, J.L.,
+Maaroufi, A., and Labat, M. 2011. Sporosalibacterium faouarense
+gen. nov., sp. nov., a moderately halophilic bacterium isolated from
+oil-contaminated soil. Int. J. Syst. Evol. Microbiol. 61, 99–104.
+Sasser, M. 1990. Identification of bacteria by gas chromatography
+of cellular fatty acids. MIDI Technical Note 101. MIDI Inc.,
+Newark, DE, USA.
+Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M., and Kumar, S. 2011. MEGA5: Molecular evolutionary genetics analysis
+using maximum likelihood, evolutionary distance and maximum
+parsimony methods. Mol. Biol. Evol. 28, 2731–2739.
+Teske, A. 2006. Microbial communities of deep marine subsurface
+sediments: molecular and cultivation surveys. Geomicrobiol. J.
+23, 357–368.
+
+Wery, N., Moricet, J.M., Cueff, V., Jean, J., Pignet, P., Lesongeur, F.,
+Cambon-Bonavita, M.A., and Barbier, G. 2001. Caloranaerobacter
+azorensis gen. nov., sp. nov., an anaerobic thermophilic bacterium isolated from a deep-sea hydrothermal vent. Int. J. Syst.
+Evol. Microbiol. 51, 1789–1796.
+Yang, S.H., Seo, H.S., Oh, H.M., Kim, S.J., Lee, J.H, and Kwon, K.K.
+2013. Brumimicrobium mesophilum sp. nov., isolated from a tidal
+flat sediment, and emended descriptions of the genus Brumimicrobium and Brumimicrobium glaciale. Int. J. Syst. Evol. Microbiol.
+63, 1105–1110.
+Zhu, D., Tanabe, S.H., Yang, C., Zhang, W., and Sun, J. 2013. Bacterial
+community composition of south china sea sediments through
+pyrosequencing-based analysis of 16S rRNA Genes. PLoS One
+8, e78501.
+
+
