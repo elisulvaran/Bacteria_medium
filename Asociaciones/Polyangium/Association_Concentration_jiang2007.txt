@@ -1,0 +1,6 @@
+he ground soil was mixed with an extraction buﬀer (100 mM Tris–HCl; 100 mM EDTA; 100 mM sodium phosphate; 1.5 M NaCl; 1% [w/v] CTAB; pH 8.0) containing 1 mg/ml protease K, and was then subjected to three freeze-thaw cycles followed by incubation at 65 C for 2 h 
+ fter hybridization, the membrane was washed twice in 5· SSC, 0.1% (w/v) SDS at room temperature, for 5 min each time, and then washed twice in 1· SSC, 0.1% (w/v) SDS at 50 C, for 15 min each time 
+ fter a complete alignment using clustalX (version 1.83; Thompson et al., 1997), corresponding parts of 16S rRNA gene sequences from cultured and uncultured myxobacteria were used for inferring phylogenetic relation-  547  ships 
+ he bar in (a) is equivalent to two, and in (b) to one nucleotide changes per 100 bp 
+ he bar is equivalent to two nucleotide changes per 100 bp 
+ 

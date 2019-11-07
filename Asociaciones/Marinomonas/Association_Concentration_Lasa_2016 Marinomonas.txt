@@ -1,0 +1,21 @@
+International Journal of Systematic and Evolutionary Microbiology (2016), 66, 3183–3188  DOI 10.1099/ijsem.0.001170  Marinomonas gallaica sp. nov. and Marinomonas atlantica sp. nov., isolated from reared clams (Ruditapes decussatus) guez1 and Jesús L 
+ NA–DNA hybridizations were performed to confirm the taxonomic position and the results were below the recommended threshold for species delimitation, specifically 44.5 % (Cmf 17.2T with M. aquimarina CECT 5080T) and 55 % (Cmf 18.22Twith M. aquimarina CECT 5080T) 
+ he estimated G+C content of the genomic DNA was found to be 45.3 % (Cmf 17.2T) and 44.6 % (Cmf 18.22T) 
+ imilarity between strains Cmf 17.2T and Rd 20.33 was 99.5 %, and between Cmf 17.2T and Cmf 18.22T was 97.9 % 
+ ccording to the LTP database, sequence similarities ranging between 94.5 % and 98.7 % suggest that the microbial strain can be classified as a member of a given genus, whereas higher similarities would be indicative of belonging to a given species (Yarza et al., 2008) 
+ he DNA G+C content was estimated according to the draft genome of strains Cmf 17.2T and Cmf 18.22T, and was found to be 45.3 % and 44.6 % respectively, which are in the range of the genus (i.e., 41–50 %) (Espinosa et al., 2010) 
+ he values obtained using these indexes (Table 1) were below the respective thresholds (95– 96 % ANI and 70 % eDDH) indicating that these strains represent two novel species of the genus 
+ dditionally, OrthoANI (Lee et al., 2015) values showed similarities of 76.26 % between M. aquimarina CECT 5080T and Cmf 17.2T, 76.01 % between M. aquimarina CECT 5080T and Cmf 18.22T and 90.75 % between strains Cmf 17.2T and Cmf 18.22T 
+ esults obtained from DDH experiments between Cmf 17.2T and Cmf 18.22T with M. aquimarina CECT 5080T confirmed their separate status at the species level since the reassociation values were always below the recommended threshold; 44.5 % reassociation value for Cmf 17.2T with M. aquimarina CECT 5080T and 55 % reassociation value for Cmf 18.22T with M. aquimarina CECT 5080T 
+ alt tolerance tests were performed on Basal medium agar [BMA: neopeptone (4 g l 1), yeast extract (1 g l 1) and bacteriological agar (15 g l 1)] supplemented with 0, 0.5, 1, 3, 6, 8 and 10 % NaCl 
+ rowth at different temperatures (4, 20, 25, 30, 37 and 44  C) and pH (4–10) were also determined 
+ ar, 0.005 substitutions per nucleotide position.  phenotypic characteristics were determined using API ZYM strips (bioMerieux) and Biolog GN2 plates, according to the manufacturers’ instructions 
+ urthermore, utilization of additional sugars, alcohols and organic acids as sole carbon source was determined on plates of basal medium agar (Baumann 1981) supplemented with 1 % (w/v) of the corresponding organic compound 
+ egative for hydrolysis of Tween 80, aesculin, starch and gelatin.  Growth occurs in media with 1–10 % NaCl (optimum 3 %) 
+ nalysis of the 16S rRNA gene allowed the identification of the strains as members of the genus Marinomonas, sharing the highest similarity with Marinomonas aquimarina CECT 5080T (97.8 %–98.5 % 16S rRNA gene sequence similarity) 
+ he G+C content of the genome of the type strain is 45.3 % 
+ ll media were supplemented with 1 % NaCl when required 
+ rowth occurs in media with 1–10 % NaCl (optimum 3 %) 
+ ultures were maintained frozen at 80  C in marine broth (MB; Difco) supplemented with 15 % (v/v) glycerol 
+ he pH for growth ranges from pH 5 to pH 10 (optimum pH 8) 
+ 

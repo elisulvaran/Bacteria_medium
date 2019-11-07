@@ -1,0 +1,20 @@
+n the present work, GC–MS and FT-IR results showed that sulfate groups located at C-6 of ␣-l-galactose could be removed by arylsulfatase, and parts of formed l-galactose were converted to 3,6-AG 
+ he isolated agar (10 g) was dissolved in 400 mL of 8.87 mM ethylenediaminetetraacetic acid disodium salt solution and stirred for 4 h at 60 ◦ C 
+ International Journal of Biological Macromolecules 93 (2016) 600–608  Contents lists available at ScienceDirect  International Journal of Biological Macromolecules journal homepage: www.elsevier.com/locate/ijbiomac  Enzymatic desulfation of the red seaweeds agar by Marinomonas arylsulfatase Xueyan Wang a , Delin Duan b , Xiaoting Fu a,∗ a b  College of Food Science and Engineering, Ocean University of China, No. 5 Yushan Road, Qingdao, 266003, China Institute of Oceanology, Chinese Academy of Sciences, Qingdao, 266071, China  a r t i c l e  i n f o  Article history: Received 23 June 2016 Received in revised form 4 August 2016 Accepted 9 August 2016 Available online 10 August 2016 Keyword: Arylsulfatase agarose desulfation sulfated galactan spectroscopy  a b s t r a c t Agar and sulfated galactans were isolated from the red seaweeds Gracilariopsis lemaneiformis and Gelidium amansii 
+ solation of agar and sulfated galactan The dried tissue (20 g) was autoclaved for 2 h at 121 ◦ C in 600 mL of distilled water 
+ he water soluble fraction was separated from the residue by ﬁltration and centrifugation at 12,000 × g for 3 min 
+ fter ﬁltration and concentration of the solution, the sulfated galactan was precipitated with ethanol (1:3, v/v), redissolved in distilled water, dialyzed, and lyophilized 
+ gar powder (5 g) was suspended in 50 mL of 0.1 M Tris-HCl buffer (pH 9.0) and liqueﬁed at 121 ◦ C for 30 min 
+ ulfate content was measured by the turbidimetric method reported by Dodgson and Price [13] with some modiﬁcations after hydrolysis of the samples with 1 M HCl for 4 h at 105 ◦ C 
+ n a typical procedure, 4 mL of barium chloride-gelatin reagent was incubated with 1 mL of K2 SO4 solution at room temperature for 15 min, with substrate concentrations of 0.03, 0.06, 0.12, 0.18, 0.24, and 0.30 mg/mL SO4 2− ion and then measured at 360 nm 
+ he peak molar masses were estimated by gel-permeation chromatography using an Agilent 1260 instrument equipped with a differential refractometer detector in a TSK-gel GM PWXL column (7.8 mm × 30 cm) at 35 ◦ C and a ﬂow rate of 0.5 mL/min 
+ amples (20 mg) were dissolved in 0.5 mL of D2 O and freeze dried twice to replace all exchangeable protons with deuterium. 13 C and 1 H NMR spectra of the polysaccharide were recorded at 35 ◦ C on a ProPulse NMR 500 MHz 
+ tructure of enzymatic treated sulfated galactans Enzymatic desulfation was carried out by incubating sulfated galactan and arylsulfatase in 100 mM Tris-HCl (pH 9.0) buffer at 45 ◦ C for 12 h 
+ eaks at 14.502 and 19.227 min of GEAP and at 16.100 and 16.269 min of GRAP were observed in the gel-permeation chromatogram 
+ he molar masses of the two peaks of GEAP were estimated to be 7 × 104 and 1780 g mol−1 , respectively, and those of GRAP were 5 × 105 and 1870 g mol−1 , respectively 
+ he observed resonances were consistent with an alternating structure of the agaran type in the 13 C NMR spectrum (Figs. 7b and 8b) of both sulfated galactans, whereas the absence of any anomeric signal below 98 ppm indicated the lack of 4-linked d-galactose residues [33] 
+ ccording to the method of Nagasawa [17], desulfation reaction was carried out in 2 mL of DMSO-methanol (9:1, v/v) at 80 ◦ C for 10 h 
+ he anomeric resonance at 4.54 ppm in the ﬁrst spin system gave easily identiﬁable correlations from H-1 to H-2–H-6 of G in the 1 H–1 H COSY spectrum which demonstrated the presence of several spin systems 
+ n addition, the H-2 signal was correlated to H-3 at ı 4.55 ppm 
+ olysaccharide concentration was 1 mg/mL in 0.2 M NaCl solvent 
+ 

@@ -1,0 +1,33 @@
+ougias et al.7 surveyed 80% of all centralized biogas plants in Denmark (i.e., 16 full-scale biogas plants) and reported that foaming incidents occur up to three times per year in most plants and greatly interfere with normal operations 
+ rganic loading rate (OLR) over time in three reactors (RA, RB, and RC) treating food waste (FW) under mesophilic temperature (37 °C ± 1 °C); OLR: organic loading rate (black solid lines) in kg VS·m−3·d−1 
+ A operated stably at 3.0 kgVS·m−3·d−1 during the first 70 days (acclimation and stable stages) (Fig. 2a) 
+ emperature fluctuations (sludge temperature decrease from 37 °C ± 1 °C to 30 °C ± 1 °C) and mixing interruptions were introduced in RA for a 10 h duration on days 71, 72, and 75, and little foam appeared on the reactor surface 
+ ntense foam appeared on day 87 and lasted for 43 days 
+ he total VFA concentration in the foam layer was much higher than that in the liquid layer during the foaming phase (e.g., 14.28 g·L−1 in the upper foam layer and 12.36 g·L−1 in the lower liquid layer on day 95) 
+ igestion efficiency indicators including SMP, SBP, and VSr (a,d,g), and stability indicators including VFA/TA, VFAs (b,e,h), TAN, FAN, and pH (c,f,i) are presented 
+ rtner et al.4 reported VFA accumulation prior to foaming in a slaughterhouse waste digester, and VFA concentration maintained a high level of 12.50 g·L−1 during foaming 
+ owever, VFAs continued to accumulate, and dense foam formed in this reactor during days 220–233 
+ he FW slurry was stored at −18 °C and thawed at 4 °C for 1–2 days prior to use 
+ he pH of the FW was 6.31 ± 0.21, total solids (TS) 28.20 ± 3.41%, volatile solids (VS) 26.61 ± 3.25%, VS to TS ratio (VS/TS) 93.61 ± 1.54%, and carbon content to nitrogen ratio (C/N) 14.73 ± 0.34 
+ he pH was 7.35 ± 0.13, TS 8.28 ± 0.63%, VS 5.54 ± 0.38%, VS/TS 67.05 ± 2.62%, and C/N 10.06 ± 0.43 
+ he pH of inoculum for RB was 7.54 ± 0.11, TS 23.53 ± 0.27%, VS 11.71 ± 0.13%, VS/ TS 49.78 ± 0.14%, and C/N 8.06 ± 0.02 
+ he pH was 7.54 ± 0.13, TS 26.15 ± 0.60%, VS 15.95 ± 0.56%, VS/TS 60.97 ± 0.73%, and C/N 10.02 ± 0.15 
+ A was a CSTR with a total volume of 50 L and working volume of 30 L 
+ emperature fluctuations and stirring interruptions occurred on days 71, 72, and 75, and little foam appeared on the reactor surface 
+ B was a PFR with a total volume of 30 L and working volume of 18 L 
+ he air outlet clogged because of foaming in RB, and the internal pressure continuously increased, causing the reactor cover to crack on day 214 
+ eactor contents were mixed intermittently at 45 rpm (5 min on and 55 min off) with an automatic motorized stirrer 
+ or RB and RC, pH was measured using a pH meter every day before feeding 
+ iogas production was measured using a wet gas flow meter, and biogas composition was determined every 3 days using a BIOGAS 5000 Portable Biogas Analyser (Geotech, UK) 
+ S reduction (VSr) and FAN concentration were calculated according to the method reported in our previous study14 
+ pecific biogas production (SBP) and specific methane production (SMP) represent the volume of biogas or methane produced by adding 1 kg of organic matter based on VS content.  Microbial community analyses 
+ ll PCR reactions were performed in triplicate 20 μL mixtures containing 4 μL of 5 × FastPfu Buffer, 2 μL of 2.5 mM dNTPs, 0.8 μL of each primer (5 μM), 0.4 μL of FastPfu Polymerase (TransGen AP221-02, TransGen Biotech, China), 0.2 μL of BSA, 10 ng of template DNA, and ddH2O to a final volume of 20 μL 
+ CR amplification was performed in GeneAmp 9700 (ABI, USA) under the following conditions: initial denaturation at 95 °C for 3 min, followed by 35 cycles of denaturation (95 °C for 30 s), annealing (55 °C for 30 s), extension (72 °C for 45 s), and a final extension at 72 °C for 10 min 
+ ong-term effect of pH on short-chain fatty acids accumulation and microbial community in sludge fermentation systems 
+ uring the perturbation stage, VFAs rapidly accumulated to 4.65 ± 1.52 (s.d.) g·L−1, which was significantly higher than the concentration during the steady stage (p = 0.00) (Fig. 2b) 
+ uring the foaming stage, VFAs continually accumulated up to 13.45 ± 4.08 (s.d.) g·L−1 with a maximum concentration of 18.78 g·L−1 
+ he VFA build-up reduced the pH to 7.52 ± 0.08 (s.d.), which shifted the TAN equilibrium from predominance of free ammonia to the less inhibitory dissociated form (ammonium ion), leading to a decrease in the inhibition of  SCiEnTifiC RePorts | 7: 13701 | DOI:10.1038/s41598-017-14258-3  3  www.nature.com/scientificreports/  Figure 3 
+ elative abundance is defined as the number of sequences affiliated with that taxon divided by the total number of sequences per sample (%) 
+ o remove residual organic substrate, the sludge was incubated at 37 °C ± 1 °C for two weeks 
+ o enhance foaming, the OLR was increased to 4 gVS·L−1·d−1 on day 83 
+ 

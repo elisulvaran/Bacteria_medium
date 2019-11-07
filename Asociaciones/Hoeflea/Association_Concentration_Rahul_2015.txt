@@ -1,0 +1,29 @@
+itrogen source utilization was tested by replacing ammonium chloride with 7 mM (final concentration) different nitrogen sources (NaNO3, NaNO2, glutamate, aspartate, glutamine and urea) 
+ he water sample with traces of oil was inoculated into 250 ml conical flasks containing 100 ml mineral salts medium [comprising (g l21): KH2PO4 (0.5), MgSO4. 7H2O (0.2), NH4Cl (0.6), CaCl2.2H20 (0.05) and 5 ml ferric citrate solution (0.1 %, w/v)] with 2 % (v/v) dieseloil as a carbon source, and was incubated at 30 8C with shaking at 100 r.p.m. for 3 days 
+ train JC234T was oxidase- and catalase-positive, and grew at 20–35 8C and at pH 7–9 
+ ased on the 16S rRNA gene sequence analysis, strain JC234T belonged to the genus Hoeflea within the family Phyllobacteriaceae, and was closely related to Hoeflea alexandrii AM1V30T (98.1 % 16S rRNA gene sequence similarity), Hoeflea halophila JG120-1T (97.6 %) and other members of the genus Hoeflea (,96.4 %) 
+ train JC234T showed 22¡2 % and 28¡1.5 % DNA–DNA hybridization with Hoeflea alexandrii KCTC 22096T and Hoeflea halophila KCTC 23107T, respectively 
+ he water sample that yielded strain JC234T had a pH of 7, a temperature of 29 8C and a salinity of 1.8 % (w/v) 
+ aCl [0–10 % (w/v) at 0.5 % intervals] and temperature (4, 10, 15, 20, 25, 30, 35, 40, 45 and 50 8C) ranges for growth were examined in nutrient broth and growth was measured turbidometrically at 540 nm in a colorimeter (Systronics) 
+ tilization of organic carbon compounds as carbon and energy sources for organo-heterotrophic growth was tested in a mineral medium as previously described (Lakshmi et al., 2011) replacing sodium pyruvate with specific organic compounds (0.35 % w/v or v/v); growth was measured turbidometrically at 540 nm after 48 h 
+ ellular fatty acids, polar lipids and quinone composition were analysed from cultures that attained 70 % maximal optical density (at their late exponential growth phase) 
+ o determine the diesel-oil degradation capability, strain JC234T was grown in 250 ml conical flasks containing 100 ml mineral salts medium with 5 % (v/v) diesel-oil as a carbon source and was incubated at 30 8C under shaking at 100 r.p.m. for 5 days 
+ he diesel-oil in the supernatant was extracted with 50 ml dichloromethane (DCM) and collected by centrifugation at 10 000 g, 4 8C for 10 min 
+ he initial oven temperature of 60 8C was ramped to 300 8C at 3 8C min21 and held for 5 min 
+ n vivo absorption spectra exhibited maxima at 475, 512, 589, 802, 846 and 877 nm (Fig. 2) indicating the presence of bacteriochlorophyll-a in phototrophically grown cells of strain JC234T 
+ 4).  Absorbance  Strain JC234T grew at pH 7–9 with optimum growth at pH 7, and differs from Hoeflea alexandrii KCTC 22096T and Hoeflea halophila KCTC 23107T which have a pH range of 6–9 
+ aCl was not required for growth of strain JC234T but could be tolerated up to 8 % (w/v), while the type strains of Hoeflea alexandrii and Hoeflea halophila are more and less tolerant, respectively (Table 1) 
+ ll strains are Gram-stain-negative, motile, non-spore-forming rods, positive for catalase activity and show optimal growth at pH 7.0 
+ hole-cell absorption spectra of phototrophically grown cells exhibit maxima at 475, 512, 589, 802, 846 and 877 nm 
+ ome species require NaCl for growth and can tolerate concentrations up to 10–11 % (w/v) and pH of 5–10 
+ he DNA G+C content of members of the genus ranges from 53 to 60 mol % 
+ he pH range for growth was tested using nutrient broth, adjusted to different pH values (pH 4.0–11.0, intervals of 0.5 pH units) by using the appropriate biological buffers as described previously (Subhash et al., 2014) 
+ ne microlitre of sample was injected into a HP-5 column (30 m, internal diameter 0.32 mm, thickness 0.25 mm), with helium as the carrier gas at a constant flow of 1.2 ml min21 
+ he DNA base composition of the type strain is 54.3 mol % 
+ haracteristic Isolation source NaCl tolerance range (optima) for growth (%, w/v) Temperature range (optima) for growth (8C) pH range for growth Oxidase activity Anaerobic phototrophic growth Hydrolysis of: Tween 20 Tween 80 Degradation of diesel-oil Organic substrates utilized for growth Acetate Arabinose Butyrate Citrate Fumarate Galactose Glucose Glutamate Glycerol Pyruvate Sucrose Bacteriochlorophyll-a DNA G+C content (mol%)  1  2  3  Hydrocarbon-contaminated backwaters 0–8 (0–1) 20–35 (30) 7–9 + +  Marine sediment  Dinoflagellate  0–10 (0–2) 10–40 (30) 6–9 2  0–5 (1) 15–30 (25) 6–9 + 2  2 2 +  + + 2  2 2 2  + 2 + + 2 2  2 2  2 + 2 + + 2 2 2  Gemmobacter changlensis reclassifying into Cereibacter changlensis (Suresh et al., 2015) 
+ rowth pH range is pH 7–9 (optimum pH 7) 
+ aCl is not required for growth but can be tolerated up to 8 % (w/v) 
+ he DNA G+C content is 53.1–59.7 mol %.  Chung, E 
+ he DNA G+C content of strain JC234T was 54.3 mol % 
+ ass spectral peaks showing similarity above 700 were accepted, with maximum match equal to 1000 for statistical analysis.  71  The DNA G+C content of strain JC234T was 54.3 mol % (by HPLC) 
+ 

@@ -1,0 +1,14 @@
+igments found after consecutive acetone and methanol extractions followed by HPLC analysis showed the typical profiles for bacteriochlorophyll a (Bchla) with the main peaks at 360, 580, and 776 nm (Fig. 3A) and a carotenoid-like compound with absorption maxima at 470, 494, and 532 nm, respectively (Fig. 3B) 
+ wo flasks containing 960 ml of minimal MPM-m medium were inoculated with 4 ml of a stationary-phase culture and incubated for 4 wk at room temperature 
+ he position of the visible cell layer depended on the substrate concentration in the medium and was closer to the surface at higher substrate concentrations 
+ T71 was routinely grown and maintained either in the oligotrophic MPM-m medium described by ref. 1 (see SI Tables 3–7 for details) or in the complex medium SYPG containing the following compounds per liter of distilled water: 35.0 g of sea salts, 0.5 g of yeast extract, 0.25 g of Trypticase peptone, and 0.1 g of sodium L-glutamate 
+ tilization of substrates was tested in a mineral medium containing (per liter) 35.0 g of sea salts, 0.1 g of NH4Cl, 0.05 g of K2HPO4, and 10 ml of a vitamin solution (see DSMZ medium 141, www.dsmz.de) 
+ chla was identified by retention-time coinjection of a Bchla standard from Rhodopseudomonas sphaeroides (Sigma–Aldrich, Taufkirchen, Germany) and spectrography at 384 nm 
+ -mail: bfuchs@mpi-bremen.de or ramann@mpi-bremen.de.  This article contains supporting information online at www.pnas.org/cgi/content/full/ 0608046104/DC1. © 2007 by The National Academy of Sciences of the USA  PNAS 兩 February 20, 2007 兩 vol. 104 兩 no. 8 兩 2891–2896  MICROBIOLOGY  Edited by James M 
+ ignificant amounts of Bchla were detected only in cultures of KT71 growing with light on the oligotrophic MPM-m (1) medium for an extended time (bacteriochlorophyll concentration of 680 ␮g䡠liter⫺1 after 4 mo) 
+ rom the culture grown with light from a 60-W light bulb, 32.4 mg of cell mass (dry weight) could be harvested, whereas from the parallel culture grown in the dark, only 17.6 mg of cell mass (dry weight) could be obtained 
+ nterestingly, in direct vicinity to the second BLUF sensor (KT71㛭09447), a two component response regulator (KT71㛭09452) could be found, suggesting, that this BLUF sensor forms part of a two component system (SI Table 2) 
+ o determine the exact oxygen concentration for optimal growth Fuchs et al.  of KT71, oxygen profiles were measured in cultures grown in SYPG medium with 0.15% (wt/vol) agar (soft agar) 
+ he discovery of BAC clones with PS operons showing best BLAST hits to Gammaproteobacteria (17) clearly suggested the existence of a second group of AAnPs 
+ ukashin A, Borodovsky M (1998) Nucleic Acids Res 26:1107–1115. 60 
+ 

@@ -1,0 +1,6 @@
+amples collected on day 58 and day 108, called, respectively, pre- and post-AOP, were finally chosen for twodimensional polyacrylamide gel electrophoresis (2D-PAGE): the first dimension was carried out through isoelectric focusing (IEF) by 18-cm IPG strips pH 4–7 (GE Healthcare), the second one through SDS-PAGE 
+ roteomics 15:3409–3417. doi:10.1002/pmic.201500183 Benndorf D, Balcke GU, Harms H, von Bergen M (2007) Functional metaproteome analysis of protein extracts from contaminated soil and groundwater 
+ roteins extracted in different days during steady operation of the system were first investigated by qualitative SDS-PAGE according to Laemmli [10], as shown in Fig. 1 
+ teady-state post-AOP condition by the following days  extracted sample was evaluated through Total Protein Kit, Micro-Lowry (Sigma-Aldrich, Missouri, USA) in order to load the same protein content on each IPG strip 
+ teady-state pre-AOP condition is represented by days 42, 51, 58 
+ 

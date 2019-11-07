@@ -33,7 +33,7 @@ print("-p ../Bacteria -d ../dict.txt -o ../Bacteria_Concentrations")
 
 path=arg.path
 dicty=arg.dicty
-out=out.dicty
+out=arg.out
 
 
 # In[ ]:
@@ -42,18 +42,24 @@ out=out.dicty
 files=[]
 for i in os.listdir(path):
     if i.endswith('.txt'):
-        files.append(i)
-        print(i)
+    	if i.startswith('Association_Medium_'):
+        	files.append(i)
+        	print(i)
+
+
+with open(dicty) as dicty:
+    dicty=dicty.readlines()
+    dicty=[x.replace('\n', '').replace(' ', '') for x in dicty]
 
 
 # In[ ]:
 
 
-for i in files:
+for file in files:
     sents=[]
     as_con=[]
-    with open(os.path.join(path,i), encoding="utf8") as file:
-        for line in file:
+    with open(os.path.join(path,file), encoding="utf8") as ifile:
+        for line in ifile:
             sents.append(line.split(" "))
     
     for sent in sents:
@@ -62,10 +68,12 @@ for i in files:
                 if (i == word):
                     if sent not in as_con:
                         as_con.append(sent)
-        
-    with open(os.path.join(out,"Association_Concentration_"+file), mode="w") as oFile:
+
+
+
+      
+    with open(os.path.join(out,"Association_Concentration_"+file.strip('Association_Medium_')+"t"), mode="w") as oFile:
         for sent in as_con:
             for word in sent:
                 oFile.write("{} ".format(word))
-            oFile.write("\n")
 

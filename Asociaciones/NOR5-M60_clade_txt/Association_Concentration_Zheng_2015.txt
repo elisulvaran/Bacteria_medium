@@ -1,0 +1,9 @@
+oblı́žek M (2011) Role of Photoheterotrophic Bacteria in the Marine Carbon Cycle 
+ igments were separated on a heated (35uC) Phenomenex Luna 3 m C8(2) 100 Å column with binary solvent system (0 min 100% A, 20 min 100% B, 25 min 100% B, 27 min 100% A, 30 min 100% A; A: 70% methanol+28 mM ammonium acetate, B: methanol) and detected by a UV-VIS diode-array detector (Agilent DAD 61315B).  Methods  Supporting Information  Photosynthetic superoperon sequences and phylogenetic analysis  Figure S1 Photosynthetic gene cluster structure and arrangement in other phototrophs 
+ n Roseobacter clade and Sphingomonadales, there are two regulators (ppsR and ppaA) which are sensitive to light intensity and oxygen concentration [24] 
+ ohmer M (1999) The discovery of a mevalonate-independent pathway for isoprenoid biosynthesis in bacteria, algae and higher plants 
+ oguchi T, Hayashi H, Shimada K, Takaichi S, Tasumi M (1992) In vivo states and functions of carotenoids in an aerobic photosynthetic bacterium, Erythrobacter longus 
+ umar S, Tamura K, Nei M (2004) MEGA3: Integrated software for molecular evolutionary genetics analysis and sequence alignment 
+ aidner LA, Kirchman DL (2005) Aerobic anoxygenic photosynthesis genes and operons in uncultured bacteria in the Delaware River 
+ GC/Genome = PGC as % of genome size. doi:10.1371/journal.pone.0025050.t001  PLoS ONE | www.plosone.org  2  September 2011 | Volume 6 | Issue 9 | e25050  Diverse Arrangement of Photosynthetic Gene Cluster  (Table 1) 
+ 

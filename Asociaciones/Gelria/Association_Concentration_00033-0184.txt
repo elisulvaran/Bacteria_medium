@@ -1,0 +1,27 @@
+umarate and propionate utilization by mixed cultures of S. wolinii, Desulfovibrio strain Gll, and M. hungatii JF-1 in media without sulfate Culture0  Propionate  degraded  Substrate conversion and product formation (mmol/liter) Acetate Fumarate formed degraded  Succinate formed  Syntrophobacter + Desulfovibnio Fumarate Propionate Propionate + fumarate  1.0 2.3  7.2 0.7 9.0  18.8 18.4  18.4  10.5  17.6  10.6  15.8 18.9 31.0  18.0  1.7  16.9  2.2  6.8  16.5  10.5  12.4  16.7  4.3  Syntrophobacter + Methanospirillumb Fumarate Propionate Propionate + fumarate  Desulfovibrio, fumarate Desulfovibrio + Methanospirillum, fumarate  The initial concentrations of propionate and fumarate were about 18 mM each 
+ icarbonate (50 mM) was replaced by 30 mM sodium phosphate (pH 7), and the gas phase was N2 instead of N2-CO2 
+  basal bicarbonate-buffered medium contained the following (grams per liter): Na2HPO4 2H20, 0.53; KH2PO4, 0.41; NH4Cl, 0.3; CaCl2- 2H20, 0.11; MgCl2 6H20, 0.10; NaCl, 0.3; NaHCO3, 4.0; and Na2S. 9H20, 0.48 (as well as acid and alkaline trace elements [each, 1 ml/liter] and vitamins [0.2 ml/liter]) 
+ he cultures were incubated for 4 weeks at 37°C. b In this culture, the Desulfovibrio sp. was still present as a contaminant.  propionate-oxidizing culture. (i) The difficult succinate-oxidation step is avoided. (ii) Fumarate could replace methanogens as an apparent electron acceptor in propionate oxidation. (iii) Fumarate in the absence of propionate was fermented to succinate and carbon dioxide 
+ icarbonate was determined by the same method as CO2; culture samples (2.5 ml) were injected into closed 18-ml Hungate tubes, and 2.5 ml of 1 M HCl was added to purge the CO2 from the liquid phase 
+ he vitamin solution had the following composition (gram per liter): biotin, 0.02; niacin, 0.2; pyridoxine, 0.5; riboflavin, 0.1; thiamine, 0.2; cyanocobalamin, 0.1; p-aminobenzoic acid, 0.1; and pantothenic acid, 0.1 
+ edia for the coculture with S. wolinii were supplemented with 0.02% BBL yeast extract (Becton Dickinson, Cockeysville, Md.) and 2.8 g of Na2SO4 per liter, and media for M. hungatii were supplemented with 0.02% BBL  Corresponding author. 1114  VOL. 59, 1993  FUMARATE UTILIZATION BY PROPIONATE-OXIDIZING BACTERIA  1115  TABLE 1 
+ artial H2 pressure = 10-5 atm (1 atm = 101.29 kPa).  b  yeast extract, 0.04% bioTrypticase (bioMerieux, Charbonnieres les Bains, France), and 0.15 g of sodium acetate per liter 
+ outinely, bacteria were cultured at 37°C in 120-ml serum vials with 50 ml of medium and a gas phase of 1.7 atm (172.2 kPa) N2-CO2 or H2-CO2 (80:20, vol/vol) 
+ ith both HPLC and GC the detection limit for compounds was about 0.1 mM 
+ n experiments to study the fate of propionate in the presence of fumarate, media contained 20 mM [3-13C]propionate and 10 mM BrES in the presence or absence of 40 mM fumarate. [3-'3C]propionate and [2,313C]propionate (minimum of 99 atom% 13C) were obtained from Isotec (Miamisburg, Md.) 
+ ubes were inoculated (10%) with the propionate-oxidizing culture and incubated for 2 weeks at 37°C 
+ east extract was fermented by this organism to acetate, isobutyrate, butyrate, and isovalerate (or P-methylbutyrate) in a molar ratio of about 20:2:3:6 
+ ffect of fumarate on propionate oxidation by a mesophilic enrichment culturea Substrate conversion and product formation  (mmol/liter)  Culture' iE .j 10-  Propionate Propionate + BrES Propionate + fumarate Propionate + fumarate + BrES Fumarate  /.  Li  0  0  5  lo  Propionate Acetate Methane Fumarate Succinate degraded formed formed degraded formed  15  20  18.4 0.0 17.6 12.0  19.2 0.7 17.6 12.4  12.3 0.0 4.8 0.0  37.3 35.4  36.9 34.6  36.0  29.9  a Similar results were obtained when L-malate instead of fumarate was used. b The initial concentrations of propionate and fumarate were about 18 and 36 mM, respectively; the BrES concentration was 10 mM 
+ he propionate-oxidizing culture converted propionate in the expected stoichiometry: 24.1 + 1.0 mol of propionate yielded 23 + 1.8 mol of acetate and 17.3 + 0.7 mol of methane 
+ he apparent maximum specific growth rate, estimated from the increase in acetate concentration in time, was between 0.15 and 0.17 day-1 
+ uclear magnetic resonance spectra of culture supernatants of the newly enriched propionate-oxidizing culture incubated with 20 mM [3-13C]propionate, 40 mM fumarate, and 10 mM BrES (A) or incubated with 20 mM [3-'3CJpropionate and 10 mM BrES (B).  40  VOL. 59, 1993  FUMARATE UTILIZATION BY PROPIONATE-OXIDIZING BACTERIA  absence of propionate was degraded as well (Table 2) 
+ ., and M 
+ iffusion of the interspecies electron carriers H2 and formate in methanogenic ecosystems and its implications in the measurement of Km for H2 and formate uptake 
+ ., and L 
+ rotenhuis, and L 
+ rowth rates were estimated by monitoring the optical density at 600 nm or product formation of duplicate bottles 
+ n experiments to demonstrate involvement of the methylmalonyl-CoA pathway, media contained 20 mM [3-13Cjpropionate or 10 mM [2,3-13C]propionate plus 10 mM unlabeled propionate 
+ -Malate was added to the culture at day 9.  ucts 
+ ater experiments showed that the lag phase could be shortened considerably by adding 0.1 mM dithionite to the media, suggesting that a low redox potential is beneficial for growth 
+ able 2 shows that in presence of fumarate less methane was produced per amount of propionate which had been oxidized 
+ 

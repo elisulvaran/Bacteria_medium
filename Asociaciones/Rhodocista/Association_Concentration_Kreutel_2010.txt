@@ -1,0 +1,52 @@
+hen, the his6-Rc-CheW protein was bound to a column containing 50 μl Sepharose 6b (GE Healthcare) charged with Cu(II) ions and pre-equilibrated with buffer I (20 mM sodium phosphate pH 7.7, 200 mM NaCl, 50 mM imidazole pH 8.0) 
+ fter 30 minutes at room temperature, the unbound proteins were removed by washing the column five times with 500 μl buffer I followed by an elution with 1.5 ml buffer II (20 mM sodium phosphate pH 7.7, 200 mM NaCl, 500 mM imidazole pH 8.0) 
+ he absorption maximum of a prototypical cinnamic acid chromophore in a Pyp light sensor is at about 450 nm [40], whereas the phytochrome-linked biliverdin absorbs red light, suggesting that the latter could function as an attractant sensor 
+ hemotaxis assay using a chemotactic chamber  2 ml minimal medium A (MMA) [56] containing an amino acid mixture (threonine, leucine, histidine, methionine), vitamin B1 (final concentration 10 μg/ml each), 200 μg/ml ampicillin and 0.2% fructose were inoculated with an overnight culture of E. coli MM500 or cells harbouring pBAD-Pph, pBAD-PphH670A, pBAD-KdpE or pBAD18, respectively 
+ ngelmann and also Manten [8] found that R. rubrum cells accumulated in the most intense area of light gradients between wavelengths 800 and 900 nm 
+ n solid media, the phototactic colonies move towards longwave light and away from light with wavelengths less than 650 nm [10] 
+ B swarm agar plates, containing either arabinose or fructose were inoculated with the respective cells, incubated for 6 hours at 37°C and the swarm diameters were compared (Figure 2B) 
+ MC Microbiology 2010, 10:281 http://www.biomedcentral.com/1471-2180/10/281  A  Page 4 of 15  5 6  3 4  1 2 Ppr  Pph  B  Pph H670A  MM500 + pBAD-Ppr  MM500 + pBAD-Pph  MM500 + pBAD-Pph H670A  MM500  MM500 + pBAD  MM500 + pBAD-KdpE  0.2 % arabinose  0.2 % fructose  0.2 % arabinose  0.2 % fructose Figure 2 Chemotaxis of E. coli is inhibited by the expression of Ppr or Pph. (A) The chemotactic wild type strain E. coli MM500 was transformed with the plasmids pBAD-Ppr (lanes 1 and 2), pBAD-Pph (lanes 3 and 4) and pBAD-Pph H670A (lanes 5 and 6) 
+ ells were grown in TB medium to an OD600 = 0.5, 0.2% fructose (lanes 1, 3 and 5) or 0.2% arabinose (lanes 2, 4 and 6) was added, and growth was continued for 3 hours 
+ he protein expression profiles (inlet) were analysed at 10 min (lanes 1, 2), 40 min (lanes 3, 4) and 60 min (lanes 5, 6) after induction 
+ MC Microbiology 2010, 10:281 http://www.biomedcentral.com/1471-2180/10/281  Page 6 of 15  - CheW  A  1  2  3  + CheW 4  5  6  35 kDa  Pph  co-elution rate  13%  0%  B 1 mM  10 mM  20 mM  20mM + apyrase Pph  13%  16%  24 %  5%  Figure 4 Interaction between Pph and the chemotactic protein Rc-CheW. (A) The binding of the histidine kinase domain Pph and CheW was analyzed in pull-down assays 
+ he co-elution rate was calculated and is indicated in % as bound Pph protein.  then bound to the Cu Sepharose column 
+ ncreasing concentrations of purified Rc-CheW were added and the binding was recorded during 30 minutes 
+ he amount of bound Rc-CheW and the fractional saturations ( p ) were calculated for each experiment and the data were displayed in a plot against the added Rc-CheW concentration (Figure 5) 
+  hyperbolic binding curve was revealed and the dissociation constant was calculated to Kd = 0.13 ± 0.03 μM 
+ fter 30 minutes of incubation the free protein was removed and the bound Rc-CheW was calculated 
+ ecently, Cusanovich and co-workers showed that the holo-Ppr of R. centenaria has absorption maxima at 425 nm (Pyp), 400, 642 and 701 nm (phytochrome) [36] corresponding to the typical absorption spectrum of Pyp [40] and phytochromes [41] 
+ he interaction of Pph and Rc-CheW was also observed in vitro with purified components showing a strong affinity with a KD of about 130 nM (Figure 5) 
+ n contrast to the trimeric Tsr-CheA-CheW complex that is formed in E. coli with an affinity of about 3 μM [16] we observed that the complex formation of Pph and RcCheW is clearly ATP-dependent (Figure 4B) 
+ or E. coli, antibiotics were added at final concentrations of 200 μg/ml ampicillin, 10-50 μg/ml kanamycin and 5 μg/ml gentamycin and for R. centenaria 5 μg/ml gentamycin, 10 μg/ ml kanamycin 
+ he chemotactic assays were performed as follows. 300 μl of the cell suspension were filled in each drilling of the chamber and a capillary containing either 2 μl 1 mM aspartate or 2 μl H 2 O as a control was placed into the channel between the two cylindrical compartments 
+ herefore, a low CI indicates an undisturbed chemotactic response whereas a high CI reflects an inhibition of the E. coli chemotactic system.  Page 12 of 15  Expression and purification of Pph protein from inclusion bodies  E. coli strain C41 [52] harbouring the plasmid pET16bPph were grown at 37°C in 1 l LB medium containing 200 μg/ml ampicillin 
+ hen cells reached the midlogarithmic phase, IPTG was added at a final concentration of 1 mM and the cells were grown for an additional 4 hours at 37°C 
+ he resulting pellets were resuspended in 100 mM Tris-HCl pH 8.0, 150 mM NaCl (buffer W) and lysed by a French Press 
+ o the filtered extract 10 mM imidazole was added and applied to a Sepharose 6b (GE Healthcare) column precharged with Cu(II) ions 
+ nbound proteins were removed by washing the column with 15 column volumes of buffer W containing 0.5% N-lauroylsarcosine and 10 mM imidazole 
+ he Pph protein containing fractions were pooled, diluted 1:40 with buffer W (final detergent concentration = 0.01%) and applied to a streptactin-sepharose column (IBA, Göttingen, Germany) to remove contaminating proteins 
+ he cells were incubated for an additional 4 hours and harvested by centrifugation 
+ he pellet was resuspended in TBS (50 mM Tris-HCl pH 7.4, 150 mM NaCl) and lysed by a French Press 
+ ell debris was removed by centrifugation and a final concentration of 10 mM imidazole was added 
+ his crude extract was applied to a Cu(II)-charged Sepharose 6b column and unbound proteins were washed out with 10 column volumes of TBS + 10 mM imidazole 
+ he protein was eluted with a linear gradient from 10 to 500 mM imidazole and fractions containing Rc-CheW were dialyzed against TBS-buffer 
+ fter conjugation, about 109 T7 phages were added, and the mixture was incubated for 30 minutes at 37°C to eliminate remaining E. coli cells 
+ he cells were grown under anaerobic and illuminated conditions for 96 h and harvested by centrifugation, resuspended in 100 mM Tris pH 8.0, 150 mM NaCl (buffer W) and lysed by a French Press 
+ he unbound proteins were removed by extensively washing the column with buffer W and the bound proteins were eluted with buffer W containing 2.5 mM desthiobiotin 
+ etermination of the dissociation constant of Pph and Rc-CheW by resonant mirror spectroscopy  The Pph protein was purified from inclusion bodies as described above and the aminosilane cuvette was activated as described by the manufacturer (Iasys, Biosensors). 200 μl of the purified Pph protein (50 μg/ml) was added to the activated cuvette and the immobilization was recorded for 30 minutes 
+ fter 30 minutes of incubation the free Rc-CheW was washed out and the amount of bound Rc-CheW was determined for each experiment 
+ he fractional saturation was p calculated and depicted against the amount of the added Rc-CheW concentration 
+ ull-down assays  50 μg of the purified his6-Rc-CheW protein was mixed with 25 μl of the in vitro translated Pph protein and 25 μl Rc-CheAY when indicated 
+ hen the cells were harvested by centrifugation and resuspended in 20 mM Tris pH 7.4, 40 mM NaCl, 20% glycerol 
+ he number of cells entering a capillary containing the attractant aspartate (1 mM) was determined after 30 min of incubation 
+ o avoid unspecific binding of Pph to the Cu Sepharose, a buffer containing 50 mM imidazole was used 
+ o develop chemotactic rings the plates were incubated for 6 hours at 37°C.  Kreutel et al 
+ MC Microbiology 2010, 10:281 http://www.biomedcentral.com/1471-2180/10/281  A  Page 5 of 15  0.75 0.70  cfu H2O / cfu Asp  0.65 0.60 0.55 0.50 0.45 0.40 0.35 0.30 0.25  Pph  pBAD  B  0.75  1 12  3  4  5  Pph H680A  6  0.70  cfu H20 / cfu Asp  0.65  Pph  0.60 0.55 0.50 0.45 0.40 0.35 0.30 0.25 0.20 0  10  20  40  60  incubation time / min Figure 3 E. coli cells expressing the Pph protein are unable to respond to aspartate. (A) The chemotactic response to aspartate of E. coli MM500 cells expressing the various Pph-derived proteins was investigated with a chemotactic chamber 
+ MC Microbiology 2010, 10:281 http://www.biomedcentral.com/1471-2180/10/281  p  Page 7 of 15  1.0 0.9 0.8 0.7 0.6  p  0.5  0.8  0.4  0.6  0.3  0.4  0.2  0.2 1  0.1  2 3 4 5 p /[CheW] μM  0.0 0  100  200  300  400  500  [CheW] / nM Figure 5 Binding of the histidine kinase domain Pph to Rc-CheW 
+ his plasmid was used as a template to insert the puc promoter via a second PCR 
+ fter washing the column with five column volumes buffer W + 0.01% N-lauroylsarcosine, the protein was eluted with buffer W + 0.01% N-lauroylsarcosine containing 2.5 mM desthiobiotin 
+ he cells were grown to a cell density of 2 × 108 cells per ml at 37°C, then IPTG was added to a final concentration of 1 mM 
+ ight with a wavelength of above 650 nm is attractive, whereas light with less than 650 nm acts as a repellent [10] 
+ he bound protein was eluted by a linear gradient up to 500 mM imidazole in buffer W + 0.5% N-lauroylsarcosine 
+ enick UK, Borgstahl GE, Ng K, Ren Z, Pradervand C, Burke PM, Srajer V, Teng TY, Schildkamp W, McRee DE, Moffat K, Getzoff ED: Structure of a protein photocycle intermediate by millisecond time-resolved crystallography 
+ 

@@ -1,0 +1,2 @@
+enomic DNA was extracted from a culture growing to an optical density at 600 nm (OD600) of ⬇1 in ZoBell medium (12) using the E.Z.N.A. tissue DNA kit (Omega Bio-Tek, Norcross, GA, USA), and a paired-end sequencing library with inserts of 450 bp was prepared 
+ 

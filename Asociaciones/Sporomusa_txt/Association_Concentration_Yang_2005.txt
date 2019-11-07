@@ -1,0 +1,28 @@
+rganic acid concentrations were determined with a DX-320 ion chromatography (IC) system, using 100 mL liquid samples 
+ els were stained for 30 min with a 1:10,000 dilution of GelStars nucleic acid stain (Bio Whittaker, Denmark) and analyzed using the Gel Doc 2000 system (BioRad) and QuantityOne software (BioRad). 2.7 
+ t the start of the experiment, 60 mL of the chemostat culture was added to each bottle anaerobically by gas purging with an 80% N2/20% CO2 mixture during the transfer 
+  basal medium (Yang and McCarty, 1998) supplemented with 1.7 mM sodium benzoate, 20 mg/L yeast extract, and 0.98 mM PCE was added to the chemostat using a syringe pump at a rate of 50 mL/day, resulting in a 38day retention time 
+ hlorinated ethenes, ethene, methane, and acetate were measured every 5–7 days to monitor the physiological changes of the cultures 
+ nalytical methods PCE, TCE, cDCE, VC, ethene, and methane were quantiﬁed by a Fisons HRGC Mega 2 Series gas chromatography (GC) (Fisons, Milan, Italy), using 250 mL headspace samples 
+ ang et al. / Water Research 39 (2005) 3954–3966  KOH eluent gradient was used: 0–7 min, 1 mM KOH; 7–25 min, 1–25 mM KOH; 25–28 min, 25–60 mM KOH; 28–28.1 min, 60–1 mM KOH; and 28.1–32 min, 1 mM KOH 
+ NA extraction From each subculture 10 mL of sample was transferred with sterile syringe into 15 mL polypropylene tubes and immediately centrifuged at 4500g for 10 min 
+ fter discarding the supernatant, the cell pellet was resuspended in 1 mL DNA extraction buffer (50 mM NaCl, 50 mM EDTA, 50 mM Tris, 5% sodium dodecyl sulfate; pH 8) and DNA was extracted and puriﬁed according to the method of Sigler and Zeyer (Sigler and Zeyer, 2002) 
+ he PCR cocktail contained 0.2 mM of each primer, 0.2 mM of each deoxynucleotide (Invitrogen, Basel, Switzerland), 2 mM MgCl2, 1.8 mg mL1 bovine serum albumin (Sigma, Buchs, Switzerland), 1 U of Taq polymerase (Invitrogen), 1 mL of DNA extract, and 1  PCR reaction buffer in a ﬁnal volume of 50 mL 
+ fter initial denaturation at 95 1C for 5 min, 35 cycles of denaturation at 94 1C for 30 s, primer annealing at 55 1C for 45 s and extension at 72 1C for 45 s was performed followed by a ﬁnal extension step at 72 1C for 5 min 
+ lectrophoresis was performed in 1  TAE buffer (0.04 M Tris base, 0.02 M sodium acetate, and 1 mM EDTA; pH 7.4) at 60 1C and 75 V for 15 h 
+ fter incubation for 3 h at 421C, 2 mL of the solution containing the eluted DNA was used for PCR and DGGE analysis described above 
+ he optimal hybridization stringency of Dsf440 and Dsf475 was determined with the acetate/PCE subculture by increasing the formamide concentration in the hybridization buffer in increments of 5% at a constant hybridization temperature of 42 1C 
+ ang et al. / Water Research 39 (2005) 3954–3966  3958  Approximately 10 mL of each subculture sample was immediately ﬁxed in 4% paraformaldehyde/phosphatebuffered saline (PBS; 0.13 M NaCl, 7 mM Na2HPO4, and 3 mM NaH2PO4, pH 7.2) at 0 1C for 12 h, washed twice in PBS and subsequently stored in 50% ethanol in PBS at 20 1C until further analysis (Zarda et al., 1998) 
+ ixed samples were applied to eight-well, teﬂon-coated slides (Erie Scientiﬁc Co., Portsmouth, NH), air-dried, and dehydrated in an ethanol series (50%, 80% and 96%) for 3 min each 
+  mixture of 1 mL probe (25–30 ng/mL), 9 mL hybridization buffer (0.9 M NaCl, 20 mM TrisHCl, 5 mM EDTA, 0.01% SDS (pH 7.2)), and a speciﬁc amount of formamide depending on the probe used (Table 1) was applied to each well, followed by incubation for 2 h in a humid chamber at 42 1C 
+ he slides were washed in pre-warmed washing buffer for 15 min at 48 1C, then rinsed with deionized water, and air-dried 
+ he washing buffer contained 20 mM TrisHCl (pH 7.2), 10 mM EDTA, 0.01% SDS, and 636 or 112 mM NaCl (when 5% or 30% formamide was used during hybridization, respectively) 
+ fter incubation for 3 min at room temperature in the dark, the slides were rinsed with deionized water and air-dried 
+ ffect of PCR template concentration on the composition and distribution of total community 16S rDNA clone libraries 
+ n contrast, the second approach may provide a more comprehensive understanding of the microbial community structure including identiﬁcation of unknown organisms from environmental samples 
+ very day 50 mL of liquid was removed to bring the liquid volume back to 1.9 L 
+ fter about four weeks of incubation when 80% of the chlorinated ethenes was degraded (in terms of total chlorine removal) in the subcultures, these cultures were transferred (50% v/v) into the fresh basal medium 
+ orption of chlorinated compounds by the rubber stoppers was less than 5% after the ﬁrst few days so that good mass balances could be maintained throughout the studies 
+ hen probing for Desulfitobacterium species, which belong to the grampositive bacteria, a pretreatment procedure with lysozyme (400 units/mL for 5 min at 0 1C) was included before hybridization to increase the permeability of these cells (Meier et al., 1999) 
+ fter hybridization, 20 mL of DNA intercalating ﬂuorescent dye 40 ,6-diamidino-2-phenylindole (DAPI, Sigma, Buchs, Switzerland) (1 ng/mL) was added to each well 
+ 
